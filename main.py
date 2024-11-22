@@ -2,7 +2,6 @@ import json
 import xml.etree.ElementTree as ET
 import xmltodict
 import requests
-import requests
 # Example usage
 if __name__ == "__main__":
     # xml_file_path = 'class.xml'
