@@ -13,8 +13,9 @@ if __name__ == "__main__":
         all_links = [item["link"] for item in all_items]
 
     # filter by date
+    # beijing_time = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=8)))
+    # beijing_time = datetime.now().replace(tzinfo=pytz.timezone("Asia/Shanghai"))
     beijing_time = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=8)))
-    beijing_time = datetime.now().replace(tzinfo=pytz.timezone("Asia/Shanghai"))
     print(f"Current Beijing time: {beijing_time}")
     new_items = {1: [], 7: [], 30: []}
     for item in all_items:
