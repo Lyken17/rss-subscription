@@ -16,6 +16,8 @@ permissions:
 jobs:
     build:
         runs-on: ubuntu-latest
+        env:
+            SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
 
         steps:
             - uses: actions/checkout@v4

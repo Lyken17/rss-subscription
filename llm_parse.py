@@ -3,7 +3,7 @@ import os
 import json
 
 api_key=os.environ.get('SILICONFLOW_API_KEY')
-print(vars(os.environ))
+# print(vars(os.environ))
 assert api_key is not None, "Please set the SILICONFLOW_API_KEY environment"
 
 client = OpenAI(
