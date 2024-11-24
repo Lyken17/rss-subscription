@@ -8,8 +8,6 @@ repos:
           - id: mixed-line-ending
             name: (Common) Fix mixed line ending
             args: [--fix=lf]
-          - id: end-of-file-fixer
-            name: (Common) Remove extra EOF newlines
           - id: check-merge-conflict
             name: (Common) Check for merge conflicts
           - id: requirements-txt-fixer
@@ -21,10 +19,7 @@ repos:
             name: (Python) Check for debugger imports
           - id: check-json
             name: (JSON) Check syntax
-          - id: check-yaml
-            name: (YAML) Check syntax
-          - id: check-toml
-            name: (TOML) Check syntax
+          
     - repo: https://github.com/jumanjihouse/pre-commit-hook-yamlfmt
       rev: 0.2.1 # or other specific tag
       hooks:
