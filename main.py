@@ -8,27 +8,9 @@ import requests
 import xmltodict
 
 if __name__ == "__main__":
-    out = xmltodict.parse(open("rss/mikan-today.xml", encoding="utf-8").read())
-    # add all items
     with open("rss/all_items.json", encoding="utf-8") as file:
         all_items = json.load(file)
         all_links = [item["link"] for item in all_items]
-    new_items = []
-    items = out["rss"]["channel"]["item"]
-    count = 0
-    for item in items:
-        link = item["link"]
-        if link not in all_links:
-            all_items.append(item)
-            new_items.append(item)
-            print(f"{link=} added")
-            count += 1
-
-    # if count == 0:
-    #     exit(-1)
-    with open("rss/all_items.json", "w", encoding="utf-8") as file:
-        json.dump(all_items, file, indent=2, ensure_ascii=False)
-    print(f"Added {count} new items")
 
     # filter by date
     beijing_time = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=8)))
@@ -52,6 +34,7 @@ if __name__ == "__main__":
         out["rss"]["channel"]["title"] = f"mikan-recent-{k}-days"
         out["rss"]["channel"]["description"] = f"mikan-recent-{k}-days"
         out["rss"]["channel"]["item"] = items
+        print(f"mikan-recent-{k}-days: {len(items)}")
         xmltodict.unparse(
             out,
             output=open(f"rss/mikan-recent-{k}.xml", mode="w", encoding="utf-8"),
@@ -66,6 +49,7 @@ if __name__ == "__main__":
         out["rss"]["channel"]["title"] = f"lolihouse-recent-{k}-days"
         out["rss"]["channel"]["description"] = f"lolihouse-recent-{k}-days"
         out["rss"]["channel"]["item"] = lolihouse_items
+        print(f"lolihouse-recent-{k}-days: {len(lolihouse_items)}")
         xmltodict.unparse(
             out,
             output=open(f"rss/lolihouse-recent-{k}.xml", mode="w", encoding="utf-8"),
