@@ -3072,5 +3072,34 @@
       "Size": "1.1GB",
       "Extention": "BDRip"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[TOC]地。-关于地球的运动-[09][1080P][AVC AAC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/c5125d3243fd0b8957a5bb4f23dd28da31df9d17",
+    "title": "[TOC]地。-关于地球的运动-[09][1080P][AVC AAC][CHT][MP4]",
+    "description": "[TOC]地。-关于地球的运动-[09][1080P][AVC AAC][CHT][MP4][755.25 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c5125d3243fd0b8957a5bb4f23dd28da31df9d17",
+      "contentLength": "791937024",
+      "pubDate": "2024-11-25T06:47:37.282"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "791937024",
+      "@url": "https://mikanani.me/Download/20241125/c5125d3243fd0b8957a5bb4f23dd28da31df9d17.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "地。-关于地球的运动-",
+      "Fansub": "TOC",
+      "Season": "1",
+      "Episode": "9",
+      "Resolution": "1080P",
+      "Size": "755.25 MB",
+      "Extension": "MP4"
+    }
   }
 ]
