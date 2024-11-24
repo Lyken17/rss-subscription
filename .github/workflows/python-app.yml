@@ -18,6 +18,7 @@ jobs:
         runs-on: ubuntu-latest
         env:
             SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+            GITLAB_KEY: ${{ secrets.GITLAB_KEY }}
 
         steps:
             - uses: actions/checkout@v4
@@ -47,3 +48,8 @@ jobs:
                   git add .
                   git commit -m "Automated commit by GitHub Actions"
                   git push
+            - name: Commit changes
+              if: always()
+              run: |
+                  git remote add gitee https://ligeng-zhu:${{ secrets.GITLAB_KEY }}@gitee.com/ligeng-zhu/rss-subscription
+                  git push gitee main -f
