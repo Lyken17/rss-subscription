@@ -51,6 +51,6 @@ jobs:
             - name: Commit changes
               if: always()
               run: |
-                  git remote add gitee https://ligeng-zhu:${{ secrets.GITLAB_KEY }}@gitee.com/ligeng-zhu/rss-subscription
-                  git fetch --unshallow gitee
-                  git push gitee main -f
+                  # git remote add gitee https://ligeng-zhu:${{ secrets.GITLAB_KEY }}@gitee.com/ligeng-zhu/rss-subscription
+                  git remote set-url origin https://${{ secrets.GITLAB_KEY }}@gitee.com/ligeng-zhu/rss-subscription
+                  git push -f
