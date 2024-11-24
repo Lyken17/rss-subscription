@@ -17,10 +17,10 @@ def llm_parse_desc(
 ):
     content = f'''Below is a torrent title for Japanese anime. Please parse and extract the following information, return in json format
     * Title: it can contains numbers, Japanese, Chinese and English characters
-    * Fansub: the group name of Fansub, usually enclosed in square brackets, return the value without brackets
+    * Fansub: the group name of Fansub, usually enclosed in square brackets at the beginning of the title, like [ANi] [LoliHouse], return the value without brackets
     * Season: usually a number like S01, S02, set to 1 if not available
-    * Episode: usually a number, set to 01 if not available
-    * Resolution: the resolution of the bangumi, numbers like 1080P, 720P, 480P
+    * Episode: usually a number, set to 1 if not available
+    * Resolution: the resolution of the bangumi, numbers followed by a 'P' like 1080P, 720P, 480P
     * Size: the size of the torrent file, usually enclosed in square brackets, like [592.8 MB] or [1.2 GB], return the value without brackets
     * Extentsion: file extension of the torrent file, usually enclosed in square brackets, such as [MP4], [WebRip], return the value without brackets
 
