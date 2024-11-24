@@ -7,18 +7,8 @@ import pytz
 import requests
 import xmltodict
 
-# Example usage
 if __name__ == "__main__":
-    # xml_file_path = 'class.xml'
-    url = "https://mikanani.me/RSS/Classic"
-    response = requests.get(url)
-    with open("rss/mikan-today.xml", "wb") as file:
-        file.write(response.content)
     out = xmltodict.parse(open("rss/mikan-today.xml", encoding="utf-8").read())
-    xmltodict.unparse(
-        out, output=open("rss/mikan-today.xml", mode="w", encoding="utf-8"), pretty=True
-    )
-
     # add all items
     with open("rss/all_items.json", encoding="utf-8") as file:
         all_items = json.load(file)
@@ -33,9 +23,11 @@ if __name__ == "__main__":
             new_items.append(item)
             print(f"{link=} added")
             count += 1
-    if count > 0:
-        with open("rss/all_items.json", "w", encoding="utf-8") as file:
-            json.dump(all_items, file, indent=2, ensure_ascii=False)
+
+    if count == 0:
+        exit(-1)
+    with open("rss/all_items.json", "w", encoding="utf-8") as file:
+        json.dump(all_items, file, indent=2, ensure_ascii=False)
     print(f"Added {count} new items")
 
     # filter by date

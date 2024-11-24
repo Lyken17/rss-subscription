@@ -36,7 +36,8 @@ jobs:
                   flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
             - name: Run python main.py
               run: |
-                  python main.py
+                  # python main.py
+                  bash entry.sh
             - name: Commit changes
               run: |
                   git config --global user.name "GitHub Actions"
