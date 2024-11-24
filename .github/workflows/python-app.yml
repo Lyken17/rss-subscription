@@ -49,6 +49,7 @@ jobs:
                   git commit -m "Automated commit by GitHub Actions"
                   git push
             - name: Push to Gitee
+              if: always()
               env:
                   GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
               run: |
