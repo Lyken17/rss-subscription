@@ -2,7 +2,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Python application
+name: RSS Subscription
 
 on:
     push:
@@ -48,9 +48,9 @@ jobs:
                   git add .
                   git commit -m "Automated commit by GitHub Actions"
                   git push
-            - name: Commit changes
-              if: always()
+            - name: Push to Gitee
+              env:
+                  GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
               run: |
-                  # git remote add gitee https://ligeng-zhu:${{ secrets.GITLAB_KEY }}@gitee.com/ligeng-zhu/rss-subscription
-                  git remote set-url origin https://${{ secrets.GITLAB_KEY }}@gitee.com/ligeng-zhu/rss-subscription
-                  git push -f
+                  git remote add gitee https://ligeng-zhu:${GITEE_TOKEN}@gitee.com/ligeng-zhu/rss-subscription.git
+                  git push gitee main
