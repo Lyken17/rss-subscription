@@ -54,4 +54,5 @@ jobs:
                   GITEE_TOKEN: ${{ secrets.GITLAB_KEY }}
               run: |
                   git remote add gitee https://ligeng-zhu:${GITEE_TOKEN}@gitee.com/ligeng-zhu/rss-subscription.git
+                  git pull gitee main --merge
                   git push gitee main -f
