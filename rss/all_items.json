@@ -2985,5 +2985,92 @@
       "Size": "473.2MB",
       "Extension": "MP4+ASS"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][繁日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/934ab61fc88db51d83ad9888bea9583666f3af1e",
+    "title": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][繁日内嵌]",
+    "description": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][繁日内嵌][851.3MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/934ab61fc88db51d83ad9888bea9583666f3af1e",
+      "contentLength": "892652736",
+      "pubDate": "2024-11-25T04:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "892652736",
+      "@url": "https://mikanani.me/Download/20241125/934ab61fc88db51d83ad9888bea9583666f3af1e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04",
+      "Fansub": "拨雪寻春",
+      "Season": 1,
+      "Episode": 4,
+      "Resolution": "1080p",
+      "Size": "851.3MB",
+      "Extension": "BDRip"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][简日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3c0232d6aa00ec89f1865cf2a6348c50a179c53c",
+    "title": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][简日内嵌]",
+    "description": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][简日内嵌][850.7MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3c0232d6aa00ec89f1865cf2a6348c50a179c53c",
+      "contentLength": "892023616",
+      "pubDate": "2024-11-25T04:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "892023616",
+      "@url": "https://mikanani.me/Download/20241125/3c0232d6aa00ec89f1865cf2a6348c50a179c53c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04",
+      "Fansub": "拨雪寻春",
+      "Season": 1,
+      "Episode": 4,
+      "Resolution": "1080p",
+      "Size": "850.7MB",
+      "Extension": "BDRip"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][简繁日内封]"
+    },
+    "link": "https://mikanani.me/Home/Episode/5ddacb7990bc6b3c850dc1368108d2f3f33ec197",
+    "title": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][简繁日内封]",
+    "description": "[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04 [BDRip][HEVC-10bit 1080p][简繁日内封][1.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5ddacb7990bc6b3c850dc1368108d2f3f33ec197",
+      "contentLength": "1181116032",
+      "pubDate": "2024-11-25T04:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1181116032",
+      "@url": "https://mikanani.me/Download/20241125/5ddacb7990bc6b3c850dc1368108d2f3f33ec197.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 04",
+      "Fansub": "❀拨雪寻春❀",
+      "Season": "1",
+      "Episode": "4",
+      "Resolution": "1080p",
+      "Size": "1.1GB",
+      "Extention": "BDRip"
+    }
   }
 ]
