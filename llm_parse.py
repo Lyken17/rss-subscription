@@ -42,10 +42,12 @@ def llm_parse_desc(
     res = response.choices[0].message.content
     try:
         r = json.loads(res)
-        if isinstance(r, dict):
-            return r
-        else:
+        if not isinstance(r, dict):
             return None
+        new_r = {}
+        for k, v in r.items():
+            new_r[k.strip()] = v
+        return new_r
     except Exception as e:
         return None
             
@@ -53,7 +55,7 @@ if __name__ == "__main__":
     res = llm_parse_desc()
     # model = "deepseek-ai/DeepSeek-V2-Chat"
     model = "Qwen/Qwen2.5-7B-Instruct"
-    parsed_key = f"parsed_{model}"
+    parsed_key = f"parsed_{model.replace('/', '--')}"
     
     with open("rss/all_items.json", encoding="utf-8") as file:
         all_items = json.load(file)
