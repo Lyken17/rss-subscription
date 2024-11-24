@@ -1,22 +1,21 @@
-from openai import OpenAI
-import os
 import json
+import os
 
-api_key=os.environ.get('SILICONFLOW_API_KEY')
+from openai import OpenAI
+
+api_key = os.environ.get("SILICONFLOW_API_KEY")
 # print(vars(os.environ))
 assert api_key is not None, "Please set the SILICONFLOW_API_KEY environment"
 
-client = OpenAI(
-    base_url='https://api.siliconflow.cn/v1',
-    api_key=api_key
-)
+client = OpenAI(base_url="https://api.siliconflow.cn/v1", api_key=api_key)
+
 
 def llm_parse_desc(
     desc="[ANi] MF Ghost S02 /  燃油车斗魂 第二季 - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][592.8 MB]",
     model="deepseek-ai/DeepSeek-V2-Chat",
-    stream = False
+    stream=False,
 ):
-    content = f'''Below is a torrent title for Japanese anime. Please parse and extract the following information, return in json format
+    content = f"""Below is a torrent title for Japanese anime. Please parse and extract the following information, return in json format
     * Title: it can contains numbers, Japanese, Chinese and English characters
     * Fansub: the group name of Fansub, usually enclosed in square brackets at the beginning of the title, like [ANi] [LoliHouse], return the value without brackets
     * Season: usually a number like S01, S02, set to 1 if not available
@@ -27,7 +26,7 @@ def llm_parse_desc(
 
     The title is:
     {desc}
-    '''
+    """
 
     response = client.chat.completions.create(
         # model="Qwen/Qwen2.5-7B-Instruct",
@@ -37,7 +36,7 @@ def llm_parse_desc(
             {"role": "user", "content": content}
         ],
         stream=stream,
-        response_format={"type": "json_object"}
+        response_format={"type": "json_object"},
     )
     res = response.choices[0].message.content
     try:
@@ -50,13 +49,14 @@ def llm_parse_desc(
         return new_r
     except Exception as e:
         return None
-            
+
+
 if __name__ == "__main__":
     res = llm_parse_desc()
     # model = "deepseek-ai/DeepSeek-V2-Chat"
     model = "Qwen/Qwen2.5-7B-Instruct"
     parsed_key = f"parsed_{model.replace('/', '--')}"
-    
+
     with open("rss/all_items.json", encoding="utf-8") as file:
         all_items = json.load(file)
     new_all_items = []
@@ -73,6 +73,6 @@ if __name__ == "__main__":
             print(res)
         # input("Press Enter to continue...")
         new_all_items.append(item)
-        
+
     with open("rss/all_items.json", "w", encoding="utf-8") as file:
         json.dump(new_all_items, file, indent=2, ensure_ascii=False)

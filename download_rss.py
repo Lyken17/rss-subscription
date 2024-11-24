@@ -1,6 +1,7 @@
+import json
+
 import requests
 import xmltodict
-import json 
 
 if __name__ == "__main__":
     # download rss feed from mikan.
@@ -9,12 +10,10 @@ if __name__ == "__main__":
     with open("rss/mikan-today.xml", "wb") as file:
         file.write(response.content)
     out = xmltodict.parse(open("rss/mikan-today.xml", encoding="utf-8").read())
-    # format XML 
-    xmltodict.unparse(
-        out, output=open("rss/mikan-today.xml", mode="w", encoding="utf-8"), pretty=True
-    )
-    
-    # add all items
+    # Format XML
+    xmltodict.unparse(out, output=open("rss/mikan-today.xml", mode="w", encoding="utf-8"), pretty=True)
+
+    # Add all items
     with open("rss/all_items.json", encoding="utf-8") as file:
         all_items = json.load(file)
         all_links = [item["link"] for item in all_items]

@@ -21,9 +21,7 @@ if __name__ == "__main__":
     for item in all_items:
         date_str = item["torrent"]["pubDate"]
         date_str = date_str.split(".")[0]  # ignore ms
-        parsed_date = datetime.fromisoformat(date_str).astimezone(
-            timezone(timedelta(hours=8))
-        )
+        parsed_date = datetime.fromisoformat(date_str).astimezone(timezone(timedelta(hours=8)))
         for k, v in new_items.items():
             if (beijing_time - parsed_date).days < k:
                 new_items[k].append(item)
