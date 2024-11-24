@@ -24,8 +24,8 @@ if __name__ == "__main__":
             print(f"{link=} added")
             count += 1
 
-    if count == 0:
-        exit(-1)
+    # if count == 0:
+    #     exit(-1)
     with open("rss/all_items.json", "w", encoding="utf-8") as file:
         json.dump(all_items, file, indent=2, ensure_ascii=False)
     print(f"Added {count} new items")
