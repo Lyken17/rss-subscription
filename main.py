@@ -3,7 +3,6 @@ import shutil
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-import pandas as pd
 import pytz
 import requests
 import xmltodict
