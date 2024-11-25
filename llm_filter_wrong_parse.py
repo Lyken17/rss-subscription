@@ -6,7 +6,8 @@ key = "parsed_Qwen--Qwen2.5-7B-Instruct"
 for item in all_items:
     if key not in item:
         continue
-
+    item.pop(key)
+    continue
     skip = False
     parsed_info = item[key]
     for k, v in parsed_info.items():
