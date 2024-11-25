@@ -407,6 +407,18 @@
       "@type": "application/x-bittorrent",
       "@length": "406008640",
       "@url": "https://mikanani.me/Download/20241124/a6dbbaca115a1e42a828d05dbacb7fb06c1919e5.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "猎户手抄部",
+      "title_en": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+      "resolution": "1080p",
+      "episode": 32,
+      "season": 1,
+      "source": "简日内嵌",
+      "title_zh": "浪客剑心 -明治剑客浪漫谭- 京都动乱",
+      "sub": "简日内嵌",
+      "title_jp": "浪客剑心 -明治剑客浪漫谭- 京都动乱",
+      "size": "387.2 MB"
     }
   },
   {
@@ -4201,6 +4213,19 @@
       "@type": "application/x-bittorrent",
       "@length": "586982336",
       "@url": "https://mikanani.me/Download/20241125/724ad3fb676bc3fb7bc165c07eb71377cce19ee7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "动漫国字幕组&LoliHouse",
+      "title_en": "FAIRY TAIL",
+      "resolution": "1080p",
+      "episode": 16,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "妖精尾巴 百年任务",
+      "sub": "简繁内封字幕",
+      "title_jp": "魔导少年",
+      "size": "559.79 MB",
+      "season_raw": "16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
     }
   },
   {
@@ -4590,6 +4615,38 @@
       "Resolution": "1080P",
       "Size": "448.8 MB",
       "Extension": "MP4"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/4f20229f07ce6be3b2106a57d9140926213b8db1",
+    "title": "[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕][1.0 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4f20229f07ce6be3b2106a57d9140926213b8db1",
+      "contentLength": "1073741824",
+      "pubDate": "2024-11-25T19:23:50.770411"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1073741824",
+      "@url": "https://mikanani.me/Download/20241125/4f20229f07ce6be3b2106a57d9140926213b8db1.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Ao no Hako",
+      "resolution": "2160p",
+      "episode": 7,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "青之箱",
+      "sub": "简繁内封字幕",
+      "title_jp": "Ao no Hako",
+      "size": "1.0 GB"
     }
   }
 ]

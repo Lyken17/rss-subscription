@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4f20229f07ce6be3b2106a57d9140926213b8db1</link>
+			<title>[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕][1.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f20229f07ce6be3b2106a57d9140926213b8db1</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2024-11-25T19:23:50.770411</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20241125/4f20229f07ce6be3b2106a57d9140926213b8db1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7f0a4200504d56c99d98d4a07ab13578a90dbb77</link>
 			<title>[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-24T06:57:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20241124/1debbd04378c3be404ed285bd82be6e17569b71e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[转] 英雄联盟 双城之战 第二季 英配中字 Arcane S02E08 [Web-DL 1080p AVC SDR EAC3 5.1ch]（另带日配音轨）</guid>
-			<link>https://mikanani.me/Home/Episode/39d6c74abe36cfb13f886e2a061289b09ebcc9a8</link>
-			<title>[转] 英雄联盟 双城之战 第二季 英配中字 Arcane S02E08 [Web-DL 1080p AVC SDR EAC3 5.1ch]（另带日配音轨）</title>
-			<description>[转] 英雄联盟 双城之战 第二季 英配中字 Arcane S02E08 [Web-DL 1080p AVC SDR EAC3 5.1ch]（另带日配音轨）[1.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/39d6c74abe36cfb13f886e2a061289b09ebcc9a8</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2024-11-24T06:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20241124/39d6c74abe36cfb13f886e2a061289b09ebcc9a8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
