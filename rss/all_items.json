@@ -3594,5 +3594,34 @@
       "Size": "436.2MB",
       "Extension": "MP4"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[流云字幕组&VCB-S&ANK-Raws] 双斩少女 / KILL la KILL / キルラキル 10-bit 1080p AVC BDRip [Reseed Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/254caeb22746149ccce4fb4172cb0e8be9c7d978",
+    "title": "[流云字幕组&VCB-S&ANK-Raws] 双斩少女 / KILL la KILL / キルラキル 10-bit 1080p AVC BDRip [Reseed Fin]",
+    "description": "[流云字幕组&VCB-S&ANK-Raws] 双斩少女 / KILL la KILL / キルラキル 10-bit 1080p AVC BDRip [Reseed Fin][49.9GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/254caeb22746149ccce4fb4172cb0e8be9c7d978",
+      "contentLength": "53579718656",
+      "pubDate": "2024-11-25T15:17:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "53579718656",
+      "@url": "https://mikanani.me/Download/20241125/254caeb22746149ccce4fb4172cb0e8be9c7d978.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "双斩少女 / KILL la KILL / キルラキル",
+      "Fansub": "流云字幕组&VCB-S&ANK-Raws",
+      "Season": "1",
+      "Episode": "10",
+      "Resolution": "1080p",
+      "Size": "49.9GB",
+      "Extension": ""
+    }
   }
 ]

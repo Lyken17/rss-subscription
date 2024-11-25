@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[流云字幕组&amp;VCB-S&amp;ANK-Raws] 双斩少女 / KILL la KILL / キルラキル 10-bit 1080p AVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/254caeb22746149ccce4fb4172cb0e8be9c7d978</link>
+			<title>[流云字幕组&amp;VCB-S&amp;ANK-Raws] 双斩少女 / KILL la KILL / キルラキル 10-bit 1080p AVC BDRip [Reseed Fin]</title>
+			<description>[流云字幕组&amp;VCB-S&amp;ANK-Raws] 双斩少女 / KILL la KILL / キルラキル 10-bit 1080p AVC BDRip [Reseed Fin][49.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/254caeb22746149ccce4fb4172cb0e8be9c7d978</link>
+				<contentLength>53579718656</contentLength>
+				<pubDate>2024-11-25T15:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="53579718656" url="https://mikanani.me/Download/20241125/254caeb22746149ccce4fb4172cb0e8be9c7d978.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爆旋陀螺X / 战斗陀螺X / Beyblade X - 49 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB CAN CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/9c831e3508a0fdd7b525c07e6ff8ce3dfc55ee9f</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]爆旋陀螺X / 战斗陀螺X / Beyblade X - 49 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB CAN CHT]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-24T00:16:43.360474</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="791884608" url="https://mikanani.me/Download/20241124/0abe266611db6136e5892f442b19331234948d64.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Bleach /  BLEACH 死神 千年血战篇-相克谭- - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/ad5330b854099d969dc5bf1cd2c92e23d15e0230</link>
-			<title>[ANi] Bleach /  BLEACH 死神 千年血战篇-相克谭- - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Bleach /  BLEACH 死神 千年血战篇-相克谭- - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][721.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ad5330b854099d969dc5bf1cd2c92e23d15e0230</link>
-				<contentLength>756442752</contentLength>
-				<pubDate>2024-11-23T23:31:46.140353</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="756442752" url="https://mikanani.me/Download/20241123/ad5330b854099d969dc5bf1cd2c92e23d15e0230.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
