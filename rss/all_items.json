@@ -6521,5 +6521,133 @@
       "source": "GB",
       "size": "1.04 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 夏目友人帐 第七季 / Natsume Yuujinchou Shichi - 08 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/60d74f94a611020995b91ddbd2fc31ec9d9a7337",
+    "title": "[Up to 21°C] 夏目友人帐 第七季 / Natsume Yuujinchou Shichi - 08 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 夏目友人帐 第七季 / Natsume Yuujinchou Shichi - 08 (CR 1920x1080 AVC AAC MKV)[1.36 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/60d74f94a611020995b91ddbd2fc31ec9d9a7337",
+      "contentLength": "1460288896",
+      "pubDate": "2024-11-26T02:03:22.542"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1460288896",
+      "@url": "https://mikanani.me/Download/20241126/60d74f94a611020995b91ddbd2fc31ec9d9a7337.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Natsume Yuujinchou Shichi",
+      "resolution": "1920x1080",
+      "episode": 8,
+      "season": 7,
+      "source": "CR",
+      "title_zh": "夏目友人帐 第七季",
+      "sub": "None",
+      "title_jp": "Natsume Yuujinchou Shichi",
+      "size": "1.36 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 08 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3148bd97aae3fb73cbb520ea6059cb311820671f",
+    "title": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 08 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 08 (ABEMA 1920x1080 AVC AAC MP4)[711.7 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3148bd97aae3fb73cbb520ea6059cb311820671f",
+      "contentLength": "746271552",
+      "pubDate": "2024-11-26T02:00:50.423"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "746271552",
+      "@url": "https://mikanani.me/Download/20241126/3148bd97aae3fb73cbb520ea6059cb311820671f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "当不成魔法师的女孩",
+      "sub": "简体字字幕",
+      "title_jp": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "size": "711.7 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 08 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3afacb2c9acdad2334a2938deca4e9e9d9accb27",
+    "title": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 08 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 08 (ABEMA 1920x1080 AVC AAC MP4)[715.48 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3afacb2c9acdad2334a2938deca4e9e9d9accb27",
+      "contentLength": "750235136",
+      "pubDate": "2024-11-26T01:31:00.344"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "750235136",
+      "@url": "https://mikanani.me/Download/20241126/3afacb2c9acdad2334a2938deca4e9e9d9accb27.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Seirei Gensouki 2",
+      "resolution": "1920x1080",
+      "episode": 8,
+      "season": 2,
+      "source": "ABEMA",
+      "title_zh": "精灵幻想记 2",
+      "sub": "None",
+      "title_jp": "セイレーン幻想记 2",
+      "size": "715.48 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/ec0783a2023535abc075b4f9dddbda44d9c387a2",
+    "title": "[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][358.79 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ec0783a2023535abc075b4f9dddbda44d9c387a2",
+      "contentLength": "376218592",
+      "pubDate": "2024-11-26T01:21:44.892"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "376218592",
+      "@url": "https://mikanani.me/Download/20241126/ec0783a2023535abc075b4f9dddbda44d9c387a2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Nageki no Bourei wa Intai shitai",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "叹气的亡灵想隐退",
+      "sub": "简繁内封字幕",
+      "title_jp": "Nageki no Bourei wa Intai shitai",
+      "size": "358.79 MB"
+    }
   }
 ]
