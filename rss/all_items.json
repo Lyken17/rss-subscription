@@ -6812,5 +6812,38 @@
       "source": "ABEMA",
       "size": "723.13 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/fc9fdad960bf6e238e719c5540680060d17c2ae3",
+    "title": "[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC][1.6GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/fc9fdad960bf6e238e719c5540680060d17c2ae3",
+      "contentLength": "1717986944",
+      "pubDate": "2024-11-26T04:39:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1717986944",
+      "@url": "https://mikanani.me/Download/20241126/fc9fdad960bf6e238e719c5540680060d17c2ae3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Detective Conan: The Million-dollar Pentagram",
+      "resolution": "1080p",
+      "episode": "100万美元的五棱星",
+      "season": 1,
+      "title_zh": "名侦探柯南：100万美元的五棱星",
+      "sub": "en",
+      "title_jp": "100万ドルの五角形",
+      "season_raw": "The Million-dollar Pentagram",
+      "source": "WEB-DL",
+      "size": "1.6GB"
+    }
   }
 ]
