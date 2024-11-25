@@ -3623,5 +3623,63 @@
       "Size": "49.9GB",
       "Extension": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家[2024.11.24][BIG5][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b673c43c7a8f26ee5d9445c5425f1e5dd8c32cfe",
+    "title": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家[2024.11.24][BIG5][1080P][MP4]",
+    "description": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家[2024.11.24][BIG5][1080P][MP4][240.05 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b673c43c7a8f26ee5d9445c5425f1e5dd8c32cfe",
+      "contentLength": "251710672",
+      "pubDate": "2024-11-25T17:12:27.339"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "251710672",
+      "@url": "https://mikanani.me/Download/20241125/b673c43c7a8f26ee5d9445c5425f1e5dd8c32cfe.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "丸子家族[樱桃小丸子第二期(Chibi Maruko-chan II)]",
+      "Fansub": "BIG5",
+      "Season": "2",
+      "Episode": "1457",
+      "Resolution": "1080P",
+      "Size": "240.05 MB",
+      "Extention": "MP4"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家[2024.11.24][GB][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/953756c024f88f346aa0ef8e437a91bd047fe1d6",
+    "title": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家[2024.11.24][GB][1080P][MP4]",
+    "description": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家[2024.11.24][GB][1080P][MP4][239.8MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/953756c024f88f346aa0ef8e437a91bd047fe1d6",
+      "contentLength": "251448528",
+      "pubDate": "2024-11-25T16:48:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "251448528",
+      "@url": "https://mikanani.me/Download/20241125/953756c024f88f346aa0ef8e437a91bd047fe1d6.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "丸子家族 樱桃小丸子第二期(Chibi Maruko-chan II) [1457]友藏想给小丸子做牛肉饼&小丸子羡慕别人家",
+      "Fansub": "丸子家族",
+      "Season": "2",
+      "Episode": "1457",
+      "Resolution": "1080P",
+      "Size": "239.8MB",
+      "Extension": "MP4"
+    }
   }
 ]
