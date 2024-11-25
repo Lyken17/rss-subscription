@@ -3101,5 +3101,34 @@
       "Size": "755.25 MB",
       "Extension": "MP4"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/2ea137ceb46692abbb942c02498444d1604b62d3",
+    "title": "[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][779.13 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2ea137ceb46692abbb942c02498444d1604b62d3",
+      "contentLength": "816977024",
+      "pubDate": "2024-11-25T09:05:09.238"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "816977024",
+      "@url": "https://mikanani.me/Download/20241125/2ea137ceb46692abbb942c02498444d1604b62d3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂",
+      "Fansub": "LoliHouse",
+      "Season": 2,
+      "Episode": 8,
+      "Resolution": "1080P",
+      "Size": "779.13 MB",
+      "Extension": "WebRip"
+    }
   }
 ]
