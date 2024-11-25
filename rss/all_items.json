@@ -4533,5 +4533,63 @@
       "source": "WEB-DL",
       "size": "448.8 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7f0a4200504d56c99d98d4a07ab13578a90dbb77",
+    "title": "[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[沸羊羊制作] 青之箱 / Ao no Hako - 07 [NF WebRip 1080p HEVC-10bit AAC][简繁内封字幕][351.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7f0a4200504d56c99d98d4a07ab13578a90dbb77",
+      "contentLength": "368364736",
+      "pubDate": "2024-11-25T19:05:20.154445"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "368364736",
+      "@url": "https://mikanani.me/Download/20241125/7f0a4200504d56c99d98d4a07ab13578a90dbb77.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "沸羊羊制作 青之箱 / Ao no Hako - 07",
+      "Fansub": "沸羊羊制作",
+      "Season": "1",
+      "Episode": "7",
+      "Resolution": "1080P",
+      "Size": "351.3 MB",
+      "Extension": "WebRip"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi]  LoveLive! SuperStar!! 第三季 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/383a6638eeba688fb750864c68b14637922625c8",
+    "title": "[ANi]  LoveLive! SuperStar!! 第三季 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi]  LoveLive! SuperStar!! 第三季 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][448.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/383a6638eeba688fb750864c68b14637922625c8",
+      "contentLength": "470600896",
+      "pubDate": "2024-11-25T19:05:06.624609"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "470600896",
+      "@url": "https://mikanani.me/Download/20241125/383a6638eeba688fb750864c68b14637922625c8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "Title": "LoveLive! SuperStar!! 第三季 - 08",
+      "Fansub": "ANi",
+      "Season": 3,
+      "Episode": 8,
+      "Resolution": "1080P",
+      "Size": "448.8 MB",
+      "Extension": "MP4"
+    }
   }
 ]
