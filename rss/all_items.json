@@ -8988,5 +8988,38 @@
       "source": "BDRip",
       "size": "1.2GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a",
+    "title": "【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4]",
+    "description": "【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4][1.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a",
+      "contentLength": "1288490240",
+      "pubDate": "2024-11-27T05:48:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1288490240",
+      "@url": "https://mikanani.me/Download/20241127/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "豌豆字幕组",
+      "title_en": "Detective Conan Movie 27",
+      "resolution": "1080P",
+      "episode": null,
+      "season": null,
+      "title_zh": "名侦探柯南剧场版 百万美元的五棱星",
+      "sub": "繁体",
+      "title_jp": null,
+      "season_raw": null,
+      "source": "BDRip",
+      "size": "1.2GB"
+    }
   }
 ]

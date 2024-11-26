@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a</link>
+			<title>【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2024-11-27T05:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20241127/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/02bbe0d9f4a464b2179b04cff7b5f3cdc20d07ff</link>
 			<title>[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-25T23:02:06.685</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="402915328" url="https://mikanani.me/Download/20241125/093890fcee43761126b3b2387039af87794d6b5b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 平凡职业造就世界最强 第三季 / Arifureta Shokugyou de Sekai Saikyou Season 3 - 07 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/fa6a9890393709afcbb5f64b3f4788980ec13fa9</link>
-			<title>[Up to 21°C] 平凡职业造就世界最强 第三季 / Arifureta Shokugyou de Sekai Saikyou Season 3 - 07 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 平凡职业造就世界最强 第三季 / Arifureta Shokugyou de Sekai Saikyou Season 3 - 07 (B-Global 1920x1080 HEVC AAC MKV)[291.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fa6a9890393709afcbb5f64b3f4788980ec13fa9</link>
-				<contentLength>305282432</contentLength>
-				<pubDate>2024-11-25T23:01:43.644</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="305282432" url="https://mikanani.me/Download/20241125/fa6a9890393709afcbb5f64b3f4788980ec13fa9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
