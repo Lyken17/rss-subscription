@@ -7856,5 +7856,102 @@
       "title_jp": "THE IDOLM@STER SHINY COLORS",
       "size": "334.1 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/29da6b481f8ad0f40ca2e213617075eb32335987",
+    "title": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)[713.83 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/29da6b481f8ad0f40ca2e213617075eb32335987",
+      "contentLength": "748505024",
+      "pubDate": "2024-11-26T21:01:29.52"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "748505024",
+      "@url": "https://mikanani.me/Download/20241126/29da6b481f8ad0f40ca2e213617075eb32335987.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ABEMA",
+      "title_en": "Kinoko Inu",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "unknown",
+      "title_zh": "蘑菇狗",
+      "sub": "unknown",
+      "title_jp": "Kinoko Inu",
+      "size": "713.83 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][怪兽8号/Kaijuu 8 Gou/怪獣8号][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1ccb41f31eb28e7d34fc7ab4c13d5767f73f7345",
+    "title": "[DBD-Raws][怪兽8号/Kaijuu 8 Gou/怪獣8号][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]",
+    "description": "[DBD-Raws][怪兽8号/Kaijuu 8 Gou/怪獣8号][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][17.0GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1ccb41f31eb28e7d34fc7ab4c13d5767f73f7345",
+      "contentLength": "18253611008",
+      "pubDate": "2024-11-26T21:01:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "18253611008",
+      "@url": "https://mikanani.me/Download/20241126/1ccb41f31eb28e7d34fc7ab4c13d5767f73f7345.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Kaijuu 8 Gou",
+      "resolution": "1080P",
+      "episode": "1-12",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "怪兽8号",
+      "sub": "简繁外挂",
+      "title_jp": "怪獣8号",
+      "season_raw": "01-12TV全集+特典映像",
+      "size": "17.0GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 03 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6a550f2e2b5c9307521141b3001d96231ca27b4f",
+    "title": "[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 03 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 03 (ABEMA 1920x1080 AVC AAC MP4)[732.53 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6a550f2e2b5c9307521141b3001d96231ca27b4f",
+      "contentLength": "768113408",
+      "pubDate": "2024-11-26T20:31:20.402"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "768113408",
+      "@url": "https://mikanani.me/Download/20241126/6a550f2e2b5c9307521141b3001d96231ca27b4f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Duel Masters LOST: Tsuioku no Suishou",
+      "resolution": "1080",
+      "episode": 3,
+      "season": 1,
+      "source": "None",
+      "title_zh": "决斗大师 LOST ～追忆的水晶～",
+      "sub": "None",
+      "title_jp": "Tsuioku no Suishou",
+      "size": "732.53 MB"
+    }
   }
 ]
