@@ -7136,5 +7136,38 @@
       "title_jp": "Amagami-san Chi no Enmusubi",
       "size": "2.0 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/c31181382a72062fce3329fa31e60360729dd76e",
+    "title": "[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]",
+    "description": "[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][16.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c31181382a72062fce3329fa31e60360729dd76e",
+      "contentLength": "17931489280",
+      "pubDate": "2024-11-26T13:19:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "17931489280",
+      "@url": "https://mikanani.me/Download/20241126/c31181382a72062fce3329fa31e60360729dd76e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Tate no Yuusha no Nariagari",
+      "resolution": "1080P",
+      "episode": "1-25",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "盾之勇者成名录",
+      "sub": "简繁外挂",
+      "title_jp": "盾の勇者の成り上がり",
+      "season_raw": "S1",
+      "size": "16.7GB"
+    }
   }
 ]

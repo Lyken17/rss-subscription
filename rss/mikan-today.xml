@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/c31181382a72062fce3329fa31e60360729dd76e</link>
+			<title>[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][16.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c31181382a72062fce3329fa31e60360729dd76e</link>
+				<contentLength>17931489280</contentLength>
+				<pubDate>2024-11-26T13:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17931489280" url="https://mikanani.me/Download/20241126/c31181382a72062fce3329fa31e60360729dd76e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip]</guid>
 			<link>https://mikanani.me/Home/Episode/9750e8db710c2359cd03c9834b446b569bf4d72f</link>
 			<title>[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-25T14:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="457388864" url="https://mikanani.me/Download/20241125/5890229cb51e8ec49e9896a6b8bebf1c8d53b93e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/bb37a8a2f52b07525aa3dd6686a408a603ee64f6</link>
-			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][24.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bb37a8a2f52b07525aa3dd6686a408a603ee64f6</link>
-				<contentLength>25585254</contentLength>
-				<pubDate>2024-11-25T13:50:50.846033</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="25585254" url="https://mikanani.me/Download/20241125/bb37a8a2f52b07525aa3dd6686a408a603ee64f6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
