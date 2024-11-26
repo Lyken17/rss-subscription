@@ -6910,5 +6910,37 @@
       "source": "N/A",
       "size": "142.1GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/205cac2b82e2a6119b0c715b1e804f0859271d05",
+    "title": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (CR 1920x1080 AVC AAC MKV)[1.37 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/205cac2b82e2a6119b0c715b1e804f0859271d05",
+      "contentLength": "1471026304",
+      "pubDate": "2024-11-26T10:03:37.334"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1471026304",
+      "@url": "https://mikanani.me/Download/20241126/205cac2b82e2a6119b0c715b1e804f0859271d05.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Love Live! Superstar!! 3rd Season",
+      "resolution": "1920x1080",
+      "episode": 8,
+      "season": 3,
+      "source": "CR",
+      "title_zh": "Love Live! Superstar!! 第三季",
+      "sub": "None",
+      "title_jp": "Love Live! Superstar!! 3rd Season",
+      "size": "1.37 GB"
+    }
   }
 ]
