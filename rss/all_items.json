@@ -8859,5 +8859,37 @@
       "title_jp": "Himitsu no AiPri",
       "size": "731.79 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852",
+    "title": "[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)[1.3 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852",
+      "contentLength": "1395864320",
+      "pubDate": "2024-11-27T04:04:52.803"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241127/59f196831f1abb79769d49fea76f72c35c7c9852.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Tasuuketsu",
+      "resolution": "1920x1080",
+      "episode": 20,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "多数欠",
+      "sub": "None",
+      "title_jp": "Tasuuketsu",
+      "size": "1.3 GB"
+    }
   }
 ]

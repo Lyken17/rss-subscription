@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852</link>
+			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2024-11-27T04:04:52.803</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241127/59f196831f1abb79769d49fea76f72c35c7c9852.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5</link>
 			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-25T23:01:13.33</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="501712160" url="https://mikanani.me/Download/20241125/71d5554faae34626f06f0364c38a109799f4e0d2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[织梦字幕组] 尼尔：机械纪元 NieR Automata Ver1.1a [18] [HEVC-10bit 1080P] [繁日双语] [特效字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2d8a3df881b0244836c0bfe1e20daa5dfdfda5b3</link>
-			<title>[织梦字幕组] 尼尔：机械纪元 NieR Automata Ver1.1a [18] [HEVC-10bit 1080P] [繁日双语] [特效字幕]</title>
-			<description>[织梦字幕组] 尼尔：机械纪元 NieR Automata Ver1.1a [18] [HEVC-10bit 1080P] [繁日双语] [特效字幕][817.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2d8a3df881b0244836c0bfe1e20daa5dfdfda5b3</link>
-				<contentLength>857074560</contentLength>
-				<pubDate>2024-11-25T22:57:31.967</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="857074560" url="https://mikanani.me/Download/20241125/2d8a3df881b0244836c0bfe1e20daa5dfdfda5b3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
