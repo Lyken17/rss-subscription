@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip]</guid>
+			<link>https://mikanani.me/Home/Episode/9750e8db710c2359cd03c9834b446b569bf4d72f</link>
+			<title>[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip]</title>
+			<description>[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip][2.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9750e8db710c2359cd03c9834b446b569bf4d72f</link>
+				<contentLength>2147483648</contentLength>
+				<pubDate>2024-11-26T12:29:04.172502</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20241126/9750e8db710c2359cd03c9834b446b569bf4d72f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【34】BIG5 MP4_1080P</guid>
 			<link>https://mikanani.me/Home/Episode/7aa44c6e2ed3f71f2ac5da448c7825122b216d4d</link>
 			<title>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【34】BIG5 MP4_1080P</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-25T13:50:50.846033</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="25585254" url="https://mikanani.me/Download/20241125/bb37a8a2f52b07525aa3dd6686a408a603ee64f6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 08 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/98f840728426cb64b2d24046a74977769b19d911</link>
-			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 08 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 08 (Baha 1920x1080 AVC AAC MP4)[24.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/98f840728426cb64b2d24046a74977769b19d911</link>
-				<contentLength>25344082</contentLength>
-				<pubDate>2024-11-25T13:50:32.349</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="25344082" url="https://mikanani.me/Download/20241125/98f840728426cb64b2d24046a74977769b19d911.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

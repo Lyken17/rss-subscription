@@ -7104,5 +7104,37 @@
       "title_jp": "None",
       "size": "701.43 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9750e8db710c2359cd03c9834b446b569bf4d72f",
+    "title": "[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip]",
+    "description": "[樱桃花字幕组]结缘神社/ Amagami-san Chi no Enmusubi][01-07][1080p HEVC AAC][简繁日内封][WebRip][2.0 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9750e8db710c2359cd03c9834b446b569bf4d72f",
+      "contentLength": "2147483648",
+      "pubDate": "2024-11-26T12:29:04.172502"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2147483648",
+      "@url": "https://mikanani.me/Download/20241126/9750e8db710c2359cd03c9834b446b569bf4d72f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "樱桃花字幕组",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1080p",
+      "episode": "1-07",
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "结缘神社",
+      "sub": "简繁日内封",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "2.0 GB"
+    }
   }
 ]
