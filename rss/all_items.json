@@ -8891,5 +8891,102 @@
       "title_jp": "Tasuuketsu",
       "size": "1.3 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/02bbe0d9f4a464b2179b04cff7b5f3cdc20d07ff",
+    "title": "[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P]",
+    "description": "[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P][252.1 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/02bbe0d9f4a464b2179b04cff7b5f3cdc20d07ff",
+      "contentLength": "264346016",
+      "pubDate": "2024-11-27T04:53:41.760008"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "264346016",
+      "@url": "https://mikanani.me/Download/20241127/02bbe0d9f4a464b2179b04cff7b5f3cdc20d07ff.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1080P",
+      "episode": 9,
+      "season": 1,
+      "source": "H265 10bit",
+      "title_zh": "结缘甘神神社",
+      "sub": "简体内封",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "252.1 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内嵌][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/458daf558b7da98a27c03be2955e523a0db29d60",
+    "title": "[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内嵌][H265 10bit 1080P]",
+    "description": "[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内嵌][H265 10bit 1080P][270.0 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/458daf558b7da98a27c03be2955e523a0db29d60",
+      "contentLength": "283115520",
+      "pubDate": "2024-11-27T04:52:59.729743"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "283115520",
+      "@url": "https://mikanani.me/Download/20241127/458daf558b7da98a27c03be2955e523a0db29d60.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1080P",
+      "episode": 9,
+      "season": 1,
+      "source": "H265 10bit",
+      "title_zh": "结缘甘神神社",
+      "sub": "简体内嵌",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "270.0 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][简体][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/0d35f332286c009272797da1b4f1d13f424d01c6",
+    "title": "【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][简体][1080P][MP4]",
+    "description": "【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][简体][1080P][MP4][1.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0d35f332286c009272797da1b4f1d13f424d01c6",
+      "contentLength": "1288490240",
+      "pubDate": "2024-11-27T04:50:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1288490240",
+      "@url": "https://mikanani.me/Download/20241127/0d35f332286c009272797da1b4f1d13f424d01c6.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "豌豆字幕组",
+      "title_en": "Detective Conan Movie 27",
+      "resolution": "1080P",
+      "episode": null,
+      "season": null,
+      "title_zh": "名侦探柯南剧场版 百万美元的五棱星",
+      "sub": "简体",
+      "title_jp": null,
+      "season_raw": null,
+      "source": "BDRip",
+      "size": "1.2GB"
+    }
   }
 ]
