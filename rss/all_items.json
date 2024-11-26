@@ -6845,5 +6845,70 @@
       "source": "WEB-DL",
       "size": "1.6GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Seirei Gensouki /  精灵幻想记 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/0a7f7234fed53d1fc9a4606f85b39a2390143c01",
+    "title": "[ANi] Seirei Gensouki /  精灵幻想记 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Seirei Gensouki /  精灵幻想记 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][354.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0a7f7234fed53d1fc9a4606f85b39a2390143c01",
+      "contentLength": "372139616",
+      "pubDate": "2024-11-26T09:13:26.925921"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "372139616",
+      "@url": "https://mikanani.me/Download/20241126/0a7f7234fed53d1fc9a4606f85b39a2390143c01.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Seirei Gensouki",
+      "resolution": "1080P",
+      "episode": 8,
+      "season": 2,
+      "source": "WEB-DL",
+      "title_zh": "精灵幻想记",
+      "sub": "CHT",
+      "title_jp": "セイレーン幻想记",
+      "size": "354.9 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)"
+    },
+    "link": "https://mikanani.me/Home/Episode/74605850414674cff5f6e0562fe585db507290f7",
+    "title": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)",
+    "description": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)[142.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/74605850414674cff5f6e0562fe585db507290f7",
+      "contentLength": "152578719744",
+      "pubDate": "2024-11-26T09:11:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "152578719744",
+      "@url": "https://mikanani.me/Download/20241126/74605850414674cff5f6e0562fe585db507290f7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "Neon Genesis Evangelion",
+      "resolution": "N/A",
+      "episode": "N/A",
+      "season": 1,
+      "title_zh": "新世纪福音战士",
+      "sub": "简中字幕",
+      "title_jp": "新世纪エヴァンゲリオン",
+      "season_raw": "TV动画+新老剧场版+ONA+CD+漫画+其他",
+      "source": "N/A",
+      "size": "142.1GB"
+    }
   }
 ]
