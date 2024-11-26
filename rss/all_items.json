@@ -8633,5 +8633,69 @@
       "source": "ABEMA",
       "size": "575.06 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/17bb1898b8b8d12b0c808cb52c85d4e7247c7a26",
+    "title": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/17bb1898b8b8d12b0c808cb52c85d4e7247c7a26",
+      "contentLength": "1449551488",
+      "pubDate": "2024-11-27T00:32:03.367"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241127/17bb1898b8b8d12b0c808cb52c85d4e7247c7a26.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1920x1080",
+      "episode": 9,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "结缘甘神神社",
+      "sub": "None",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "1.35 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/85748d82ba77c80e111e73c8daf3c82a649e65b8",
+    "title": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (ABEMA 1920x1080 AVC AAC MP4)[723.38 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/85748d82ba77c80e111e73c8daf3c82a649e65b8",
+      "contentLength": "758518912",
+      "pubDate": "2024-11-27T00:31:12.094"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "758518912",
+      "@url": "https://mikanani.me/Download/20241127/85748d82ba77c80e111e73c8daf3c82a649e65b8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": null,
+      "title_en": "Love Live! Superstar!! 3rd Season",
+      "resolution": "1080",
+      "episode": 8,
+      "season": 3,
+      "source": null,
+      "title_zh": "Love Live! Superstar!! 第三季",
+      "sub": null,
+      "title_jp": null,
+      "size": "723.38 MB"
+    }
   }
 ]
