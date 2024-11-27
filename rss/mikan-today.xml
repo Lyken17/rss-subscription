@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黑白字幕组]巨神高克/Giant Gorg [08] [BDRip] [1080P HEVC-10bit AAC] [CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/73a78b340202aebbe754e3cb619a288efea48c7b</link>
+			<title>[黑白字幕组]巨神高克/Giant Gorg [08] [BDRip] [1080P HEVC-10bit AAC] [CHT]</title>
+			<description>[黑白字幕组]巨神高克/Giant Gorg [08] [BDRip] [1080P HEVC-10bit AAC] [CHT][541.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73a78b340202aebbe754e3cb619a288efea48c7b</link>
+				<contentLength>567699072</contentLength>
+				<pubDate>2024-11-27T14:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="567699072" url="https://mikanani.me/Download/20241127/73a78b340202aebbe754e3cb619a288efea48c7b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]巨神高克/Giant Gorg [08] [BDRip] [1080P HEVC-10bit AAC] [CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/8f8cbc8dfa47ee8126c65dfc70fd9a47dba7a65d</link>
+			<title>[黑白字幕组]巨神高克/Giant Gorg [08] [BDRip] [1080P HEVC-10bit AAC] [CHS]</title>
+			<description>[黑白字幕组]巨神高克/Giant Gorg [08] [BDRip] [1080P HEVC-10bit AAC] [CHS][541.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f8cbc8dfa47ee8126c65dfc70fd9a47dba7a65d</link>
+				<contentLength>567908736</contentLength>
+				<pubDate>2024-11-27T14:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="567908736" url="https://mikanani.me/Download/20241127/8f8cbc8dfa47ee8126c65dfc70fd9a47dba7a65d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [04][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/79b99fbf93b77441e1b608803690a2b0682516cd</link>
 			<title>[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [04][1080p][繁体内嵌]</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2024-11-26T00:30:57.97</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371363680" url="https://mikanani.me/Download/20241126/0632a11413a9761b9108e20318521dfe331a6200.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][06][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/fac285b5182e94157715d56ea3d7b76ab985f24d</link>
-			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][06][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][06][AVC][GB][1080P][1020.25 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fac285b5182e94157715d56ea3d7b76ab985f24d</link>
-				<contentLength>1069809664</contentLength>
-				<pubDate>2024-11-26T00:23:45.351</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1069809664" url="https://mikanani.me/Download/20241126/fac285b5182e94157715d56ea3d7b76ab985f24d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][122][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/056c2f6f8c2591f9cb7534e12b62f5b4c95befcc</link>
-			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][122][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][122][AVC][GB][1080P][453.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/056c2f6f8c2591f9cb7534e12b62f5b4c95befcc</link>
-				<contentLength>475214656</contentLength>
-				<pubDate>2024-11-26T00:23:04.122</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="475214656" url="https://mikanani.me/Download/20241126/056c2f6f8c2591f9cb7534e12b62f5b4c95befcc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
