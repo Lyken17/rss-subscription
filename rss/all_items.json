@@ -11125,5 +11125,70 @@
       "size": "1.35 GB",
       "season_raw": "千魔混沌编"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 48 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/446d1483a39ab38eb7b633c21c942efe51838917",
+    "title": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 48 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 48 (ABEMA 1920x1080 AVC AAC MP4)[66.76 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/446d1483a39ab38eb7b633c21c942efe51838917",
+      "contentLength": "70002936",
+      "pubDate": "2024-11-28T02:03:24.162"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "70002936",
+      "@url": "https://mikanani.me/Download/20241128/446d1483a39ab38eb7b633c21c942efe51838917.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Chibi Godzilla no Gyakushuu",
+      "resolution": "1920x1080",
+      "episode": 48,
+      "season": 1,
+      "title_zh": "小哥斯拉的逆袭",
+      "sub": "None",
+      "title_jp": "Chibi Godzilla no Gyakushuu",
+      "season_raw": "ABEMA",
+      "source": "None",
+      "size": "66.76 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 - [简体内封][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/400d80973052f69ca98b77f1a8b384c53a5b5e00",
+    "title": "[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 - [简体内封][H265 10bit 1080P]",
+    "description": "[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 - [简体内封][H265 10bit 1080P][220.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/400d80973052f69ca98b77f1a8b384c53a5b5e00",
+      "contentLength": "231525584",
+      "pubDate": "2024-11-28T01:46:51.322141"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "231525584",
+      "@url": "https://mikanani.me/Download/20241128/400d80973052f69ca98b77f1a8b384c53a5b5e00.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组",
+      "title_en": "Rekishi ni Nokoru Akujo ni Naru zo",
+      "resolution": "1080P",
+      "episode": 9,
+      "season": 1,
+      "source": "H265 10bit",
+      "title_zh": "成为名垂青史的反派大小姐吧",
+      "sub": "简体内封",
+      "title_jp": "異史に名اخ reflexivity 蔡月に行くあくじょ",
+      "size": "220.8 MB"
+    }
   }
 ]

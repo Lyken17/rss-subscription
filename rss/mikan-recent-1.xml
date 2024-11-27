@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[那时的她。 / 彼时彼女。 / その时、カノジョは。 / Sono Toki, Kanojo wa.][01-12][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/c316c76856664b21c63ac5dec56109e612584214</link>
-			<title>【今晚月色真美】[那时的她。 / 彼时彼女。 / その时、カノジョは。 / Sono Toki, Kanojo wa.][01-12][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[那时的她。 / 彼时彼女。 / その时、カノジョは。 / Sono Toki, Kanojo wa.][01-12][WEBrip][1080P][简日双语][1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c316c76856664b21c63ac5dec56109e612584214</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2024-11-26T17:48:27.406586</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241126/c316c76856664b21c63ac5dec56109e612584214.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>今晚月色真美</group>
-				<title_en>那时的她。 / 彼时彼女。 / その时、カノジョは。 / Sono Toki, Kanojo wa.</title_en>
-				<resolution>1080P</resolution>
-				<episode>01-12</episode>
-				<season>1</season>
-				<title_zh>那时的她</title_zh>
-				<sub>简日双语</sub>
-				<title_jp>その时、カノジョは</title_jp>
-				<season_raw>那时的她。 / 彼时彼女。 / その时、カノジョは。 / Sono Toki, Kanojo wa.</season_raw>
-				<source>WEBrip</source>
-				<size>1.3 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b54acc808247d891245d0db2c8955063e7b09a08</link>
 			<title>[LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -76,31 +51,6 @@
 				<season_raw>20</season_raw>
 				<source>WebRip</source>
 				<size>558.72 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 32 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8489cb9414f184b7047b9b214e06eb60163732ec</link>
-			<title>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 32 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 32 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.09 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8489cb9414f184b7047b9b214e06eb60163732ec</link>
-				<contentLength>1170378624</contentLength>
-				<pubDate>2024-11-26T18:23:37.348</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1170378624" url="https://mikanani.me/Download/20241126/8489cb9414f184b7047b9b214e06eb60163732ec.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>LoliHouse</group>
-				<title_en>Shangri-La Frontier</title_en>
-				<resolution>1080p</resolution>
-				<episode>32</episode>
-				<season>1</season>
-				<title_zh>香格里拉·开拓异境～粪作猎手挑战神作～</title_zh>
-				<sub>简繁内封字幕</sub>
-				<title_jp>香格里拉·开拓异境～粪作猎手挑战神作～</title_jp>
-				<season_raw>32</season_raw>
-				<source>WebRip</source>
-				<size>1.09 GB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 		<item>
@@ -2835,6 +2785,55 @@
 				<title_jp>None</title_jp>
 				<size>1.35 GB</size>
 				<season_raw>千魔混沌编</season_raw>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 48 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/446d1483a39ab38eb7b633c21c942efe51838917</link>
+			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 48 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 48 (ABEMA 1920x1080 AVC AAC MP4)[66.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/446d1483a39ab38eb7b633c21c942efe51838917</link>
+				<contentLength>70002936</contentLength>
+				<pubDate>2024-11-28T02:03:24.162</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="70002936" url="https://mikanani.me/Download/20241128/446d1483a39ab38eb7b633c21c942efe51838917.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Chibi Godzilla no Gyakushuu</title_en>
+				<resolution>1920x1080</resolution>
+				<episode>48</episode>
+				<season>1</season>
+				<title_zh>小哥斯拉的逆袭</title_zh>
+				<sub>None</sub>
+				<title_jp>Chibi Godzilla no Gyakushuu</title_jp>
+				<season_raw>ABEMA</season_raw>
+				<source>None</source>
+				<size>66.76 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 - [简体内封][H265 10bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/400d80973052f69ca98b77f1a8b384c53a5b5e00</link>
+			<title>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 - [简体内封][H265 10bit 1080P]</title>
+			<description>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 - [简体内封][H265 10bit 1080P][220.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/400d80973052f69ca98b77f1a8b384c53a5b5e00</link>
+				<contentLength>231525584</contentLength>
+				<pubDate>2024-11-28T01:46:51.322141</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="231525584" url="https://mikanani.me/Download/20241128/400d80973052f69ca98b77f1a8b384c53a5b5e00.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>三明治摆烂组</group>
+				<title_en>Rekishi ni Nokoru Akujo ni Naru zo</title_en>
+				<resolution>1080P</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<source>H265 10bit</source>
+				<title_zh>成为名垂青史的反派大小姐吧</title_zh>
+				<sub>简体内封</sub>
+				<title_jp>異史に名اخ reflexivity 蔡月に行くあくじょ</title_jp>
+				<size>220.8 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
