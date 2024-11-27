@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组]妻子变成小学生[06][HEVC_AAC][1080p][繁简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/95b3a89508887502393bc4edafdf931ce5e4a5c4</link>
+			<title>[萌樱字幕组]妻子变成小学生[06][HEVC_AAC][1080p][繁简日内封]</title>
+			<description>[萌樱字幕组]妻子变成小学生[06][HEVC_AAC][1080p][繁简日内封][226.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/95b3a89508887502393bc4edafdf931ce5e4a5c4</link>
+				<contentLength>237817040</contentLength>
+				<pubDate>2024-11-27T19:01:58.604389</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="237817040" url="https://mikanani.me/Download/20241127/95b3a89508887502393bc4edafdf931ce5e4a5c4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][06][GB][720P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/b171e7e53895f8dcdbf2e981a630e5aefd044fc4</link>
 			<title>[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][06][GB][720P][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-26T01:21:44.892</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="376218592" url="https://mikanani.me/Download/20241126/ec0783a2023535abc075b4f9dddbda44d9c387a2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 最狂辅助职业【话术士】世界最强战团听我号令 / Saikyou no Shienshoku 'Wajutsushi' - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b37f77b68b61fd02f8985d31f7aa9886eb52292f</link>
-			<title>[Up to 21°C] 最狂辅助职业【话术士】世界最强战团听我号令 / Saikyou no Shienshoku 'Wajutsushi' - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 最狂辅助职业【话术士】世界最强战团听我号令 / Saikyou no Shienshoku 'Wajutsushi' - 09 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b37f77b68b61fd02f8985d31f7aa9886eb52292f</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2024-11-26T01:02:56.931</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241126/b37f77b68b61fd02f8985d31f7aa9886eb52292f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

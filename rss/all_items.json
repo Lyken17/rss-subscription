@@ -9702,5 +9702,38 @@
       "source": "None",
       "size": "315.3 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[萌樱字幕组]妻子变成小学生[06][HEVC_AAC][1080p][繁简日内封]"
+    },
+    "link": "https://mikanani.me/Home/Episode/95b3a89508887502393bc4edafdf931ce5e4a5c4",
+    "title": "[萌樱字幕组]妻子变成小学生[06][HEVC_AAC][1080p][繁简日内封]",
+    "description": "[萌樱字幕组]妻子变成小学生[06][HEVC_AAC][1080p][繁简日内封][226.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/95b3a89508887502393bc4edafdf931ce5e4a5c4",
+      "contentLength": "237817040",
+      "pubDate": "2024-11-27T19:01:58.604389"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "237817040",
+      "@url": "https://mikanani.me/Download/20241127/95b3a89508887502393bc4edafdf931ce5e4a5c4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "萌樱字幕组",
+      "title_en": "wife becomes a primary school student",
+      "resolution": "1080p",
+      "episode": 6,
+      "season": 1,
+      "title_zh": "妻子变成小学生",
+      "sub": "繁简日内封",
+      "title_jp": "'",
+      "season_raw": "'",
+      "source": "'",
+      "size": "226.8 MB"
+    }
   }
 ]
