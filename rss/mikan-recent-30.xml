@@ -6924,5 +6924,56 @@
 				<size>214.72 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 多数欠 / Tasuuketsu - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7a7783195fcc1410675a435d91e5164f746a3b5f</link>
+			<title>[LoliHouse] 多数欠 / Tasuuketsu - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 多数欠 / Tasuuketsu - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][304.94 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a7783195fcc1410675a435d91e5164f746a3b5f</link>
+				<contentLength>319752768</contentLength>
+				<pubDate>2024-11-27T11:52:49.285</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="319752768" url="https://mikanani.me/Download/20241127/7a7783195fcc1410675a435d91e5164f746a3b5f.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Tasuuketsu</title_en>
+				<resolution>HEVC-10bit</resolution>
+				<episode>20</episode>
+				<season>1</season>
+				<title_zh>多数欠</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Tasuuketsu</title_jp>
+				<season_raw>20</season_raw>
+				<source>WebRip</source>
+				<size>304.94 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/277a1288d48f5445f0b030731ecd512b01aa53df</link>
+			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][337.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/277a1288d48f5445f0b030731ecd512b01aa53df</link>
+				<contentLength>354408192</contentLength>
+				<pubDate>2024-11-27T11:52:44.792</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="354408192" url="https://mikanani.me/Download/20241127/277a1288d48f5445f0b030731ecd512b01aa53df.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Amagami-san Chi no Enmusubi</title_en>
+				<resolution>1080p</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>结缘甘神神社</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Amagami-san Chi no Enmusubi</title_jp>
+				<size>337.99 MB</size>
+				<size_unit>MB</size_unit>
+				<resolution_type>HEVC-10bit</resolution_type>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
