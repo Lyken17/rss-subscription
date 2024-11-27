@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/64bf90231e777cb1fa0a6959c661a07f06f96fc4</link>
+			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)[202.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64bf90231e777cb1fa0a6959c661a07f06f96fc4</link>
+				<contentLength>211822832</contentLength>
+				<pubDate>2024-11-27T10:00:59.85</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="211822832" url="https://mikanani.me/Download/20241127/64bf90231e777cb1fa0a6959c661a07f06f96fc4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 妻子变成小学生。 / Tsuma, Shougakusei ni Naru  [09][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/44a07de93031319fd0da46be9cd9710839f5c000</link>
 			<title>[桜都字幕组] 妻子变成小学生。 / Tsuma, Shougakusei ni Naru  [09][1080p][简繁内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-25T23:15:53.265</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="351398784" url="https://mikanani.me/Download/20241125/eedb14ce999834bde72a7012090192b699fff82e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 最狂辅助职业【话术士】世界最强战团听我号令 / Saikyou no Shienshoku 'Wajutsushi' - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a495b417226667b53f73c7fc479cc725c843627e</link>
-			<title>[Up to 21°C] 最狂辅助职业【话术士】世界最强战团听我号令 / Saikyou no Shienshoku 'Wajutsushi' - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 最狂辅助职业【话术士】世界最强战团听我号令 / Saikyou no Shienshoku 'Wajutsushi' - 08 (ABEMA 1920x1080 AVC AAC MP4)[711.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a495b417226667b53f73c7fc479cc725c843627e</link>
-				<contentLength>746428800</contentLength>
-				<pubDate>2024-11-25T23:03:52.238</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746428800" url="https://mikanani.me/Download/20241125/a495b417226667b53f73c7fc479cc725c843627e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
