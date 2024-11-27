@@ -9148,5 +9148,38 @@
       "title_jp": "Yowai 5000-nen no Soushoku Dragon S2",
       "size": "202.01 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/32321b9212900326f246e75ed86fdbdc30acf5dc",
+    "title": "【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译][214.72 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/32321b9212900326f246e75ed86fdbdc30acf5dc",
+      "contentLength": "225150240",
+      "pubDate": "2024-11-27T10:58:02.562"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "225150240",
+      "@url": "https://mikanani.me/Download/20241127/32321b9212900326f246e75ed86fdbdc30acf5dc.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋",
+      "title_en": "Chi. Chikyuu no Undou ni Tsuite",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "title_zh": "Chi。-关于地球的运动-",
+      "sub": "简日双语",
+      "title_jp": "Chi. Chikyuu no Undou ni Tsuite",
+      "season_raw": "10月新番",
+      "source": "None",
+      "size": "214.72 MB"
+    }
   }
 ]

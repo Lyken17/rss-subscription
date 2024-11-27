@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">凉宫ハルヒの忧郁2009+凉宫ハルヒの消失 凉宫春日的忧郁2009+凉宫春日的消失 国日粤英 合集</guid>
-			<link>https://mikanani.me/Home/Episode/4c35acbb80c2e8bd48ec2a8d63fdd7380e9584f2</link>
-			<title>凉宫ハルヒの忧郁2009+凉宫ハルヒの消失 凉宫春日的忧郁2009+凉宫春日的消失 国日粤英 合集</title>
-			<description>凉宫ハルヒの忧郁2009+凉宫ハルヒの消失 凉宫春日的忧郁2009+凉宫春日的消失 国日粤英 合集[106.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4c35acbb80c2e8bd48ec2a8d63fdd7380e9584f2</link>
-				<contentLength>114031378432</contentLength>
-				<pubDate>2024-11-26T03:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="114031378432" url="https://mikanani.me/Download/20241126/4c35acbb80c2e8bd48ec2a8d63fdd7380e9584f2.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>未提供</group>
-				<title_en>Coolpat Kamui no Uuu, Coolpat Kamui no Shouketsu</title_en>
-				<resolution>未提供</resolution>
-				<episode>未提供</episode>
-				<season>2009</season>
-				<title_zh>凉宫哈鲁希的忧郁2009+凉宫哈鲁希的消失</title_zh>
-				<sub>国日粤英</sub>
-				<title_jp>凉宫ハルヒの忧郁2009+凉宫ハルヒの消失</title_jp>
-				<season_raw>+</season_raw>
-				<source>未提供</source>
-				<size>106.2GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/fc9fdad960bf6e238e719c5540680060d17c2ae3</link>
 			<title>[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC]</title>
@@ -1787,6 +1762,31 @@
 				<sub>HEVC AAC</sub>
 				<title_jp>Yowai 5000-nen no Soushoku Dragon S2</title_jp>
 				<size>202.01 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/32321b9212900326f246e75ed86fdbdc30acf5dc</link>
+			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译][214.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/32321b9212900326f246e75ed86fdbdc30acf5dc</link>
+				<contentLength>225150240</contentLength>
+				<pubDate>2024-11-27T10:58:02.562</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="225150240" url="https://mikanani.me/Download/20241127/32321b9212900326f246e75ed86fdbdc30acf5dc.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>喵萌奶茶屋</group>
+				<title_en>Chi. Chikyuu no Undou ni Tsuite</title_en>
+				<resolution>1080p</resolution>
+				<episode>8</episode>
+				<season>1</season>
+				<title_zh>Chi。-关于地球的运动-</title_zh>
+				<sub>简日双语</sub>
+				<title_jp>Chi. Chikyuu no Undou ni Tsuite</title_jp>
+				<season_raw>10月新番</season_raw>
+				<source>None</source>
+				<size>214.72 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

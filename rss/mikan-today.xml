@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/32321b9212900326f246e75ed86fdbdc30acf5dc</link>
+			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][08][1080p][简日双语][招募翻译][214.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/32321b9212900326f246e75ed86fdbdc30acf5dc</link>
+				<contentLength>225150240</contentLength>
+				<pubDate>2024-11-27T10:58:02.562</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="225150240" url="https://mikanani.me/Download/20241127/32321b9212900326f246e75ed86fdbdc30acf5dc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/64bf90231e777cb1fa0a6959c661a07f06f96fc4</link>
 			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-25T23:32:00.013</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746407872" url="https://mikanani.me/Download/20241125/a4ba1de774375941d23319c91fad147c0beaadb4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 偶像大师 闪耀色彩 第二季 / THE IDOLM@STER SHINY COLORS S2 [07][WebRip][HEVC_AAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/eedb14ce999834bde72a7012090192b699fff82e</link>
-			<title>[北宇治字幕组] 偶像大师 闪耀色彩 第二季 / THE IDOLM@STER SHINY COLORS S2 [07][WebRip][HEVC_AAC][简繁日内封]</title>
-			<description>[北宇治字幕组] 偶像大师 闪耀色彩 第二季 / THE IDOLM@STER SHINY COLORS S2 [07][WebRip][HEVC_AAC][简繁日内封][335.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eedb14ce999834bde72a7012090192b699fff82e</link>
-				<contentLength>351398784</contentLength>
-				<pubDate>2024-11-25T23:15:53.265</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="351398784" url="https://mikanani.me/Download/20241125/eedb14ce999834bde72a7012090192b699fff82e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
