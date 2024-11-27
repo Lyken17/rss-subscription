@@ -6975,5 +6975,53 @@
 				<resolution_type>HEVC-10bit</resolution_type>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][07][1080P][MP4][GB][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/d440cef40a892ceb8cbb22577229be1e1831e9e0</link>
+			<title>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][07][1080P][MP4][GB][简中]</title>
+			<description>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][07][1080P][MP4][GB][简中][723.25 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d440cef40a892ceb8cbb22577229be1e1831e9e0</link>
+				<contentLength>758382592</contentLength>
+				<pubDate>2024-11-27T12:35:42.149</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="758382592" url="https://mikanani.me/Download/20241127/d440cef40a892ceb8cbb22577229be1e1831e9e0.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>漫猫字幕社&amp;猫恋汉化组</group>
+				<title_en>Bleach Sennen Kessen Hen - Soukoku Tan</title_en>
+				<resolution>1080P</resolution>
+				<episode>7</episode>
+				<season>1</season>
+				<source>GB</source>
+				<title_zh>死神 千年血战篇-相克谭-</title_zh>
+				<sub>简中</sub>
+				<title_jp>Bleach Sennen Kessen Hen - Soukoku Tan</title_jp>
+				<size>723.25 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][07][1080P][MP4][BIG5][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/10c35ff934f5dc7095a110891f2cc001b255bdb6</link>
+			<title>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][07][1080P][MP4][BIG5][繁中]</title>
+			<description>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][07][1080P][MP4][BIG5][繁中][722.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10c35ff934f5dc7095a110891f2cc001b255bdb6</link>
+				<contentLength>757952704</contentLength>
+				<pubDate>2024-11-27T12:35:15.967</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757952704" url="https://mikanani.me/Download/20241127/10c35ff934f5dc7095a110891f2cc001b255bdb6.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>漫猫字幕社&amp;猫恋汉化组</group>
+				<title_en>Bleach Sennen Kessen Hen - Soukoku Tan</title_en>
+				<resolution>1080P</resolution>
+				<episode>7</episode>
+				<season>1</season>
+				<source>BIG5</source>
+				<title_zh>死神 千年血战篇-相克谭-</title_zh>
+				<sub>繁中</sub>
+				<title_jp>死神 千年血战篇-相克谭-</title_jp>
+				<size>722.84 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
