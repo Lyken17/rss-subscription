@@ -11905,5 +11905,103 @@
       "source": "ABEMA",
       "size": "80.32 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/4e9c2ccdabfb58b51a68f9521b873e4785de4cd3",
+    "title": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4e9c2ccdabfb58b51a68f9521b873e4785de4cd3",
+      "contentLength": "1449551488",
+      "pubDate": "2024-11-28T22:03:02.685"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241128/4e9c2ccdabfb58b51a68f9521b873e4785de4cd3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Kinoko Inu",
+      "resolution": "1920x1080",
+      "episode": 9,
+      "season": 1,
+      "title_zh": "蘑菇狗",
+      "sub": "None",
+      "title_jp": "None",
+      "season_raw": "21°C",
+      "source": "None",
+      "size": "1.35 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 09 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/2caa20c392eb162cc23fb2bac70e0e0cb5b5f2e7",
+    "title": "[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 09 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 09 (ABEMA 1920x1080 AVC AAC MP4)[711.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2caa20c392eb162cc23fb2bac70e0e0cb5b5f2e7",
+      "contentLength": "746376384",
+      "pubDate": "2024-11-28T22:02:16.223"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "746376384",
+      "@url": "https://mikanani.me/Download/20241128/2caa20c392eb162cc23fb2bac70e0e0cb5b5f2e7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "NegaPosi Angler",
+      "resolution": "1080",
+      "episode": 9,
+      "season": 1,
+      "title_zh": "悲喜渔生",
+      "sub": "ABEMA",
+      "title_jp": "None",
+      "season_raw": "None",
+      "source": "None",
+      "size": "711.8 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][败犬女主太多了！/Make Heroine ga Oosugiru!/负けヒロインが多すぎる!][05-06TV+特典映像][BOX3][1080P][BDRip][HEVC-10bit][FLACx2][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d2e47e94ca99c913766697c4bcd232145b935b28",
+    "title": "[DBD-Raws][败犬女主太多了！/Make Heroine ga Oosugiru!/负けヒロインが多すぎる!][05-06TV+特典映像][BOX3][1080P][BDRip][HEVC-10bit][FLACx2][MKV]",
+    "description": "[DBD-Raws][败犬女主太多了！/Make Heroine ga Oosugiru!/负けヒロインが多すぎる!][05-06TV+特典映像][BOX3][1080P][BDRip][HEVC-10bit][FLACx2][MKV][2.4GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d2e47e94ca99c913766697c4bcd232145b935b28",
+      "contentLength": "2576980480",
+      "pubDate": "2024-11-28T21:57:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2576980480",
+      "@url": "https://mikanani.me/Download/20241128/d2e47e94ca99c913766697c4bcd232145b935b28.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Make Heroine ga Oosugiru!/负けヒロインが多すぎる!!",
+      "resolution": "1080P",
+      "episode": "05-06TV+特典映像",
+      "season": 3,
+      "source": "BDRip",
+      "title_zh": "败犬女主太多了！",
+      "sub": "无",
+      "title_jp": "Make Heroine ga Oosugiru!/負けヒロインが多すぎる!!",
+      "size": "2.4GB"
+    }
   }
 ]
