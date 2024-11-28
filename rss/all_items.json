@@ -11774,5 +11774,38 @@
       "source": "BDRip",
       "size": "10.6GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[GM-Team][国漫][完美世界][Perfect World][2021][191][AVC][GB][1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/10467b4335c02d91a4b61c91a98a0d71e523dd75",
+    "title": "[GM-Team][国漫][完美世界][Perfect World][2021][191][AVC][GB][1080P]",
+    "description": "[GM-Team][国漫][完美世界][Perfect World][2021][191][AVC][GB][1080P][381.94 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/10467b4335c02d91a4b61c91a98a0d71e523dd75",
+      "contentLength": "400493120",
+      "pubDate": "2024-11-28T20:34:36.914"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "400493120",
+      "@url": "https://mikanani.me/Download/20241128/10467b4335c02d91a4b61c91a98a0d71e523dd75.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "GM-Team",
+      "title_en": "Perfect World",
+      "resolution": "1080P",
+      "episode": 2021,
+      "season": 1,
+      "source": "GB",
+      "title_zh": "完美世界",
+      "sub": "AVC",
+      "title_jp": null,
+      "season_raw": "2021",
+      "size": "381.94 MB"
+    }
   }
 ]
