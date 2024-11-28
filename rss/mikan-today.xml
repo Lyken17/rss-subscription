@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语][425.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153</link>
+				<contentLength>445959360</contentLength>
+				<pubDate>2024-11-29T03:37:46.637142</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20241129/389eafba00bae508a52a466758dbe14cdb395153.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 33 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/6522f217f2600f8e91c447f5a2db85c5459f1a38</link>
 			<title>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 33 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-27T21:31:10.562</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749920576" url="https://mikanani.me/Download/20241127/2b6a43f14c1e9b2721b79f10a99c03d31cd15a43.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][名侦探柯南剧场版27 百万美元的五棱星/Detective Conan Movie 27: The Million-Dollar Pentagram/名探侦コナン 100万ドルの五棱星][正片+SP+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/57fb3d40fcd609cfc37ba7dc62868df4ca5d9904</link>
-			<title>[DBD-Raws][名侦探柯南剧场版27 百万美元的五棱星/Detective Conan Movie 27: The Million-Dollar Pentagram/名探侦コナン 100万ドルの五棱星][正片+SP+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV]</title>
-			<description>[DBD-Raws][名侦探柯南剧场版27 百万美元的五棱星/Detective Conan Movie 27: The Million-Dollar Pentagram/名探侦コナン 100万ドルの五棱星][正片+SP+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV][11.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/57fb3d40fcd609cfc37ba7dc62868df4ca5d9904</link>
-				<contentLength>12777527296</contentLength>
-				<pubDate>2024-11-27T21:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="12777527296" url="https://mikanani.me/Download/20241127/57fb3d40fcd609cfc37ba7dc62868df4ca5d9904.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

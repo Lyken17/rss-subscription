@@ -13489,5 +13489,38 @@
       "source": "None",
       "season_raw": "1920x1080 AVC AAC MP4"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]"
+    },
+    "link": "https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153",
+    "title": "【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]",
+    "description": "【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语][425.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153",
+      "contentLength": "445959360",
+      "pubDate": "2024-11-29T03:37:46.637142"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "445959360",
+      "@url": "https://mikanani.me/Download/20241129/389eafba00bae508a52a466758dbe14cdb395153.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "今晚月色真美",
+      "title_en": "Ao no Hako",
+      "resolution": "1080P",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "青之箱",
+      "sub": "简日双语",
+      "title_jp": "アオのハコ",
+      "size": "425.3 MB",
+      "source": "WEBrip",
+      "season_raw": ""
+    }
   }
 ]
