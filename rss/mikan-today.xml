@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34</link>
+			<title>[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin][13.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34</link>
+				<contentLength>14495514624</contentLength>
+				<pubDate>2024-11-28T11:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14495514624" url="https://mikanani.me/Download/20241128/b9de319cb3e7a871cf575f4379116c36d9430f34.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/be3c37d7144869c1f265acb43b02e977a23b7722</link>
 			<title>[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-26T22:33:10.135165</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="359347008" url="https://mikanani.me/Download/20241126/19012f3038c09c9c9faf5749d665f1426133c252.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 辰星降临之国的妮娜 / Hoshi Furu Oukoku no Nina [08] [1080p] [简日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/e05b6d07e1d550878b3ec5a6dce05de2947628db</link>
-			<title>[猎户手抄部] 辰星降临之国的妮娜 / Hoshi Furu Oukoku no Nina [08] [1080p] [简日内嵌] [2024年10月番]</title>
-			<description>[猎户手抄部] 辰星降临之国的妮娜 / Hoshi Furu Oukoku no Nina [08] [1080p] [简日内嵌] [2024年10月番][343.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e05b6d07e1d550878b3ec5a6dce05de2947628db</link>
-				<contentLength>359976128</contentLength>
-				<pubDate>2024-11-26T22:33:08.227439</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="359976128" url="https://mikanani.me/Download/20241126/e05b6d07e1d550878b3ec5a6dce05de2947628db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

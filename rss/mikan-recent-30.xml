@@ -8559,5 +8559,29 @@
 				<size>1.1 GB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34</link>
+			<title>[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin][13.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34</link>
+				<contentLength>14495514624</contentLength>
+				<pubDate>2024-11-28T11:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14495514624" url="https://mikanani.me/Download/20241128/b9de319cb3e7a871cf575f4379116c36d9430f34.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>VCB-Studio</group>
+				<title_en>Otonari ni Ginga</title_en>
+				<resolution>1080p</resolution>
+				<episode>10-bit</episode>
+				<season>1</season>
+				<title_zh>邻人似银河</title_zh>
+				<sub>Fin</sub>
+				<title_jp>おとなりに银河</title_jp>
+				<size>13.5GB</size>
+				<season_raw></season_raw>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>

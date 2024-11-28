@@ -11352,5 +11352,37 @@
       "title_jp": "Saikyou no Shienshoku Wajutsushi",
       "size": "1.1 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34",
+    "title": "[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]",
+    "description": "[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin][13.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34",
+      "contentLength": "14495514624",
+      "pubDate": "2024-11-28T11:54:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "14495514624",
+      "@url": "https://mikanani.me/Download/20241128/b9de319cb3e7a871cf575f4379116c36d9430f34.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "VCB-Studio",
+      "title_en": "Otonari ni Ginga",
+      "resolution": "1080p",
+      "episode": "10-bit",
+      "season": 1,
+      "title_zh": "邻人似银河",
+      "sub": "Fin",
+      "title_jp": "おとなりに银河",
+      "size": "13.5GB",
+      "season_raw": ""
+    }
   }
 ]

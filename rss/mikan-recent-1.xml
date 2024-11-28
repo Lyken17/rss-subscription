@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2024-11-27T04:04:52.803</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241127/59f196831f1abb79769d49fea76f72c35c7c9852.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Tasuuketsu</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>20</episode>
-				<season>1</season>
-				<source>CR</source>
-				<title_zh>多数欠</title_zh>
-				<sub>None</sub>
-				<title_jp>Tasuuketsu</title_jp>
-				<size>1.3 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/02bbe0d9f4a464b2179b04cff7b5f3cdc20d07ff</link>
 			<title>[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 - [简体内封][H265 10bit 1080P]</title>
@@ -1879,6 +1855,30 @@
 				<sub>简繁内封字幕</sub>
 				<title_jp>Saikyou no Shienshoku Wajutsushi</title_jp>
 				<size>1.1 GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34</link>
+			<title>[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 邻人似银河 / Otonari ni Ginga / おとなりに银河 10-bit 1080p HEVC BDRip [Fin][13.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9de319cb3e7a871cf575f4379116c36d9430f34</link>
+				<contentLength>14495514624</contentLength>
+				<pubDate>2024-11-28T11:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14495514624" url="https://mikanani.me/Download/20241128/b9de319cb3e7a871cf575f4379116c36d9430f34.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>VCB-Studio</group>
+				<title_en>Otonari ni Ginga</title_en>
+				<resolution>1080p</resolution>
+				<episode>10-bit</episode>
+				<season>1</season>
+				<title_zh>邻人似银河</title_zh>
+				<sub>Fin</sub>
+				<title_jp>おとなりに银河</title_jp>
+				<size>13.5GB</size>
+				<season_raw></season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
