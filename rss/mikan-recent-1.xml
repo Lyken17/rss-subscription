@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a</link>
-			<title>【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】★剧场版[名侦探柯南 Detective Conan Movie 27 百万美元的五棱星][BDRip][繁体][1080P][MP4][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2024-11-27T05:48:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20241127/bd9c787c1b79627d251bb8ffc32bb51ebcdb556a.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>豌豆字幕组</group>
-				<title_en>Detective Conan Movie 27</title_en>
-				<resolution>1080P</resolution>
-				<episode></episode>
-				<season></season>
-				<title_zh>名侦探柯南剧场版 百万美元的五棱星</title_zh>
-				<sub>繁体</sub>
-				<title_jp></title_jp>
-				<season_raw></season_raw>
-				<source>BDRip</source>
-				<size>1.2GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 妻子变成小学生。 / Tsuma, Shougakusei ni Naru  [09][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/44a07de93031319fd0da46be9cd9710839f5c000</link>
 			<title>[桜都字幕组] 妻子变成小学生。 / Tsuma, Shougakusei ni Naru  [09][1080p][简繁内封]</title>
@@ -1955,6 +1930,30 @@
 				<season_raw>Sousou no Frieren - 05</season_raw>
 				<source>BDRip</source>
 				<size>1.07 GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Acro Trip 顶尖恶路 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7d9762af6e9ac694ba06e89517b6b811cd7a857a</link>
+			<title>[LoliHouse] Acro Trip 顶尖恶路 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Acro Trip 顶尖恶路 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][560.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d9762af6e9ac694ba06e89517b6b811cd7a857a</link>
+				<contentLength>587957504</contentLength>
+				<pubDate>2024-11-28T13:58:53.955</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="587957504" url="https://mikanani.me/Download/20241128/7d9762af6e9ac694ba06e89517b6b811cd7a857a.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Acro Trip 顶尖恶路</title_en>
+				<resolution>1080p</resolution>
+				<episode>10</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>顶尖恶路</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Acro Trip</title_jp>
+				<size>560.72 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

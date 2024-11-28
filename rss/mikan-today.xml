@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] Acro Trip 顶尖恶路 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7d9762af6e9ac694ba06e89517b6b811cd7a857a</link>
+			<title>[LoliHouse] Acro Trip 顶尖恶路 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Acro Trip 顶尖恶路 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][560.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d9762af6e9ac694ba06e89517b6b811cd7a857a</link>
+				<contentLength>587957504</contentLength>
+				<pubDate>2024-11-28T13:58:53.955</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="587957504" url="https://mikanani.me/Download/20241128/7d9762af6e9ac694ba06e89517b6b811cd7a857a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 凉宫春日的忧郁 / 凉宫ハルヒの忧郁 / Suzumiya Haruhi no Yuuutsu - 04 [BDRip][HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/d6bce2b7f37798670aea18d9536733beec9ccbbf</link>
 			<title>[❀拨雪寻春❀] 凉宫春日的忧郁 / 凉宫ハルヒの忧郁 / Suzumiya Haruhi no Yuuutsu - 04 [BDRip][HEVC-10bit 1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-26T23:01:19.163</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="223587856" url="https://mikanani.me/Download/20241126/ac7025075d8cb8a93eff79af3925738f57cabd9d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Amagamisan Chi no Enmusubi /  结缘甘神神社 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/879a4565b2153aa4ab00330c28d833d04329e877</link>
-			<title>[ANi] Amagamisan Chi no Enmusubi /  结缘甘神神社 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Amagamisan Chi no Enmusubi /  结缘甘神神社 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][330.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/879a4565b2153aa4ab00330c28d833d04329e877</link>
-				<contentLength>346554368</contentLength>
-				<pubDate>2024-11-26T23:01:05.692779</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="346554368" url="https://mikanani.me/Download/20241126/879a4565b2153aa4ab00330c28d833d04329e877.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
