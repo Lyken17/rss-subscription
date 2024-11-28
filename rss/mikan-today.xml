@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3</link>
+			<title>[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕]</title>
+			<description>[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕][11.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3</link>
+				<contentLength>12025908224</contentLength>
+				<pubDate>2024-11-29T06:00:14.506335</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20241129/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153</link>
 			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-27T21:46:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="22870700032" url="https://mikanani.me/Download/20241127/638e07107d56c82bdcf3e6270b0a1fb8eff8b90f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 七大罪 默示录的四骑士 第二季 / Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season - 31 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2b6a43f14c1e9b2721b79f10a99c03d31cd15a43</link>
-			<title>[Up to 21°C] 七大罪 默示录的四骑士 第二季 / Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season - 31 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 七大罪 默示录的四骑士 第二季 / Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season - 31 (ABEMA 1920x1080 AVC AAC MP4)[715.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2b6a43f14c1e9b2721b79f10a99c03d31cd15a43</link>
-				<contentLength>749920576</contentLength>
-				<pubDate>2024-11-27T21:31:10.562</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="749920576" url="https://mikanani.me/Download/20241127/2b6a43f14c1e9b2721b79f10a99c03d31cd15a43.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

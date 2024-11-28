@@ -10193,5 +10193,29 @@
 				<season_raw></season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3</link>
+			<title>[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕]</title>
+			<description>[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕][11.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3</link>
+				<contentLength>12025908224</contentLength>
+				<pubDate>2024-11-29T06:00:14.506335</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20241129/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>奇怪压制组</group>
+				<title_en>Oshi no Ko</title_en>
+				<resolution>1080P</resolution>
+				<episode>1-6</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>我推的孩子</title_zh>
+				<sub>简繁日内封字幕</sub>
+				<title_jp>推しの子</title_jp>
+				<size>11.2 GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
