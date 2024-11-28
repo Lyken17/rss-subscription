@@ -11807,5 +11807,103 @@
       "season_raw": "2021",
       "size": "381.94 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[澄空学园] 常轨脱离Creative 第08话 MP4 1080p"
+    },
+    "link": "https://mikanani.me/Home/Episode/f4c8d86e59c9afe1f517d1f5b68cdc214e916445",
+    "title": "[澄空学园] 常轨脱离Creative 第08话 MP4 1080p",
+    "description": "[澄空学园] 常轨脱离Creative 第08话 MP4 1080p[84.6MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f4c8d86e59c9afe1f517d1f5b68cdc214e916445",
+      "contentLength": "88709528",
+      "pubDate": "2024-11-28T21:12:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "88709528",
+      "@url": "https://mikanani.me/Download/20241128/f4c8d86e59c9afe1f517d1f5b68cdc214e916445.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "澄空学园",
+      "title_en": "Creative",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "title_zh": "常轨脱离",
+      "sub": "None",
+      "title_jp": "常轨脱离Creative",
+      "season_raw": "第08话",
+      "source": "None",
+      "size": "84.6MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 09 (B-Global 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3eff6f51d63aea69c15506f8e49aa4a7a91de844",
+    "title": "[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 09 (B-Global 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 09 (B-Global 1920x1080 HEVC AAC MKV)[243.96 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3eff6f51d63aea69c15506f8e49aa4a7a91de844",
+      "contentLength": "255810608",
+      "pubDate": "2024-11-28T21:00:58.665"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "255810608",
+      "@url": "https://mikanani.me/Download/20241128/3eff6f51d63aea69c15506f8e49aa4a7a91de844.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global",
+      "title_en": "NegaPosi Angler",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "unknown",
+      "title_zh": "悲喜渔生",
+      "sub": "unknown",
+      "title_jp": "unknown",
+      "size": "243.96 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Shibuya♡Hachi Part 2 - 21 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/a9b334bf2b6e828d8e717c9cf8f3334f30bbe378",
+    "title": "[Up to 21°C] Shibuya♡Hachi Part 2 - 21 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Shibuya♡Hachi Part 2 - 21 (ABEMA 1920x1080 AVC AAC MP4)[80.32 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a9b334bf2b6e828d8e717c9cf8f3334f30bbe378",
+      "contentLength": "84221624",
+      "pubDate": "2024-11-28T21:00:38.826"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "84221624",
+      "@url": "https://mikanani.me/Download/20241128/a9b334bf2b6e828d8e717c9cf8f3334f30bbe378.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Shibuya♡Hachi Part 2",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 2,
+      "title_zh": "涉鱼×八宫PART2",
+      "sub": "简体字幕",
+      "title_jp": "渋谷♡ハチ 第2部",
+      "season_raw": "Part 2",
+      "source": "ABEMA",
+      "size": "80.32 MB"
+    }
   }
 ]
