@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5</link>
-			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)[721.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5</link>
-				<contentLength>757040384</contentLength>
-				<pubDate>2024-11-27T03:00:47.083</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="757040384" url="https://mikanani.me/Download/20241127/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Yu☆Gi☆Oh! Go Rush!!</title_en>
-				<resolution>1080p</resolution>
-				<episode>135</episode>
-				<season>1</season>
-				<title_zh>游戏王 Go Rush！！</title_zh>
-				<sub> </sub>
-				<title_jp>Yu☆Gi☆Oh! Go Rush!!</title_jp>
-				<season_raw>ABEMA 1920x1080</season_raw>
-				<source>MP4</source>
-				<size>721.97 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852</link>
 			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1880,6 +1855,30 @@
 				<size>1.4 GB</size>
 				<season_raw>[2023][65]</season_raw>
 				<source>GB</source>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/be3c37d7144869c1f265acb43b02e977a23b7722</link>
+			<title>[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕][1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/be3c37d7144869c1f265acb43b02e977a23b7722</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2024-11-28T11:03:36.075906</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20241128/be3c37d7144869c1f265acb43b02e977a23b7722.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>沸羊羊制作</group>
+				<title_en>Saikyou no Shienshoku Wajutsushi</title_en>
+				<resolution>2160p</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>依靠最弱辅助职能话术士</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Saikyou no Shienshoku Wajutsushi</title_jp>
+				<size>1.1 GB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

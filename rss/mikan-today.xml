@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/be3c37d7144869c1f265acb43b02e977a23b7722</link>
+			<title>[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸羊羊制作] 依靠最弱辅助职能话术士 / Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁内封字幕][1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/be3c37d7144869c1f265acb43b02e977a23b7722</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2024-11-28T11:03:36.075906</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20241128/be3c37d7144869c1f265acb43b02e977a23b7722.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 依靠最弱辅助职能话术士/ Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/284e23ecbc589c1c08d12e01e42f3db93cd15e2a</link>
 			<title>[沸羊羊制作] 依靠最弱辅助职能话术士/ Saikyou no Shienshoku Wajutsushi - 09 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-26T22:33:08.227439</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="359976128" url="https://mikanani.me/Download/20241126/e05b6d07e1d550878b3ec5a6dce05de2947628db.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][鬼太郎诞生 咯咯咯之谜/Kitarou Tanjou: Gegege no Nazo/鬼太郎诞生 ゲゲゲの谜‎][1080P][BDRip][HEVC-10bit][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/aad637086ef65502ececd9bbc990b08eba23610b</link>
-			<title>[DBD-Raws][鬼太郎诞生 咯咯咯之谜/Kitarou Tanjou: Gegege no Nazo/鬼太郎诞生 ゲゲゲの谜‎][1080P][BDRip][HEVC-10bit][FLAC][MKV]</title>
-			<description>[DBD-Raws][鬼太郎诞生 咯咯咯之谜/Kitarou Tanjou: Gegege no Nazo/鬼太郎诞生 ゲゲゲの谜‎][1080P][BDRip][HEVC-10bit][FLAC][MKV][7.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aad637086ef65502ececd9bbc990b08eba23610b</link>
-				<contentLength>7945689600</contentLength>
-				<pubDate>2024-11-26T22:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20241126/aad637086ef65502ececd9bbc990b08eba23610b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
