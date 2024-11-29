@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/785c3e0709f792651ca9cf6a13e60ca233d31351</link>
+			<title>[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕][993.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/785c3e0709f792651ca9cf6a13e60ca233d31351</link>
+				<contentLength>1041550528</contentLength>
+				<pubDate>2024-11-30T04:26:26.120369</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1041550528" url="https://mikanani.me/Download/20241130/785c3e0709f792651ca9cf6a13e60ca233d31351.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9403d206867141c57bbdcfad09ada9cd7b1b4cd3</link>
 			<title>[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -12,7 +24,7 @@
 			<torrent xmlns="https://mikanani.me/0.1/">
 				<link>https://mikanani.me/Home/Episode/9403d206867141c57bbdcfad09ada9cd7b1b4cd3</link>
 				<contentLength>344981504</contentLength>
-				<pubDate>2024-11-30T04:14:00</pubDate>
+				<pubDate>2024-11-30T04:25:44.222122</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="344981504" url="https://mikanani.me/Download/20241130/9403d206867141c57bbdcfad09ada9cd7b1b4cd3.torrent"></enclosure>
 		</item>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-29T01:38:35.011</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="209956368" url="https://mikanani.me/Download/20241129/b68cc6182a22617eae519596680e0fb0f9dd579c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 机械臂 / Mecha-ude (TV) - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a3c0064d4d8a8954b588d8defe7077ab9b054439</link>
-			<title>[Up to 21°C] 机械臂 / Mecha-ude (TV) - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 机械臂 / Mecha-ude (TV) - 09 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a3c0064d4d8a8954b588d8defe7077ab9b054439</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2024-11-29T01:32:44.467</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20241129/a3c0064d4d8a8954b588d8defe7077ab9b054439.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
