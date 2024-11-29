@@ -13619,5 +13619,69 @@
       "title_jp": "Tsuma, Shougakusei ni Naru",
       "size": "222.01 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[7³ACG] 偶像大师 灰姑娘女孩 U149/The Idolmaster Cinderella Girls U149 S01 | 01-12+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0"
+    },
+    "link": "https://mikanani.me/Home/Episode/5fbafb7cd9dd314fb0d10bcf1653409f31901594",
+    "title": "[7³ACG] 偶像大师 灰姑娘女孩 U149/The Idolmaster Cinderella Girls U149 S01 | 01-12+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0",
+    "description": "[7³ACG] 偶像大师 灰姑娘女孩 U149/The Idolmaster Cinderella Girls U149 S01 | 01-12+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0[5.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5fbafb7cd9dd314fb0d10bcf1653409f31901594",
+      "contentLength": "5476083200",
+      "pubDate": "2024-11-29T11:10:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "5476083200",
+      "@url": "https://mikanani.me/Download/20241129/5fbafb7cd9dd314fb0d10bcf1653409f31901594.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "7³ACG",
+      "title_en": "The Idolmaster Cinderella Girls",
+      "resolution": "1080p",
+      "episode": "01-12+OVA",
+      "season": 1,
+      "source": "BDrip",
+      "title_zh": "偶像大师 灰姑娘女孩",
+      "sub": "简繁字幕",
+      "title_jp": "The Idolmaster Cinderella Girls",
+      "size": "5.1GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/bea78f3612b1f7e853f37ae4eb1be48d2056375a",
+    "title": "[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)[230.47 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/bea78f3612b1f7e853f37ae4eb1be48d2056375a",
+      "contentLength": "241665312",
+      "pubDate": "2024-11-29T11:01:17.222"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "241665312",
+      "@url": "https://mikanani.me/Download/20241129/bea78f3612b1f7e853f37ae4eb1be48d2056375a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global Donghua",
+      "title_en": "Mythical Creatures Are My Dinners",
+      "resolution": "1080p",
+      "episode": 27,
+      "season": 1,
+      "source": "HEVC",
+      "title_zh": "今天的晚餐就是你",
+      "sub": "AAC",
+      "title_jp": " Mythical Creatures Are My Dinners",
+      "size": "230.47 MB"
+    }
   }
 ]
