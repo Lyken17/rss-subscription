@@ -276,5 +276,29 @@
 				<resolution_raw>WebRip 1080p HEVC-10bit AAC</resolution_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 去参加联谊，却发现完全没有女生在场 / Goukon ni Ittara Onna ga Inakatta Hanashi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f7f8a631ae27745fa799b361759f792beb54de78</link>
+			<title>[LoliHouse] 去参加联谊，却发现完全没有女生在场 / Goukon ni Ittara Onna ga Inakatta Hanashi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 去参加联谊，却发现完全没有女生在场 / Goukon ni Ittara Onna ga Inakatta Hanashi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][315.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7f8a631ae27745fa799b361759f792beb54de78</link>
+				<contentLength>331045920</contentLength>
+				<pubDate>2024-11-30T02:24:05.219</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331045920" url="https://mikanani.me/Download/20241130/f7f8a631ae27745fa799b361759f792beb54de78.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Goukon ni Ittara Onna ga Inakatta Hanashi</title_en>
+				<resolution>1080p</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>去参加联谊，却发现完全没有女生在场</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Goukon ni Ittara Onna ga Inakatta Hanashi</title_jp>
+				<size>315.71 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
