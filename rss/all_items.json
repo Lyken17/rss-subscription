@@ -13554,5 +13554,70 @@
       "title_jp": "推しの子",
       "size": "11.2 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[爱恋字幕社&漫猫字幕社][妻子变成小学生。][Tsuma, Shougakusei ni Naru][06][1080P][MP4][BIG5][繁中]"
+    },
+    "link": "https://mikanani.me/Home/Episode/65892c307b25968fa2bc6cda045be49fdea0dd40",
+    "title": "[爱恋字幕社&漫猫字幕社][妻子变成小学生。][Tsuma, Shougakusei ni Naru][06][1080P][MP4][BIG5][繁中]",
+    "description": "[爱恋字幕社&漫猫字幕社][妻子变成小学生。][Tsuma, Shougakusei ni Naru][06][1080P][MP4][BIG5][繁中][222.01 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/65892c307b25968fa2bc6cda045be49fdea0dd40",
+      "contentLength": "232794352",
+      "pubDate": "2024-11-29T10:00:58.968"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "232794352",
+      "@url": "https://mikanani.me/Download/20241129/65892c307b25968fa2bc6cda045be49fdea0dd40.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "爱恋字幕社&漫猫字幕社",
+      "title_en": "Tsuma, Shougakusei ni Naru",
+      "title_zh": "妻子变成小学生",
+      "resolution": "1080P",
+      "episode": 6,
+      "season": 1,
+      "sub": "繁中",
+      "title_jp": "妻子变成小学生",
+      "size": "222.01 MB",
+      "source": "MP4",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[爱恋字幕社&漫猫字幕社][妻子变成小学生。][Tsuma, Shougakusei ni Naru][06][1080P][MP4][GB][简中]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1e775962f99d41af7854a1a47a3571bb77fa4dc7",
+    "title": "[爱恋字幕社&漫猫字幕社][妻子变成小学生。][Tsuma, Shougakusei ni Naru][06][1080P][MP4][GB][简中]",
+    "description": "[爱恋字幕社&漫猫字幕社][妻子变成小学生。][Tsuma, Shougakusei ni Naru][06][1080P][MP4][GB][简中][222.01 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1e775962f99d41af7854a1a47a3571bb77fa4dc7",
+      "contentLength": "232794352",
+      "pubDate": "2024-11-29T10:00:35.124"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "232794352",
+      "@url": "https://mikanani.me/Download/20241129/1e775962f99d41af7854a1a47a3571bb77fa4dc7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "爱恋字幕社&漫猫字幕社",
+      "title_en": "Tsuma, Shougakusei ni Naru",
+      "resolution": "1080P",
+      "episode": 6,
+      "season": 1,
+      "source": "GB",
+      "title_zh": "妻子变成小学生",
+      "sub": "简中",
+      "title_jp": "Tsuma, Shougakusei ni Naru",
+      "size": "222.01 MB"
+    }
   }
 ]
