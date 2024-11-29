@@ -13944,5 +13944,69 @@
       "size": "29.3GB",
       "season_raw": "第二季"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[香子兰翻译同好会] 常轨脱离Creative [09][WebRip][x264 AAC][简日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b675a19ec29978809a2771cd76d65ba087f508c7",
+    "title": "[香子兰翻译同好会] 常轨脱离Creative [09][WebRip][x264 AAC][简日内嵌]",
+    "description": "[香子兰翻译同好会] 常轨脱离Creative [09][WebRip][x264 AAC][简日内嵌][89.7 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b675a19ec29978809a2771cd76d65ba087f508c7",
+      "contentLength": "94057264",
+      "pubDate": "2024-11-29T18:42:23.145339"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "94057264",
+      "@url": "https://mikanani.me/Download/20241129/b675a19ec29978809a2771cd76d65ba087f508c7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "香子兰翻译同好会",
+      "title_en": "Creative",
+      "resolution": "x264",
+      "episode": 9,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "常轨脱离",
+      "sub": "简日内嵌",
+      "title_jp": null,
+      "size": "89.7 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7c70e6419382e47c594ab8dc2d975c3f92d69827",
+    "title": "[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][562.11 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7c70e6419382e47c594ab8dc2d975c3f92d69827",
+      "contentLength": "589415040",
+      "pubDate": "2024-11-29T18:20:49.42"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "589415040",
+      "@url": "https://mikanani.me/Download/20241129/7c70e6419382e47c594ab8dc2d975c3f92d69827.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "365 Days to the Wedding",
+      "resolution": "HEVC-10bit",
+      "episode": 9,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "真的要结婚吗",
+      "title_jp": "結婚するって、本当ですか",
+      "sub": "简繁内封字幕",
+      "size": "562.11 MB"
+    }
   }
 ]
