@@ -16337,5 +16337,69 @@
       "title_jp": "トウハ :裏ラテ マホウングトウハロク",
       "size": "713.08 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9403d206867141c57bbdcfad09ada9cd7b1b4cd3",
+    "title": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 10 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][329MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9403d206867141c57bbdcfad09ada9cd7b1b4cd3",
+      "contentLength": "344981504",
+      "pubDate": "2024-11-30T04:14:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "344981504",
+      "@url": "https://mikanani.me/Download/20241130/9403d206867141c57bbdcfad09ada9cd7b1b4cd3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊字幕组",
+      "title_en": "Ao no Hako",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "NF WebRip",
+      "title_zh": "青之箱",
+      "sub": "简繁日内封字幕",
+      "title_jp": "Ao no Hako",
+      "size": "329MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 09 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/a17074d05f02b55f1d14711a7e207382c5bbc8d0",
+    "title": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 09 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 09 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a17074d05f02b55f1d14711a7e207382c5bbc8d0",
+      "contentLength": "1449551488",
+      "pubDate": "2024-11-30T03:33:05.03"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241130/a17074d05f02b55f1d14711a7e207382c5bbc8d0.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "resolution": "1920x1080",
+      "episode": 9,
+      "season": 1,
+      "source": "None",
+      "title_zh": "当不成魔法师的女孩",
+      "sub": "None",
+      "title_jp": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "size": "1.35 GB"
+    }
   }
 ]
