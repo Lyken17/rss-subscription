@@ -15236,5 +15236,233 @@
       "size": "606.5MB",
       "season_raw": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 09 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/5dac6a82dd6ce16ae1eb8749d84df2c282a10bab",
+    "title": "[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 09 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 女神降临（日配版） / Yeosin Gangnim (Japanese Audio) - 09 (CR 1920x1080 AVC AAC MKV)[1.08 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5dac6a82dd6ce16ae1eb8749d84df2c282a10bab",
+      "contentLength": "1159641216",
+      "pubDate": "2024-11-30T00:01:35.484"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1159641216",
+      "@url": "https://mikanani.me/Download/20241130/5dac6a82dd6ce16ae1eb8749d84df2c282a10bab.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Yeosin Gangnim (Japanese Audio),",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "女神降临（日配版）",
+      "sub": "Japanese Audio",
+      "title_jp": "女装神降臨 (日語音 ╮(￣□￣*)╭)歉",
+      "size": "1.08 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Erai-raws] 柔光魔女股份有限公司 / Kabushikigaisha Magilumiere - 09 [1080p][Multiple Subtitle]"
+    },
+    "link": "https://mikanani.me/Home/Episode/4ff91b7bc093f637fb717820b2feff74a4a2dbbd",
+    "title": "[Erai-raws] 柔光魔女股份有限公司 / Kabushikigaisha Magilumiere - 09 [1080p][Multiple Subtitle]",
+    "description": "[Erai-raws] 柔光魔女股份有限公司 / Kabushikigaisha Magilumiere - 09 [1080p][Multiple Subtitle][684.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4ff91b7bc093f637fb717820b2feff74a4a2dbbd",
+      "contentLength": "718169728",
+      "pubDate": "2024-11-29T23:56:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "718169728",
+      "@url": "https://mikanani.me/Download/20241129/4ff91b7bc093f637fb717820b2feff74a4a2dbbd.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Erai-raws",
+      "title_en": "Kabushikigaisha Magilumiere",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "title_zh": "柔光魔女股份有限公司",
+      "sub": "Multiple Subtitle",
+      "title_jp": "Kabushikigaisha Magilumiere",
+      "size": "684.9MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f99398d12bca1a4a469521f6db91b7ff4f16edcf",
+    "title": "[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][688.72 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f99398d12bca1a4a469521f6db91b7ff4f16edcf",
+      "contentLength": "722175232",
+      "pubDate": "2024-11-29T23:53:41.068"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "722175232",
+      "@url": "https://mikanani.me/Download/20241129/f99398d12bca1a4a469521f6db91b7ff4f16edcf.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "2.5-jigen no Ririsa",
+      "resolution": "1080p",
+      "episode": 22,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "2.5次元的诱惑",
+      "sub": "简繁内封字幕",
+      "title_jp": "2.5-jigen no Ririsa",
+      "size": "688.72 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][繁日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d65f3b00a5f8eb671eadaa4665e53dbb4802a924",
+    "title": "【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][繁日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][繁日双语][招募翻译][349.47 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d65f3b00a5f8eb671eadaa4665e53dbb4802a924",
+      "contentLength": "366445856",
+      "pubDate": "2024-11-29T23:47:51.972"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "366445856",
+      "@url": "https://mikanani.me/Download/20241129/d65f3b00a5f8eb671eadaa4665e53dbb4802a924.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋",
+      "title_en": "Delicos Nursery",
+      "resolution": "1080p",
+      "episode": 13,
+      "season": 1,
+      "title_zh": "德里科的托儿所",
+      "sub": "繁日双语",
+      "title_jp": null,
+      "season_raw": "07月新番",
+      "source": null,
+      "size": "349.47 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][21][1080p][繁日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1e8fc3d78b9bb9d60eae1478616d60a7d9b30af3",
+    "title": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][21][1080p][繁日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][21][1080p][繁日双语][招募翻译][443.1MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1e8fc3d78b9bb9d60eae1478616d60a7d9b30af3",
+      "contentLength": "464624032",
+      "pubDate": "2024-11-29T23:42:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "464624032",
+      "@url": "https://mikanani.me/Download/20241129/1e8fc3d78b9bb9d60eae1478616d60a7d9b30af3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋",
+      "title_en": "GOD.app",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 1,
+      "title_zh": "神选",
+      "sub": "繁日双语",
+      "title_jp": "KamiErabi",
+      "season_raw": "10月新番",
+      "source": "others",
+      "size": "443.1MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[TOC]魔法光源股份有限公司[09][1080P][AVC AAC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/76c19b55d0eab9239aaa35fd019fcdb425686e60",
+    "title": "[TOC]魔法光源股份有限公司[09][1080P][AVC AAC][CHT][MP4]",
+    "description": "[TOC]魔法光源股份有限公司[09][1080P][AVC AAC][CHT][MP4][724.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/76c19b55d0eab9239aaa35fd019fcdb425686e60",
+      "contentLength": "759483584",
+      "pubDate": "2024-11-29T23:41:00.322971"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "759483584",
+      "@url": "https://mikanani.me/Download/20241129/76c19b55d0eab9239aaa35fd019fcdb425686e60.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "TOC",
+      "title_en": null,
+      "resolution": "1080P",
+      "episode": 9,
+      "season": 1,
+      "title_zh": null,
+      "sub": "CHT",
+      "title_jp": null,
+      "season_raw": null,
+      "source": null,
+      "size": "724.3 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 09 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/1b1b3d092cde07565ac63511f8beaa17ae5b2d25",
+    "title": "[Up to 21°C] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 09 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 09 (ABEMA 1920x1080 AVC AAC MP4)[712.45 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1b1b3d092cde07565ac63511f8beaa17ae5b2d25",
+      "contentLength": "747057984",
+      "pubDate": "2024-11-29T23:31:29.781"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "747057984",
+      "@url": "https://mikanani.me/Download/20241129/1b1b3d092cde07565ac63511f8beaa17ae5b2d25.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Sword Art Online Alternative: Gun Gale Online II",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 2,
+      "title_zh": "刀剑神域外传 Gun Gale Online II",
+      "sub": "AAC AVC",
+      "title_jp": "刀剑神域外传 Gun Gale Online II",
+      "season_raw": "II",
+      "source": "ABEMA",
+      "size": "712.45 MB"
+    }
   }
 ]
