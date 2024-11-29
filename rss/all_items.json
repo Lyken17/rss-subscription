@@ -13683,5 +13683,38 @@
       "title_jp": " Mythical Creatures Are My Dinners",
       "size": "230.47 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][简日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/28c01705b9f0869352dc1383c716348ad08c9293",
+    "title": "【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][简日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][简日双语][招募翻译][349.71 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/28c01705b9f0869352dc1383c716348ad08c9293",
+      "contentLength": "366697504",
+      "pubDate": "2024-11-29T12:58:20.042"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "366697504",
+      "@url": "https://mikanani.me/Download/20241129/28c01705b9f0869352dc1383c716348ad08c9293.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋",
+      "title_en": "Delicos Nursery",
+      "resolution": "1080p",
+      "episode": 13,
+      "season": 1,
+      "title_zh": "德里科的托儿所",
+      "sub": "简日双语",
+      "title_jp": "なし",
+      "season_raw": "07月新番",
+      "source": "なし",
+      "size": "349.71 MB"
+    }
   }
 ]

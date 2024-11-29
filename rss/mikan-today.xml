@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/28c01705b9f0869352dc1383c716348ad08c9293</link>
+			<title>【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★07月新番★[德里科的托儿所 / Delicos Nursery][13][1080p][简日双语][招募翻译][349.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/28c01705b9f0869352dc1383c716348ad08c9293</link>
+				<contentLength>366697504</contentLength>
+				<pubDate>2024-11-29T12:58:20.042</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="366697504" url="https://mikanani.me/Download/20241129/28c01705b9f0869352dc1383c716348ad08c9293.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 偶像大师 灰姑娘女孩 U149/The Idolmaster Cinderella Girls U149 S01 | 01-12+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/5fbafb7cd9dd314fb0d10bcf1653409f31901594</link>
 			<title>[7³ACG] 偶像大师 灰姑娘女孩 U149/The Idolmaster Cinderella Girls U149 S01 | 01-12+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-27T22:14:47.005852</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="952526464" url="https://mikanani.me/Download/20241127/ac2c680eecf95eb4be6ab06015becf90311d13ef.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 偶像大师 闪耀色彩/アイドルマスター シャイニーカラーズ/The Idolmaster Shiny Colors S01 | 01-12 [简繁字幕] BDrip 1080p x265 FLAC 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/2f464b1f01e4999e51fcc59a96bb15e10dc4f5d6</link>
-			<title>[7³ACG] 偶像大师 闪耀色彩/アイドルマスター シャイニーカラーズ/The Idolmaster Shiny Colors S01 | 01-12 [简繁字幕] BDrip 1080p x265 FLAC 2.0</title>
-			<description>[7³ACG] 偶像大师 闪耀色彩/アイドルマスター シャイニーカラーズ/The Idolmaster Shiny Colors S01 | 01-12 [简繁字幕] BDrip 1080p x265 FLAC 2.0[12.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f464b1f01e4999e51fcc59a96bb15e10dc4f5d6</link>
-				<contentLength>13314398208</contentLength>
-				<pubDate>2024-11-27T22:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="13314398208" url="https://mikanani.me/Download/20241127/2f464b1f01e4999e51fcc59a96bb15e10dc4f5d6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
