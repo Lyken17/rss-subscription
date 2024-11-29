@@ -13911,5 +13911,38 @@
       "size": "241.48 MB",
       "season_raw": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][金田一少年事件簿R 第二季/Kindaichi Shounen no Jikenbo Returns S2/金田一少年の事件簿R 第2期][01-22TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/64eb8f01d60da6044f26ad147b1120ec5bb0d8cd",
+    "title": "[DBD-Raws][金田一少年事件簿R 第二季/Kindaichi Shounen no Jikenbo Returns S2/金田一少年の事件簿R 第2期][01-22TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]",
+    "description": "[DBD-Raws][金田一少年事件簿R 第二季/Kindaichi Shounen no Jikenbo Returns S2/金田一少年の事件簿R 第2期][01-22TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV][29.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/64eb8f01d60da6044f26ad147b1120ec5bb0d8cd",
+      "contentLength": "31460634624",
+      "pubDate": "2024-11-29T15:41:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "31460634624",
+      "@url": "https://mikanani.me/Download/20241129/64eb8f01d60da6044f26ad147b1120ec5bb0d8cd.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Kindaichi Shounen no Jikenbo Returns",
+      "resolution": "1080P",
+      "episode": "1-22TV全集",
+      "season": 2,
+      "source": "BDRip",
+      "title_zh": "金田一少年事件簿R",
+      "sub": "简繁日双语外挂",
+      "title_jp": "金田一少年の事件簿R 第2期",
+      "size": "29.3GB",
+      "season_raw": "第二季"
+    }
   }
 ]

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][金田一少年事件簿R 第二季/Kindaichi Shounen no Jikenbo Returns S2/金田一少年の事件簿R 第2期][01-22TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/64eb8f01d60da6044f26ad147b1120ec5bb0d8cd</link>
+			<title>[DBD-Raws][金田一少年事件簿R 第二季/Kindaichi Shounen no Jikenbo Returns S2/金田一少年の事件簿R 第2期][01-22TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][金田一少年事件簿R 第二季/Kindaichi Shounen no Jikenbo Returns S2/金田一少年の事件簿R 第2期][01-22TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV][29.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64eb8f01d60da6044f26ad147b1120ec5bb0d8cd</link>
+				<contentLength>31460634624</contentLength>
+				<pubDate>2024-11-29T15:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="31460634624" url="https://mikanani.me/Download/20241129/64eb8f01d60da6044f26ad147b1120ec5bb0d8cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/bca0e82afd4087f4e529ffb78d61d9bc39d9070b</link>
 			<title>[北宇治字幕组&amp;LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-27T23:01:27.03</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751409536" url="https://mikanani.me/Download/20241127/ff67b1f4bf80f4e93985585c0c57ebd62df39d1e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Sengoku Youko /  战国妖狐 千魔混沌篇 - 31 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/015a4316f6932bd4bed040b6764dd6332b3c4a4d</link>
-			<title>[ANi] Sengoku Youko /  战国妖狐 千魔混沌篇 - 31 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Sengoku Youko /  战国妖狐 千魔混沌篇 - 31 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][614.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/015a4316f6932bd4bed040b6764dd6332b3c4a4d</link>
-				<contentLength>644140224</contentLength>
-				<pubDate>2024-11-27T23:01:18.760921</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="644140224" url="https://mikanani.me/Download/20241127/015a4316f6932bd4bed040b6764dd6332b3c4a4d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
