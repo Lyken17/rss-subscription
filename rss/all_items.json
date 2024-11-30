@@ -17310,5 +17310,74 @@
       "title_jp": "蠟笔小新",
       "size": "570.9MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/937ff42fa22424fe7a20ce8e8f3703853e28907c",
+    "title": "[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][577.04 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/937ff42fa22424fe7a20ce8e8f3703853e28907c",
+      "contentLength": "605070272",
+      "pubDate": "2024-11-30T15:34:05.932"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "605070272",
+      "@url": "https://mikanani.me/Download/20241130/937ff42fa22424fe7a20ce8e8f3703853e28907c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "When I Can't Be a Mage",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "没能成为魔法师的女孩子的故事",
+      "sub": "简繁内封字幕",
+      "title_jp": "当不成魔法师的女孩",
+      "size": "577.04 MB",
+      "season_raw": "S01",
+      "sub_raw": "简繁内封字幕"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[喵萌奶茶屋&LoliHouse] 神选 / KamiErabi / GOD.app - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/88e106b95f0a57f60814216df170e59ae61899a2",
+    "title": "[喵萌奶茶屋&LoliHouse] 神选 / KamiErabi / GOD.app - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[喵萌奶茶屋&LoliHouse] 神选 / KamiErabi / GOD.app - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][749.36 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/88e106b95f0a57f60814216df170e59ae61899a2",
+      "contentLength": "785760896",
+      "pubDate": "2024-11-30T15:23:54.741"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "785760896",
+      "@url": "https://mikanani.me/Download/20241130/88e106b95f0a57f60814216df170e59ae61899a2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋&LoliHouse",
+      "title_en": "GOD.app",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "神选",
+      "sub": "简繁日内封字幕",
+      "title_jp": "KamiErabi",
+      "size": "749.36 MB",
+      "season_raw": "21",
+      "sub_raw": "简繁日内封字幕",
+      "title_jp_raw": "KamiErabi"
+    }
   }
 ]
