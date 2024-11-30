@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 我的幸福婚姻 / Watashi no Shiawase na Kekkon / わたしの幸せな结婚 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/eae786eb29c8c5e8d0775ba6f8ec3dd7e67aec7e</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 我的幸福婚姻 / Watashi no Shiawase na Kekkon / わたしの幸せな结婚 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 我的幸福婚姻 / Watashi no Shiawase na Kekkon / わたしの幸せな结婚 10-bit 1080p HEVC BDRip [Fin][20.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eae786eb29c8c5e8d0775ba6f8ec3dd7e67aec7e</link>
+				<contentLength>22119081984</contentLength>
+				<pubDate>2024-11-30T16:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22119081984" url="https://mikanani.me/Download/20241130/eae786eb29c8c5e8d0775ba6f8ec3dd7e67aec7e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/937ff42fa22424fe7a20ce8e8f3703853e28907c</link>
 			<title>[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-11-29T20:34:25.693</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="471796288" url="https://mikanani.me/Download/20241129/1609c79d04a725e30ead9b02f910862b48df26f7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][镇魂街 第4季 天武风雷篇][Rakshasa Street Ⅳ][2024][03][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/a3c9cf5ccb79775dd566c202a41efa9acdf45482</link>
-			<title>[GM-Team][国漫][镇魂街 第4季 天武风雷篇][Rakshasa Street Ⅳ][2024][03][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][镇魂街 第4季 天武风雷篇][Rakshasa Street Ⅳ][2024][03][AVC][GB][1080P][352.11 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a3c9cf5ccb79775dd566c202a41efa9acdf45482</link>
-				<contentLength>369214080</contentLength>
-				<pubDate>2024-11-29T20:21:07.905</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="369214080" url="https://mikanani.me/Download/20241129/a3c9cf5ccb79775dd566c202a41efa9acdf45482.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

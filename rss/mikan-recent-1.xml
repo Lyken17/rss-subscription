@@ -2885,5 +2885,30 @@
 				<title_jp_raw>KamiErabi</title_jp_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 我的幸福婚姻 / Watashi no Shiawase na Kekkon / わたしの幸せな结婚 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/eae786eb29c8c5e8d0775ba6f8ec3dd7e67aec7e</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 我的幸福婚姻 / Watashi no Shiawase na Kekkon / わたしの幸せな结婚 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 我的幸福婚姻 / Watashi no Shiawase na Kekkon / わたしの幸せな结婚 10-bit 1080p HEVC BDRip [Fin][20.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eae786eb29c8c5e8d0775ba6f8ec3dd7e67aec7e</link>
+				<contentLength>22119081984</contentLength>
+				<pubDate>2024-11-30T16:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22119081984" url="https://mikanani.me/Download/20241130/eae786eb29c8c5e8d0775ba6f8ec3dd7e67aec7e.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>喵萌奶茶屋&amp;VCB-Studio</group>
+				<title_en>Watashi no Shiawase na Kekkon</title_en>
+				<resolution>1080p</resolution>
+				<episode>10-bit</episode>
+				<season>1</season>
+				<title_zh>我的幸福婚姻</title_zh>
+				<sub>Fin</sub>
+				<title_jp>わたしの幸せな结婚</title_jp>
+				<season_raw>10-bit</season_raw>
+				<source>BDRip</source>
+				<size>20.6GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
