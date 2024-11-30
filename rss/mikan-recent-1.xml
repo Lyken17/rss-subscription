@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[香子兰翻译同好会] 常轨脱离Creative [09][WebRip][x264 AAC][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b675a19ec29978809a2771cd76d65ba087f508c7</link>
-			<title>[香子兰翻译同好会] 常轨脱离Creative [09][WebRip][x264 AAC][简日内嵌]</title>
-			<description>[香子兰翻译同好会] 常轨脱离Creative [09][WebRip][x264 AAC][简日内嵌][89.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b675a19ec29978809a2771cd76d65ba087f508c7</link>
-				<contentLength>94057264</contentLength>
-				<pubDate>2024-11-29T18:42:23.145339</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="94057264" url="https://mikanani.me/Download/20241129/b675a19ec29978809a2771cd76d65ba087f508c7.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>香子兰翻译同好会</group>
-				<title_en>Creative</title_en>
-				<resolution>x264</resolution>
-				<episode>9</episode>
-				<season>1</season>
-				<source>WebRip</source>
-				<title_zh>常轨脱离</title_zh>
-				<sub>简日内嵌</sub>
-				<title_jp></title_jp>
-				<size>89.7 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][镇魂街 第4季 天武风雷篇][Rakshasa Street Ⅳ][2024][03][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/a3c9cf5ccb79775dd566c202a41efa9acdf45482</link>
 			<title>[GM-Team][国漫][镇魂街 第4季 天武风雷篇][Rakshasa Street Ⅳ][2024][03][AVC][GB][1080P]</title>
@@ -3987,6 +3963,30 @@
 				<season_raw>第42集 卡拉OK厅杀人事件</season_raw>
 				<source>WEBRIP</source>
 				<size>1.6GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/258c9877cc2306006c3687805bcf50cad2b17141</link>
+			<title>[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)[719.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/258c9877cc2306006c3687805bcf50cad2b17141</link>
+				<contentLength>754240704</contentLength>
+				<pubDate>2024-12-01T02:30:57.834</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754240704" url="https://mikanani.me/Download/20241201/258c9877cc2306006c3687805bcf50cad2b17141.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Thunderbolt Fantasy: Touriken Yuuki 4</title_en>
+				<resolution>1080p</resolution>
+				<episode>9</episode>
+				<season>4</season>
+				<source>ABEMA</source>
+				<title_zh>东离剑游纪</title_zh>
+				<sub>ABEMA</sub>
+				<title_jp>Thunderbolt Fantasy</title_jp>
+				<size>719.3 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

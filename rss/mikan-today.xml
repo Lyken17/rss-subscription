@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/258c9877cc2306006c3687805bcf50cad2b17141</link>
+			<title>[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)[719.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/258c9877cc2306006c3687805bcf50cad2b17141</link>
+				<contentLength>754240704</contentLength>
+				<pubDate>2024-12-01T02:30:57.834</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754240704" url="https://mikanani.me/Download/20241201/258c9877cc2306006c3687805bcf50cad2b17141.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 09 (B-Global 3840x2160 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/bdf7d1e12a01f718e26a9451a3724e909c06127d</link>
 			<title>[Up to 21°C] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 09 (B-Global 3840x2160 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-11-30T02:01:36.573486</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="355676992" url="https://mikanani.me/Download/20241130/f6b486edc589bcbe6d20fedb1e0c7f0556e418fa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[三明治摆烂组] 重生大小姐正在攻略龙帝殿下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 07 - [简体内嵌][H265 10bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/c15fde17549ae473e45493172ba71ef3ac244aff</link>
-			<title>[三明治摆烂组] 重生大小姐正在攻略龙帝殿下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 07 - [简体内嵌][H265 10bit 1080P]</title>
-			<description>[三明治摆烂组] 重生大小姐正在攻略龙帝殿下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 07 - [简体内嵌][H265 10bit 1080P][358.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c15fde17549ae473e45493172ba71ef3ac244aff</link>
-				<contentLength>376229056</contentLength>
-				<pubDate>2024-11-30T02:00:55.879897</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="376229056" url="https://mikanani.me/Download/20241130/c15fde17549ae473e45493172ba71ef3ac244aff.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

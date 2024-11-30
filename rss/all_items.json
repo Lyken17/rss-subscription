@@ -19265,5 +19265,37 @@
       "source": "WEBRIP",
       "size": "1.6GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/258c9877cc2306006c3687805bcf50cad2b17141",
+    "title": "[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 09 (ABEMA 1920x1080 AVC AAC MP4)[719.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/258c9877cc2306006c3687805bcf50cad2b17141",
+      "contentLength": "754240704",
+      "pubDate": "2024-12-01T02:30:57.834"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "754240704",
+      "@url": "https://mikanani.me/Download/20241201/258c9877cc2306006c3687805bcf50cad2b17141.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Thunderbolt Fantasy: Touriken Yuuki 4",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 4,
+      "source": "ABEMA",
+      "title_zh": "东离剑游纪",
+      "sub": "ABEMA",
+      "title_jp": "Thunderbolt Fantasy",
+      "size": "719.3 MB"
+    }
   }
 ]
