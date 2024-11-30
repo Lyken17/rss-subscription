@@ -16516,6 +16516,18 @@
       "@type": "application/x-bittorrent",
       "@length": "679487744",
       "@url": "https://mikanani.me/Download/20241130/653e05f012c9e1a6b3fe144b6f0628ed478b3a24.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Ultraman Arc",
+      "resolution": "1080p",
+      "episode": 20,
+      "season": 1,
+      "source": "Baha",
+      "title_zh": "超人力霸王雅克",
+      "sub": "AVC AAC",
+      "title_jp": "Ultraman Arc",
+      "size": "648.01 MB"
     }
   },
   {
@@ -16549,6 +16561,168 @@
       "season_raw": "2023",
       "source": "WebRip",
       "size": "355.76 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/df58a9be2931946fec7dd13b538eafc9b92e9320",
+    "title": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (ABEMA 1920x1080 AVC AAC MP4)[728.2 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/df58a9be2931946fec7dd13b538eafc9b92e9320",
+      "contentLength": "763573056",
+      "pubDate": "2024-11-30T10:00:56.734"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "763573056",
+      "@url": "https://mikanani.me/Download/20241130/df58a9be2931946fec7dd13b538eafc9b92e9320.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Ooi! Tonbo",
+      "resolution": "1080p",
+      "episode": 22,
+      "season": 1,
+      "title_zh": "蜻蛉高球",
+      "sub": "ABEMA",
+      "title_jp": "Ooi! Tonbo",
+      "season_raw": "1920x1080 AVC AAC",
+      "source": "MP4",
+      "size": "728.2 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/da239b6fdce1366c59da203872825860b3acf1be",
+    "title": "[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][494.96 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/da239b6fdce1366c59da203872825860b3acf1be",
+      "contentLength": "519003168",
+      "pubDate": "2024-11-30T09:42:43.934"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "519003168",
+      "@url": "https://mikanani.me/Download/20241130/da239b6fdce1366c59da203872825860b3acf1be.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Sword Art Online Alternative: Gun Gale Online II",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 2,
+      "source": "WebRip",
+      "title_zh": "刀剑神域外传 Gun Gale Online II",
+      "sub": "简繁内封字幕",
+      "title_jp": " Sword Art Online Alternative: Gun Gale Online II",
+      "size": "494.96 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/2e90cda4eab948f5cef572db242d782c1887e024",
+    "title": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (ADN 1920x1080 AVC AAC MKV)[585.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2e90cda4eab948f5cef572db242d782c1887e024",
+      "contentLength": "614255808",
+      "pubDate": "2024-11-30T09:32:16.53"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "614255808",
+      "@url": "https://mikanani.me/Download/20241130/2e90cda4eab948f5cef572db242d782c1887e024.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ADN",
+      "title_en": "Ooi! Tonbo",
+      "resolution": "1080p",
+      "episode": 22,
+      "season": 1,
+      "source": "不明",
+      "title_zh": "蜻蛉高球",
+      "sub": "MKV",
+      "title_jp": "Ooi! Tonbo",
+      "size": "585.8 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Ooi Tonbo /  蜻蛉高球 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7e13ad7b9f2fb2b6583746f5f920829d1b1159e2",
+    "title": "[ANi] Ooi Tonbo /  蜻蛉高球 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Ooi Tonbo /  蜻蛉高球 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][506.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7e13ad7b9f2fb2b6583746f5f920829d1b1159e2",
+      "contentLength": "531523168",
+      "pubDate": "2024-11-30T09:31:16.830469"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "531523168",
+      "@url": "https://mikanani.me/Download/20241130/7e13ad7b9f2fb2b6583746f5f920829d1b1159e2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Ooi Tonbo",
+      "resolution": "1080P",
+      "episode": 22,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "蜻蛉高球",
+      "sub": "CHT",
+      "title_jp": "Ooi Tonbo",
+      "size": "506.9 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/a327687b71186f73371279ff655da0154927a511",
+    "title": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 22 (Baha 1920x1080 AVC AAC MP4)[506.7 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a327687b71186f73371279ff655da0154927a511",
+      "contentLength": "531313472",
+      "pubDate": "2024-11-30T09:30:55.038"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "531313472",
+      "@url": "https://mikanani.me/Download/20241130/a327687b71186f73371279ff655da0154927a511.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Ooi! Tonbo",
+      "resolution": "1080p",
+      "episode": 22,
+      "season": 1,
+      "source": "Baha",
+      "title_zh": "蜻蛉高球",
+      "sub": "None",
+      "title_jp": "Ooi! Tonbo",
+      "size": "506.7 MB"
     }
   }
 ]
