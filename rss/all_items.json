@@ -17573,5 +17573,70 @@
       "source": "招募翻译",
       "size": "679.73 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 07 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7c31f9a6f21d11b78866d274034795dd0c835a29",
+    "title": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 07 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 07 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7c31f9a6f21d11b78866d274034795dd0c835a29",
+      "contentLength": "1449551488",
+      "pubDate": "2024-11-30T19:02:40.482"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241130/7c31f9a6f21d11b78866d274034795dd0c835a29.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Ao no Miburo",
+      "resolution": "1920x1080",
+      "episode": 7,
+      "season": 1,
+      "source": "None",
+      "title_zh": "青之壬生浪",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "1.35 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2024.03.30)"
+    },
+    "link": "https://mikanani.me/Home/Episode/68958a30d27cad78061d46cd170d7d2834a23c69",
+    "title": "[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2024.03.30)",
+    "description": "[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2024.03.30)[52.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/68958a30d27cad78061d46cd170d7d2834a23c69",
+      "contentLength": "56371445760",
+      "pubDate": "2024-11-30T18:21:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "56371445760",
+      "@url": "https://mikanani.me/Download/20241130/68958a30d27cad78061d46cd170d7d2834a23c69.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "Girls und Panzer",
+      "resolution": "日语音轨",
+      "episode": null,
+      "season": null,
+      "title_zh": "少女与战车",
+      "sub": "简中字幕",
+      "title_jp": "ガールズ＆パンツァー",
+      "season_raw": "TV动画+OVA+剧场版+漫画+CD+其他",
+      "source": null,
+      "size": "52.5GB"
+    }
   }
 ]
