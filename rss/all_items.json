@@ -23765,5 +23765,70 @@
       "title_jp": "None",
       "size": "716.71 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/f1519471325c0723b28f188519a7bb65bbf2c220",
+    "title": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)[727.71 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f1519471325c0723b28f188519a7bb65bbf2c220",
+      "contentLength": "763059264",
+      "pubDate": "2024-12-02T03:00:47.426"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "763059264",
+      "@url": "https://mikanani.me/Download/20241202/f1519471325c0723b28f188519a7bb65bbf2c220.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ABEMA",
+      "title_en": "Trillion Game",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "source": "UP to 21°C",
+      "title_zh": "一兆$游戏",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "727.71 MB",
+      "season_raw": "ABEMA"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/da9fd4134eedb0bf1fdfb035e799206192fdeaae",
+    "title": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (ABEMA 1920x1080 AVC AAC MP4)[711.42 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/da9fd4134eedb0bf1fdfb035e799206192fdeaae",
+      "contentLength": "745977920",
+      "pubDate": "2024-12-02T02:30:48.089"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "745977920",
+      "@url": "https://mikanani.me/Download/20241202/da9fd4134eedb0bf1fdfb035e799206192fdeaae.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "结缘甘神神社",
+      "sub": "ABEMA",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "711.42 MB"
+    }
   }
 ]
