@@ -23830,5 +23830,37 @@
       "title_jp": "Amagami-san Chi no Enmusubi",
       "size": "711.42 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 殿下与狗 / Tono to Inu - 07 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7a0f53bccf910fd1d61bc19be019c7261e4a406c",
+    "title": "[Up to 21°C] 殿下与狗 / Tono to Inu - 07 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 殿下与狗 / Tono to Inu - 07 (ABEMA 1920x1080 AVC AAC MP4)[311.4 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7a0f53bccf910fd1d61bc19be019c7261e4a406c",
+      "contentLength": "326526560",
+      "pubDate": "2024-12-02T03:15:32.842"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "326526560",
+      "@url": "https://mikanani.me/Download/20241202/7a0f53bccf910fd1d61bc19be019c7261e4a406c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Tono to Inu",
+      "resolution": "1080p",
+      "episode": 7,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "殿下与狗",
+      "sub": "",
+      "title_jp": "トノト犬",
+      "size": "311.4 MB"
+    }
   }
 ]

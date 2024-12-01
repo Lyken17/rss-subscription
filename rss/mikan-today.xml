@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7a0f53bccf910fd1d61bc19be019c7261e4a406c</link>
+			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 07 (ABEMA 1920x1080 AVC AAC MP4)[311.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a0f53bccf910fd1d61bc19be019c7261e4a406c</link>
+				<contentLength>326526560</contentLength>
+				<pubDate>2024-12-02T03:15:32.842</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="326526560" url="https://mikanani.me/Download/20241202/7a0f53bccf910fd1d61bc19be019c7261e4a406c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/f1519471325c0723b28f188519a7bb65bbf2c220</link>
 			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-01T16:32:54.759898</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="661651456" url="https://mikanani.me/Download/20241201/52f0727704c541ceb509c5213b16d37e64e3697c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 08 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/65cd91a669e97e9844c8fc70bd66779e19405b6a</link>
-			<title>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 08 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 08 (Baha 1920x1080 AVC AAC MP4)[630.28 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/65cd91a669e97e9844c8fc70bd66779e19405b6a</link>
-				<contentLength>660896512</contentLength>
-				<pubDate>2024-12-01T16:32:02.665</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="660896512" url="https://mikanani.me/Download/20241201/65cd91a669e97e9844c8fc70bd66779e19405b6a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
