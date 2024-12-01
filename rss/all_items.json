@@ -20435,5 +20435,134 @@
       "title_jp": "Bleach Sennen Kessenhen-Soukokutan",
       "size": "1.3GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 81 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/e88d08b98e8ca188c8ee272a54bdfdb422b1681a",
+    "title": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 81 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 81 (ADN 1920x1080 AVC AAC MKV)[560.02 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e88d08b98e8ca188c8ee272a54bdfdb422b1681a",
+      "contentLength": "587223552",
+      "pubDate": "2024-12-01T16:05:01.247"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "587223552",
+      "@url": "https://mikanani.me/Download/20241201/e88d08b98e8ca188c8ee272a54bdfdb422b1681a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Tousouchuu: Great Mission",
+      "resolution": "1920x1080",
+      "episode": 81,
+      "season": 1,
+      "title_zh": "逃走中 GREAT MISSION",
+      "sub": "ADN",
+      "title_jp": "Tousouchuu: Great Mission",
+      "season_raw": "ADN 1920x1080 AVC AAC MKV",
+      "source": "unknown",
+      "size": "560.02 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 05 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/1f0b87e68c903325e4c9ce81505106d6c2f4e405",
+    "title": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 05 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 05 (ADN 1920x1080 AVC AAC MKV)[564.09 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1f0b87e68c903325e4c9ce81505106d6c2f4e405",
+      "contentLength": "591491264",
+      "pubDate": "2024-12-01T16:04:40.764"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "591491264",
+      "@url": "https://mikanani.me/Download/20241201/1f0b87e68c903325e4c9ce81505106d6c2f4e405.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ADN",
+      "title_en": "One Piece: Gyojin Tou-hen",
+      "resolution": "1920x1080",
+      "episode": 5,
+      "season": 1,
+      "source": "MKV",
+      "title_zh": "海贼王：鱼人岛篇特别编辑版",
+      "sub": "ADN",
+      "title_jp": "One Piece: Gyojin Tou-hen",
+      "size": "564.09 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 死神千年血战篇-相克谭 / Bleach Sennen Kessenhen-Soukokutan - 04 [AMZN WebRip 2160p Ai-Upscale HEVC-10bit E-AC-3][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/339004d8d51d1bb6a2076963e576b3879940c0f3",
+    "title": "[沸羊羊制作] 死神千年血战篇-相克谭 / Bleach Sennen Kessenhen-Soukokutan - 04 [AMZN WebRip 2160p Ai-Upscale HEVC-10bit E-AC-3][简繁内封字幕]",
+    "description": "[沸羊羊制作] 死神千年血战篇-相克谭 / Bleach Sennen Kessenhen-Soukokutan - 04 [AMZN WebRip 2160p Ai-Upscale HEVC-10bit E-AC-3][简繁内封字幕][1.9GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/339004d8d51d1bb6a2076963e576b3879940c0f3",
+      "contentLength": "2040109440",
+      "pubDate": "2024-12-01T15:56:06.958353"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2040109440",
+      "@url": "https://mikanani.me/Download/20241201/339004d8d51d1bb6a2076963e576b3879940c0f3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Bleach Sennen Kessenhen-Soukokutan",
+      "resolution": "2160p",
+      "episode": 4,
+      "season": 1,
+      "source": "AMZN WebRip",
+      "title_zh": "死神千年血战篇-相克谭",
+      "sub": "简繁内封字幕",
+      "title_jp": "Bleach Sennen Kessenhen-Soukokutan",
+      "size": "1.9GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 女仆冥土小姐 / Kimi wa Meido-sama - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d48f2a581e567cd5f455b34f5d86589bfad47cee",
+    "title": "[LoliHouse] 女仆冥土小姐 / Kimi wa Meido-sama - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 女仆冥土小姐 / Kimi wa Meido-sama - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][344.25 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d48f2a581e567cd5f455b34f5d86589bfad47cee",
+      "contentLength": "360972288",
+      "pubDate": "2024-12-01T15:25:14.988"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "360972288",
+      "@url": "https://mikanani.me/Download/20241201/d48f2a581e567cd5f455b34f5d86589bfad47cee.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Kimi wa Meido-sama",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "女仆冥土小姐",
+      "sub": "简繁内封字幕",
+      "title_jp": "Kimi wa Meido-sama",
+      "size": "344.25 MB"
+    }
   }
 ]
