@@ -20886,5 +20886,58 @@
       "title_jp": " Bleach Sennen Kessenhen-Soukokutan",
       "size": "1.5 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/da0ceb81023c6314e1976eecd82353951e8075a1",
+    "title": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/da0ceb81023c6314e1976eecd82353951e8075a1",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-01T18:03:29.43"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241201/da0ceb81023c6314e1976eecd82353951e8075a1.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7d5954e4fa41ed9019877f7f945c2ea95821ad5b",
+    "title": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (ADN 1920x1080 AVC AAC MKV)[575.65 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7d5954e4fa41ed9019877f7f945c2ea95821ad5b",
+      "contentLength": "603612800",
+      "pubDate": "2024-12-01T17:35:16.416"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "603612800",
+      "@url": "https://mikanani.me/Download/20241201/7d5954e4fa41ed9019877f7f945c2ea95821ad5b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Fairy Tail: 100-nen Quest",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 1,
+      "source": "ADN",
+      "title_zh": "魔导少年 百年任务",
+      "sub": "ADN",
+      "title_jp": "Fairy Tail",
+      "size": "575.65 MB",
+      "season_raw": ""
+    }
   }
 ]
