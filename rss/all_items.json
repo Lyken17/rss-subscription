@@ -20370,5 +20370,70 @@
       "sub_raw": "SRT ViuTV CHT",
       "group_raw": "ViuTV粤语"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[澄空学园] 常轨脱离Creative 第09话 MP4 1080p"
+    },
+    "link": "https://mikanani.me/Home/Episode/b017e27dc4069655665c7637493464aee6e2f765",
+    "title": "[澄空学园] 常轨脱离Creative 第09话 MP4 1080p",
+    "description": "[澄空学园] 常轨脱离Creative 第09话 MP4 1080p[84.7MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b017e27dc4069655665c7637493464aee6e2f765",
+      "contentLength": "88814384",
+      "pubDate": "2024-12-01T15:14:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "88814384",
+      "@url": "https://mikanani.me/Download/20241201/b017e27dc4069655665c7637493464aee6e2f765.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "澄空学园",
+      "title_en": "Creative",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "title_zh": "常轨脱离Creative",
+      "sub": "None",
+      "title_jp": "None",
+      "season_raw": "None",
+      "source": "None",
+      "size": "84.7MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 死神千年血战篇-相克谭 / Bleach Sennen Kessenhen-Soukokutan - 03 [AMZN WebRip 2160p Ai-Upscale HEVC-10bit E-AC-3][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/a665f825a693f907e2d7f604774aae90b7dd9fd6",
+    "title": "[沸羊羊制作] 死神千年血战篇-相克谭 / Bleach Sennen Kessenhen-Soukokutan - 03 [AMZN WebRip 2160p Ai-Upscale HEVC-10bit E-AC-3][简繁内封字幕]",
+    "description": "[沸羊羊制作] 死神千年血战篇-相克谭 / Bleach Sennen Kessenhen-Soukokutan - 03 [AMZN WebRip 2160p Ai-Upscale HEVC-10bit E-AC-3][简繁内封字幕][1.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a665f825a693f907e2d7f604774aae90b7dd9fd6",
+      "contentLength": "1395864320",
+      "pubDate": "2024-12-01T15:09:46.792151"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241201/a665f825a693f907e2d7f604774aae90b7dd9fd6.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Bleach Sennen Kessenhen-Soukokutan",
+      "resolution": "2160p",
+      "episode": 3,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "死神千年血战篇-相克谭",
+      "sub": "简繁内封字幕",
+      "title_jp": "Bleach Sennen Kessenhen-Soukokutan",
+      "size": "1.3GB"
+    }
   }
 ]
