@@ -24738,5 +24738,38 @@
       "title_jp": "Love Live! Superstar!! 3rd Season",
       "size": "380.1 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][福星小子 2022/Urusei Yatsura (2022)/うる星やつら (2022)][01-23TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7934f35675b1c86a486d1c61ea550e4380f63d94",
+    "title": "[DBD-Raws][福星小子 2022/Urusei Yatsura (2022)/うる星やつら (2022)][01-23TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]",
+    "description": "[DBD-Raws][福星小子 2022/Urusei Yatsura (2022)/うる星やつら (2022)][01-23TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV][31.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7934f35675b1c86a486d1c61ea550e4380f63d94",
+      "contentLength": "33822867456",
+      "pubDate": "2024-12-02T18:58:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "33822867456",
+      "@url": "https://mikanani.me/Download/20241202/7934f35675b1c86a486d1c61ea550e4380f63d94.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Urusei Yatsura (2022",
+      "resolution": "1080P",
+      "episode": "1-23TV全集",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "福星小子 2022",
+      "sub": "简繁日双语外挂",
+      "title_jp": "うる星やつら (2022",
+      "size": "31.5GB",
+      "season_raw": "01-23TV全集+特典映像"
+    }
   }
 ]

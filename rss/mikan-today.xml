@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][福星小子 2022/Urusei Yatsura (2022)/うる星やつら (2022)][01-23TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/7934f35675b1c86a486d1c61ea550e4380f63d94</link>
+			<title>[DBD-Raws][福星小子 2022/Urusei Yatsura (2022)/うる星やつら (2022)][01-23TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][福星小子 2022/Urusei Yatsura (2022)/うる星やつら (2022)][01-23TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV][31.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7934f35675b1c86a486d1c61ea550e4380f63d94</link>
+				<contentLength>33822867456</contentLength>
+				<pubDate>2024-12-02T18:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33822867456" url="https://mikanani.me/Download/20241202/7934f35675b1c86a486d1c61ea550e4380f63d94.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  LoveLive! SuperStar!! 第三季 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/752612f4a798e108bbad440cbb925b04cb8083b2</link>
 			<title>[ANi]  LoveLive! SuperStar!! 第三季 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-01T20:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2362232064" url="https://mikanani.me/Download/20241201/a63ff05d2142f0545f4223199766d40cfae1d343.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][123][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/7f3b77165860ba8b638ae9eacbaa6e7bd8a2427d</link>
-			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][123][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][123][HEVC][GB][4K][1.16 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7f3b77165860ba8b638ae9eacbaa6e7bd8a2427d</link>
-				<contentLength>1245540480</contentLength>
-				<pubDate>2024-12-01T20:29:05.783</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1245540480" url="https://mikanani.me/Download/20241201/7f3b77165860ba8b638ae9eacbaa6e7bd8a2427d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
