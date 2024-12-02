@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</guid>
+			<link>https://mikanani.me/Home/Episode/3f5e763d96873bb769eb2eb35263683d3cd6e2b5</link>
+			<title>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</title>
+			<description>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)[149.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f5e763d96873bb769eb2eb35263683d3cd6e2b5</link>
+				<contentLength>160953892864</contentLength>
+				<pubDate>2024-12-03T03:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20241203/3f5e763d96873bb769eb2eb35263683d3cd6e2b5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0df45ca935c8dca5c5df53c18a4d24d6c5c430e2</link>
 			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-02T00:48:05.33</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20241202/5e78d253b4977895c387caa6cce566a7b27860f1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TCAFU-Raws] 燃油车斗魂 / MF Ghost - 21 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV](先行版本)</guid>
-			<link>https://mikanani.me/Home/Episode/ebbd939534818614c42643259382982fad6dff61</link>
-			<title>[TCAFU-Raws] 燃油车斗魂 / MF Ghost - 21 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV](先行版本)</title>
-			<description>[TCAFU-Raws] 燃油车斗魂 / MF Ghost - 21 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV](先行版本)[399.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ebbd939534818614c42643259382982fad6dff61</link>
-				<contentLength>418591552</contentLength>
-				<pubDate>2024-12-02T00:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="418591552" url="https://mikanani.me/Download/20241202/ebbd939534818614c42643259382982fad6dff61.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

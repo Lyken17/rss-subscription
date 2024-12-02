@@ -26764,5 +26764,39 @@
       "title_jp": "The iDOLM@STER Shiny Colors 2nd Season",
       "size": "722.74 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3f5e763d96873bb769eb2eb35263683d3cd6e2b5",
+    "title": "[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)",
+    "description": "[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)[149.9GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3f5e763d96873bb769eb2eb35263683d3cd6e2b5",
+      "contentLength": "160953892864",
+      "pubDate": "2024-12-03T03:59:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "160953892864",
+      "@url": "https://mikanani.me/Download/20241203/3f5e763d96873bb769eb2eb35263683d3cd6e2b5.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "Inuyasha",
+      "resolution": "n/a",
+      "episode": "n/a",
+      "season": 1,
+      "source": "n/a",
+      "title_zh": "犬夜叉",
+      "sub": "简中",
+      "title_jp": "Inuyasha",
+      "size": "149.9GB",
+      "season_raw": "TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他",
+      "sub_language": "华日, 华日英, 日语音轨"
+    }
   }
 ]
