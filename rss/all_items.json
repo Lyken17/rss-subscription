@@ -26798,5 +26798,38 @@
       "season_raw": "TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他",
       "sub_language": "华日, 华日英, 日语音轨"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3004fda1bc0a76f4629df74810bf9a67669f6864",
+    "title": "[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)",
+    "description": "[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)[12.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3004fda1bc0a76f4629df74810bf9a67669f6864",
+      "contentLength": "13207024640",
+      "pubDate": "2024-12-03T06:09:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "13207024640",
+      "@url": "https://mikanani.me/Download/20241203/3004fda1bc0a76f4629df74810bf9a67669f6864.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "My Bride is a Mermaid",
+      "resolution": "日语音轨",
+      "episode": null,
+      "season": null,
+      "title_zh": "濑户的花嫁",
+      "sub": "简中字幕",
+      "title_jp": "瀬戸の花嫁",
+      "season_raw": "TV动画+OVA+漫画+CD+其他",
+      "source": null,
+      "size": "12.3GB"
+    }
   }
 ]

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)</guid>
+			<link>https://mikanani.me/Home/Episode/3004fda1bc0a76f4629df74810bf9a67669f6864</link>
+			<title>[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)</title>
+			<description>[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)[12.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3004fda1bc0a76f4629df74810bf9a67669f6864</link>
+				<contentLength>13207024640</contentLength>
+				<pubDate>2024-12-03T06:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13207024640" url="https://mikanani.me/Download/20241203/3004fda1bc0a76f4629df74810bf9a67669f6864.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</guid>
 			<link>https://mikanani.me/Home/Episode/3f5e763d96873bb769eb2eb35263683d3cd6e2b5</link>
 			<title>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-02T00:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="419430400" url="https://mikanani.me/Download/20241202/9a9e7518845392c869619a5472ce03550177ae68.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5e78d253b4977895c387caa6cce566a7b27860f1</link>
-			<title>[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 09 (CR 1920x1080 AVC AAC MKV)[1.36 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5e78d253b4977895c387caa6cce566a7b27860f1</link>
-				<contentLength>1460288896</contentLength>
-				<pubDate>2024-12-02T00:48:05.33</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20241202/5e78d253b4977895c387caa6cce566a7b27860f1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
