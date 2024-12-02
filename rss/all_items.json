@@ -24771,5 +24771,37 @@
       "size": "31.5GB",
       "season_raw": "01-23TV全集+特典映像"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【FSD】假面骑士加布\\仮面ライダーガヴ\\Kamen Rider GAVV [13][约定的手作蛋糕][1080p][简日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f371c2091dd68827ac89af961adf6719f63b81fc",
+    "title": "【FSD】假面骑士加布\\仮面ライダーガヴ\\Kamen Rider GAVV [13][约定的手作蛋糕][1080p][简日内嵌]",
+    "description": "【FSD】假面骑士加布\\仮面ライダーガヴ\\Kamen Rider GAVV [13][约定的手作蛋糕][1080p][简日内嵌][779.2 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f371c2091dd68827ac89af961adf6719f63b81fc",
+      "contentLength": "817050432",
+      "pubDate": "2024-12-02T20:05:28.689122"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "817050432",
+      "@url": "https://mikanani.me/Download/20241202/f371c2091dd68827ac89af961adf6719f63b81fc.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "FSD",
+      "title_en": "Kamen Rider GAVV",
+      "resolution": "1080p",
+      "episode": 13,
+      "season": 1,
+      "title_zh": "假面骑士加布",
+      "sub": "约定的手作蛋糕",
+      "title_jp": "仮面ライダーガヴ",
+      "source": "标签未提供",
+      "size": "779.2 MB"
+    }
   }
 ]
