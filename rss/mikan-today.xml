@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][4K_HDR][知晓天空之蓝的人啊/Sora no Aosa o Shiru Hito yo/空の青さを知る人よ][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Her Blue Sky)</guid>
+			<link>https://mikanani.me/Home/Episode/bacabad4809a648180185d837f1346506da081e6</link>
+			<title>[DBD-Raws][4K_HDR][知晓天空之蓝的人啊/Sora no Aosa o Shiru Hito yo/空の青さを知る人よ][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Her Blue Sky)</title>
+			<description>[DBD-Raws][4K_HDR][知晓天空之蓝的人啊/Sora no Aosa o Shiru Hito yo/空の青さを知る人よ][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Her Blue Sky)[4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bacabad4809a648180185d837f1346506da081e6</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2024-12-02T17:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20241202/bacabad4809a648180185d837f1346506da081e6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 04 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7313a90a65418a5f89dbe6a705b996a4812bc602</link>
 			<title>[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 04 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-01T20:28:54.274</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1050893376" url="https://mikanani.me/Download/20241201/d81765a93c6cf7cd53966ece3e7d5c1ad850bb2f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][神武天尊][The Legend of Sky Lord][2024][21][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/2a045eea21064755e97accf5778d13509a0fdb0c</link>
-			<title>[GM-Team][国漫][神武天尊][The Legend of Sky Lord][2024][21][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][神武天尊][The Legend of Sky Lord][2024][21][HEVC][GB][4K][516.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2a045eea21064755e97accf5778d13509a0fdb0c</link>
-				<contentLength>541432192</contentLength>
-				<pubDate>2024-12-01T20:28:49.148</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="541432192" url="https://mikanani.me/Download/20241201/2a045eea21064755e97accf5778d13509a0fdb0c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

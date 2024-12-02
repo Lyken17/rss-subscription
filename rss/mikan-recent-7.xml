@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2ea137ceb46692abbb942c02498444d1604b62d3</link>
-			<title>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][779.13 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2ea137ceb46692abbb942c02498444d1604b62d3</link>
-				<contentLength>816977024</contentLength>
-				<pubDate>2024-11-25T09:05:09.238</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="816977024" url="https://mikanani.me/Download/20241125/2ea137ceb46692abbb942c02498444d1604b62d3.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>LoliHouse</group>
-				<title_en>MF GHOST 2nd Season</title_en>
-				<resolution>1080p</resolution>
-				<episode>8</episode>
-				<season>2</season>
-				<source>WebRip</source>
-				<title_zh>极速车魂 / 燃油车斗魂</title_zh>
-				<sub>简繁内封字幕</sub>
-				<title_jp>MF GHOST 2nd Season</title_jp>
-				<size>779.13 MB</size>
-				<season_raw></season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[猎户压制部] 哥布林杀手 第二季 / Goblin Slayer II [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [简日＆繁日内嵌] [2023年10月番]</guid>
 			<link>https://mikanani.me/Home/Episode/0d042ca5935821083113d8102085d4db9ef59e74</link>
 			<title>[猎户压制部] 哥布林杀手 第二季 / Goblin Slayer II [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [简日＆繁日内嵌] [2023年10月番]</title>
@@ -15941,6 +15916,30 @@
 				<title_jp>Rekishi ni Nokoru Akujo ni Naru zo</title_jp>
 				<size>555.1 MB</size>
 				<season_raw></season_raw>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][4K_HDR][知晓天空之蓝的人啊/Sora no Aosa o Shiru Hito yo/空の青さを知る人よ][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Her Blue Sky)</guid>
+			<link>https://mikanani.me/Home/Episode/bacabad4809a648180185d837f1346506da081e6</link>
+			<title>[DBD-Raws][4K_HDR][知晓天空之蓝的人啊/Sora no Aosa o Shiru Hito yo/空の青さを知る人よ][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Her Blue Sky)</title>
+			<description>[DBD-Raws][4K_HDR][知晓天空之蓝的人啊/Sora no Aosa o Shiru Hito yo/空の青さを知る人よ][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Her Blue Sky)[4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bacabad4809a648180185d837f1346506da081e6</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2024-12-02T17:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20241202/bacabad4809a648180185d837f1346506da081e6.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>DBD-Raws</group>
+				<title_en>Her Blue Sky</title_en>
+				<resolution>2160P</resolution>
+				<episode>2160P</episode>
+				<season>1</season>
+				<source>UHDBDRip</source>
+				<title_zh>知晓天空之蓝的人啊</title_zh>
+				<sub>简繁日双语外挂</sub>
+				<title_jp>空の青さを知る人よ</title_jp>
+				<size>4.7GB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
