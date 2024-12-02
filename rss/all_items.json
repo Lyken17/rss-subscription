@@ -23894,5 +23894,37 @@
       "title_jp": "MF GHOST",
       "size": "543.7 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/d86ecc8066b79858eb8233f37a289100bd3763c3",
+    "title": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)[249.99 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d86ecc8066b79858eb8233f37a289100bd3763c3",
+      "contentLength": "262133520",
+      "pubDate": "2024-12-02T09:01:34.545"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "262133520",
+      "@url": "https://mikanani.me/Download/20241202/d86ecc8066b79858eb8233f37a289100bd3763c3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global Donghua",
+      "title_en": "Spy x Sect",
+      "resolution": "1080p",
+      "episode": 20,
+      "season": 1,
+      "source": "MKV",
+      "title_zh": "宗门里除了我都是卧底",
+      "sub": "HEVC AAC",
+      "title_jp": "Spy x Sect",
+      "size": "249.99 MB"
+    }
   }
 ]
