@@ -24023,5 +24023,104 @@
       "season_raw": "King-Ohger",
       "size": "1.06 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 01 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/0796682018357925a7a20500962521eab98de1b9",
+    "title": "[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 01 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 01 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕][646.1MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0796682018357925a7a20500962521eab98de1b9",
+      "contentLength": "677484928",
+      "pubDate": "2024-12-02T11:57:30.934396"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "677484928",
+      "@url": "https://mikanani.me/Download/20241202/0796682018357925a7a20500962521eab98de1b9.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Rekishi ni Nokoru Akujo ni Naru zo",
+      "resolution": "2160p",
+      "episode": 1,
+      "season": 1,
+      "source": "CR WebRip",
+      "title_zh": "成为名垂青史的反派大小姐吧",
+      "sub": "简繁日内封字幕",
+      "title_jp": "歴史に名を刻む悪女にになるぞ",
+      "size": "646.1MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [03][1080p][WebRip][x264_AAC][简体内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/4fadbf59331bdf55f899788cd39a18de22f291dd",
+    "title": "[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [03][1080p][WebRip][x264_AAC][简体内嵌]",
+    "description": "[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [03][1080p][WebRip][x264_AAC][简体内嵌][530.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4fadbf59331bdf55f899788cd39a18de22f291dd",
+      "contentLength": "556689024",
+      "pubDate": "2024-12-02T11:30:07.574359"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "556689024",
+      "@url": "https://mikanani.me/Download/20241202/4fadbf59331bdf55f899788cd39a18de22f291dd.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "S1百综字幕组",
+      "title_en": "Murder Mystery of the Dead",
+      "resolution": "1080p",
+      "episode": 3,
+      "season": 1,
+      "title_zh": "谋杀之谜：亡者的秘密",
+      "sub": "简体内嵌",
+      "title_jp": "未知",
+      "season_raw": "S1",
+      "source": "WebRip",
+      "sub_pack": "x264_AAC",
+      "size": "530.9 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[AKito搬运][GalaxyRailroad-888] 游戏王GO RUSH!!  EP134-135 [GB-720P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/5b0f12e90609cb3715fcbe163f4f436fd92fa7f6",
+    "title": "[AKito搬运][GalaxyRailroad-888] 游戏王GO RUSH!!  EP134-135 [GB-720P]",
+    "description": "[AKito搬运][GalaxyRailroad-888] 游戏王GO RUSH!!  EP134-135 [GB-720P][1.57 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5b0f12e90609cb3715fcbe163f4f436fd92fa7f6",
+      "contentLength": "1685774720",
+      "pubDate": "2024-12-02T11:10:50.619"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1685774720",
+      "@url": "https://mikanani.me/Download/20241202/5b0f12e90609cb3715fcbe163f4f436fd92fa7f6.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "AKito搬运",
+      "title_en": "GO RUSH!!",
+      "resolution": "720P",
+      "episode": "134-135",
+      "season": 1,
+      "title_zh": "游戏王GO RUSH!!",
+      "sub": "GB",
+      "title_jp": "GO RUSH!!",
+      "size": "1.57 GB",
+      "season_raw": "888",
+      "source": ""
+    }
   }
 ]
