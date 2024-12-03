@@ -27947,5 +27947,37 @@
       "season_raw": "TV动画 (本篇、完结篇)+剧场版+OVA+漫画+CD+其他",
       "sub_language": "华日, 华日英, 日语音轨"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 04 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6f76c9fda43367e3494d487e1b24a5881a354d6c",
+    "title": "[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 04 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 04 (ABEMA 1920x1080 AVC AAC MP4)[731.16 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6f76c9fda43367e3494d487e1b24a5881a354d6c",
+      "contentLength": "766676800",
+      "pubDate": "2024-12-03T20:31:39.353"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "766676800",
+      "@url": "https://mikanani.me/Download/20241203/6f76c9fda43367e3494d487e1b24a5881a354d6c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Duel Masters LOST: Tsuioku no Suishou",
+      "resolution": "1080p",
+      "episode": 4,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "决斗大师 LOST ～追忆的水晶～",
+      "sub": "None",
+      "title_jp": "Duel Masters LOST: Tsuioku no Suishou",
+      "size": "731.16 MB"
+    }
   }
 ]
