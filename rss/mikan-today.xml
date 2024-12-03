@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f5840b3b4254c9afc2d5d003c774ad4f5424d849</link>
+			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)[713.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5840b3b4254c9afc2d5d003c774ad4f5424d849</link>
+				<contentLength>748578432</contentLength>
+				<pubDate>2024-12-03T21:01:50.638</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748578432" url="https://mikanani.me/Download/20241203/f5840b3b4254c9afc2d5d003c774ad4f5424d849.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/6f76c9fda43367e3494d487e1b24a5881a354d6c</link>
 			<title>[Up to 21°C] 决斗大师 LOST ～追忆的水晶～ / Duel Masters LOST: Tsuioku no Suishou - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-02T17:31:16.618659</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="399192896" url="https://mikanani.me/Download/20241202/752612f4a798e108bbad440cbb925b04cb8083b2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 09 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ab77e3032a79df047531203a17e354c7ada50513</link>
-			<title>[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 09 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 09 (Baha 1920x1080 AVC AAC MP4)[380.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ab77e3032a79df047531203a17e354c7ada50513</link>
-				<contentLength>398563744</contentLength>
-				<pubDate>2024-12-02T17:30:48.298</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="398563744" url="https://mikanani.me/Download/20241202/ab77e3032a79df047531203a17e354c7ada50513.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

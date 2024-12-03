@@ -27979,5 +27979,37 @@
       "title_jp": "Duel Masters LOST: Tsuioku no Suishou",
       "size": "731.16 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/f5840b3b4254c9afc2d5d003c774ad4f5424d849",
+    "title": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)[713.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f5840b3b4254c9afc2d5d003c774ad4f5424d849",
+      "contentLength": "748578432",
+      "pubDate": "2024-12-03T21:01:50.638"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "748578432",
+      "@url": "https://mikanani.me/Download/20241203/f5840b3b4254c9afc2d5d003c774ad4f5424d849.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Kinoko Inu",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "蘑菇狗",
+      "sub": "None",
+      "title_jp": "キノコイヌ",
+      "size": "713.9 MB"
+    }
   }
 ]

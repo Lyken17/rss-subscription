@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/c31181382a72062fce3329fa31e60360729dd76e</link>
-			<title>[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][盾之勇者成名录 第一季/Tate no Yuusha no Nariagari S1/盾の勇者の成り上がり Season 1][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][16.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c31181382a72062fce3329fa31e60360729dd76e</link>
-				<contentLength>17931489280</contentLength>
-				<pubDate>2024-11-26T13:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17931489280" url="https://mikanani.me/Download/20241126/c31181382a72062fce3329fa31e60360729dd76e.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>DBD-Raws</group>
-				<title_en>Tate no Yuusha no Nariagari</title_en>
-				<resolution>1080P</resolution>
-				<episode>1-25</episode>
-				<season>1</season>
-				<source>BDRip</source>
-				<title_zh>盾之勇者成名录</title_zh>
-				<sub>简繁外挂</sub>
-				<title_jp>盾の勇者の成り上がり</title_jp>
-				<season_raw>S1</season_raw>
-				<size>16.7GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 23 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/c50c08168151f77876d6cde7beacdf733d0547b2</link>
 			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 23 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
@@ -15701,6 +15676,30 @@
 				<sub>None</sub>
 				<title_jp>Duel Masters LOST: Tsuioku no Suishou</title_jp>
 				<size>731.16 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f5840b3b4254c9afc2d5d003c774ad4f5424d849</link>
+			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)[713.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5840b3b4254c9afc2d5d003c774ad4f5424d849</link>
+				<contentLength>748578432</contentLength>
+				<pubDate>2024-12-03T21:01:50.638</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748578432" url="https://mikanani.me/Download/20241203/f5840b3b4254c9afc2d5d003c774ad4f5424d849.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Kinoko Inu</title_en>
+				<resolution>1080p</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<source>ABEMA</source>
+				<title_zh>蘑菇狗</title_zh>
+				<sub>None</sub>
+				<title_jp>キノコイヌ</title_jp>
+				<size>713.9 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
