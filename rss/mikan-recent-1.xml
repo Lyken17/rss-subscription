@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f3fac9189debb89536cc92d73895e1aab0d4eac3</link>
-			<title>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][543.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f3fac9189debb89536cc92d73895e1aab0d4eac3</link>
-				<contentLength>570110784</contentLength>
-				<pubDate>2024-12-02T07:09:15.381</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="570110784" url="https://mikanani.me/Download/20241202/f3fac9189debb89536cc92d73895e1aab0d4eac3.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>LoliHouse</group>
-				<title_en>MF GHOST 2nd Season</title_en>
-				<resolution>1080p</resolution>
-				<episode>9</episode>
-				<season>2</season>
-				<source>WebRip</source>
-				<title_zh>极速车魂 / 燃油车斗魂</title_zh>
-				<sub>简繁内封字幕</sub>
-				<title_jp>MF GHOST</title_jp>
-				<size>543.7 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d86ecc8066b79858eb8233f37a289100bd3763c3</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -2728,6 +2704,31 @@
 				<season_raw>1983年版、1984年版</season_raw>
 				<size>139.8GB</size>
 				<title_jp_origin>キャッツ・アイ</title_jp_origin>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][剧场版 黑色五叶草 魔法帝之剑/Eiga Black Clover: Mahoutei no Ken/映画 ブラッククローバー 魔法帝の剣][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Black Clover: Sword of the Wizard King)</guid>
+			<link>https://mikanani.me/Home/Episode/ff2956c06e26fcdcaf0c815c5ada90787652c5cd</link>
+			<title>[DBD-Raws][剧场版 黑色五叶草 魔法帝之剑/Eiga Black Clover: Mahoutei no Ken/映画 ブラッククローバー 魔法帝の剣][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Black Clover: Sword of the Wizard King)</title>
+			<description>[DBD-Raws][剧场版 黑色五叶草 魔法帝之剑/Eiga Black Clover: Mahoutei no Ken/映画 ブラッククローバー 魔法帝の剣][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Black Clover: Sword of the Wizard King)[9.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ff2956c06e26fcdcaf0c815c5ada90787652c5cd</link>
+				<contentLength>9771051008</contentLength>
+				<pubDate>2024-12-03T14:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9771051008" url="https://mikanani.me/Download/20241203/ff2956c06e26fcdcaf0c815c5ada90787652c5cd.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>DBD-Raws</group>
+				<title_en>Black Clover: Sword of the Wizard King</title_en>
+				<resolution>HEVC-10bit</resolution>
+				<episode>正片</episode>
+				<season>1</season>
+				<title_zh>黑色五叶草 魔法帝之剑</title_zh>
+				<sub>简繁外挂</sub>
+				<title_jp>Eiga Black Clover: Mahoutei no Ken</title_jp>
+				<season_raw>剧场版</season_raw>
+				<source>BDRip</source>
+				<size>9.1GB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
