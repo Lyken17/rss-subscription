@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
+			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2024-12-04T04:03:19.761</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241204/49020ea1e64d3b392575c20a80032f626bc9c16e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 136 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a9242b97adfc9dd171ee1f3281e32babf1ea3230</link>
 			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 136 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-02T23:19:04.223</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="458185760" url="https://mikanani.me/Download/20241202/4ed974baf908d2f7f88335253cfeb7ba8a48b42b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 33 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7089b702d9b0ab99835c0c8bb8a606204e406cb0</link>
-			<title>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 33 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 33 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][821.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7089b702d9b0ab99835c0c8bb8a606204e406cb0</link>
-				<contentLength>861268864</contentLength>
-				<pubDate>2024-12-02T23:12:23.12</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="861268864" url="https://mikanani.me/Download/20241202/7089b702d9b0ab99835c0c8bb8a606204e406cb0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

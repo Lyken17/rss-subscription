@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [13][约定的手作蛋糕][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/f371c2091dd68827ac89af961adf6719f63b81fc</link>
-			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [13][约定的手作蛋糕][1080p][简日内嵌]</title>
-			<description>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [13][约定的手作蛋糕][1080p][简日内嵌][779.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f371c2091dd68827ac89af961adf6719f63b81fc</link>
-				<contentLength>817050432</contentLength>
-				<pubDate>2024-12-02T20:05:28.689122</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="817050432" url="https://mikanani.me/Download/20241202/f371c2091dd68827ac89af961adf6719f63b81fc.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>FSD</group>
-				<title_en>Kamen Rider GAVV</title_en>
-				<resolution>1080p</resolution>
-				<episode>13</episode>
-				<season>1</season>
-				<title_zh>假面骑士加布</title_zh>
-				<sub>约定的手作蛋糕</sub>
-				<title_jp>仮面ライダーガヴ</title_jp>
-				<source>标签未提供</source>
-				<size>779.2 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 05 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b4ca07ebaf2c102d3815f1896b32f7a0691a9ebd</link>
 			<title>[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 05 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -3248,6 +3224,30 @@
 				<sub>简体字幕</sub>
 				<title_jp>Himitsu no AiPri</title_jp>
 				<size>731.49 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
+			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2024-12-04T04:03:19.761</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241204/49020ea1e64d3b392575c20a80032f626bc9c16e.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>None</group>
+				<title_en>Tasuuketsu</title_en>
+				<resolution>1920x1080</resolution>
+				<episode>21</episode>
+				<season>1</season>
+				<source>None</source>
+				<title_zh>多数欠</title_zh>
+				<sub>None</sub>
+				<title_jp>None</title_jp>
+				<size>1.3 GB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
