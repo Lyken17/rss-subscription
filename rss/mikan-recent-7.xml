@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/205cac2b82e2a6119b0c715b1e804f0859271d05</link>
-			<title>[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 08 (CR 1920x1080 AVC AAC MKV)[1.37 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/205cac2b82e2a6119b0c715b1e804f0859271d05</link>
-				<contentLength>1471026304</contentLength>
-				<pubDate>2024-11-26T10:03:37.334</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20241126/205cac2b82e2a6119b0c715b1e804f0859271d05.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Love Live! Superstar!! 3rd Season</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>8</episode>
-				<season>3</season>
-				<source>CR</source>
-				<title_zh>Love Live! Superstar!! 第三季</title_zh>
-				<sub>None</sub>
-				<title_jp>Love Live! Superstar!! 3rd Season</title_jp>
-				<size>1.37 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【34】BIG5 MP4_1080P</guid>
 			<link>https://mikanani.me/Home/Episode/7aa44c6e2ed3f71f2ac5da448c7825122b216d4d</link>
 			<title>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【34】BIG5 MP4_1080P</title>
@@ -15620,6 +15596,30 @@
 				<size>509.42 MB</size>
 				<season_raw>2023</season_raw>
 				<audio>HOY粤语</audio>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[08][1080P][MKV][繁体外挂]</guid>
+			<link>https://mikanani.me/Home/Episode/0fd8d39a5fc3b62b5bfb6f1cd4c17881d563206a</link>
+			<title>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[08][1080P][MKV][繁体外挂]</title>
+			<description>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[08][1080P][MKV][繁体外挂][511.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0fd8d39a5fc3b62b5bfb6f1cd4c17881d563206a</link>
+				<contentLength>536493440</contentLength>
+				<pubDate>2024-12-03T18:07:10.428</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="536493440" url="https://mikanani.me/Download/20241203/0fd8d39a5fc3b62b5bfb6f1cd4c17881d563206a.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>铃风字幕组</group>
+				<title_en>V/DanMachi V</title_en>
+				<resolution>1080P</resolution>
+				<episode>8</episode>
+				<season>1</season>
+				<source>MKV</source>
+				<title_zh>在地下城寻求邂逅是否搞错了什么 V</title_zh>
+				<sub>繁体外挂</sub>
+				<title_jp>V/DanMachi V</title_jp>
+				<size>511.64 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
