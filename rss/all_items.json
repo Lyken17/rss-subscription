@@ -30793,5 +30793,133 @@
       "source": "None",
       "size": "1.36 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 49 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/9dab1ad9db5dd83958e1ac66a63aa7e9f21b176a",
+    "title": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 49 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 49 (ABEMA 1920x1080 AVC AAC MP4)[79.94 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9dab1ad9db5dd83958e1ac66a63aa7e9f21b176a",
+      "contentLength": "83823168",
+      "pubDate": "2024-12-05T02:03:27.529"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "83823168",
+      "@url": "https://mikanani.me/Download/20241205/9dab1ad9db5dd83958e1ac66a63aa7e9f21b176a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Chibi Godzilla no Gyakushuu",
+      "resolution": "1080",
+      "episode": 49,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "小哥斯拉的逆袭",
+      "sub": "None",
+      "title_jp": "Chibi Godzilla no Gyakushuu",
+      "size": "79.94 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 03 - [简繁日内封][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/787cabae05847401824c6b5d02a4403f68a26cf2",
+    "title": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 03 - [简繁日内封][H265 10bit 1080P]",
+    "description": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 03 - [简繁日内封][H265 10bit 1080P][442.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/787cabae05847401824c6b5d02a4403f68a26cf2",
+      "contentLength": "464309440",
+      "pubDate": "2024-12-05T01:19:07.402003"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "464309440",
+      "@url": "https://mikanani.me/Download/20241205/787cabae05847401824c6b5d02a4403f68a26cf2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组 机翻",
+      "title_en": "Kagaku x Bouken Survival！",
+      "resolution": "1080P",
+      "episode": 3,
+      "season": 1,
+      "title_zh": "科学×冒险 求生！",
+      "sub": "简繁日内封",
+      "title_jp": "科学×冒険サバイバル！",
+      "size": "442.8 MB",
+      "source": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 02 - [简繁日内封][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/01a1bdbe2fdd6fc654b8c11f7e348d21b2b5d183",
+    "title": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 02 - [简繁日内封][H265 10bit 1080P]",
+    "description": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 02 - [简繁日内封][H265 10bit 1080P][395.0 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/01a1bdbe2fdd6fc654b8c11f7e348d21b2b5d183",
+      "contentLength": "414187520",
+      "pubDate": "2024-12-05T01:18:06.782265"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "414187520",
+      "@url": "https://mikanani.me/Download/20241205/01a1bdbe2fdd6fc654b8c11f7e348d21b2b5d183.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组",
+      "title_en": "Kagaku x Bouken Survival！",
+      "resolution": "1080P",
+      "episode": 2,
+      "season": 1,
+      "source": "H265 10bit",
+      "title_zh": "科学×冒险求生！",
+      "sub": "简繁日内封",
+      "title_jp": "科学×冒険サバイバル！",
+      "size": "395.0 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 01 - [简繁日内封][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9630c9df15ed870d138964e537894855af2689a8",
+    "title": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 01 - [简繁日内封][H265 10bit 1080P]",
+    "description": "[三明治摆烂组 机翻] 科学×冒险 求生！ / 科学×冒険サバイバル！ / Kagaku x Bouken Survival！ - 01 - [简繁日内封][H265 10bit 1080P][420.0 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9630c9df15ed870d138964e537894855af2689a8",
+      "contentLength": "440401920",
+      "pubDate": "2024-12-05T01:16:45.451079"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "440401920",
+      "@url": "https://mikanani.me/Download/20241205/9630c9df15ed870d138964e537894855af2689a8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组",
+      "title_en": "Kagaku x Bouken Survival！",
+      "resolution": "1080P",
+      "episode": 1,
+      "season": 1,
+      "source": "简繁日内封",
+      "title_zh": "科学×冒险求生！",
+      "title_jp": "科学×冒険サバイバル！",
+      "sub": "H265 10bit",
+      "size": "420.0 MB"
+    }
   }
 ]
