@@ -30921,5 +30921,102 @@
       "sub": "H265 10bit",
       "size": "420.0 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/c450701a88660d19a2dcce68ececedea1c068a89",
+    "title": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 21 (ABEMA 1920x1080 AVC AAC MP4)[716.82 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c450701a88660d19a2dcce68ececedea1c068a89",
+      "contentLength": "751640256",
+      "pubDate": "2024-12-05T03:00:45.36"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "751640256",
+      "@url": "https://mikanani.me/Download/20241205/c450701a88660d19a2dcce68ececedea1c068a89.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Fairy Tail",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "魔导少年 百年任务",
+      "sub": "AVC AAC",
+      "title_jp": "Fairy Tail: 100-nen Quest",
+      "size": "716.82 MB",
+      "season_raw": "100-nen Quest"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/24435d4f29acb3bc02ebb819e45e4f0ae2a6a608",
+    "title": "[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[沸羊羊制作] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 09 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕][533.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/24435d4f29acb3bc02ebb819e45e4f0ae2a6a608",
+      "contentLength": "559729856",
+      "pubDate": "2024-12-05T02:35:29.430931"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "559729856",
+      "@url": "https://mikanani.me/Download/20241205/24435d4f29acb3bc02ebb819e45e4f0ae2a6a608.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Rekishi ni Nokoru Akujo ni Naru zo",
+      "resolution": "2160p",
+      "episode": 9,
+      "season": 1,
+      "source": "CR WebRip",
+      "title_zh": "成为名垂青史的反派大小姐吧",
+      "sub": "简繁日内封字幕",
+      "title_jp": "歴史に残る悪女にnaru zo",
+      "size": "533.8 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 神选 第二季 / Kamierabi 2nd Season - 22 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/20d3631af38028e03876f4a0416b2f6db5b85fc5",
+    "title": "[Up to 21°C] 神选 第二季 / Kamierabi 2nd Season - 22 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 神选 第二季 / Kamierabi 2nd Season - 22 (CR 1920x1080 AVC AAC MKV)[1.3 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/20d3631af38028e03876f4a0416b2f6db5b85fc5",
+      "contentLength": "1395864320",
+      "pubDate": "2024-12-05T02:27:10.383"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241205/20d3631af38028e03876f4a0416b2f6db5b85fc5.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Kamierabi 2nd Season",
+      "resolution": "1920x1080",
+      "episode": 22,
+      "season": 2,
+      "source": "CR",
+      "title_zh": "神选 第二季",
+      "sub": "MKV",
+      "title_jp": "不明",
+      "size": "1.3 GB"
+    }
   }
 ]
