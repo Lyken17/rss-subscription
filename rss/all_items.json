@@ -29434,5 +29434,37 @@
       "title_jp": "Yowai 5000-nen no Soushoku Dragon S2",
       "size": "772.66 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 01 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9e8ae736d2083be0665a331c7a514442d858f79c",
+    "title": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 01 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 01 [ViuTV][WEB-DL][1080p][AVC AAC][1.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9e8ae736d2083be0665a331c7a514442d858f79c",
+      "contentLength": "1288490240",
+      "pubDate": "2024-12-04T14:27:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1288490240",
+      "@url": "https://mikanani.me/Download/20241204/9e8ae736d2083be0665a331c7a514442d858f79c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+      "resolution": "1080p",
+      "episode": 1,
+      "season": 3,
+      "source": "WEB-DL",
+      "title_zh": "从零开始的异世界生活 第三季",
+      "sub": "None",
+      "title_jp": "Re：从零开始的异世界生活 第三季",
+      "size": "1.2GB"
+    }
   }
 ]

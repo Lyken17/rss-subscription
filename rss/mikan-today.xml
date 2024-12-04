@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 01 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/9e8ae736d2083be0665a331c7a514442d858f79c</link>
+			<title>[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 01 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 01 [ViuTV][WEB-DL][1080p][AVC AAC][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e8ae736d2083be0665a331c7a514442d858f79c</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2024-12-04T14:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20241204/9e8ae736d2083be0665a331c7a514442d858f79c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/62ff04f314e679d381cfaa72e304d4f624948f81</link>
 			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-03T00:40:07.920492</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="595276608" url="https://mikanani.me/Download/20241203/079559e5ba7d9ecd7c25b5366c846faa97d80d4f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 精灵幻想记 第二季 / Seirei Gensouki 2 - 09 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dadaab6a121595703cddeeeb1984d08082e9aaf5</link>
-			<title>[Up to 21°C] 精灵幻想记 第二季 / Seirei Gensouki 2 - 09 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 精灵幻想记 第二季 / Seirei Gensouki 2 - 09 (B-Global 1920x1080 HEVC AAC MKV)[325.45 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dadaab6a121595703cddeeeb1984d08082e9aaf5</link>
-				<contentLength>341259072</contentLength>
-				<pubDate>2024-12-03T00:31:41.722</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="341259072" url="https://mikanani.me/Download/20241203/dadaab6a121595703cddeeeb1984d08082e9aaf5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
