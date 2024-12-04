@@ -29466,5 +29466,70 @@
       "title_jp": "Re：从零开始的异世界生活 第三季",
       "size": "1.2GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 02 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b846bb1a426e114b72b5e040f8e4ceaa5619da49",
+    "title": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 02 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 02 [ViuTV][WEB-DL][1080p][AVC AAC][399.4MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b846bb1a426e114b72b5e040f8e4ceaa5619da49",
+      "contentLength": "418801248",
+      "pubDate": "2024-12-04T15:45:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "418801248",
+      "@url": "https://mikanani.me/Download/20241204/b846bb1a426e114b72b5e040f8e4ceaa5619da49.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+      "resolution": "1080p",
+      "episode": 2,
+      "season": 3,
+      "source": "WEB-DL",
+      "title_zh": "从零开始的异世界生活 第三季",
+      "sub": "ViuTV",
+      "title_jp": "Re：從零開始的異世界生活 第三季",
+      "size": "399.4MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[七界第一仙][全120集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/60bbe2deb98d4dcb943b675765be3b4aa1029db6",
+    "title": "[七界第一仙][全120集][国语中字][WEB-MKV][2160P]",
+    "description": "[七界第一仙][全120集][国语中字][WEB-MKV][2160P][41.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/60bbe2deb98d4dcb943b675765be3b4aa1029db6",
+      "contentLength": "44130787328",
+      "pubDate": "2024-12-04T15:39:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "44130787328",
+      "@url": "https://mikanani.me/Download/20241204/60bbe2deb98d4dcb943b675765be3b4aa1029db6.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "七界第一仙",
+      "title_en": null,
+      "resolution": "2160P",
+      "episode": null,
+      "season": 1,
+      "source": "WEB-MKV",
+      "title_zh": "七界第一仙",
+      "sub": "国语中字",
+      "title_jp": null,
+      "size": "41.1GB"
+    }
   }
 ]
