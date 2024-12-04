@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/62ff04f314e679d381cfaa72e304d4f624948f81</link>
+			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 11 (CR 1920x1080 AVC AAC MKV)[772.66 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62ff04f314e679d381cfaa72e304d4f624948f81</link>
+				<contentLength>810192704</contentLength>
+				<pubDate>2024-12-04T12:20:22.347</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="810192704" url="https://mikanani.me/Download/20241204/62ff04f314e679d381cfaa72e304d4f624948f81.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/5cea7d452ce5b9da701a5faed8c3be0dc0074746</link>
 			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-03T00:31:41.722</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="341259072" url="https://mikanani.me/Download/20241203/dadaab6a121595703cddeeeb1984d08082e9aaf5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Seirei Gensouki /  精灵幻想记 2 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/9d2835a50548324015ba985de9d93412bdcfc22a</link>
-			<title>[ANi] Seirei Gensouki /  精灵幻想记 2 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Seirei Gensouki /  精灵幻想记 2 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][415.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9d2835a50548324015ba985de9d93412bdcfc22a</link>
-				<contentLength>435263904</contentLength>
-				<pubDate>2024-12-03T00:31:11.365187</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="435263904" url="https://mikanani.me/Download/20241203/9d2835a50548324015ba985de9d93412bdcfc22a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
