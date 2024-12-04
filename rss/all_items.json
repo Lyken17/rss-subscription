@@ -29531,5 +29531,37 @@
       "title_jp": null,
       "size": "41.1GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 多数欠 / Tasuuketsu - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d5e64f9b5fce6ba67547fcdab2a26e8530556f78",
+    "title": "[LoliHouse] 多数欠 / Tasuuketsu - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 多数欠 / Tasuuketsu - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][240.37 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d5e64f9b5fce6ba67547fcdab2a26e8530556f78",
+      "contentLength": "252046208",
+      "pubDate": "2024-12-04T16:49:36.889"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "252046208",
+      "@url": "https://mikanani.me/Download/20241204/d5e64f9b5fce6ba67547fcdab2a26e8530556f78.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Tasuuketsu",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "多数欠",
+      "sub": "简繁内封字幕",
+      "title_jp": "Tasuuketsu",
+      "size": "240.37 MB"
+    }
   }
 ]
