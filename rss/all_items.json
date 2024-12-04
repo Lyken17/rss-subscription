@@ -29595,5 +29595,70 @@
       "title_jp": "ふしぎ星の☆ふたご姫",
       "size": "116.0GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[喵萌奶茶屋&LoliHouse] 德里科的托儿所 / Delicos Nursery [01-13修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/81b342676cb61f8d205519051fea85078dad3b4c",
+    "title": "[喵萌奶茶屋&LoliHouse] 德里科的托儿所 / Delicos Nursery [01-13修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]",
+    "description": "[喵萌奶茶屋&LoliHouse] 德里科的托儿所 / Delicos Nursery [01-13修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][8.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/81b342676cb61f8d205519051fea85078dad3b4c",
+      "contentLength": "8912057344",
+      "pubDate": "2024-12-04T20:26:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "8912057344",
+      "@url": "https://mikanani.me/Download/20241204/81b342676cb61f8d205519051fea85078dad3b4c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋&LoliHouse",
+      "title_en": "Delicos Nursery",
+      "resolution": "1080p",
+      "episode": "1-13",
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "德里科的托儿所",
+      "sub": "简繁日内封字幕",
+      "title_jp": null,
+      "size": "8.3GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【★提灯喵甄选百合★】[谋杀之谜：亡者的秘密 / Murder Mystery of the Dead][02][1080p][简日双语][附字幕颜色分角色][招募时轴]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1462f0d31998d83536daaa43989617445abbaa92",
+    "title": "【★提灯喵甄选百合★】[谋杀之谜：亡者的秘密 / Murder Mystery of the Dead][02][1080p][简日双语][附字幕颜色分角色][招募时轴]",
+    "description": "【★提灯喵甄选百合★】[谋杀之谜：亡者的秘密 / Murder Mystery of the Dead][02][1080p][简日双语][附字幕颜色分角色][招募时轴][348.84 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1462f0d31998d83536daaa43989617445abbaa92",
+      "contentLength": "365785248",
+      "pubDate": "2024-12-04T19:30:36.047"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "365785248",
+      "@url": "https://mikanani.me/Download/20241204/1462f0d31998d83536daaa43989617445abbaa92.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "提灯喵甄选百合",
+      "title_en": "Murder Mystery of the Dead",
+      "resolution": "1080p",
+      "episode": 2,
+      "season": 1,
+      "title_zh": "谋杀之谜：亡者的秘密",
+      "sub": "简日双语",
+      "title_jp": null,
+      "season_raw": null,
+      "source": null,
+      "size": "348.84 MB"
+    }
   }
 ]
