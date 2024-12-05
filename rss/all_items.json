@@ -31865,5 +31865,69 @@
       "title_jp": "Maou 2099",
       "size": "393.7MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 03 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/8de133a47bf8d84e09e8271b1d53f88976e042aa",
+    "title": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 03 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 03 [ViuTV][WEB-DL][1080p][AVC AAC][383.4MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/8de133a47bf8d84e09e8271b1d53f88976e042aa",
+      "contentLength": "402024032",
+      "pubDate": "2024-12-05T15:12:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "402024032",
+      "@url": "https://mikanani.me/Download/20241205/8de133a47bf8d84e09e8271b1d53f88976e042aa.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Hitoribocchi no Isekai Kouryaku",
+      "resolution": "1080p",
+      "episode": 3,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "孤单一个人的异世界攻略",
+      "sub": "ViuTV",
+      "title_jp": "Hitoribocchi no Isekai Kouryaku",
+      "size": "383.4MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 02 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/26e205f3abaa994c65b66cb40018654e208b821b",
+    "title": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 02 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 02 [ViuTV][WEB-DL][1080p][AVC AAC][371.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/26e205f3abaa994c65b66cb40018654e208b821b",
+      "contentLength": "389965408",
+      "pubDate": "2024-12-05T14:46:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "389965408",
+      "@url": "https://mikanani.me/Download/20241205/26e205f3abaa994c65b66cb40018654e208b821b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Hitoribocchi no Isekai Kouryaku",
+      "resolution": "1080p",
+      "episode": 2,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "孤 Alone一人异世界攻略",
+      "sub": "ViuTV",
+      "title_jp": "Hitoribocchi no Isekai Kouryaku",
+      "size": "371.9MB"
+    }
   }
 ]
