@@ -31051,5 +31051,70 @@
       "source": "None",
       "size": "270.7MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 08 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/908f3472acd554f7767b82a0c148e93f3400ac09",
+    "title": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 08 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 08 [ViuTV][WEB-DL][1080p][AVC AAC][276.5MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/908f3472acd554f7767b82a0c148e93f3400ac09",
+      "contentLength": "289931264",
+      "pubDate": "2024-12-05T09:02:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "289931264",
+      "@url": "https://mikanani.me/Download/20241205/908f3472acd554f7767b82a0c148e93f3400ac09.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 3,
+      "title_zh": "从零开始的异世界生活 第三季",
+      "sub": "ViuTV",
+      "title_jp": "Re：从零开始的异世界生活",
+      "season_raw": "第三季",
+      "source": "WEB-DL",
+      "size": "276.5MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 魔王2099 / Maou 2099 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/034e7d713fa4792fce678a1a6aa46b4c2243e91b",
+    "title": "[LoliHouse] 魔王2099 / Maou 2099 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 魔王2099 / Maou 2099 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][419.76 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/034e7d713fa4792fce678a1a6aa46b4c2243e91b",
+      "contentLength": "440150272",
+      "pubDate": "2024-12-05T07:35:08.833"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "440150272",
+      "@url": "https://mikanani.me/Download/20241205/034e7d713fa4792fce678a1a6aa46b4c2243e91b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Maou 2099",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "魔王2099",
+      "sub": "简繁内封字幕",
+      "title_jp": "Maou 2099",
+      "size": "419.76 MB"
+    }
   }
 ]
