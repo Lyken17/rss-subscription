@@ -32122,5 +32122,36 @@
       "title_jp": "时光巡逻队",
       "size": "736.06 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[TOC]BEASTARS 动物狂想曲 第三季 1-13 [1080P][AVC AAC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d6f2c2331368b71915af6357d81dba8e27f59bc7",
+    "title": "[TOC]BEASTARS 动物狂想曲 第三季 1-13 [1080P][AVC AAC][CHT][MP4]",
+    "description": "[TOC]BEASTARS 动物狂想曲 第三季 1-13 [1080P][AVC AAC][CHT][MP4][8.8 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d6f2c2331368b71915af6357d81dba8e27f59bc7",
+      "contentLength": "9448928256",
+      "pubDate": "2024-12-05T17:30:48.02925"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "9448928256",
+      "@url": "https://mikanani.me/Download/20241205/d6f2c2331368b71915af6357d81dba8e27f59bc7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "TOC",
+      "title_en": "BEASTARS",
+      "resolution": "1080P",
+      "episode": "1-13",
+      "season": 3,
+      "title_zh": "动物狂想曲",
+      "sub": "CHT",
+      "title_jp": "BEASTARS",
+      "size": "8.8 GB"
+    }
   }
 ]
