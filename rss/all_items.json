@@ -33058,5 +33058,362 @@
       "title_jp": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V",
       "size": "1.34 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 超自然武装当哒当 / Dandadan - 10 (B-Global 3840x2160 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/215b66da14c861c0b3dc745ffe1003cebc4d8cad",
+    "title": "[Up to 21°C] 超自然武装当哒当 / Dandadan - 10 (B-Global 3840x2160 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 超自然武装当哒当 / Dandadan - 10 (B-Global 3840x2160 HEVC AAC MKV)[1.27 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/215b66da14c861c0b3dc745ffe1003cebc4d8cad",
+      "contentLength": "1363652096",
+      "pubDate": "2024-12-06T00:05:43.57"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1363652096",
+      "@url": "https://mikanani.me/Download/20241206/215b66da14c861c0b3dc745ffe1003cebc4d8cad.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global",
+      "title_en": "Dandadan",
+      "resolution": "3840x2160",
+      "episode": 10,
+      "season": 1,
+      "source": "未知",
+      "title_zh": "超自然武装当哒当",
+      "sub": "未提供",
+      "title_jp": "Dandadan",
+      "size": "1.27 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 胆大党 / Dandadan - 10 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ff7082e14e079af37b560260b159aab5b2e698ac",
+    "title": "[Up to 21°C] 胆大党 / Dandadan - 10 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 胆大党 / Dandadan - 10 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ff7082e14e079af37b560260b159aab5b2e698ac",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-06T00:03:32.412"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241206/ff7082e14e079af37b560260b159aab5b2e698ac.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Dandadan",
+      "resolution": "1920x1080",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "胆大党",
+      "sub": "None",
+      "title_jp": "Dandadan",
+      "season_raw": "21°C",
+      "source": "CR",
+      "size": "1.35 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 胆大党 / Dandadan - 10 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/0c5c1876757295467e8f97983f2e3e89b8f84898",
+    "title": "[Up to 21°C] 胆大党 / Dandadan - 10 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 胆大党 / Dandadan - 10 (ADN 1920x1080 AVC AAC MKV)[563.81 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0c5c1876757295467e8f97983f2e3e89b8f84898",
+      "contentLength": "591197632",
+      "pubDate": "2024-12-06T00:03:30.106"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "591197632",
+      "@url": "https://mikanani.me/Download/20241206/0c5c1876757295467e8f97983f2e3e89b8f84898.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ADN",
+      "title_en": "Dandadan",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "胆大党",
+      "sub": "简体/繁体字幕",
+      "title_jp": "Dandadan",
+      "size": "563.81 MB",
+      "season_raw": "1920x1080",
+      "source": "MKV"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 青春之箱 / Ao no Hako - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6651ae7e1b124ec911c53f7edebfae1dff3e4b13",
+    "title": "[Up to 21°C] 青春之箱 / Ao no Hako - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 青春之箱 / Ao no Hako - 10 (ABEMA 1920x1080 AVC AAC MP4)[711.5 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6651ae7e1b124ec911c53f7edebfae1dff3e4b13",
+      "contentLength": "746061824",
+      "pubDate": "2024-12-06T00:01:26.184"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "746061824",
+      "@url": "https://mikanani.me/Download/20241206/6651ae7e1b124ec911c53f7edebfae1dff3e4b13.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Ao no Hako",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "青春之箱",
+      "sub": "None",
+      "title_jp": "Ao no Hako",
+      "size": "711.5 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Dan Da Dan /  胆大党 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f26443efc36956ea38beaf6aa5ee13de24e6901e",
+    "title": "[ANi] Dan Da Dan /  胆大党 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Dan Da Dan /  胆大党 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][621.1 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f26443efc36956ea38beaf6aa5ee13de24e6901e",
+      "contentLength": "651270528",
+      "pubDate": "2024-12-06T00:01:14.000466"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "651270528",
+      "@url": "https://mikanani.me/Download/20241206/f26443efc36956ea38beaf6aa5ee13de24e6901e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Dan Da Dan",
+      "resolution": "1080P",
+      "episode": 10,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "胆大党",
+      "sub": "CHT",
+      "title_jp": null,
+      "size": "621.1 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 胆大党 / Dandadan - 10 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/d8e59cda0b312f294570b2ca970f826137f08244",
+    "title": "[Up to 21°C] 胆大党 / Dandadan - 10 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 胆大党 / Dandadan - 10 (Baha 1920x1080 AVC AAC MP4)[620.78 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d8e59cda0b312f294570b2ca970f826137f08244",
+      "contentLength": "650935040",
+      "pubDate": "2024-12-06T00:01:06.121"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "650935040",
+      "@url": "https://mikanani.me/Download/20241206/d8e59cda0b312f294570b2ca970f826137f08244.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Dandadan",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "胆大党",
+      "sub": "简体中文",
+      "title_jp": "Dandadan",
+      "season_raw": " - 10",
+      "source": "Baha",
+      "size": "620.78 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 08 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f0dc978cdbbedaa1d0296acc2776dde39815538b",
+    "title": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 08 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 08 [ViuTV][WEB-DL][1080p][AVC AAC][388.2MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f0dc978cdbbedaa1d0296acc2776dde39815538b",
+      "contentLength": "407057216",
+      "pubDate": "2024-12-05T23:45:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "407057216",
+      "@url": "https://mikanani.me/Download/20241205/f0dc978cdbbedaa1d0296acc2776dde39815538b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Hitoribocchi no Isekai Kouryaku",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "孤单一人的异世界攻略",
+      "sub": "None",
+      "title_jp": "Hitoribocchi no Isekai Kouryaku",
+      "size": "388.2MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 11 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7db39825b9fb981e4f41c4d0acb4466cfbf2b197",
+    "title": "[Up to 21°C] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 11 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 11 (ABEMA 1920x1080 AVC AAC MP4)[712.84 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7db39825b9fb981e4f41c4d0acb4466cfbf2b197",
+      "contentLength": "747466944",
+      "pubDate": "2024-12-05T23:31:40.916"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "747466944",
+      "@url": "https://mikanani.me/Download/20241205/7db39825b9fb981e4f41c4d0acb4466cfbf2b197.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Hitoribocchi no Isekai Kouryaku",
+      "resolution": "1080",
+      "episode": 11,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "孤单一人的异世界攻略",
+      "sub": "None",
+      "title_jp": "Hitoribocchi no Isekai Kouryaku",
+      "size": "712.84 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Kekkon Surutte Hontou desu ka /  听说你们要结婚！？ - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/12bfe4cc88189d4b25b7726d049ba1193824213f",
+    "title": "[ANi] Kekkon Surutte Hontou desu ka /  听说你们要结婚！？ - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Kekkon Surutte Hontou desu ka /  听说你们要结婚！？ - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][518.6 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/12bfe4cc88189d4b25b7726d049ba1193824213f",
+      "contentLength": "543791488",
+      "pubDate": "2024-12-05T23:31:12.438075"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "543791488",
+      "@url": "https://mikanani.me/Download/20241205/12bfe4cc88189d4b25b7726d049ba1193824213f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Kekkon Surutte Hontou desu ka",
+      "resolution": "1080P",
+      "episode": 10,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "听说你们要结婚！？",
+      "sub": "CHT",
+      "title_jp": "kekkon surutte hontou desu ka",
+      "size": "518.6 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 听说你们要结婚！？ / Kekkon suru tte, Hontou desu ka - 10 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/85b98bc9274c33029ae22e06f2f7e8057412c244",
+    "title": "[Up to 21°C] 听说你们要结婚！？ / Kekkon suru tte, Hontou desu ka - 10 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 听说你们要结婚！？ / Kekkon suru tte, Hontou desu ka - 10 (Baha 1920x1080 AVC AAC MP4)[518.2 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/85b98bc9274c33029ae22e06f2f7e8057412c244",
+      "contentLength": "543372096",
+      "pubDate": "2024-12-05T23:31:00.281"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "543372096",
+      "@url": "https://mikanani.me/Download/20241205/85b98bc9274c33029ae22e06f2f7e8057412c244.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Baha",
+      "title_en": "Kekkon suru tte, Hontou desu ka",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "听说你们要结婚！？",
+      "sub": "None",
+      "title_jp": ".kekkon suru tte, Hontou desu ka",
+      "season_raw": "KEKCON S01E10",
+      "source": "None",
+      "size": "518.2 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[北宇治字幕组&LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite 10 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/96a2586c54583584ded6c3249eca449b9c9d03bb",
+    "title": "[北宇治字幕组&LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite 10 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]",
+    "description": "[北宇治字幕组&LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite 10 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][179.1 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/96a2586c54583584ded6c3249eca449b9c9d03bb",
+      "contentLength": "187799968",
+      "pubDate": "2024-12-05T23:23:34.624"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "187799968",
+      "@url": "https://mikanani.me/Download/20241205/96a2586c54583584ded6c3249eca449b9c9d03bb.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "北宇治字幕组&LoliHouse",
+      "title_en": "Chi. Chikyuu no Undou ni Tsuite",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "关于地球的运动",
+      "sub": "简繁日内封字幕",
+      "title_jp": "地。-关于地球的运动-",
+      "size": "179.1 MB",
+      "season_raw": "10"
+    }
   }
 ]
