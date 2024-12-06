@@ -36460,5 +36460,37 @@
       "title_jp": "トウホウ：裏牌将棋闘牌録",
       "size": "713.12 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/25d42df602177bc2d3eaf68546cdddf91cb93ee9",
+    "title": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/25d42df602177bc2d3eaf68546cdddf91cb93ee9",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-07T03:32:42.777"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241207/25d42df602177bc2d3eaf68546cdddf91cb93ee9.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "resolution": "1920x1080",
+      "episode": 10,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "当不成魔法师的女孩",
+      "sub": "None",
+      "title_jp": "マ Houtsukai ni Narenakatta Onnanoko no Hanashi",
+      "size": "1.35 GB"
+    }
   }
 ]
