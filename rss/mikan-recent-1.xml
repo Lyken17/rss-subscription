@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 08 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/908f3472acd554f7767b82a0c148e93f3400ac09</link>
-			<title>[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 08 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 08 [ViuTV][WEB-DL][1080p][AVC AAC][276.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/908f3472acd554f7767b82a0c148e93f3400ac09</link>
-				<contentLength>289931264</contentLength>
-				<pubDate>2024-12-05T09:02:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="289931264" url="https://mikanani.me/Download/20241205/908f3472acd554f7767b82a0c148e93f3400ac09.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Skymoon-Raws</group>
-				<title_en>Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season</title_en>
-				<resolution>1080p</resolution>
-				<episode>8</episode>
-				<season>3</season>
-				<title_zh>从零开始的异世界生活 第三季</title_zh>
-				<sub>ViuTV</sub>
-				<title_jp>Re：从零开始的异世界生活</title_jp>
-				<season_raw>第三季</season_raw>
-				<source>WEB-DL</source>
-				<size>276.5MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 魔王2099 / Maou 2099 - 01 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/0ae462c687cfdc2c0602d59e56085a8c1f00ddcf</link>
 			<title>[Skymoon-Raws] 魔王2099 / Maou 2099 - 01 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -2837,6 +2812,31 @@
 				<season_raw>TV动画+OVA+剧场版+漫画+CD+其他</season_raw>
 				<source>无特定来源</source>
 				<size>52.5GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/1c270e3aeeda2c5fa26d5a790c6e2262c042c313</link>
+			<title>[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌]</title>
+			<description>[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌][146.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1c270e3aeeda2c5fa26d5a790c6e2262c042c313</link>
+				<contentLength>154035808</contentLength>
+				<pubDate>2024-12-06T17:08:21.308863</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="154035808" url="https://mikanani.me/Download/20241206/1c270e3aeeda2c5fa26d5a790c6e2262c042c313.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>香子兰翻译同好会</group>
+				<title_en>Creative</title_en>
+				<resolution>x264</resolution>
+				<episode>10</episode>
+				<season>1</season>
+				<title_zh>常轨脱离</title_zh>
+				<sub>简日内嵌</sub>
+				<title_jp>Creative</title_jp>
+				<size>146.9 MB</size>
+				<source>TVRip</source>
+				<season_raw>10</season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

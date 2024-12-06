@@ -34846,5 +34846,38 @@
       "source": "无特定来源",
       "size": "52.5GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1c270e3aeeda2c5fa26d5a790c6e2262c042c313",
+    "title": "[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌]",
+    "description": "[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌][146.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1c270e3aeeda2c5fa26d5a790c6e2262c042c313",
+      "contentLength": "154035808",
+      "pubDate": "2024-12-06T17:08:21.308863"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "154035808",
+      "@url": "https://mikanani.me/Download/20241206/1c270e3aeeda2c5fa26d5a790c6e2262c042c313.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "香子兰翻译同好会",
+      "title_en": "Creative",
+      "resolution": "x264",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "常轨脱离",
+      "sub": "简日内嵌",
+      "title_jp": "Creative",
+      "size": "146.9 MB",
+      "source": "TVRip",
+      "season_raw": "10"
+    }
   }
 ]

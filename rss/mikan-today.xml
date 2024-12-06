@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/1c270e3aeeda2c5fa26d5a790c6e2262c042c313</link>
+			<title>[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌]</title>
+			<description>[香子兰翻译同好会] 常轨脱离Creative [10][TVRip][x264 AAC][简日内嵌][146.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1c270e3aeeda2c5fa26d5a790c6e2262c042c313</link>
+				<contentLength>154035808</contentLength>
+				<pubDate>2024-12-06T17:08:21.308863</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="154035808" url="https://mikanani.me/Download/20241206/1c270e3aeeda2c5fa26d5a790c6e2262c042c313.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">​​[整理搬运] 灌篮高手／男儿当入樽 (スラムダンク) (Slam Dunk)：TV动画+剧场版+漫画+音乐+其他；日语音轨; 外挂繁中字幕 (整理时间：2024.10.16)</guid>
 			<link>https://mikanani.me/Home/Episode/0729c215c84a84ed27895e97350c01f5a12dcd98</link>
 			<title>​​[整理搬运] 灌篮高手／男儿当入樽 (スラムダンク) (Slam Dunk)：TV动画+剧场版+漫画+音乐+其他；日语音轨; 外挂繁中字幕 (整理时间：2024.10.16)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-05T12:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371195904" url="https://mikanani.me/Download/20241205/0381ba65e35b00f4efaa5bb230dc02fcd7d4bd80.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[VCB-Studio] 江户前精灵 / Edomae Elf / 江戸前エルフ 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/2361c22cf3d857473a9b9151f06d06482d62cbcd</link>
-			<title>[VCB-Studio] 江户前精灵 / Edomae Elf / 江戸前エルフ 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[VCB-Studio] 江户前精灵 / Edomae Elf / 江戸前エルフ 10-bit 1080p HEVC BDRip [Fin][15.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2361c22cf3d857473a9b9151f06d06482d62cbcd</link>
-				<contentLength>16320875520</contentLength>
-				<pubDate>2024-12-05T12:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16320875520" url="https://mikanani.me/Download/20241205/2361c22cf3d857473a9b9151f06d06482d62cbcd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
