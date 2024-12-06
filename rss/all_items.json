@@ -34978,5 +34978,71 @@
       "season_raw": "无具体季信息",
       "size": "142.1GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "六四位元字幕组★出包王女Darkness To Love Ru Darkness★OAD1~10(完)★1920x1080★AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)"
+    },
+    "link": "https://mikanani.me/Home/Episode/b4cc94010a18b9315cae8e37e12f79734dd1ffb2",
+    "title": "六四位元字幕组★出包王女Darkness To Love Ru Darkness★OAD1~10(完)★1920x1080★AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)",
+    "description": "六四位元字幕组★出包王女Darkness To Love Ru Darkness★OAD1~10(完)★1920x1080★AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)[27.8GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b4cc94010a18b9315cae8e37e12f79734dd1ffb2",
+      "contentLength": "29850021888",
+      "pubDate": "2024-12-06T20:12:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "29850021888",
+      "@url": "https://mikanani.me/Download/20241206/b4cc94010a18b9315cae8e37e12f79734dd1ffb2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "六四位元字幕组",
+      "title_en": "Love Rouge in Darkness (OAD1~10\\u3000\\u3000完\\u3000\\u3000Darkness To Love Ru Darkness★OAD1~10(完))",
+      "resolution": "1920x1080",
+      "episode": "1~10",
+      "season": 0,
+      "source": "MKV",
+      "title_zh": "出包王女Darkness To Love Ru Darkness★OAD1~10(完)★",
+      "sub": "采用千夏+樱都+自制字幕",
+      "title_jp": " Darkness To Love Ru Darkness★OAD1~10(完)★",
+      "size": "27.8GB",
+      "season_raw": "OAD1~10(完)★",
+      "sub_raw": "外挂繁体中文"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/e8bcd89eb078db3ecc75e736c9d9decd6378ca38",
+    "title": "[LoliHouse] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][651.45 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e8bcd89eb078db3ecc75e736c9d9decd6378ca38",
+      "contentLength": "683094848",
+      "pubDate": "2024-12-06T20:11:38.83"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "683094848",
+      "@url": "https://mikanani.me/Download/20241206/e8bcd89eb078db3ecc75e736c9d9decd6378ca38.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Hitoribocchi no Isekai Kouryaku",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "孤单一人的异世界攻略",
+      "sub": "简繁内封字幕",
+      "title_jp": "ヒトリボッチの異世界攻略",
+      "size": "651.45 MB"
+    }
   }
 ]
