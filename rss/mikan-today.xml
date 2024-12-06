@@ -173,18 +173,6 @@
 			<enclosure type="application/x-bittorrent" length="318358144" url="https://mikanani.me/Download/20241206/2356bd4dacaf0a2693475811644f34faaddf291a.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[奇怪机翻组] 双梦相牵 / ふたりの梦もち [RJ01259078] [WebRip] [1080P SR] [HEVC-10Bit AAC 2.0] [简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1f50deb98c9f765603f8361504ffc1886cfa98f2</link>
-			<title>[奇怪机翻组] 双梦相牵 / ふたりの梦もち [RJ01259078] [WebRip] [1080P SR] [HEVC-10Bit AAC 2.0] [简繁内封字幕]</title>
-			<description>[奇怪机翻组] 双梦相牵 / ふたりの梦もち [RJ01259078] [WebRip] [1080P SR] [HEVC-10Bit AAC 2.0] [简繁内封字幕][121.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1f50deb98c9f765603f8361504ffc1886cfa98f2</link>
-				<contentLength>127401984</contentLength>
-				<pubDate>2024-12-06T09:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="127401984" url="https://mikanani.me/Download/20241206/1f50deb98c9f765603f8361504ffc1886cfa98f2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[奇怪机翻组] 铭记你的吻 / Mark Your Kiss [RJ01068095] [WebRip] [1080P HEVC-10Bit OPUS 2.0] [简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f10212a03242775c4166f940ee4cf324df82b50c</link>
 			<title>[奇怪机翻组] 铭记你的吻 / Mark Your Kiss [RJ01068095] [WebRip] [1080P HEVC-10Bit OPUS 2.0] [简繁内封字幕]</title>
@@ -1203,6 +1191,18 @@
 				<pubDate>2024-12-05T12:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371195904" url="https://mikanani.me/Download/20241205/0381ba65e35b00f4efaa5bb230dc02fcd7d4bd80.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 江户前精灵 / Edomae Elf / 江戸前エルフ 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2361c22cf3d857473a9b9151f06d06482d62cbcd</link>
+			<title>[VCB-Studio] 江户前精灵 / Edomae Elf / 江戸前エルフ 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 江户前精灵 / Edomae Elf / 江戸前エルフ 10-bit 1080p HEVC BDRip [Fin][15.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2361c22cf3d857473a9b9151f06d06482d62cbcd</link>
+				<contentLength>16320875520</contentLength>
+				<pubDate>2024-12-05T12:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16320875520" url="https://mikanani.me/Download/20241205/2361c22cf3d857473a9b9151f06d06482d62cbcd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
