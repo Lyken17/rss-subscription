@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/36bdfefe35ab4406eb54ec444ebc5134614c2faf</link>
+			<title>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][简日双语][招募翻译][505.77 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/36bdfefe35ab4406eb54ec444ebc5134614c2faf</link>
+				<contentLength>530338272</contentLength>
+				<pubDate>2024-12-07T05:59:55.275</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="530338272" url="https://mikanani.me/Download/20241207/36bdfefe35ab4406eb54ec444ebc5134614c2faf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/25d42df602177bc2d3eaf68546cdddf91cb93ee9</link>
 			<title>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-06T00:01:14.000466</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="651270528" url="https://mikanani.me/Download/20241206/f26443efc36956ea38beaf6aa5ee13de24e6901e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 胆大党 / Dandadan - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d8e59cda0b312f294570b2ca970f826137f08244</link>
-			<title>[Up to 21°C] 胆大党 / Dandadan - 10 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 胆大党 / Dandadan - 10 (Baha 1920x1080 AVC AAC MP4)[620.78 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8e59cda0b312f294570b2ca970f826137f08244</link>
-				<contentLength>650935040</contentLength>
-				<pubDate>2024-12-06T00:01:06.121</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="650935040" url="https://mikanani.me/Download/20241206/d8e59cda0b312f294570b2ca970f826137f08244.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
