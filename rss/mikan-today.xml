@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/25c52065acd58e4b39a49b96d35c17fa763de313</link>
+			<title>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][繁日双语][招募翻译][505.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25c52065acd58e4b39a49b96d35c17fa763de313</link>
+				<contentLength>529667200</contentLength>
+				<pubDate>2024-12-07T19:53:46.098</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="529667200" url="https://mikanani.me/Download/20241207/25c52065acd58e4b39a49b96d35c17fa763de313.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d95a77721a9882f3bd69629d56f466798649526b</link>
 			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-06T04:53:55.541919</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="474690368" url="https://mikanani.me/Download/20241206/1bbeac262a14e6331f9d67a24fca3386ff9c0acb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 34 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d5f5dda01e86879f8641bb71edfc91eac6ce5155</link>
-			<title>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 34 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 34 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d5f5dda01e86879f8641bb71edfc91eac6ce5155</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2024-12-06T03:02:38.855</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241206/d5f5dda01e86879f8641bb71edfc91eac6ce5155.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
