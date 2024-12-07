@@ -36622,5 +36622,102 @@
       "source": "BDRip",
       "season_raw": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/308c55d3624777874f3f01869a4182df0c9be276",
+    "title": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)[348.37 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/308c55d3624777874f3f01869a4182df0c9be276",
+      "contentLength": "365292416",
+      "pubDate": "2024-12-07T09:02:00.214"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "365292416",
+      "@url": "https://mikanani.me/Download/20241207/308c55d3624777874f3f01869a4182df0c9be276.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global Donghua",
+      "title_en": "Spy x Sect",
+      "resolution": "1080",
+      "episode": 21,
+      "season": 1,
+      "source": "HEVC",
+      "title_zh": "宗门里除了我都是卧底",
+      "sub": "AAC",
+      "title_jp": "Spy x Sect",
+      "size": "348.37 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Ultraman Arc /  超人力霸王雅克 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/26dc4ca1132881926eae661244a1a8df5cc32c5d",
+    "title": "[ANi] Ultraman Arc /  超人力霸王雅克 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Ultraman Arc /  超人力霸王雅克 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][667.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/26dc4ca1132881926eae661244a1a8df5cc32c5d",
+      "contentLength": "699714752",
+      "pubDate": "2024-12-07T09:01:24.750484"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "699714752",
+      "@url": "https://mikanani.me/Download/20241207/26dc4ca1132881926eae661244a1a8df5cc32c5d.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Ultraman Arc",
+      "resolution": "1080P",
+      "episode": 21,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "超人力霸王雅克",
+      "sub": "CHT",
+      "title_jp": "超人力霸王アーキ",
+      "size": "667.3 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 21 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6d75ba23e4066ddd4bc099098ddd3c1fac788bf2",
+    "title": "[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 21 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 21 (Baha 1920x1080 AVC AAC MP4)[666.94 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6d75ba23e4066ddd4bc099098ddd3c1fac788bf2",
+      "contentLength": "699337280",
+      "pubDate": "2024-12-07T09:00:59.082"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "699337280",
+      "@url": "https://mikanani.me/Download/20241207/6d75ba23e4066ddd4bc099098ddd3c1fac788bf2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Ultraman Arc",
+      "resolution": "1080p",
+      "episode": 21,
+      "season": 1,
+      "title_zh": "超人力霸王雅克",
+      "sub": "None",
+      "title_jp": "Ultraman Arc",
+      "size": "666.94 MB",
+      "season_raw": "Arc",
+      "source": "None"
+    }
   }
 ]
