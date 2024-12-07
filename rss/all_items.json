@@ -39629,5 +39629,70 @@
       "size": "207.2MB",
       "season_raw": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/9a38b20cae05421cb3fb17f53ab0f740726f2f37",
+    "title": "[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 10 (ABEMA 1920x1080 AVC AAC MP4)[346.23 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9a38b20cae05421cb3fb17f53ab0f740726f2f37",
+      "contentLength": "363048480",
+      "pubDate": "2024-12-08T02:45:37.063"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "363048480",
+      "@url": "https://mikanani.me/Download/20241208/9a38b20cae05421cb3fb17f53ab0f740726f2f37.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Maarui Kanojo to Zannen na Kareshi",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "棉花糖女孩遇上闷骚男孩",
+      "sub": "None",
+      "title_jp": "Maarui Kanojo to Zannen na Kareshi",
+      "size": "346.23 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 被逐出队伍的治愈师，其实是最强 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6c9e2c57e487656cea2538961604f00941df9970",
+    "title": "[Up to 21°C] 被逐出队伍的治愈师，其实是最强 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 被逐出队伍的治愈师，其实是最强 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 10 (ABEMA 1920x1080 AVC AAC MP4)[703.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6c9e2c57e487656cea2538961604f00941df9970",
+      "contentLength": "737987776",
+      "pubDate": "2024-12-08T02:30:56.493"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "737987776",
+      "@url": "https://mikanani.me/Download/20241208/6c9e2c57e487656cea2538961604f00941df9970.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "被逐出队伍的治愈师，其实是最强",
+      "sub": "MP4",
+      "title_jp": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+      "size": "703.8 MB",
+      "season_raw": "1920x1080 AVC AAC MP4"
+    }
   }
 ]
