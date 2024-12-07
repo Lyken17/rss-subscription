@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[虎鹤妖师录][第11集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/3b322ca865717f6d9911717d73abe9972e9c4dd7</link>
+			<title>[虎鹤妖师录][第11集][国语中字][WEB-MKV][2160P]</title>
+			<description>[虎鹤妖师录][第11集][国语中字][WEB-MKV][2160P][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b322ca865717f6d9911717d73abe9972e9c4dd7</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2024-12-07T12:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20241207/3b322ca865717f6d9911717d73abe9972e9c4dd7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[宗门里除了我都是卧底][第21集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/5220f40440528d7447be46d6ea411433add5755f</link>
+			<title>[宗门里除了我都是卧底][第21集][国语中字][WEB-MKV][2160P]</title>
+			<description>[宗门里除了我都是卧底][第21集][国语中字][WEB-MKV][2160P][799.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5220f40440528d7447be46d6ea411433add5755f</link>
+				<contentLength>838126784</contentLength>
+				<pubDate>2024-12-07T12:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="838126784" url="https://mikanani.me/Download/20241207/5220f40440528d7447be46d6ea411433add5755f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/1bcb312c5d4e3695c2d9ce2a2fbf8282a8a47bdb</link>
 			<title>[Up to 21°C] 大道朝天 / One Way or Another - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2024-12-06T01:01:10.773808</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="434844480" url="https://mikanani.me/Download/20241206/9be8b3134cebf657f0622ce49f8a72c64189a906.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2e6e245fc6950c2bb8b20cfbc0ffbe8e9bea7d28</link>
-			<title>[Up to 21°C] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 10 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 10 (Baha 1920x1080 AVC AAC MP4)[414.48 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2e6e245fc6950c2bb8b20cfbc0ffbe8e9bea7d28</link>
-				<contentLength>434613792</contentLength>
-				<pubDate>2024-12-06T01:00:56.327</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="434613792" url="https://mikanani.me/Download/20241206/2e6e245fc6950c2bb8b20cfbc0ffbe8e9bea7d28.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/25e495c44fc12fd63fadfbf02a807fc8be6a2fe8</link>
-			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (Baha 1920x1080 AVC AAC MP4)[395.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25e495c44fc12fd63fadfbf02a807fc8be6a2fe8</link>
-				<contentLength>414669856</contentLength>
-				<pubDate>2024-12-06T00:59:35.794</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="414669856" url="https://mikanani.me/Download/20241206/25e495c44fc12fd63fadfbf02a807fc8be6a2fe8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
