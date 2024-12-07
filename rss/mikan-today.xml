@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/a71ee778c708cfeaee5ff1518975440d228183be</link>
+			<title>[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P]</title>
+			<description>[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P][1.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a71ee778c708cfeaee5ff1518975440d228183be</link>
+				<contentLength>1825361152</contentLength>
+				<pubDate>2024-12-07T11:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1825361152" url="https://mikanani.me/Download/20241207/a71ee778c708cfeaee5ff1518975440d228183be.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][22][1080p][繁日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/eeaf5d91c0d8e999fe8df9ef0c28be5e872791c8</link>
 			<title>【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][22][1080p][繁日双语][招募翻译]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-06T00:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389021696" url="https://mikanani.me/Download/20241206/30863b01e7b3ee96ca49888a453c5cb74284d949.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][22][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/11b609d19f7c2abc2476ae8fb505a78bf0f7eb9c</link>
-			<title>【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][22][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][22][1080p][简日双语][招募翻译][471 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/11b609d19f7c2abc2476ae8fb505a78bf0f7eb9c</link>
-				<contentLength>493879296</contentLength>
-				<pubDate>2024-12-06T00:47:59.129</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="493879296" url="https://mikanani.me/Download/20241206/11b609d19f7c2abc2476ae8fb505a78bf0f7eb9c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

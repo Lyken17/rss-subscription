@@ -36913,5 +36913,37 @@
       "title_jp": "Ooi! Tonbo",
       "size": "530.31 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/a71ee778c708cfeaee5ff1518975440d228183be",
+    "title": "[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P]",
+    "description": "[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P][1.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a71ee778c708cfeaee5ff1518975440d228183be",
+      "contentLength": "1825361152",
+      "pubDate": "2024-12-07T11:07:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1825361152",
+      "@url": "https://mikanani.me/Download/20241207/a71ee778c708cfeaee5ff1518975440d228183be.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "绝世唐门",
+      "resolution": "2160P",
+      "episode": "78",
+      "season": 2,
+      "source": "WEB-MKV",
+      "title_zh": "斗罗大陆2绝世唐门",
+      "sub": "国语中字",
+      "title_jp": "未知",
+      "size": "1.7GB"
+    }
   }
 ]
