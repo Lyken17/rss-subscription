@@ -37560,5 +37560,70 @@
       "title_jp": "かみのる",
       "size": "317.61 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d95a77721a9882f3bd69629d56f466798649526b",
+    "title": "[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][487.02 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d95a77721a9882f3bd69629d56f466798649526b",
+      "contentLength": "510677472",
+      "pubDate": "2024-12-07T19:07:49.536"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "510677472",
+      "@url": "https://mikanani.me/Download/20241207/d95a77721a9882f3bd69629d56f466798649526b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Sword Art Online Alternative: Gun Gale Online II",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 2,
+      "source": "WebRip",
+      "title_zh": "刀剑神域外传 Gun Gale Online II",
+      "sub": "简繁内封字幕",
+      "title_jp": "刀剣神域外伝 Gun Gale Online II",
+      "size": "487.02 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/8285bc8cdb3f4ad63286a9f46ee81f3f2f702610",
+    "title": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/8285bc8cdb3f4ad63286a9f46ee81f3f2f702610",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-07T19:03:41.144"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241207/8285bc8cdb3f4ad63286a9f46ee81f3f2f702610.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Ao no Miburo",
+      "resolution": "1920x1080",
+      "episode": 8,
+      "season": 1,
+      "title_zh": "青之壬生浪",
+      "sub": "cr",
+      "title_jp": "アオノミブロ",
+      "source": "CR",
+      "size": "1.35 GB"
+    }
   }
 ]
