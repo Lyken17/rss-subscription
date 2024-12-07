@@ -37170,5 +37170,69 @@
       "title_jp": null,
       "size": "410.5MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&音频压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 20 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)"
+    },
+    "link": "https://mikanani.me/Home/Episode/bcde9adff1dcdd3130bb0eccd66935b4a803a663",
+    "title": "[jibaketa合成&音频压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 20 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)",
+    "description": "[jibaketa合成&音频压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 20 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[1.12 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/bcde9adff1dcdd3130bb0eccd66935b4a803a663",
+      "contentLength": "1202590848",
+      "pubDate": "2024-12-07T15:10:29.963"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1202590848",
+      "@url": "https://mikanani.me/Download/20241207/bcde9adff1dcdd3130bb0eccd66935b4a803a663.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "jibaketa合成&音频压制",
+      "title_en": "Ultraman Arc",
+      "resolution": "1920x1080",
+      "episode": 20,
+      "season": 1,
+      "title_zh": "超人力霸王雅克",
+      "title_jp": "亚刻奥特曼",
+      "sub": "粤语",
+      "size": "1.12 GB",
+      "source": "WEB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[卡徒][第3集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b9d8069398614308e79acb875d5df422f231c684",
+    "title": "[卡徒][第3集][国语中字][WEB-MKV][2160P]",
+    "description": "[卡徒][第3集][国语中字][WEB-MKV][2160P][527.1MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b9d8069398614308e79acb875d5df422f231c684",
+      "contentLength": "552704384",
+      "pubDate": "2024-12-07T15:07:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "552704384",
+      "@url": "https://mikanani.me/Download/20241207/b9d8069398614308e79acb875d5df422f231c684.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "卡徒",
+      "title_en": null,
+      "resolution": "2160P",
+      "episode": 3,
+      "season": 1,
+      "source": "WEB-MKV",
+      "title_zh": "卡徒",
+      "sub": "国语中字",
+      "title_jp": null,
+      "size": "527.1MB"
+    }
   }
 ]
