@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1bcb312c5d4e3695c2d9ce2a2fbf8282a8a47bdb</link>
+			<title>[Up to 21°C] 大道朝天 / One Way or Another - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 大道朝天 / One Way or Another - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[626.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1bcb312c5d4e3695c2d9ce2a2fbf8282a8a47bdb</link>
+				<contentLength>656471488</contentLength>
+				<pubDate>2024-12-07T12:03:07.926</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="656471488" url="https://mikanani.me/Download/20241207/1bcb312c5d4e3695c2d9ce2a2fbf8282a8a47bdb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/a71ee778c708cfeaee5ff1518975440d228183be</link>
 			<title>[斗罗大陆2绝世唐门][第78集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-06T00:59:35.794</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="414669856" url="https://mikanani.me/Download/20241206/25e495c44fc12fd63fadfbf02a807fc8be6a2fe8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 09 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/30863b01e7b3ee96ca49888a453c5cb74284d949</link>
-			<title>[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 09 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - 09 [ViuTV][WEB-DL][1080p][AVC AAC][371MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/30863b01e7b3ee96ca49888a453c5cb74284d949</link>
-				<contentLength>389021696</contentLength>
-				<pubDate>2024-12-06T00:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="389021696" url="https://mikanani.me/Download/20241206/30863b01e7b3ee96ca49888a453c5cb74284d949.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
