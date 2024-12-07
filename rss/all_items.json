@@ -37464,5 +37464,101 @@
       "source": null,
       "size": "52.5GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/730b945071b414c07d03910d2c62f0286c806489",
+    "title": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (ADN 1920x1080 AVC AAC MKV)[572.46 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/730b945071b414c07d03910d2c62f0286c806489",
+      "contentLength": "600267840",
+      "pubDate": "2024-12-07T18:05:03.426"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "600267840",
+      "@url": "https://mikanani.me/Download/20241207/730b945071b414c07d03910d2c62f0286c806489.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ADN",
+      "title_en": "Ao no Miburo",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "MKV",
+      "title_zh": "青之壬生浪",
+      "sub": "None",
+      "title_jp": "Ao no Miburo",
+      "size": "572.46 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Blue Miburo /  青之壬生浪 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/5b8b4b5c8afc97ce3f08e68d5e6f5c5b9ff91ba3",
+    "title": "[ANi] Blue Miburo /  青之壬生浪 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Blue Miburo /  青之壬生浪 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][317.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5b8b4b5c8afc97ce3f08e68d5e6f5c5b9ff91ba3",
+      "contentLength": "333342304",
+      "pubDate": "2024-12-07T18:01:10.91785"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "333342304",
+      "@url": "https://mikanani.me/Download/20241207/5b8b4b5c8afc97ce3f08e68d5e6f5c5b9ff91ba3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Blue Miburo",
+      "resolution": "1080P",
+      "episode": 8,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "青之壬生浪",
+      "sub": "CHT",
+      "title_jp": "Blue Miburo",
+      "size": "317.9 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/78561c80dfb25cfeaa9b626499a0be750fdd1e0a",
+    "title": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 青之壬生浪 / Ao no Miburo - 08 (Baha 1920x1080 AVC AAC MP4)[317.61 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/78561c80dfb25cfeaa9b626499a0be750fdd1e0a",
+      "contentLength": "333038208",
+      "pubDate": "2024-12-07T18:00:50.572"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "333038208",
+      "@url": "https://mikanani.me/Download/20241207/78561c80dfb25cfeaa9b626499a0be750fdd1e0a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Ao no Miburo",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "Baha",
+      "title_zh": "青之壬生浪",
+      "sub": "None",
+      "title_jp": "かみのる",
+      "size": "317.61 MB"
+    }
   }
 ]
