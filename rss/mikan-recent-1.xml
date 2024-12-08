@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][繁日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/25c52065acd58e4b39a49b96d35c17fa763de313</link>
-			<title>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][繁日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][繁日双语][招募翻译][505.13 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25c52065acd58e4b39a49b96d35c17fa763de313</link>
-				<contentLength>529667200</contentLength>
-				<pubDate>2024-12-07T19:53:46.098</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="529667200" url="https://mikanani.me/Download/20241207/25c52065acd58e4b39a49b96d35c17fa763de313.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>喵萌奶茶屋</group>
-				<title_en>Dandadan</title_en>
-				<resolution>1080p</resolution>
-				<episode>10</episode>
-				<season>1</season>
-				<title_zh>超自然武装当哒当 / 胆大党</title_zh>
-				<sub>繁日双语</sub>
-				<title_jp>Dandadan</title_jp>
-				<season_raw>10月新番</season_raw>
-				<source>招募翻译</source>
-				<size>505.13 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/8956ca23ce7e067604d7030e9c0d283cbbd2ac4a</link>
 			<title>[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 10 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -5236,6 +5211,31 @@
 				<sub>None</sub>
 				<title_jp>Trillion Game</title_jp>
 				<size>727.73 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f60b2455d700e80308ebf585c316fccf284d44d5</link>
+			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)[310.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f60b2455d700e80308ebf585c316fccf284d44d5</link>
+				<contentLength>325729664</contentLength>
+				<pubDate>2024-12-09T03:15:33.007</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="325729664" url="https://mikanani.me/Download/20241209/f60b2455d700e80308ebf585c316fccf284d44d5.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Tono to Inu</title_en>
+				<resolution>1080</resolution>
+				<episode>8</episode>
+				<season>1</season>
+				<title_zh>殿下与狗</title_zh>
+				<sub>None</sub>
+				<title_jp>トノとイヌ</title_jp>
+				<season_raw>1920x1080</season_raw>
+				<source>None</source>
+				<size>310.64 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

@@ -44571,5 +44571,38 @@
       "title_jp": "Trillion Game",
       "size": "727.73 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 殿下与狗 / Tono to Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/f60b2455d700e80308ebf585c316fccf284d44d5",
+    "title": "[Up to 21°C] 殿下与狗 / Tono to Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 殿下与狗 / Tono to Inu - 08 (ABEMA 1920x1080 AVC AAC MP4)[310.64 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f60b2455d700e80308ebf585c316fccf284d44d5",
+      "contentLength": "325729664",
+      "pubDate": "2024-12-09T03:15:33.007"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "325729664",
+      "@url": "https://mikanani.me/Download/20241209/f60b2455d700e80308ebf585c316fccf284d44d5.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Tono to Inu",
+      "resolution": "1080",
+      "episode": 8,
+      "season": 1,
+      "title_zh": "殿下与狗",
+      "sub": "None",
+      "title_jp": "トノとイヌ",
+      "season_raw": "1920x1080",
+      "source": "None",
+      "size": "310.64 MB"
+    }
   }
 ]
