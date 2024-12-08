@@ -41491,5 +41491,135 @@
       "title_jp": " Kimi wa Meido-sama",
       "size": "540.48 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 06 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/9cd8caa49591aff1c1657636b7b95581af46b412",
+    "title": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 06 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 06 (ADN 1920x1080 AVC AAC MKV)[569.62 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9cd8caa49591aff1c1657636b7b95581af46b412",
+      "contentLength": "597289856",
+      "pubDate": "2024-12-08T16:05:01.958"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "597289856",
+      "@url": "https://mikanani.me/Download/20241208/9cd8caa49591aff1c1657636b7b95581af46b412.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "One Piece: Gyojin Tou-hen",
+      "resolution": "1920x1080",
+      "episode": 6,
+      "season": 1,
+      "source": "ADN",
+      "title_zh": "海贼王：鱼人岛篇特别编辑版",
+      "sub": "EN CN",
+      "title_jp": "海贼王：鱼人岛篇特別編集版",
+      "size": "569.62 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 82 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/c55ee0897f48f866fa86d8bbbbf31fcdd6a45652",
+    "title": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 82 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 82 (ADN 1920x1080 AVC AAC MKV)[559.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c55ee0897f48f866fa86d8bbbbf31fcdd6a45652",
+      "contentLength": "586468544",
+      "pubDate": "2024-12-08T16:04:41.841"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "586468544",
+      "@url": "https://mikanani.me/Download/20241208/c55ee0897f48f866fa86d8bbbbf31fcdd6a45652.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Tousouchuu: Great Mission",
+      "resolution": "1920x1080",
+      "episode": 82,
+      "season": 1,
+      "source": "ADN",
+      "title_zh": "逃走中 GREAT MISSION",
+      "sub": "AVC AAC",
+      "title_jp": "Tousouchuu: Great Mission",
+      "size": "559.3 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][36][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)"
+    },
+    "link": "https://mikanani.me/Home/Episode/e82b164995ff67c5ece9f47bfa9149dd5d0a3806",
+    "title": "[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][36][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)",
+    "description": "[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][36][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[979.8MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e82b164995ff67c5ece9f47bfa9149dd5d0a3806",
+      "contentLength": "1027394752",
+      "pubDate": "2024-12-08T15:45:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1027394752",
+      "@url": "https://mikanani.me/Download/20241208/e82b164995ff67c5ece9f47bfa9149dd5d0a3806.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "雪飘工作室",
+      "title_en": "Himitsu_no_Aipri",
+      "resolution": null,
+      "episode": 36,
+      "season": 1,
+      "title_zh": "秘密的美妙公主",
+      "sub": "简繁外挂",
+      "title_jp": "ひみつのアイプリ",
+      "size": "979.8MB",
+      "source": null
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][36][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)"
+    },
+    "link": "https://mikanani.me/Home/Episode/0a4a07892675fd3e96420dfc1a8eae007397bf5b",
+    "title": "[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][36][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)",
+    "description": "[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][36][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[296.7MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0a4a07892675fd3e96420dfc1a8eae007397bf5b",
+      "contentLength": "311112512",
+      "pubDate": "2024-12-08T15:44:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "311112512",
+      "@url": "https://mikanani.me/Download/20241208/0a4a07892675fd3e96420dfc1a8eae007397bf5b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "雪飘工作室",
+      "title_en": "Himitsu_no_Aipri",
+      "resolution": "720P",
+      "episode": 36,
+      "season": 1,
+      "title_zh": "秘密的美妙公主",
+      "sub": "繁",
+      "title_jp": "ひみつのアイプリ",
+      "size": "296.7MB",
+      "source": "检索",
+      "season_raw": ""
+    }
   }
 ]
