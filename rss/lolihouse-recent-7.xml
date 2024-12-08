@@ -1100,5 +1100,30 @@
 				<size>274.6MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔王2099 / Maou 2099 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/280ab2c4ad1219fb3e7010b04441702c716787ac</link>
+			<title>[LoliHouse] 魔王2099 / Maou 2099 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔王2099 / Maou 2099 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][457.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/280ab2c4ad1219fb3e7010b04441702c716787ac</link>
+				<contentLength>479335552</contentLength>
+				<pubDate>2024-12-08T12:15:10.923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="479335552" url="https://mikanani.me/Download/20241208/280ab2c4ad1219fb3e7010b04441702c716787ac.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Maou 2099</title_en>
+				<resolution>HEVC-10bit</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>魔王2099</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Maou 2099</title_jp>
+				<size>457.13 MB</size>
+				<season_raw>09</season_raw>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
