@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 34 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/19ea17d3dd7612cb731dd01adb5bda8013294d60</link>
+			<title>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 34 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 34 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19ea17d3dd7612cb731dd01adb5bda8013294d60</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2024-12-08T18:33:26.337</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241208/19ea17d3dd7612cb731dd01adb5bda8013294d60.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 22 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f8141309f3d9fd40cfea86d28a68f0e242cd8657</link>
 			<title>[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 22 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,30 +1191,6 @@
 				<pubDate>2024-12-07T23:55:06.805</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="700805312" url="https://mikanani.me/Download/20241207/fdfa83358992b253fbfe5fd825bbce552c51d6a6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 03 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/a33e95935a70a83e9480738debfdce869b574fbe</link>
-			<title>[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 03 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 03 [ViuTV][WEB-DL][1080p][AVC AAC][396.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a33e95935a70a83e9480738debfdce869b574fbe</link>
-				<contentLength>415865248</contentLength>
-				<pubDate>2024-12-07T23:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="415865248" url="https://mikanani.me/Download/20241207/a33e95935a70a83e9480738debfdce869b574fbe.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d920fbc7e8bac030d6e41953d56618fde72523d7</link>
-			<title>[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][661.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d920fbc7e8bac030d6e41953d56618fde72523d7</link>
-				<contentLength>693895168</contentLength>
-				<pubDate>2024-12-07T23:47:11.712</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="693895168" url="https://mikanani.me/Download/20241207/d920fbc7e8bac030d6e41953d56618fde72523d7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

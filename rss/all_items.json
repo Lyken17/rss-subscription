@@ -41945,5 +41945,38 @@
       "title_jp": "Ao no Exorcist Yuki no Hate-Hen",
       "size": "398.55 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 34 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/19ea17d3dd7612cb731dd01adb5bda8013294d60",
+    "title": "[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 34 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 34 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/19ea17d3dd7612cb731dd01adb5bda8013294d60",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-08T18:33:26.337"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241208/19ea17d3dd7612cb731dd01adb5bda8013294d60.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Shangri-La Frontier 2nd Season",
+      "resolution": "1080p",
+      "episode": 34,
+      "season": 2,
+      "title_zh": "香格里拉・开拓异境～粪作猎手挑战神作～ 第二季",
+      "sub": "CR",
+      "title_jp": "Shangri-La Frontier 2nd Season",
+      "size": "1.35 GB",
+      "season_raw": "2nd Season",
+      "source": "CR"
+    }
   }
 ]
