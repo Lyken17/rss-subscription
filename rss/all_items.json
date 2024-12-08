@@ -40998,5 +40998,102 @@
       "source": "WEB-MKV",
       "size": "2.6GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 04 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/4a58e218fbc8834416daf586f43c11d3945914e1",
+    "title": "[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 04 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 04 [ViuTV][WEB-DL][1080p][AVC AAC][423.2MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4a58e218fbc8834416daf586f43c11d3945914e1",
+      "contentLength": "443757376",
+      "pubDate": "2024-12-08T13:08:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "443757376",
+      "@url": "https://mikanani.me/Download/20241208/4a58e218fbc8834416daf586f43c11d3945914e1.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "Shangri-La Frontier 2nd Season",
+      "resolution": "1080p",
+      "episode": 4,
+      "season": 2,
+      "source": "WEB-DL",
+      "title_zh": "香格里拉·开拓异境～粪作猎手挑战神作～第2季",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "423.2MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 海贼王 / One Piece - 522(retake (B-Global 3840x2160 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/cd35a0d92b64bdf0c948ed0e87459e3900414711",
+    "title": "[Up to 21°C] 海贼王 / One Piece - 522(retake (B-Global 3840x2160 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 海贼王 / One Piece - 522(retake (B-Global 3840x2160 HEVC AAC MKV)[1.33 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/cd35a0d92b64bdf0c948ed0e87459e3900414711",
+      "contentLength": "1428076672",
+      "pubDate": "2024-12-08T13:06:11.232"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1428076672",
+      "@url": "https://mikanani.me/Download/20241208/cd35a0d92b64bdf0c948ed0e87459e3900414711.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": null,
+      "title_en": "One Piece",
+      "resolution": "1.33 GB",
+      "episode": 522,
+      "season": 1,
+      "source": "retake (B-Global 3840x2160 HEVC AAC MKV]",
+      "title_zh": "海贼王",
+      "sub": null,
+      "title_jp": null,
+      "size": "1.33 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌Production】★10月新番★[LoveLive! 超级明星!! 3期 / Love Live! Superstar!! S3][07][1080p][繁日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/16703692e4c41025127994045315c403ea88bfa2",
+    "title": "【喵萌Production】★10月新番★[LoveLive! 超级明星!! 3期 / Love Live! Superstar!! S3][07][1080p][繁日双语][招募翻译]",
+    "description": "【喵萌Production】★10月新番★[LoveLive! 超级明星!! 3期 / Love Live! Superstar!! S3][07][1080p][繁日双语][招募翻译][480.4MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/16703692e4c41025127994045315c403ea88bfa2",
+      "contentLength": "503735904",
+      "pubDate": "2024-12-08T12:40:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "503735904",
+      "@url": "https://mikanani.me/Download/20241208/16703692e4c41025127994045315c403ea88bfa2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌Production",
+      "title_en": "Love Live! Superstar!! S3",
+      "resolution": "1080p",
+      "episode": 7,
+      "season": 3,
+      "title_zh": "LoveLive! 超级明星!! 3期",
+      "sub": "繁日双语",
+      "title_jp": "Love Live! Superstar!! S3",
+      "season_raw": "10月新番",
+      "source": "480.4MB",
+      "size": "480.4MB"
+    }
   }
 ]
