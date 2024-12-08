@@ -41358,5 +41358,138 @@
       "title_jp": "Dragon Ball Daima",
       "size": "384.3MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 11 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/58f8bf39484e55b4252cd3a78f6ac7f724d5fff6",
+    "title": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 11 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 11 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][简繁日内封字幕][1002.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/58f8bf39484e55b4252cd3a78f6ac7f724d5fff6",
+      "contentLength": "1051616896",
+      "pubDate": "2024-12-08T14:56:48.183482"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1051616896",
+      "@url": "https://mikanani.me/Download/20241208/58f8bf39484e55b4252cd3a78f6ac7f724d5fff6.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊字幕组",
+      "title_en": "Ao no Hako",
+      "resolution": "2160p",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "青之箱",
+      "sub": "简繁日内封字幕",
+      "title_jp": "Ao no Hako",
+      "size": "1002.9MB",
+      "season_raw": "11",
+      "source": "NF WebRip"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[喵萌奶茶屋&LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/06d17d484f22d24e9280e046de2de175c7486b5d",
+    "title": "[喵萌奶茶屋&LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[喵萌奶茶屋&LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][619.17 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/06d17d484f22d24e9280e046de2de175c7486b5d",
+      "contentLength": "649246784",
+      "pubDate": "2024-12-08T14:47:35.711"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "649246784",
+      "@url": "https://mikanani.me/Download/20241208/06d17d484f22d24e9280e046de2de175c7486b5d.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋&LoliHouse",
+      "title_en": "Dandadan",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "超自然武装当哒当 / 胆大党",
+      "sub": "简繁日内封字幕",
+      "title_jp": "Dandadan",
+      "size": "619.17 MB",
+      "season_raw": "10",
+      "sub_raw": "简繁日内封字幕",
+      "resolution_raw": "WebRip 1080p HEVC-10bit AAC",
+      "group_raw": "喵萌奶茶屋&LoliHouse"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 11 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/e43d896a51ef91c7044afb60b1f3a9347efe87d9",
+    "title": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 11 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[沸羊羊字幕组] 青之箱 / Ao no Hako - 11 [NF WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][362.7 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e43d896a51ef91c7044afb60b1f3a9347efe87d9",
+      "contentLength": "380318528",
+      "pubDate": "2024-12-08T14:37:38.042514"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "380318528",
+      "@url": "https://mikanani.me/Download/20241208/e43d896a51ef91c7044afb60b1f3a9347efe87d9.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊字幕组",
+      "title_en": "Ao no Hako",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "source": "NF WebRip",
+      "title_zh": "青之箱",
+      "sub": "简繁日内封字幕",
+      "title_jp": " Ao no Hako",
+      "size": "362.7 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 女仆冥土小姐 / Kimi wa Meido-sama - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f37d38659eed6a86beca4b87a8ce11df92a27292",
+    "title": "[LoliHouse] 女仆冥土小姐 / Kimi wa Meido-sama - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 女仆冥土小姐 / Kimi wa Meido-sama - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][540.48 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f37d38659eed6a86beca4b87a8ce11df92a27292",
+      "contentLength": "566734336",
+      "pubDate": "2024-12-08T14:25:51.153"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "566734336",
+      "@url": "https://mikanani.me/Download/20241208/f37d38659eed6a86beca4b87a8ce11df92a27292.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Kimi wa Meido-sama",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "女仆冥土小姐",
+      "sub": "简繁内封字幕",
+      "title_jp": " Kimi wa Meido-sama",
+      "size": "540.48 MB"
+    }
   }
 ]
