@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/01abea2df6917c638384fa62719143ec3894c0b7</link>
+			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (ABEMA 1920x1080 AVC AAC MP4)[727.73 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/01abea2df6917c638384fa62719143ec3894c0b7</link>
+				<contentLength>763080192</contentLength>
+				<pubDate>2024-12-09T03:00:48.865</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="763080192" url="https://mikanani.me/Download/20241209/01abea2df6917c638384fa62719143ec3894c0b7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/e8f0ba8345a21e16ecb489a80a546222b25106a5</link>
 			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-08T14:25:51.153</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="566734336" url="https://mikanani.me/Download/20241208/f37d38659eed6a86beca4b87a8ce11df92a27292.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸羊羊制作] 青之箱 / Ao no Hako - 10 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/0229e9dfc4d3d0e20f5d45e4ecae7712ae220ff3</link>
-			<title>[沸羊羊制作] 青之箱 / Ao no Hako - 10 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[沸羊羊制作] 青之箱 / Ao no Hako - 10 [NF WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕][992.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0229e9dfc4d3d0e20f5d45e4ecae7712ae220ff3</link>
-				<contentLength>1040921408</contentLength>
-				<pubDate>2024-12-08T14:22:42.35481</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1040921408" url="https://mikanani.me/Download/20241208/0229e9dfc4d3d0e20f5d45e4ecae7712ae220ff3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

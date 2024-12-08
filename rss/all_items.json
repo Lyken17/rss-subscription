@@ -44539,5 +44539,37 @@
       "size": "5.2GB",
       "source": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/01abea2df6917c638384fa62719143ec3894c0b7",
+    "title": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 11 (ABEMA 1920x1080 AVC AAC MP4)[727.73 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/01abea2df6917c638384fa62719143ec3894c0b7",
+      "contentLength": "763080192",
+      "pubDate": "2024-12-09T03:00:48.865"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "763080192",
+      "@url": "https://mikanani.me/Download/20241209/01abea2df6917c638384fa62719143ec3894c0b7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Trillion Game",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "一兆＄游戏",
+      "sub": "None",
+      "title_jp": "Trillion Game",
+      "size": "727.73 MB"
+    }
   }
 ]
