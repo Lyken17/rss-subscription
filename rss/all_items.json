@@ -42326,6 +42326,19 @@
       "@type": "application/x-bittorrent",
       "@length": "611110080",
       "@url": "https://mikanani.me/Download/20241208/6d933409539bbba70cace8959c52629f8387e3f8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋",
+      "title_en": "Ranma ½",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "乱马 1/2",
+      "sub": "繁日双语",
+      "title_jp": "Ranma ½",
+      "season_raw": "10月新番",
+      "source": "招募翻译",
+      "size": "582.8MB"
     }
   },
   {
@@ -42458,6 +42471,103 @@
       "title_jp": "",
       "season_raw": "U-20 日本代表队",
       "size": "771.96 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/375333da0b44d9fb4cf15ff93114902277e52a28",
+    "title": "[LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][542.98 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/375333da0b44d9fb4cf15ff93114902277e52a28",
+      "contentLength": "569355776",
+      "pubDate": "2024-12-08T21:10:02.425"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "569355776",
+      "@url": "https://mikanani.me/Download/20241208/375333da0b44d9fb4cf15ff93114902277e52a28.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Party kara Tsuihou sareta Sono Chiyushi - 10",
+      "resolution": "HEVC-10bit",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "被队伍驱逐的治愈师，其实是最强的",
+      "sub": "简繁内封字幕",
+      "title_jp": " Party kara Tsuihou sareta Sono Chiyushi - 10",
+      "size": "542.98 MB",
+      "source": "WebRip"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][超力机器人伽拉特/Chouriki Robo Galatt/超力ロボ ガラット][01-25TV全集][480P][DVDRip][AVC][AC3][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/6ef10141e107f7fecd8c6f947eb685a7f5a142a4",
+    "title": "[DBD-Raws][超力机器人伽拉特/Chouriki Robo Galatt/超力ロボ ガラット][01-25TV全集][480P][DVDRip][AVC][AC3][MKV]",
+    "description": "[DBD-Raws][超力机器人伽拉特/Chouriki Robo Galatt/超力ロボ ガラット][01-25TV全集][480P][DVDRip][AVC][AC3][MKV][7.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6ef10141e107f7fecd8c6f947eb685a7f5a142a4",
+      "contentLength": "7730940928",
+      "pubDate": "2024-12-08T21:00:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "7730940928",
+      "@url": "https://mikanani.me/Download/20241208/6ef10141e107f7fecd8c6f947eb685a7f5a142a4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Chouriki Robo Galatt",
+      "resolution": "480P",
+      "episode": "1-25",
+      "season": 1,
+      "title_zh": "超力机器人伽拉特",
+      "sub": "AC3",
+      "title_jp": "超力ロボ ガラット",
+      "season_raw": "01-25TV全集",
+      "source": "DVDRip",
+      "size": "7.2GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[梦蓝字幕组]New Doraemon 哆啦A梦新番[839][2024.11.30][AVC][1080P][GB_JP][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3165958e4436a5bc3eefe5b79a3dc0b920470e57",
+    "title": "[梦蓝字幕组]New Doraemon 哆啦A梦新番[839][2024.11.30][AVC][1080P][GB_JP][MP4]",
+    "description": "[梦蓝字幕组]New Doraemon 哆啦A梦新番[839][2024.11.30][AVC][1080P][GB_JP][MP4][497.5MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3165958e4436a5bc3eefe5b79a3dc0b920470e57",
+      "contentLength": "521666560",
+      "pubDate": "2024-12-08T20:50:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "521666560",
+      "@url": "https://mikanani.me/Download/20241208/3165958e4436a5bc3eefe5b79a3dc0b920470e57.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "梦蓝字幕组",
+      "title_en": "New Doraemon",
+      "resolution": "1080P",
+      "episode": 839,
+      "season": 1,
+      "source": "GB_JP",
+      "title_zh": "哆啦A梦新番",
+      "sub": "AVC",
+      "title_jp": "New Doraemon",
+      "size": "497.5MB"
     }
   }
 ]
