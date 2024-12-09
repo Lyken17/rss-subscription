@@ -44604,5 +44604,70 @@
       "source": "None",
       "size": "310.64 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/487436b57c9ebd8f63e75b2dc84641672115bb39",
+    "title": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)[328.23 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/487436b57c9ebd8f63e75b2dc84641672115bb39",
+      "contentLength": "344174112",
+      "pubDate": "2024-12-09T09:01:55.579"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "344174112",
+      "@url": "https://mikanani.me/Download/20241209/487436b57c9ebd8f63e75b2dc84641672115bb39.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global Donghua",
+      "title_en": "Spy x Sect",
+      "resolution": "1920x1080",
+      "episode": 22,
+      "season": 1,
+      "source": "MKV",
+      "title_zh": "宗门里除了我都是卧底",
+      "sub": "N/A",
+      "title_jp": "Spy x Sect",
+      "size": "328.23 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/01c06f61becf9a6b3e29fe1c8ada2ccdd601f35a",
+    "title": "[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][657.87 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/01c06f61becf9a6b3e29fe1c8ada2ccdd601f35a",
+      "contentLength": "689826688",
+      "pubDate": "2024-12-09T08:35:48.805"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "689826688",
+      "@url": "https://mikanani.me/Download/20241209/01c06f61becf9a6b3e29fe1c8ada2ccdd601f35a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "MF GHOST",
+      "resolution": "HEVC-10bit",
+      "episode": 10,
+      "season": 2,
+      "source": "WebRip",
+      "title_zh": "极速车魂",
+      "title_jp": "MF GHOST",
+      "sub": "简繁内封字幕",
+      "size": "657.87 MB",
+      "season_raw": "2nd Season"
+    }
   }
 ]
