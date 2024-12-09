@@ -45645,5 +45645,58 @@
       "title_jp": "Tales of the Gro Cookie -第五季- 丰饶の女神篇",
       "size": "161.41 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Amor字幕组&樱桃花字幕组][银翼超人 ウイングマン Wingman][05][CHS_JP][1080P][HDrip][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/783d26a9af59849b80f240950390441787a68273",
+    "title": "[Amor字幕组&樱桃花字幕组][银翼超人 ウイングマン Wingman][05][CHS_JP][1080P][HDrip][MP4]",
+    "description": "[Amor字幕组&樱桃花字幕组][银翼超人 ウイングマン Wingman][05][CHS_JP][1080P][HDrip][MP4][716.39 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/783d26a9af59849b80f240950390441787a68273",
+      "contentLength": "751189376",
+      "pubDate": "2024-12-09T18:21:21.669"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "751189376",
+      "@url": "https://mikanani.me/Download/20241209/783d26a9af59849b80f240950390441787a68273.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Amor字幕组&樱桃花字幕组",
+      "title_en": "Wingman",
+      "resolution": "1080P",
+      "episode": 5,
+      "season": 1,
+      "source": "HDrip",
+      "title_zh": "银翼超人",
+      "sub": "CHS_JP",
+      "title_jp": "ウイングマン",
+      "size": "716.39 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Amor字幕组&樱桃花字幕组][银翼超人 ウイングマン Wingman][04][CHS_JP][1080P][HDrip][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f3d686fd21dd511c5eb78572927d9c1e39a4f68f",
+    "title": "[Amor字幕组&樱桃花字幕组][银翼超人 ウイングマン Wingman][04][CHS_JP][1080P][HDrip][MP4]",
+    "description": "[Amor字幕组&樱桃花字幕组][银翼超人 ウイングマン Wingman][04][CHS_JP][1080P][HDrip][MP4][792 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f3d686fd21dd511c5eb78572927d9c1e39a4f68f",
+      "contentLength": "830472192",
+      "pubDate": "2024-12-09T18:20:51.449"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "830472192",
+      "@url": "https://mikanani.me/Download/20241209/f3d686fd21dd511c5eb78572927d9c1e39a4f68f.torrent"
+    }
   }
 ]
