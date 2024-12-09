@@ -15800,5 +15800,30 @@
 				<season_raw>TVB粤语</season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【36】GB MP4_720P</guid>
+			<link>https://mikanani.me/Home/Episode/9c4b45bbd8489abac9044fcb0dbdfc578c47ad82</link>
+			<title>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【36】GB MP4_720P</title>
+			<description>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【36】GB MP4_720P[308.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9c4b45bbd8489abac9044fcb0dbdfc578c47ad82</link>
+				<contentLength>323380832</contentLength>
+				<pubDate>2024-12-09T13:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="323380832" url="https://mikanani.me/Download/20241209/9c4b45bbd8489abac9044fcb0dbdfc578c47ad82.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>极影字幕社</group>
+				<title_en>Bleach Sennen Kessen-hen Soukoku-tan</title_en>
+				<resolution>720P</resolution>
+				<episode>36</episode>
+				<season>1</season>
+				<title_zh>死神 千年血战 相克谭</title_zh>
+				<sub>简体中文</sub>
+				<title_jp>死神 千年血战 相克谭</title_jp>
+				<season_raw>10月新番</season_raw>
+				<source>GB</source>
+				<size>308.4MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
