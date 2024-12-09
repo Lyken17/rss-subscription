@@ -45192,5 +45192,37 @@
       "title_jp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
       "size": "498.6MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1458]妈妈和朋友出门&宾治考试取得好成绩[2024.12.08][GB][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/855d3bc899c4d09ea062354f40088df597575af7",
+    "title": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1458]妈妈和朋友出门&宾治考试取得好成绩[2024.12.08][GB][1080P][MP4]",
+    "description": "[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1458]妈妈和朋友出门&宾治考试取得好成绩[2024.12.08][GB][1080P][MP4][222.6 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/855d3bc899c4d09ea062354f40088df597575af7",
+      "contentLength": "233413024",
+      "pubDate": "2024-12-09T16:18:45.617"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "233413024",
+      "@url": "https://mikanani.me/Download/20241209/855d3bc899c4d09ea062354f40088df597575af7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "丸子家族",
+      "title_en": "Chibi Maruko-chan II",
+      "resolution": "1080P",
+      "episode": 1458,
+      "season": 2,
+      "source": "GB",
+      "title_zh": "樱桃小丸子第二期",
+      "sub": "GB",
+      "title_jp": " momoko - kan.serialI",
+      "size": "222.6 MB"
+    }
   }
 ]
