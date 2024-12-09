@@ -47581,5 +47581,38 @@
       "title_jp": "名探侦コナン 百万ドルの五角星+全SP特典",
       "size": "5.2 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus]"
+    },
+    "link": "https://mikanani.me/Home/Episode/88ba7e229d44585b3d2fef322751128445b2a3ed",
+    "title": "[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus]",
+    "description": "[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus][16.6GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/88ba7e229d44585b3d2fef322751128445b2a3ed",
+      "contentLength": "17824114688",
+      "pubDate": "2024-12-10T06:27:04.906829"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "17824114688",
+      "@url": "https://mikanani.me/Download/20241210/88ba7e229d44585b3d2fef322751128445b2a3ed.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Detective Conan The Million Dollar Pentagram",
+      "resolution": "2160p Ai-Upscale",
+      "episode": "SP",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "名侦探柯南 百万美元的五棱星+SP全特典",
+      "sub": "All SP TOKUTEN",
+      "title_jp": "名探偵コナン ミリオンドルの五角星",
+      "size": "16.6GB",
+      "season_raw": ""
+    }
   }
 ]
