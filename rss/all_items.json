@@ -44669,5 +44669,104 @@
       "size": "657.87 MB",
       "season_raw": "2nd Season"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[喵萌奶茶屋&LoliHouse] 亚托莉 我挚爱的时光 / ATRI -My Dear Moments- [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/484f13662c9b24239b99a098ae9c44f131a0041c",
+    "title": "[喵萌奶茶屋&LoliHouse] 亚托莉 我挚爱的时光 / ATRI -My Dear Moments- [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+    "description": "[喵萌奶茶屋&LoliHouse] 亚托莉 我挚爱的时光 / ATRI -My Dear Moments- [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][4.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/484f13662c9b24239b99a098ae9c44f131a0041c",
+      "contentLength": "4509715456",
+      "pubDate": "2024-12-09T10:45:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "4509715456",
+      "@url": "https://mikanani.me/Download/20241209/484f13662c9b24239b99a098ae9c44f131a0041c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋&LoliHouse",
+      "title_en": "ATRI -My Dear Moments-",
+      "resolution": "1080p HEVC-10bit",
+      "episode": "1-13",
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "亚托莉 我挚爱的时光",
+      "sub": "简繁日内封字幕",
+      "title_jp": "ATRI -My Dear Moments-",
+      "size": "4.2GB",
+      "season_raw": "01-13 合集"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[宗门里除了我都是卧底][第22集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/147b2c2beb135be44d98e249a60c2b530235ef12",
+    "title": "[宗门里除了我都是卧底][第22集][国语中字][WEB-MKV][2160P]",
+    "description": "[宗门里除了我都是卧底][第22集][国语中字][WEB-MKV][2160P][727.8MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/147b2c2beb135be44d98e249a60c2b530235ef12",
+      "contentLength": "763153600",
+      "pubDate": "2024-12-09T10:41:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "763153600",
+      "@url": "https://mikanani.me/Download/20241209/147b2c2beb135be44d98e249a60c2b530235ef12.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "''",
+      "title_en": "''",
+      "resolution": "2160P",
+      "episode": 22,
+      "season": 1,
+      "title_zh": "宗门里除了我都是卧底",
+      "sub": "国语中字",
+      "title_jp": "''",
+      "season_raw": "''",
+      "source": "WEB-MKV",
+      "size": "727.8MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[仙逆][第66集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/0d6788c0bc13c0918ac02dbfb165bf5db44db8b8",
+    "title": "[仙逆][第66集][国语中字][WEB-MKV][2160P]",
+    "description": "[仙逆][第66集][国语中字][WEB-MKV][2160P][1.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0d6788c0bc13c0918ac02dbfb165bf5db44db8b8",
+      "contentLength": "1825361152",
+      "pubDate": "2024-12-09T10:28:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1825361152",
+      "@url": "https://mikanani.me/Download/20241209/0d6788c0bc13c0918ac02dbfb165bf5db44db8b8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "未知",
+      "resolution": "2160P",
+      "episode": 66,
+      "season": 1,
+      "title_zh": "仙逆",
+      "sub": "国语中字",
+      "title_jp": "未知",
+      "season_raw": "第66集",
+      "source": "WEB-MKV",
+      "size": "1.7GB"
+    }
   }
 ]
