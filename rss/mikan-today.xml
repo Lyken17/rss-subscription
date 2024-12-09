@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b1d4e496b5f33a574da3f3e98496901c8f3ed536</link>
+			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)[580.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1d4e496b5f33a574da3f3e98496901c8f3ed536</link>
+				<contentLength>608698368</contentLength>
+				<pubDate>2024-12-09T19:35:32.759</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="608698368" url="https://mikanani.me/Download/20241209/b1d4e496b5f33a574da3f3e98496901c8f3ed536.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Amor字幕组&amp;樱桃花字幕组][银翼超人 ウイングマン Wingman][05][CHS_JP][1080P][HDrip][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/783d26a9af59849b80f240950390441787a68273</link>
 			<title>[Amor字幕组&amp;樱桃花字幕组][银翼超人 ウイングマン Wingman][05][CHS_JP][1080P][HDrip][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-08T21:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7730940928" url="https://mikanani.me/Download/20241208/6ef10141e107f7fecd8c6f947eb685a7f5a142a4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[梦蓝字幕组]New Doraemon 哆啦A梦新番[839][2024.11.30][AVC][1080P][GB_JP][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3165958e4436a5bc3eefe5b79a3dc0b920470e57</link>
-			<title>[梦蓝字幕组]New Doraemon 哆啦A梦新番[839][2024.11.30][AVC][1080P][GB_JP][MP4]</title>
-			<description>[梦蓝字幕组]New Doraemon 哆啦A梦新番[839][2024.11.30][AVC][1080P][GB_JP][MP4][497.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3165958e4436a5bc3eefe5b79a3dc0b920470e57</link>
-				<contentLength>521666560</contentLength>
-				<pubDate>2024-12-08T20:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="521666560" url="https://mikanani.me/Download/20241208/3165958e4436a5bc3eefe5b79a3dc0b920470e57.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

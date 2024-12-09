@@ -45697,6 +45697,50 @@
       "@type": "application/x-bittorrent",
       "@length": "830472192",
       "@url": "https://mikanani.me/Download/20241209/f3d686fd21dd511c5eb78572927d9c1e39a4f68f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Amor字幕组&樱桃花字幕组",
+      "title_en": "Wingman",
+      "resolution": "1080P",
+      "episode": 4,
+      "season": 1,
+      "source": "HDrip",
+      "title_zh": "银翼超人",
+      "sub": "CHS_JP",
+      "title_jp": "ウイングマン",
+      "size": "792 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/b1d4e496b5f33a574da3f3e98496901c8f3ed536",
+    "title": "[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)[580.5 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b1d4e496b5f33a574da3f3e98496901c8f3ed536",
+      "contentLength": "608698368",
+      "pubDate": "2024-12-09T19:35:32.759"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "608698368",
+      "@url": "https://mikanani.me/Download/20241209/b1d4e496b5f33a574da3f3e98496901c8f3ed536.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Detective Conan",
+      "resolution": "1080p",
+      "episode": 1144,
+      "season": 1,
+      "source": "ADN",
+      "title_zh": "名侦探柯南",
+      "sub": "AVC AAC",
+      "title_jp": "名探偵コナン",
+      "size": "580.5 MB"
     }
   }
 ]
