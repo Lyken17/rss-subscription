@@ -44768,5 +44768,71 @@
       "source": "WEB-MKV",
       "size": "1.7GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 15 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)"
+    },
+    "link": "https://mikanani.me/Home/Episode/58b4598340d9b781f71044dfe883390147270755",
+    "title": "[jibaketa合成&压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 15 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)",
+    "description": "[jibaketa合成&压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 15 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)[1.11 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/58b4598340d9b781f71044dfe883390147270755",
+      "contentLength": "1191853440",
+      "pubDate": "2024-12-09T12:15:15.247"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1191853440",
+      "@url": "https://mikanani.me/Download/20241209/58b4598340d9b781f71044dfe883390147270755.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "jibaketa合成&压制",
+      "title_en": "假面骑士歌查德",
+      "resolution": "1920x1080",
+      "episode": 15,
+      "season": 1,
+      "title_zh": "幪面超人",
+      "sub": "粤日双语+内封繁体中文字幕",
+      "title_jp": "假面骑士GOTCHARD",
+      "season_raw": "BD",
+      "source": "BDrip",
+      "size": "1.11 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]"
+    },
+    "link": "https://mikanani.me/Home/Episode/20c5f734f8bb9f1acea5103baf7264c606d43c68",
+    "title": "[jibaketa合成&音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]",
+    "description": "[jibaketa合成&音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][900.51 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/20c5f734f8bb9f1acea5103baf7264c606d43c68",
+      "contentLength": "944253184",
+      "pubDate": "2024-12-09T11:25:56.426"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "944253184",
+      "@url": "https://mikanani.me/Download/20241209/20c5f734f8bb9f1acea5103baf7264c606d43c68.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "jibaketa合成&音频压制",
+      "title_en": "New干线变形机器人 变革世代",
+      "resolution": "1920x1080",
+      "episode": 19,
+      "season": 1,
+      "source": "WEB",
+      "title_zh": "新干线战士 改变世界",
+      "sub": "粤语+内封繁体中文字幕",
+      "title_jp": "新干线变形机器人 变革世代",
+      "size": "900.51 MB",
+      "season_raw": "TVB粤语"
+    }
   }
 ]
