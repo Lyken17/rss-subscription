@@ -45901,5 +45901,70 @@
       "title_jp": "New Doraemon",
       "size": "573.8 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 星辰坠落之国的妮娜 / Hoshifuru Oukoku no Nina - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/65b69d04539ad4af488e8d29a23af78ef7579ab4",
+    "title": "[Up to 21°C] 星辰坠落之国的妮娜 / Hoshifuru Oukoku no Nina - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 星辰坠落之国的妮娜 / Hoshifuru Oukoku no Nina - 10 (ABEMA 1920x1080 AVC AAC MP4)[711.88 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/65b69d04539ad4af488e8d29a23af78ef7579ab4",
+      "contentLength": "746460288",
+      "pubDate": "2024-12-09T22:01:43.79"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "746460288",
+      "@url": "https://mikanani.me/Download/20241209/65b69d04539ad4af488e8d29a23af78ef7579ab4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "title_en": "Hoshifuru Oukoku no Nina",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "星辰坠落之国的妮娜",
+      "sub": "ABEMA",
+      "title_jp": "星降る国の妮娜",
+      "group": "None",
+      "size": "711.88 MB",
+      "source": "None",
+      "season_raw": "1920x1080"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 34 (ABEMA 1280x720 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/8ee4de0d4c2fd0085fc884dd9d227040ebb3e1e2",
+    "title": "[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 34 (ABEMA 1280x720 AVC AAC MP4)",
+    "description": "[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 34 (ABEMA 1280x720 AVC AAC MP4)[354.54 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/8ee4de0d4c2fd0085fc884dd9d227040ebb3e1e2",
+      "contentLength": "371762144",
+      "pubDate": "2024-12-09T21:31:01.361"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "371762144",
+      "@url": "https://mikanani.me/Download/20241209/8ee4de0d4c2fd0085fc884dd9d227040ebb3e1e2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+      "resolution": "720",
+      "episode": 34,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "神剑闯江湖 ―明治剑客浪漫谭― 京都动乱",
+      "sub": "en",
+      "title_jp": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+      "size": "354.54 MB"
+    }
   }
 ]
