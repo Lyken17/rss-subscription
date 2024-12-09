@@ -47354,5 +47354,103 @@
       "title_jp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
       "size": "406.6MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 09 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/4bc31187a3e1040b36a2c37d840b6751701c96b4",
+    "title": "[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 09 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 09 (ABEMA 1920x1080 AVC AAC MP4)[40.3 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4bc31187a3e1040b36a2c37d840b6751701c96b4",
+      "contentLength": "42257612",
+      "pubDate": "2024-12-10T02:35:22.186"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "42257612",
+      "@url": "https://mikanani.me/Download/20241210/4bc31187a3e1040b36a2c37d840b6751701c96b4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Neko ni Tensei shita Ojisan",
+      "resolution": "1080p",
+      "episode": 9,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "转生成猫咪的大叔",
+      "sub": "English",
+      "title_jp": "ネコに転生したオジサン",
+      "size": "40.3 MB",
+      "season_raw": "1920x1080"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 10 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/da53539a7dc89e8a64657b6ba1e696eaf63a3ad9",
+    "title": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 10 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 10 (CR 1920x1080 AVC AAC MKV)[1.36 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/da53539a7dc89e8a64657b6ba1e696eaf63a3ad9",
+      "contentLength": "1460288896",
+      "pubDate": "2024-12-10T02:33:29.028"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1460288896",
+      "@url": "https://mikanani.me/Download/20241210/da53539a7dc89e8a64657b6ba1e696eaf63a3ad9.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Seirei Gensouki 2",
+      "resolution": "1920x1080",
+      "episode": 10,
+      "season": 2,
+      "source": "None",
+      "title_zh": "精灵幻想记 2",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "1.36 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/d811fb4589effac446fbe2204d17fec283567024",
+    "title": "[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4)[723.43 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d811fb4589effac446fbe2204d17fec283567024",
+      "contentLength": "758571328",
+      "pubDate": "2024-12-10T02:30:49.298"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "758571328",
+      "@url": "https://mikanani.me/Download/20241210/d811fb4589effac446fbe2204d17fec283567024.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "The iDOLM@STER Shiny Colors 2nd Season",
+      "resolution": "1080p",
+      "episode": 22,
+      "season": 2,
+      "source": "ABEMA",
+      "title_zh": "偶像大师 闪耀色彩 第二季",
+      "sub": "None",
+      "title_jp": "The iDOLM@STER Shiny Colors 2nd Season",
+      "size": "723.43 MB",
+      "season_raw": ""
+    }
   }
 ]
