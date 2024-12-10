@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9078d2f8ae1ea17c818233bef86e107eae9abc9f</link>
+			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)[713.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9078d2f8ae1ea17c818233bef86e107eae9abc9f</link>
+				<contentLength>748546944</contentLength>
+				<pubDate>2024-12-10T21:01:33.046</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748546944" url="https://mikanani.me/Download/20241210/9078d2f8ae1ea17c818233bef86e107eae9abc9f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a</link>
 			<title>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-09T16:48:05.966</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="449828608" url="https://mikanani.me/Download/20241209/e807d1253a1d6bebd70e93b78b03ad754164ad1c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 偶像大师 闪耀色彩 第二季 / THE IDOLM@STER SHINY COLORS S2 [10][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/f0628ea11e4c56ef6df93ca7950cbc4c2f7c93f1</link>
-			<title>[北宇治字幕组] 偶像大师 闪耀色彩 第二季 / THE IDOLM@STER SHINY COLORS S2 [10][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] 偶像大师 闪耀色彩 第二季 / THE IDOLM@STER SHINY COLORS S2 [10][WebRip][HEVC_AAC][繁日内嵌][428.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f0628ea11e4c56ef6df93ca7950cbc4c2f7c93f1</link>
-				<contentLength>449713280</contentLength>
-				<pubDate>2024-12-09T16:47:58.286</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="449713280" url="https://mikanani.me/Download/20241209/f0628ea11e4c56ef6df93ca7950cbc4c2f7c93f1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

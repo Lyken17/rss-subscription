@@ -48455,5 +48455,37 @@
       "title_jp": "なし",
       "size": "217.9 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/9078d2f8ae1ea17c818233bef86e107eae9abc9f",
+    "title": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)[713.87 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9078d2f8ae1ea17c818233bef86e107eae9abc9f",
+      "contentLength": "748546944",
+      "pubDate": "2024-12-10T21:01:33.046"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "748546944",
+      "@url": "https://mikanani.me/Download/20241210/9078d2f8ae1ea17c818233bef86e107eae9abc9f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Kinoko Inu",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "蘑菇狗",
+      "sub": "ABEMA",
+      "title_jp": "キノコイヌ",
+      "size": "713.87 MB"
+    }
   }
 ]
