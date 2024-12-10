@@ -48280,6 +48280,19 @@
       "@type": "application/x-bittorrent",
       "@length": "281815296",
       "@url": "https://mikanani.me/Download/20241210/96c40d7a4f90f58a0939ce410cfb38e9ef54596a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "霜庭云花Sub&萌樱字幕组",
+      "title_en": "Kimii wa Meido-sama.",
+      "resolution": "1080P",
+      "episode": 9,
+      "season": 1,
+      "title_zh": "君是冥土小姐",
+      "sub": "繁日双语",
+      "title_jp": "君は冥土様",
+      "season_raw": "09",
+      "source": "WebRip",
+      "size": "268.76 MB"
     }
   },
   {
@@ -48409,6 +48422,38 @@
       "title_jp": " Uma Musume Pretty Derby Season 3",
       "size": "476.1 MB",
       "source": "WebRip"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a",
+    "title": "[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]",
+    "description": "[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P][217.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a",
+      "contentLength": "228484704",
+      "pubDate": "2024-12-10T20:22:49.41635"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "228484704",
+      "@url": "https://mikanani.me/Download/20241210/9326bd91c04c4a865806f081772cbb60e628404a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "三明治摆烂组",
+      "title_en": "Rekishi ni Nokoru Akujo ni Naru zo",
+      "resolution": "1080P",
+      "episode": 10,
+      "season": 1,
+      "source": "H265",
+      "title_zh": "成为名垂青史的反派大小姐吧",
+      "sub": "简体内封",
+      "title_jp": "なし",
+      "size": "217.9 MB"
     }
   }
 ]

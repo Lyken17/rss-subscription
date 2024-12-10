@@ -36367,6 +36367,19 @@
 				<pubDate>2024-12-10T19:02:12.412</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="281815296" url="https://mikanani.me/Download/20241210/96c40d7a4f90f58a0939ce410cfb38e9ef54596a.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>霜庭云花Sub&amp;萌樱字幕组</group>
+				<title_en>Kimii wa Meido-sama.</title_en>
+				<resolution>1080P</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<title_zh>君是冥土小姐</title_zh>
+				<sub>繁日双语</sub>
+				<title_jp>君は冥土様</title_jp>
+				<season_raw>09</season_raw>
+				<source>WebRip</source>
+				<size>268.76 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 赛马娘剧场版 新时代之门 / 新时代之扉 / Uma Musume Pretty Derby Beginning of a New Era [Movie][WebRip][HEVC_AAC][简中内嵌]</guid>
@@ -36463,6 +36476,30 @@
 				<title_jp> Uma Musume Pretty Derby Season 3</title_jp>
 				<size>476.1 MB</size>
 				<source>WebRip</source>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a</link>
+			<title>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]</title>
+			<description>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P][217.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a</link>
+				<contentLength>228484704</contentLength>
+				<pubDate>2024-12-10T20:22:49.41635</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="228484704" url="https://mikanani.me/Download/20241210/9326bd91c04c4a865806f081772cbb60e628404a.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>三明治摆烂组</group>
+				<title_en>Rekishi ni Nokoru Akujo ni Naru zo</title_en>
+				<resolution>1080P</resolution>
+				<episode>10</episode>
+				<season>1</season>
+				<source>H265</source>
+				<title_zh>成为名垂青史的反派大小姐吧</title_zh>
+				<sub>简体内封</sub>
+				<title_jp>なし</title_jp>
+				<size>217.9 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
