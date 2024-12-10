@@ -49874,5 +49874,37 @@
       "title_jp": null,
       "size": "1.5GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 胆大党 - 02 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/922002ce60532a9be54559a8fd0ea47b7915383c",
+    "title": "[沸羊羊制作] 胆大党 - 02 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 胆大党 - 02 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕][460.2MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/922002ce60532a9be54559a8fd0ea47b7915383c",
+      "contentLength": "482554688",
+      "pubDate": "2024-12-11T07:12:17.116451"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "482554688",
+      "@url": "https://mikanani.me/Download/20241211/922002ce60532a9be54559a8fd0ea47b7915383c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "胆大党",
+      "resolution": "1080p",
+      "episode": 2,
+      "season": 1,
+      "source": "CR WebRip",
+      "title_zh": "胆大党",
+      "sub": "官方简繁内封字幕",
+      "title_jp": null,
+      "size": "460.2MB"
+    }
   }
 ]
