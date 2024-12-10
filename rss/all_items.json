@@ -49101,5 +49101,101 @@
       "size": "547.17 MB",
       "season_raw": "10 (ABEMA 1920x1080 AVC AAC MP4"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/a082f02af4fd01522711e1e3c6607a72fef071b3",
+    "title": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 11 (CR 1920x1080 AVC AAC MKV)[1.34 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a082f02af4fd01522711e1e3c6607a72fef071b3",
+      "contentLength": "1438814080",
+      "pubDate": "2024-12-11T00:32:45.031"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1438814080",
+      "@url": "https://mikanani.me/Download/20241211/a082f02af4fd01522711e1e3c6607a72fef071b3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1920x1080",
+      "episode": 11,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "结缘甘神神社",
+      "sub": "EN",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "1.34 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/fbee6bd83b52beb55de166530f965a7041707566",
+    "title": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 10 (ABEMA 1920x1080 AVC AAC MP4)[723.14 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/fbee6bd83b52beb55de166530f965a7041707566",
+      "contentLength": "758267264",
+      "pubDate": "2024-12-11T00:31:16.313"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "758267264",
+      "@url": "https://mikanani.me/Download/20241211/fbee6bd83b52beb55de166530f965a7041707566.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Love Live! Superstar!! 3rd Season",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 3,
+      "source": "ABEMA",
+      "title_zh": "Love Live! Superstar!! 第三季",
+      "sub": "AAC",
+      "title_jp": "Love Live! Superstar!! 3rd Season",
+      "size": "723.14 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 胆大党 / DAN DA DAN - 10 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d318b25f00f17466bbfa65b226f95ea82e3c6036",
+    "title": "[Skymoon-Raws] 胆大党 / DAN DA DAN - 10 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 胆大党 / DAN DA DAN - 10 [ViuTV][WEB-DL][1080p][AVC AAC][410.2MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d318b25f00f17466bbfa65b226f95ea82e3c6036",
+      "contentLength": "430125888",
+      "pubDate": "2024-12-11T00:31:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "430125888",
+      "@url": "https://mikanani.me/Download/20241211/d318b25f00f17466bbfa65b226f95ea82e3c6036.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "DAN DA DAN",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "胆大党",
+      "sub": "",
+      "title_jp": "DAN DA DAN",
+      "size": "410.2MB"
+    }
   }
 ]
