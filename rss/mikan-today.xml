@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[神道帝尊][第20集][国语中字][WEB-MKV][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/9a98eae29e48a38f5cbcce43df0f2c8b57674f30</link>
+			<title>[神道帝尊][第20集][国语中字][WEB-MKV][1080P]</title>
+			<description>[神道帝尊][第20集][国语中字][WEB-MKV][1080P][147.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a98eae29e48a38f5cbcce43df0f2c8b57674f30</link>
+				<contentLength>154455248</contentLength>
+				<pubDate>2024-12-10T09:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="154455248" url="https://mikanani.me/Download/20241210/9a98eae29e48a38f5cbcce43df0f2c8b57674f30.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus]</guid>
 			<link>https://mikanani.me/Home/Episode/88ba7e229d44585b3d2fef322751128445b2a3ed</link>
 			<title>[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-09T01:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="469552320" url="https://mikanani.me/Download/20241209/11adf8a7c7c6bf38d7def0bf16adf4033638cbcf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[亚托莉 我挚爱的时光 / ATRI - My Dear Moments][01-13][1080p][简日双语][招募翻译时轴]</guid>
-			<link>https://mikanani.me/Home/Episode/df690c7547823aeba74bb7bb6877f1abce236bb1</link>
-			<title>【喵萌奶茶屋】★07月新番★[亚托莉 我挚爱的时光 / ATRI - My Dear Moments][01-13][1080p][简日双语][招募翻译时轴]</title>
-			<description>【喵萌奶茶屋】★07月新番★[亚托莉 我挚爱的时光 / ATRI - My Dear Moments][01-13][1080p][简日双语][招募翻译时轴][5.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df690c7547823aeba74bb7bb6877f1abce236bb1</link>
-				<contentLength>5583457280</contentLength>
-				<pubDate>2024-12-09T01:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20241209/df690c7547823aeba74bb7bb6877f1abce236bb1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
