@@ -47971,5 +47971,37 @@
       "title_jp": "''",
       "size": "377.4MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Skymoon-Raws] 胆大党 / DAN DA DAN - 04 [ViuTV][WEB-DL][1080p][AVC AAC]"
+    },
+    "link": "https://mikanani.me/Home/Episode/45f5e4d9f204c27005bf6785c2ddffbd2224c400",
+    "title": "[Skymoon-Raws] 胆大党 / DAN DA DAN - 04 [ViuTV][WEB-DL][1080p][AVC AAC]",
+    "description": "[Skymoon-Raws] 胆大党 / DAN DA DAN - 04 [ViuTV][WEB-DL][1080p][AVC AAC][389.6MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/45f5e4d9f204c27005bf6785c2ddffbd2224c400",
+      "contentLength": "408525216",
+      "pubDate": "2024-12-10T14:35:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "408525216",
+      "@url": "https://mikanani.me/Download/20241210/45f5e4d9f204c27005bf6785c2ddffbd2224c400.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Skymoon-Raws",
+      "title_en": "DAN DA DAN",
+      "resolution": "1080p",
+      "episode": 4,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "胆大党",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "389.6MB"
+    }
   }
 ]

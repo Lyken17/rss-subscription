@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 / DAN DA DAN - 04 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/45f5e4d9f204c27005bf6785c2ddffbd2224c400</link>
+			<title>[Skymoon-Raws] 胆大党 / DAN DA DAN - 04 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 胆大党 / DAN DA DAN - 04 [ViuTV][WEB-DL][1080p][AVC AAC][389.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/45f5e4d9f204c27005bf6785c2ddffbd2224c400</link>
+				<contentLength>408525216</contentLength>
+				<pubDate>2024-12-10T14:35:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="408525216" url="https://mikanani.me/Download/20241210/45f5e4d9f204c27005bf6785c2ddffbd2224c400.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 / DAN DA DAN - 03 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/852514fbf68308ecaa69e9163de6fd878194cced</link>
 			<title>[Skymoon-Raws] 胆大党 / DAN DA DAN - 03 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-09T11:25:56.426</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="944253184" url="https://mikanani.me/Download/20241209/20c5f734f8bb9f1acea5103baf7264c606d43c68.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 亚托莉 我挚爱的时光 / ATRI -My Dear Moments- [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/484f13662c9b24239b99a098ae9c44f131a0041c</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 亚托莉 我挚爱的时光 / ATRI -My Dear Moments- [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 亚托莉 我挚爱的时光 / ATRI -My Dear Moments- [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][4.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/484f13662c9b24239b99a098ae9c44f131a0041c</link>
-				<contentLength>4509715456</contentLength>
-				<pubDate>2024-12-09T10:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4509715456" url="https://mikanani.me/Download/20241209/484f13662c9b24239b99a098ae9c44f131a0041c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
