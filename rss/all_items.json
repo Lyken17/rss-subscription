@@ -47778,5 +47778,69 @@
       "source": "CR",
       "size": "1.37 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[VCB-Studio] 极速星舞 / HIGHSPEED Étoile 10-bit 1080p HEVC BDRip [Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/75f20864fc287fb8cf6732d1e8d7246d395a51fb",
+    "title": "[VCB-Studio] 极速星舞 / HIGHSPEED Étoile 10-bit 1080p HEVC BDRip [Fin]",
+    "description": "[VCB-Studio] 极速星舞 / HIGHSPEED Étoile 10-bit 1080p HEVC BDRip [Fin][21.4GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/75f20864fc287fb8cf6732d1e8d7246d395a51fb",
+      "contentLength": "22978074624",
+      "pubDate": "2024-12-10T12:02:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "22978074624",
+      "@url": "https://mikanani.me/Download/20241210/75f20864fc287fb8cf6732d1e8d7246d395a51fb.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "VCB-Studio",
+      "title_en": "HIGHSPEED Étoile",
+      "resolution": "1080p",
+      "episode": "10-bit",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "极速星舞",
+      "sub": "Fin",
+      "title_jp": "HIGHSPEED Étoile",
+      "size": "21.4GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 牧神记 / Tales of Herding Gods - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6489bf7aac1ac909ff3cbce48347eeb41338dfb3",
+    "title": "[Up to 21°C] 牧神记 / Tales of Herding Gods - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 牧神记 / Tales of Herding Gods - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[687.43 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6489bf7aac1ac909ff3cbce48347eeb41338dfb3",
+      "contentLength": "720822592",
+      "pubDate": "2024-12-10T11:03:22.755"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "720822592",
+      "@url": "https://mikanani.me/Download/20241210/6489bf7aac1ac909ff3cbce48347eeb41338dfb3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global Donghua",
+      "title_en": "Tales of Herding Gods",
+      "resolution": "1080p",
+      "episode": 8,
+      "season": 1,
+      "source": "Unknown",
+      "title_zh": "牧神记",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "687.43 MB"
+    }
   }
 ]
