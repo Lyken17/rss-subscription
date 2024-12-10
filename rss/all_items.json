@@ -49809,5 +49809,70 @@
       "title_jp": "None",
       "size": "324.3MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)"
+    },
+    "link": "https://mikanani.me/Home/Episode/537d71128bb563203570940d9ab6823f96ec511e",
+    "title": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)",
+    "description": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)[142.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/537d71128bb563203570940d9ab6823f96ec511e",
+      "contentLength": "152578719744",
+      "pubDate": "2024-12-11T05:52:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "152578719744",
+      "@url": "https://mikanani.me/Download/20241211/537d71128bb563203570940d9ab6823f96ec511e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "Neon Genesis Evangelion",
+      "resolution": "n/a",
+      "episode": "n/a",
+      "season": 1,
+      "source": "n/a",
+      "title_zh": "新世纪福音战士",
+      "sub": "简中字幕",
+      "title_jp": "新世纪エヴァンゲリオン",
+      "season_raw": "TV动画+新老剧场版+ONA+CD+漫画+其他",
+      "size": "142.1GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 胆大党 - 01 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9f745a82fddafe52c26b53c657c7de033850a000",
+    "title": "[沸羊羊制作] 胆大党 - 01 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 胆大党 - 01 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕][1.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9f745a82fddafe52c26b53c657c7de033850a000",
+      "contentLength": "1610612736",
+      "pubDate": "2024-12-11T05:41:25.159089"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1610612736",
+      "@url": "https://mikanani.me/Download/20241211/9f745a82fddafe52c26b53c657c7de033850a000.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "胆大党",
+      "resolution": "2160p",
+      "episode": 1,
+      "season": 1,
+      "source": "CR WebRip",
+      "title_zh": "胆大党",
+      "sub": "官方简繁内封字幕",
+      "title_jp": null,
+      "size": "1.5GB"
+    }
   }
 ]
