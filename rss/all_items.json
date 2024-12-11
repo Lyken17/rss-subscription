@@ -51429,5 +51429,38 @@
       "source": "N/A",
       "size": "1.3 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[霜庭云花Sub&萌樱字幕组][暗杀女仆冥土小姐。 / 君は冥土様。 / Kimi wa Meido-sama.][10][1080P][AVC AAC][简日双语][WebRip]"
+    },
+    "link": "https://mikanani.me/Home/Episode/5b60138ef12fc974c566a8da9c812d2ab8f61104",
+    "title": "[霜庭云花Sub&萌樱字幕组][暗杀女仆冥土小姐。 / 君は冥土様。 / Kimi wa Meido-sama.][10][1080P][AVC AAC][简日双语][WebRip]",
+    "description": "[霜庭云花Sub&萌樱字幕组][暗杀女仆冥土小姐。 / 君は冥土様。 / Kimi wa Meido-sama.][10][1080P][AVC AAC][简日双语][WebRip][391.22 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5b60138ef12fc974c566a8da9c812d2ab8f61104",
+      "contentLength": "410223904",
+      "pubDate": "2024-12-12T04:15:12.031"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "410223904",
+      "@url": "https://mikanani.me/Download/20241212/5b60138ef12fc974c566a8da9c812d2ab8f61104.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "霜庭云花Sub&萌樱字幕组",
+      "title_en": "Kimi wa Meido-sama.",
+      "resolution": "1080P",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "君是冥土小姐。",
+      "sub": "简日双语",
+      "title_jp": "君は冥土様。",
+      "size": "391.22 MB",
+      "source": "WebRip",
+      "season_raw": ""
+    }
   }
 ]
