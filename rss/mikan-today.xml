@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</guid>
+			<link>https://mikanani.me/Home/Episode/ae92add99631448a4ec2a185517bca560fe06a86</link>
+			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</title>
+			<description>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)[142.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae92add99631448a4ec2a185517bca560fe06a86</link>
+				<contentLength>152578719744</contentLength>
+				<pubDate>2024-12-11T20:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="152578719744" url="https://mikanani.me/Download/20241211/ae92add99631448a4ec2a185517bca560fe06a86.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 138 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/5745c901ba2a06184bf49be6616b8e4b7d4535fc</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 138 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-10T00:31:19.401</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="449000256" url="https://mikanani.me/Download/20241210/8ff4e5f7e8a86d077a7f51a2ba6596aacef53078.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Seirei Gensouki /  精灵幻想记 2 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/d9348380937f19c500ecf94a81b778155d00cc24</link>
-			<title>[ANi] Seirei Gensouki /  精灵幻想记 2 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Seirei Gensouki /  精灵幻想记 2 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][429.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d9348380937f19c500ecf94a81b778155d00cc24</link>
-				<contentLength>449839104</contentLength>
-				<pubDate>2024-12-10T00:31:11.822817</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="449839104" url="https://mikanani.me/Download/20241210/d9348380937f19c500ecf94a81b778155d00cc24.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

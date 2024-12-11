@@ -50230,5 +50230,37 @@
       "season_raw": "TV动画+新老剧场版+ONA+CD+漫画+其他",
       "size": "142.1GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ae92add99631448a4ec2a185517bca560fe06a86",
+    "title": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)",
+    "description": "[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)[142.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ae92add99631448a4ec2a185517bca560fe06a86",
+      "contentLength": "152578719744",
+      "pubDate": "2024-12-11T20:14:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "152578719744",
+      "@url": "https://mikanani.me/Download/20241211/ae92add99631448a4ec2a185517bca560fe06a86.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "Neon Genesis Evangelion",
+      "resolution": "日语音轨",
+      "episode": null,
+      "season": null,
+      "source": "TV动画+新老剧场版+ONA+CD+漫画+其他",
+      "title_zh": "新世纪福音战士",
+      "sub": "外挂简中字幕",
+      "title_jp": "新世纪エヴァンゲリオン",
+      "size": "142.1GB"
+    }
   }
 ]
