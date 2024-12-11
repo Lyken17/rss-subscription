@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/13417cfb897274996a00fcea85ee17ab8d925aa1</link>
+			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[192.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/13417cfb897274996a00fcea85ee17ab8d925aa1</link>
+				<contentLength>201955744</contentLength>
+				<pubDate>2024-12-11T10:01:09.237</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="201955744" url="https://mikanani.me/Download/20241211/13417cfb897274996a00fcea85ee17ab8d925aa1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 多数欠 Tasuketsu：Fate of the Majority [22][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/f5a07df8d5677f831a5996c69323153a9641501c</link>
 			<title>[TOC] 多数欠 Tasuketsu：Fate of the Majority [22][1080P][AVC AAC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-09T23:49:30.613</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241209/bf4a62053e952dc7d0f77c0395fda3b8613df149.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 鸭乃桥论的禁忌推理 / Kamonohashi Ron no Kindan Suiri 2nd Season - 23 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/bfe36c65c1f47b5c334663cdb32faa00f717ef6d</link>
-			<title>[Up to 21°C] 鸭乃桥论的禁忌推理 / Kamonohashi Ron no Kindan Suiri 2nd Season - 23 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 鸭乃桥论的禁忌推理 / Kamonohashi Ron no Kindan Suiri 2nd Season - 23 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bfe36c65c1f47b5c334663cdb32faa00f717ef6d</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2024-12-09T23:36:21.188</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241209/bfe36c65c1f47b5c334663cdb32faa00f717ef6d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

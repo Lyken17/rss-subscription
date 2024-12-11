@@ -49970,5 +49970,38 @@
       "title_jp": null,
       "size": "1.7GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/13417cfb897274996a00fcea85ee17ab8d925aa1",
+    "title": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[192.6 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/13417cfb897274996a00fcea85ee17ab8d925aa1",
+      "contentLength": "201955744",
+      "pubDate": "2024-12-11T10:01:09.237"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "201955744",
+      "@url": "https://mikanani.me/Download/20241211/13417cfb897274996a00fcea85ee17ab8d925aa1.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global",
+      "title_en": "Yowai 5000-nen no Soushoku Dragon S2",
+      "resolution": "1080",
+      "episode": 12,
+      "season": 2,
+      "title_zh": "食草老龙被冠以恶龙之名 第二季",
+      "sub": "HEVC AAC",
+      "title_jp": "ぼうしドラゴン",
+      "season_raw": "S2",
+      "source": "B-Global",
+      "size": "192.6 MB"
+    }
   }
 ]
