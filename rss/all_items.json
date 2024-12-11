@@ -51330,5 +51330,38 @@
       "title_jp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
       "size": "445.7MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 50 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/bd272720f669976b00380f028ff94283c034d0fd",
+    "title": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 50 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 50 (ABEMA 1920x1080 AVC AAC MP4)[79.21 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/bd272720f669976b00380f028ff94283c034d0fd",
+      "contentLength": "83057704",
+      "pubDate": "2024-12-12T02:03:24.913"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "83057704",
+      "@url": "https://mikanani.me/Download/20241212/bd272720f669976b00380f028ff94283c034d0fd.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Chibi Godzilla no Gyakushuu",
+      "resolution": "1080",
+      "episode": 50,
+      "season": 1,
+      "title_zh": "小哥斯拉的逆袭",
+      "sub": "None",
+      "title_jp": "Chibi Godzilla no Gyakushuu",
+      "season_raw": "ABEMA",
+      "source": "None",
+      "size": "79.21 MB"
+    }
   }
 ]

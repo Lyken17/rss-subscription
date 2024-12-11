@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 50 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/bd272720f669976b00380f028ff94283c034d0fd</link>
+			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 50 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 50 (ABEMA 1920x1080 AVC AAC MP4)[79.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd272720f669976b00380f028ff94283c034d0fd</link>
+				<contentLength>83057704</contentLength>
+				<pubDate>2024-12-12T02:03:24.913</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="83057704" url="https://mikanani.me/Download/20241212/bd272720f669976b00380f028ff94283c034d0fd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 大正伪婚～替身新娘与军服的猛爱 / Taishou Itsuwari Bridal： Migawari Hanayome to Gunpuku no Mou Ai [08][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/6190ad4052cebb7488e10c704d5c65216949b54e</link>
 			<title>[桜都字幕组] 大正伪婚～替身新娘与军服的猛爱 / Taishou Itsuwari Bridal： Migawari Hanayome to Gunpuku no Mou Ai [08][1080p][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-10T16:03:12.496</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="552893184" url="https://mikanani.me/Download/20241210/d5a3f38ae3f42f4f93d0719e92f5ff5b2b96a973.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 唯愿来世不相识 / Raise wa Tanin ga Ii - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2dbc9cf330c971b14b3b3ac41c2b63423baf0a50</link>
-			<title>[LoliHouse] 唯愿来世不相识 / Raise wa Tanin ga Ii - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 唯愿来世不相识 / Raise wa Tanin ga Ii - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][346.51 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2dbc9cf330c971b14b3b3ac41c2b63423baf0a50</link>
-				<contentLength>363342080</contentLength>
-				<pubDate>2024-12-10T16:03:08.554</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="363342080" url="https://mikanani.me/Download/20241210/2dbc9cf330c971b14b3b3ac41c2b63423baf0a50.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
