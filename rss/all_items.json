@@ -50067,5 +50067,37 @@
       "title_jp": "Yowai 5000-nen no Soushoku Dragon S2",
       "size": "771.68 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[遮天][第87集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/46a19bd7206e0f508102d54fe034e0165a40c89e",
+    "title": "[遮天][第87集][国语中字][WEB-MKV][2160P]",
+    "description": "[遮天][第87集][国语中字][WEB-MKV][2160P][1.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/46a19bd7206e0f508102d54fe034e0165a40c89e",
+      "contentLength": "1395864320",
+      "pubDate": "2024-12-11T12:48:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241211/46a19bd7206e0f508102d54fe034e0165a40c89e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "遮天",
+      "resolution": "2160P",
+      "episode": 87,
+      "season": 1,
+      "source": "WEB-MKV",
+      "title_zh": "遮天",
+      "sub": "国语中字",
+      "title_jp": null,
+      "size": "1.3GB"
+    }
   }
 ]
