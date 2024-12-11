@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][福星小子/Urusei Yatsura/うる星やつら][001-218TV全集+剧场版+OVA][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/7142e1fc848c5b31ae44aaf7ac7efdb30b5b703c</link>
+			<title>[DBD-Raws][福星小子/Urusei Yatsura/うる星やつら][001-218TV全集+剧场版+OVA][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][福星小子/Urusei Yatsura/うる星やつら][001-218TV全集+剧场版+OVA][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][214.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7142e1fc848c5b31ae44aaf7ac7efdb30b5b703c</link>
+				<contentLength>230102876160</contentLength>
+				<pubDate>2024-12-11T15:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="230102876160" url="https://mikanani.me/Download/20241211/7142e1fc848c5b31ae44aaf7ac7efdb30b5b703c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[遮天][第87集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/46a19bd7206e0f508102d54fe034e0165a40c89e</link>
 			<title>[遮天][第87集][国语中字][WEB-MKV][2160P]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-10T00:07:28.09</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301423648" url="https://mikanani.me/Download/20241210/e089da27cc09179958974e41ebece8f4c30c9a90.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 新网球王子 U-17 世界杯 SEMIFINAL / Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL - 07 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/0a4af3c4736fee2068d8974466f8e6f190c7a031</link>
-			<title>[Skymoon-Raws] 新网球王子 U-17 世界杯 SEMIFINAL / Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL - 07 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 新网球王子 U-17 世界杯 SEMIFINAL / Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL - 07 [ViuTV][WEB-DL][1080p][AVC AAC][438.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0a4af3c4736fee2068d8974466f8e6f190c7a031</link>
-				<contentLength>460115136</contentLength>
-				<pubDate>2024-12-10T00:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="460115136" url="https://mikanani.me/Download/20241210/0a4af3c4736fee2068d8974466f8e6f190c7a031.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -50099,5 +50099,38 @@
       "title_jp": null,
       "size": "1.3GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][福星小子/Urusei Yatsura/うる星やつら][001-218TV全集+剧场版+OVA][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7142e1fc848c5b31ae44aaf7ac7efdb30b5b703c",
+    "title": "[DBD-Raws][福星小子/Urusei Yatsura/うる星やつら][001-218TV全集+剧场版+OVA][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]",
+    "description": "[DBD-Raws][福星小子/Urusei Yatsura/うる星やつら][001-218TV全集+剧场版+OVA][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][214.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7142e1fc848c5b31ae44aaf7ac7efdb30b5b703c",
+      "contentLength": "230102876160",
+      "pubDate": "2024-12-11T15:52:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "230102876160",
+      "@url": "https://mikanani.me/Download/20241211/7142e1fc848c5b31ae44aaf7ac7efdb30b5b703c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Urusei Yatsura",
+      "resolution": "1080P",
+      "episode": "001-218TV全集+剧场版+OVA",
+      "season": 1,
+      "title_zh": "福星小子",
+      "sub": "简繁外挂",
+      "title_jp": "うる星やつら",
+      "size": "214.3GB",
+      "season_raw": "全集+剧场版+OVA",
+      "source": "BDRip"
+    }
   }
 ]
