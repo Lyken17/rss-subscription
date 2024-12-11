@@ -50359,5 +50359,101 @@
       "source": "BAHA",
       "size": "396.47 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/5f0feb6fbeeda1032168ec72c254fee789350782",
+    "title": "[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 10 (ABEMA 1920x1080 AVC AAC MP4)[711.98 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5f0feb6fbeeda1032168ec72c254fee789350782",
+      "contentLength": "746565120",
+      "pubDate": "2024-12-11T22:01:12.959"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "746565120",
+      "@url": "https://mikanani.me/Download/20241211/5f0feb6fbeeda1032168ec72c254fee789350782.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+      "resolution": "1080",
+      "episode": 10,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "重启人生的千金小姐正在攻略龙帝陛下",
+      "sub": "AAC",
+      "title_jp": "リニューアル prestigious ladyが竜帝陛下攻略中",
+      "size": "711.98 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 多数欠 / Tasuuketsu - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d1cda0a245b10dbf6ad89660f7b7d8be3424f6be",
+    "title": "[LoliHouse] 多数欠 / Tasuuketsu - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 多数欠 / Tasuuketsu - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][642.75 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d1cda0a245b10dbf6ad89660f7b7d8be3424f6be",
+      "contentLength": "673972224",
+      "pubDate": "2024-12-11T21:29:11.253"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "673972224",
+      "@url": "https://mikanani.me/Download/20241211/d1cda0a245b10dbf6ad89660f7b7d8be3424f6be.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Tasuuketsu",
+      "resolution": "1080p",
+      "episode": 22,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "多数欠",
+      "sub": "简繁内封字幕",
+      "title_jp": "Tasuuketsu",
+      "size": "642.75 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/a7266dd6bbb460ccb8517f0ff7627f83b432b86b",
+    "title": "[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][348.44 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a7266dd6bbb460ccb8517f0ff7627f83b432b86b",
+      "contentLength": "365365824",
+      "pubDate": "2024-12-11T21:29:07.142"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "365365824",
+      "@url": "https://mikanani.me/Download/20241211/a7266dd6bbb460ccb8517f0ff7627f83b432b86b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Amagami-san Chi no Enmusubi",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "结缘甘神神社",
+      "sub": "简繁内封字幕",
+      "title_jp": "Amagami-san Chi no Enmusubi",
+      "size": "348.44 MB"
+    }
   }
 ]
