@@ -49906,5 +49906,69 @@
       "title_jp": null,
       "size": "460.2MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[TOC] 多数欠 Tasuketsu：Fate of the Majority [22][1080P][AVC AAC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f5a07df8d5677f831a5996c69323153a9641501c",
+    "title": "[TOC] 多数欠 Tasuketsu：Fate of the Majority [22][1080P][AVC AAC][CHT][MP4]",
+    "description": "[TOC] 多数欠 Tasuketsu：Fate of the Majority [22][1080P][AVC AAC][CHT][MP4][689.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f5a07df8d5677f831a5996c69323153a9641501c",
+      "contentLength": "723307712",
+      "pubDate": "2024-12-11T07:31:31.270682"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "723307712",
+      "@url": "https://mikanani.me/Download/20241211/f5a07df8d5677f831a5996c69323153a9641501c.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "TOC 多数欠",
+      "title_en": "Fate of the Majority",
+      "resolution": "1080P",
+      "episode": 22,
+      "season": 1,
+      "source": "unknown",
+      "title_zh": "多数欠",
+      "sub": "CHT",
+      "title_jp": "未知",
+      "size": "689.8 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 胆大党 - 02 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/936cf866accd0ea716e79edb902198f9cb36bbaf",
+    "title": "[沸羊羊制作] 胆大党 - 02 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 胆大党 - 02 [CR WebRip 2160p Ai-Upscale HEVC-10bit AAC][官方简繁内封字幕][1.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/936cf866accd0ea716e79edb902198f9cb36bbaf",
+      "contentLength": "1825361152",
+      "pubDate": "2024-12-11T07:30:30.759149"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1825361152",
+      "@url": "https://mikanani.me/Download/20241211/936cf866accd0ea716e79edb902198f9cb36bbaf.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "胆大党",
+      "resolution": "2160p",
+      "episode": 2,
+      "season": 1,
+      "source": "CR WebRip",
+      "title_zh": "胆大党",
+      "sub": "官方简繁内封字幕",
+      "title_jp": null,
+      "size": "1.7GB"
+    }
   }
 ]
