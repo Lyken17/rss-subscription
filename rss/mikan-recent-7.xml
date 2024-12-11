@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2024-12-04T04:03:19.761</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241204/49020ea1e64d3b392575c20a80032f626bc9c16e.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>None</group>
-				<title_en>Tasuuketsu</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>21</episode>
-				<season>1</season>
-				<source>None</source>
-				<title_zh>多数欠</title_zh>
-				<sub>None</sub>
-				<title_jp>None</title_jp>
-				<size>1.3 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2d50fcba624bd5f319b1bf77017c68b5572380c1</link>
 			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -15756,6 +15732,54 @@
 				<season_raw>S2</season_raw>
 				<source>B-Global</source>
 				<size>192.6 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e70542dcd9313dd7b412b1bab821c1e72c98e186</link>
+			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)[772.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e70542dcd9313dd7b412b1bab821c1e72c98e186</link>
+				<contentLength>810423424</contentLength>
+				<pubDate>2024-12-11T12:04:29.112</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="810423424" url="https://mikanani.me/Download/20241211/e70542dcd9313dd7b412b1bab821c1e72c98e186.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>None</group>
+				<title_en>Yowai 5000-nen no Soushoku Dragon (Japanese Audio</title_en>
+				<resolution>1920x1080</resolution>
+				<episode>11</episode>
+				<season>2</season>
+				<source>CR</source>
+				<title_zh>食草老龙被冠以恶龙之名 第二季（日配版）</title_zh>
+				<sub>None</sub>
+				<title_jp>弱い5000年の草食龙</title_jp>
+				<size>772.88 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/7c07aa51b8dd6eecac6ac921f73e8b9e580d5c88</link>
+			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (CR 1920x1080 AVC AAC MKV)[771.68 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7c07aa51b8dd6eecac6ac921f73e8b9e580d5c88</link>
+				<contentLength>809165120</contentLength>
+				<pubDate>2024-12-11T12:02:48.027</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="809165120" url="https://mikanani.me/Download/20241211/7c07aa51b8dd6eecac6ac921f73e8b9e580d5c88.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Weak 5000-Year-Old Herbivorous Dragon</title_en>
+				<resolution>1080</resolution>
+				<episode>12</episode>
+				<season>2</season>
+				<source>CR</source>
+				<title_zh>食草老龙被冠以恶龙之名</title_zh>
+				<sub>None</sub>
+				<title_jp>Yowai 5000-nen no Soushoku Dragon S2</title_jp>
+				<size>771.68 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

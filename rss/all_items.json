@@ -50003,5 +50003,69 @@
       "source": "B-Global",
       "size": "192.6 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/e70542dcd9313dd7b412b1bab821c1e72c98e186",
+    "title": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)[772.88 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e70542dcd9313dd7b412b1bab821c1e72c98e186",
+      "contentLength": "810423424",
+      "pubDate": "2024-12-11T12:04:29.112"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "810423424",
+      "@url": "https://mikanani.me/Download/20241211/e70542dcd9313dd7b412b1bab821c1e72c98e186.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Yowai 5000-nen no Soushoku Dragon (Japanese Audio",
+      "resolution": "1920x1080",
+      "episode": 11,
+      "season": 2,
+      "source": "CR",
+      "title_zh": "食草老龙被冠以恶龙之名 第二季（日配版）",
+      "sub": "None",
+      "title_jp": "弱い5000年の草食龙",
+      "size": "772.88 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7c07aa51b8dd6eecac6ac921f73e8b9e580d5c88",
+    "title": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (CR 1920x1080 AVC AAC MKV)[771.68 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7c07aa51b8dd6eecac6ac921f73e8b9e580d5c88",
+      "contentLength": "809165120",
+      "pubDate": "2024-12-11T12:02:48.027"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "809165120",
+      "@url": "https://mikanani.me/Download/20241211/7c07aa51b8dd6eecac6ac921f73e8b9e580d5c88.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Weak 5000-Year-Old Herbivorous Dragon",
+      "resolution": "1080",
+      "episode": 12,
+      "season": 2,
+      "source": "CR",
+      "title_zh": "食草老龙被冠以恶龙之名",
+      "sub": "None",
+      "title_jp": "Yowai 5000-nen no Soushoku Dragon S2",
+      "size": "771.68 MB"
+    }
   }
 ]
