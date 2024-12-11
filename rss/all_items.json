@@ -50262,5 +50262,102 @@
       "title_jp": "新世纪エヴァンゲリオン",
       "size": "142.1GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[澄空学园] 常轨脱离Creative 第10话 MP4 1080p"
+    },
+    "link": "https://mikanani.me/Home/Episode/15effa009dc7499d60fbe267dd44fad60e6f64ce",
+    "title": "[澄空学园] 常轨脱离Creative 第10话 MP4 1080p",
+    "description": "[澄空学园] 常轨脱离Creative 第10话 MP4 1080p[84.6MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/15effa009dc7499d60fbe267dd44fad60e6f64ce",
+      "contentLength": "88709528",
+      "pubDate": "2024-12-11T21:16:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "88709528",
+      "@url": "https://mikanani.me/Download/20241211/15effa009dc7499d60fbe267dd44fad60e6f64ce.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "澄空学园",
+      "title_en": "Creative",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "MP4",
+      "title_zh": "常轨脱离",
+      "sub": "简体中文",
+      "title_jp": "常轨脱离Creative",
+      "size": "84.6MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Acro Trip /  Acro Trip 顶尖恶路 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/370fa7683ac0da31559f8f87c76b20b6e3dff1b7",
+    "title": "[ANi] Acro Trip /  Acro Trip 顶尖恶路 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Acro Trip /  Acro Trip 顶尖恶路 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][396.7 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/370fa7683ac0da31559f8f87c76b20b6e3dff1b7",
+      "contentLength": "415970112",
+      "pubDate": "2024-12-11T21:01:21.389913"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "415970112",
+      "@url": "https://mikanani.me/Download/20241211/370fa7683ac0da31559f8f87c76b20b6e3dff1b7.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Acro Trip",
+      "resolution": "1080P",
+      "episode": 12,
+      "season": 1,
+      "source": "WEB-DL",
+      "title_zh": "Acro Trip 顶尖恶路",
+      "sub": "CHT",
+      "title_jp": "Acro Trip",
+      "size": "396.7 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 12 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/530acae46704667612d071d4c0c683ea805e2d81",
+    "title": "[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 12 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 12 (Baha 1920x1080 AVC AAC MP4)[396.47 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/530acae46704667612d071d4c0c683ea805e2d81",
+      "contentLength": "415728928",
+      "pubDate": "2024-12-11T21:01:15.574"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "415728928",
+      "@url": "https://mikanani.me/Download/20241211/530acae46704667612d071d4c0c683ea805e2d81.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Acro Trip",
+      "resolution": "1080p",
+      "episode": 12,
+      "season": 1,
+      "title_zh": "顶尖恶路",
+      "sub": "CHT",
+      "title_jp": "Acro Trip",
+      "season_raw": "S01",
+      "source": "BAHA",
+      "size": "396.47 MB"
+    }
   }
 ]
