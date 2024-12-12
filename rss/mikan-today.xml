@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][12][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/0e79978d87df1decc2235df0d6ff47e3e21f5fb0</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][12][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][12][WEBrip][1080P][简日双语][502.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0e79978d87df1decc2235df0d6ff47e3e21f5fb0</link>
+				<contentLength>527224000</contentLength>
+				<pubDate>2024-12-13T05:05:46.86178</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="527224000" url="https://mikanani.me/Download/20241213/0e79978d87df1decc2235df0d6ff47e3e21f5fb0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 35 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4b99a1e3b79df08366f060efc70de56f1b4dff80</link>
 			<title>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 35 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-11T22:33:34.201</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241211/65cbc5dd962c2df6b732afe410763dd0efec2bb4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/805c8efed1fade7b05b4635c6b08f75dc847ec85</link>
-			<title>[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 12 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/805c8efed1fade7b05b4635c6b08f75dc847ec85</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2024-12-11T22:19:08.283</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241211/805c8efed1fade7b05b4635c6b08f75dc847ec85.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
