@@ -51720,5 +51720,38 @@
       "title_jp": "Tsume, Shougakusei ni Naru",
       "size": "222.27 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "六四位元字幕组★重启人生的千金小姐正在攻略龙帝陛下 Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu★10★1920x1080★AVC AAC MP4★繁体中文"
+    },
+    "link": "https://mikanani.me/Home/Episode/bfd112edcd468ce4271446b2ee18555db40388db",
+    "title": "六四位元字幕组★重启人生的千金小姐正在攻略龙帝陛下 Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu★10★1920x1080★AVC AAC MP4★繁体中文",
+    "description": "六四位元字幕组★重启人生的千金小姐正在攻略龙帝陛下 Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu★10★1920x1080★AVC AAC MP4★繁体中文[335.5MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/bfd112edcd468ce4271446b2ee18555db40388db",
+      "contentLength": "351797248",
+      "pubDate": "2024-12-12T15:26:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "351797248",
+      "@url": "https://mikanani.me/Download/20241212/bfd112edcd468ce4271446b2ee18555db40388db.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "六四位元字幕组",
+      "title_en": "Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu",
+      "resolution": "1920x1080",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "重启人生的千金小姐正在攻略龙帝陛下",
+      "sub": "繁体中文",
+      "title_jp": "ヤリナシオリ lady wa ルイテイ heavenly emperor o 功略攻略",
+      "size": "335.5MB",
+      "source": "★",
+      "season_raw": "★"
+    }
   }
 ]

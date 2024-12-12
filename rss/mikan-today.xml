@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★重启人生的千金小姐正在攻略龙帝陛下 Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu★10★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/bfd112edcd468ce4271446b2ee18555db40388db</link>
+			<title>六四位元字幕组★重启人生的千金小姐正在攻略龙帝陛下 Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu★10★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★重启人生的千金小姐正在攻略龙帝陛下 Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu★10★1920x1080★AVC AAC MP4★繁体中文[335.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bfd112edcd468ce4271446b2ee18555db40388db</link>
+				<contentLength>351797248</contentLength>
+				<pubDate>2024-12-12T15:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="351797248" url="https://mikanani.me/Download/20241212/bfd112edcd468ce4271446b2ee18555db40388db.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[神印王座][第137集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/342631f4af7e3d8de03f4f9c01de834ce100cf92</link>
 			<title>[神印王座][第137集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-10T19:02:12.412</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="281815296" url="https://mikanani.me/Download/20241210/96c40d7a4f90f58a0939ce410cfb38e9ef54596a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 赛马娘剧场版 新时代之门 / 新时代之扉 / Uma Musume Pretty Derby Beginning of a New Era [Movie][WebRip][HEVC_AAC][简中内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8c7e0ea48eb58243707b7aba5f4b057d0ad68a63</link>
-			<title>[北宇治字幕组] 赛马娘剧场版 新时代之门 / 新时代之扉 / Uma Musume Pretty Derby Beginning of a New Era [Movie][WebRip][HEVC_AAC][简中内嵌]</title>
-			<description>[北宇治字幕组] 赛马娘剧场版 新时代之门 / 新时代之扉 / Uma Musume Pretty Derby Beginning of a New Era [Movie][WebRip][HEVC_AAC][简中内嵌][1.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8c7e0ea48eb58243707b7aba5f4b057d0ad68a63</link>
-				<contentLength>1932735232</contentLength>
-				<pubDate>2024-12-10T18:48:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20241210/8c7e0ea48eb58243707b7aba5f4b057d0ad68a63.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
