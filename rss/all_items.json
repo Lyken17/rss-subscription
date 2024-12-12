@@ -51753,5 +51753,101 @@
       "source": "★",
       "season_raw": "★"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][繁体内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3bd7058fa452e3463e5bdd1e24d9e74777a78b01",
+    "title": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][繁体内嵌]",
+    "description": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][繁体内嵌][582.01 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3bd7058fa452e3463e5bdd1e24d9e74777a78b01",
+      "contentLength": "610281728",
+      "pubDate": "2024-12-12T16:32:31.943"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "610281728",
+      "@url": "https://mikanani.me/Download/20241212/3bd7058fa452e3463e5bdd1e24d9e74777a78b01.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "桜都字幕组",
+      "title_en": "Bleach：Sennen Kessen Hen",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": " ",
+      "title_zh": "BLEACH 死神 千年血战篇 -相克谭-",
+      "sub": "繁体内嵌",
+      "title_jp": " Bleach：Sennen Kessen Hen - Soukoku Tan",
+      "size": "582.01 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][简体内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/2b6a8784720bec99d986a6b979af882fcd6083c9",
+    "title": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][简体内嵌]",
+    "description": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][简体内嵌][582.26 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2b6a8784720bec99d986a6b979af882fcd6083c9",
+      "contentLength": "610543872",
+      "pubDate": "2024-12-12T16:31:40.283"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "610543872",
+      "@url": "https://mikanani.me/Download/20241212/2b6a8784720bec99d986a6b979af882fcd6083c9.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "樱都字幕组",
+      "title_en": "Bleach：Sennen Kessen Hen",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "简体内嵌",
+      "title_zh": "BLEACH 死神 千年血战篇 -相克谭-",
+      "sub": "简体内嵌",
+      "title_jp": "Bleach：Sennen Kessen Hen - Soukoku Tan",
+      "size": "582.26 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][简繁内封]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b321f1a4c1d2c6e7250aac542c9f64ea25bf2767",
+    "title": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][简繁内封]",
+    "description": "[桜都字幕组] BLEACH 死神 千年血战篇 -相克谭- / Bleach：Sennen Kessen Hen - Soukoku Tan [10][1080p][简繁内封][715.49 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b321f1a4c1d2c6e7250aac542c9f64ea25bf2767",
+      "contentLength": "750245632",
+      "pubDate": "2024-12-12T16:30:32.459"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "750245632",
+      "@url": "https://mikanani.me/Download/20241212/b321f1a4c1d2c6e7250aac542c9f64ea25bf2767.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "桜都字幕组",
+      "title_en": "Bleach：Sennen Kessen Hen",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "简繁内封",
+      "title_zh": "BLEACH 死神 千年血战篇",
+      "sub": "简繁内封",
+      "title_jp": "BLEACH 死神 千年血战篇 -相克谭-",
+      "size": "715.49 MB"
+    }
   }
 ]
