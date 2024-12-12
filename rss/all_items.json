@@ -53726,5 +53726,38 @@
       "source": "WEBrip",
       "size": "502.8 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 青之箱 - 12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/48056d39b603f4f0dd500ebd648a66e4650d83fc",
+    "title": "[沸羊羊制作] 青之箱 - 12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 青之箱 - 12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕][356.1 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/48056d39b603f4f0dd500ebd648a66e4650d83fc",
+      "contentLength": "373397920",
+      "pubDate": "2024-12-13T06:05:29.301605"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "373397920",
+      "@url": "https://mikanani.me/Download/20241213/48056d39b603f4f0dd500ebd648a66e4650d83fc.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "青之箱",
+      "resolution": "1080p",
+      "episode": 12,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "青之箱",
+      "sub": "官方简繁内封字幕",
+      "title_jp": "青之箱",
+      "size": "356.1 MB",
+      "season_raw": ""
+    }
   }
 ]

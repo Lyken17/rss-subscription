@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 青之箱 - 12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/48056d39b603f4f0dd500ebd648a66e4650d83fc</link>
+			<title>[沸羊羊制作] 青之箱 - 12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]</title>
+			<description>[沸羊羊制作] 青之箱 - 12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕][356.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/48056d39b603f4f0dd500ebd648a66e4650d83fc</link>
+				<contentLength>373397920</contentLength>
+				<pubDate>2024-12-13T06:05:29.301605</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="373397920" url="https://mikanani.me/Download/20241213/48056d39b603f4f0dd500ebd648a66e4650d83fc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][12][WEBrip][1080P][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/0e79978d87df1decc2235df0d6ff47e3e21f5fb0</link>
 			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][12][WEBrip][1080P][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-11T22:35:23.079379</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="481715808" url="https://mikanani.me/Download/20241211/0e2ad20634f5e112c00b930830ce78ea6267b79c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 10 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/65cbc5dd962c2df6b732afe410763dd0efec2bb4</link>
-			<title>[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 10 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 10 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/65cbc5dd962c2df6b732afe410763dd0efec2bb4</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2024-12-11T22:33:34.201</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241211/65cbc5dd962c2df6b732afe410763dd0efec2bb4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
