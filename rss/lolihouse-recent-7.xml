@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 13 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）</guid>
-			<link>https://mikanani.me/Home/Episode/0eab8bbbac2abc400dc4a3ee0605a7f5d72ba4c2</link>
-			<title>[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 13 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）</title>
-			<description>[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 13 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）[917.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0eab8bbbac2abc400dc4a3ee0605a7f5d72ba4c2</link>
-				<contentLength>961911168</contentLength>
-				<pubDate>2024-12-05T17:02:23.711</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="961911168" url="https://mikanani.me/Download/20241205/0eab8bbbac2abc400dc4a3ee0605a7f5d72ba4c2.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>SweetSub&amp;LoliHouse</group>
-				<title_en>TP BON - 13</title_en>
-				<resolution>HEVC-10bit</resolution>
-				<episode>13</episode>
-				<season>1</season>
-				<source>WebRip</source>
-				<title_zh>时间巡警阿凡</title_zh>
-				<sub>简繁日内封字幕</sub>
-				<title_jp>时光巡逻队</title_jp>
-				<size>917.35 MB</size>
-				<season_raw>TP BON</season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] Acro Trip 顶尖恶路 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ac2b76cecc607a0c26f6cd45cd9d9ffd45389823</link>
 			<title>[LoliHouse] Acro Trip 顶尖恶路 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1160,6 +1135,30 @@
 				<sub>简繁日内封字幕</sub>
 				<title_jp>GOD.app</title_jp>
 				<size>940.69 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 辰星降临之国的妮娜 / Hoshifuru Oukoku no Nina - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3fe869da213a143a9fee4aa04b63192a38d779b5</link>
+			<title>[LoliHouse] 辰星降临之国的妮娜 / Hoshifuru Oukoku no Nina - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 辰星降临之国的妮娜 / Hoshifuru Oukoku no Nina - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][333.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3fe869da213a143a9fee4aa04b63192a38d779b5</link>
+				<contentLength>349815424</contentLength>
+				<pubDate>2024-12-13T00:30:48.078</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="349815424" url="https://mikanani.me/Download/20241213/3fe869da213a143a9fee4aa04b63192a38d779b5.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Hoshifuru Oukoku no Nina</title_en>
+				<resolution>1080p</resolution>
+				<episode>10</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>辰星降临之国的妮娜</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Hoshifuru Oukoku no Nina</title_jp>
+				<size>333.61 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
