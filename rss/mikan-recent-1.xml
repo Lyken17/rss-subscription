@@ -1467,5 +1467,53 @@
 				<size>520.01 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9defec6f74b6f8a46b71a3d4ec47c0ee1450f690</link>
+			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9defec6f74b6f8a46b71a3d4ec47c0ee1450f690</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2024-12-12T22:02:41.905</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241212/9defec6f74b6f8a46b71a3d4ec47c0ee1450f690.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Kinoko Inu</title_en>
+				<resolution>1080</resolution>
+				<episode>11</episode>
+				<season>1</season>
+				<source>CR</source>
+				<title_zh>蘑菇狗</title_zh>
+				<sub>None</sub>
+				<title_jp>キノコイヌ</title_jp>
+				<size>1.35 GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/95374978b3e4ddd1922b800b7899f7dd85c83a5e</link>
+			<title>[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 悲喜渔生 / NegaPosi Angler - 11 (ABEMA 1920x1080 AVC AAC MP4)[711.66 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/95374978b3e4ddd1922b800b7899f7dd85c83a5e</link>
+				<contentLength>746229568</contentLength>
+				<pubDate>2024-12-12T22:01:19.458</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746229568" url="https://mikanani.me/Download/20241212/95374978b3e4ddd1922b800b7899f7dd85c83a5e.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>NegaPosi Angler</title_en>
+				<resolution>1080</resolution>
+				<episode>11</episode>
+				<season>1</season>
+				<source>ABEMA</source>
+				<title_zh>悲喜渔生</title_zh>
+				<sub>None</sub>
+				<title_jp>None</title_jp>
+				<size>711.66 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
