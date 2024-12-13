@@ -54344,5 +54344,101 @@
       "title_jp": "青年黑杰克",
       "size": "12.6GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 百姓贵族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/c559dcac4ebb3bf18259ec45417009d7be51e9ef",
+    "title": "[Up to 21°C] 百姓贵族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 百姓贵族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (ADN 1920x1080 AVC AAC MKV)[94.56 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c559dcac4ebb3bf18259ec45417009d7be51e9ef",
+      "contentLength": "99153344",
+      "pubDate": "2024-12-13T21:05:29.902"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "99153344",
+      "@url": "https://mikanani.me/Download/20241213/c559dcac4ebb3bf18259ec45417009d7be51e9ef.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ADN",
+      "title_en": "Hyakushou Kizoku 2nd Season",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 2,
+      "source": "MKV",
+      "title_zh": "百姓贵族",
+      "sub": "None",
+      "title_jp": "Hyakushou Kizoku",
+      "size": "94.56 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi]  百姓贵族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7c9e7ed8b5482cf77ba70d44cabf579f0c3e880d",
+    "title": "[ANi]  百姓贵族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi]  百姓贵族 2nd Season - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][91.6 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7c9e7ed8b5482cf77ba70d44cabf579f0c3e880d",
+      "contentLength": "96049560",
+      "pubDate": "2024-12-13T21:00:53.397648"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "96049560",
+      "@url": "https://mikanani.me/Download/20241213/7c9e7ed8b5482cf77ba70d44cabf579f0c3e880d.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "Bushi Geqiao 2nd Season",
+      "resolution": "1080P",
+      "episode": 11,
+      "season": 2,
+      "source": "WEB-DL",
+      "title_zh": "百姓贵族 2nd Season",
+      "sub": "CHT",
+      "title_jp": "omitempty",
+      "size": "91.6 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 百姓贵族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/74b02f9f01fc25843dcee239b13662c12f510a7f",
+    "title": "[Up to 21°C] 百姓贵族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 百姓贵族 2nd Season / Hyakushou Kizoku 2nd Season - 11 (Baha 1920x1080 AVC AAC MP4)[91.4 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/74b02f9f01fc25843dcee239b13662c12f510a7f",
+      "contentLength": "95839848",
+      "pubDate": "2024-12-13T21:00:39.017"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "95839848",
+      "@url": "https://mikanani.me/Download/20241213/74b02f9f01fc25843dcee239b13662c12f510a7f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Hyakushou Kizoku 2nd Season",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 2,
+      "source": "Baha",
+      "title_zh": "百姓贵族 2nd Season",
+      "sub": "None",
+      "title_jp": "ゴブリンスレイヤーII",
+      "size": "91.4 MB"
+    }
   }
 ]
