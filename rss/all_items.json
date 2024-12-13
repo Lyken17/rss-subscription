@@ -54118,5 +54118,70 @@
       "size": "495.15 MB",
       "season_raw": " - 11"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/2994029cd0ac3802fc1635e1ec2bc314535c6d2e",
+    "title": "[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁内封字幕]",
+    "description": "[奇怪机翻组] 贵宾室里…第一部分 / VIPルームで…パート① [2024.12.10 As109] [WebRip] [1080P HEVC-10Bit AAC 2.0] [简繁内封字幕][274.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2994029cd0ac3802fc1635e1ec2bc314535c6d2e",
+      "contentLength": "288253536",
+      "pubDate": "2024-12-13T14:01:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "288253536",
+      "@url": "https://mikanani.me/Download/20241213/2994029cd0ac3802fc1635e1ec2bc314535c6d2e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "奇怪机翻组",
+      "title_en": "VIPルームで…パート①",
+      "resolution": "1080P HEVC-10Bit",
+      "episode": 1,
+      "season": 1,
+      "title_zh": "贵宾室里…第一部分",
+      "sub": "简繁内封字幕",
+      "title_jp": "VIPルームで…パート①",
+      "season_raw": "2024.12.10 As109",
+      "source": "WebRip",
+      "size": "274.9MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/42242224d54651edf7aee4896261eaf66749e01a",
+    "title": "[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV]",
+    "description": "[DBD-Raws][蔚蓝档案 The Animation/Blue Archive the Animation/ブルーアーカイブ The Animation][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV][9.0GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/42242224d54651edf7aee4896261eaf66749e01a",
+      "contentLength": "9663676416",
+      "pubDate": "2024-12-13T13:27:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "9663676416",
+      "@url": "https://mikanani.me/Download/20241213/42242224d54651edf7aee4896261eaf66749e01a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Blue Archive the Animation",
+      "resolution": "1080P",
+      "episode": "01-12TV全集",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "蔚蓝档案 The Animation",
+      "sub": "简繁内封",
+      "title_jp": "ブルーアーカイブ The Animation",
+      "size": "9.0GB"
+    }
   }
 ]
