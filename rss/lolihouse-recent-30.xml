@@ -3181,5 +3181,29 @@
 				<season_raw> - 11</season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8ecab23053cb48cbb7661a4ada2dc84100730c5c</link>
+			<title>[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][519.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ecab23053cb48cbb7661a4ada2dc84100730c5c</link>
+				<contentLength>544431168</contentLength>
+				<pubDate>2024-12-13T22:23:00.552</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="544431168" url="https://mikanani.me/Download/20241213/8ecab23053cb48cbb7661a4ada2dc84100730c5c.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Sayounara Ryuusei, Konnichiwa Jinsei</title_en>
+				<resolution>1080p</resolution>
+				<episode>11</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>再见龙生，你好人生</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp>Sayounara Ryuusei, Konnichiwa Jinsei</title_jp>
+				<size>519.21 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
