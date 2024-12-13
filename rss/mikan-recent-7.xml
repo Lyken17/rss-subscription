@@ -14866,5 +14866,29 @@
 				<season_raw>S5</season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ab7c211b0f17d99088147c3041a5a41c8fd98bd9</link>
+			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)[242.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab7c211b0f17d99088147c3041a5a41c8fd98bd9</link>
+				<contentLength>254646688</contentLength>
+				<pubDate>2024-12-13T11:03:04.838</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="254646688" url="https://mikanani.me/Download/20241213/ab7c211b0f17d99088147c3041a5a41c8fd98bd9.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>B-Global Donghua</group>
+				<title_en>Mythical Creatures Are My Dinners</title_en>
+				<resolution>1080</resolution>
+				<episode>29</episode>
+				<season>1</season>
+				<source>MKV</source>
+				<title_zh>今天的晚餐就是你</title_zh>
+				<sub>AAC</sub>
+				<title_jp></title_jp>
+				<size>242.85 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>

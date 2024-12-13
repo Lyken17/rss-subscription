@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ab7c211b0f17d99088147c3041a5a41c8fd98bd9</link>
+			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)[242.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab7c211b0f17d99088147c3041a5a41c8fd98bd9</link>
+				<contentLength>254646688</contentLength>
+				<pubDate>2024-12-13T11:03:04.838</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="254646688" url="https://mikanani.me/Download/20241213/ab7c211b0f17d99088147c3041a5a41c8fd98bd9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[完美世界][第192集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/13f56d8ebf244cb8ab584200f26ee470ad7619b2</link>
 			<title>[完美世界][第192集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-12T00:01:26.238</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="685150016" url="https://mikanani.me/Download/20241212/e757c322f0b027a7efb2375c520bc8e651160016.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f017d78811fc2f5e48bf32385198d2e8434270fc</link>
-			<title>[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] Acro Trip 顶尖恶路 / Acro Trip - 11 (ABEMA 1920x1080 AVC AAC MP4)[711.47 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f017d78811fc2f5e48bf32385198d2e8434270fc</link>
-				<contentLength>746030336</contentLength>
-				<pubDate>2024-12-11T23:31:01.508</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746030336" url="https://mikanani.me/Download/20241211/f017d78811fc2f5e48bf32385198d2e8434270fc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
