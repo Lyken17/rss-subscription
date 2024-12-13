@@ -54183,5 +54183,37 @@
       "title_jp": "ブルーアーカイブ The Animation",
       "size": "9.0GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/a279896922192effadbdf458be288e6bc5d650a4",
+    "title": "[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin]",
+    "description": "[星空字幕组&VCB-Studio] 勇气爆发 BANG BRAVERN / Yuuki Bakuhatsu BANG BRAVERN / 勇気爆発バーンブレイバーン 10-bit 1080p HEVC BDRip [Fin][21.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a279896922192effadbdf458be288e6bc5d650a4",
+      "contentLength": "22763327488",
+      "pubDate": "2024-12-13T15:38:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "22763327488",
+      "@url": "https://mikanani.me/Download/20241213/a279896922192effadbdf458be288e6bc5d650a4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "星空字幕组&VCB-Studio",
+      "title_en": "BANG BRAVERN",
+      "resolution": "1080p",
+      "episode": 1,
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "勇气爆发",
+      "sub": "Fin",
+      "title_jp": "勇気爆発バーンブレイバーン",
+      "size": "21.2GB"
+    }
   }
 ]
