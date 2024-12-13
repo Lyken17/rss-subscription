@@ -54248,5 +54248,69 @@
       "source": "GB",
       "size": "1.77 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/0d65341aa821fec9ff6b437c37ab7f71cd4f8804",
+    "title": "[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]",
+    "description": "[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4][1.77 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0d65341aa821fec9ff6b437c37ab7f71cd4f8804",
+      "contentLength": "1900523008",
+      "pubDate": "2024-12-13T18:02:25.991"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1900523008",
+      "@url": "https://mikanani.me/Download/20241213/0d65341aa821fec9ff6b437c37ab7f71cd4f8804.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "丸子家族",
+      "title_en": "Sazae-san 55th SP",
+      "resolution": "1080P",
+      "episode": "SP",
+      "season": 55,
+      "source": "BIG5",
+      "title_zh": "国民动画盛会：海螺小姐55周年特别篇",
+      "sub": "BIG5",
+      "title_jp": "海螺小姐55周年特別篇",
+      "size": "1.77 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[香子兰翻译同好会] 常轨脱离Creative [11][WebRip][x264 AAC][简日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1cb4ffe3362ee02141c193a2bd3fb74ae0c4d419",
+    "title": "[香子兰翻译同好会] 常轨脱离Creative [11][WebRip][x264 AAC][简日内嵌]",
+    "description": "[香子兰翻译同好会] 常轨脱离Creative [11][WebRip][x264 AAC][简日内嵌][78.0 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1cb4ffe3362ee02141c193a2bd3fb74ae0c4d419",
+      "contentLength": "81788928",
+      "pubDate": "2024-12-13T17:49:53.745"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "81788928",
+      "@url": "https://mikanani.me/Download/20241213/1cb4ffe3362ee02141c193a2bd3fb74ae0c4d419.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "香子兰翻译同好会",
+      "title_en": "Creative",
+      "resolution": "x264",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "常轨脱离",
+      "sub": "简日内嵌",
+      "title_jp": null,
+      "size": "78.0 MB"
+    }
   }
 ]
