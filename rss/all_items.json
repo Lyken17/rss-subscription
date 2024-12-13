@@ -55896,5 +55896,38 @@
       "title_jp": "Touhai: Ura Rate Mahjong Touhai Roku",
       "size": "713.15 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/0bbcedb741abea0000fcdbfe92a659c750ac8bdd",
+    "title": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/0bbcedb741abea0000fcdbfe92a659c750ac8bdd",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-14T03:33:22.519"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241214/0bbcedb741abea0000fcdbfe92a659c750ac8bdd.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "resolution": "1920x1080",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "当不成魔法师的女孩",
+      "sub": "None",
+      "title_jp": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "season_raw": "1",
+      "source": "None",
+      "size": "1.35 GB"
+    }
   }
 ]

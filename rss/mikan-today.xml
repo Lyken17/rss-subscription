@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0bbcedb741abea0000fcdbfe92a659c750ac8bdd</link>
+			<title>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0bbcedb741abea0000fcdbfe92a659c750ac8bdd</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2024-12-14T03:33:22.519</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241214/0bbcedb741abea0000fcdbfe92a659c750ac8bdd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REMUX EP01-13+SP Fin)</guid>
 			<link>https://mikanani.me/Home/Episode/726dd8518afd709f341012b87db76fc7de84381c</link>
 			<title>[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REMUX EP01-13+SP Fin)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-13T00:01:24.622531</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="717750272" url="https://mikanani.me/Download/20241213/2cb74b568ba792ee0a5a4b3b1cc01a4386be2824.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 青春之箱 / Ao no Hako - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/bccc4ba460714318778255379e3b9d0857938c40</link>
-			<title>[Up to 21°C] 青春之箱 / Ao no Hako - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 青春之箱 / Ao no Hako - 11 (ABEMA 1920x1080 AVC AAC MP4)[711.83 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bccc4ba460714318778255379e3b9d0857938c40</link>
-				<contentLength>746407872</contentLength>
-				<pubDate>2024-12-13T00:01:08.099</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746407872" url="https://mikanani.me/Download/20241213/bccc4ba460714318778255379e3b9d0857938c40.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
