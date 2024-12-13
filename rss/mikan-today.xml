@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e</link>
+			<title>[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕][350.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e</link>
+				<contentLength>367735616</contentLength>
+				<pubDate>2024-12-14T05:01:54.0767</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="367735616" url="https://mikanani.me/Download/20241214/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0bbcedb741abea0000fcdbfe92a659c750ac8bdd</link>
 			<title>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-13T00:01:45.624</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="717330816" url="https://mikanani.me/Download/20241213/d9cd711b3481f75dbe843380d46af33daa1cf730.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Dan Da Dan /  胆大党 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2cb74b568ba792ee0a5a4b3b1cc01a4386be2824</link>
-			<title>[ANi] Dan Da Dan /  胆大党 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Dan Da Dan /  胆大党 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][684.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2cb74b568ba792ee0a5a4b3b1cc01a4386be2824</link>
-				<contentLength>717750272</contentLength>
-				<pubDate>2024-12-13T00:01:24.622531</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="717750272" url="https://mikanani.me/Download/20241213/2cb74b568ba792ee0a5a4b3b1cc01a4386be2824.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

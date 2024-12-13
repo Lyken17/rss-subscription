@@ -55929,5 +55929,37 @@
       "source": "None",
       "size": "1.35 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e",
+    "title": "[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕][350.7MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e",
+      "contentLength": "367735616",
+      "pubDate": "2024-12-14T05:01:54.0767"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "367735616",
+      "@url": "https://mikanani.me/Download/20241214/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "沸羊羊制作",
+      "title_en": "Dragon Ball Super",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "CR WebRip",
+      "title_zh": "龙珠大魔",
+      "sub": "官方简繁内封字幕",
+      "title_jp": "ドラゴンボールスパッژェー",
+      "size": "350.7MB"
+    }
   }
 ]
