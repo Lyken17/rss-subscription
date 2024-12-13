@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/f23abee43146617c504151ca9c6ab4d0b5189e95</link>
+			<title>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译][549.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f23abee43146617c504151ca9c6ab4d0b5189e95</link>
+				<contentLength>575856960</contentLength>
+				<pubDate>2024-12-14T05:50:50.203</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="575856960" url="https://mikanani.me/Download/20241214/f23abee43146617c504151ca9c6ab4d0b5189e95.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/91cd0dbd20496e87fe9a2104b9da0c662a24ad4e</link>
 			<title>[沸羊羊制作] 龙珠大魔 - 10 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-13T00:03:24.783</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241213/b4558ab64c3ed8dce89fcf67c32a821d9a019798.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 胆大党 / Dandadan - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d9cd711b3481f75dbe843380d46af33daa1cf730</link>
-			<title>[Up to 21°C] 胆大党 / Dandadan - 11 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 胆大党 / Dandadan - 11 (Baha 1920x1080 AVC AAC MP4)[684.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d9cd711b3481f75dbe843380d46af33daa1cf730</link>
-				<contentLength>717330816</contentLength>
-				<pubDate>2024-12-13T00:01:45.624</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="717330816" url="https://mikanani.me/Download/20241213/d9cd711b3481f75dbe843380d46af33daa1cf730.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

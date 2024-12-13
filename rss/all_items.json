@@ -55961,5 +55961,38 @@
       "title_jp": "ドラゴンボールスパッژェー",
       "size": "350.7MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f23abee43146617c504151ca9c6ab4d0b5189e95",
+    "title": "【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译][549.18 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f23abee43146617c504151ca9c6ab4d0b5189e95",
+      "contentLength": "575856960",
+      "pubDate": "2024-12-14T05:50:50.203"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "575856960",
+      "@url": "https://mikanani.me/Download/20241214/f23abee43146617c504151ca9c6ab4d0b5189e95.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋",
+      "title_en": "Dandadan",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "超自然武装当哒当 / 胆大党",
+      "sub": "繁日双语",
+      "title_jp": "Dandadan",
+      "season_raw": "10月新番",
+      "source": "None",
+      "size": "549.18 MB"
+    }
   }
 ]
