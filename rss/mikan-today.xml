@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">千夏字幕组★青年黑杰克_Young Black Jack★01~12(完)★1920x1080★AVC AC3 MP4★外挂简繁中文</guid>
+			<link>https://mikanani.me/Home/Episode/baa944a3e4a63cedf844e79f4f8ee00db373447d</link>
+			<title>千夏字幕组★青年黑杰克_Young Black Jack★01~12(完)★1920x1080★AVC AC3 MP4★外挂简繁中文</title>
+			<description>千夏字幕组★青年黑杰克_Young Black Jack★01~12(完)★1920x1080★AVC AC3 MP4★外挂简繁中文[12.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/baa944a3e4a63cedf844e79f4f8ee00db373447d</link>
+				<contentLength>13529147392</contentLength>
+				<pubDate>2024-12-13T20:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13529147392" url="https://mikanani.me/Download/20241213/baa944a3e4a63cedf844e79f4f8ee00db373447d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/0d65341aa821fec9ff6b437c37ab7f71cd4f8804</link>
 			<title>[丸子家族][国民动画盛会：海螺小姐55周年特别篇(National Anime Festival_Sazae-san 55th SP)][2024.11.26][BIG5][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-12T00:32:40.19</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3908420352" url="https://mikanani.me/Download/20241212/a5856911030d49749a5150c451eb476f17a9f61b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 亦叶亦花 / Nanare Hananare [01-12][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/f603a10b3c0d6cc245b7e3f4189b8ef5265a1319</link>
-			<title>[桜都字幕组] 亦叶亦花 / Nanare Hananare [01-12][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 亦叶亦花 / Nanare Hananare [01-12][1080p][简繁内封][3.21 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f603a10b3c0d6cc245b7e3f4189b8ef5265a1319</link>
-				<contentLength>3446711296</contentLength>
-				<pubDate>2024-12-12T00:32:15.172</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3446711296" url="https://mikanani.me/Download/20241212/f603a10b3c0d6cc245b7e3f4189b8ef5265a1319.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

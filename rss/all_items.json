@@ -54312,5 +54312,37 @@
       "title_jp": null,
       "size": "78.0 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "千夏字幕组★青年黑杰克_Young Black Jack★01~12(完)★1920x1080★AVC AC3 MP4★外挂简繁中文"
+    },
+    "link": "https://mikanani.me/Home/Episode/baa944a3e4a63cedf844e79f4f8ee00db373447d",
+    "title": "千夏字幕组★青年黑杰克_Young Black Jack★01~12(完)★1920x1080★AVC AC3 MP4★外挂简繁中文",
+    "description": "千夏字幕组★青年黑杰克_Young Black Jack★01~12(完)★1920x1080★AVC AC3 MP4★外挂简繁中文[12.6GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/baa944a3e4a63cedf844e79f4f8ee00db373447d",
+      "contentLength": "13529147392",
+      "pubDate": "2024-12-13T20:25:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "13529147392",
+      "@url": "https://mikanani.me/Download/20241213/baa944a3e4a63cedf844e79f4f8ee00db373447d.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "千夏字幕组",
+      "title_en": "Young Black Jack",
+      "resolution": "1920x1080",
+      "episode": "1~12",
+      "season": 1,
+      "source": "AVC AC3 MP4",
+      "title_zh": "青年黑杰克",
+      "sub": "外挂简繁中文",
+      "title_jp": "青年黑杰克",
+      "size": "12.6GB"
+    }
   }
 ]
