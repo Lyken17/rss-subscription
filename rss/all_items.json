@@ -54052,5 +54052,71 @@
       "title_jp": null,
       "size": "242.85 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster/机动戦士ガンダムSEED DESTINY][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Kidou Senshi Gundam SEED Destiny)"
+    },
+    "link": "https://mikanani.me/Home/Episode/b2e8466c782caed139ed1487f7d74f287cf01ae8",
+    "title": "[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster/机动戦士ガンダムSEED DESTINY][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Kidou Senshi Gundam SEED Destiny)",
+    "description": "[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster/机动戦士ガンダムSEED DESTINY][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Kidou Senshi Gundam SEED Destiny)[52.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b2e8466c782caed139ed1487f7d74f287cf01ae8",
+      "contentLength": "56371445760",
+      "pubDate": "2024-12-13T13:13:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "56371445760",
+      "@url": "https://mikanani.me/Download/20241213/b2e8466c782caed139ed1487f7d74f287cf01ae8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "DBD-Raws",
+      "title_en": "Mobile Suit Gundam SEED Destiny",
+      "resolution": "1080P",
+      "episode": "1-50TV全集+特别版+特典映像",
+      "season": 1,
+      "source": "BDRip",
+      "title_zh": "机动战士高达SEED Destiny",
+      "sub": "简繁外挂",
+      "title_jp": "机动戦士ガンダムSEED DESTINY",
+      "size": "52.5GB",
+      "season_raw": "HD Remaster"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f67a3c1bd3c5078e041b5964b86e65d91e4a228e",
+    "title": "[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][495.15 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f67a3c1bd3c5078e041b5964b86e65d91e4a228e",
+      "contentLength": "519202400",
+      "pubDate": "2024-12-13T12:31:26.641"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "519202400",
+      "@url": "https://mikanani.me/Download/20241213/f67a3c1bd3c5078e041b5964b86e65d91e4a228e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Kekkon suru tte, Hontou desu ka",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "真的要结婚吗",
+      "sub": "简繁内封字幕",
+      "title_jp": "結婚するって、本当ですか",
+      "size": "495.15 MB",
+      "season_raw": " - 11"
+    }
   }
 ]
