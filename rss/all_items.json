@@ -56909,5 +56909,70 @@
       "title_jp": "デッドデッドデーモンズデデデデデストラクション",
       "size": "221.2 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/74a4f554f0006a09128e73495cec8949175f718f",
+    "title": "[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]",
+    "description": "[LoliHouse] 2.5次元的诱惑 / 2.5-jigen no Ririsa [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][16.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/74a4f554f0006a09128e73495cec8949175f718f",
+      "contentLength": "17931489280",
+      "pubDate": "2024-12-14T14:39:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "17931489280",
+      "@url": "https://mikanani.me/Download/20241214/74a4f554f0006a09128e73495cec8949175f718f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "2.5-jigen no Ririsa",
+      "resolution": "1080p",
+      "episode": "01-24",
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "2.5次元的诱惑",
+      "sub": "简繁内封字幕",
+      "title_jp": "2.5-jigen no Ririsa",
+      "size": "16.7GB",
+      "season_raw": "01-24 合集"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] Acro Trip 顶尖恶路 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/e722433a30bd1ae95b8ae0a93ec1ceb26efc4a34",
+    "title": "[LoliHouse] Acro Trip 顶尖恶路 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]",
+    "description": "[LoliHouse] Acro Trip 顶尖恶路 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][6.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e722433a30bd1ae95b8ae0a93ec1ceb26efc4a34",
+      "contentLength": "6764573696",
+      "pubDate": "2024-12-14T14:25:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "6764573696",
+      "@url": "https://mikanani.me/Download/20241214/e722433a30bd1ae95b8ae0a93ec1ceb26efc4a34.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Acro Trip",
+      "resolution": "1080p",
+      "episode": "1-12",
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "顶尖恶路",
+      "sub": "简繁内封字幕",
+      "title_jp": "トップギリギリな恶女旅 Acro Trip",
+      "size": "6.3GB"
+    }
   }
 ]
