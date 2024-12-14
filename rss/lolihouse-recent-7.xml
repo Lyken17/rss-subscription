@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 14 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）</guid>
-			<link>https://mikanani.me/Home/Episode/35527b5d578b8bf092003f5dccce9d96928c4334</link>
-			<title>[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 14 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）</title>
-			<description>[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 14 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）[882.74 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/35527b5d578b8bf092003f5dccce9d96928c4334</link>
-				<contentLength>925619968</contentLength>
-				<pubDate>2024-12-07T15:25:11.696</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="925619968" url="https://mikanani.me/Download/20241207/35527b5d578b8bf092003f5dccce9d96928c4334.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>SweetSub&amp;LoliHouse</group>
-				<title_en>TP BON - 14</title_en>
-				<resolution>1080p</resolution>
-				<episode>14</episode>
-				<season>1</season>
-				<source>WebRip</source>
-				<title_zh>时间巡警阿凡</title_zh>
-				<sub>简繁日内封字幕</sub>
-				<title_jp>タイムポリス アバン</title_jp>
-				<size>882.74 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d95a77721a9882f3bd69629d56f466798649526b</link>
 			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1228,6 +1204,30 @@
 				<sub>简繁内封字幕</sub>
 				<title_jp>Goukon ni Ittara Onna ga Inakatta Hanashi</title_jp>
 				<size>333.12 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/79cf163a8dd973a9076af0c7b292dd8ba153d39c</link>
+			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][525.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79cf163a8dd973a9076af0c7b292dd8ba153d39c</link>
+				<contentLength>550837952</contentLength>
+				<pubDate>2024-12-15T00:14:11.042</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="550837952" url="https://mikanani.me/Download/20241215/79cf163a8dd973a9076af0c7b292dd8ba153d39c.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>LoliHouse</group>
+				<title_en>Sword Art Online Alternative: Gun Gale Online II</title_en>
+				<resolution>1080p</resolution>
+				<episode>11</episode>
+				<season>2</season>
+				<source>WebRip</source>
+				<title_zh>刀剑神域外传 Gun Gale Online II</title_zh>
+				<sub>简繁内封字幕</sub>
+				<title_jp> Sword Art Online Alternative: Gun Gale Online II</title_jp>
+				<size>525.32 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
