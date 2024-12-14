@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青之壬生浪 / Ao no Miburo - 09 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/821866897d947437607b2744f479cc770e6dd7d3</link>
+			<title>[Up to 21°C] 青之壬生浪 / Ao no Miburo - 09 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青之壬生浪 / Ao no Miburo - 09 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/821866897d947437607b2744f479cc770e6dd7d3</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2024-12-14T19:02:56.155</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241214/821866897d947437607b2744f479cc770e6dd7d3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青之壬生浪 / Ao no Miburo - 09 (ADN 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/751afc52cfbe98f8dc2d94c01249bb3842045fef</link>
 			<title>[Up to 21°C] 青之壬生浪 / Ao no Miburo - 09 (ADN 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-13T13:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9663676416" url="https://mikanani.me/Download/20241213/42242224d54651edf7aee4896261eaf66749e01a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster/机动戦士ガンダムSEED DESTINY][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Kidou Senshi Gundam SEED Destiny)</guid>
-			<link>https://mikanani.me/Home/Episode/b2e8466c782caed139ed1487f7d74f287cf01ae8</link>
-			<title>[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster/机动戦士ガンダムSEED DESTINY][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Kidou Senshi Gundam SEED Destiny)</title>
-			<description>[DBD-Raws][机动战士高达SEED Destiny HD重制版/Mobile Suit Gundam SEED Destiny HD Remaster/机动戦士ガンダムSEED DESTINY][01-50TV全集+特别版+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Kidou Senshi Gundam SEED Destiny)[52.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b2e8466c782caed139ed1487f7d74f287cf01ae8</link>
-				<contentLength>56371445760</contentLength>
-				<pubDate>2024-12-13T13:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="56371445760" url="https://mikanani.me/Download/20241213/b2e8466c782caed139ed1487f7d74f287cf01ae8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
