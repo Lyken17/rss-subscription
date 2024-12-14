@@ -56746,5 +56746,38 @@
       "title_jp": null,
       "size": "534.49 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f3b04c28fe002d1597c40b550c2b2e3ad5de7482",
+    "title": "[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P]",
+    "description": "[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P][5.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f3b04c28fe002d1597c40b550c2b2e3ad5de7482",
+      "contentLength": "5583457280",
+      "pubDate": "2024-12-14T13:09:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "5583457280",
+      "@url": "https://mikanani.me/Download/20241214/f3b04c28fe002d1597c40b550c2b2e3ad5de7482.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "未知",
+      "resolution": "2160P",
+      "episode": "1-70",
+      "season": 1,
+      "title_zh": "别惹流氓兔马修",
+      "sub": "国语中字",
+      "title_jp": "未知",
+      "season_raw": "第1季",
+      "source": "WEB-MKV",
+      "size": "5.2GB"
+    }
   }
 ]

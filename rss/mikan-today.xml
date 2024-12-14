@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/f3b04c28fe002d1597c40b550c2b2e3ad5de7482</link>
+			<title>[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P]</title>
+			<description>[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P][5.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3b04c28fe002d1597c40b550c2b2e3ad5de7482</link>
+				<contentLength>5583457280</contentLength>
+				<pubDate>2024-12-14T13:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20241214/f3b04c28fe002d1597c40b550c2b2e3ad5de7482.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a</link>
 			<title>[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-13T02:00:52.481</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751818496" url="https://mikanani.me/Download/20241213/25fa023885597578e986736823d3129ff4329394.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 机械臂 / Mecha-ude (TV) - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c8271a111d9c4bbfef9b89471cb275220eb6b787</link>
-			<title>[Up to 21°C] 机械臂 / Mecha-ude (TV) - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 机械臂 / Mecha-ude (TV) - 11 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c8271a111d9c4bbfef9b89471cb275220eb6b787</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2024-12-13T01:34:47.994</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241213/c8271a111d9c4bbfef9b89471cb275220eb6b787.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
