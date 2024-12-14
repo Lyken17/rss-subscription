@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/25d42df602177bc2d3eaf68546cdddf91cb93ee9</link>
-			<title>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 10 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25d42df602177bc2d3eaf68546cdddf91cb93ee9</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2024-12-07T03:32:42.777</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241207/25d42df602177bc2d3eaf68546cdddf91cb93ee9.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Mahoutsukai ni Narenakatta Onnanoko no Hanashi</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>10</episode>
-				<season>1</season>
-				<source>CR</source>
-				<title_zh>当不成魔法师的女孩</title_zh>
-				<sub>None</sub>
-				<title_jp>マ Houtsukai ni Narenakatta Onnanoko no Hanashi</title_jp>
-				<size>1.35 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][简日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/36bdfefe35ab4406eb54ec444ebc5134614c2faf</link>
 			<title>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][10][1080p][简日双语][招募翻译]</title>
@@ -15256,6 +15232,30 @@
 				<season_raw>第四季</season_raw>
 				<source>WEB-MKV</source>
 				<size>1.1GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a</link>
+			<title>[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[534.49 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a</link>
+				<contentLength>560453376</contentLength>
+				<pubDate>2024-12-14T12:02:45.774</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="560453376" url="https://mikanani.me/Download/20241214/770650ad3dee4310dab1b6e4a69ed433aa3fec2a.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>B-Global Donghua</group>
+				<title_en>One Way or Another</title_en>
+				<resolution>1080p</resolution>
+				<episode>12</episode>
+				<season>1</season>
+				<source>MKV</source>
+				<title_zh>大道朝天</title_zh>
+				<sub>HEVC AAC</sub>
+				<title_jp></title_jp>
+				<size>534.49 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>

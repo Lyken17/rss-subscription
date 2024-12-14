@@ -56714,5 +56714,37 @@
       "source": "WEB-MKV",
       "size": "1.1GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a",
+    "title": "[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[534.49 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a",
+      "contentLength": "560453376",
+      "pubDate": "2024-12-14T12:02:45.774"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "560453376",
+      "@url": "https://mikanani.me/Download/20241214/770650ad3dee4310dab1b6e4a69ed433aa3fec2a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "B-Global Donghua",
+      "title_en": "One Way or Another",
+      "resolution": "1080p",
+      "episode": 12,
+      "season": 1,
+      "source": "MKV",
+      "title_zh": "大道朝天",
+      "sub": "HEVC AAC",
+      "title_jp": null,
+      "size": "534.49 MB"
+    }
   }
 ]
