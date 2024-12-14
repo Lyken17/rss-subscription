@@ -59538,5 +59538,71 @@
       "source": "''",
       "size": "144.89 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 11 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/530cb7c250f80d2b56a2743f4cea6800db63a7e3",
+    "title": "[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 11 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 11 (ABEMA 1920x1080 AVC AAC MP4)[346.28 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/530cb7c250f80d2b56a2743f4cea6800db63a7e3",
+      "contentLength": "363100896",
+      "pubDate": "2024-12-15T02:45:33.796"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "363100896",
+      "@url": "https://mikanani.me/Download/20241215/530cb7c250f80d2b56a2743f4cea6800db63a7e3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Maarui Kanojo to Zannen na Kareshi",
+      "resolution": "1080",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "棉花糖女孩遇上闷骚男孩",
+      "sub": "NA",
+      "title_jp": "Maarui Kanojo to Zannen na Kareshi",
+      "size": "346.28 MB",
+      "season_raw": "ABEMA 1920x1080",
+      "source": "NA"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 11 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ef693c27d652b25756d17f8437846cb9acd75aea",
+    "title": "[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 11 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Thunderbolt Fantasy 东离剑游纪 4 / Thunderbolt Fantasy: Touriken Yuuki 4 - 11 (ABEMA 1920x1080 AVC AAC MP4)[719.72 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ef693c27d652b25756d17f8437846cb9acd75aea",
+      "contentLength": "754681088",
+      "pubDate": "2024-12-15T02:30:50.079"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "754681088",
+      "@url": "https://mikanani.me/Download/20241215/ef693c27d652b25756d17f8437846cb9acd75aea.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Thunderbolt Fantasy",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 4,
+      "title_zh": "东离剑游纪",
+      "sub": "ABEMA",
+      "title_jp": "Thunderbolt Fantasy: Touriken Yuuki",
+      "season_raw": "4 / Thunderbolt Fantasy: Touriken Yuuki 4",
+      "source": "None",
+      "size": "719.72 MB"
+    }
   }
 ]
