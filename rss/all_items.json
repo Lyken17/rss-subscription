@@ -59604,5 +59604,70 @@
       "source": "None",
       "size": "719.72 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 女仆冥土小姐 / Kimi wa Meido-sama. - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7f3e68df796446af5bbf57faac8f890b0c1e4369",
+    "title": "[Up to 21°C] 女仆冥土小姐 / Kimi wa Meido-sama. - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 女仆冥土小姐 / Kimi wa Meido-sama. - 11 (CR 1920x1080 AVC AAC MKV)[1.31 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7f3e68df796446af5bbf57faac8f890b0c1e4369",
+      "contentLength": "1406601728",
+      "pubDate": "2024-12-15T03:48:09.309"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1406601728",
+      "@url": "https://mikanani.me/Download/20241215/7f3e68df796446af5bbf57faac8f890b0c1e4369.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": null,
+      "title_en": "Kimi wa Meido-sama.",
+      "resolution": "1920x1080",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "女仆冥土小姐",
+      "sub": null,
+      "title_jp": null,
+      "season_raw": null,
+      "source": null,
+      "size": "1.31 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 被逐出队伍的治愈师，其实是最强 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/85d37dedf753f92d6e352844ea5161744b94c80e",
+    "title": "[Up to 21°C] 被逐出队伍的治愈师，其实是最强 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 被逐出队伍的治愈师，其实是最强 / Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - 11 (CR 1920x1080 AVC AAC MKV)[1.33 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/85d37dedf753f92d6e352844ea5161744b94c80e",
+      "contentLength": "1428076672",
+      "pubDate": "2024-12-15T03:33:27.746"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1428076672",
+      "@url": "https://mikanani.me/Download/20241215/85d37dedf753f92d6e352844ea5161744b94c80e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+      "resolution": "1920x1080",
+      "episode": 11,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "被逐出队伍的治愈师，其实是最强",
+      "sub": "None",
+      "title_jp": "_party kara tsuihou sareta sono chiyushi, jitsu wa saikyou ni tsuki",
+      "size": "1.33 GB"
+    }
   }
 ]
