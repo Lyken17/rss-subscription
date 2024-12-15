@@ -60908,5 +60908,104 @@
       "size": "368.4 MB",
       "season_raw": "2"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 07 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/658d31e69fc5629e247295e14294f7a7fe3f0262",
+    "title": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 07 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 07 (ADN 1920x1080 AVC AAC MKV)[565.64 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/658d31e69fc5629e247295e14294f7a7fe3f0262",
+      "contentLength": "593116544",
+      "pubDate": "2024-12-15T16:04:55.627"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "593116544",
+      "@url": "https://mikanani.me/Download/20241215/658d31e69fc5629e247295e14294f7a7fe3f0262.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ADN",
+      "title_en": "One Piece: Gyojin Tou-hen",
+      "resolution": "1920x1080",
+      "episode": 7,
+      "season": 1,
+      "source": "MKV",
+      "title_zh": "海贼王：鱼人岛篇特别编辑版",
+      "sub": "English",
+      "title_jp": "海贼王：魚人島編 特別編集版",
+      "size": "565.64 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 83 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7bc890ab6bd55b2dd70bc8828e0938f477bee96a",
+    "title": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 83 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 83 (ADN 1920x1080 AVC AAC MKV)[557.47 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7bc890ab6bd55b2dd70bc8828e0938f477bee96a",
+      "contentLength": "584549632",
+      "pubDate": "2024-12-15T16:04:36.923"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "584549632",
+      "@url": "https://mikanani.me/Download/20241215/7bc890ab6bd55b2dd70bc8828e0938f477bee96a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Tousouchuu: Great Mission",
+      "resolution": "1920x1080",
+      "episode": 83,
+      "season": 1,
+      "source": "ADN",
+      "title_zh": "逃走中 GREAT MISSION",
+      "sub": "AVC AAC MKV",
+      "title_jp": "逃走中 GREAT MISSION",
+      "size": "557.47 MB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 32 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)"
+    },
+    "link": "https://mikanani.me/Home/Episode/c9ea31adbc79b4dd2b3460327ee4b618057be400",
+    "title": "[jibaketa合成&音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 32 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)",
+    "description": "[jibaketa合成&音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 32 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[733.43 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c9ea31adbc79b4dd2b3460327ee4b618057be400",
+      "contentLength": "769057088",
+      "pubDate": "2024-12-15T15:35:44.341"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "769057088",
+      "@url": "https://mikanani.me/Download/20241215/c9ea31adbc79b4dd2b3460327ee4b618057be400.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "jibaketa合成&音频压制",
+      "title_en": "Wonderful Precure",
+      "resolution": "1920x1080",
+      "episode": 32,
+      "season": 1,
+      "source": "WEB",
+      "title_zh": "美妙宠物 光之美少女！",
+      "sub": "无字幕",
+      "title_jp": "",
+      "size": "733.43 MB",
+      "season_raw": "ViuTV粤语"
+    }
   }
 ]
