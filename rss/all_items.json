@@ -61298,5 +61298,71 @@
       "title_jp": "香格里拉・开拓异境～粪作猎手挑战神作～",
       "size": "620.9 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7020ed9738d122393c916f92ee6add281dc789f4",
+    "title": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7020ed9738d122393c916f92ee6add281dc789f4",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-15T18:03:26.112"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241215/7020ed9738d122393c916f92ee6add281dc789f4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Fairy Tail: 100-nen Quest",
+      "resolution": "1920x1080",
+      "episode": 23,
+      "season": 1,
+      "source": "CR",
+      "title_zh": "魔导少年 百年任务",
+      "sub": "MKV",
+      "title_jp": "百年任务",
+      "size": "1.35 GB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/1ddd8f51b494e5762b848bcd90c6dd0395fd2107",
+    "title": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (ADN 1920x1080 AVC AAC MKV)[571.55 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1ddd8f51b494e5762b848bcd90c6dd0395fd2107",
+      "contentLength": "599313600",
+      "pubDate": "2024-12-15T17:37:13.365"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "599313600",
+      "@url": "https://mikanani.me/Download/20241215/1ddd8f51b494e5762b848bcd90c6dd0395fd2107.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Fairy Tail: 100-nen Quest",
+      "resolution": "1080p",
+      "episode": 23,
+      "season": 1,
+      "title_zh": "魔导少年 百年任务",
+      "sub": "ADN",
+      "title_jp": "Fairy Tail",
+      "season_raw": "ADN 1920x1080 AVC AAC",
+      "source": "MKV",
+      "size": "571.55 MB"
+    }
   }
 ]
