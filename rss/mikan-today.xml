@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 44 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/10027d45ea3701d7268dcdbe5fb1c3a7c63141e5</link>
+			<title>[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 44 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 44 (ABEMA 1920x1080 AVC AAC MP4)[726.03 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10027d45ea3701d7268dcdbe5fb1c3a7c63141e5</link>
+				<contentLength>761297664</contentLength>
+				<pubDate>2024-12-15T07:30:46.535</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761297664" url="https://mikanani.me/Download/20241215/10027d45ea3701d7268dcdbe5fb1c3a7c63141e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka： Familia Myth V [10][1080p][简繁内封][v2]</guid>
 			<link>https://mikanani.me/Home/Episode/b63ecdacdfbd096b8dc05b5b0b55730ba53d1f28</link>
 			<title>[桜都字幕组] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka： Familia Myth V [10][1080p][简繁内封][v2]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-14T12:02:45.774</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="560453376" url="https://mikanani.me/Download/20241214/770650ad3dee4310dab1b6e4a69ed433aa3fec2a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第79集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/0deb590fc3b12e9c036e1e40cbac97f3c15eafa7</link>
-			<title>[斗罗大陆2绝世唐门][第79集][国语中字][WEB-MKV][2160P]</title>
-			<description>[斗罗大陆2绝世唐门][第79集][国语中字][WEB-MKV][2160P][1.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0deb590fc3b12e9c036e1e40cbac97f3c15eafa7</link>
-				<contentLength>1717986944</contentLength>
-				<pubDate>2024-12-14T10:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20241214/0deb590fc3b12e9c036e1e40cbac97f3c15eafa7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

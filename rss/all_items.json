@@ -59930,5 +59930,37 @@
       "season_raw": "第五季",
       "source": ""
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 44 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/10027d45ea3701d7268dcdbe5fb1c3a7c63141e5",
+    "title": "[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 44 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 44 (ABEMA 1920x1080 AVC AAC MP4)[726.03 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/10027d45ea3701d7268dcdbe5fb1c3a7c63141e5",
+      "contentLength": "761297664",
+      "pubDate": "2024-12-15T07:30:46.535"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "761297664",
+      "@url": "https://mikanani.me/Download/20241215/10027d45ea3701d7268dcdbe5fb1c3a7c63141e5.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Wonderful Precure! / Wonderful 光之美少女！",
+      "resolution": "1080p",
+      "episode": 44,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "Wonderful 光之美少女！",
+      "sub": "None",
+      "title_jp": "Wonderful 光之美少女！",
+      "size": "726.03 MB"
+    }
   }
 ]
