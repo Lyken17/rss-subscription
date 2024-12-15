@@ -61785,5 +61785,71 @@
       "size": "523.37 MB",
       "season_raw": "22"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组】★10月新番[冻牌][09-11][1080P][简体][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/f52d1b7a46795ddaec9846c889aa2121ef946b6f",
+    "title": "【动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组】★10月新番[冻牌][09-11][1080P][简体][MP4]",
+    "description": "【动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组】★10月新番[冻牌][09-11][1080P][简体][MP4][1.14 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f52d1b7a46795ddaec9846c889aa2121ef946b6f",
+      "contentLength": "1224065664",
+      "pubDate": "2024-12-15T21:16:33.333"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1224065664",
+      "@url": "https://mikanani.me/Download/20241215/f52d1b7a46795ddaec9846c889aa2121ef946b6f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组",
+      "title_en": null,
+      "resolution": "1080P",
+      "episode": "09-11",
+      "season": 1,
+      "title_zh": "冻牌",
+      "sub": "简体",
+      "title_jp": null,
+      "season_raw": "10月新番",
+      "source": null,
+      "size": "1.14 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组】★10月新番[冻牌][09-11][1080P][繁体][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/de68074c3e5c3b684e48a1df136ff4faa8cc8bd0",
+    "title": "【动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组】★10月新番[冻牌][09-11][1080P][繁体][MP4]",
+    "description": "【动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组】★10月新番[冻牌][09-11][1080P][繁体][MP4][1.14 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/de68074c3e5c3b684e48a1df136ff4faa8cc8bd0",
+      "contentLength": "1224065664",
+      "pubDate": "2024-12-15T21:16:14.338"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1224065664",
+      "@url": "https://mikanani.me/Download/20241215/de68074c3e5c3b684e48a1df136ff4faa8cc8bd0.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "动漫国字幕组&澄空学园&华盟字幕社&千夏字幕组",
+      "title_en": null,
+      "resolution": "1080P",
+      "episode": "09-11",
+      "season": 1,
+      "title_zh": "冻牌",
+      "sub": "繁体",
+      "title_jp": null,
+      "season_raw": "10月新番",
+      "source": null,
+      "size": "1.14 GB"
+    }
   }
 ]
