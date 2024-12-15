@@ -60355,5 +60355,135 @@
       "season_raw": "TV动画+OVA+剧场版+漫画+CD+其他",
       "size": "34.3GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[LoliHouse] 魔王2099 / Maou 2099 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/b369c74599d1be66f1bceeddd4ee5965087b3712",
+    "title": "[LoliHouse] 魔王2099 / Maou 2099 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+    "description": "[LoliHouse] 魔王2099 / Maou 2099 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][546.48 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/b369c74599d1be66f1bceeddd4ee5965087b3712",
+      "contentLength": "573025792",
+      "pubDate": "2024-12-15T12:11:25.341"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "573025792",
+      "@url": "https://mikanani.me/Download/20241215/b369c74599d1be66f1bceeddd4ee5965087b3712.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "LoliHouse",
+      "title_en": "Maou 2099",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "魔王2099",
+      "sub": "简繁内封字幕",
+      "title_jp": "Maou 2099",
+      "size": "546.48 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[喵萌奶茶屋&VCB-Studio] 间谍教室 / Spy Room / スパイ教室 10-bit 1080p HEVC BDRip [S1-S2 Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/90a7e3325a32649d3009f7e7dee4f6cbe08b8af8",
+    "title": "[喵萌奶茶屋&VCB-Studio] 间谍教室 / Spy Room / スパイ教室 10-bit 1080p HEVC BDRip [S1-S2 Fin]",
+    "description": "[喵萌奶茶屋&VCB-Studio] 间谍教室 / Spy Room / スパイ教室 10-bit 1080p HEVC BDRip [S1-S2 Fin][28.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/90a7e3325a32649d3009f7e7dee4f6cbe08b8af8",
+      "contentLength": "30816391168",
+      "pubDate": "2024-12-15T11:57:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "30816391168",
+      "@url": "https://mikanani.me/Download/20241215/90a7e3325a32649d3009f7e7dee4f6cbe08b8af8.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "喵萌奶茶屋&VCB-Studio",
+      "title_en": "Spy Room",
+      "resolution": "1080p",
+      "episode": "S1-S2 Fin",
+      "season": 1,
+      "title_zh": "间谍教室",
+      "sub": "28.7GB",
+      "title_jp": "スパイ教室",
+      "season_raw": "S1-S2 Fin",
+      "source": "BDRip",
+      "size": "28.7GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][45][720p][简体内嵌](检索:Q娃/プリキュア)"
+    },
+    "link": "https://mikanani.me/Home/Episode/a6c21b326ce6b70240c966dfd804da37978877da",
+    "title": "[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][45][720p][简体内嵌](检索:Q娃/プリキュア)",
+    "description": "[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][45][720p][简体内嵌](检索:Q娃/プリキュア)[289.8MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a6c21b326ce6b70240c966dfd804da37978877da",
+      "contentLength": "303877312",
+      "pubDate": "2024-12-15T11:48:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "303877312",
+      "@url": "https://mikanani.me/Download/20241215/a6c21b326ce6b70240c966dfd804da37978877da.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "雪飘工作室",
+      "title_en": "Wonderful_Precure！",
+      "resolution": "720p",
+      "episode": 45,
+      "season": 1,
+      "source": "检索",
+      "title_zh": "汪分精彩光之美少女！",
+      "sub": "简体内嵌",
+      "title_jp": "わんだふるぷりきゅあ！",
+      "size": "289.8MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[牧神记][第9集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/5b3e1f2450a2a375e0aae2a10d4f0a40ba565d2e",
+    "title": "[牧神记][第9集][国语中字][WEB-MKV][2160P]",
+    "description": "[牧神记][第9集][国语中字][WEB-MKV][2160P][2.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5b3e1f2450a2a375e0aae2a10d4f0a40ba565d2e",
+      "contentLength": "2684354560",
+      "pubDate": "2024-12-15T11:41:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2684354560",
+      "@url": "https://mikanani.me/Download/20241215/5b3e1f2450a2a375e0aae2a10d4f0a40ba565d2e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "牧神记",
+      "resolution": "2160P",
+      "episode": 9,
+      "season": 1,
+      "title_zh": "牧神记",
+      "sub": "国语中字",
+      "title_jp": "牧神记",
+      "season_raw": "第9集",
+      "source": "WEB-MKV",
+      "size": "2.5GB"
+    }
   }
 ]
