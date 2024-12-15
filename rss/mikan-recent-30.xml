@@ -47712,5 +47712,30 @@
 				<season_raw>UP to 21°C</season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9a302d2c94fcf416a790a845efda4488d6195a98</link>
+			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 09 (ABEMA 1920x1080 AVC AAC MP4)[311.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a302d2c94fcf416a790a845efda4488d6195a98</link>
+				<contentLength>326128096</contentLength>
+				<pubDate>2024-12-16T03:15:33.168</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="326128096" url="https://mikanani.me/Download/20241216/9a302d2c94fcf416a790a845efda4488d6195a98.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Tono to Inu</title_en>
+				<resolution>1080p</resolution>
+				<episode>9</episode>
+				<season>1</season>
+				<title_zh>殿下与狗</title_zh>
+				<sub>None</sub>
+				<title_jp>トーノとイヌ</title_jp>
+				<season_raw>ABEMA</season_raw>
+				<source>None</source>
+				<size>311.02 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
