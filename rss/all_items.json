@@ -63304,5 +63304,38 @@
       "title_jp": "Puniru wa Kawaii Slime",
       "size": "716.7 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 12 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/415984664ec16f68144ee10ddaec741c269ee848",
+    "title": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 12 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 一兆＄游戏 / Trillion Game - 12 (ABEMA 1920x1080 AVC AAC MP4)[727.47 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/415984664ec16f68144ee10ddaec741c269ee848",
+      "contentLength": "762807552",
+      "pubDate": "2024-12-16T03:00:46.628"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "762807552",
+      "@url": "https://mikanani.me/Download/20241216/415984664ec16f68144ee10ddaec741c269ee848.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ABEMA",
+      "title_en": "Trillion Game",
+      "resolution": "1080p",
+      "episode": 12,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "一兆$游戏",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "727.47 MB",
+      "season_raw": "UP to 21°C"
+    }
   }
 ]
