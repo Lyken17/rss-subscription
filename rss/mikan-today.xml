@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 12 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/cc4b1152a681b01b42d620b8e5fd2ad4f3564c7d</link>
+			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 12 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 12 (B-Global Donghua 2048x870 HEVC AAC MKV)[607.77 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cc4b1152a681b01b42d620b8e5fd2ad4f3564c7d</link>
+				<contentLength>637293056</contentLength>
+				<pubDate>2024-12-16T10:03:10.03</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="637293056" url="https://mikanani.me/Download/20241216/cc4b1152a681b01b42d620b8e5fd2ad4f3564c7d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：噗尼露)</guid>
 			<link>https://mikanani.me/Home/Episode/0c625be87cbe68b5ab749f0c0296000fa9f55b44</link>
 			<title>[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：噗尼露)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-15T11:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20241215/5b3e1f2450a2a375e0aae2a10d4f0a40ba565d2e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 魔王2099 / Maou 2099 - 10 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/684d7c184c8dc8ac1bf0b6f6972af647e6e39839</link>
-			<title>[Skymoon-Raws] 魔王2099 / Maou 2099 - 10 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 魔王2099 / Maou 2099 - 10 [ViuTV][WEB-DL][1080p][AVC AAC][409.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/684d7c184c8dc8ac1bf0b6f6972af647e6e39839</link>
-				<contentLength>429391872</contentLength>
-				<pubDate>2024-12-15T10:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="429391872" url="https://mikanani.me/Download/20241215/684d7c184c8dc8ac1bf0b6f6972af647e6e39839.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
