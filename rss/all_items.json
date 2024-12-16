@@ -66320,6 +66320,19 @@
       "@type": "application/x-bittorrent",
       "@length": "43673192",
       "@url": "https://mikanani.me/Download/20241217/64cf94d827ff7e65287a0fb87b97c2d6caa2651d.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Neko ni Tensei shita Ojisan",
+      "resolution": "1080p",
+      "episode": 10,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "转生成猫咪的大叔",
+      "sub": "None",
+      "title_jp": "ネコに転生したオジサン",
+      "season_raw": "1920x1080",
+      "size": "41.65 MB"
     }
   },
   {
@@ -66385,6 +66398,102 @@
       "season_raw": "2",
       "source": "1.36 GB",
       "size": "1.36 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简繁日内封]"
+    },
+    "link": "https://mikanani.me/Home/Episode/c023b10d6004033c36fbfd560962d48598868759",
+    "title": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简繁日内封]",
+    "description": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简繁日内封][145.55 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c023b10d6004033c36fbfd560962d48598868759",
+      "contentLength": "152620240",
+      "pubDate": "2024-12-17T03:16:36.318"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "152620240",
+      "@url": "https://mikanani.me/Download/20241217/c023b10d6004033c36fbfd560962d48598868759.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "北宇治字幕组",
+      "title_en": "Chikyuu no Undou ni Tsuite",
+      "resolution": "HEVC",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "关于地球的运动",
+      "sub": "简繁日内封",
+      "title_jp": "地。-关于地球的运动-",
+      "size": "145.55 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/e59a0ab6973a5e86e9ec18fdb5658480fd339e47",
+    "title": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简日内嵌]",
+    "description": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简日内嵌][154.89 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/e59a0ab6973a5e86e9ec18fdb5658480fd339e47",
+      "contentLength": "162413936",
+      "pubDate": "2024-12-17T03:16:30.06"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "162413936",
+      "@url": "https://mikanani.me/Download/20241217/e59a0ab6973a5e86e9ec18fdb5658480fd339e47.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "北宇治字幕组",
+      "title_en": "Chi. Chikyuu no Undou ni Tsuite",
+      "resolution": "HEVC",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "关于地球的运动",
+      "sub": "简日内嵌",
+      "title_jp": "地。-关于地球的运动-",
+      "size": "154.89 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][繁日内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/2d683b4c903ae82599a6fe28a5786505bd859759",
+    "title": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][繁日内嵌]",
+    "description": "[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][繁日内嵌][154.97 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2d683b4c903ae82599a6fe28a5786505bd859759",
+      "contentLength": "162497824",
+      "pubDate": "2024-12-17T03:16:22.167"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "162497824",
+      "@url": "https://mikanani.me/Download/20241217/2d683b4c903ae82599a6fe28a5786505bd859759.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "北宇治字幕组",
+      "title_en": "Chi. Chikyuu no Undou ni Tsuite",
+      "resolution": "HEVC",
+      "episode": 11,
+      "season": 1,
+      "source": "WebRip",
+      "title_zh": "关于地球的运动",
+      "sub": "繁日内嵌",
+      "title_jp": "地。-关于地球的运动-",
+      "size": "154.97 MB"
     }
   }
 ]

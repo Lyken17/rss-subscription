@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b1d4e496b5f33a574da3f3e98496901c8f3ed536</link>
-			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1144 (ADN 1920x1080 AVC AAC MKV)[580.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b1d4e496b5f33a574da3f3e98496901c8f3ed536</link>
-				<contentLength>608698368</contentLength>
-				<pubDate>2024-12-09T19:35:32.759</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="608698368" url="https://mikanani.me/Download/20241209/b1d4e496b5f33a574da3f3e98496901c8f3ed536.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Detective Conan</title_en>
-				<resolution>1080p</resolution>
-				<episode>1144</episode>
-				<season>1</season>
-				<source>ADN</source>
-				<title_zh>名侦探柯南</title_zh>
-				<sub>AVC AAC</sub>
-				<title_jp>名探偵コナン</title_jp>
-				<size>580.5 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 超自然武装当哒当 / Dan Da Dan [10][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/90e185f083c03d2430c8c4b83740b12a48942a13</link>
 			<title>[桜都字幕组] 超自然武装当哒当 / Dan Da Dan [10][1080p][简繁内封]</title>
@@ -15526,6 +15502,19 @@
 				<pubDate>2024-12-17T02:45:34.626</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="43673192" url="https://mikanani.me/Download/20241217/64cf94d827ff7e65287a0fb87b97c2d6caa2651d.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Up to 21°C</group>
+				<title_en>Neko ni Tensei shita Ojisan</title_en>
+				<resolution>1080p</resolution>
+				<episode>10</episode>
+				<season>1</season>
+				<source>ABEMA</source>
+				<title_zh>转生成猫咪的大叔</title_zh>
+				<sub>None</sub>
+				<title_jp>ネコに転生したオジサン</title_jp>
+				<season_raw>1920x1080</season_raw>
+				<size>41.65 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 		<item>
 			<guid isPermaLink="false">[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
@@ -15574,6 +15563,78 @@
 				<season_raw>2</season_raw>
 				<source>1.36 GB</source>
 				<size>1.36 GB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/c023b10d6004033c36fbfd560962d48598868759</link>
+			<title>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简繁日内封]</title>
+			<description>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简繁日内封][145.55 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c023b10d6004033c36fbfd560962d48598868759</link>
+				<contentLength>152620240</contentLength>
+				<pubDate>2024-12-17T03:16:36.318</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="152620240" url="https://mikanani.me/Download/20241217/c023b10d6004033c36fbfd560962d48598868759.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>北宇治字幕组</group>
+				<title_en>Chikyuu no Undou ni Tsuite</title_en>
+				<resolution>HEVC</resolution>
+				<episode>11</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>关于地球的运动</title_zh>
+				<sub>简繁日内封</sub>
+				<title_jp>地。-关于地球的运动-</title_jp>
+				<size>145.55 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e59a0ab6973a5e86e9ec18fdb5658480fd339e47</link>
+			<title>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简日内嵌]</title>
+			<description>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][简日内嵌][154.89 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e59a0ab6973a5e86e9ec18fdb5658480fd339e47</link>
+				<contentLength>162413936</contentLength>
+				<pubDate>2024-12-17T03:16:30.06</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="162413936" url="https://mikanani.me/Download/20241217/e59a0ab6973a5e86e9ec18fdb5658480fd339e47.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>北宇治字幕组</group>
+				<title_en>Chi. Chikyuu no Undou ni Tsuite</title_en>
+				<resolution>HEVC</resolution>
+				<episode>11</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>关于地球的运动</title_zh>
+				<sub>简日内嵌</sub>
+				<title_jp>地。-关于地球的运动-</title_jp>
+				<size>154.89 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/2d683b4c903ae82599a6fe28a5786505bd859759</link>
+			<title>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][繁日内嵌]</title>
+			<description>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [11][WebRip][HEVC_AAC][繁日内嵌][154.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2d683b4c903ae82599a6fe28a5786505bd859759</link>
+				<contentLength>162497824</contentLength>
+				<pubDate>2024-12-17T03:16:22.167</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="162497824" url="https://mikanani.me/Download/20241217/2d683b4c903ae82599a6fe28a5786505bd859759.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>北宇治字幕组</group>
+				<title_en>Chi. Chikyuu no Undou ni Tsuite</title_en>
+				<resolution>HEVC</resolution>
+				<episode>11</episode>
+				<season>1</season>
+				<source>WebRip</source>
+				<title_zh>关于地球的运动</title_zh>
+				<sub>繁日内嵌</sub>
+				<title_jp>地。-关于地球的运动-</title_jp>
+				<size>154.97 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 	</channel>
