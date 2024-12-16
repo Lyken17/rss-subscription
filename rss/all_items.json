@@ -64741,5 +64741,69 @@
       "size": "62.08 MB",
       "season_raw": "09"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3abef6a51cfe1291f66a9f33b245b81ac511c3fb",
+    "title": "[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][556.4 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3abef6a51cfe1291f66a9f33b245b81ac511c3fb",
+      "contentLength": "583427712",
+      "pubDate": "2024-12-16T17:31:21.783288"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "583427712",
+      "@url": "https://mikanani.me/Download/20241216/3abef6a51cfe1291f66a9f33b245b81ac511c3fb.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "ANi",
+      "title_en": "LoveLive! SuperStar!!",
+      "resolution": "1080P",
+      "episode": 11,
+      "season": 3,
+      "source": "WEB-DL",
+      "title_zh": "LoveLive! SuperStar!!",
+      "sub": "CHT",
+      "title_jp": "LoveLive! SuperStar!!",
+      "size": "556.4 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5",
+    "title": "[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)[555.79 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5",
+      "contentLength": "582788032",
+      "pubDate": "2024-12-16T17:31:19.121"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "582788032",
+      "@url": "https://mikanani.me/Download/20241216/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Unknown",
+      "title_en": "Love Live! Superstar!! 3rd Season",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 3,
+      "source": "Unknown",
+      "title_zh": "LoveLive! SuperStar!! 第三季",
+      "sub": "Unknown",
+      "title_jp": "Love Live! Superstar!! 3rd Season",
+      "size": "555.79 MB"
+    }
   }
 ]

@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/3abef6a51cfe1291f66a9f33b245b81ac511c3fb</link>
+			<title>[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][556.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3abef6a51cfe1291f66a9f33b245b81ac511c3fb</link>
+				<contentLength>583427712</contentLength>
+				<pubDate>2024-12-16T17:31:21.783288</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="583427712" url="https://mikanani.me/Download/20241216/3abef6a51cfe1291f66a9f33b245b81ac511c3fb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5</link>
+			<title>[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)[555.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5</link>
+				<contentLength>582788032</contentLength>
+				<pubDate>2024-12-16T17:31:19.121</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="582788032" url="https://mikanani.me/Download/20241216/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Bananya /  香蕉喵游世界 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/d9d465e3181aa809f09efcc41ff76e73f803ea70</link>
 			<title>[ANi] Bananya /  香蕉喵游世界 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2024-12-15T19:30:48.08</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="548793216" url="https://mikanani.me/Download/20241215/2577b80fbc5b992b28d336dce0841eea59218ed7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 常轨脱离Creative / Hamidashi Creative [11][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/ab3aab5b1de9215eba27a9bf332151a0ebcdf5f1</link>
-			<title>[桜都字幕组] 常轨脱离Creative / Hamidashi Creative [11][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 常轨脱离Creative / Hamidashi Creative [11][1080p][简繁内封][120.92 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ab3aab5b1de9215eba27a9bf332151a0ebcdf5f1</link>
-				<contentLength>126793808</contentLength>
-				<pubDate>2024-12-15T19:06:05.549</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="126793808" url="https://mikanani.me/Download/20241215/ab3aab5b1de9215eba27a9bf332151a0ebcdf5f1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 常轨脱离Creative / Hamidashi Creative [11][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/772a0bba274403f5d7cb7e3f3d3635e8982db764</link>
-			<title>[桜都字幕组] 常轨脱离Creative / Hamidashi Creative [11][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 常轨脱离Creative / Hamidashi Creative [11][1080p][繁体内嵌][88.11 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/772a0bba274403f5d7cb7e3f3d3635e8982db764</link>
-				<contentLength>92390032</contentLength>
-				<pubDate>2024-12-15T19:05:16.365</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="92390032" url="https://mikanani.me/Download/20241215/772a0bba274403f5d7cb7e3f3d3635e8982db764.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

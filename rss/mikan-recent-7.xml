@@ -15124,5 +15124,53 @@
 				<season_raw>09</season_raw>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
+		<item>
+			<guid isPermaLink="false">[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/3abef6a51cfe1291f66a9f33b245b81ac511c3fb</link>
+			<title>[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi]  LoveLive! SuperStar!! 第三季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][556.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3abef6a51cfe1291f66a9f33b245b81ac511c3fb</link>
+				<contentLength>583427712</contentLength>
+				<pubDate>2024-12-16T17:31:21.783288</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="583427712" url="https://mikanani.me/Download/20241216/3abef6a51cfe1291f66a9f33b245b81ac511c3fb.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>ANi</group>
+				<title_en>LoveLive! SuperStar!!</title_en>
+				<resolution>1080P</resolution>
+				<episode>11</episode>
+				<season>3</season>
+				<source>WEB-DL</source>
+				<title_zh>LoveLive! SuperStar!!</title_zh>
+				<sub>CHT</sub>
+				<title_jp>LoveLive! SuperStar!!</title_jp>
+				<size>556.4 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5</link>
+			<title>[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] LoveLive! SuperStar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (Baha 1920x1080 AVC AAC MP4)[555.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5</link>
+				<contentLength>582788032</contentLength>
+				<pubDate>2024-12-16T17:31:19.121</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="582788032" url="https://mikanani.me/Download/20241216/c0c6d96bb0e4fc6705600cdcf70ec971808b8bb5.torrent"></enclosure>
+			<parsed_Qwen--Qwen2.5-7B-Instruct>
+				<group>Unknown</group>
+				<title_en>Love Live! Superstar!! 3rd Season</title_en>
+				<resolution>1080p</resolution>
+				<episode>11</episode>
+				<season>3</season>
+				<source>Unknown</source>
+				<title_zh>LoveLive! SuperStar!! 第三季</title_zh>
+				<sub>Unknown</sub>
+				<title_jp>Love Live! Superstar!! 3rd Season</title_jp>
+				<size>555.79 MB</size>
+			</parsed_Qwen--Qwen2.5-7B-Instruct>
+		</item>
 	</channel>
 </rss>
