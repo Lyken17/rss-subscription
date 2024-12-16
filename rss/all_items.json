@@ -64903,5 +64903,135 @@
       "size": "1.15 GB",
       "season_raw": "16 [粤日双语+内封繁体中文字幕]"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[吞噬星空][第150集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/6dff62f7bd251d9f7e92dd7132484d7a68805901",
+    "title": "[吞噬星空][第150集][国语中字][WEB-MKV][2160P]",
+    "description": "[吞噬星空][第150集][国语中字][WEB-MKV][2160P][1011.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6dff62f7bd251d9f7e92dd7132484d7a68805901",
+      "contentLength": "1061054080",
+      "pubDate": "2024-12-16T20:21:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1061054080",
+      "@url": "https://mikanani.me/Download/20241216/6dff62f7bd251d9f7e92dd7132484d7a68805901.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "吞食星空",
+      "resolution": "2160P",
+      "episode": 150,
+      "season": 1,
+      "title_zh": "吞噬星空",
+      "sub": "国语中字",
+      "title_jp": "未知",
+      "size": "1011.9MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] 超自然武装当哒当 / Dan Da Dan [11][1080p][简繁内封]"
+    },
+    "link": "https://mikanani.me/Home/Episode/c7669ba2d6c5d16708cc48e5d4764d4c738a6811",
+    "title": "[桜都字幕组] 超自然武装当哒当 / Dan Da Dan [11][1080p][简繁内封]",
+    "description": "[桜都字幕组] 超自然武装当哒当 / Dan Da Dan [11][1080p][简繁内封][553.74 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c7669ba2d6c5d16708cc48e5d4764d4c738a6811",
+      "contentLength": "580638464",
+      "pubDate": "2024-12-16T20:10:13.595"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "580638464",
+      "@url": "https://mikanani.me/Download/20241216/c7669ba2d6c5d16708cc48e5d4764d4c738a6811.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "桜都字幕组",
+      "title_en": "Dan Da Dan",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "超自然武装当哒当",
+      "sub": "简繁内封",
+      "title_jp": "Dan Da Dan",
+      "season_raw": "[11]",
+      "source": "None",
+      "size": "553.74 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] 胆大党 / Dan Da Dan [11][1080p][繁体内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9dac7252bde29aebb470400c631f16b164ffcdc3",
+    "title": "[桜都字幕组] 胆大党 / Dan Da Dan [11][1080p][繁体内嵌]",
+    "description": "[桜都字幕组] 胆大党 / Dan Da Dan [11][1080p][繁体内嵌][681.56 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9dac7252bde29aebb470400c631f16b164ffcdc3",
+      "contentLength": "714667456",
+      "pubDate": "2024-12-16T20:08:28.543"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "714667456",
+      "@url": "https://mikanani.me/Download/20241216/9dac7252bde29aebb470400c631f16b164ffcdc3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "桜都字幕组",
+      "title_en": "Dan Da Dan",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 1,
+      "title_zh": "胆大党",
+      "sub": "繁体内嵌",
+      "title_jp": " ",
+      "size": "681.56 MB",
+      "source": " ",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 名侦探柯南 / Detective Conan - 1145 (ADN 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ffd90f7600bdc95dac6f66cd2ea3e15c070c2c78",
+    "title": "[Up to 21°C] 名侦探柯南 / Detective Conan - 1145 (ADN 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 名侦探柯南 / Detective Conan - 1145 (ADN 1920x1080 AVC AAC MKV)[583.77 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ffd90f7600bdc95dac6f66cd2ea3e15c070c2c78",
+      "contentLength": "612127232",
+      "pubDate": "2024-12-16T19:33:21.301"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "612127232",
+      "@url": "https://mikanani.me/Download/20241216/ffd90f7600bdc95dac6f66cd2ea3e15c070c2c78.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Detective Conan",
+      "resolution": "1080p",
+      "episode": 1145,
+      "season": 1,
+      "title_zh": "名侦探柯南",
+      "sub": "ADN",
+      "title_jp": "名探偵コナン",
+      "season_raw": "ADN",
+      "source": "MKV",
+      "size": "583.77 MB"
+    }
   }
 ]
