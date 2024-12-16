@@ -66204,5 +66204,102 @@
       "title_jp": "精靈幻想記 2",
       "size": "398.6 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/252a3dc697428b3d40fac316d096582ec4ad8bd4",
+    "title": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 11 (ABEMA 1920x1080 AVC AAC MP4)[711.78 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/252a3dc697428b3d40fac316d096582ec4ad8bd4",
+      "contentLength": "746355456",
+      "pubDate": "2024-12-17T02:10:56.038"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "746355456",
+      "@url": "https://mikanani.me/Download/20241217/252a3dc697428b3d40fac316d096582ec4ad8bd4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+      "resolution": "1080",
+      "episode": 11,
+      "season": 1,
+      "source": "ABEMA",
+      "title_zh": "当不成魔法师的女孩",
+      "sub": "AVC AAC MP4",
+      "title_jp": "マホツカイニナレンアカッタオンナノコノハナシ",
+      "size": "711.78 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 夏目友人帐 第七季 / Natsume Yuujinchou Shichi - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ccdb1cd7ced548c7ec791773131b8ccef4b9bb61",
+    "title": "[Up to 21°C] 夏目友人帐 第七季 / Natsume Yuujinchou Shichi - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 夏目友人帐 第七季 / Natsume Yuujinchou Shichi - 11 (CR 1920x1080 AVC AAC MKV)[1.35 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ccdb1cd7ced548c7ec791773131b8ccef4b9bb61",
+      "contentLength": "1449551488",
+      "pubDate": "2024-12-17T02:03:33.678"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1449551488",
+      "@url": "https://mikanani.me/Download/20241217/ccdb1cd7ced548c7ec791773131b8ccef4b9bb61.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Natsume Yuujinchou Shichi",
+      "resolution": "1080",
+      "episode": 11,
+      "season": 7,
+      "source": "CR",
+      "title_zh": "夏目友人帐 第七季",
+      "sub": "AVC AAC",
+      "title_jp": "Natsume Yuujinchou Shichi",
+      "size": "1.35 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 11 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/1b7489b30c14558d40d8adbdc309d3229cdf284f",
+    "title": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 11 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 11 (ABEMA 1920x1080 AVC AAC MP4)[715.54 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1b7489b30c14558d40d8adbdc309d3229cdf284f",
+      "contentLength": "750298048",
+      "pubDate": "2024-12-17T01:40:55.767"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "750298048",
+      "@url": "https://mikanani.me/Download/20241217/1b7489b30c14558d40d8adbdc309d3229cdf284f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Seirei Gensouki 2",
+      "resolution": "1080p",
+      "episode": 11,
+      "season": 2,
+      "title_zh": "精灵幻想记 2",
+      "sub": "None",
+      "title_jp": "セイレーン幻想记",
+      "season_raw": "ABEMA 1920x1080",
+      "source": "None",
+      "size": "715.54 MB"
+    }
   }
 ]
