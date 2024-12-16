@@ -66301,5 +66301,90 @@
       "source": "None",
       "size": "715.54 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 10 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/64cf94d827ff7e65287a0fb87b97c2d6caa2651d",
+    "title": "[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 10 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 10 (ABEMA 1920x1080 AVC AAC MP4)[41.65 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/64cf94d827ff7e65287a0fb87b97c2d6caa2651d",
+      "contentLength": "43673192",
+      "pubDate": "2024-12-17T02:45:34.626"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "43673192",
+      "@url": "https://mikanani.me/Download/20241217/64cf94d827ff7e65287a0fb87b97c2d6caa2651d.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6590074e1f14cdda3a4bf2fa2094968411783df2",
+    "title": "[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)[722.87 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6590074e1f14cdda3a4bf2fa2094968411783df2",
+      "contentLength": "757984128",
+      "pubDate": "2024-12-17T02:40:48.294"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "757984128",
+      "@url": "https://mikanani.me/Download/20241217/6590074e1f14cdda3a4bf2fa2094968411783df2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "The iDOLM@STER Shiny Colors 2nd Season",
+      "resolution": "1080p",
+      "episode": 23,
+      "season": 2,
+      "source": "ABEMA",
+      "title_zh": "偶像大师 闪耀色彩 第二季",
+      "sub": "英文原声",
+      "title_jp": "The iDOLM@STER Shiny Colors 2nd Season",
+      "size": "722.87 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 11 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/7fe9553c238a2bcd9bbfe9e297bff15735c0c606",
+    "title": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 11 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 精灵幻想记 2 / Seirei Gensouki 2 - 11 (CR 1920x1080 AVC AAC MKV)[1.36 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7fe9553c238a2bcd9bbfe9e297bff15735c0c606",
+      "contentLength": "1460288896",
+      "pubDate": "2024-12-17T02:33:08.678"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1460288896",
+      "@url": "https://mikanani.me/Download/20241217/7fe9553c238a2bcd9bbfe9e297bff15735c0c606.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Seirei Gensouki 2",
+      "resolution": "1920x1080",
+      "episode": 11,
+      "season": 2,
+      "title_zh": "精灵幻想记 2",
+      "sub": "CR",
+      "title_jp": "Seirei Gensouki 2",
+      "season_raw": "2",
+      "source": "1.36 GB",
+      "size": "1.36 GB"
+    }
   }
 ]
