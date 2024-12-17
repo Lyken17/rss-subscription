@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/efedb34d58039b2b3b7779746523921067973572</link>
+			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)[713.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/efedb34d58039b2b3b7779746523921067973572</link>
+				<contentLength>748096064</contentLength>
+				<pubDate>2024-12-17T21:00:59.417</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748096064" url="https://mikanani.me/Download/20241217/efedb34d58039b2b3b7779746523921067973572.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[遮天][第88集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/d76a59981bb280bcf5d1fd8d50073f6f60af496f</link>
 			<title>[遮天][第88集][国语中字][WEB-MKV][2160P]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2024-12-16T13:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20241216/faa36f73fa85665e11f2503716a350bc9df1ee15.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</guid>
-			<link>https://mikanani.me/Home/Episode/93e8450f95c9b8a176f4cd12e88112fcf9ced53c</link>
-			<title>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</title>
-			<description>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[105.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/93e8450f95c9b8a176f4cd12e88112fcf9ced53c</link>
-				<contentLength>113494507520</contentLength>
-				<pubDate>2024-12-16T13:14:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="113494507520" url="https://mikanani.me/Download/20241216/93e8450f95c9b8a176f4cd12e88112fcf9ced53c.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</guid>
