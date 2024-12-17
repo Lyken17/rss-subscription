@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 亚托莉 我挚爱的时光/ATRI My Dear Moments S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/2a627f1ee9ce36b43ca333cdd4d123f911b76ecf</link>
+			<title>[7³ACG] 亚托莉 我挚爱的时光/ATRI My Dear Moments S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 亚托莉 我挚爱的时光/ATRI My Dear Moments S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2a627f1ee9ce36b43ca333cdd4d123f911b76ecf</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2024-12-17T14:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20241217/2a627f1ee9ce36b43ca333cdd4d123f911b76ecf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Fatum Fatalis] 最强肉盾的迷宫攻略 / 最强タンクの迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku (BD REENCODE EP01-12+SP Fin)</guid>
 			<link>https://mikanani.me/Home/Episode/3210aaeca3a73e010292a0a1e221e10b576c37ff</link>
 			<title>[Fatum Fatalis] 最强肉盾的迷宫攻略 / 最强タンクの迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku (BD REENCODE EP01-12+SP Fin)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-16T11:29:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="988387712" url="https://mikanani.me/Download/20241216/a46be5155ba129c084d3b8ba99f9ddfb57bbb130.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 凉宫春日的忧郁 / 凉宫ハルヒの忧郁 / Suzumiya Haruhi no Yuuutsu - 06 [BDRip][HEVC-10bit 1080p][繁日内嵌][招募轴效]</guid>
-			<link>https://mikanani.me/Home/Episode/21ff2469e6c92e2cd0486954033f2b25cd43bb1a</link>
-			<title>[❀拨雪寻春❀] 凉宫春日的忧郁 / 凉宫ハルヒの忧郁 / Suzumiya Haruhi no Yuuutsu - 06 [BDRip][HEVC-10bit 1080p][繁日内嵌][招募轴效]</title>
-			<description>[❀拨雪寻春❀] 凉宫春日的忧郁 / 凉宫ハルヒの忧郁 / Suzumiya Haruhi no Yuuutsu - 06 [BDRip][HEVC-10bit 1080p][繁日内嵌][招募轴效][541.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21ff2469e6c92e2cd0486954033f2b25cd43bb1a</link>
-				<contentLength>568296704</contentLength>
-				<pubDate>2024-12-16T11:03:40.321</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="568296704" url="https://mikanani.me/Download/20241216/21ff2469e6c92e2cd0486954033f2b25cd43bb1a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

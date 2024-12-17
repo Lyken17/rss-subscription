@@ -66850,5 +66850,37 @@
       "title_jp": "未知",
       "size": "1.3GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[7³ACG] 亚托莉 我挚爱的时光/ATRI My Dear Moments S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0"
+    },
+    "link": "https://mikanani.me/Home/Episode/2a627f1ee9ce36b43ca333cdd4d123f911b76ecf",
+    "title": "[7³ACG] 亚托莉 我挚爱的时光/ATRI My Dear Moments S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0",
+    "description": "[7³ACG] 亚托莉 我挚爱的时光/ATRI My Dear Moments S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2a627f1ee9ce36b43ca333cdd4d123f911b76ecf",
+      "contentLength": "5046586368",
+      "pubDate": "2024-12-17T14:52:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "5046586368",
+      "@url": "https://mikanani.me/Download/20241217/2a627f1ee9ce36b43ca333cdd4d123f911b76ecf.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "7³ACG",
+      "title_en": "ATRI My Dear Moments",
+      "resolution": "1080p",
+      "episode": "1-13",
+      "season": 1,
+      "source": "BDrip",
+      "title_zh": "亚托莉 我挚爱的时光",
+      "sub": "简繁字幕",
+      "title_jp": "ATRI My Dear Moments",
+      "size": "4.7GB"
+    }
   }
 ]
