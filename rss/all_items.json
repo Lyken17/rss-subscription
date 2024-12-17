@@ -67075,5 +67075,70 @@
       "title_jp": "Tales of the Heroic地下城邂逅是否搞错了什么 - Exalted Goddesses",
       "size": "152.93 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[遮天][第88集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d76a59981bb280bcf5d1fd8d50073f6f60af496f",
+    "title": "[遮天][第88集][国语中字][WEB-MKV][2160P]",
+    "description": "[遮天][第88集][国语中字][WEB-MKV][2160P][1.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d76a59981bb280bcf5d1fd8d50073f6f60af496f",
+      "contentLength": "1288490240",
+      "pubDate": "2024-12-17T20:03:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1288490240",
+      "@url": "https://mikanani.me/Download/20241217/d76a59981bb280bcf5d1fd8d50073f6f60af496f.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "遮天",
+      "resolution": "2160P",
+      "episode": 88,
+      "season": 1,
+      "title_zh": "遮天",
+      "sub": "国语中字",
+      "title_jp": "遮天",
+      "size": "1.2GB",
+      "season_raw": ""
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[徒弟个个是大佬][第17集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/647cf59f0a0db9fc2521b6518fc17805d1b62d63",
+    "title": "[徒弟个个是大佬][第17集][国语中字][WEB-MKV][2160P]",
+    "description": "[徒弟个个是大佬][第17集][国语中字][WEB-MKV][2160P][807.4MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/647cf59f0a0db9fc2521b6518fc17805d1b62d63",
+      "contentLength": "846620288",
+      "pubDate": "2024-12-17T19:33:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "846620288",
+      "@url": "https://mikanani.me/Download/20241217/647cf59f0a0db9fc2521b6518fc17805d1b62d63.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "未知",
+      "resolution": "2160P",
+      "episode": 17,
+      "season": 1,
+      "title_zh": "徒弟个个是大佬",
+      "sub": "国语中字",
+      "title_jp": "未知",
+      "season_raw": "第17集",
+      "source": "WEB-MKV",
+      "size": "807.4MB"
+    }
   }
 ]
