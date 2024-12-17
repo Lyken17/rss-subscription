@@ -66753,5 +66753,102 @@
       "title_jp": null,
       "size": "657.11 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Fatum Fatalis] 最强肉盾的迷宫攻略 / 最强タンクの迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku (BD REENCODE EP01-12+SP Fin)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3210aaeca3a73e010292a0a1e221e10b576c37ff",
+    "title": "[Fatum Fatalis] 最强肉盾的迷宫攻略 / 最强タンクの迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku (BD REENCODE EP01-12+SP Fin)",
+    "description": "[Fatum Fatalis] 最强肉盾的迷宫攻略 / 最强タンクの迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku (BD REENCODE EP01-12+SP Fin)[24.1 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3210aaeca3a73e010292a0a1e221e10b576c37ff",
+      "contentLength": "25877178368",
+      "pubDate": "2024-12-17T13:51:27.775633"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "25877178368",
+      "@url": "https://mikanani.me/Download/20241217/3210aaeca3a73e010292a0a1e221e10b576c37ff.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Fatum Fatalis",
+      "title_en": "Saikyou Tank no Meikyuu Kouryaku",
+      "resolution": "None",
+      "episode": "01-12+SP",
+      "season": 1,
+      "source": "BD REENCODE",
+      "title_zh": "最强坦克的迷宫攻略",
+      "sub": "None",
+      "title_jp": "最强タンクの迷宫攻略",
+      "size": "24.1 GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[炼气十万年][第193集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1e3dffcf36e09a52cc06744de188f389c57a203e",
+    "title": "[炼气十万年][第193集][国语中字][WEB-MKV][2160P]",
+    "description": "[炼气十万年][第193集][国语中字][WEB-MKV][2160P][483.2MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1e3dffcf36e09a52cc06744de188f389c57a203e",
+      "contentLength": "506671936",
+      "pubDate": "2024-12-17T13:33:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "506671936",
+      "@url": "https://mikanani.me/Download/20241217/1e3dffcf36e09a52cc06744de188f389c57a203e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "None",
+      "resolution": "2160P",
+      "episode": 193,
+      "season": 1,
+      "title_zh": "炼气十万年",
+      "sub": "国语中字",
+      "title_jp": "None",
+      "season_raw": "None",
+      "source": "WEB-MKV",
+      "size": "483.2MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[长生界][第9集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/60412d0532314e73e5ff7714ef279a14de048b88",
+    "title": "[长生界][第9集][国语中字][WEB-MKV][2160P]",
+    "description": "[长生界][第9集][国语中字][WEB-MKV][2160P][1.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/60412d0532314e73e5ff7714ef279a14de048b88",
+      "contentLength": "1395864320",
+      "pubDate": "2024-12-17T13:30:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241217/60412d0532314e73e5ff7714ef279a14de048b88.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "未知",
+      "title_en": "未知",
+      "resolution": "2160P",
+      "episode": 9,
+      "season": 1,
+      "source": "WEB-MKV",
+      "title_zh": "长生界",
+      "sub": "国语中字",
+      "title_jp": "未知",
+      "size": "1.3GB"
+    }
   }
 ]
