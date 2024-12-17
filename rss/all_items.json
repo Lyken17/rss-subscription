@@ -67981,5 +67981,37 @@
       "title_jp": "Amagami-san Chi no Enmusubi",
       "size": "279.9 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 多数欠 / Tasuuketsu - 23 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/6238ebf751c2ac844e6ba2d5bbb28cfbf3494159",
+    "title": "[Up to 21°C] 多数欠 / Tasuuketsu - 23 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 多数欠 / Tasuuketsu - 23 (CR 1920x1080 AVC AAC MKV)[1.3 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6238ebf751c2ac844e6ba2d5bbb28cfbf3494159",
+      "contentLength": "1395864320",
+      "pubDate": "2024-12-18T04:03:01.689"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241218/6238ebf751c2ac844e6ba2d5bbb28cfbf3494159.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Tasuuketsu",
+      "resolution": "1920x1080",
+      "episode": 23,
+      "season": 1,
+      "source": "None",
+      "title_zh": "多数欠",
+      "sub": "None",
+      "title_jp": "None",
+      "size": "1.3 GB"
+    }
   }
 ]
