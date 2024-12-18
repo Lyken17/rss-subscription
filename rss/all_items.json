@@ -68336,5 +68336,37 @@
       "title_jp": "アマガミサン チのエンミズブ",
       "size": "262.3 MB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 139 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT]"
+    },
+    "link": "https://mikanani.me/Home/Episode/97c8a56723c5b7987231dfdd04c49e61ebc65792",
+    "title": "[jibaketa合成&音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 139 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT]",
+    "description": "[jibaketa合成&音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 139 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT][979.63 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/97c8a56723c5b7987231dfdd04c49e61ebc65792",
+      "contentLength": "1027216512",
+      "pubDate": "2024-12-18T14:18:49.246"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1027216512",
+      "@url": "https://mikanani.me/Download/20241218/97c8a56723c5b7987231dfdd04c49e61ebc65792.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "jibaketa合成&音频压制",
+      "title_en": "Kiratto Pri-chan",
+      "resolution": "1920x1080",
+      "episode": 139,
+      "season": 1,
+      "source": "WEB",
+      "title_zh": "美妙☆频道",
+      "sub": "粤日双语+内封繁体中文字幕",
+      "title_jp": "闪跃吧！星梦☆频道",
+      "size": "979.63 MB"
+    }
   }
 ]
