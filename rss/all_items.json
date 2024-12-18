@@ -69604,5 +69604,70 @@
       "title_jp": "None",
       "size": "1.36 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 51 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/79aeb6cac3d88cbcee26f6e44c21f6fe674ea87b",
+    "title": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 51 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 51 (ABEMA 1920x1080 AVC AAC MP4)[79.67 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/79aeb6cac3d88cbcee26f6e44c21f6fe674ea87b",
+      "contentLength": "83540048",
+      "pubDate": "2024-12-19T02:03:26.782"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "83540048",
+      "@url": "https://mikanani.me/Download/20241219/79aeb6cac3d88cbcee26f6e44c21f6fe674ea87b.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "Up to 21°C",
+      "title_en": "Chibi Godzilla no Gyakushuu",
+      "resolution": "1920x1080",
+      "episode": 51,
+      "season": 1,
+      "title_zh": "小哥斯拉的逆袭",
+      "sub": "ABEMA",
+      "title_jp": "Chibi Godzilla no Gyakushuu",
+      "season_raw": "ABEMA",
+      "source": "ENCODINGCODE",
+      "size": "79.67 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【无名字幕组】Girls Band Cry[1-13][自补全曲LIVE][简日内嵌][1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/1581900fa30ad7658f18868139e553d17a84452e",
+    "title": "【无名字幕组】Girls Band Cry[1-13][自补全曲LIVE][简日内嵌][1080P]",
+    "description": "【无名字幕组】Girls Band Cry[1-13][自补全曲LIVE][简日内嵌][1080P][13.8GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1581900fa30ad7658f18868139e553d17a84452e",
+      "contentLength": "14817637376",
+      "pubDate": "2024-12-19T01:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "14817637376",
+      "@url": "https://mikanani.me/Download/20241219/1581900fa30ad7658f18868139e553d17a84452e.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "无名字幕组",
+      "title_en": "Girls Band Cry",
+      "resolution": "1080P",
+      "episode": "1-13",
+      "season": 1,
+      "source": "自补全曲LIVE",
+      "title_zh": "Girls Band Cry",
+      "sub": "简日内嵌",
+      "title_jp": null,
+      "size": "13.8GB"
+    }
   }
 ]
