@@ -68078,5 +68078,70 @@
       "size": "181.73 MB",
       "source": "WebRip"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 12 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ca82c5aded4b809e4b1b6d3844ddeace4d5e9bcc",
+    "title": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 12 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 12 (CR 1920x1080 AVC AAC MKV)[771.57 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ca82c5aded4b809e4b1b6d3844ddeace4d5e9bcc",
+      "contentLength": "809049792",
+      "pubDate": "2024-12-18T12:02:16.517"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "809049792",
+      "@url": "https://mikanani.me/Download/20241218/ca82c5aded4b809e4b1b6d3844ddeace4d5e9bcc.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2",
+      "resolution": "1920x1080",
+      "episode": 12,
+      "season": 2,
+      "source": "CR",
+      "title_zh": "食草老龙被冠以恶龙之名 第二季（日配版）",
+      "sub": "Japanese Audio",
+      "title_jp": "弱い5000年後の草龙",
+      "size": "771.57 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 26 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)"
+    },
+    "link": "https://mikanani.me/Home/Episode/07efe04ae56c1b45d095a8335887530d8adcfcd4",
+    "title": "[jibaketa合成&音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 26 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)",
+    "description": "[jibaketa合成&音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 26 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[474.36 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/07efe04ae56c1b45d095a8335887530d8adcfcd4",
+      "contentLength": "497402496",
+      "pubDate": "2024-12-18T11:27:47.367"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "497402496",
+      "@url": "https://mikanani.me/Download/20241218/07efe04ae56c1b45d095a8335887530d8adcfcd4.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "jibaketa合成&音频压制",
+      "title_en": "Pocket Monsters (2023",
+      "resolution": "1920x1080",
+      "episode": 26,
+      "season": 1,
+      "source": "WEB",
+      "title_zh": "宝可梦 地平线",
+      "sub": "HOY粤语",
+      "title_jp": "Pocket Monsters (2023",
+      "season_raw": "2023",
+      "size": "474.36 MB"
+    }
   }
 ]
