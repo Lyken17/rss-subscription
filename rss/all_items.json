@@ -69669,5 +69669,70 @@
       "title_jp": null,
       "size": "13.8GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/329b3bcef4eaeb721babf0b8d65ccc819a90b2d2",
+    "title": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 23 (ABEMA 1920x1080 AVC AAC MP4)[716.86 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/329b3bcef4eaeb721babf0b8d65ccc819a90b2d2",
+      "contentLength": "751682176",
+      "pubDate": "2024-12-19T03:00:45.813"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "751682176",
+      "@url": "https://mikanani.me/Download/20241219/329b3bcef4eaeb721babf0b8d65ccc819a90b2d2.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Fairy Tail: 100-nen Quest",
+      "resolution": "1920x1080",
+      "episode": 23,
+      "season": 1,
+      "title_zh": "魔导少年 百年任务",
+      "sub": "None",
+      "title_jp": "類似「Fairy Tail: 100-nen Quest」的日语标题",
+      "season_raw": "None",
+      "source": "ABEMA",
+      "size": "716.86 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 神选 第二季 / Kamierabi 2nd Season - 24 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/a9d47fa323c7872cf2a45bb8e2693952d6a011f3",
+    "title": "[Up to 21°C] 神选 第二季 / Kamierabi 2nd Season - 24 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 神选 第二季 / Kamierabi 2nd Season - 24 (CR 1920x1080 AVC AAC MKV)[1.3 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a9d47fa323c7872cf2a45bb8e2693952d6a011f3",
+      "contentLength": "1395864320",
+      "pubDate": "2024-12-19T02:28:20.315"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1395864320",
+      "@url": "https://mikanani.me/Download/20241219/a9d47fa323c7872cf2a45bb8e2693952d6a011f3.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "None",
+      "title_en": "Kamierabi 2nd Season",
+      "resolution": "1920x1080",
+      "episode": 24,
+      "season": 2,
+      "source": "CR",
+      "title_zh": "神选 第二季",
+      "sub": "None",
+      "title_jp": "Kamierabi 2nd Season",
+      "size": "1.3 GB"
+    }
   }
 ]
