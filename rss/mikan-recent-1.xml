@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][11][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/360aef331ef80ff19ea76322e23b9baf6eaef2e7</link>
-			<title>[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][11][1080P][MP4]</title>
-			<description>[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][11][1080P][MP4][367.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/360aef331ef80ff19ea76322e23b9baf6eaef2e7</link>
-				<contentLength>385613824</contentLength>
-				<pubDate>2024-12-18T20:57:07.348</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385613824" url="https://mikanani.me/Download/20241218/360aef331ef80ff19ea76322e23b9baf6eaef2e7.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>轻之国度字幕组</group>
-				<title_en>Puniru is a Kawaii Slime</title_en>
-				<resolution>1080P</resolution>
-				<episode>11</episode>
-				<season>1</season>
-				<source>未知</source>
-				<title_zh>噗妮露是可爱史莱姆/可爱史莱姆噗尼露</title_zh>
-				<sub>未知</sub>
-				<title_jp>未知</title_jp>
-				<size>367.75 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d342e08a44a6bc0a85d2c3625565f4713b7e273e</link>
 			<title>[Up to 21°C] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1664,6 +1640,18 @@
 				<pubDate>2024-12-20T02:30:49.647</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="775411456" url="https://mikanani.me/Download/20241220/2bb793b64c4b69d8c4631f3fa335025285acbd56.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">食草老龙被冠以恶龙之名 / 莫名成为邪龙的五千岁草食龙[第二季][国语][1-12全集][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/10313a78484511e40c0132fea1cd38ac337c7fd9</link>
+			<title>食草老龙被冠以恶龙之名 / 莫名成为邪龙的五千岁草食龙[第二季][国语][1-12全集][1080P]</title>
+			<description>食草老龙被冠以恶龙之名 / 莫名成为邪龙的五千岁草食龙[第二季][国语][1-12全集][1080P][2.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10313a78484511e40c0132fea1cd38ac337c7fd9</link>
+				<contentLength>2469606144</contentLength>
+				<pubDate>2024-12-20T04:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2469606144" url="https://mikanani.me/Download/20241220/10313a78484511e40c0132fea1cd38ac337c7fd9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
