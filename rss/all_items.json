@@ -69799,5 +69799,135 @@
       "size": "96.1GB",
       "season_raw": "TV动画 (1981年首播版)+OVA+剧场版+漫画+音乐+其他"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【GB_MP4】【1920X1080】"
+    },
+    "link": "https://mikanani.me/Home/Episode/cf1eeb1a4e7bb7c33fbe58974eaee09d54446445",
+    "title": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【GB_MP4】【1920X1080】",
+    "description": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【GB_MP4】【1920X1080】[440.87 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/cf1eeb1a4e7bb7c33fbe58974eaee09d54446445",
+      "contentLength": "462285696",
+      "pubDate": "2024-12-19T09:36:52.024"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "462285696",
+      "@url": "https://mikanani.me/Download/20241219/cf1eeb1a4e7bb7c33fbe58974eaee09d54446445.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "幻樱字幕组",
+      "title_en": "Dragon Ball DAIMA",
+      "resolution": "1920X1080",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "龙珠DAIMA",
+      "sub": "GB_MP4",
+      "title_jp": "ドラゴンボールDAIMA",
+      "size": "440.87 MB",
+      "season_raw": "10月新番"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【BIG5_MP4】【1920X1080】"
+    },
+    "link": "https://mikanani.me/Home/Episode/1b1082986fbbf5a4a5923dc924d4948afe7f4b90",
+    "title": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【BIG5_MP4】【1920X1080】",
+    "description": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【BIG5_MP4】【1920X1080】[440.78 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1b1082986fbbf5a4a5923dc924d4948afe7f4b90",
+      "contentLength": "462191328",
+      "pubDate": "2024-12-19T09:34:00.98"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "462191328",
+      "@url": "https://mikanani.me/Download/20241219/1b1082986fbbf5a4a5923dc924d4948afe7f4b90.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "幻樱字幕组",
+      "title_en": "Dragon Ball DAIMA",
+      "resolution": "1920X1080",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "龙珠DAIMA",
+      "sub": "BIG5",
+      "title_jp": "ドラゴンボールDAIMA",
+      "season_raw": "10月新番",
+      "source": "UNKNOWN",
+      "size": "440.78 MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【BIG5_MP4】【1280X720】"
+    },
+    "link": "https://mikanani.me/Home/Episode/58afe3bd97dff71332e8181f35ea59c216e99e62",
+    "title": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【BIG5_MP4】【1280X720】",
+    "description": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【BIG5_MP4】【1280X720】[207.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/58afe3bd97dff71332e8181f35ea59c216e99e62",
+      "contentLength": "217998944",
+      "pubDate": "2024-12-19T09:24:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "217998944",
+      "@url": "https://mikanani.me/Download/20241219/58afe3bd97dff71332e8181f35ea59c216e99e62.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "幻樱字幕组",
+      "title_en": "Dragon Ball DAIMA",
+      "resolution": "1280X720",
+      "episode": 10,
+      "season": 1,
+      "source": "BIG5_MP4",
+      "title_zh": "龙珠DAIMA",
+      "sub": "BIG5",
+      "title_jp": "龙珠DAIMA",
+      "size": "207.9MB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【GB_MP4】【1280X720】"
+    },
+    "link": "https://mikanani.me/Home/Episode/21d4a29cb846b0781e2d5427c5f33189b3bded83",
+    "title": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【GB_MP4】【1280X720】",
+    "description": "【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【10】【GB_MP4】【1280X720】[207.9MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/21d4a29cb846b0781e2d5427c5f33189b3bded83",
+      "contentLength": "217998944",
+      "pubDate": "2024-12-19T09:24:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "217998944",
+      "@url": "https://mikanani.me/Download/20241219/21d4a29cb846b0781e2d5427c5f33189b3bded83.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "幻樱字幕组",
+      "title_en": "Dragon Ball DAIMA",
+      "resolution": "1280X720",
+      "episode": 10,
+      "season": 1,
+      "title_zh": "龙珠DAIMA",
+      "sub": "GB",
+      "title_jp": "Dragon Ball DAIMA",
+      "season_raw": "10月新番",
+      "source": "MP4",
+      "size": "207.9MB"
+    }
   }
 ]
