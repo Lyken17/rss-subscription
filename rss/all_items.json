@@ -69734,5 +69734,70 @@
       "title_jp": "Kamierabi 2nd Season",
       "size": "1.3 GB"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)"
+    },
+    "link": "https://mikanani.me/Home/Episode/8761bf0701c2da3e59136524ef4fa5a9f7ce945a",
+    "title": "[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)",
+    "description": "[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[105.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/8761bf0701c2da3e59136524ef4fa5a9f7ce945a",
+      "contentLength": "113494507520",
+      "pubDate": "2024-12-19T08:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "113494507520",
+      "@url": "https://mikanani.me/Download/20241219/8761bf0701c2da3e59136524ef4fa5a9f7ce945a.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "K-ON !",
+      "resolution": "N/A",
+      "episode": "N/A",
+      "season": 1,
+      "title_zh": "轻音少女",
+      "sub": "简中字幕",
+      "title_jp": "けいおん !",
+      "source": "N/A",
+      "size": "105.7GB"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "​​[整理搬运] 福星小子／山T女福星 (うる星やつら) (Urusei Yatsura)：TV动画 (1981年首播版)+OVA+剧场版+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.06)"
+    },
+    "link": "https://mikanani.me/Home/Episode/1c724c7415c5064b666402a8b405f10b17f2b007",
+    "title": "​​[整理搬运] 福星小子／山T女福星 (うる星やつら) (Urusei Yatsura)：TV动画 (1981年首播版)+OVA+剧场版+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.06)",
+    "description": "​​[整理搬运] 福星小子／山T女福星 (うる星やつら) (Urusei Yatsura)：TV动画 (1981年首播版)+OVA+剧场版+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.06)[96.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/1c724c7415c5064b666402a8b405f10b17f2b007",
+      "contentLength": "103186587648",
+      "pubDate": "2024-12-19T08:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "103186587648",
+      "@url": "https://mikanani.me/Download/20241219/1c724c7415c5064b666402a8b405f10b17f2b007.torrent"
+    },
+    "parsed_Qwen--Qwen2.5-7B-Instruct": {
+      "group": "整理搬运",
+      "title_en": "Urusei Yatsura",
+      "resolution": "日语音轨",
+      "episode": null,
+      "season": null,
+      "source": null,
+      "title_zh": "山T女福星 / 福星小子",
+      "sub": "外挂简中字幕",
+      "title_jp": "うる星やつら",
+      "size": "96.1GB",
+      "season_raw": "TV动画 (1981年首播版)+OVA+剧场版+漫画+音乐+其他"
+    }
   }
 ]
