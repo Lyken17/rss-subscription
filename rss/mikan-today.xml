@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/6587f091eb96e8961b41e3c79a6aecc2151cade6</link>
+			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)[264.11 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6587f091eb96e8961b41e3c79a6aecc2151cade6</link>
+				<contentLength>276939392</contentLength>
+				<pubDate>2024-12-20T11:01:34.549</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="276939392" url="https://mikanani.me/Download/20241220/6587f091eb96e8961b41e3c79a6aecc2151cade6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 / DAN DA DAN - 12 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/f233243eded0302728590707328268d18f650e1e</link>
 			<title>[Skymoon-Raws] 胆大党 / DAN DA DAN - 12 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-18T22:01:04.904</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746806336" url="https://mikanani.me/Download/20241218/d342e08a44a6bc0a85d2c3625565f4713b7e273e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[神印王座][第138集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/0ed6b08c56b075ab0e4b5ddd10f33a58788c6bbf</link>
-			<title>[神印王座][第138集][国语中字][WEB-MKV][2160P]</title>
-			<description>[神印王座][第138集][国语中字][WEB-MKV][2160P][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0ed6b08c56b075ab0e4b5ddd10f33a58788c6bbf</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2024-12-18T21:42:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20241218/0ed6b08c56b075ab0e4b5ddd10f33a58788c6bbf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
