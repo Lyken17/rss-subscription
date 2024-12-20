@@ -5,54 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 神选 / KamiErabi / GOD.app - 23 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/096bb40950c39950b7608ffd79226ce05da63e9b</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 神选 / KamiErabi / GOD.app - 23 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 神选 / KamiErabi / GOD.app - 23 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][940.69 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/096bb40950c39950b7608ffd79226ce05da63e9b</link>
-				<contentLength>986384960</contentLength>
-				<pubDate>2024-12-13T00:06:29.793</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="986384960" url="https://mikanani.me/Download/20241213/096bb40950c39950b7608ffd79226ce05da63e9b.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>喵萌奶茶屋&amp;LoliHouse</group>
-				<title_en>KamiErabi</title_en>
-				<resolution>1080p</resolution>
-				<episode>23</episode>
-				<season>1</season>
-				<source>WebRip</source>
-				<title_zh>神选</title_zh>
-				<sub>简繁日内封字幕</sub>
-				<title_jp>GOD.app</title_jp>
-				<size>940.69 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 辰星降临之国的妮娜 / Hoshifuru Oukoku no Nina - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3fe869da213a143a9fee4aa04b63192a38d779b5</link>
-			<title>[LoliHouse] 辰星降临之国的妮娜 / Hoshifuru Oukoku no Nina - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 辰星降临之国的妮娜 / Hoshifuru Oukoku no Nina - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][333.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3fe869da213a143a9fee4aa04b63192a38d779b5</link>
-				<contentLength>349815424</contentLength>
-				<pubDate>2024-12-13T00:30:48.078</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="349815424" url="https://mikanani.me/Download/20241213/3fe869da213a143a9fee4aa04b63192a38d779b5.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>LoliHouse</group>
-				<title_en>Hoshifuru Oukoku no Nina</title_en>
-				<resolution>1080p</resolution>
-				<episode>10</episode>
-				<season>1</season>
-				<source>WebRip</source>
-				<title_zh>辰星降临之国的妮娜</title_zh>
-				<sub>简繁内封字幕</sub>
-				<title_jp>Hoshifuru Oukoku no Nina</title_jp>
-				<size>333.61 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 悲喜渔生 / Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ff6968449b4f4cf251924fd2d91695ed11dddc1a</link>
 			<title>[LoliHouse] 悲喜渔生 / Negative Positive Angler - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1038,6 +990,18 @@
 				<pubDate>2024-12-19T13:07:58.194</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="589477952" url="https://mikanani.me/Download/20241219/981f2fd6aee6fd8e59e9976f6b10a9f9121bc233.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 悲喜渔生 / Negative Positive Angler - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/1a77544234aa249ced634c3d794b38be1460528f</link>
+			<title>[LoliHouse] 悲喜渔生 / Negative Positive Angler - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 悲喜渔生 / Negative Positive Angler - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][410.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1a77544234aa249ced634c3d794b38be1460528f</link>
+				<contentLength>429979072</contentLength>
+				<pubDate>2024-12-20T07:38:00.375</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="429979072" url="https://mikanani.me/Download/20241220/1a77544234aa249ced634c3d794b38be1460528f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
