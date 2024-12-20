@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 12 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8ed2f953f0d4ff06dfc56af48da14319f7a54a89</link>
+			<title>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 12 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 12 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ed2f953f0d4ff06dfc56af48da14319f7a54a89</link>
+				<contentLength>1438814080</contentLength>
+				<pubDate>2024-12-21T03:33:26.424</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20241221/8ed2f953f0d4ff06dfc56af48da14319f7a54a89.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 12 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a18e1d6b657309e76671934bd6b7175989db4728</link>
 			<title>[Up to 21°C] 偶像大师 闪耀色彩 第二季 / The iDOLM@STER Shiny Colors 2nd Season - 12 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-20T00:02:26.626</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="514043424" url="https://mikanani.me/Download/20241220/5230a4bb6c8e69a2b2a070c5f3aced68e189ab04.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 青春之箱 / Ao no Hako - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/35776a3d2b42e7198346587f28575e918f7fce08</link>
-			<title>[Up to 21°C] 青春之箱 / Ao no Hako - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 青春之箱 / Ao no Hako - 12 (ABEMA 1920x1080 AVC AAC MP4)[711.93 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/35776a3d2b42e7198346587f28575e918f7fce08</link>
-				<contentLength>746512704</contentLength>
-				<pubDate>2024-12-20T00:02:16.437</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746512704" url="https://mikanani.me/Download/20241220/35776a3d2b42e7198346587f28575e918f7fce08.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
