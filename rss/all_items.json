@@ -72729,5 +72729,45 @@
       "@length": "4509715456",
       "@url": "https://mikanani.me/Download/20241221/5e486998d27002972d7d9647e061c5e9f8401cb3.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 青之箱 - 01-12 [NF WebRip AI2160p HEVC-10bit E-AC-3][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d6963c82f3c13197deea72e678b874766eea70a6",
+    "title": "[沸羊羊制作] 青之箱 - 01-12 [NF WebRip AI2160p HEVC-10bit E-AC-3][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 青之箱 - 01-12 [NF WebRip AI2160p HEVC-10bit E-AC-3][官方简繁内封字幕][9.9GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d6963c82f3c13197deea72e678b874766eea70a6",
+      "contentLength": "10630043648",
+      "pubDate": "2024-12-21T06:59:00.246671"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "10630043648",
+      "@url": "https://mikanani.me/Download/20241221/d6963c82f3c13197deea72e678b874766eea70a6.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 青之箱 - 01-12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/86bf1c310b91b00cccabb14bbd0b29b40c5c9da7",
+    "title": "[沸羊羊制作] 青之箱 - 01-12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 青之箱 - 01-12 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕][3.8GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/86bf1c310b91b00cccabb14bbd0b29b40c5c9da7",
+      "contentLength": "4080218880",
+      "pubDate": "2024-12-21T06:52:56.120125"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "4080218880",
+      "@url": "https://mikanani.me/Download/20241221/86bf1c310b91b00cccabb14bbd0b29b40c5c9da7.torrent"
+    }
   }
 ]
