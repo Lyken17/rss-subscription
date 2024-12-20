@@ -53593,5 +53593,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1213328256" url="https://mikanani.me/Download/20241220/ae1e68702847b22a149b051651cf98c098c7ad1a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[都市古仙医][第28集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/ccda0f9c1811033b4c5c02d6e2b94b7cb88a5baa</link>
+			<title>[都市古仙医][第28集][国语中字][WEB-MKV][2160P]</title>
+			<description>[都市古仙医][第28集][国语中字][WEB-MKV][2160P][993.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ccda0f9c1811033b4c5c02d6e2b94b7cb88a5baa</link>
+				<contentLength>1041760256</contentLength>
+				<pubDate>2024-12-20T16:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1041760256" url="https://mikanani.me/Download/20241220/ccda0f9c1811033b4c5c02d6e2b94b7cb88a5baa.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

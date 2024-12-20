@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[都市古仙医][第28集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/ccda0f9c1811033b4c5c02d6e2b94b7cb88a5baa</link>
+			<title>[都市古仙医][第28集][国语中字][WEB-MKV][2160P]</title>
+			<description>[都市古仙医][第28集][国语中字][WEB-MKV][2160P][993.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ccda0f9c1811033b4c5c02d6e2b94b7cb88a5baa</link>
+				<contentLength>1041760256</contentLength>
+				<pubDate>2024-12-20T16:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1041760256" url="https://mikanani.me/Download/20241220/ccda0f9c1811033b4c5c02d6e2b94b7cb88a5baa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【动漫国字幕组】★07月新番[FAIRY TAIL 魔导少年 / 妖精尾巴 百年任务][18-22][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/b20870eb9f95b91948cd2cb3af5a7fcc158d8650</link>
 			<title>【动漫国字幕组】★07月新番[FAIRY TAIL 魔导少年 / 妖精尾巴 百年任务][18-22][1080P][简体][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-18T23:01:04.872</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751849984" url="https://mikanani.me/Download/20241218/71dcf865f890dc8fa8845b6110e950ef982920b3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 香格里拉·开拓异境～粪作猎手挑战神作 第二季 / Shangri-La Frontier S2 [35] [1080p] [繁日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/eb25b121d24e2e18b9c03da1b9047c9895326eda</link>
-			<title>[猎户压制部] 香格里拉·开拓异境～粪作猎手挑战神作 第二季 / Shangri-La Frontier S2 [35] [1080p] [繁日内嵌] [2024年10月番]</title>
-			<description>[猎户压制部] 香格里拉·开拓异境～粪作猎手挑战神作 第二季 / Shangri-La Frontier S2 [35] [1080p] [繁日内嵌] [2024年10月番][647.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eb25b121d24e2e18b9c03da1b9047c9895326eda</link>
-				<contentLength>678743232</contentLength>
-				<pubDate>2024-12-18T22:53:18.819335</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="678743232" url="https://mikanani.me/Download/20241218/eb25b121d24e2e18b9c03da1b9047c9895326eda.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
