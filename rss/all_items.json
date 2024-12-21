@@ -73049,5 +73049,45 @@
       "@length": "2147483648",
       "@url": "https://mikanani.me/Download/20241221/6176c797623fdd9f03f540bfa8b3bed0b425dd30.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][24][1080p][繁日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/a88135f8a69fbc719b515b5eac9864b4b189e9be",
+    "title": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][24][1080p][繁日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][24][1080p][繁日双语][招募翻译][490.19 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a88135f8a69fbc719b515b5eac9864b4b189e9be",
+      "contentLength": "514001472",
+      "pubDate": "2024-12-21T13:21:57.073"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "514001472",
+      "@url": "https://mikanani.me/Download/20241221/a88135f8a69fbc719b515b5eac9864b4b189e9be.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[喵萌奶茶屋&VCB-Studio] 憧憬成为魔法少女 / Mahou Shoujo ni Akogarete / 魔法少女にあこがれて 10-bit 1080p HEVC BDRip [Reseed Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/973ed4cbc79322b56fa8346e2f03c0d6330a608d",
+    "title": "[喵萌奶茶屋&VCB-Studio] 憧憬成为魔法少女 / Mahou Shoujo ni Akogarete / 魔法少女にあこがれて 10-bit 1080p HEVC BDRip [Reseed Fin]",
+    "description": "[喵萌奶茶屋&VCB-Studio] 憧憬成为魔法少女 / Mahou Shoujo ni Akogarete / 魔法少女にあこがれて 10-bit 1080p HEVC BDRip [Reseed Fin][18.0GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/973ed4cbc79322b56fa8346e2f03c0d6330a608d",
+      "contentLength": "19327352832",
+      "pubDate": "2024-12-21T13:16:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "19327352832",
+      "@url": "https://mikanani.me/Download/20241221/973ed4cbc79322b56fa8346e2f03c0d6330a608d.torrent"
+    }
   }
 ]

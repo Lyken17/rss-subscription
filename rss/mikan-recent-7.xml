@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/f23abee43146617c504151ca9c6ab4d0b5189e95</link>
-			<title>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[超自然武装当哒当 / 胆大党 / Dandadan][11][1080p][繁日双语][招募翻译][549.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f23abee43146617c504151ca9c6ab4d0b5189e95</link>
-				<contentLength>575856960</contentLength>
-				<pubDate>2024-12-14T05:50:50.203</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="575856960" url="https://mikanani.me/Download/20241214/f23abee43146617c504151ca9c6ab4d0b5189e95.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>喵萌奶茶屋</group>
-				<title_en>Dandadan</title_en>
-				<resolution>1080p</resolution>
-				<episode>11</episode>
-				<season>1</season>
-				<title_zh>超自然武装当哒当 / 胆大党</title_zh>
-				<sub>繁日双语</sub>
-				<title_jp>Dandadan</title_jp>
-				<season_raw>10月新番</season_raw>
-				<source>None</source>
-				<size>549.18 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[宗门里除了我都是卧底][第23集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/612f69f71a4e3258b70463e271b3085f2cddf76b</link>
 			<title>[宗门里除了我都是卧底][第23集][国语中字][WEB-MKV][2160P]</title>
@@ -12404,6 +12379,30 @@
 				<pubDate>2024-12-21T12:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20241221/6176c797623fdd9f03f540bfa8b3bed0b425dd30.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][24][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/a88135f8a69fbc719b515b5eac9864b4b189e9be</link>
+			<title>【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][24][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][24][1080p][繁日双语][招募翻译][490.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a88135f8a69fbc719b515b5eac9864b4b189e9be</link>
+				<contentLength>514001472</contentLength>
+				<pubDate>2024-12-21T13:21:57.073</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="514001472" url="https://mikanani.me/Download/20241221/a88135f8a69fbc719b515b5eac9864b4b189e9be.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 憧憬成为魔法少女 / Mahou Shoujo ni Akogarete / 魔法少女にあこがれて 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/973ed4cbc79322b56fa8346e2f03c0d6330a608d</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 憧憬成为魔法少女 / Mahou Shoujo ni Akogarete / 魔法少女にあこがれて 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 憧憬成为魔法少女 / Mahou Shoujo ni Akogarete / 魔法少女にあこがれて 10-bit 1080p HEVC BDRip [Reseed Fin][18.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/973ed4cbc79322b56fa8346e2f03c0d6330a608d</link>
+				<contentLength>19327352832</contentLength>
+				<pubDate>2024-12-21T13:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19327352832" url="https://mikanani.me/Download/20241221/973ed4cbc79322b56fa8346e2f03c0d6330a608d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
