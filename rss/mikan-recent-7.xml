@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a</link>
-			<title>[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 大道朝天 / One Way or Another - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[534.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/770650ad3dee4310dab1b6e4a69ed433aa3fec2a</link>
-				<contentLength>560453376</contentLength>
-				<pubDate>2024-12-14T12:02:45.774</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="560453376" url="https://mikanani.me/Download/20241214/770650ad3dee4310dab1b6e4a69ed433aa3fec2a.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>B-Global Donghua</group>
-				<title_en>One Way or Another</title_en>
-				<resolution>1080p</resolution>
-				<episode>12</episode>
-				<season>1</season>
-				<source>MKV</source>
-				<title_zh>大道朝天</title_zh>
-				<sub>HEVC AAC</sub>
-				<title_jp></title_jp>
-				<size>534.49 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/f3b04c28fe002d1597c40b550c2b2e3ad5de7482</link>
 			<title>[别惹流氓兔马修 第1季][全70集][国语中字][WEB-MKV][2160P]</title>
@@ -12171,6 +12147,18 @@
 				<pubDate>2024-12-21T18:23:32.031</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="664251904" url="https://mikanani.me/Download/20241221/ddd4769c36abd3e933582f4e583c65f84f250676.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[斗破苍穹年番][第126集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/23db571be36afe3565457b875b1c8ce98dff2725</link>
+			<title>[斗破苍穹年番][第126集][国语中字][WEB-MKV][2160P]</title>
+			<description>[斗破苍穹年番][第126集][国语中字][WEB-MKV][2160P][668.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23db571be36afe3565457b875b1c8ce98dff2725</link>
+				<contentLength>700973056</contentLength>
+				<pubDate>2024-12-21T19:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="700973056" url="https://mikanani.me/Download/20241221/23db571be36afe3565457b875b1c8ce98dff2725.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
