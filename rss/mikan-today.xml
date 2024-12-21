@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4c876455a788ebe6223ad35ce9305e32a38912d4</link>
+			<title>[Up to 21°C] 大道朝天 / One Way or Another - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 大道朝天 / One Way or Another - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)[542.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4c876455a788ebe6223ad35ce9305e32a38912d4</link>
+				<contentLength>568726656</contentLength>
+				<pubDate>2024-12-21T12:02:54.452</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="568726656" url="https://mikanani.me/Download/20241221/4c876455a788ebe6223ad35ce9305e32a38912d4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d403e0cd05bbbd89290553f868c8d60b6825dfae</link>
 			<title>[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-20T01:33:26.117</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20241220/732fcc4010b66d5ccbd0a7f2daeb224bae3dea72.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/29dda449c9c419fd04e500f8c905edf9c0f6d0db</link>
-			<title>[Up to 21°C] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei - 12 (ABEMA 1920x1080 AVC AAC MP4)[719.13 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/29dda449c9c419fd04e500f8c905edf9c0f6d0db</link>
-				<contentLength>754062464</contentLength>
-				<pubDate>2024-12-20T01:31:01.327</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="754062464" url="https://mikanani.me/Download/20241220/29dda449c9c419fd04e500f8c905edf9c0f6d0db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
