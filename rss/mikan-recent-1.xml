@@ -1684,5 +1684,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="283325248" url="https://mikanani.me/Download/20241222/7ff65cb0a73cb5b11cce176eb3c9cbcbec8ca267.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden/NARUTO -ナルト- 疾风伝][276-302TV][BOX3][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/88fc34097fed1d14fb5cc25aff0e82c6c40e087a</link>
+			<title>[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden/NARUTO -ナルト- 疾风伝][276-302TV][BOX3][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV]</title>
+			<description>[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden/NARUTO -ナルト- 疾风伝][276-302TV][BOX3][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV][19.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/88fc34097fed1d14fb5cc25aff0e82c6c40e087a</link>
+				<contentLength>21045340160</contentLength>
+				<pubDate>2024-12-22T14:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21045340160" url="https://mikanani.me/Download/20241222/88fc34097fed1d14fb5cc25aff0e82c6c40e087a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
