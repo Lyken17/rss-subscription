@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/79cf163a8dd973a9076af0c7b292dd8ba153d39c</link>
-			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][525.32 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/79cf163a8dd973a9076af0c7b292dd8ba153d39c</link>
-				<contentLength>550837952</contentLength>
-				<pubDate>2024-12-15T00:14:11.042</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="550837952" url="https://mikanani.me/Download/20241215/79cf163a8dd973a9076af0c7b292dd8ba153d39c.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>LoliHouse</group>
-				<title_en>Sword Art Online Alternative: Gun Gale Online II</title_en>
-				<resolution>1080p</resolution>
-				<episode>11</episode>
-				<season>2</season>
-				<source>WebRip</source>
-				<title_zh>刀剑神域外传 Gun Gale Online II</title_zh>
-				<sub>简繁内封字幕</sub>
-				<title_jp> Sword Art Online Alternative: Gun Gale Online II</title_jp>
-				<size>525.32 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 魔王2099 / Maou 2099 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b369c74599d1be66f1bceeddd4ee5965087b3712</link>
 			<title>[LoliHouse] 魔王2099 / Maou 2099 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -841,6 +817,18 @@
 				<pubDate>2024-12-22T06:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7086695936" url="https://mikanani.me/Download/20241222/4a8243ab89096cea28db653fbbf707d1971e9fac.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e0d9f24a0811e9cf7b3f09d22b5984b1ccba525c</link>
+			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][479.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e0d9f24a0811e9cf7b3f09d22b5984b1ccba525c</link>
+				<contentLength>502582464</contentLength>
+				<pubDate>2024-12-22T09:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="502582464" url="https://mikanani.me/Download/20241222/e0d9f24a0811e9cf7b3f09d22b5984b1ccba525c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
