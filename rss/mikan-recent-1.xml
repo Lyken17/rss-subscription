@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8ed2f953f0d4ff06dfc56af48da14319f7a54a89</link>
-			<title>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi - 12 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8ed2f953f0d4ff06dfc56af48da14319f7a54a89</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2024-12-21T03:33:26.424</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20241221/8ed2f953f0d4ff06dfc56af48da14319f7a54a89.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 胆大党 - 01-12 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b0d34bf787969fa8125d43804aa9cacd49fe5f7d</link>
 			<title>[沸羊羊制作] 胆大党 - 01-12 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1647,6 +1635,18 @@
 				<pubDate>2024-12-22T10:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20241222/1c81dbe80e04a4a27f479e6934857b11e645ed07.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][46][720p][简体内嵌](检索:Q娃/プリキュア)（下周停播）</guid>
+			<link>https://mikanani.me/Home/Episode/bb62240fe50cd6519e2096ca1b8bce107c2c950a</link>
+			<title>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][46][720p][简体内嵌](检索:Q娃/プリキュア)（下周停播）</title>
+			<description>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][46][720p][简体内嵌](检索:Q娃/プリキュア)（下周停播）[270.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bb62240fe50cd6519e2096ca1b8bce107c2c950a</link>
+				<contentLength>283325248</contentLength>
+				<pubDate>2024-12-22T11:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="283325248" url="https://mikanani.me/Download/20241222/bb62240fe50cd6519e2096ca1b8bce107c2c950a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
