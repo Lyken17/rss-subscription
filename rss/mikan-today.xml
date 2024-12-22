@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e202ecfcd88534064c2df80f5312f4a5c1503c11</link>
+			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)[727.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e202ecfcd88534064c2df80f5312f4a5c1503c11</link>
+				<contentLength>763059264</contentLength>
+				<pubDate>2024-12-23T03:00:48.54</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="763059264" url="https://mikanani.me/Download/20241223/e202ecfcd88534064c2df80f5312f4a5c1503c11.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d7ed9a6bded5e95992cd04e11f3f52ab2b47e044</link>
 			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-22T16:11:48.309</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1084479232" url="https://mikanani.me/Download/20241222/c41a72786c3f491b4501e99402bb127dd00382ad.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 08 (ADN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/170076cfa60d4b3593e8df255776376564c397e8</link>
-			<title>[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 08 (ADN 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - 08 (ADN 1920x1080 AVC AAC MKV)[565.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/170076cfa60d4b3593e8df255776376564c397e8</link>
-				<contentLength>592875328</contentLength>
-				<pubDate>2024-12-22T16:04:17.688</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="592875328" url="https://mikanani.me/Download/20241222/170076cfa60d4b3593e8df255776376564c397e8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

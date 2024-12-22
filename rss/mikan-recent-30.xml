@@ -57433,5 +57433,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="249697408" url="https://mikanani.me/Download/20241223/80fe5a599ca777bdbd908006b04a13f4e0fd25fc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e202ecfcd88534064c2df80f5312f4a5c1503c11</link>
+			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)[727.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e202ecfcd88534064c2df80f5312f4a5c1503c11</link>
+				<contentLength>763059264</contentLength>
+				<pubDate>2024-12-23T03:00:48.54</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="763059264" url="https://mikanani.me/Download/20241223/e202ecfcd88534064c2df80f5312f4a5c1503c11.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
