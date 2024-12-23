@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【小组译制】数分钟的欢呼  数分钟的呐喊  几分钟的赞歌  A Few Moments Of Cheers[1920X816][简体内封]</guid>
+			<link>https://mikanani.me/Home/Episode/2df71c1314c7740938ffaad902a3d89a047b915f</link>
+			<title>【小组译制】数分钟的欢呼  数分钟的呐喊  几分钟的赞歌  A Few Moments Of Cheers[1920X816][简体内封]</title>
+			<description>【小组译制】数分钟的欢呼  数分钟的呐喊  几分钟的赞歌  A Few Moments Of Cheers[1920X816][简体内封][2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2df71c1314c7740938ffaad902a3d89a047b915f</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2024-12-23T17:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20241223/2df71c1314c7740938ffaad902a3d89a047b915f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【38】BIG5 MP4_1080P</guid>
 			<link>https://mikanani.me/Home/Episode/5b1e7b6fb6f4930f9e4ac521e3022dc3221a0795</link>
 			<title>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【38】BIG5 MP4_1080P</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-22T17:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6335076864" url="https://mikanani.me/Download/20241222/27f3fb2f4ed556c1a3513b1656db4c9cf31c1fa8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [16][圣诞的礼物][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/16f265596d7652f9a0f80e84ab197931a60b3491</link>
-			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [16][圣诞的礼物][1080p][简日内嵌]</title>
-			<description>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [16][圣诞的礼物][1080p][简日内嵌][572.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/16f265596d7652f9a0f80e84ab197931a60b3491</link>
-				<contentLength>599995200</contentLength>
-				<pubDate>2024-12-22T17:56:45.593346</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="599995200" url="https://mikanani.me/Download/20241222/16f265596d7652f9a0f80e84ab197931a60b3491.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
