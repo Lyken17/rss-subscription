@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/db22e6635a1a096ec0dcba99d9c893ec0a6fe451</link>
-			<title>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][800.28 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/db22e6635a1a096ec0dcba99d9c893ec0a6fe451</link>
-				<contentLength>839154432</contentLength>
-				<pubDate>2024-12-15T23:18:41.005</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="839154432" url="https://mikanani.me/Download/20241215/db22e6635a1a096ec0dcba99d9c893ec0a6fe451.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>LoliHouse</group>
-				<title_en>Shangri-La Frontier</title_en>
-				<resolution>1080p</resolution>
-				<episode>35</episode>
-				<season>1</season>
-				<source>WebRip</source>
-				<title_zh>香格里拉·开拓异境～粪作猎手挑战神作～</title_zh>
-				<sub>简繁内封字幕</sub>
-				<title_jp>香格里拉·开拓异境～粪作猎手挑战神作～</title_jp>
-				<size>800.28 MB</size>
-				<season_raw></season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：噗尼露)</guid>
 			<link>https://mikanani.me/Home/Episode/0c625be87cbe68b5ab749f0c0296000fa9f55b44</link>
 			<title>[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索：噗尼露)</title>
@@ -765,6 +740,18 @@
 				<pubDate>2024-12-23T00:57:35.982</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="932257472" url="https://mikanani.me/Download/20241223/db5092a5789bd1d2ac17160b24174a8b51f6de15.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8dfde2831de12081e3da18ba94ad3321c061bad2</link>
+			<title>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][983.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8dfde2831de12081e3da18ba94ad3321c061bad2</link>
+				<contentLength>1030897024</contentLength>
+				<pubDate>2024-12-23T07:28:10.259</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1030897024" url="https://mikanani.me/Download/20241223/8dfde2831de12081e3da18ba94ad3321c061bad2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
