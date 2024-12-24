@@ -17,30 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="16213501952" url="https://mikanani.me/Download/20241223/d9aaabd78563f0f75edf1ece54d70933eb490e98.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[吞噬星空][第151集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/98e0c65cbbf0bb9471dedc541d4381ffea886107</link>
-			<title>[吞噬星空][第151集][国语中字][WEB-MKV][2160P]</title>
-			<description>[吞噬星空][第151集][国语中字][WEB-MKV][2160P][1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/98e0c65cbbf0bb9471dedc541d4381ffea886107</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2024-12-23T20:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20241223/98e0c65cbbf0bb9471dedc541d4381ffea886107.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1146 (ADN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/96bdc5b90a2746f278d4461ad47979c3c8c87cf3</link>
-			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1146 (ADN 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1146 (ADN 1920x1080 AVC AAC MKV)[580.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96bdc5b90a2746f278d4461ad47979c3c8c87cf3</link>
-				<contentLength>608656448</contentLength>
-				<pubDate>2024-12-23T19:34:22.875</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="608656448" url="https://mikanani.me/Download/20241223/96bdc5b90a2746f278d4461ad47979c3c8c87cf3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][吞噬星空][Swallowed Star][2021][151][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/7900fc7d1948d55a60db1772f1a2f3d02b56c531</link>
 			<title>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][151][AVC][GB][1080P]</title>
@@ -1107,6 +1083,18 @@
 				<pubDate>2024-12-25T02:30:55.298</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="767201088" url="https://mikanani.me/Download/20241225/b8d25e2f6249b9be5f7953ce7b6c884a75363d94.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
+			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)[1.29 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
+				<contentLength>1385126912</contentLength>
+				<pubDate>2024-12-25T04:03:36.293</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20241225/dfe811d6a83be464590cdddade05eee7cff4cebf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

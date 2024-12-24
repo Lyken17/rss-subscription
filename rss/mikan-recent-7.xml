@@ -5,55 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[遮天][第88集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/d76a59981bb280bcf5d1fd8d50073f6f60af496f</link>
-			<title>[遮天][第88集][国语中字][WEB-MKV][2160P]</title>
-			<description>[遮天][第88集][国语中字][WEB-MKV][2160P][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d76a59981bb280bcf5d1fd8d50073f6f60af496f</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2024-12-17T20:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20241217/d76a59981bb280bcf5d1fd8d50073f6f60af496f.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>未知</group>
-				<title_en>遮天</title_en>
-				<resolution>2160P</resolution>
-				<episode>88</episode>
-				<season>1</season>
-				<title_zh>遮天</title_zh>
-				<sub>国语中字</sub>
-				<title_jp>遮天</title_jp>
-				<size>1.2GB</size>
-				<season_raw></season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[徒弟个个是大佬][第17集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/647cf59f0a0db9fc2521b6518fc17805d1b62d63</link>
-			<title>[徒弟个个是大佬][第17集][国语中字][WEB-MKV][2160P]</title>
-			<description>[徒弟个个是大佬][第17集][国语中字][WEB-MKV][2160P][807.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/647cf59f0a0db9fc2521b6518fc17805d1b62d63</link>
-				<contentLength>846620288</contentLength>
-				<pubDate>2024-12-17T19:33:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="846620288" url="https://mikanani.me/Download/20241217/647cf59f0a0db9fc2521b6518fc17805d1b62d63.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>未知</group>
-				<title_en>未知</title_en>
-				<resolution>2160P</resolution>
-				<episode>17</episode>
-				<season>1</season>
-				<title_zh>徒弟个个是大佬</title_zh>
-				<sub>国语中字</sub>
-				<title_jp>未知</title_jp>
-				<season_raw>第17集</season_raw>
-				<source>WEB-MKV</source>
-				<size>807.4MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/efedb34d58039b2b3b7779746523921067973572</link>
 			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -8274,6 +8225,18 @@
 				<pubDate>2024-12-25T02:30:55.298</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="767201088" url="https://mikanani.me/Download/20241225/b8d25e2f6249b9be5f7953ce7b6c884a75363d94.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
+			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)[1.29 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
+				<contentLength>1385126912</contentLength>
+				<pubDate>2024-12-25T04:03:36.293</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20241225/dfe811d6a83be464590cdddade05eee7cff4cebf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

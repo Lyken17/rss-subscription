@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
+			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)[1.29 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
+				<contentLength>1385126912</contentLength>
+				<pubDate>2024-12-25T04:03:36.293</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20241225/dfe811d6a83be464590cdddade05eee7cff4cebf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 13 - [简体内封][H265 10bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/22146ec7301911c83744b093fcce0ef0c414f475</link>
 			<title>[三明治摆烂组] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 13 - [简体内封][H265 10bit 1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-23T14:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="661861184" url="https://mikanani.me/Download/20241223/257653875a0a6a8ec7ec93e318e02a77a620e257.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【38】GB MP4_720P</guid>
-			<link>https://mikanani.me/Home/Episode/fac8369c79dbf5834ebeb4bb0168a28d9f455525</link>
-			<title>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【38】GB MP4_720P</title>
-			<description>【极影字幕社】 ★10月新番【死神 千年血战 相克谭】【Bleach Sennen Kessen-hen Soukoku-tan】【38】GB MP4_720P[341.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fac8369c79dbf5834ebeb4bb0168a28d9f455525</link>
-				<contentLength>357669280</contentLength>
-				<pubDate>2024-12-23T14:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="357669280" url="https://mikanani.me/Download/20241223/fac8369c79dbf5834ebeb4bb0168a28d9f455525.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
