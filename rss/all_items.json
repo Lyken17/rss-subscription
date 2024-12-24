@@ -79369,5 +79369,65 @@
       "@length": "812824640",
       "@url": "https://mikanani.me/Download/20241224/129ffbb0905e41d81d54422fe657ad0ae29fd761.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3b3b2aa7c0403267d77cec52417f0bcaa239e704",
+    "title": "[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip]",
+    "description": "[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip][1.42 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3b3b2aa7c0403267d77cec52417f0bcaa239e704",
+      "contentLength": "1524713344",
+      "pubDate": "2024-12-24T19:09:18.699"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1524713344",
+      "@url": "https://mikanani.me/Download/20241224/3b3b2aa7c0403267d77cec52417f0bcaa239e704.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[风车字幕组][灌篮高手剧场版][1080P][简体][MP4][BDRip]"
+    },
+    "link": "https://mikanani.me/Home/Episode/00e1763673ea26dff922a8585fc051eda55a95ee",
+    "title": "[风车字幕组][灌篮高手剧场版][1080P][简体][MP4][BDRip]",
+    "description": "[风车字幕组][灌篮高手剧场版][1080P][简体][MP4][BDRip][1.42 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/00e1763673ea26dff922a8585fc051eda55a95ee",
+      "contentLength": "1524713344",
+      "pubDate": "2024-12-24T19:01:17.854"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1524713344",
+      "@url": "https://mikanani.me/Download/20241224/00e1763673ea26dff922a8585fc051eda55a95ee.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[千夏字幕组&VCB-Studio] 大室家 - dear friends / Ohmuro-ke - dear friends 10-bit 1080p HEVC BDRip [Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/eaf098917da797379e4aafc8197bb391d05cb915",
+    "title": "[千夏字幕组&VCB-Studio] 大室家 - dear friends / Ohmuro-ke - dear friends 10-bit 1080p HEVC BDRip [Fin]",
+    "description": "[千夏字幕组&VCB-Studio] 大室家 - dear friends / Ohmuro-ke - dear friends 10-bit 1080p HEVC BDRip [Fin][7.2GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/eaf098917da797379e4aafc8197bb391d05cb915",
+      "contentLength": "7730940928",
+      "pubDate": "2024-12-24T18:32:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "7730940928",
+      "@url": "https://mikanani.me/Download/20241224/eaf098917da797379e4aafc8197bb391d05cb915.torrent"
+    }
   }
 ]
