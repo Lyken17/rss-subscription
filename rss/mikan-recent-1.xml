@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e202ecfcd88534064c2df80f5312f4a5c1503c11</link>
-			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 13 (ABEMA 1920x1080 AVC AAC MP4)[727.71 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e202ecfcd88534064c2df80f5312f4a5c1503c11</link>
-				<contentLength>763059264</contentLength>
-				<pubDate>2024-12-23T03:00:48.54</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="763059264" url="https://mikanani.me/Download/20241223/e202ecfcd88534064c2df80f5312f4a5c1503c11.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2d279eeaf8a8872e4934efdd5cd4f5956d8ad3dc</link>
-			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)[310.99 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2d279eeaf8a8872e4934efdd5cd4f5956d8ad3dc</link>
-				<contentLength>326096640</contentLength>
-				<pubDate>2024-12-23T03:15:33.564</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="326096640" url="https://mikanani.me/Download/20241223/2d279eeaf8a8872e4934efdd5cd4f5956d8ad3dc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/59a2eef43c34e3596ecbb5581d469afc29619546</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -831,6 +807,18 @@
 				<pubDate>2024-12-24T10:03:14.516</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20241224/f3c80ddea258fc29d05d5b389036e40f054b4327.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d503d53004733dbe75b7d5814f7b3a9f6cf57028</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)[639.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d503d53004733dbe75b7d5814f7b3a9f6cf57028</link>
+				<contentLength>670218304</contentLength>
+				<pubDate>2024-12-24T11:03:17.712</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="670218304" url="https://mikanani.me/Download/20241224/d503d53004733dbe75b7d5814f7b3a9f6cf57028.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
