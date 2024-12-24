@@ -79429,5 +79429,45 @@
       "@length": "7730940928",
       "@url": "https://mikanani.me/Download/20241224/eaf098917da797379e4aafc8197bb391d05cb915.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip]"
+    },
+    "link": "https://mikanani.me/Home/Episode/893da53e7fb7606fa82a5f317e44823edc2537c2",
+    "title": "[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip]",
+    "description": "[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip][6.4GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/893da53e7fb7606fa82a5f317e44823edc2537c2",
+      "contentLength": "6871947776",
+      "pubDate": "2024-12-24T19:15:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "6871947776",
+      "@url": "https://mikanani.me/Download/20241224/893da53e7fb7606fa82a5f317e44823edc2537c2.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[风车字幕组][灌篮高手剧场版][2160P][简体][MP4][BDRip]"
+    },
+    "link": "https://mikanani.me/Home/Episode/42dedc147816164b36e6f5d89e128047998193dd",
+    "title": "[风车字幕组][灌篮高手剧场版][2160P][简体][MP4][BDRip]",
+    "description": "[风车字幕组][灌篮高手剧场版][2160P][简体][MP4][BDRip][6.43 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/42dedc147816164b36e6f5d89e128047998193dd",
+      "contentLength": "6904159744",
+      "pubDate": "2024-12-24T19:13:58.693"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "6904159744",
+      "@url": "https://mikanani.me/Download/20241224/42dedc147816164b36e6f5d89e128047998193dd.torrent"
+    }
   }
 ]

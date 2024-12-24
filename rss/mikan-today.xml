@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip]</guid>
+			<link>https://mikanani.me/Home/Episode/893da53e7fb7606fa82a5f317e44823edc2537c2</link>
+			<title>[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip]</title>
+			<description>[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip][6.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/893da53e7fb7606fa82a5f317e44823edc2537c2</link>
+				<contentLength>6871947776</contentLength>
+				<pubDate>2024-12-24T19:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6871947776" url="https://mikanani.me/Download/20241224/893da53e7fb7606fa82a5f317e44823edc2537c2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[风车字幕组][灌篮高手剧场版][2160P][简体][MP4][BDRip]</guid>
+			<link>https://mikanani.me/Home/Episode/42dedc147816164b36e6f5d89e128047998193dd</link>
+			<title>[风车字幕组][灌篮高手剧场版][2160P][简体][MP4][BDRip]</title>
+			<description>[风车字幕组][灌篮高手剧场版][2160P][简体][MP4][BDRip][6.43 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42dedc147816164b36e6f5d89e128047998193dd</link>
+				<contentLength>6904159744</contentLength>
+				<pubDate>2024-12-24T19:13:58.693</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6904159744" url="https://mikanani.me/Download/20241224/42dedc147816164b36e6f5d89e128047998193dd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip]</guid>
 			<link>https://mikanani.me/Home/Episode/3b3b2aa7c0403267d77cec52417f0bcaa239e704</link>
 			<title>[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2024-12-23T00:01:08.873</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="740619712" url="https://mikanani.me/Download/20241223/a642ce5e3d12e75cc3896e7f5e1af37cfb7b3f1b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/16034cefcbf61c5f8d307f932df3d6df6323b490</link>
-			<title>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 12 (ABEMA 1920x1080 AVC AAC MP4)[711.59 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/16034cefcbf61c5f8d307f932df3d6df6323b490</link>
-				<contentLength>746156224</contentLength>
-				<pubDate>2024-12-23T00:01:06.583</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746156224" url="https://mikanani.me/Download/20241223/16034cefcbf61c5f8d307f932df3d6df6323b490.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] MF Ghost S02 /  燃油车斗魂 第二季 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e63f51b32d6619379b914853e388121ee9c72e20</link>
-			<title>[ANi] MF Ghost S02 /  燃油车斗魂 第二季 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] MF Ghost S02 /  燃油车斗魂 第二季 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][706.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e63f51b32d6619379b914853e388121ee9c72e20</link>
-				<contentLength>740818944</contentLength>
-				<pubDate>2024-12-23T00:01:02.214373</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="740818944" url="https://mikanani.me/Download/20241223/e63f51b32d6619379b914853e388121ee9c72e20.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
