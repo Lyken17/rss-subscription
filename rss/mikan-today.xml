@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6aa9d80158860350bf79603bcf1908e0d14359ad</link>
+			<title>[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)[716.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6aa9d80158860350bf79603bcf1908e0d14359ad</link>
+				<contentLength>751535360</contentLength>
+				<pubDate>2024-12-26T03:00:51.459</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="751535360" url="https://mikanani.me/Download/20241226/6aa9d80158860350bf79603bcf1908e0d14359ad.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 52 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1c1497742c837e4cb06010d7b43de6e8104d1695</link>
 			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 52 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-24T02:31:08.683</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="758151936" url="https://mikanani.me/Download/20241224/a387c76ccde43b41de0433716f9b4dc22d9fc60c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 五等分的新娘＊ / 5-toubun no Hanayome＊ - 02 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/94c18610dd1a47616c607bffc823e1d44f83c108</link>
-			<title>[Up to 21°C] 五等分的新娘＊ / 5-toubun no Hanayome＊ - 02 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 五等分的新娘＊ / 5-toubun no Hanayome＊ - 02 (B-Global 1920x1080 HEVC AAC MKV)[370.99 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/94c18610dd1a47616c607bffc823e1d44f83c108</link>
-				<contentLength>389011200</contentLength>
-				<pubDate>2024-12-24T02:28:54.679</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="389011200" url="https://mikanani.me/Download/20241224/94c18610dd1a47616c607bffc823e1d44f83c108.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip]</guid>
-			<link>https://mikanani.me/Home/Episode/3b3b2aa7c0403267d77cec52417f0bcaa239e704</link>
-			<title>[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip]</title>
-			<description>[风车字幕组][灌篮高手剧场版][1080P][繁体][MP4][BDRip][1.42 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3b3b2aa7c0403267d77cec52417f0bcaa239e704</link>
-				<contentLength>1524713344</contentLength>
-				<pubDate>2024-12-24T19:09:18.699</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1524713344" url="https://mikanani.me/Download/20241224/3b3b2aa7c0403267d77cec52417f0bcaa239e704.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[风车字幕组][灌篮高手剧场版][1080P][简体][MP4][BDRip]</guid>
-			<link>https://mikanani.me/Home/Episode/00e1763673ea26dff922a8585fc051eda55a95ee</link>
-			<title>[风车字幕组][灌篮高手剧场版][1080P][简体][MP4][BDRip]</title>
-			<description>[风车字幕组][灌篮高手剧场版][1080P][简体][MP4][BDRip][1.42 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/00e1763673ea26dff922a8585fc051eda55a95ee</link>
-				<contentLength>1524713344</contentLength>
-				<pubDate>2024-12-24T19:01:17.854</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1524713344" url="https://mikanani.me/Download/20241224/00e1763673ea26dff922a8585fc051eda55a95ee.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 大室家 - dear friends / Ohmuro-ke - dear friends 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/eaf098917da797379e4aafc8197bb391d05cb915</link>
-			<title>[千夏字幕组&amp;VCB-Studio] 大室家 - dear friends / Ohmuro-ke - dear friends 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[千夏字幕组&amp;VCB-Studio] 大室家 - dear friends / Ohmuro-ke - dear friends 10-bit 1080p HEVC BDRip [Fin][7.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eaf098917da797379e4aafc8197bb391d05cb915</link>
-				<contentLength>7730940928</contentLength>
-				<pubDate>2024-12-24T18:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7730940928" url="https://mikanani.me/Download/20241224/eaf098917da797379e4aafc8197bb391d05cb915.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip]</guid>
 			<link>https://mikanani.me/Home/Episode/893da53e7fb7606fa82a5f317e44823edc2537c2</link>
 			<title>[风车字幕组][灌篮高手剧场版][2160P][繁体][MP4][BDRip]</title>
@@ -1047,6 +1011,18 @@
 				<pubDate>2024-12-26T01:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="152578719744" url="https://mikanani.me/Download/20241226/7da46a238e3627532309f6572e40acfabf4b4055.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6aa9d80158860350bf79603bcf1908e0d14359ad</link>
+			<title>[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)[716.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6aa9d80158860350bf79603bcf1908e0d14359ad</link>
+				<contentLength>751535360</contentLength>
+				<pubDate>2024-12-26T03:00:51.459</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="751535360" url="https://mikanani.me/Download/20241226/6aa9d80158860350bf79603bcf1908e0d14359ad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
