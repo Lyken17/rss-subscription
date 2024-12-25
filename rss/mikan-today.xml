@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【FSD】银翼超人真人版\ウイングマン\Wingman [10][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/ed65b3543da96382fb95ffc8a38dbbe9ed32deae</link>
+			<title>【FSD】银翼超人真人版\ウイングマン\Wingman [10][1080p][简体内嵌]</title>
+			<description>【FSD】银翼超人真人版\ウイングマン\Wingman [10][1080p][简体内嵌][754.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed65b3543da96382fb95ffc8a38dbbe9ed32deae</link>
+				<contentLength>791045760</contentLength>
+				<pubDate>2024-12-25T19:11:39.091417</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="791045760" url="https://mikanani.me/Download/20241225/ed65b3543da96382fb95ffc8a38dbbe9ed32deae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/a075290d4d749658c55858531353dc2e4615bab4</link>
 			<title>悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-23T21:57:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20241223/446203526301144dcf64a89d73af7cfc7c55d4e6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 36 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/6cff9a8c138859a7ff2b388b7042ae9376cc675c</link>
-			<title>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 36 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 36 (ABEMA 1280x720 AVC AAC MP4)[354.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6cff9a8c138859a7ff2b388b7042ae9376cc675c</link>
-				<contentLength>371982336</contentLength>
-				<pubDate>2024-12-23T21:30:58.613</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="371982336" url="https://mikanani.me/Download/20241223/6cff9a8c138859a7ff2b388b7042ae9376cc675c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
