@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="537258880" url="https://mikanani.me/Download/20241224/8306ba415c15172a3c0aee371cccd97d27d05e13.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f3c80ddea258fc29d05d5b389036e40f054b4327</link>
-			<title>[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 12 (CR 1920x1080 AVC AAC MKV)[1.37 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f3c80ddea258fc29d05d5b389036e40f054b4327</link>
-				<contentLength>1471026304</contentLength>
-				<pubDate>2024-12-24T10:03:14.516</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20241224/f3c80ddea258fc29d05d5b389036e40f054b4327.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d503d53004733dbe75b7d5814f7b3a9f6cf57028</link>
 			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -723,6 +711,18 @@
 				<pubDate>2024-12-25T16:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="521771424" url="https://mikanani.me/Download/20241225/e4ed657d0ad52eb6785ac60d4166965bccaabc4a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/a075290d4d749658c55858531353dc2e4615bab4</link>
+			<title>悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P]</title>
+			<description>悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P][2.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a075290d4d749658c55858531353dc2e4615bab4</link>
+				<contentLength>3006477056</contentLength>
+				<pubDate>2024-12-25T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20241225/a075290d4d749658c55858531353dc2e4615bab4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

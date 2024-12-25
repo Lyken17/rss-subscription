@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/a075290d4d749658c55858531353dc2e4615bab4</link>
+			<title>悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P]</title>
+			<description>悲喜渔生 / ネガポジアングラー / NegaPosi Angler[简日双语字幕][1-12全集][1080P][2.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a075290d4d749658c55858531353dc2e4615bab4</link>
+				<contentLength>3006477056</contentLength>
+				<pubDate>2024-12-25T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20241225/a075290d4d749658c55858531353dc2e4615bab4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[夏目友人帐 七_Natsume Yuujinchou Shichi][日语中字][1-12全集][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/eecaa438fad3562197131c3ed5328bb9809ef109</link>
 			<title>[夏目友人帐 七_Natsume Yuujinchou Shichi][日语中字][1-12全集][4K]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-23T21:30:58.613</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371982336" url="https://mikanani.me/Download/20241223/6cff9a8c138859a7ff2b388b7042ae9376cc675c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][吞噬星空][Swallowed Star][2021][151][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/7900fc7d1948d55a60db1772f1a2f3d02b56c531</link>
-			<title>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][151][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][151][AVC][GB][1080P][543.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7900fc7d1948d55a60db1772f1a2f3d02b56c531</link>
-				<contentLength>570310016</contentLength>
-				<pubDate>2024-12-23T21:20:13.072</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="570310016" url="https://mikanani.me/Download/20241223/7900fc7d1948d55a60db1772f1a2f3d02b56c531.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
