@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 治愈魔法的错误使用方法 / 治愈魔法の间违った使い方 / Chiyu Mahou no Machigatta Tsukaikata (BD REENCODE EP01-13+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/e38b47054cdb31ca9bf255d69af5d05e621c2d17</link>
+			<title>[Fatum Fatalis] 治愈魔法的错误使用方法 / 治愈魔法の间违った使い方 / Chiyu Mahou no Machigatta Tsukaikata (BD REENCODE EP01-13+SP Fin)</title>
+			<description>[Fatum Fatalis] 治愈魔法的错误使用方法 / 治愈魔法の间违った使い方 / Chiyu Mahou no Machigatta Tsukaikata (BD REENCODE EP01-13+SP Fin)[29.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e38b47054cdb31ca9bf255d69af5d05e621c2d17</link>
+				<contentLength>31568009216</contentLength>
+				<pubDate>2024-12-26T13:15:46.736051</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="31568009216" url="https://mikanani.me/Download/20241226/e38b47054cdb31ca9bf255d69af5d05e621c2d17.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 哥布林杀手II / Goblin Slayer II / ゴブリンスレイヤーII 10-bit 1080p HEVC BDRip [S2 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/753bf00095be530d896d18484be1113ef383068f</link>
 			<title>[VCB-Studio] 哥布林杀手II / Goblin Slayer II / ゴブリンスレイヤーII 10-bit 1080p HEVC BDRip [S2 Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-24T15:12:38.249</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="241319280" url="https://mikanani.me/Download/20241224/d5a500e7700ce626eabda84e6ed03eab0c5fcc55.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d503d53004733dbe75b7d5814f7b3a9f6cf57028</link>
-			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)[639.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d503d53004733dbe75b7d5814f7b3a9f6cf57028</link>
-				<contentLength>670218304</contentLength>
-				<pubDate>2024-12-24T11:03:17.712</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="670218304" url="https://mikanani.me/Download/20241224/d503d53004733dbe75b7d5814f7b3a9f6cf57028.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

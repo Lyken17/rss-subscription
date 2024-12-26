@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/fc9fdad960bf6e238e719c5540680060d17c2ae3</link>
-			<title>[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 名侦探柯南：100万美元的五棱星 / Detective Conan: The Million-dollar Pentagram [WEB-DL][1080p][AVC AAC][1.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fc9fdad960bf6e238e719c5540680060d17c2ae3</link>
-				<contentLength>1717986944</contentLength>
-				<pubDate>2024-11-26T04:39:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20241126/fc9fdad960bf6e238e719c5540680060d17c2ae3.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Skymoon-Raws</group>
-				<title_en>Detective Conan: The Million-dollar Pentagram</title_en>
-				<resolution>1080p</resolution>
-				<episode>100万美元的五棱星</episode>
-				<season>1</season>
-				<title_zh>名侦探柯南：100万美元的五棱星</title_zh>
-				<sub>en</sub>
-				<title_jp>100万ドルの五角形</title_jp>
-				<season_raw>The Million-dollar Pentagram</season_raw>
-				<source>WEB-DL</source>
-				<size>1.6GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Seirei Gensouki /  精灵幻想记 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/0a7f7234fed53d1fc9a4606f85b39a2390143c01</link>
 			<title>[ANi] Seirei Gensouki /  精灵幻想记 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -54325,6 +54300,18 @@
 				<pubDate>2024-12-26T11:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15354508288" url="https://mikanani.me/Download/20241226/753bf00095be530d896d18484be1113ef383068f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 治愈魔法的错误使用方法 / 治愈魔法の间违った使い方 / Chiyu Mahou no Machigatta Tsukaikata (BD REENCODE EP01-13+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/e38b47054cdb31ca9bf255d69af5d05e621c2d17</link>
+			<title>[Fatum Fatalis] 治愈魔法的错误使用方法 / 治愈魔法の间违った使い方 / Chiyu Mahou no Machigatta Tsukaikata (BD REENCODE EP01-13+SP Fin)</title>
+			<description>[Fatum Fatalis] 治愈魔法的错误使用方法 / 治愈魔法の间违った使い方 / Chiyu Mahou no Machigatta Tsukaikata (BD REENCODE EP01-13+SP Fin)[29.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e38b47054cdb31ca9bf255d69af5d05e621c2d17</link>
+				<contentLength>31568009216</contentLength>
+				<pubDate>2024-12-26T13:15:46.736051</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="31568009216" url="https://mikanani.me/Download/20241226/e38b47054cdb31ca9bf255d69af5d05e621c2d17.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
