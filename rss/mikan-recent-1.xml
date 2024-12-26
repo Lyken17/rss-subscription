@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/3f6443b3a4f00c7617505aedc5e815ffe6bde79a</link>
-			<title>[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][276.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3f6443b3a4f00c7617505aedc5e815ffe6bde79a</link>
-				<contentLength>289490848</contentLength>
-				<pubDate>2024-12-25T12:52:33.226</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="289490848" url="https://mikanani.me/Download/20241225/3f6443b3a4f00c7617505aedc5e815ffe6bde79a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[都市古仙医][第30集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/bcda0f2981e03a11b1f5a3ff8ed2d0fa2954ddc5</link>
 			<title>[都市古仙医][第30集][国语中字][WEB-MKV][2160P]</title>
@@ -987,6 +975,30 @@
 				<pubDate>2024-12-26T17:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="53794463744" url="https://mikanani.me/Download/20241226/6fd19df58010b5439af18f32cfb83a63ff1de326.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] Shibuya♡Hachi Part 2 - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/33cb48750312018e0559db226ec8e2f1b29567f0</link>
+			<title>[Up to 21°C] Shibuya♡Hachi Part 2 - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] Shibuya♡Hachi Part 2 - 25 (ABEMA 1920x1080 AVC AAC MP4)[79.68 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33cb48750312018e0559db226ec8e2f1b29567f0</link>
+				<contentLength>83550536</contentLength>
+				<pubDate>2024-12-26T21:00:33.275</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="83550536" url="https://mikanani.me/Download/20241226/33cb48750312018e0559db226ec8e2f1b29567f0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][86-89][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/33a4b6badf281bf1a1043d81bfaeeb40c7b5cd94</link>
+			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][86-89][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][86-89][AVC][GB][1080P][2.11 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33a4b6badf281bf1a1043d81bfaeeb40c7b5cd94</link>
+				<contentLength>2265595136</contentLength>
+				<pubDate>2024-12-26T20:58:08.238</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2265595136" url="https://mikanani.me/Download/20241226/33a4b6badf281bf1a1043d81bfaeeb40c7b5cd94.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
