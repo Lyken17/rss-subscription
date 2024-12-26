@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/3d69d4059e603695f4ff2e30bcb025f7f4d344c7</link>
+			<title>[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][455.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d69d4059e603695f4ff2e30bcb025f7f4d344c7</link>
+				<contentLength>477416640</contentLength>
+				<pubDate>2024-12-27T03:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="477416640" url="https://mikanani.me/Download/20241227/3d69d4059e603695f4ff2e30bcb025f7f4d344c7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5df6b264bde93f2ca14acc3abdfeb17a60eb2d7e</link>
+			<title>[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 23 (ABEMA 1920x1080 AVC AAC MP4)[729.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5df6b264bde93f2ca14acc3abdfeb17a60eb2d7e</link>
+				<contentLength>764757952</contentLength>
+				<pubDate>2024-12-27T02:30:50.958</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="764757952" url="https://mikanani.me/Download/20241227/5df6b264bde93f2ca14acc3abdfeb17a60eb2d7e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] BLEACH 死神 千年血战篇-相克谭- / Bleach: Sennen Kessen-hen - Soukoku-tan - 38 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/7c567dcb7c9499763a86f91102a278b87c126239</link>
 			<title>[Up to 21°C] BLEACH 死神 千年血战篇-相克谭- / Bleach: Sennen Kessen-hen - Soukoku-tan - 38 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2024-12-25T16:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20241225/7bb2b0efd93ad64c00c48051fe7605bebf3bbd3e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[一念永恒][第135集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/e4ed657d0ad52eb6785ac60d4166965bccaabc4a</link>
-			<title>[一念永恒][第135集][国语中字][WEB-MKV][2160P]</title>
-			<description>[一念永恒][第135集][国语中字][WEB-MKV][2160P][497.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4ed657d0ad52eb6785ac60d4166965bccaabc4a</link>
-				<contentLength>521771424</contentLength>
-				<pubDate>2024-12-25T16:21:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="521771424" url="https://mikanani.me/Download/20241225/e4ed657d0ad52eb6785ac60d4166965bccaabc4a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[徒弟个个是大佬][第20集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/d8048f59eacf937724ee9bf95dee1becb397b535</link>
-			<title>[徒弟个个是大佬][第20集][国语中字][WEB-MKV][2160P]</title>
-			<description>[徒弟个个是大佬][第20集][国语中字][WEB-MKV][2160P][811.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8048f59eacf937724ee9bf95dee1becb397b535</link>
-				<contentLength>850709696</contentLength>
-				<pubDate>2024-12-25T15:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="850709696" url="https://mikanani.me/Download/20241225/d8048f59eacf937724ee9bf95dee1becb397b535.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
