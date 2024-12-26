@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)[1.29 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
-				<contentLength>1385126912</contentLength>
-				<pubDate>2024-12-25T04:03:36.293</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20241225/dfe811d6a83be464590cdddade05eee7cff4cebf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/3f6443b3a4f00c7617505aedc5e815ffe6bde79a</link>
 			<title>[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -651,6 +639,18 @@
 				<pubDate>2024-12-26T05:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16750372864" url="https://mikanani.me/Download/20241226/9eec3e4cba8cf744ce40d5353b68fd05e2dd5f00.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 哥布林杀手II / Goblin Slayer II / ゴブリンスレイヤーII 10-bit 1080p HEVC BDRip [S2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/753bf00095be530d896d18484be1113ef383068f</link>
+			<title>[VCB-Studio] 哥布林杀手II / Goblin Slayer II / ゴブリンスレイヤーII 10-bit 1080p HEVC BDRip [S2 Fin]</title>
+			<description>[VCB-Studio] 哥布林杀手II / Goblin Slayer II / ゴブリンスレイヤーII 10-bit 1080p HEVC BDRip [S2 Fin][14.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/753bf00095be530d896d18484be1113ef383068f</link>
+				<contentLength>15354508288</contentLength>
+				<pubDate>2024-12-26T11:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15354508288" url="https://mikanani.me/Download/20241226/753bf00095be530d896d18484be1113ef383068f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
