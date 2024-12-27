@@ -940,5 +940,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="786505408" url="https://mikanani.me/Download/20241227/66a1d42a1f55f7281a9a1243e681bfa0dc4b5253.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][十二大战 导演剪辑版/Juuni Taisen Director's Cut/十二大戦 ディレクターズカット版][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/bfca2a593eb3fe40573c3a90a5fd2e4781c23f0d</link>
+			<title>[DBD-Raws][十二大战 导演剪辑版/Juuni Taisen Director's Cut/十二大戦 ディレクターズカット版][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][十二大战 导演剪辑版/Juuni Taisen Director's Cut/十二大戦 ディレクターズカット版][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][11.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bfca2a593eb3fe40573c3a90a5fd2e4781c23f0d</link>
+				<contentLength>12777527296</contentLength>
+				<pubDate>2024-12-27T17:21:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12777527296" url="https://mikanani.me/Download/20241227/bfca2a593eb3fe40573c3a90a5fd2e4781c23f0d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
