@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5</link>
-			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 135 (ABEMA 1920x1080 AVC AAC MP4)[721.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5</link>
-				<contentLength>757040384</contentLength>
-				<pubDate>2024-11-27T03:00:47.083</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="757040384" url="https://mikanani.me/Download/20241127/a7b61cbd54a2ba64f34b600a36a6b2babf1327e5.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Yu☆Gi☆Oh! Go Rush!!</title_en>
-				<resolution>1080p</resolution>
-				<episode>135</episode>
-				<season>1</season>
-				<title_zh>游戏王 Go Rush！！</title_zh>
-				<sub> </sub>
-				<title_jp>Yu☆Gi☆Oh! Go Rush!!</title_jp>
-				<season_raw>ABEMA 1920x1080</season_raw>
-				<source>MP4</source>
-				<size>721.97 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/59f196831f1abb79769d49fea76f72c35c7c9852</link>
 			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (CR 1920x1080 AVC AAC MKV)</title>
@@ -53575,6 +53550,18 @@
 				<pubDate>2024-12-27T09:50:01.827</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="78569800" url="https://mikanani.me/Download/20241227/cff5e92ba50fee9392ac6b8af9a678382d4bbac5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/6e244cbe03d69115f35321470ec2fe5b87cfe462</link>
+			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)[245.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e244cbe03d69115f35321470ec2fe5b87cfe462</link>
+				<contentLength>257142288</contentLength>
+				<pubDate>2024-12-27T11:02:48.648</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257142288" url="https://mikanani.me/Download/20241227/6e244cbe03d69115f35321470ec2fe5b87cfe462.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/6e244cbe03d69115f35321470ec2fe5b87cfe462</link>
+			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)[245.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e244cbe03d69115f35321470ec2fe5b87cfe462</link>
+				<contentLength>257142288</contentLength>
+				<pubDate>2024-12-27T11:02:48.648</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257142288" url="https://mikanani.me/Download/20241227/6e244cbe03d69115f35321470ec2fe5b87cfe462.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cff5e92ba50fee9392ac6b8af9a678382d4bbac5</link>
 			<title>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-25T21:31:22.187</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749448704" url="https://mikanani.me/Download/20241225/4acb53984c55efaa4ffd912581e051af5c25e55e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[萌樱字幕组] 常轨脱离Creative [09][HEVC_AAC][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/880145c4647368791d1ca1385368bb80417ce3e1</link>
-			<title>[萌樱字幕组] 常轨脱离Creative [09][HEVC_AAC][1080p][简日内嵌]</title>
-			<description>[萌樱字幕组] 常轨脱离Creative [09][HEVC_AAC][1080p][简日内嵌][76.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/880145c4647368791d1ca1385368bb80417ce3e1</link>
-				<contentLength>80216064</contentLength>
-				<pubDate>2024-12-25T20:06:30.644037</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="80216064" url="https://mikanani.me/Download/20241225/880145c4647368791d1ca1385368bb80417ce3e1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
