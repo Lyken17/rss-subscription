@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 悲喜渔生 / Negative Positive Angler - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/1a77544234aa249ced634c3d794b38be1460528f</link>
-			<title>[LoliHouse] 悲喜渔生 / Negative Positive Angler - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 悲喜渔生 / Negative Positive Angler - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][410.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1a77544234aa249ced634c3d794b38be1460528f</link>
-				<contentLength>429979072</contentLength>
-				<pubDate>2024-12-20T07:38:00.375</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="429979072" url="https://mikanani.me/Download/20241220/1a77544234aa249ced634c3d794b38be1460528f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/b97d58b7d8bc893d4ea6f8ccaf8c9140f4bc94df</link>
 			<title>[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -747,6 +735,18 @@
 				<pubDate>2024-12-26T23:09:46.68</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="10286446592" url="https://mikanani.me/Download/20241226/8a396c18f2771387708e04e149efcb4854413e24.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5c386cc6c72c6cc31d451dd5471d3d77dfd755a4</link>
+			<title>[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 真的要结婚吗 / 结婚するって、本当ですか / Kekkon suru tte, Hontou desu ka / 365 Days to the Wedding [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][6.71 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5c386cc6c72c6cc31d451dd5471d3d77dfd755a4</link>
+				<contentLength>7204807680</contentLength>
+				<pubDate>2024-12-27T15:40:42.579</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7204807680" url="https://mikanani.me/Download/20241227/5c386cc6c72c6cc31d451dd5471d3d77dfd755a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
