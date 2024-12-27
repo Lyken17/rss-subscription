@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cff5e92ba50fee9392ac6b8af9a678382d4bbac5</link>
+			<title>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕]</title>
+			<description>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕][74.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cff5e92ba50fee9392ac6b8af9a678382d4bbac5</link>
+				<contentLength>78569800</contentLength>
+				<pubDate>2024-12-27T09:50:01.827</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="78569800" url="https://mikanani.me/Download/20241227/cff5e92ba50fee9392ac6b8af9a678382d4bbac5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【11】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/75ad5625891a6ad72f4ef2f95d1a37525274ea81</link>
 			<title>【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【11】【BIG5_MP4】【1920X1080】</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-25T20:06:30.644037</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="80216064" url="https://mikanani.me/Download/20241225/880145c4647368791d1ca1385368bb80417ce3e1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[萌樱字幕组] 常轨脱离Creative [08][HEVC_AAC][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/72b11bf147d20a55db3d8d5f55b7074b0985d520</link>
-			<title>[萌樱字幕组] 常轨脱离Creative [08][HEVC_AAC][1080p][简日内嵌]</title>
-			<description>[萌樱字幕组] 常轨脱离Creative [08][HEVC_AAC][1080p][简日内嵌][83.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/72b11bf147d20a55db3d8d5f55b7074b0985d520</link>
-				<contentLength>87556096</contentLength>
-				<pubDate>2024-12-25T20:06:25.560892</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="87556096" url="https://mikanani.me/Download/20241225/72b11bf147d20a55db3d8d5f55b7074b0985d520.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

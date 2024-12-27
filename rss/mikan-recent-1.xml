@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 52 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1c1497742c837e4cb06010d7b43de6e8104d1695</link>
-			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 52 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 52 (ABEMA 1920x1080 AVC AAC MP4)[80.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1c1497742c837e4cb06010d7b43de6e8104d1695</link>
-				<contentLength>84211136</contentLength>
-				<pubDate>2024-12-26T02:03:29.884</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="84211136" url="https://mikanani.me/Download/20241226/1c1497742c837e4cb06010d7b43de6e8104d1695.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/6aa9d80158860350bf79603bcf1908e0d14359ad</link>
 			<title>[Up to 21°C] FAIRY TAIL 魔导少年 百年任务 / Fairy Tail: 100-nen Quest - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -843,6 +831,18 @@
 				<pubDate>2024-12-27T08:17:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="215692080" url="https://mikanani.me/Download/20241227/5c126d10bf6633f7fc214aaeed5e5e8d314668b5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cff5e92ba50fee9392ac6b8af9a678382d4bbac5</link>
+			<title>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕]</title>
+			<description>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [64] [HEVC-10bit 1080P] [简日双语] [特效字幕][74.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cff5e92ba50fee9392ac6b8af9a678382d4bbac5</link>
+				<contentLength>78569800</contentLength>
+				<pubDate>2024-12-27T09:50:01.827</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="78569800" url="https://mikanani.me/Download/20241227/cff5e92ba50fee9392ac6b8af9a678382d4bbac5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
