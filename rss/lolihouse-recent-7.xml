@@ -736,5 +736,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7204807680" url="https://mikanani.me/Download/20241227/5c386cc6c72c6cc31d451dd5471d3d77dfd755a4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 灵感满溢的甜蜜创想 / 常轨脱离Creative / Hamidashi Creative [无圣光版][01-12 合集][WebRip 1080p HEVC-10bit AAC][无字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/3b21a39b1ec58c91f98c05231c1f1db58f4451af</link>
+			<title>[LoliHouse] 灵感满溢的甜蜜创想 / 常轨脱离Creative / Hamidashi Creative [无圣光版][01-12 合集][WebRip 1080p HEVC-10bit AAC][无字幕][Fin]</title>
+			<description>[LoliHouse] 灵感满溢的甜蜜创想 / 常轨脱离Creative / Hamidashi Creative [无圣光版][01-12 合集][WebRip 1080p HEVC-10bit AAC][无字幕][Fin][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b21a39b1ec58c91f98c05231c1f1db58f4451af</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2024-12-27T22:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20241227/3b21a39b1ec58c91f98c05231c1f1db58f4451af.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
