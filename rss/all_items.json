@@ -82589,5 +82589,45 @@
       "@length": "152578719744",
       "@url": "https://mikanani.me/Download/20241227/8f9507455189878a0c8325a5a5a2f16c4aeee7b6.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[TOC]青春之箱[13][1080P][AVC AAC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7ad5833a53296e240cefc9759e0da06670438245",
+    "title": "[TOC]青春之箱[13][1080P][AVC AAC][CHT][MP4]",
+    "description": "[TOC]青春之箱[13][1080P][AVC AAC][CHT][MP4][712.5 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7ad5833a53296e240cefc9759e0da06670438245",
+      "contentLength": "747110400",
+      "pubDate": "2024-12-27T14:14:55.597156"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "747110400",
+      "@url": "https://mikanani.me/Download/20241227/7ad5833a53296e240cefc9759e0da06670438245.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸羊羊制作] 青之箱 - 13V1 [NF WebRip AI2160p HEVC-10bit E-AC-3][官方简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/84c68cbaec8fe85ea3524ddf43d304b946142581",
+    "title": "[沸羊羊制作] 青之箱 - 13V1 [NF WebRip AI2160p HEVC-10bit E-AC-3][官方简繁内封字幕]",
+    "description": "[沸羊羊制作] 青之箱 - 13V1 [NF WebRip AI2160p HEVC-10bit E-AC-3][官方简繁内封字幕][862.5 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/84c68cbaec8fe85ea3524ddf43d304b946142581",
+      "contentLength": "904396800",
+      "pubDate": "2024-12-27T13:54:48.162546"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "904396800",
+      "@url": "https://mikanani.me/Download/20241227/84c68cbaec8fe85ea3524ddf43d304b946142581.torrent"
+    }
   }
 ]
