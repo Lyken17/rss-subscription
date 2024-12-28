@@ -83369,5 +83369,45 @@
       "@length": "433774912",
       "@url": "https://mikanani.me/Download/20241228/61586f30008735ccf8e4a80fb56c90cff9d835fa.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 大道朝天 / One Way or Another - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/730fb88fe2ab13ce01309507b514bcda3466540b",
+    "title": "[Up to 21°C] 大道朝天 / One Way or Another - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 大道朝天 / One Way or Another - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)[547.99 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/730fb88fe2ab13ce01309507b514bcda3466540b",
+      "contentLength": "574609152",
+      "pubDate": "2024-12-28T12:03:31.958"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "574609152",
+      "@url": "https://mikanani.me/Download/20241228/730fb88fe2ab13ce01309507b514bcda3466540b.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[jibaketa合成&音频压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 23 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)"
+    },
+    "link": "https://mikanani.me/Home/Episode/18fb9a654e124c71a4e86c09124c51063ba270bb",
+    "title": "[jibaketa合成&音频压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 23 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)",
+    "description": "[jibaketa合成&音频压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 23 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[1.58 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/18fb9a654e124c71a4e86c09124c51063ba270bb",
+      "contentLength": "1696512128",
+      "pubDate": "2024-12-28T11:47:28.044"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1696512128",
+      "@url": "https://mikanani.me/Download/20241228/18fb9a654e124c71a4e86c09124c51063ba270bb.torrent"
+    }
   }
 ]
