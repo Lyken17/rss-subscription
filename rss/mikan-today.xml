@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][22][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/62633be622b88f96449a4808641282856ba36e36</link>
+			<title>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][22][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][22][GB][4K HEVC 10Bit][916.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62633be622b88f96449a4808641282856ba36e36</link>
+				<contentLength>961156224</contentLength>
+				<pubDate>2024-12-28T15:40:46.313</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="961156224" url="https://mikanani.me/Download/20241228/62633be622b88f96449a4808641282856ba36e36.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 01 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/8d6e98bbb407200902704626fa03b76186f6f2aa</link>
 			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 01 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-26T16:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5690831872" url="https://mikanani.me/Download/20241226/42062c22c281417e141f738a8db7f1d441c9d252.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][超时空要塞Macross/Choujikuu Yousai Macross/超时空要塞マクロス][01-36TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/25747be06b58e5db432ce28b741eb140211c7bcd</link>
-			<title>[DBD-Raws][超时空要塞Macross/Choujikuu Yousai Macross/超时空要塞マクロス][01-36TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][超时空要塞Macross/Choujikuu Yousai Macross/超时空要塞マクロス][01-36TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][29.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25747be06b58e5db432ce28b741eb140211c7bcd</link>
-				<contentLength>31138512896</contentLength>
-				<pubDate>2024-12-26T16:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="31138512896" url="https://mikanani.me/Download/20241226/25747be06b58e5db432ce28b741eb140211c7bcd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

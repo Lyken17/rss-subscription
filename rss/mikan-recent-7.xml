@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="718379392" url="https://mikanani.me/Download/20241221/0d5ded4f654c42198205fb3d36e02343ea3d0ffe.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[沸羊羊制作] 龙珠大魔 - 11 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/75a2457b6f545c246d58850b6de916383ecf3785</link>
-			<title>[沸羊羊制作] 龙珠大魔 - 11 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[沸羊羊制作] 龙珠大魔 - 11 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕][344.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/75a2457b6f545c246d58850b6de916383ecf3785</link>
-				<contentLength>361339296</contentLength>
-				<pubDate>2024-12-21T07:45:17.848215</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="361339296" url="https://mikanani.me/Download/20241221/75a2457b6f545c246d58850b6de916383ecf3785.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d403e0cd05bbbd89290553f868c8d60b6825dfae</link>
 			<title>[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -6507,6 +6495,18 @@
 				<pubDate>2024-12-28T14:25:58.709684</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20241228/868acfcb4b81b3d6713c1e7e7e44c5c0efb7fddc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][22][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/62633be622b88f96449a4808641282856ba36e36</link>
+			<title>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][22][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][22][GB][4K HEVC 10Bit][916.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62633be622b88f96449a4808641282856ba36e36</link>
+				<contentLength>961156224</contentLength>
+				<pubDate>2024-12-28T15:40:46.313</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="961156224" url="https://mikanani.me/Download/20241228/62633be622b88f96449a4808641282856ba36e36.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
