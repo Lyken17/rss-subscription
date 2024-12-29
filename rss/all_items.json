@@ -85149,5 +85149,45 @@
       "@length": "725792832",
       "@url": "https://mikanani.me/Download/20241229/42ed01416899c5318183f7f5b64d8b6a9655e4ea.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 海贼王 / One Piece - 525(retake (B-Global 3840x2160 HEVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/24721b329c07b72ef91bba611134312a6d830093",
+    "title": "[Up to 21°C] 海贼王 / One Piece - 525(retake (B-Global 3840x2160 HEVC AAC MKV)",
+    "description": "[Up to 21°C] 海贼王 / One Piece - 525(retake (B-Global 3840x2160 HEVC AAC MKV)[1.2 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/24721b329c07b72ef91bba611134312a6d830093",
+      "contentLength": "1288490240",
+      "pubDate": "2024-12-29T13:07:40.232"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1288490240",
+      "@url": "https://mikanani.me/Download/20241229/24721b329c07b72ef91bba611134312a6d830093.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[牧神记][第11集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3a99e402295a69c00ba33136035fb832886f76f0",
+    "title": "[牧神记][第11集][国语中字][WEB-MKV][2160P]",
+    "description": "[牧神记][第11集][国语中字][WEB-MKV][2160P][2.5GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3a99e402295a69c00ba33136035fb832886f76f0",
+      "contentLength": "2684354560",
+      "pubDate": "2024-12-29T12:59:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2684354560",
+      "@url": "https://mikanani.me/Download/20241229/3a99e402295a69c00ba33136035fb832886f76f0.torrent"
+    }
   }
 ]

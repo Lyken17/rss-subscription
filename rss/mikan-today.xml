@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 525(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/24721b329c07b72ef91bba611134312a6d830093</link>
+			<title>[Up to 21°C] 海贼王 / One Piece - 525(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 海贼王 / One Piece - 525(retake (B-Global 3840x2160 HEVC AAC MKV)[1.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/24721b329c07b72ef91bba611134312a6d830093</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2024-12-29T13:07:40.232</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20241229/24721b329c07b72ef91bba611134312a6d830093.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[牧神记][第11集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/3a99e402295a69c00ba33136035fb832886f76f0</link>
+			<title>[牧神记][第11集][国语中字][WEB-MKV][2160P]</title>
+			<description>[牧神记][第11集][国语中字][WEB-MKV][2160P][2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a99e402295a69c00ba33136035fb832886f76f0</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2024-12-29T12:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20241229/3a99e402295a69c00ba33136035fb832886f76f0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit]</guid>
 			<link>https://mikanani.me/Home/Episode/42ed01416899c5318183f7f5b64d8b6a9655e4ea</link>
 			<title>[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2024-12-28T00:48:12.485</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20241228/1a2104181fd6ca6c22537218ea7dd05ebaa1b2dc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 龙珠大魔 / Dragon Ball Daima - 12 (ADN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d5b479e871d3a077e0f2a46d1accd609fd338339</link>
-			<title>[Up to 21°C] 龙珠大魔 / Dragon Ball Daima - 12 (ADN 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 龙珠大魔 / Dragon Ball Daima - 12 (ADN 1920x1080 AVC AAC MKV)[568.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d5b479e871d3a077e0f2a46d1accd609fd338339</link>
-				<contentLength>595895232</contentLength>
-				<pubDate>2024-12-28T00:47:53.205</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="595895232" url="https://mikanani.me/Download/20241228/d5b479e871d3a077e0f2a46d1accd609fd338339.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[丹道至尊][第1-20集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/7a887c37f3ae11e02eeba287c708e37e1fd26d21</link>
-			<title>[丹道至尊][第1-20集][国语中字][WEB-MKV][2160P]</title>
-			<description>[丹道至尊][第1-20集][国语中字][WEB-MKV][2160P][5.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7a887c37f3ae11e02eeba287c708e37e1fd26d21</link>
-				<contentLength>5583457280</contentLength>
-				<pubDate>2024-12-28T00:42:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20241228/7a887c37f3ae11e02eeba287c708e37e1fd26d21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
