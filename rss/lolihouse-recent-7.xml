@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔王2099 / Maou 2099 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5af56fc625cf207b28a6e18b0d928761c7b6b184</link>
-			<title>[LoliHouse] 魔王2099 / Maou 2099 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔王2099 / Maou 2099 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][561.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5af56fc625cf207b28a6e18b0d928761c7b6b184</link>
-				<contentLength>589163392</contentLength>
-				<pubDate>2024-12-22T16:51:45.845</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="589163392" url="https://mikanani.me/Download/20241222/5af56fc625cf207b28a6e18b0d928761c7b6b184.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/27f3fb2f4ed556c1a3513b1656db4c9cf31c1fa8</link>
 			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -531,6 +519,18 @@
 				<pubDate>2024-12-29T22:50:07.157</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="592005056" url="https://mikanani.me/Download/20241229/f3aaa22ba08f3d2fcd0efff6b5cd42d037570ced.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/03c60cc7b8533a3e9a3020d5a6f7540500f60d51</link>
+			<title>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/03c60cc7b8533a3e9a3020d5a6f7540500f60d51</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2024-12-30T01:07:21.105</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20241230/03c60cc7b8533a3e9a3020d5a6f7540500f60d51.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
