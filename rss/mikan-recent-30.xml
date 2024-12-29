@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][10][WEBrip][1080P][简日双语][425.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/389eafba00bae508a52a466758dbe14cdb395153</link>
-				<contentLength>445959360</contentLength>
-				<pubDate>2024-11-29T03:37:46.637142</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20241129/389eafba00bae508a52a466758dbe14cdb395153.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>今晚月色真美</group>
-				<title_en>Ao no Hako</title_en>
-				<resolution>1080P</resolution>
-				<episode>10</episode>
-				<season>1</season>
-				<title_zh>青之箱</title_zh>
-				<sub>简日双语</sub>
-				<title_jp>アオのハコ</title_jp>
-				<size>425.3 MB</size>
-				<source>WEBrip</source>
-				<season_raw></season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2eade1675b1ddcb2419585ef0b99f7cd7f5be8d3</link>
 			<title>[奇怪压制组] 【我推的孩子】 / 【推しの子】 / Oshi no Ko S01 [TV 01-06 Fin] [WebRip] [1080P AVC-8Bit OPUS 5.1 SRT×3] [简繁日内封字幕]</title>
@@ -51636,6 +51611,18 @@
 				<pubDate>2024-12-29T11:02:03.13</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8654359552" url="https://mikanani.me/Download/20241229/3f7ea23208730b5d1a27b07c8340dec966976fda.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/42ed01416899c5318183f7f5b64d8b6a9655e4ea</link>
+			<title>[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit][692.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42ed01416899c5318183f7f5b64d8b6a9655e4ea</link>
+				<contentLength>725792832</contentLength>
+				<pubDate>2024-12-29T12:08:07.296</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725792832" url="https://mikanani.me/Download/20241229/42ed01416899c5318183f7f5b64d8b6a9655e4ea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

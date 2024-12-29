@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/42ed01416899c5318183f7f5b64d8b6a9655e4ea</link>
+			<title>[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][徒弟个个是大佬][My Female Disciples Are Big Cheeses][2024][21][GB][4K HEVC 10Bit][692.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42ed01416899c5318183f7f5b64d8b6a9655e4ea</link>
+				<contentLength>725792832</contentLength>
+				<pubDate>2024-12-29T12:08:07.296</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725792832" url="https://mikanani.me/Download/20241229/42ed01416899c5318183f7f5b64d8b6a9655e4ea.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【MMSUB】[东离剑游纪 第4季 / Thunderbolt Fantasy 4th Season][01-12 Fin][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/3f7ea23208730b5d1a27b07c8340dec966976fda</link>
 			<title>【MMSUB】[东离剑游纪 第4季 / Thunderbolt Fantasy 4th Season][01-12 Fin][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-28T00:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20241228/7a887c37f3ae11e02eeba287c708e37e1fd26d21.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][12][1080P][MP4][GB][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/935fcf612d51b200b2571c2521c9b958409e6fd4</link>
-			<title>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][12][1080P][MP4][GB][简中]</title>
-			<description>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][12][1080P][MP4][GB][简中][590.32 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/935fcf612d51b200b2571c2521c9b958409e6fd4</link>
-				<contentLength>618995392</contentLength>
-				<pubDate>2024-12-28T00:28:21.454</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="618995392" url="https://mikanani.me/Download/20241228/935fcf612d51b200b2571c2521c9b958409e6fd4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
