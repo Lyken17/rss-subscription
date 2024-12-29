@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/44246d55f7e918c2c0c8a5516543c8d187ef08b2</link>
+			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)[311.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44246d55f7e918c2c0c8a5516543c8d187ef08b2</link>
+				<contentLength>326526560</contentLength>
+				<pubDate>2024-12-30T03:15:33.532</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="326526560" url="https://mikanani.me/Download/20241230/44246d55f7e918c2c0c8a5516543c8d187ef08b2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/e784d9209b96a715e42e52e4cb5f9a904d52e46a</link>
 			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-28T22:03:13.433</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="306834304" url="https://mikanani.me/Download/20241228/8bebdf71d64dc23ffc4cb1f84730691f6dd81417.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] S 级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活 / S-Rank Monster no 'Behemoth' dakedo - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9bfca70a5868a8ed10b441ca323a69a975801e3a</link>
-			<title>[Up to 21°C] S 级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活 / S-Rank Monster no 'Behemoth' dakedo - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] S 级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活 / S-Rank Monster no 'Behemoth' dakedo - 01 (Baha 1920x1080 AVC AAC MP4)[361.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9bfca70a5868a8ed10b441ca323a69a975801e3a</link>
-				<contentLength>378923904</contentLength>
-				<pubDate>2024-12-28T22:01:26.184</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="378923904" url="https://mikanani.me/Download/20241228/9bfca70a5868a8ed10b441ca323a69a975801e3a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
