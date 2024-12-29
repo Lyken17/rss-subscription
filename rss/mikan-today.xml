@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【MMSUB】[东离剑游纪 第4季 / Thunderbolt Fantasy 4th Season][01-12 Fin][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3f7ea23208730b5d1a27b07c8340dec966976fda</link>
+			<title>【MMSUB】[东离剑游纪 第4季 / Thunderbolt Fantasy 4th Season][01-12 Fin][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>【MMSUB】[东离剑游纪 第4季 / Thunderbolt Fantasy 4th Season][01-12 Fin][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][8.06 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f7ea23208730b5d1a27b07c8340dec966976fda</link>
+				<contentLength>8654359552</contentLength>
+				<pubDate>2024-12-29T11:02:03.13</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8654359552" url="https://mikanani.me/Download/20241229/3f7ea23208730b5d1a27b07c8340dec966976fda.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 凉宫春日 (凉宫ハルヒ) (Haruhi Suzumiya) 系列：TV动画 (2006年版、2009年版)+剧场版+ONA+小说+漫画+音乐会+CD+其他；日英, 日语音轨; 外挂简中, 繁中字幕 (整理时间：2023.10.15)</guid>
 			<link>https://mikanani.me/Home/Episode/9eb5c22f46c9471cf9ec8ca9213ae384ccc88b0a</link>
 			<title>[整理搬运] 凉宫春日 (凉宫ハルヒ) (Haruhi Suzumiya) 系列：TV动画 (2006年版、2009年版)+剧场版+ONA+小说+漫画+音乐会+CD+其他；日英, 日语音轨; 外挂简中, 繁中字幕 (整理时间：2023.10.15)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2024-12-28T00:28:21.454</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="618995392" url="https://mikanani.me/Download/20241228/935fcf612d51b200b2571c2521c9b958409e6fd4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][12][1080P][MP4][BIG5][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/563b484cd9bb0b9e8449963bc15fe8351cc8c9c3</link>
-			<title>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][12][1080P][MP4][BIG5][繁中]</title>
-			<description>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][12][1080P][MP4][BIG5][繁中][589.95 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/563b484cd9bb0b9e8449963bc15fe8351cc8c9c3</link>
-				<contentLength>618607424</contentLength>
-				<pubDate>2024-12-28T00:28:00.24</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="618607424" url="https://mikanani.me/Download/20241228/563b484cd9bb0b9e8449963bc15fe8351cc8c9c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
