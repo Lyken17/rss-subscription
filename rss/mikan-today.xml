@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[吞噬星空][第151集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/2960fa7676ca462dc0ea82e2b105244d3019b532</link>
+			<title>[吞噬星空][第151集][国语中字][WEB-MKV][2160P]</title>
+			<description>[吞噬星空][第151集][国语中字][WEB-MKV][2160P][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2960fa7676ca462dc0ea82e2b105244d3019b532</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2024-12-30T21:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20241230/2960fa7676ca462dc0ea82e2b105244d3019b532.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 不时用俄语小声说真心话的邻桌艾莉同学 / 隣のアーリャさん / Tonari no Alya-san [BDRip][HEVC-10bit 1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/0ef4f73e85abcbd02b667196edd5487601f71027</link>
 			<title>[❀拨雪寻春❀] 不时用俄语小声说真心话的邻桌艾莉同学 / 隣のアーリャさん / Tonari no Alya-san [BDRip][HEVC-10bit 1080p][简繁日内封]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2024-12-29T02:48:25.899</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="588691520" url="https://mikanani.me/Download/20241229/eb930bf1da5f3e797748890c35b2d6d9f40edf98.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[一世独尊][第1-20集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/903dcd7132d69e3846dd23280e4143b3e67d2f76</link>
-			<title>[一世独尊][第1-20集][国语中字][WEB-MKV][2160P]</title>
-			<description>[一世独尊][第1-20集][国语中字][WEB-MKV][2160P][7.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/903dcd7132d69e3846dd23280e4143b3e67d2f76</link>
-				<contentLength>8053063680</contentLength>
-				<pubDate>2024-12-29T01:35:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8053063680" url="https://mikanani.me/Download/20241229/903dcd7132d69e3846dd23280e4143b3e67d2f76.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
