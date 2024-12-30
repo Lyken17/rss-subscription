@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/5b7eef31de0c24f208bfc9bea018f9f12cc965f5</link>
+			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)[244.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b7eef31de0c24f208bfc9bea018f9f12cc965f5</link>
+				<contentLength>256764800</contentLength>
+				<pubDate>2024-12-30T09:01:40.173</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="256764800" url="https://mikanani.me/Download/20241230/5b7eef31de0c24f208bfc9bea018f9f12cc965f5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/44246d55f7e918c2c0c8a5516543c8d187ef08b2</link>
 			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-28T22:31:39.802</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746701440" url="https://mikanani.me/Download/20241228/3dc80702dc07e2356c50482c5408cb01ca0a29bb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 / S-Rank Monster no 'Behemoth' dakedo - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8bebdf71d64dc23ffc4cb1f84730691f6dd81417</link>
-			<title>[Up to 21°C] S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 / S-Rank Monster no 'Behemoth' dakedo - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 / S-Rank Monster no 'Behemoth' dakedo - 01 (B-Global 1920x1080 HEVC AAC MKV)[292.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8bebdf71d64dc23ffc4cb1f84730691f6dd81417</link>
-				<contentLength>306834304</contentLength>
-				<pubDate>2024-12-28T22:03:13.433</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="306834304" url="https://mikanani.me/Download/20241228/8bebdf71d64dc23ffc4cb1f84730691f6dd81417.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
