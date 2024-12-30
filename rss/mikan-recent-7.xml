@@ -5164,5 +5164,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="577461312" url="https://mikanani.me/Download/20241230/7f92b6e26e711fe19a6c7a10eae90761bbf830c8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 归还者的魔法要特别 / Kikansha no Mahou wa Tokubetsu Desu / 帰还者の魔法は特别です 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2ab7837284926c8c74c59a1b6727b563e2687dde</link>
+			<title>[VCB-Studio] 归还者的魔法要特别 / Kikansha no Mahou wa Tokubetsu Desu / 帰还者の魔法は特别です 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 归还者的魔法要特别 / Kikansha no Mahou wa Tokubetsu Desu / 帰还者の魔法は特别です 10-bit 1080p HEVC BDRip [Fin][21.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ab7837284926c8c74c59a1b6727b563e2687dde</link>
+				<contentLength>22870700032</contentLength>
+				<pubDate>2024-12-30T12:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22870700032" url="https://mikanani.me/Download/20241230/2ab7837284926c8c74c59a1b6727b563e2687dde.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

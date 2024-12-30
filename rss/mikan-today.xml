@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 归还者的魔法要特别 / Kikansha no Mahou wa Tokubetsu Desu / 帰还者の魔法は特别です 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2ab7837284926c8c74c59a1b6727b563e2687dde</link>
+			<title>[VCB-Studio] 归还者的魔法要特别 / Kikansha no Mahou wa Tokubetsu Desu / 帰还者の魔法は特别です 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 归还者的魔法要特别 / Kikansha no Mahou wa Tokubetsu Desu / 帰还者の魔法は特别です 10-bit 1080p HEVC BDRip [Fin][21.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ab7837284926c8c74c59a1b6727b563e2687dde</link>
+				<contentLength>22870700032</contentLength>
+				<pubDate>2024-12-30T12:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22870700032" url="https://mikanani.me/Download/20241230/2ab7837284926c8c74c59a1b6727b563e2687dde.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[XK SPIRITS][假面骑士GAVV / KAMEN RIDER GAVV][16][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）</guid>
 			<link>https://mikanani.me/Home/Episode/99e97952dd67c3a897a7d96171632218717a9846</link>
 			<title>[XK SPIRITS][假面骑士GAVV / KAMEN RIDER GAVV][16][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2024-12-29T00:45:58.786</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="646457600" url="https://mikanani.me/Download/20241229/426f098a20007c83af1c642f22c90e03e36be365.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 魔王2099 / Maou 2099 - 12 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3be06997c8eb1d96438c026fc16d69a33f234b46</link>
-			<title>[Up to 21°C] 魔王2099 / Maou 2099 - 12 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 魔王2099 / Maou 2099 - 12 (B-Global 1920x1080 HEVC AAC MKV)[385.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3be06997c8eb1d96438c026fc16d69a33f234b46</link>
-				<contentLength>404614016</contentLength>
-				<pubDate>2024-12-29T00:33:14.625</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="404614016" url="https://mikanani.me/Download/20241229/3be06997c8eb1d96438c026fc16d69a33f234b46.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
