@@ -87889,5 +87889,45 @@
       "@length": "746680512",
       "@url": "https://mikanani.me/Download/20241231/b5add7712e3914d9588307d31d7f9ddd68e74882.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 时空之隙（日配版） / Rift (Japanese Audio) - 13 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/4e20a7f94c10cd0d25a82ed2b64652bd4217dec0",
+    "title": "[Up to 21°C] 时空之隙（日配版） / Rift (Japanese Audio) - 13 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] 时空之隙（日配版） / Rift (Japanese Audio) - 13 (ABEMA 1920x1080 AVC AAC MP4)[627.03 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/4e20a7f94c10cd0d25a82ed2b64652bd4217dec0",
+      "contentLength": "657488640",
+      "pubDate": "2025-01-01T00:25:58.859"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "657488640",
+      "@url": "https://mikanani.me/Download/20250101/4e20a7f94c10cd0d25a82ed2b64652bd4217dec0.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill 'Kinomi Master' - 01 (CR 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/f6ebf8a1f26d01f317c8e94ec40ebb3dd1a75d40",
+    "title": "[Up to 21°C] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill 'Kinomi Master' - 01 (CR 1920x1080 AVC AAC MKV)",
+    "description": "[Up to 21°C] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill 'Kinomi Master' - 01 (CR 1920x1080 AVC AAC MKV)[1.37 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/f6ebf8a1f26d01f317c8e94ec40ebb3dd1a75d40",
+      "contentLength": "1471026304",
+      "pubDate": "2025-01-01T00:22:41.725"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1471026304",
+      "@url": "https://mikanani.me/Download/20250101/f6ebf8a1f26d01f317c8e94ec40ebb3dd1a75d40.torrent"
+    }
   }
 ]
