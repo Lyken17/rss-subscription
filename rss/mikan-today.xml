@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
+			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译][187.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
+				<contentLength>196104688</contentLength>
+				<pubDate>2025-01-01T01:24:23.611</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="196104688" url="https://mikanani.me/Download/20250101/3254c7dfe243a78ab982f28fb6df11d2b635dcb4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 时空之隙（日配版） / Rift (Japanese Audio) - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4e20a7f94c10cd0d25a82ed2b64652bd4217dec0</link>
 			<title>[Up to 21°C] 时空之隙（日配版） / Rift (Japanese Audio) - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2024-12-29T23:31:10.09</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746743424" url="https://mikanani.me/Download/20241229/b23961f70f1738832a6eaea6f57c09600770a9cb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[独步逍遥][第41-60集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/5370b163e7d8b6d483e86fe68231a8143e056d08</link>
-			<title>[独步逍遥][第41-60集][国语中字][WEB-MKV][2160P]</title>
-			<description>[独步逍遥][第41-60集][国语中字][WEB-MKV][2160P][5.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5370b163e7d8b6d483e86fe68231a8143e056d08</link>
-				<contentLength>6227702784</contentLength>
-				<pubDate>2024-12-29T23:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20241229/5370b163e7d8b6d483e86fe68231a8143e056d08.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
