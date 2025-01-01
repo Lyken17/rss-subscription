@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂]</guid>
+			<link>https://mikanani.me/Home/Episode/959155338246501fa54f5005ae2a02729cd49470</link>
+			<title>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂]</title>
+			<description>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂][511.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/959155338246501fa54f5005ae2a02729cd49470</link>
+				<contentLength>536378080</contentLength>
+				<pubDate>2025-01-01T08:23:39.562</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="536378080" url="https://mikanani.me/Download/20250101/959155338246501fa54f5005ae2a02729cd49470.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
 			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2024-12-29T23:37:34.413</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386903584" url="https://mikanani.me/Download/20241229/044cc4ba304e1af5d06fb424bcc43e92d5bf8465.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b23961f70f1738832a6eaea6f57c09600770a9cb</link>
-			<title>[Up to 21°C] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 13 (ABEMA 1920x1080 AVC AAC MP4)[712.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b23961f70f1738832a6eaea6f57c09600770a9cb</link>
-				<contentLength>746743424</contentLength>
-				<pubDate>2024-12-29T23:31:10.09</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746743424" url="https://mikanani.me/Download/20241229/b23961f70f1738832a6eaea6f57c09600770a9cb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
