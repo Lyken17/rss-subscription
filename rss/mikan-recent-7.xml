@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)[1.29 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
-				<contentLength>1385126912</contentLength>
-				<pubDate>2024-12-25T04:03:36.293</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20241225/dfe811d6a83be464590cdddade05eee7cff4cebf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/3f6443b3a4f00c7617505aedc5e815ffe6bde79a</link>
 			<title>[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -4707,6 +4695,18 @@
 				<pubDate>2025-01-01T08:23:39.562</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="536378080" url="https://mikanani.me/Download/20250101/959155338246501fa54f5005ae2a02729cd49470.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REENCODE EP01-13+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/9fb425edfaf99d20b4e997d0f78e2d442448484e</link>
+			<title>[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REENCODE EP01-13+SP Fin)</title>
+			<description>[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REENCODE EP01-13+SP Fin)[11.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9fb425edfaf99d20b4e997d0f78e2d442448484e</link>
+				<contentLength>12133282816</contentLength>
+				<pubDate>2025-01-01T12:11:57.507224</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12133282816" url="https://mikanani.me/Download/20250101/9fb425edfaf99d20b4e997d0f78e2d442448484e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
