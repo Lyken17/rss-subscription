@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[一念永恒][第136集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
+			<title>[一念永恒][第136集][国语中字][WEB-MKV][2160P]</title>
+			<description>[一念永恒][第136集][国语中字][WEB-MKV][2160P][425.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
+				<contentLength>445959360</contentLength>
+				<pubDate>2025-01-01T20:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20250101/7d922c04d0821be94233ab2ea77947d096a29445.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
+			<title>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</title>
+			<description>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-01-01T19:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250101/42319907567417ca8754a1765b85eb060e121509.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [01-06 Fin][1080p][WebRip][x265_AAC][简体内封]</guid>
 			<link>https://mikanani.me/Home/Episode/8c0dda76e5152944c83bc77f4b05405a1a271cbd</link>
 			<title>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [01-06 Fin][1080p][WebRip][x265_AAC][简体内封]</title>
@@ -1143,30 +1167,6 @@
 				<pubDate>2024-12-30T10:07:03.3</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="724534528" url="https://mikanani.me/Download/20241230/7c638ef944a471a282c6e86cac4933fb01d9602d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 14 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0eaf04f186becc2c46538ad661cc3dfd096dafc3</link>
-			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 14 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 14 (B-Global Donghua 2048x870 HEVC AAC MKV)[444.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0eaf04f186becc2c46538ad661cc3dfd096dafc3</link>
-				<contentLength>465882304</contentLength>
-				<pubDate>2024-12-30T10:02:21.163</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="465882304" url="https://mikanani.me/Download/20241230/0eaf04f186becc2c46538ad661cc3dfd096dafc3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[XK SPIRITS][银翼超人 真人版 / WINGMAN DRAMA][05][简日双语][1080P][TVrip][MP4]（急招校对、时轴）</guid>
-			<link>https://mikanani.me/Home/Episode/86baabc10a6c90575b04acaa9eed1c173becb536</link>
-			<title>[XK SPIRITS][银翼超人 真人版 / WINGMAN DRAMA][05][简日双语][1080P][TVrip][MP4]（急招校对、时轴）</title>
-			<description>[XK SPIRITS][银翼超人 真人版 / WINGMAN DRAMA][05][简日双语][1080P][TVrip][MP4]（急招校对、时轴）[569.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86baabc10a6c90575b04acaa9eed1c173becb536</link>
-				<contentLength>597153536</contentLength>
-				<pubDate>2024-12-30T09:41:17.814</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="597153536" url="https://mikanani.me/Download/20241230/86baabc10a6c90575b04acaa9eed1c173becb536.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

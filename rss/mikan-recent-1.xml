@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Fatum Fatalis] 英雄教室 / Eiyuu Kyoushitsu (BD REENCODE EP01-12+SP Fin)</guid>
-			<link>https://mikanani.me/Home/Episode/03ff0eff2bce8f8b2ae23069ff7d4bda5b4acf50</link>
-			<title>[Fatum Fatalis] 英雄教室 / Eiyuu Kyoushitsu (BD REENCODE EP01-12+SP Fin)</title>
-			<description>[Fatum Fatalis] 英雄教室 / Eiyuu Kyoushitsu (BD REENCODE EP01-12+SP Fin)[51.7 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/03ff0eff2bce8f8b2ae23069ff7d4bda5b4acf50</link>
-				<contentLength>55512453120</contentLength>
-				<pubDate>2024-12-31T12:15:58.601918</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="55512453120" url="https://mikanani.me/Download/20241231/03ff0eff2bce8f8b2ae23069ff7d4bda5b4acf50.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 18 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/91c9951a3099a3dadf0fa3edfd5abac5cbbf27b6</link>
 			<title>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 18 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</title>
@@ -543,6 +531,30 @@
 				<pubDate>2025-01-01T18:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="417542976" url="https://mikanani.me/Download/20250101/11c78818cf61fcd292c42d7aa4c4d3505788765b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[一念永恒][第136集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
+			<title>[一念永恒][第136集][国语中字][WEB-MKV][2160P]</title>
+			<description>[一念永恒][第136集][国语中字][WEB-MKV][2160P][425.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
+				<contentLength>445959360</contentLength>
+				<pubDate>2025-01-01T20:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20250101/7d922c04d0821be94233ab2ea77947d096a29445.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
+			<title>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</title>
+			<description>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-01-01T19:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250101/42319907567417ca8754a1765b85eb060e121509.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
