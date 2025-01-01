@@ -89169,5 +89169,45 @@
       "@length": "317613664",
       "@url": "https://mikanani.me/Download/20250102/c79303386cf18e1c2575e093f8cb36755e09a2af.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][01-24][1080p][繁日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/bbc00025e159a9917f9abd6f5641c8b7bc625d97",
+    "title": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][01-24][1080p][繁日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][01-24][1080p][繁日双语][招募翻译][11.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/bbc00025e159a9917f9abd6f5641c8b7bc625d97",
+      "contentLength": "12133282816",
+      "pubDate": "2025-01-02T06:46:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "12133282816",
+      "@url": "https://mikanani.me/Download/20250102/bbc00025e159a9917f9abd6f5641c8b7bc625d97.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][01-24][1080p][简日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/d3953e89c20106d8508ad66c01b21e8edf6694a0",
+    "title": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][01-24][1080p][简日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★10月新番★[神选 / KamiErabi / GOD.app][01-24][1080p][简日双语][招募翻译][11.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/d3953e89c20106d8508ad66c01b21e8edf6694a0",
+      "contentLength": "12133282816",
+      "pubDate": "2025-01-02T06:38:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "12133282816",
+      "@url": "https://mikanani.me/Download/20250102/d3953e89c20106d8508ad66c01b21e8edf6694a0.torrent"
+    }
   }
 ]
