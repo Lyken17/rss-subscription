@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
+			<title>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</title>
+			<description>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌][572.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
+				<contentLength>600519488</contentLength>
+				<pubDate>2025-01-01T14:17:47.253257</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="600519488" url="https://mikanani.me/Download/20250101/a08e4842fb92414132db2e3457499fc19e0b6c49.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7625e6974323633e40e505a4ebcbd961ac78b3b0</link>
 			<title>[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2024-12-30T00:31:00.456</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="761297664" url="https://mikanani.me/Download/20241230/76b0790195f0d21fa602256b861b22918bed6159.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][曾经、魔法少女和邪恶相互为敌。/Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita./かつて魔法少女と悪は敌対していた.][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/1b117ad9c90840720a8720d921a17b4a771ed711</link>
-			<title>[DBD-Raws][曾经、魔法少女和邪恶相互为敌。/Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita./かつて魔法少女と悪は敌対していた.][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][曾经、魔法少女和邪恶相互为敌。/Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita./かつて魔法少女と悪は敌対していた.][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][11.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1b117ad9c90840720a8720d921a17b4a771ed711</link>
-				<contentLength>12777527296</contentLength>
-				<pubDate>2024-12-30T00:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="12777527296" url="https://mikanani.me/Download/20241230/1b117ad9c90840720a8720d921a17b4a771ed711.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

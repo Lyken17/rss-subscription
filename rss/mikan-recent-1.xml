@@ -436,5 +436,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="473914400" url="https://mikanani.me/Download/20250101/7625e6974323633e40e505a4ebcbd961ac78b3b0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
+			<title>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</title>
+			<description>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌][572.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
+				<contentLength>600519488</contentLength>
+				<pubDate>2025-01-01T14:17:47.253257</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="600519488" url="https://mikanani.me/Download/20250101/a08e4842fb92414132db2e3457499fc19e0b6c49.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
