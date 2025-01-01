@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7625e6974323633e40e505a4ebcbd961ac78b3b0</link>
+			<title>[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][451.96 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7625e6974323633e40e505a4ebcbd961ac78b3b0</link>
+				<contentLength>473914400</contentLength>
+				<pubDate>2025-01-01T12:56:26.799</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="473914400" url="https://mikanani.me/Download/20250101/7625e6974323633e40e505a4ebcbd961ac78b3b0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REENCODE EP01-13+SP Fin)</guid>
 			<link>https://mikanani.me/Home/Episode/9fb425edfaf99d20b4e997d0f78e2d442448484e</link>
 			<title>[Fatum Fatalis] 亚托莉 -我挚爱的时光- / ATRI -My Dear Moments- / Atri: My Dear Moments (BD REENCODE EP01-13+SP Fin)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2024-12-30T00:15:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12777527296" url="https://mikanani.me/Download/20241230/1b117ad9c90840720a8720d921a17b4a771ed711.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/5aab01089debef05d35e7bdac6f1f921d8ae2ad7</link>
-			<title>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 13 (ABEMA 1920x1080 AVC AAC MP4)[711.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5aab01089debef05d35e7bdac6f1f921d8ae2ad7</link>
-				<contentLength>745894080</contentLength>
-				<pubDate>2024-12-30T00:01:34.093</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="745894080" url="https://mikanani.me/Download/20241230/5aab01089debef05d35e7bdac6f1f921d8ae2ad7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
