@@ -5,55 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d2ccaecb4552bf23f1bb31d2408951787b4db6e5</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 20 (ABEMA 1920x1080 AVC AAC MP4)[687.78 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d2ccaecb4552bf23f1bb31d2408951787b4db6e5</link>
-				<contentLength>721189632</contentLength>
-				<pubDate>2024-12-02T02:00:52.813</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="721189632" url="https://mikanani.me/Download/20241202/d2ccaecb4552bf23f1bb31d2408951787b4db6e5.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Tasuuketsu</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>20</episode>
-				<season>1</season>
-				<title_zh>多数欠</title_zh>
-				<sub>简繁字幕</sub>
-				<title_jp>Tasuuketsu</title_jp>
-				<season_raw>ABEMA</season_raw>
-				<source>ABEMA</source>
-				<size>687.78 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3eb33f3b95256925feeffc10a209c270df38e925</link>
-			<title>[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 09 (ABEMA 1920x1080 AVC AAC MP4)[716.71 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3eb33f3b95256925feeffc10a209c270df38e925</link>
-				<contentLength>751524928</contentLength>
-				<pubDate>2024-12-02T01:32:57.754</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="751524928" url="https://mikanani.me/Download/20241202/3eb33f3b95256925feeffc10a209c270df38e925.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>None</group>
-				<title_en>Puniru wa Kawaii Slime</title_en>
-				<resolution>1080</resolution>
-				<episode>9</episode>
-				<season>1</season>
-				<source>None</source>
-				<title_zh>噗妮露是可爱史莱姆</title_zh>
-				<sub>None</sub>
-				<title_jp>None</title_jp>
-				<size>716.71 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/f1519471325c0723b28f188519a7bb65bbf2c220</link>
 			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -76,30 +27,6 @@
 				<title_jp>None</title_jp>
 				<size>727.71 MB</size>
 				<season_raw>ABEMA</season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/da9fd4134eedb0bf1fdfb035e799206192fdeaae</link>
-			<title>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 09 (ABEMA 1920x1080 AVC AAC MP4)[711.42 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/da9fd4134eedb0bf1fdfb035e799206192fdeaae</link>
-				<contentLength>745977920</contentLength>
-				<pubDate>2024-12-02T02:30:48.089</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="745977920" url="https://mikanani.me/Download/20241202/da9fd4134eedb0bf1fdfb035e799206192fdeaae.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Amagami-san Chi no Enmusubi</title_en>
-				<resolution>1080p</resolution>
-				<episode>9</episode>
-				<season>1</season>
-				<source>ABEMA</source>
-				<title_zh>结缘甘神神社</title_zh>
-				<sub>ABEMA</sub>
-				<title_jp>Amagami-san Chi no Enmusubi</title_jp>
-				<size>711.42 MB</size>
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 		<item>
