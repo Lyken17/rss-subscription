@@ -88269,5 +88269,65 @@
       "@length": "1503238528",
       "@url": "https://mikanani.me/Download/20250101/42319907567417ca8754a1765b85eb060e121509.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&繁日][我出生的那一天][数码修复版][MKV]"
+    },
+    "link": "https://mikanani.me/Home/Episode/a7c318d3236e116f1f5b330e1e6a21235c19a4c9",
+    "title": "[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&繁日][我出生的那一天][数码修复版][MKV]",
+    "description": "[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&繁日][我出生的那一天][数码修复版][MKV][2.3GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/a7c318d3236e116f1f5b330e1e6a21235c19a4c9",
+      "contentLength": "2469606144",
+      "pubDate": "2025-01-01T20:50:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2469606144",
+      "@url": "https://mikanani.me/Download/20250101/a7c318d3236e116f1f5b330e1e6a21235c19a4c9.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[哆啦字幕组][哆啦A梦大山版附映中篇Doraemon1979][2002.3.9][1080P][WEB][繁日双语][我出生的那一天][数码修复版][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/33bc68c1106cd422b76016b72b24afb03e335be0",
+    "title": "[哆啦字幕组][哆啦A梦大山版附映中篇Doraemon1979][2002.3.9][1080P][WEB][繁日双语][我出生的那一天][数码修复版][MP4]",
+    "description": "[哆啦字幕组][哆啦A梦大山版附映中篇Doraemon1979][2002.3.9][1080P][WEB][繁日双语][我出生的那一天][数码修复版][MP4][786MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/33bc68c1106cd422b76016b72b24afb03e335be0",
+      "contentLength": "824180736",
+      "pubDate": "2025-01-01T20:39:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "824180736",
+      "@url": "https://mikanani.me/Download/20250101/33bc68c1106cd422b76016b72b24afb03e335be0.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日双语][我出生的那一天][数码修复版][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3100aa1fa709464ec44a93eaf52c999883202893",
+    "title": "[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日双语][我出生的那一天][数码修复版][MP4]",
+    "description": "[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日双语][我出生的那一天][数码修复版][MP4][787.1MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3100aa1fa709464ec44a93eaf52c999883202893",
+      "contentLength": "825334144",
+      "pubDate": "2025-01-01T20:38:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "825334144",
+      "@url": "https://mikanani.me/Download/20250101/3100aa1fa709464ec44a93eaf52c999883202893.torrent"
+    }
   }
 ]
