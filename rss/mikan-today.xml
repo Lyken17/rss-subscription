@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][08][1080P][AVC AAC][简日双语][WebRip]</guid>
+			<link>https://mikanani.me/Home/Episode/4aac46a6e4cfef62855312b20e74fdfd008f48f3</link>
+			<title>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][08][1080P][AVC AAC][简日双语][WebRip]</title>
+			<description>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][08][1080P][AVC AAC][简日双语][WebRip][316.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4aac46a6e4cfef62855312b20e74fdfd008f48f3</link>
+				<contentLength>332188864</contentLength>
+				<pubDate>2025-01-01T14:30:53.973</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="332188864" url="https://mikanani.me/Download/20250101/4aac46a6e4cfef62855312b20e74fdfd008f48f3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
 			<title>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2024-12-30T01:07:21.105</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20241230/03c60cc7b8533a3e9a3020d5a6f7540500f60d51.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 神之塔 第二季 / Kami no Tou: Ouji no Kikan - 26 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/76b0790195f0d21fa602256b861b22918bed6159</link>
-			<title>[Up to 21°C] 神之塔 第二季 / Kami no Tou: Ouji no Kikan - 26 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 神之塔 第二季 / Kami no Tou: Ouji no Kikan - 26 (ABEMA 1920x1080 AVC AAC MP4)[726.03 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/76b0790195f0d21fa602256b861b22918bed6159</link>
-				<contentLength>761297664</contentLength>
-				<pubDate>2024-12-30T00:31:00.456</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="761297664" url="https://mikanani.me/Download/20241230/76b0790195f0d21fa602256b861b22918bed6159.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
