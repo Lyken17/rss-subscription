@@ -6,13 +6,25 @@
 		<description>Mikan Project - 列表模式</description>
 		<item>
 			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+			<link>https://mikanani.me/Home/Episode/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf</link>
 			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
 			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4 MB]</description>
 			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf</link>
+				<contentLength>484861536</contentLength>
+				<pubDate>2025-01-03T04:39:28.670145</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
 				<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
 				<contentLength>484861536</contentLength>
-				<pubDate>2025-01-03T04:05:01.183357</pubDate>
+				<pubDate>2025-01-03T04:04:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/742c1a77091e65c50b9e0ee0a85cbea97a997680.torrent"></enclosure>
 		</item>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-01T16:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250101/f6ebf8a1f26d01f317c8e94ec40ebb3dd1a75d40.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][08][1080P][AVC AAC][简日双语][WebRip]</guid>
-			<link>https://mikanani.me/Home/Episode/4aac46a6e4cfef62855312b20e74fdfd008f48f3</link>
-			<title>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][08][1080P][AVC AAC][简日双语][WebRip]</title>
-			<description>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][08][1080P][AVC AAC][简日双语][WebRip][316.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4aac46a6e4cfef62855312b20e74fdfd008f48f3</link>
-				<contentLength>332188864</contentLength>
-				<pubDate>2025-01-01T14:30:53.973</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="332188864" url="https://mikanani.me/Download/20250101/4aac46a6e4cfef62855312b20e74fdfd008f48f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
