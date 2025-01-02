@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 鬼灭之刃 刀匠村篇 / Kimetsu no Yaiba Katanakaji no Sato Hen 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/25354759416a9f561b2a23575fdfe79abdfe563c</link>
+			<title>[VCB-Studio] 鬼灭之刃 刀匠村篇 / Kimetsu no Yaiba Katanakaji no Sato Hen 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 鬼灭之刃 刀匠村篇 / Kimetsu no Yaiba Katanakaji no Sato Hen 10-bit 1080p HEVC BDRip [Fin][27.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25354759416a9f561b2a23575fdfe79abdfe563c</link>
+				<contentLength>29635274752</contentLength>
+				<pubDate>2025-01-02T11:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="29635274752" url="https://mikanani.me/Download/20250102/25354759416a9f561b2a23575fdfe79abdfe563c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【12】【BIG5_MP4】【1280X720】</guid>
 			<link>https://mikanani.me/Home/Episode/656be7d39bab7059b9eb42de0eb27a3039ac399b</link>
 			<title>【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【12】【BIG5_MP4】【1280X720】</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2024-12-31T13:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="336802624" url="https://mikanani.me/Download/20241231/b7db9ba222bfaa8b8fef021dfe59b512f22a5fd9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Fatum Fatalis] 英雄教室 / Eiyuu Kyoushitsu (BD REENCODE EP01-12+OVAx3+SP Fin)</guid>
-			<link>https://mikanani.me/Home/Episode/03ff0eff2bce8f8b2ae23069ff7d4bda5b4acf50</link>
-			<title>[Fatum Fatalis] 英雄教室 / Eiyuu Kyoushitsu (BD REENCODE EP01-12+OVAx3+SP Fin)</title>
-			<description>[Fatum Fatalis] 英雄教室 / Eiyuu Kyoushitsu (BD REENCODE EP01-12+OVAx3+SP Fin)[51.7 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/03ff0eff2bce8f8b2ae23069ff7d4bda5b4acf50</link>
-				<contentLength>55512453120</contentLength>
-				<pubDate>2024-12-31T12:45:43.121684</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="55512453120" url="https://mikanani.me/Download/20241231/03ff0eff2bce8f8b2ae23069ff7d4bda5b4acf50.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

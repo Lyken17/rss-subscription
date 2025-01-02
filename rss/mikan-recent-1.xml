@@ -808,5 +808,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="568485504" url="https://mikanani.me/Download/20250102/ebe3e0a9bb22fa66b12f814a2515f558d2809296.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 鬼灭之刃 刀匠村篇 / Kimetsu no Yaiba Katanakaji no Sato Hen 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/25354759416a9f561b2a23575fdfe79abdfe563c</link>
+			<title>[VCB-Studio] 鬼灭之刃 刀匠村篇 / Kimetsu no Yaiba Katanakaji no Sato Hen 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 鬼灭之刃 刀匠村篇 / Kimetsu no Yaiba Katanakaji no Sato Hen 10-bit 1080p HEVC BDRip [Fin][27.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25354759416a9f561b2a23575fdfe79abdfe563c</link>
+				<contentLength>29635274752</contentLength>
+				<pubDate>2025-01-02T11:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="29635274752" url="https://mikanani.me/Download/20250102/25354759416a9f561b2a23575fdfe79abdfe563c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
