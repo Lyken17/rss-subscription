@@ -220,5 +220,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="566031808" url="https://mikanani.me/Download/20250103/1027006b70db1ddb92361f90d2ec396634f43964.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bf7d51bd87761390a0937de84ca7233d9501a336</link>
+			<title>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][705.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bf7d51bd87761390a0937de84ca7233d9501a336</link>
+				<contentLength>739560640</contentLength>
+				<pubDate>2025-01-03T02:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="739560640" url="https://mikanani.me/Download/20250103/bf7d51bd87761390a0937de84ca7233d9501a336.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
