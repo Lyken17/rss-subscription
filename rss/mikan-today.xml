@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [01] [WEBRip 2160p HEVC-10bit FLAC]</guid>
+			<link>https://mikanani.me/Home/Episode/72777967f2076a5b22584e6cbce389ad6d1b9ee5</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [01] [WEBRip 2160p HEVC-10bit FLAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [01] [WEBRip 2160p HEVC-10bit FLAC][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72777967f2076a5b22584e6cbce389ad6d1b9ee5</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2025-01-03T01:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250103/72777967f2076a5b22584e6cbce389ad6d1b9ee5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] MOMENTARY LILY 刹那之花 / Momentary Lily - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/fe4472ea6c6434582a106f72db31d2960081bf09</link>
+			<title>[Up to 21°C] MOMENTARY LILY 刹那之花 / Momentary Lily - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] MOMENTARY LILY 刹那之花 / Momentary Lily - 01 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fe4472ea6c6434582a106f72db31d2960081bf09</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2025-01-03T01:33:26.118</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250103/fe4472ea6c6434582a106f72db31d2960081bf09.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青春之箱 / Ao no Hako - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/9487837c50c1378585af32418f6dd304891c65ae</link>
 			<title>[Up to 21°C] 青春之箱 / Ao no Hako - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-01T12:11:57.507224</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12133282816" url="https://mikanani.me/Download/20250101/9fb425edfaf99d20b4e997d0f78e2d442448484e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂]</guid>
-			<link>https://mikanani.me/Home/Episode/959155338246501fa54f5005ae2a02729cd49470</link>
-			<title>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂]</title>
-			<description>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂][511.53 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/959155338246501fa54f5005ae2a02729cd49470</link>
-				<contentLength>536378080</contentLength>
-				<pubDate>2025-01-01T08:23:39.562</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="536378080" url="https://mikanani.me/Download/20250101/959155338246501fa54f5005ae2a02729cd49470.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
-			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译][187.02 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
-				<contentLength>196104688</contentLength>
-				<pubDate>2025-01-01T01:24:23.611</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="196104688" url="https://mikanani.me/Download/20250101/3254c7dfe243a78ab982f28fb6df11d2b635dcb4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
