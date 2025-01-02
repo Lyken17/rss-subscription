@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/08132effbe06f2c6b784689b24f3001ca0b41b6a</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][7.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/08132effbe06f2c6b784689b24f3001ca0b41b6a</link>
-				<contentLength>8267811840</contentLength>
-				<pubDate>2024-12-26T15:18:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8267811840" url="https://mikanani.me/Download/20241226/08132effbe06f2c6b784689b24f3001ca0b41b6a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 多数欠 / Tasuuketsu [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/5dec1dc39037fdc9a487f4d52eeb1556f33d0f43</link>
 			<title>[LoliHouse] 多数欠 / Tasuuketsu [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -267,6 +255,18 @@
 				<pubDate>2025-01-02T23:09:02.542</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="529132416" url="https://mikanani.me/Download/20250102/8f15ca07a287dc0ecce37800d3b80197766d6e33.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1027006b70db1ddb92361f90d2ec396634f43964</link>
+			<title>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][539.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1027006b70db1ddb92361f90d2ec396634f43964</link>
+				<contentLength>566031808</contentLength>
+				<pubDate>2025-01-03T00:13:52.892</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="566031808" url="https://mikanani.me/Download/20250103/1027006b70db1ddb92361f90d2ec396634f43964.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
