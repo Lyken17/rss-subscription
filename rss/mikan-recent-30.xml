@@ -43663,5 +43663,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542742912" url="https://mikanani.me/Download/20250103/243610a6fbc329e018bde40b6352ee8c10790a5c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+				<contentLength>484861536</contentLength>
+				<pubDate>2025-01-03T04:05:01.183357</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/742c1a77091e65c50b9e0ee0a85cbea97a997680.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

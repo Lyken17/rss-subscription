@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[一念永恒][第136集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
-			<title>[一念永恒][第136集][国语中字][WEB-MKV][2160P]</title>
-			<description>[一念永恒][第136集][国语中字][WEB-MKV][2160P][425.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
-				<contentLength>445959360</contentLength>
-				<pubDate>2025-01-01T20:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20250101/7d922c04d0821be94233ab2ea77947d096a29445.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
-			<title>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</title>
-			<description>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-01-01T19:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250101/42319907567417ca8754a1765b85eb060e121509.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&amp;繁日][我出生的那一天][数码修复版][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/a7c318d3236e116f1f5b330e1e6a21235c19a4c9</link>
 			<title>[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&amp;繁日][我出生的那一天][数码修复版][MKV]</title>
@@ -1059,6 +1035,18 @@
 				<pubDate>2025-01-03T02:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542742912" url="https://mikanani.me/Download/20250103/243610a6fbc329e018bde40b6352ee8c10790a5c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+				<contentLength>484861536</contentLength>
+				<pubDate>2025-01-03T04:05:01.183357</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/742c1a77091e65c50b9e0ee0a85cbea97a997680.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

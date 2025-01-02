@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/742c1a77091e65c50b9e0ee0a85cbea97a997680</link>
+				<contentLength>484861536</contentLength>
+				<pubDate>2025-01-03T04:05:01.183357</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/742c1a77091e65c50b9e0ee0a85cbea97a997680.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/bf7d51bd87761390a0937de84ca7233d9501a336</link>
 			<title>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-01T14:30:53.973</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="332188864" url="https://mikanani.me/Download/20250101/4aac46a6e4cfef62855312b20e74fdfd008f48f3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
-			<title>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌]</title>
-			<description>[S1百综字幕组] 谋杀之谜：亡者的秘密 / Murder Mystery of the Dead [06][1080p][WebRip][x264_AAC][简体内嵌][572.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a08e4842fb92414132db2e3457499fc19e0b6c49</link>
-				<contentLength>600519488</contentLength>
-				<pubDate>2025-01-01T14:17:47.253257</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="600519488" url="https://mikanani.me/Download/20250101/a08e4842fb92414132db2e3457499fc19e0b6c49.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
