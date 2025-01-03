@@ -220,5 +220,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="739560640" url="https://mikanani.me/Download/20250103/bf7d51bd87761390a0937de84ca7233d9501a336.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d22e5a81401171b6f85b510201859b0373590619</link>
+			<title>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MF GHOST 2nd Season / 极速车魂 / 燃油车斗魂 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][10.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d22e5a81401171b6f85b510201859b0373590619</link>
+				<contentLength>11274289152</contentLength>
+				<pubDate>2025-01-03T10:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11274289152" url="https://mikanani.me/Download/20250103/d22e5a81401171b6f85b510201859b0373590619.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
