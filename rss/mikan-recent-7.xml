@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][13][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/5b25d11e4685caa78a42e38c3dbcf2615c81a56b</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][13][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][13][WEBrip][1080P][简日双语][467.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5b25d11e4685caa78a42e38c3dbcf2615c81a56b</link>
-				<contentLength>489789856</contentLength>
-				<pubDate>2024-12-27T05:49:33.086145</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="489789856" url="https://mikanani.me/Download/20241227/5b25d11e4685caa78a42e38c3dbcf2615c81a56b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸羊羊制作] 青之箱 - 13V1 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/18b75415c8bb681d5dae6fe6201efde2ee4898dd</link>
-			<title>[沸羊羊制作] 青之箱 - 13V1 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]</title>
-			<description>[沸羊羊制作] 青之箱 - 13V1 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕][321.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/18b75415c8bb681d5dae6fe6201efde2ee4898dd</link>
-				<contentLength>337431744</contentLength>
-				<pubDate>2024-12-27T05:23:06.489558</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="337431744" url="https://mikanani.me/Download/20241227/18b75415c8bb681d5dae6fe6201efde2ee4898dd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【11】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/75ad5625891a6ad72f4ef2f95d1a37525274ea81</link>
 			<title>【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【11】【BIG5_MP4】【1920X1080】</title>
@@ -4743,6 +4719,30 @@
 				<pubDate>2025-01-03T12:19:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="509817664" url="https://mikanani.me/Download/20250103/a73fa652389a4b98da2d1ea5830b000bdcacccb4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/ea5ce072bd40e2995548ad3168fa689ccfa29dab</link>
+			<title>[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][468MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ea5ce072bd40e2995548ad3168fa689ccfa29dab</link>
+				<contentLength>490733568</contentLength>
+				<pubDate>2025-01-03T13:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="490733568" url="https://mikanani.me/Download/20250103/ea5ce072bd40e2995548ad3168fa689ccfa29dab.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[灵武大陆][第50集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/d3a8980638458d84dccd662f86622e8701858312</link>
+			<title>[灵武大陆][第50集][国语中字][WEB-MKV][2160P]</title>
+			<description>[灵武大陆][第50集][国语中字][WEB-MKV][2160P][351MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3a8980638458d84dccd662f86622e8701858312</link>
+				<contentLength>368050176</contentLength>
+				<pubDate>2025-01-03T13:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="368050176" url="https://mikanani.me/Download/20250103/d3a8980638458d84dccd662f86622e8701858312.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/ea5ce072bd40e2995548ad3168fa689ccfa29dab</link>
+			<title>[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 胆大党 (粤语版) / DAN DA DAN (Cantonese Ver.) - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][468MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ea5ce072bd40e2995548ad3168fa689ccfa29dab</link>
+				<contentLength>490733568</contentLength>
+				<pubDate>2025-01-03T13:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="490733568" url="https://mikanani.me/Download/20250103/ea5ce072bd40e2995548ad3168fa689ccfa29dab.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[灵武大陆][第50集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/d3a8980638458d84dccd662f86622e8701858312</link>
+			<title>[灵武大陆][第50集][国语中字][WEB-MKV][2160P]</title>
+			<description>[灵武大陆][第50集][国语中字][WEB-MKV][2160P][351MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3a8980638458d84dccd662f86622e8701858312</link>
+				<contentLength>368050176</contentLength>
+				<pubDate>2025-01-03T13:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="368050176" url="https://mikanani.me/Download/20250103/d3a8980638458d84dccd662f86622e8701858312.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丹道至尊][第106集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/c2d1c9bf6c215914993879a0acc13918aff75c34</link>
 			<title>[丹道至尊][第106集][国语中字][WEB-MKV][2160P]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-01T20:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="824180736" url="https://mikanani.me/Download/20250101/33bc68c1106cd422b76016b72b24afb03e335be0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日双语][我出生的那一天][数码修复版][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3100aa1fa709464ec44a93eaf52c999883202893</link>
-			<title>[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日双语][我出生的那一天][数码修复版][MP4]</title>
-			<description>[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日双语][我出生的那一天][数码修复版][MP4][787.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3100aa1fa709464ec44a93eaf52c999883202893</link>
-				<contentLength>825334144</contentLength>
-				<pubDate>2025-01-01T20:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="825334144" url="https://mikanani.me/Download/20250101/3100aa1fa709464ec44a93eaf52c999883202893.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[一念永恒][第136集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
-			<title>[一念永恒][第136集][国语中字][WEB-MKV][2160P]</title>
-			<description>[一念永恒][第136集][国语中字][WEB-MKV][2160P][425.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
-				<contentLength>445959360</contentLength>
-				<pubDate>2025-01-01T20:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20250101/7d922c04d0821be94233ab2ea77947d096a29445.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
