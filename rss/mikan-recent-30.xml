@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 21 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49020ea1e64d3b392575c20a80032f626bc9c16e</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2024-12-04T04:03:19.761</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20241204/49020ea1e64d3b392575c20a80032f626bc9c16e.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>None</group>
-				<title_en>Tasuuketsu</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>21</episode>
-				<season>1</season>
-				<source>None</source>
-				<title_zh>多数欠</title_zh>
-				<sub>None</sub>
-				<title_jp>None</title_jp>
-				<size>1.3 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2d50fcba624bd5f319b1bf77017c68b5572380c1</link>
 			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -42868,6 +42844,30 @@
 				<pubDate>2025-01-03T10:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="11274289152" url="https://mikanani.me/Download/20250103/d22e5a81401171b6f85b510201859b0373590619.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 破灭之国 / Hametsu no Oukoku / はめつのおうこく 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/636f99278a8e94b7da51bb0851393a29b0d08b8d</link>
+			<title>[VCB-Studio] 破灭之国 / Hametsu no Oukoku / はめつのおうこく 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 破灭之国 / Hametsu no Oukoku / はめつのおうこく 10-bit 1080p HEVC BDRip [Fin][19.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/636f99278a8e94b7da51bb0851393a29b0d08b8d</link>
+				<contentLength>21045340160</contentLength>
+				<pubDate>2025-01-03T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21045340160" url="https://mikanani.me/Download/20250103/636f99278a8e94b7da51bb0851393a29b0d08b8d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沧元图][第36集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/257e8cc35c1427db1948931ad0095f7e30e787ee</link>
+			<title>[沧元图][第36集][国语中字][WEB-MKV][2160P]</title>
+			<description>[沧元图][第36集][国语中字][WEB-MKV][2160P][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/257e8cc35c1427db1948931ad0095f7e30e787ee</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-01-03T11:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250103/257e8cc35c1427db1948931ad0095f7e30e787ee.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

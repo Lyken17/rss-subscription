@@ -90089,5 +90089,45 @@
       "@length": "11274289152",
       "@url": "https://mikanani.me/Download/20250103/d22e5a81401171b6f85b510201859b0373590619.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[VCB-Studio] 破灭之国 / Hametsu no Oukoku / はめつのおうこく 10-bit 1080p HEVC BDRip [Fin]"
+    },
+    "link": "https://mikanani.me/Home/Episode/636f99278a8e94b7da51bb0851393a29b0d08b8d",
+    "title": "[VCB-Studio] 破灭之国 / Hametsu no Oukoku / はめつのおうこく 10-bit 1080p HEVC BDRip [Fin]",
+    "description": "[VCB-Studio] 破灭之国 / Hametsu no Oukoku / はめつのおうこく 10-bit 1080p HEVC BDRip [Fin][19.6GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/636f99278a8e94b7da51bb0851393a29b0d08b8d",
+      "contentLength": "21045340160",
+      "pubDate": "2025-01-03T12:03:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "21045340160",
+      "@url": "https://mikanani.me/Download/20250103/636f99278a8e94b7da51bb0851393a29b0d08b8d.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沧元图][第36集][国语中字][WEB-MKV][2160P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/257e8cc35c1427db1948931ad0095f7e30e787ee",
+    "title": "[沧元图][第36集][国语中字][WEB-MKV][2160P]",
+    "description": "[沧元图][第36集][国语中字][WEB-MKV][2160P][1.1GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/257e8cc35c1427db1948931ad0095f7e30e787ee",
+      "contentLength": "1181116032",
+      "pubDate": "2025-01-03T11:54:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1181116032",
+      "@url": "https://mikanani.me/Download/20250103/257e8cc35c1427db1948931ad0095f7e30e787ee.torrent"
+    }
   }
 ]
