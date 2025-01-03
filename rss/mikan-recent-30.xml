@@ -43073,5 +43073,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="273888064" url="https://mikanani.me/Download/20250103/ddb169870edcde727e7cd575078f492647d59dff.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [06][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/162cda7bead8613dd41e95aa3c14716a9a680863</link>
+			<title>[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [06][1080p][繁体内嵌]</title>
+			<description>[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [06][1080p][繁体内嵌][419.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/162cda7bead8613dd41e95aa3c14716a9a680863</link>
+				<contentLength>439563072</contentLength>
+				<pubDate>2025-01-03T15:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="439563072" url="https://mikanani.me/Download/20250103/162cda7bead8613dd41e95aa3c14716a9a680863.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [06][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/7591fccc22ac675096ef711abd5d9f76de475431</link>
+			<title>[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [06][1080p][简体内嵌]</title>
+			<description>[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [06][1080p][简体内嵌][419.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7591fccc22ac675096ef711abd5d9f76de475431</link>
+				<contentLength>439772768</contentLength>
+				<pubDate>2025-01-03T15:21:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="439772768" url="https://mikanani.me/Download/20250103/7591fccc22ac675096ef711abd5d9f76de475431.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
