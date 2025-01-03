@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6e244cbe03d69115f35321470ec2fe5b87cfe462</link>
-			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)[245.23 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6e244cbe03d69115f35321470ec2fe5b87cfe462</link>
-				<contentLength>257142288</contentLength>
-				<pubDate>2024-12-27T11:02:48.648</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="257142288" url="https://mikanani.me/Download/20241227/6e244cbe03d69115f35321470ec2fe5b87cfe462.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 怪人的沙拉碗 / Henjin no Salad Bowl / 変人のサラダボウル 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/fe22d2d9e99797f3c357e66501a9d49d7b7f0c4a</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 怪人的沙拉碗 / Henjin no Salad Bowl / 変人のサラダボウル 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -4851,6 +4839,18 @@
 				<pubDate>2025-01-03T18:06:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="152578719744" url="https://mikanani.me/Download/20250103/139a01977ccbfb9902589123860cb112df2a997c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 天久鹰央的推理病历表 - 02 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/020dbb0d7e00d51dc80757f5aeee377310c968b0</link>
+			<title>[沸羊羊制作] 天久鹰央的推理病历表 - 02 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[沸羊羊制作] 天久鹰央的推理病历表 - 02 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕][665.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/020dbb0d7e00d51dc80757f5aeee377310c968b0</link>
+				<contentLength>697827328</contentLength>
+				<pubDate>2025-01-03T18:26:49.510925</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="697827328" url="https://mikanani.me/Download/20250103/020dbb0d7e00d51dc80757f5aeee377310c968b0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
