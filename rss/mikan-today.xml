@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][01][WebRip][1080P][AVC 8bit][简体内嵌][v2]</guid>
+			<link>https://mikanani.me/Home/Episode/dd2890e330bb26c4312cae7603e5b0b4e200dace</link>
+			<title>[SweetSub][刹那之花][Momentary Lily][01][WebRip][1080P][AVC 8bit][简体内嵌][v2]</title>
+			<description>[SweetSub][刹那之花][Momentary Lily][01][WebRip][1080P][AVC 8bit][简体内嵌][v2][962.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd2890e330bb26c4312cae7603e5b0b4e200dace</link>
+				<contentLength>1009705280</contentLength>
+				<pubDate>2025-01-04T05:00:53.543</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1009705280" url="https://mikanani.me/Download/20250104/dd2890e330bb26c4312cae7603e5b0b4e200dace.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [01] [WEBRip 2160p HEVC-10bit FLAC] [Rev]</guid>
 			<link>https://mikanani.me/Home/Episode/21185d1f50c5ddacb005adacc2080d55256b8647</link>
 			<title>[TensoRaws] BanG Dream! Ave Mujica [01] [WEBRip 2160p HEVC-10bit FLAC] [Rev]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-02T02:02:53.221</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250102/8b8ae8bb3e15770114cfe366e0ccb7c8a847b130.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[一世独尊][第85集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/c79303386cf18e1c2575e093f8cb36755e09a2af</link>
-			<title>[一世独尊][第85集][国语中字][WEB-MKV][2160P]</title>
-			<description>[一世独尊][第85集][国语中字][WEB-MKV][2160P][302.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c79303386cf18e1c2575e093f8cb36755e09a2af</link>
-				<contentLength>317613664</contentLength>
-				<pubDate>2025-01-02T01:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="317613664" url="https://mikanani.me/Download/20250102/c79303386cf18e1c2575e093f8cb36755e09a2af.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
