@@ -93089,5 +93089,45 @@
       "@length": "1449551488",
       "@url": "https://mikanani.me/Download/20250105/7d79ad9abd9f877e9916b9f4484e015b3c37ab5e.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01][繁体][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/94f9318cf383a73bfaa3f044dd4de915712db46c",
+    "title": "【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01][繁体][1080P][MP4]",
+    "description": "【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01][繁体][1080P][MP4][316.14 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/94f9318cf383a73bfaa3f044dd4de915712db46c",
+      "contentLength": "331496832",
+      "pubDate": "2025-01-05T03:16:40.772"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "331496832",
+      "@url": "https://mikanani.me/Download/20250105/94f9318cf383a73bfaa3f044dd4de915712db46c.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01][简体][1080P][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3887f2b98f0459c99c4e62aa5fbf7f18085eed8e",
+    "title": "【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01][简体][1080P][MP4]",
+    "description": "【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01][简体][1080P][MP4][316.18 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3887f2b98f0459c99c4e62aa5fbf7f18085eed8e",
+      "contentLength": "331538752",
+      "pubDate": "2025-01-05T03:16:00.726"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "331538752",
+      "@url": "https://mikanani.me/Download/20250105/3887f2b98f0459c99c4e62aa5fbf7f18085eed8e.torrent"
+    }
   }
 ]
