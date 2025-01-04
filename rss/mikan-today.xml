@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青之壬生浪 / Ao no Miburo - 12 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a939325c904737a7c5d9d535c1e504a6799d3730</link>
+			<title>[Up to 21°C] 青之壬生浪 / Ao no Miburo - 12 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青之壬生浪 / Ao no Miburo - 12 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a939325c904737a7c5d9d535c1e504a6799d3730</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2025-01-04T19:06:06.85</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250104/a939325c904737a7c5d9d535c1e504a6799d3730.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1148 (ADN 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d0dfac4bc665aaeffd11896e600efd2f6603d016</link>
+			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1148 (ADN 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1148 (ADN 1920x1080 AVC AAC MKV)[581.89 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d0dfac4bc665aaeffd11896e600efd2f6603d016</link>
+				<contentLength>610155904</contentLength>
+				<pubDate>2025-01-04T18:31:52.832</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="610155904" url="https://mikanani.me/Download/20250104/d0dfac4bc665aaeffd11896e600efd2f6603d016.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青之壬生浪 / Ao no Miburo - 12 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/819747a7349908ccb80968a93be016c1a240a6c4</link>
 			<title>[Up to 21°C] 青之壬生浪 / Ao no Miburo - 12 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-03T01:33:26.118</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250103/fe4472ea6c6434582a106f72db31d2960081bf09.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 青春之箱 / Ao no Hako - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9487837c50c1378585af32418f6dd304891c65ae</link>
-			<title>[Up to 21°C] 青春之箱 / Ao no Hako - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 青春之箱 / Ao no Hako - 13 (ABEMA 1920x1080 AVC AAC MP4)[712.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9487837c50c1378585af32418f6dd304891c65ae</link>
-				<contentLength>746711936</contentLength>
-				<pubDate>2025-01-03T01:00:54.746</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746711936" url="https://mikanani.me/Download/20250103/9487837c50c1378585af32418f6dd304891c65ae.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] BanG Dream! Ave Mujica - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9790fe00364121af11784d9bbc5f29a9d0ca950e</link>
-			<title>[Up to 21°C] BanG Dream! Ave Mujica - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] BanG Dream! Ave Mujica - 01 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9790fe00364121af11784d9bbc5f29a9d0ca950e</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2025-01-03T00:28:40.272</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250103/9790fe00364121af11784d9bbc5f29a9d0ca950e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
