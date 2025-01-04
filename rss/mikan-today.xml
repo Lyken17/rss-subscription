@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso / 驹田蒸留所へようこそ 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5f497847cb84942b91717d3a8329e9394041b4a6</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso / 驹田蒸留所へようこそ 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso / 驹田蒸留所へようこそ 10-bit 1080p HEVC BDRip [MOVIE Fin][5.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f497847cb84942b91717d3a8329e9394041b4a6</link>
+				<contentLength>5583457280</contentLength>
+				<pubDate>2025-01-04T13:21:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20250104/5f497847cb84942b91717d3a8329e9394041b4a6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[炼气十万年][第198集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c</link>
 			<title>[炼气十万年][第198集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-02T18:02:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250102/d4c45a660ec4d10fbd2800ec042877d0a68c2175.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[离谱Sub] 悲喜渔生 / ネガポジアングラー / NegaPosi Angler [12][HEVC AAC][1080p][简繁日内封][招募翻校]</guid>
-			<link>https://mikanani.me/Home/Episode/660d69ddda22f478c8f4918a5ee169d2a4fee28a</link>
-			<title>[离谱Sub] 悲喜渔生 / ネガポジアングラー / NegaPosi Angler [12][HEVC AAC][1080p][简繁日内封][招募翻校]</title>
-			<description>[离谱Sub] 悲喜渔生 / ネガポジアングラー / NegaPosi Angler [12][HEVC AAC][1080p][简繁日内封][招募翻校][380.19 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/660d69ddda22f478c8f4918a5ee169d2a4fee28a</link>
-				<contentLength>398658112</contentLength>
-				<pubDate>2025-01-02T14:27:21.426</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="398658112" url="https://mikanani.me/Download/20250102/660d69ddda22f478c8f4918a5ee169d2a4fee28a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
