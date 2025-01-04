@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf</link>
-				<contentLength>484861536</contentLength>
-				<pubDate>2025-01-03T04:39:28.670145</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/5e19d429a936ec054532fc7e160a6e61b0cb9039</link>
 			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -831,6 +819,18 @@
 				<pubDate>2025-01-04T12:02:51.679</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="586573440" url="https://mikanani.me/Download/20250104/67ececaf90a327df0909b3947651cc8e29a748ab.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[炼气十万年][第198集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c</link>
+			<title>[炼气十万年][第198集][国语中字][WEB-MKV][2160P]</title>
+			<description>[炼气十万年][第198集][国语中字][WEB-MKV][2160P][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-01-04T12:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250104/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

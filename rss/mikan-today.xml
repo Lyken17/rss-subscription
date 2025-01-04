@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[炼气十万年][第198集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c</link>
+			<title>[炼气十万年][第198集][国语中字][WEB-MKV][2160P]</title>
+			<description>[炼气十万年][第198集][国语中字][WEB-MKV][2160P][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-01-04T12:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250104/c3dc80f4dc39be9a12f8cff4e28e3c9fb324300c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[卡徒][第7集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/e02a1d9c78b2f3379311c3fcc59e681eee2c32c6</link>
 			<title>[卡徒][第7集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-02T14:27:21.426</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="398658112" url="https://mikanani.me/Download/20250102/660d69ddda22f478c8f4918a5ee169d2a4fee28a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[离谱Sub] 悲喜渔生 / ネガポジアングラー / NegaPosi Angler [12][AVC AAC][1080p][繁日内嵌][招募翻校]</guid>
-			<link>https://mikanani.me/Home/Episode/16576a5637dd6dae16b441e5bde4e42acb649755</link>
-			<title>[离谱Sub] 悲喜渔生 / ネガポジアングラー / NegaPosi Angler [12][AVC AAC][1080p][繁日内嵌][招募翻校]</title>
-			<description>[离谱Sub] 悲喜渔生 / ネガポジアングラー / NegaPosi Angler [12][AVC AAC][1080p][繁日内嵌][招募翻校][449.94 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/16576a5637dd6dae16b441e5bde4e42acb649755</link>
-				<contentLength>471796288</contentLength>
-				<pubDate>2025-01-02T14:27:19.415</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="471796288" url="https://mikanani.me/Download/20250102/16576a5637dd6dae16b441e5bde4e42acb649755.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
