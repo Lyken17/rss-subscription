@@ -93129,5 +93129,45 @@
       "@length": "331538752",
       "@url": "https://mikanani.me/Download/20250105/3887f2b98f0459c99c4e62aa5fbf7f18085eed8e.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][01][1080p][简日双语][招募翻译]"
+    },
+    "link": "https://mikanani.me/Home/Episode/be0325e8eef7966d09ebe711b74942ced340c71e",
+    "title": "【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][01][1080p][简日双语][招募翻译]",
+    "description": "【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][01][1080p][简日双语][招募翻译][323.53 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/be0325e8eef7966d09ebe711b74942ced340c71e",
+      "contentLength": "339245792",
+      "pubDate": "2025-01-05T04:52:11.534"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "339245792",
+      "@url": "https://mikanani.me/Download/20250105/be0325e8eef7966d09ebe711b74942ced340c71e.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[H-Enc] 转生为第七王子 / Tensei Shitara Dai Nana Ouji (BDRip 1080p HEVC FLAC)"
+    },
+    "link": "https://mikanani.me/Home/Episode/ac55a962506d16b29d4d8762827c9e9949e4ef5e",
+    "title": "[H-Enc] 转生为第七王子 / Tensei Shitara Dai Nana Ouji (BDRip 1080p HEVC FLAC)",
+    "description": "[H-Enc] 转生为第七王子 / Tensei Shitara Dai Nana Ouji (BDRip 1080p HEVC FLAC)[19.6 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ac55a962506d16b29d4d8762827c9e9949e4ef5e",
+      "contentLength": "21045340160",
+      "pubDate": "2025-01-05T04:45:28.609813"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "21045340160",
+      "@url": "https://mikanani.me/Download/20250105/ac55a962506d16b29d4d8762827c9e9949e4ef5e.torrent"
+    }
   }
 ]
