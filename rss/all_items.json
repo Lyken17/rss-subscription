@@ -93169,5 +93169,45 @@
       "@length": "21045340160",
       "@url": "https://mikanani.me/Download/20250105/ac55a962506d16b29d4d8762827c9e9949e4ef5e.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[TOC] 金牌得主 01 [1080P][AVC AAC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/5dc38e66e43d08003205f3ee0848baffc326f538",
+    "title": "[TOC] 金牌得主 01 [1080P][AVC AAC][CHT][MP4]",
+    "description": "[TOC] 金牌得主 01 [1080P][AVC AAC][CHT][MP4][694.8 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5dc38e66e43d08003205f3ee0848baffc326f538",
+      "contentLength": "728550592",
+      "pubDate": "2025-01-05T08:06:20.498185"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "728550592",
+      "@url": "https://mikanani.me/Download/20250105/5dc38e66e43d08003205f3ee0848baffc326f538.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 46 (ABEMA 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/56f1177859a2492bd0c19233d65b85d1c16c99a7",
+    "title": "[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 46 (ABEMA 1920x1080 AVC AAC MP4)",
+    "description": "[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 46 (ABEMA 1920x1080 AVC AAC MP4)[726.67 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/56f1177859a2492bd0c19233d65b85d1c16c99a7",
+      "contentLength": "761968704",
+      "pubDate": "2025-01-05T07:30:47.147"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "761968704",
+      "@url": "https://mikanani.me/Download/20250105/56f1177859a2492bd0c19233d65b85d1c16c99a7.torrent"
+    }
   }
 ]

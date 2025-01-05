@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TOC] 金牌得主 01 [1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/5dc38e66e43d08003205f3ee0848baffc326f538</link>
+			<title>[TOC] 金牌得主 01 [1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] 金牌得主 01 [1080P][AVC AAC][CHT][MP4][694.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5dc38e66e43d08003205f3ee0848baffc326f538</link>
+				<contentLength>728550592</contentLength>
+				<pubDate>2025-01-05T08:06:20.498185</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="728550592" url="https://mikanani.me/Download/20250105/5dc38e66e43d08003205f3ee0848baffc326f538.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 46 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/56f1177859a2492bd0c19233d65b85d1c16c99a7</link>
+			<title>[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 46 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 46 (ABEMA 1920x1080 AVC AAC MP4)[726.67 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56f1177859a2492bd0c19233d65b85d1c16c99a7</link>
+				<contentLength>761968704</contentLength>
+				<pubDate>2025-01-05T07:30:47.147</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761968704" url="https://mikanani.me/Download/20250105/56f1177859a2492bd0c19233d65b85d1c16c99a7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][01][1080p][简日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/be0325e8eef7966d09ebe711b74942ced340c71e</link>
 			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][01][1080p][简日双语][招募翻译]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-04T09:30:55.293</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="581393472" url="https://mikanani.me/Download/20250104/3ab2c62b9b0fe250537f71175c315a36ec7f5980.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 23.5 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/928a43018ac4a9f0a9872f28288acb50575de420</link>
-			<title>[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 23.5 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 超人力霸王雅克 / Ultraman Arc - 23.5 (Baha 1920x1080 AVC AAC MP4)[749.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/928a43018ac4a9f0a9872f28288acb50575de420</link>
-				<contentLength>786180352</contentLength>
-				<pubDate>2025-01-04T09:02:18.886</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="786180352" url="https://mikanani.me/Download/20250104/928a43018ac4a9f0a9872f28288acb50575de420.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/34590a73e0422dc636021f282ad60a1f73a46262</link>
-			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 29 (B-Global Donghua 1920x1080 HEVC AAC MKV)[229.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/34590a73e0422dc636021f282ad60a1f73a46262</link>
-				<contentLength>240878880</contentLength>
-				<pubDate>2025-01-04T09:01:18.875</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="240878880" url="https://mikanani.me/Download/20250104/34590a73e0422dc636021f282ad60a1f73a46262.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
