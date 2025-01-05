@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 01 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8c0321ca456601ecb4d6cae6152c3ceb910bffad</link>
+			<title>[沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 01 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 01 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8c0321ca456601ecb4d6cae6152c3ceb910bffad</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-01-06T03:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250106/8c0321ca456601ecb4d6cae6152c3ceb910bffad.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] MOMENTARY LILY 刹那之花 / Momentary Lily - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/90e346362232ca52bb4f11a687845a87dfb08d3a</link>
 			<title>[Up to 21°C] MOMENTARY LILY 刹那之花 / Momentary Lily - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-05T16:18:54.83</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="665510208" url="https://mikanani.me/Download/20250105/9d83441b6f245af435627f858401d777de5fd2e8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 86 (ADN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/12a8b3e03698ac1a61b28414a2529f70ea6bb731</link>
-			<title>[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 86 (ADN 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 逃走中 GREAT MISSION / Tousouchuu: Great Mission - 86 (ADN 1920x1080 AVC AAC MKV)[558.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/12a8b3e03698ac1a61b28414a2529f70ea6bb731</link>
-				<contentLength>585252224</contentLength>
-				<pubDate>2025-01-05T16:03:53.772</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="585252224" url="https://mikanani.me/Download/20250105/12a8b3e03698ac1a61b28414a2529f70ea6bb731.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
