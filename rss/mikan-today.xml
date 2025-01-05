@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f5aa5dffc38e97ca4b951d991341f10d0ef06be8</link>
+			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 01 (CR 1920x1080 AVC AAC MKV)[237.25 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5aa5dffc38e97ca4b951d991341f10d0ef06be8</link>
+				<contentLength>248774656</contentLength>
+				<pubDate>2025-01-06T04:46:55.636</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248774656" url="https://mikanani.me/Download/20250106/f5aa5dffc38e97ca4b951d991341f10d0ef06be8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 01 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8c0321ca456601ecb4d6cae6152c3ceb910bffad</link>
 			<title>[沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 01 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-05T16:31:12.13</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1034116160" url="https://mikanani.me/Download/20250105/d0768e60322a51271ffe8c1369406e8a92bf2d26.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 23 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/9d83441b6f245af435627f858401d777de5fd2e8</link>
-			<title>[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 23 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
-			<description>[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 23 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][634.68 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9d83441b6f245af435627f858401d777de5fd2e8</link>
-				<contentLength>665510208</contentLength>
-				<pubDate>2025-01-05T16:18:54.83</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="665510208" url="https://mikanani.me/Download/20250105/9d83441b6f245af435627f858401d777de5fd2e8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
