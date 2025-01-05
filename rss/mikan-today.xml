@@ -1192,17 +1192,5 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="763394816" url="https://mikanani.me/Download/20250104/7181321cf1506c504bf1a7b974596dbcd77d7812.torrent"></enclosure>
 		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 26 (ADN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3ac8c2db8af0533976f30e1299d23a46da4c1af9</link>
-			<title>[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 26 (ADN 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 蜻蛉高球 / Ooi! Tonbo - 26 (ADN 1920x1080 AVC AAC MKV)[584.39 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3ac8c2db8af0533976f30e1299d23a46da4c1af9</link>
-				<contentLength>612777344</contentLength>
-				<pubDate>2025-01-04T09:32:53.742</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="612777344" url="https://mikanani.me/Download/20250104/3ac8c2db8af0533976f30e1299d23a46da4c1af9.torrent"></enclosure>
-		</item>
 	</channel>
 </rss>
