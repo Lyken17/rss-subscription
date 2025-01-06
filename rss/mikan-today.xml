@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REMUX EP01-12+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/560357a8292d9ca1529cb81e09770a030ffa81c0</link>
+			<title>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REMUX EP01-12+SP Fin)</title>
+			<description>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REMUX EP01-12+SP Fin)[99.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/560357a8292d9ca1529cb81e09770a030ffa81c0</link>
+				<contentLength>106300440576</contentLength>
+				<pubDate>2025-01-06T20:54:56.899174</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="106300440576" url="https://mikanani.me/Download/20250106/560357a8292d9ca1529cb81e09770a030ffa81c0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Fatum Fatalis] 大小姐x执事！ / れでぃ×ばと！ / Ladies versus Butlers! (BD REENCODE EP01-12+SP Fin)</guid>
 			<link>https://mikanani.me/Home/Episode/51ce9831bae29ba90c0888557c4b708b9086c235</link>
 			<title>[Fatum Fatalis] 大小姐x执事！ / れでぃ×ばと！ / Ladies versus Butlers! (BD REENCODE EP01-12+SP Fin)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-05T21:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="464728896" url="https://mikanani.me/Download/20250105/3b9b3ffa89fa725e01fc39aff4bbd5036ac01703.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸羊羊制作] Bang Dream Ave Mujica - 01V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ea2d8e22b6199b4ca5dab64698216be257666fc6</link>
-			<title>[沸羊羊制作] Bang Dream Ave Mujica - 01V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[沸羊羊制作] Bang Dream Ave Mujica - 01V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][915.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ea2d8e22b6199b4ca5dab64698216be257666fc6</link>
-				<contentLength>960390784</contentLength>
-				<pubDate>2025-01-05T21:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="960390784" url="https://mikanani.me/Download/20250105/ea2d8e22b6199b4ca5dab64698216be257666fc6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

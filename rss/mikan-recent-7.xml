@@ -6040,5 +6040,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358088704" url="https://mikanani.me/Download/20250106/c67346dfc545db8cd3ed0964b51092a42d7077d4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REMUX EP01-12+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/560357a8292d9ca1529cb81e09770a030ffa81c0</link>
+			<title>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REMUX EP01-12+SP Fin)</title>
+			<description>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REMUX EP01-12+SP Fin)[99.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/560357a8292d9ca1529cb81e09770a030ffa81c0</link>
+				<contentLength>106300440576</contentLength>
+				<pubDate>2025-01-06T20:54:56.899174</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="106300440576" url="https://mikanani.me/Download/20250106/560357a8292d9ca1529cb81e09770a030ffa81c0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
