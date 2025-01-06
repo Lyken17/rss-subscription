@@ -5908,5 +5908,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="18575732736" url="https://mikanani.me/Download/20250106/4fec4463ab3c27d55056416dc95b36749cad9087.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 重启咲良田 / Sagrada Reset / サクラダリセット 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/420301452808d34afd387e42a3475619e08ae16a</link>
+			<title>[千夏字幕组&amp;VCB-Studio] 重启咲良田 / Sagrada Reset / サクラダリセット 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[千夏字幕组&amp;VCB-Studio] 重启咲良田 / Sagrada Reset / サクラダリセット 10-bit 1080p HEVC BDRip [Reseed Fin][28.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/420301452808d34afd387e42a3475619e08ae16a</link>
+				<contentLength>30064771072</contentLength>
+				<pubDate>2025-01-06T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="30064771072" url="https://mikanani.me/Download/20250106/420301452808d34afd387e42a3475619e08ae16a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
