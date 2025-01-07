@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP01 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
+			<link>https://mikanani.me/Home/Episode/28e3c1d5c674d7045c06cc7b13a78e27e19f3e47</link>
+			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP01 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
+			<description>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP01 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)[612.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/28e3c1d5c674d7045c06cc7b13a78e27e19f3e47</link>
+				<contentLength>642210880</contentLength>
+				<pubDate>2025-01-07T17:23:54.305</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="642210880" url="https://mikanani.me/Download/20250107/28e3c1d5c674d7045c06cc7b13a78e27e19f3e47.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 MOVIE05 通往天国的倒计时][BDRIP][1040P][MKV][重制版]</guid>
 			<link>https://mikanani.me/Home/Episode/be97c9cf66535f05f8427f12ca069779f9f4249b</link>
 			<title>[APTX4869][CONAN][名侦探柯南 MOVIE05 通往天国的倒计时][BDRIP][1040P][MKV][重制版]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-01-06T02:30:47.485</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20250106/90e346362232ca52bb4f11a687845a87dfb08d3a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[霜庭云花Sub][命运/奇异赝品 / Fate/strange Fake][01v2][1080P][AVC AAC][简日双语][WebRip]</guid>
-			<link>https://mikanani.me/Home/Episode/199dfd89ce46af4f65e70b33dfe2f5c2ccb494ac</link>
-			<title>[霜庭云花Sub][命运/奇异赝品 / Fate/strange Fake][01v2][1080P][AVC AAC][简日双语][WebRip]</title>
-			<description>[霜庭云花Sub][命运/奇异赝品 / Fate/strange Fake][01v2][1080P][AVC AAC][简日双语][WebRip][493.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/199dfd89ce46af4f65e70b33dfe2f5c2ccb494ac</link>
-				<contentLength>517293984</contentLength>
-				<pubDate>2025-01-06T02:03:58.162</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="517293984" url="https://mikanani.me/Download/20250106/199dfd89ce46af4f65e70b33dfe2f5c2ccb494ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
