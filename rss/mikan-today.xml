@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/f1ee87a2d25fedf8bd98ee30986f7d6538d92836</link>
+			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译][186.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1ee87a2d25fedf8bd98ee30986f7d6538d92836</link>
+				<contentLength>195695744</contentLength>
+				<pubDate>2025-01-08T07:07:28.564</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="195695744" url="https://mikanani.me/Download/20250108/f1ee87a2d25fedf8bd98ee30986f7d6538d92836.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c</link>
 			<title>[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-01-06T19:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="811912384" url="https://mikanani.me/Download/20250106/aee8103a70eadb32f3c80b9c0e44498b14e71929.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[逆天至尊][第369集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/13203f02cf01e2b26d974b8ccc184a4472c62b85</link>
-			<title>[逆天至尊][第369集][国语中字][WEB-MKV][2160P]</title>
-			<description>[逆天至尊][第369集][国语中字][WEB-MKV][2160P][451.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/13203f02cf01e2b26d974b8ccc184a4472c62b85</link>
-				<contentLength>473851488</contentLength>
-				<pubDate>2025-01-06T19:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="473851488" url="https://mikanani.me/Download/20250106/13203f02cf01e2b26d974b8ccc184a4472c62b85.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
