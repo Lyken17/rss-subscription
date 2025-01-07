@@ -1168,5 +1168,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="305911552" url="https://mikanani.me/Download/20250108/360b87a76271f101f8426da41573a60db21dbc40.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c</link>
+			<title>[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)[732.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c</link>
+				<contentLength>767725376</contentLength>
+				<pubDate>2025-01-08T02:30:53.047</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="767725376" url="https://mikanani.me/Download/20250108/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

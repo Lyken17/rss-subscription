@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c</link>
+			<title>[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 秘密的偶像公主 / Himitsu no AiPri - 39 (ABEMA 1920x1080 AVC AAC MP4)[732.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c</link>
+				<contentLength>767725376</contentLength>
+				<pubDate>2025-01-08T02:30:53.047</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="767725376" url="https://mikanani.me/Download/20250108/c49f27b6ea8ab6dcf69721a07a26bb4dbf7d2e3c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC]青春之箱[14][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/09d7238844d12ec57832d32151228e79ce5ada27</link>
 			<title>[TOC]青春之箱[14][1080P][AVC AAC][CHT][MP4]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-01-06T19:40:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="473851488" url="https://mikanani.me/Download/20250106/13203f02cf01e2b26d974b8ccc184a4472c62b85.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[无上神帝][第446集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/c67346dfc545db8cd3ed0964b51092a42d7077d4</link>
-			<title>[无上神帝][第446集][国语中字][WEB-MKV][2160P]</title>
-			<description>[无上神帝][第446集][国语中字][WEB-MKV][2160P][341.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c67346dfc545db8cd3ed0964b51092a42d7077d4</link>
-				<contentLength>358088704</contentLength>
-				<pubDate>2025-01-06T19:35:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="358088704" url="https://mikanani.me/Download/20250106/c67346dfc545db8cd3ed0964b51092a42d7077d4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
