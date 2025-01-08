@@ -6472,5 +6472,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="220274368" url="https://mikanani.me/Download/20250108/b6f637e8c7968768ebfd7f2e1723e7474d9dc63a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[梦蓝字幕组]Crayonshinchan 蜡笔小新2024年度[AVC][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/cb90c352fd919a7bb51d25ce5b0fb3513a2080d9</link>
+			<title>[梦蓝字幕组]Crayonshinchan 蜡笔小新2024年度[AVC][1080P]</title>
+			<description>[梦蓝字幕组]Crayonshinchan 蜡笔小新2024年度[AVC][1080P][36.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb90c352fd919a7bb51d25ce5b0fb3513a2080d9</link>
+				<contentLength>38869454848</contentLength>
+				<pubDate>2025-01-08T19:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="38869454848" url="https://mikanani.me/Download/20250108/cb90c352fd919a7bb51d25ce5b0fb3513a2080d9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
