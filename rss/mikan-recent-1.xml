@@ -868,5 +868,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20250108/3403803f945add023d465fb46f569e1fa4f4057d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】灰色：幻影扳机 第01集 BIG5 AVC_aac 816p</guid>
+			<link>https://mikanani.me/Home/Episode/b6f637e8c7968768ebfd7f2e1723e7474d9dc63a</link>
+			<title>【极影字幕·毁片党】灰色：幻影扳机 第01集 BIG5 AVC_aac 816p</title>
+			<description>【极影字幕·毁片党】灰色：幻影扳机 第01集 BIG5 AVC_aac 816p[210.07 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b6f637e8c7968768ebfd7f2e1723e7474d9dc63a</link>
+				<contentLength>220274368</contentLength>
+				<pubDate>2025-01-08T16:15:43.48</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="220274368" url="https://mikanani.me/Download/20250108/b6f637e8c7968768ebfd7f2e1723e7474d9dc63a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
