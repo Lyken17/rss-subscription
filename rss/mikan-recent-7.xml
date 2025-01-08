@@ -6448,5 +6448,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="605500224" url="https://mikanani.me/Download/20250108/00a3a6632f5c49dce94c2b72b4f145aa58e8825c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 为美好的世界献上祝福！ 第三季 / Kono Subarashii Sekai ni Shukufuku wo! 3 / この素晴らしい世界に祝福を! 3 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7adc681a5612578d9b91e5f320f50b40f409e5d7</link>
+			<title>[VCB-Studio] 为美好的世界献上祝福！ 第三季 / Kono Subarashii Sekai ni Shukufuku wo! 3 / この素晴らしい世界に祝福を! 3 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 为美好的世界献上祝福！ 第三季 / Kono Subarashii Sekai ni Shukufuku wo! 3 / この素晴らしい世界に祝福を! 3 10-bit 1080p HEVC BDRip [Fin][15.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7adc681a5612578d9b91e5f320f50b40f409e5d7</link>
+				<contentLength>17072494592</contentLength>
+				<pubDate>2025-01-08T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17072494592" url="https://mikanani.me/Download/20250108/7adc681a5612578d9b91e5f320f50b40f409e5d7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

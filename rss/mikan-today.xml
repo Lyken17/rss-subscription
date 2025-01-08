@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 为美好的世界献上祝福！ 第三季 / Kono Subarashii Sekai ni Shukufuku wo! 3 / この素晴らしい世界に祝福を! 3 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7adc681a5612578d9b91e5f320f50b40f409e5d7</link>
+			<title>[VCB-Studio] 为美好的世界献上祝福！ 第三季 / Kono Subarashii Sekai ni Shukufuku wo! 3 / この素晴らしい世界に祝福を! 3 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 为美好的世界献上祝福！ 第三季 / Kono Subarashii Sekai ni Shukufuku wo! 3 / この素晴らしい世界に祝福を! 3 10-bit 1080p HEVC BDRip [Fin][15.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7adc681a5612578d9b91e5f320f50b40f409e5d7</link>
+				<contentLength>17072494592</contentLength>
+				<pubDate>2025-01-08T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17072494592" url="https://mikanani.me/Download/20250108/7adc681a5612578d9b91e5f320f50b40f409e5d7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][BIG5][繁中]</guid>
 			<link>https://mikanani.me/Home/Episode/44ce0e8c669beea1ced830b3124eb8763e1b5958</link>
 			<title>[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][BIG5][繁中]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-01-06T22:30:52.034</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="370503840" url="https://mikanani.me/Download/20250106/45d540ecb7b5eae9ae31e06084b2069fc1dcb794.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 上班族去了异世界后成了四天王 / Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi - 02 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/521b2055cd79938ce7322654d7def5171fa4daba</link>
-			<title>[Up to 21°C] 上班族去了异世界后成了四天王 / Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi - 02 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 上班族去了异世界后成了四天王 / Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi - 02 (B-Global 1920x1080 HEVC AAC MKV)[261.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/521b2055cd79938ce7322654d7def5171fa4daba</link>
-				<contentLength>274433312</contentLength>
-				<pubDate>2025-01-06T22:30:49.415</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="274433312" url="https://mikanani.me/Download/20250106/521b2055cd79938ce7322654d7def5171fa4daba.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
