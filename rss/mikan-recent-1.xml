@@ -868,5 +868,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3972844800" url="https://mikanani.me/Download/20250108/eee64f44d5c7498a09855aef35473f9a5b153de0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]0岁儿童开始冲刺的故事 第二季/0-saiji Start Dash Monogatari -2  [01] [AVC-8bit 1080P AAC][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/add217405420d04756cad50c6025ffa4a8427ebb</link>
+			<title>[黑白字幕组]0岁儿童开始冲刺的故事 第二季/0-saiji Start Dash Monogatari -2  [01] [AVC-8bit 1080P AAC][CHS]</title>
+			<description>[黑白字幕组]0岁儿童开始冲刺的故事 第二季/0-saiji Start Dash Monogatari -2  [01] [AVC-8bit 1080P AAC][CHS][57.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/add217405420d04756cad50c6025ffa4a8427ebb</link>
+				<contentLength>60188264</contentLength>
+				<pubDate>2025-01-08T21:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="60188264" url="https://mikanani.me/Download/20250108/add217405420d04756cad50c6025ffa4a8427ebb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[神印王座][第141集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/a773db1ad1ab11a3bf0563004bea2ef9efabda3d</link>
+			<title>[神印王座][第141集][国语中字][WEB-MKV][2160P]</title>
+			<description>[神印王座][第141集][国语中字][WEB-MKV][2160P][933.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a773db1ad1ab11a3bf0563004bea2ef9efabda3d</link>
+				<contentLength>978845696</contentLength>
+				<pubDate>2025-01-08T21:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="978845696" url="https://mikanani.me/Download/20250108/a773db1ad1ab11a3bf0563004bea2ef9efabda3d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
