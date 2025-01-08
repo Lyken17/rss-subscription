@@ -892,5 +892,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="198610784" url="https://mikanani.me/Download/20250108/5ee94c9a7f5059435bb1cbd2870ac69d616865f9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][BIG5][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/44ce0e8c669beea1ced830b3124eb8763e1b5958</link>
+			<title>[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][BIG5][繁中]</title>
+			<description>[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][BIG5][繁中][577.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44ce0e8c669beea1ced830b3124eb8763e1b5958</link>
+				<contentLength>605626048</contentLength>
+				<pubDate>2025-01-08T10:53:26.394</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="605626048" url="https://mikanani.me/Download/20250108/44ce0e8c669beea1ced830b3124eb8763e1b5958.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][GB][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/00a3a6632f5c49dce94c2b72b4f145aa58e8825c</link>
+			<title>[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][GB][简中]</title>
+			<description>[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][13][1080P][MP4][GB][简中][577.45 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/00a3a6632f5c49dce94c2b72b4f145aa58e8825c</link>
+				<contentLength>605500224</contentLength>
+				<pubDate>2025-01-08T10:52:52.546</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="605500224" url="https://mikanani.me/Download/20250108/00a3a6632f5c49dce94c2b72b4f145aa58e8825c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
