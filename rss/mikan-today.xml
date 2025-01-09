@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/6b8a801f67e7e7895cbccef705119dfd77ea3b6d</link>
+			<title>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)</title>
+			<description>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)[36.8 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6b8a801f67e7e7895cbccef705119dfd77ea3b6d</link>
+				<contentLength>39513698304</contentLength>
+				<pubDate>2025-01-09T12:24:27.676481</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="39513698304" url="https://mikanani.me/Download/20250109/6b8a801f67e7e7895cbccef705119dfd77ea3b6d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][10][1080P][AVC AAC][简日双语][WebRip]</guid>
 			<link>https://mikanani.me/Home/Episode/c993b5794627b2b12cfcf4a0d928f3848b9c23e3</link>
 			<title>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][10][1080P][AVC AAC][简日双语][WebRip]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-08T00:17:43.842</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250108/bdfb44c9588424f7e27d4053fcedc8327ccd525a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 145 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/be522964547bf4052151627bc7bb297657fff928</link>
-			<title>[jibaketa合成&amp;音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 145 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT]</title>
-			<description>[jibaketa合成&amp;音频压制][TVB粤语]闪跃吧！星梦☆频道 / 美妙☆频道 / Kiratto Pri-chan - 145 [粤日双语+内封繁体中文字幕][WEB 1920x1080 AVC AACx2 SRT TVB CHT][646.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be522964547bf4052151627bc7bb297657fff928</link>
-				<contentLength>677809984</contentLength>
-				<pubDate>2025-01-08T00:13:20.885</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="677809984" url="https://mikanani.me/Download/20250108/be522964547bf4052151627bc7bb297657fff928.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
