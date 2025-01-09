@@ -5,54 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a</link>
-			<title>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P]</title>
-			<description>[三明治摆烂组] 成为名垂青史的反派大小姐吧 / Rekishi ni Nokoru Akujo ni Naru zo - 10 - [简体内封][H265 10bit 1080P][217.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9326bd91c04c4a865806f081772cbb60e628404a</link>
-				<contentLength>228484704</contentLength>
-				<pubDate>2024-12-10T20:22:49.41635</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="228484704" url="https://mikanani.me/Download/20241210/9326bd91c04c4a865806f081772cbb60e628404a.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>三明治摆烂组</group>
-				<title_en>Rekishi ni Nokoru Akujo ni Naru zo</title_en>
-				<resolution>1080P</resolution>
-				<episode>10</episode>
-				<season>1</season>
-				<source>H265</source>
-				<title_zh>成为名垂青史的反派大小姐吧</title_zh>
-				<sub>简体内封</sub>
-				<title_jp>なし</title_jp>
-				<size>217.9 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9078d2f8ae1ea17c818233bef86e107eae9abc9f</link>
-			<title>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 蘑菇狗 / Kinoko Inu - 10 (ABEMA 1920x1080 AVC AAC MP4)[713.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9078d2f8ae1ea17c818233bef86e107eae9abc9f</link>
-				<contentLength>748546944</contentLength>
-				<pubDate>2024-12-10T21:01:33.046</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="748546944" url="https://mikanani.me/Download/20241210/9078d2f8ae1ea17c818233bef86e107eae9abc9f.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Kinoko Inu</title_en>
-				<resolution>1080</resolution>
-				<episode>10</episode>
-				<season>1</season>
-				<source>ABEMA</source>
-				<title_zh>蘑菇狗</title_zh>
-				<sub>ABEMA</sub>
-				<title_jp>キノコイヌ</title_jp>
-				<size>713.87 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi]  妖怪学校的菜鸟老师 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/b79eb5a0a3fdb7e4a11827b37772e3114e8638a6</link>
 			<title>[ANi]  妖怪学校的菜鸟老师 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -35430,6 +35382,18 @@
 				<pubDate>2025-01-10T04:14:33.937721</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="479933248" url="https://mikanani.me/Download/20250110/e507d5154bcc72ad28422549e39fd4e7e2bb3bab.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][15][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/28df251dee4eb546f5aa69420e90229ba1d58fcf</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][15][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][15][WEBrip][1080P][简日双语][457.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/28df251dee4eb546f5aa69420e90229ba1d58fcf</link>
+				<contentLength>479933248</contentLength>
+				<pubDate>2025-01-10T04:46:06.549808</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="479933248" url="https://mikanani.me/Download/20250110/28df251dee4eb546f5aa69420e90229ba1d58fcf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
