@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus]</guid>
-			<link>https://mikanani.me/Home/Episode/88ba7e229d44585b3d2fef322751128445b2a3ed</link>
-			<title>[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus]</title>
-			<description>[沸羊羊制作] 名侦探柯南 百万美元的五棱星+SP全特典 / Detective Conan The Million Dollar Pentagram+All SP TOKUTEN [BDRip 2160p Ai-Upscale HEVC-10bit Opus][16.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/88ba7e229d44585b3d2fef322751128445b2a3ed</link>
-				<contentLength>17824114688</contentLength>
-				<pubDate>2024-12-10T06:27:04.906829</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17824114688" url="https://mikanani.me/Download/20241210/88ba7e229d44585b3d2fef322751128445b2a3ed.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>沸羊羊制作</group>
-				<title_en>Detective Conan The Million Dollar Pentagram</title_en>
-				<resolution>2160p Ai-Upscale</resolution>
-				<episode>SP</episode>
-				<season>1</season>
-				<source>BDRip</source>
-				<title_zh>名侦探柯南 百万美元的五棱星+SP全特典</title_zh>
-				<sub>All SP TOKUTEN</sub>
-				<title_jp>名探偵コナン ミリオンドルの五角星</title_jp>
-				<size>16.6GB</size>
-				<season_raw></season_raw>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[神道帝尊][第20集][国语中字][WEB-MKV][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/9a98eae29e48a38f5cbcce43df0f2c8b57674f30</link>
 			<title>[神道帝尊][第20集][国语中字][WEB-MKV][1080P]</title>
@@ -35188,6 +35163,18 @@
 				<pubDate>2025-01-09T13:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9556301824" url="https://mikanani.me/Download/20250109/5f813658f7b07ed4b80eec13d3a14f7cb3960e6c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/97aec20c882d29cbef8f6fbb3a320f17fb469c21</link>
+			<title>[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P]</title>
+			<description>[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P][31.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/97aec20c882d29cbef8f6fbb3a320f17fb469c21</link>
+				<contentLength>33930242048</contentLength>
+				<pubDate>2025-01-09T14:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33930242048" url="https://mikanani.me/Download/20250109/97aec20c882d29cbef8f6fbb3a320f17fb469c21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

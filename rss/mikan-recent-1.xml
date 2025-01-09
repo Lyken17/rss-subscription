@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/f1ee87a2d25fedf8bd98ee30986f7d6538d92836</link>
-			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译][186.63 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f1ee87a2d25fedf8bd98ee30986f7d6538d92836</link>
-				<contentLength>195695744</contentLength>
-				<pubDate>2025-01-08T07:07:28.564</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="195695744" url="https://mikanani.me/Download/20250108/f1ee87a2d25fedf8bd98ee30986f7d6538d92836.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 08 [BDRip][HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/4009e765cc44c7d22f2a30a9a9010a568d8aaee6</link>
 			<title>[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 08 [BDRip][HEVC-10bit 1080p][繁日内嵌]</title>
@@ -1287,6 +1275,18 @@
 				<pubDate>2025-01-09T13:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9556301824" url="https://mikanani.me/Download/20250109/5f813658f7b07ed4b80eec13d3a14f7cb3960e6c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/97aec20c882d29cbef8f6fbb3a320f17fb469c21</link>
+			<title>[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P]</title>
+			<description>[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P][31.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/97aec20c882d29cbef8f6fbb3a320f17fb469c21</link>
+				<contentLength>33930242048</contentLength>
+				<pubDate>2025-01-09T14:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33930242048" url="https://mikanani.me/Download/20250109/97aec20c882d29cbef8f6fbb3a320f17fb469c21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/97aec20c882d29cbef8f6fbb3a320f17fb469c21</link>
+			<title>[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P]</title>
+			<description>[梦蓝字幕组]New Doraemon 哆啦A梦新番2024年度[AVC][1080P][31.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/97aec20c882d29cbef8f6fbb3a320f17fb469c21</link>
+				<contentLength>33930242048</contentLength>
+				<pubDate>2025-01-09T14:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33930242048" url="https://mikanani.me/Download/20250109/97aec20c882d29cbef8f6fbb3a320f17fb469c21.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</guid>
 			<link>https://mikanani.me/Home/Episode/93f51b8e2c0ae883994664e5f22480ac24764d6f</link>
 			<title>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-08T01:35:47.363</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="305911552" url="https://mikanani.me/Download/20250108/360b87a76271f101f8426da41573a60db21dbc40.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 02 [1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/381ea9b787c394a62f26ca9b1d90b35d8cff9ffd</link>
-			<title>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 02 [1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 02 [1080P][AVC AAC][CHT][MP4][714.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/381ea9b787c394a62f26ca9b1d90b35d8cff9ffd</link>
-				<contentLength>748683264</contentLength>
-				<pubDate>2025-01-08T00:27:14.341947</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="748683264" url="https://mikanani.me/Download/20250108/381ea9b787c394a62f26ca9b1d90b35d8cff9ffd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
