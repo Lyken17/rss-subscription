@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD制作组][4K(2160P)+HDR+1080P][Bang Dream! Ave Mujica][01-02TV][Bilibili][WEB-DL][简日双语内嵌][AAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/013cb8e85d4d4c9392f43682d78ca98b5335d52b</link>
+			<title>[DBD制作组][4K(2160P)+HDR+1080P][Bang Dream! Ave Mujica][01-02TV][Bilibili][WEB-DL][简日双语内嵌][AAC][MKV]</title>
+			<description>[DBD制作组][4K(2160P)+HDR+1080P][Bang Dream! Ave Mujica][01-02TV][Bilibili][WEB-DL][简日双语内嵌][AAC][MKV][4.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/013cb8e85d4d4c9392f43682d78ca98b5335d52b</link>
+				<contentLength>4724464128</contentLength>
+				<pubDate>2025-01-10T14:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4724464128" url="https://mikanani.me/Download/20250110/013cb8e85d4d4c9392f43682d78ca98b5335d52b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 03 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8b3530efc8f77251c185f1407eb136eed8437c51</link>
 			<title>[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 03 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-09T05:57:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="71725957120" url="https://mikanani.me/Download/20250109/2cb857e5ff7c921c0f865399c4d39f769230e211.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">​[整理搬运] 日常 (Nichijou／My Ordinary Life)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.13)</guid>
-			<link>https://mikanani.me/Home/Episode/8bcabee9d8161dab805ebcebd6bbcda1abb40306</link>
-			<title>​[整理搬运] 日常 (Nichijou／My Ordinary Life)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.13)</title>
-			<description>​[整理搬运] 日常 (Nichijou／My Ordinary Life)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.13)[40.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8bcabee9d8161dab805ebcebd6bbcda1abb40306</link>
-				<contentLength>43486543872</contentLength>
-				<pubDate>2025-01-09T05:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="43486543872" url="https://mikanani.me/Download/20250109/8bcabee9d8161dab805ebcebd6bbcda1abb40306.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
