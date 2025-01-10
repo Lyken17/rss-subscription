@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)</guid>
-			<link>https://mikanani.me/Home/Episode/6b8a801f67e7e7895cbccef705119dfd77ea3b6d</link>
-			<title>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)</title>
-			<description>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)[36.8 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6b8a801f67e7e7895cbccef705119dfd77ea3b6d</link>
-				<contentLength>39513698304</contentLength>
-				<pubDate>2025-01-09T12:24:27.676481</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="39513698304" url="https://mikanani.me/Download/20250109/6b8a801f67e7e7895cbccef705119dfd77ea3b6d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</guid>
 			<link>https://mikanani.me/Home/Episode/93f51b8e2c0ae883994664e5f22480ac24764d6f</link>
 			<title>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</title>
@@ -1215,6 +1203,18 @@
 				<pubDate>2025-01-10T18:06:37.494</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="696579520" url="https://mikanani.me/Download/20250110/f590cf20e0245e62080ade2ab0b914ebbcabf3a3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
+			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][369.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
+				<contentLength>387773888</contentLength>
+				<pubDate>2025-01-10T19:49:37.687</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="387773888" url="https://mikanani.me/Download/20250110/49345ef956ae49526cad1de0788049588cb9a3c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

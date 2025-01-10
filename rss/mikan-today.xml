@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
+			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][369.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
+				<contentLength>387773888</contentLength>
+				<pubDate>2025-01-10T19:49:37.687</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="387773888" url="https://mikanani.me/Download/20250110/49345ef956ae49526cad1de0788049588cb9a3c3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
 			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-09T13:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9556301824" url="https://mikanani.me/Download/20250109/5f813658f7b07ed4b80eec13d3a14f7cb3960e6c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)</guid>
-			<link>https://mikanani.me/Home/Episode/6b8a801f67e7e7895cbccef705119dfd77ea3b6d</link>
-			<title>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)</title>
-			<description>[Fatum Fatalis] 义妹生活 / 义妹生活 / Gimai Seikatsu (BD REENCODE EP01-12+SP Fin)[36.8 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6b8a801f67e7e7895cbccef705119dfd77ea3b6d</link>
-				<contentLength>39513698304</contentLength>
-				<pubDate>2025-01-09T12:24:27.676481</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="39513698304" url="https://mikanani.me/Download/20250109/6b8a801f67e7e7895cbccef705119dfd77ea3b6d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
