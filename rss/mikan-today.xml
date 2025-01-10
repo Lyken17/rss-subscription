@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/abf35f56ee414ec441398831906f0596681ccdbd</link>
+			<title>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)</title>
+			<description>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)[21.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/abf35f56ee414ec441398831906f0596681ccdbd</link>
+				<contentLength>22655952896</contentLength>
+				<pubDate>2025-01-10T20:46:31.813245</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22655952896" url="https://mikanani.me/Download/20250110/abf35f56ee414ec441398831906f0596681ccdbd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
 			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-09T13:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9556301824" url="https://mikanani.me/Download/20250109/b53e50ffacf65a45f0dfdd8d6ce82914bb2623ef.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][01-14][1080P][MP4][BIG5][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/5f813658f7b07ed4b80eec13d3a14f7cb3960e6c</link>
-			<title>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][01-14][1080P][MP4][BIG5][繁中]</title>
-			<description>[漫猫字幕社&amp;猫恋汉化组][10月新番][死神 千年血战篇-相克谭-][Bleach Sennen Kessen Hen - Soukoku Tan][01-14][1080P][MP4][BIG5][繁中][8.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f813658f7b07ed4b80eec13d3a14f7cb3960e6c</link>
-				<contentLength>9556301824</contentLength>
-				<pubDate>2025-01-09T13:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9556301824" url="https://mikanani.me/Download/20250109/5f813658f7b07ed4b80eec13d3a14f7cb3960e6c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

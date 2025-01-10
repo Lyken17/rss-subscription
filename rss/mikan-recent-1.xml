@@ -1216,5 +1216,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="387773888" url="https://mikanani.me/Download/20250110/49345ef956ae49526cad1de0788049588cb9a3c3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/abf35f56ee414ec441398831906f0596681ccdbd</link>
+			<title>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)</title>
+			<description>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)[21.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/abf35f56ee414ec441398831906f0596681ccdbd</link>
+				<contentLength>22655952896</contentLength>
+				<pubDate>2025-01-10T20:46:31.813245</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22655952896" url="https://mikanani.me/Download/20250110/abf35f56ee414ec441398831906f0596681ccdbd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
