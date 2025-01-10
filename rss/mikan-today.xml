@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
+			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
+			<description>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[664.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
+				<contentLength>696579520</contentLength>
+				<pubDate>2025-01-10T18:06:37.494</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="696579520" url="https://mikanani.me/Download/20250110/f590cf20e0245e62080ade2ab0b914ebbcabf3a3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 家庭教师 Hitman Reborn ! (家庭教师ヒットマン Reborn !) (Katekyō Hitman Reborn !／Reborn !)：TV动画 (+特别篇)+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2024.01.22)</guid>
 			<link>https://mikanani.me/Home/Episode/cba6937cca648f794163542ba58351f5c2030fda</link>
 			<title>[整理搬运] 家庭教师 Hitman Reborn ! (家庭教师ヒットマン Reborn !) (Katekyō Hitman Reborn !／Reborn !)：TV动画 (+特别篇)+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2024.01.22)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-09T12:24:27.676481</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="39513698304" url="https://mikanani.me/Download/20250109/6b8a801f67e7e7895cbccef705119dfd77ea3b6d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][10][1080P][AVC AAC][简日双语][WebRip]</guid>
-			<link>https://mikanani.me/Home/Episode/c993b5794627b2b12cfcf4a0d928f3848b9c23e3</link>
-			<title>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][10][1080P][AVC AAC][简日双语][WebRip]</title>
-			<description>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][10][1080P][AVC AAC][简日双语][WebRip][252.59 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c993b5794627b2b12cfcf4a0d928f3848b9c23e3</link>
-				<contentLength>264859808</contentLength>
-				<pubDate>2025-01-09T11:07:55.095</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="264859808" url="https://mikanani.me/Download/20250109/c993b5794627b2b12cfcf4a0d928f3848b9c23e3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

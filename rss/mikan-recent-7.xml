@@ -7444,5 +7444,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="546811392" url="https://mikanani.me/Download/20250110/410cf5bc2cba436f732e3b570f45214f2fed501d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
+			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
+			<description>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[664.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
+				<contentLength>696579520</contentLength>
+				<pubDate>2025-01-10T18:06:37.494</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="696579520" url="https://mikanani.me/Download/20250110/f590cf20e0245e62080ade2ab0b914ebbcabf3a3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

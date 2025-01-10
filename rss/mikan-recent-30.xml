@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/13417cfb897274996a00fcea85ee17ab8d925aa1</link>
-			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季 / Yowai 5000-nen no Soushoku Dragon S2 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[192.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/13417cfb897274996a00fcea85ee17ab8d925aa1</link>
-				<contentLength>201955744</contentLength>
-				<pubDate>2024-12-11T10:01:09.237</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="201955744" url="https://mikanani.me/Download/20241211/13417cfb897274996a00fcea85ee17ab8d925aa1.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>B-Global</group>
-				<title_en>Yowai 5000-nen no Soushoku Dragon S2</title_en>
-				<resolution>1080</resolution>
-				<episode>12</episode>
-				<season>2</season>
-				<title_zh>食草老龙被冠以恶龙之名 第二季</title_zh>
-				<sub>HEVC AAC</sub>
-				<title_jp>ぼうしドラゴン</title_jp>
-				<season_raw>S2</season_raw>
-				<source>B-Global</source>
-				<size>192.6 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/e70542dcd9313dd7b412b1bab821c1e72c98e186</link>
 			<title>[Up to 21°C] 食草老龙被冠以恶龙之名 第二季（日配版） / Yowai 5000-nen no Soushoku Dragon (Japanese Audio) S2 - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -34543,6 +34518,18 @@
 				<pubDate>2025-01-10T16:39:39.914</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="546811392" url="https://mikanani.me/Download/20250110/410cf5bc2cba436f732e3b570f45214f2fed501d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
+			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
+			<description>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 03 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[664.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f590cf20e0245e62080ade2ab0b914ebbcabf3a3</link>
+				<contentLength>696579520</contentLength>
+				<pubDate>2025-01-10T18:06:37.494</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="696579520" url="https://mikanani.me/Download/20250110/f590cf20e0245e62080ade2ab0b914ebbcabf3a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
