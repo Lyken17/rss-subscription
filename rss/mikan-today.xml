@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] Ultraman Arc /  超人力霸王雅克 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/54084fe9bbc12944d650f7cc56682dcc2dd4485e</link>
+			<title>[ANi] Ultraman Arc /  超人力霸王雅克 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Ultraman Arc /  超人力霸王雅克 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][590.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54084fe9bbc12944d650f7cc56682dcc2dd4485e</link>
+				<contentLength>619498688</contentLength>
+				<pubDate>2025-01-11T09:01:03.400473</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="619498688" url="https://mikanani.me/Download/20250111/54084fe9bbc12944d650f7cc56682dcc2dd4485e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 灰色：幻影扳机 - 02 [CR WebRip Ai2160p HEVC-10bit AAC][无中文字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/921579822c933da563d5d1fca13bc468e0778f2f</link>
 			<title>[新沸羊羊制作] 灰色：幻影扳机 - 02 [CR WebRip Ai2160p HEVC-10bit AAC][无中文字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-10T04:15:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="734527488" url="https://mikanani.me/Download/20250110/62f085e628e50b1c9620a40340a023659b9a3de1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 37 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/16009299de6abdcd8497601b9e67d986fe90bb3f</link>
-			<title>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 37 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 37 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/16009299de6abdcd8497601b9e67d986fe90bb3f</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-01-10T03:03:32.646</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250110/16009299de6abdcd8497601b9e67d986fe90bb3f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
