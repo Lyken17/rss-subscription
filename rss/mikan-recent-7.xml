@@ -7828,5 +7828,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="764527232" url="https://mikanani.me/Download/20250111/fde9b9a53fce35758b12bced19dfd9b9cce983e2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
+			<title>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)[598.98 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
+				<contentLength>628076032</contentLength>
+				<pubDate>2025-01-11T12:03:01.526</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="628076032" url="https://mikanani.me/Download/20250111/a33230e230234c6d315fa733de17eae9cde49a63.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

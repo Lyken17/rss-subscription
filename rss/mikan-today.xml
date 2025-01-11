@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
+			<title>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)[598.98 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
+				<contentLength>628076032</contentLength>
+				<pubDate>2025-01-11T12:03:01.526</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="628076032" url="https://mikanani.me/Download/20250111/a33230e230234c6d315fa733de17eae9cde49a63.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/fde9b9a53fce35758b12bced19dfd9b9cce983e2</link>
 			<title>[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-01-10T04:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="702441088" url="https://mikanani.me/Download/20250110/c543864c2da7cc28a04839f5b5f3936f517f314e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】[物语系列 / Monogatari Series: Off &amp; Monster Season][02][抚物语][BDRip][1080p][简繁日双语][含副音轨]</guid>
-			<link>https://mikanani.me/Home/Episode/d000487f6c00e7ab536d887e5472e50087b640de</link>
-			<title>【喵萌奶茶屋】[物语系列 / Monogatari Series: Off &amp; Monster Season][02][抚物语][BDRip][1080p][简繁日双语][含副音轨]</title>
-			<description>【喵萌奶茶屋】[物语系列 / Monogatari Series: Off &amp; Monster Season][02][抚物语][BDRip][1080p][简繁日双语][含副音轨][801MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d000487f6c00e7ab536d887e5472e50087b640de</link>
-				<contentLength>839909376</contentLength>
-				<pubDate>2025-01-10T04:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="839909376" url="https://mikanani.me/Download/20250110/d000487f6c00e7ab536d887e5472e50087b640de.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][01][1080p][繁日双语]</guid>
