@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[大道朝天][第1-16集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/5f448283360435a156495fc41af38decd5beec78</link>
-			<title>[大道朝天][第1-16集][国语中字][WEB-MKV][2160P]</title>
-			<description>[大道朝天][第1-16集][国语中字][WEB-MKV][2160P][24.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f448283360435a156495fc41af38decd5beec78</link>
-				<contentLength>26521423872</contentLength>
-				<pubDate>2025-01-10T07:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="26521423872" url="https://mikanani.me/Download/20250110/5f448283360435a156495fc41af38decd5beec78.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 不幸职业【鉴定士】其实是最强的 / Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a46997949e2cd75bc49e59b188d532f94a78ccb3</link>
 			<title>[Up to 21°C] 不幸职业【鉴定士】其实是最强的 / Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1323,6 +1311,18 @@
 				<pubDate>2025-01-11T12:03:01.526</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="628076032" url="https://mikanani.me/Download/20250111/a33230e230234c6d315fa733de17eae9cde49a63.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 简中&amp;日文字幕 (整理时间：2023.11.10)</guid>
+			<link>https://mikanani.me/Home/Episode/ce0cc98f53c3bbfa6183d4e17d014a4e83148611</link>
+			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 简中&amp;日文字幕 (整理时间：2023.11.10)</title>
+			<description>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 简中&amp;日文字幕 (整理时间：2023.11.10)[122.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce0cc98f53c3bbfa6183d4e17d014a4e83148611</link>
+				<contentLength>131533373440</contentLength>
+				<pubDate>2025-01-11T14:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131533373440" url="https://mikanani.me/Download/20250111/ce0cc98f53c3bbfa6183d4e17d014a4e83148611.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
