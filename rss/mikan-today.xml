@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]队长小翼第二季 青少年篇 / 世少篇 - 16 (WEB 1920x1080 AVC AACx2 SRT ViuTV CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/94cf0077ad0be71b1413842b8258149f7ab7d09a</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]队长小翼第二季 青少年篇 / 世少篇 - 16 (WEB 1920x1080 AVC AACx2 SRT ViuTV CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]队长小翼第二季 青少年篇 / 世少篇 - 16 (WEB 1920x1080 AVC AACx2 SRT ViuTV CHT)[804.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/94cf0077ad0be71b1413842b8258149f7ab7d09a</link>
+				<contentLength>843935936</contentLength>
+				<pubDate>2025-01-12T14:45:59.659</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="843935936" url="https://mikanani.me/Download/20250112/94cf0077ad0be71b1413842b8258149f7ab7d09a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活 / Beheneko - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c5b561f597771e0e5fe4f93f48f75d999368e1c5</link>
 			<title>[LoliHouse] S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活 / Beheneko - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-01-11T17:37:27.58</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="85763032" url="https://mikanani.me/Download/20250111/31dfd6d8fc89bc18bd543b654e09938c8553d1e7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 23.5 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
-			<link>https://mikanani.me/Home/Episode/86cc9480a284610798b425b7e7cd8e96875dc70c</link>
-			<title>[jibaketa合成&amp;二次压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 23.5 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
-			<description>[jibaketa合成&amp;二次压制][ViuTV粤语]超人雅古 / 亚刻奥特曼 / 超人力霸王雅克 / Ultraman Arc - 23.5 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[769.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86cc9480a284610798b425b7e7cd8e96875dc70c</link>
-				<contentLength>807036544</contentLength>
-				<pubDate>2025-01-11T17:08:01.838</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="807036544" url="https://mikanani.me/Download/20250111/86cc9480a284610798b425b7e7cd8e96875dc70c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
