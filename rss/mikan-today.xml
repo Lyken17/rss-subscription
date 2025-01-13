@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] 药师少女的独语 第二季 - 01 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a498a6eec374e147e966f6eaf705784017506bf2</link>
+			<title>[新沸羊羊制作] 药师少女的独语 第二季 - 01 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] 药师少女的独语 第二季 - 01 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕][997.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a498a6eec374e147e966f6eaf705784017506bf2</link>
+				<contentLength>1045535104</contentLength>
+				<pubDate>2025-01-14T07:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1045535104" url="https://mikanani.me/Download/20250114/a498a6eec374e147e966f6eaf705784017506bf2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [02] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/76be9bb5f009231ebf5d322c5eda5bfa2d73247d</link>
 			<title>[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [02] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-13T10:31:33.858555</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="740084928" url="https://mikanani.me/Download/20250113/9d0f2057523ea42ae65adab7daa5a527060f8a31.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 20 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/f3fbaeaafc9e47ce3564db859d02baca08ef1807</link>
-			<title>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 20 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</title>
-			<description>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 20 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)[1.25 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f3fbaeaafc9e47ce3564db859d02baca08ef1807</link>
-				<contentLength>1342177280</contentLength>
-				<pubDate>2025-01-13T10:23:50.542</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1342177280" url="https://mikanani.me/Download/20250113/f3fbaeaafc9e47ce3564db859d02baca08ef1807.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
