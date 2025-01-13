@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/25304082c46808fb05ac5c15a8c958f255ae9103</link>
+			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 13 (ABEMA 1920x1080 AVC AAC MP4)[45.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25304082c46808fb05ac5c15a8c958f255ae9103</link>
+				<contentLength>47469036</contentLength>
+				<pubDate>2025-01-14T02:35:22.019</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47469036" url="https://mikanani.me/Download/20250114/25304082c46808fb05ac5c15a8c958f255ae9103.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 03 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d977e152e92871fa1985fad002b17268bde00794</link>
 			<title>[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 03 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-13T11:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="261619712" url="https://mikanani.me/Download/20250113/25901da452f2aa50395b2bd40aa5977403a99cfa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [18][超强！布丁的保镖][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/9d0f2057523ea42ae65adab7daa5a527060f8a31</link>
-			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [18][超强！布丁的保镖][1080p][简日内嵌]</title>
-			<description>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [18][超强！布丁的保镖][1080p][简日内嵌][705.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9d0f2057523ea42ae65adab7daa5a527060f8a31</link>
-				<contentLength>740084928</contentLength>
-				<pubDate>2025-01-13T10:31:33.858555</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="740084928" url="https://mikanani.me/Download/20250113/9d0f2057523ea42ae65adab7daa5a527060f8a31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
