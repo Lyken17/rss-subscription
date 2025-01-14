@@ -448,5 +448,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="504490880" url="https://mikanani.me/Download/20250114/2be2deb5b11de9762bbd240cf8f69de58a01cf19.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/34d028e45dc001d8587c3bba58f314590d7c7714</link>
+			<title>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][259.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/34d028e45dc001d8587c3bba58f314590d7c7714</link>
+				<contentLength>271822368</contentLength>
+				<pubDate>2025-01-14T22:36:22.459</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="271822368" url="https://mikanani.me/Download/20250114/34d028e45dc001d8587c3bba58f314590d7c7714.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
