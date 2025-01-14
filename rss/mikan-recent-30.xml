@@ -5,31 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/530cb7c250f80d2b56a2743f4cea6800db63a7e3</link>
-			<title>[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 棉花糖女孩遇上闷骚男孩 / Maarui Kanojo to Zannen na Kareshi - 11 (ABEMA 1920x1080 AVC AAC MP4)[346.28 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/530cb7c250f80d2b56a2743f4cea6800db63a7e3</link>
-				<contentLength>363100896</contentLength>
-				<pubDate>2024-12-15T02:45:33.796</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="363100896" url="https://mikanani.me/Download/20241215/530cb7c250f80d2b56a2743f4cea6800db63a7e3.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Maarui Kanojo to Zannen na Kareshi</title_en>
-				<resolution>1080</resolution>
-				<episode>11</episode>
-				<season>1</season>
-				<title_zh>棉花糖女孩遇上闷骚男孩</title_zh>
-				<sub>NA</sub>
-				<title_jp>Maarui Kanojo to Zannen na Kareshi</title_jp>
-				<size>346.28 MB</size>
-				<season_raw>ABEMA 1920x1080</season_raw>
-				<source>NA</source>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 女仆冥土小姐 / Kimi wa Meido-sama. - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7f3e68df796446af5bbf57faac8f890b0c1e4369</link>
 			<title>[Up to 21°C] 女仆冥土小姐 / Kimi wa Meido-sama. - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -32134,6 +32109,18 @@
 				<pubDate>2025-01-14T09:51:48.669</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="260151712" url="https://mikanani.me/Download/20250114/87d6d421507e781232c3f9869226035551184ccc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)[567.47 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
+				<contentLength>595035392</contentLength>
+				<pubDate>2025-01-14T11:02:45.932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="595035392" url="https://mikanani.me/Download/20250114/483632b29241c5a5e7d78302de0923cd66dc1c37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

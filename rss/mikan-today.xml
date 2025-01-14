@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)[567.47 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
+				<contentLength>595035392</contentLength>
+				<pubDate>2025-01-14T11:02:45.932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="595035392" url="https://mikanani.me/Download/20250114/483632b29241c5a5e7d78302de0923cd66dc1c37.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绝世武魂][第101-440集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/dac7a53c6557fab96ada3822486a460e817f64c4</link>
 			<title>[绝世武魂][第101-440集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-13T11:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="458856864" url="https://mikanani.me/Download/20250113/3365d78edc4616ecb454a3b7aa20650db7a95238.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [02] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/785a454b46900381935c24de24e656ec386f1cb8</link>
-			<title>[黑白字幕组]全修。 / Zenshuu. [02] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
-			<description>[黑白字幕组]全修。 / Zenshuu. [02] [webRip] [AVC-8bit 1080P AAC] [简日内嵌][437.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/785a454b46900381935c24de24e656ec386f1cb8</link>
-				<contentLength>459066560</contentLength>
-				<pubDate>2025-01-13T11:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="459066560" url="https://mikanani.me/Download/20250113/785a454b46900381935c24de24e656ec386f1cb8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

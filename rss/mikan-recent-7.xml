@@ -77,18 +77,6 @@
 			<enclosure type="application/x-bittorrent" length="365774752" url="https://mikanani.me/Download/20250107/99bf95e819a7c555d7cdbd16def90e2b7677c548.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REMUX EP01-12+SP Fin)</guid>
-			<link>https://mikanani.me/Home/Episode/7c3699e1fb4c895a52ec56f2325071f1c53208fd</link>
-			<title>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REMUX EP01-12+SP Fin)</title>
-			<description>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REMUX EP01-12+SP Fin)[81.9 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7c3699e1fb4c895a52ec56f2325071f1c53208fd</link>
-				<contentLength>87939457024</contentLength>
-				<pubDate>2025-01-07T02:45:39.944433</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="87939457024" url="https://mikanani.me/Download/20250107/7c3699e1fb4c895a52ec56f2325071f1c53208fd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][长生界][The Eternal Realm][2024][12][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/89b45ea47c4f70ad5422141fadf073331bdae3b1</link>
 			<title>[GM-Team][国漫][长生界][The Eternal Realm][2024][12][HEVC][GB][4K]</title>
@@ -7995,6 +7983,18 @@
 				<pubDate>2025-01-14T09:51:48.669</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="260151712" url="https://mikanani.me/Download/20250114/87d6d421507e781232c3f9869226035551184ccc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)[567.47 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
+				<contentLength>595035392</contentLength>
+				<pubDate>2025-01-14T11:02:45.932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="595035392" url="https://mikanani.me/Download/20250114/483632b29241c5a5e7d78302de0923cd66dc1c37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
