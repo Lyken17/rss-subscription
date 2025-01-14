@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 大叔转生恶役大小姐 /  Akuyaku Reijou Tensei Ojisan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cd588dc846465e7a9ae107d9d381c724ab1a15bf</link>
+			<title>[LoliHouse] 大叔转生恶役大小姐 /  Akuyaku Reijou Tensei Ojisan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 大叔转生恶役大小姐 /  Akuyaku Reijou Tensei Ojisan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][512.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cd588dc846465e7a9ae107d9d381c724ab1a15bf</link>
+				<contentLength>537604928</contentLength>
+				<pubDate>2025-01-14T19:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="537604928" url="https://mikanani.me/Download/20250114/cd588dc846465e7a9ae107d9d381c724ab1a15bf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2</link>
 			<title>[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-13T13:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="555011264" url="https://mikanani.me/Download/20250113/f5bb77af5fde5256c91076c70d1888e90c0b8021.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 群花绽放，仿如修罗 / Hana wa Saku Shura no Gotoku - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/45483be44ca8977ba0f2e2978d8412eb09e031bc</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 群花绽放，仿如修罗 / Hana wa Saku Shura no Gotoku - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 群花绽放，仿如修罗 / Hana wa Saku Shura no Gotoku - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][438.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/45483be44ca8977ba0f2e2978d8412eb09e031bc</link>
-				<contentLength>459873984</contentLength>
-				<pubDate>2025-01-13T12:09:53.935</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="459873984" url="https://mikanani.me/Download/20250113/45483be44ca8977ba0f2e2978d8412eb09e031bc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
