@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8fe0dce6311ff57950579985b6a185764f1c752f</link>
+			<title>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][690.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8fe0dce6311ff57950579985b6a185764f1c752f</link>
+				<contentLength>723727168</contentLength>
+				<pubDate>2025-01-14T13:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="723727168" url="https://mikanani.me/Download/20250114/8fe0dce6311ff57950579985b6a185764f1c752f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][15][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/4a103d1318f21e4417f4a050ac15525ac4031295</link>
+			<title>【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][15][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][15][1080p][繁日双语][招募翻译][466.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4a103d1318f21e4417f4a050ac15525ac4031295</link>
+				<contentLength>488741280</contentLength>
+				<pubDate>2025-01-14T12:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="488741280" url="https://mikanani.me/Download/20250114/4a103d1318f21e4417f4a050ac15525ac4031295.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/483632b29241c5a5e7d78302de0923cd66dc1c37</link>
 			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-13T11:42:15.675</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="465221728" url="https://mikanani.me/Download/20250113/99ba9b3155c7dd6c8692692069acdef175d11860.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][02][1080p][繁日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/9b1a84312a94389999280a5cf0f012986c1d3699</link>
-			<title>【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][02][1080p][繁日双语][招募翻译]</title>
-			<description>【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][02][1080p][繁日双语][招募翻译][451.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b1a84312a94389999280a5cf0f012986c1d3699</link>
-				<contentLength>473536928</contentLength>
-				<pubDate>2025-01-13T11:39:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="473536928" url="https://mikanani.me/Download/20250113/9b1a84312a94389999280a5cf0f012986c1d3699.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [02] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/3365d78edc4616ecb454a3b7aa20650db7a95238</link>
-			<title>[黑白字幕组]全修。 / Zenshuu. [02] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
-			<description>[黑白字幕组]全修。 / Zenshuu. [02] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][437.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3365d78edc4616ecb454a3b7aa20650db7a95238</link>
-				<contentLength>458856864</contentLength>
-				<pubDate>2025-01-13T11:18:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458856864" url="https://mikanani.me/Download/20250113/3365d78edc4616ecb454a3b7aa20650db7a95238.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
