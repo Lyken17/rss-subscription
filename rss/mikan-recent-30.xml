@@ -31924,5 +31924,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="334443328" url="https://mikanani.me/Download/20250114/809ed3eaa8d6734d6f98d67a86269f7f3183d9b4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2</link>
+			<title>[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin]</title>
+			<description>[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin][22.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2</link>
+				<contentLength>23944441856</contentLength>
+				<pubDate>2025-01-14T15:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23944441856" url="https://mikanani.me/Download/20250114/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

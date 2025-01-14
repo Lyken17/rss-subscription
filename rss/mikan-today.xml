@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2</link>
+			<title>[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin]</title>
+			<description>[VCB-Studio] 黑礁 / BLACK LAGOON / ブラック・ラグーン 10-bit 720p AVC BDRip [TV + OVA Reseed Fin][22.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2</link>
+				<contentLength>23944441856</contentLength>
+				<pubDate>2025-01-14T15:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23944441856" url="https://mikanani.me/Download/20250114/440f1bddbe2a7e7cc969b374a8c03fb8c0bef3a2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 02 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a531249e73e2adb7a6f4c355ea17056c6c7a2ae5</link>
 			<title>[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 02 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-13T12:09:53.935</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459873984" url="https://mikanani.me/Download/20250113/45483be44ca8977ba0f2e2978d8412eb09e031bc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/b2696cc6dfa41144ed7597c5edc8aafb52e410f3</link>
-			<title>[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 重启人生的千金小姐正在攻略龙帝陛下 / Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][4.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b2696cc6dfa41144ed7597c5edc8aafb52e410f3</link>
-				<contentLength>5261335040</contentLength>
-				<pubDate>2025-01-13T11:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20250113/b2696cc6dfa41144ed7597c5edc8aafb52e410f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
