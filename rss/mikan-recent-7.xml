@@ -7996,5 +7996,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="242934080" url="https://mikanani.me/Download/20250115/c2467ea16318f743cce1b0500230baa8cadcac97.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/184edc09b861ba421e6e53d3b2e216c9019befb1</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4][665MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/184edc09b861ba421e6e53d3b2e216c9019befb1</link>
+				<contentLength>697303040</contentLength>
+				<pubDate>2025-01-15T12:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="697303040" url="https://mikanani.me/Download/20250115/184edc09b861ba421e6e53d3b2e216c9019befb1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
