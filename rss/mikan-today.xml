@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕][459.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
+				<contentLength>481936000</contentLength>
+				<pubDate>2025-01-15T15:09:14.386</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="481936000" url="https://mikanani.me/Download/20250115/b242f059f055877a25500f0887bf5c882068c88c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/184edc09b861ba421e6e53d3b2e216c9019befb1</link>
 			<title>[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-13T23:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="25340307456" url="https://mikanani.me/Download/20250113/fc38a19b256cdeaa83871f4d66b7f4bc4ace0c35.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">​[整理搬运] 冰菓 (氷菓) (Hyouka)：TV动画+CD+小说+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2019.10.06)</guid>
-			<link>https://mikanani.me/Home/Episode/44219ecda237a492f09a71191dbf1c909dce09de</link>
-			<title>​[整理搬运] 冰菓 (氷菓) (Hyouka)：TV动画+CD+小说+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2019.10.06)</title>
-			<description>​[整理搬运] 冰菓 (氷菓) (Hyouka)：TV动画+CD+小说+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2019.10.06)[43.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/44219ecda237a492f09a71191dbf1c909dce09de</link>
-				<contentLength>47137267712</contentLength>
-				<pubDate>2025-01-13T23:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="47137267712" url="https://mikanani.me/Download/20250113/44219ecda237a492f09a71191dbf1c909dce09de.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

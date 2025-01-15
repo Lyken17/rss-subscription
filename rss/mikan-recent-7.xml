@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/f1ee87a2d25fedf8bd98ee30986f7d6538d92836</link>
-			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][14][1080p][简日双语][招募翻译][186.63 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f1ee87a2d25fedf8bd98ee30986f7d6538d92836</link>
-				<contentLength>195695744</contentLength>
-				<pubDate>2025-01-08T07:07:28.564</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="195695744" url="https://mikanani.me/Download/20250108/f1ee87a2d25fedf8bd98ee30986f7d6538d92836.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 08 [BDRip][HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/4009e765cc44c7d22f2a30a9a9010a568d8aaee6</link>
 			<title>[❀拨雪寻春❀] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren - 08 [BDRip][HEVC-10bit 1080p][繁日内嵌]</title>
@@ -8007,6 +7995,18 @@
 				<pubDate>2025-01-15T12:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="697303040" url="https://mikanani.me/Download/20250115/184edc09b861ba421e6e53d3b2e216c9019befb1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕][459.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
+				<contentLength>481936000</contentLength>
+				<pubDate>2025-01-15T15:09:14.386</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="481936000" url="https://mikanani.me/Download/20250115/b242f059f055877a25500f0887bf5c882068c88c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
