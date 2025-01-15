@@ -5,79 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/28bfd96bc2f3825d74c9c9a2c0e13ba256da0d6a</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 22 (ABEMA 1920x1080 AVC AAC MP4)[687.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/28bfd96bc2f3825d74c9c9a2c0e13ba256da0d6a</link>
-				<contentLength>720434624</contentLength>
-				<pubDate>2024-12-16T02:00:47.611</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="720434624" url="https://mikanani.me/Download/20241216/28bfd96bc2f3825d74c9c9a2c0e13ba256da0d6a.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Tasuuketsu</title_en>
-				<resolution>1080</resolution>
-				<episode>22</episode>
-				<season>1</season>
-				<source>ABEMA</source>
-				<title_zh>多数欠</title_zh>
-				<sub>ABEMA</sub>
-				<title_jp>Tasuuketsu</title_jp>
-				<size>687.06 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[剑来][全26集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/55287d92efbe237151e4e16b722eb751c4ce0bc4</link>
-			<title>[剑来][全26集][国语中字][WEB-MKV][2160P]</title>
-			<description>[剑来][全26集][国语中字][WEB-MKV][2160P][26.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55287d92efbe237151e4e16b722eb751c4ce0bc4</link>
-				<contentLength>27917287424</contentLength>
-				<pubDate>2024-12-16T01:49:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="27917287424" url="https://mikanani.me/Download/20241216/55287d92efbe237151e4e16b722eb751c4ce0bc4.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>''</group>
-				<title_en>''</title_en>
-				<resolution>2160P</resolution>
-				<episode>全26集</episode>
-				<season>1</season>
-				<title_zh>剑来</title_zh>
-				<sub>国语中字</sub>
-				<title_jp>''</title_jp>
-				<season_raw>''</season_raw>
-				<source>WEB-MKV</source>
-				<size>26.0GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/01857961d8dbacb4b7d3e47d7fc420b6837eaa92</link>
-			<title>[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 11 (ABEMA 1920x1080 AVC AAC MP4)[716.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/01857961d8dbacb4b7d3e47d7fc420b6837eaa92</link>
-				<contentLength>751514432</contentLength>
-				<pubDate>2024-12-16T01:31:04.395</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="751514432" url="https://mikanani.me/Download/20241216/01857961d8dbacb4b7d3e47d7fc420b6837eaa92.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Puniru is a Kawaii Slime</title_en>
-				<resolution>1080p</resolution>
-				<episode>11</episode>
-				<season>1</season>
-				<source>ABEMA</source>
-				<title_zh>噗妮露是可爱史莱姆</title_zh>
-				<sub>None</sub>
-				<title_jp>Puniru wa Kawaii Slime</title_jp>
-				<size>716.7 MB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/415984664ec16f68144ee10ddaec741c269ee848</link>
 			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -30090,6 +30017,42 @@
 				<pubDate>2025-01-15T07:58:34.741</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="744415552" url="https://mikanani.me/Download/20250115/67a8666682224af82a3f9b39e7e2574a82ae9621.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[天月搬运组] 吸吸吸吸吸血鬼 / Babanba Banban Vampire - 01 (NetFlix 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/831a2a752acd3ffae4f252e968a40ad863257b3f</link>
+			<title>[天月搬运组] 吸吸吸吸吸血鬼 / Babanba Banban Vampire - 01 (NetFlix 1920x1080 AVC AAC MKV)</title>
+			<description>[天月搬运组] 吸吸吸吸吸血鬼 / Babanba Banban Vampire - 01 (NetFlix 1920x1080 AVC AAC MKV)[848.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/831a2a752acd3ffae4f252e968a40ad863257b3f</link>
+				<contentLength>889297280</contentLength>
+				<pubDate>2025-01-15T09:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="889297280" url="https://mikanani.me/Download/20250115/831a2a752acd3ffae4f252e968a40ad863257b3f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462]小丸子制作纸牌&amp;幸运的中野先生[2025.01.12][BIG5][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/2579b70c618982ab780f24cccf7709203925f0c1</link>
+			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462]小丸子制作纸牌&amp;幸运的中野先生[2025.01.12][BIG5][1080P][MP4]</title>
+			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462]小丸子制作纸牌&amp;幸运的中野先生[2025.01.12][BIG5][1080P][MP4][231.91 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2579b70c618982ab780f24cccf7709203925f0c1</link>
+				<contentLength>243175264</contentLength>
+				<pubDate>2025-01-15T09:25:49.907</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="243175264" url="https://mikanani.me/Download/20250115/2579b70c618982ab780f24cccf7709203925f0c1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462]小丸子制作纸牌&amp;幸运的中野先生[2025.01.12][GB][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/c2467ea16318f743cce1b0500230baa8cadcac97</link>
+			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462]小丸子制作纸牌&amp;幸运的中野先生[2025.01.12][GB][1080P][MP4]</title>
+			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462]小丸子制作纸牌&amp;幸运的中野先生[2025.01.12][GB][1080P][MP4][231.68 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c2467ea16318f743cce1b0500230baa8cadcac97</link>
+				<contentLength>242934080</contentLength>
+				<pubDate>2025-01-15T09:24:53.084</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="242934080" url="https://mikanani.me/Download/20250115/c2467ea16318f743cce1b0500230baa8cadcac97.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
