@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TOC]青春之箱[15][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/7973c220b262a47db4167fbeb290cb1c425130cf</link>
+			<title>[TOC]青春之箱[15][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC]青春之箱[15][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7973c220b262a47db4167fbeb290cb1c425130cf</link>
+				<contentLength>747110400</contentLength>
+				<pubDate>2025-01-16T18:03:47.878099</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250116/7973c220b262a47db4167fbeb290cb1c425130cf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f7b75604b40d7cbfb95f9f6972b1f6298d688803</link>
 			<title>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-14T23:45:50.728</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="378137472" url="https://mikanani.me/Download/20250114/11511a50ed34dd684b796c9f3d63d8b8d6fbbb7c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 14 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/96e6639aee8b0fefdf69de48e9adc2edb597b25c</link>
-			<title>[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 14 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 14 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96e6639aee8b0fefdf69de48e9adc2edb597b25c</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-01-14T23:33:17.529</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250114/96e6639aee8b0fefdf69de48e9adc2edb597b25c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

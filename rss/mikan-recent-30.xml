@@ -79,30 +79,6 @@
 			</parsed_Qwen--Qwen2.5-7B-Instruct>
 		</item>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/514a7f7e481d80c3e4edd9fd309ac5ce98e8dacb</link>
-			<title>[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] Love Live! Superstar!! 第三季 / Love Live! Superstar!! 3rd Season - 11 (CR 1920x1080 AVC AAC MKV)[1.36 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/514a7f7e481d80c3e4edd9fd309ac5ce98e8dacb</link>
-				<contentLength>1460288896</contentLength>
-				<pubDate>2024-12-17T10:06:03.007</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20241217/514a7f7e481d80c3e4edd9fd309ac5ce98e8dacb.torrent"></enclosure>
-			<parsed_Qwen--Qwen2.5-7B-Instruct>
-				<group>Up to 21°C</group>
-				<title_en>Love Live! Superstar!! 3rd Season</title_en>
-				<resolution>1920x1080</resolution>
-				<episode>11</episode>
-				<season>3</season>
-				<source>CR</source>
-				<title_zh>Love Live! Superstar!! 第三季</title_zh>
-				<sub>None</sub>
-				<title_jp>Love Live! Superstar!! 3rd Season</title_jp>
-				<size>1.36 GB</size>
-			</parsed_Qwen--Qwen2.5-7B-Instruct>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 勇者死了！ / Yuusha ga Shinda! / 勇者が死んだ！ 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/155f0e62143cd4a68283a208d95bc14c482d993e</link>
 			<title>[VCB-Studio] 勇者死了！ / Yuusha ga Shinda! / 勇者が死んだ！ 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -28426,6 +28402,18 @@
 				<pubDate>2025-01-16T16:53:16.614</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="917650816" url="https://mikanani.me/Download/20250116/f7b75604b40d7cbfb95f9f6972b1f6298d688803.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC]青春之箱[15][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/7973c220b262a47db4167fbeb290cb1c425130cf</link>
+			<title>[TOC]青春之箱[15][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC]青春之箱[15][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7973c220b262a47db4167fbeb290cb1c425130cf</link>
+				<contentLength>747110400</contentLength>
+				<pubDate>2025-01-16T18:03:47.878099</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250116/7973c220b262a47db4167fbeb290cb1c425130cf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
