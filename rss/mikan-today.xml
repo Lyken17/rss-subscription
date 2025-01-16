@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★01月新番[灰色 : 幻影扳机][02][1080P][繁体][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/9ecf4f8395dc1017e4c9719636b41f139f0f6a4f</link>
+			<title>【澄空学园&amp;动漫国字幕组】★01月新番[灰色 : 幻影扳机][02][1080P][繁体][MP4]</title>
+			<description>【澄空学园&amp;动漫国字幕组】★01月新番[灰色 : 幻影扳机][02][1080P][繁体][MP4][236.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ecf4f8395dc1017e4c9719636b41f139f0f6a4f</link>
+				<contentLength>248302800</contentLength>
+				<pubDate>2025-01-16T20:45:28.723</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248302800" url="https://mikanani.me/Download/20250116/9ecf4f8395dc1017e4c9719636b41f139f0f6a4f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 03 (1080p HEVC AAC 繁中)</guid>
 			<link>https://mikanani.me/Home/Episode/67d56d0c87e350504fea5f6da83b9dfac1c21845</link>
 			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 03 (1080p HEVC AAC 繁中)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-15T00:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="458437440" url="https://mikanani.me/Download/20250115/7f197f28a326f5f8d3e56715cc29354874f5e2b8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 14 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/40d7e77a83a815310405771dfc9f3324ce21d8ca</link>
-			<title>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 14 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 14 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/40d7e77a83a815310405771dfc9f3324ce21d8ca</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-01-15T00:31:19.01</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250115/40d7e77a83a815310405771dfc9f3324ce21d8ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

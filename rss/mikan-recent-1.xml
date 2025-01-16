@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/184edc09b861ba421e6e53d3b2e216c9019befb1</link>
-			<title>[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4]</title>
-			<description>[APTX4869][CONAN][名侦探柯南 1003-1005 36宫格的完美犯罪][HDTV][1080P][简体MP4][665MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/184edc09b861ba421e6e53d3b2e216c9019befb1</link>
-				<contentLength>697303040</contentLength>
-				<pubDate>2025-01-15T12:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="697303040" url="https://mikanani.me/Download/20250115/184edc09b861ba421e6e53d3b2e216c9019befb1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
 			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -891,6 +879,18 @@
 				<pubDate>2025-01-16T19:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250116/edb6f4a8e8b6aa40755132468efeea2129b68839.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★01月新番[灰色 : 幻影扳机][02][1080P][繁体][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/9ecf4f8395dc1017e4c9719636b41f139f0f6a4f</link>
+			<title>【澄空学园&amp;动漫国字幕组】★01月新番[灰色 : 幻影扳机][02][1080P][繁体][MP4]</title>
+			<description>【澄空学园&amp;动漫国字幕组】★01月新番[灰色 : 幻影扳机][02][1080P][繁体][MP4][236.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ecf4f8395dc1017e4c9719636b41f139f0f6a4f</link>
+				<contentLength>248302800</contentLength>
+				<pubDate>2025-01-16T20:45:28.723</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248302800" url="https://mikanani.me/Download/20250116/9ecf4f8395dc1017e4c9719636b41f139f0f6a4f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
