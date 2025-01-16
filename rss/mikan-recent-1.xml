@@ -772,5 +772,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="364222880" url="https://mikanani.me/Download/20250116/25a4b2cac517f51394f11430816504821d0cfc95.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][076-078][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/c5856cab42fa86db02c52407f8abc71e464bbddf</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][076-078][简体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][076-078][简体][1080P][MP4][1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5856cab42fa86db02c52407f8abc71e464bbddf</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-01-16T13:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250116/c5856cab42fa86db02c52407f8abc71e464bbddf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][076-078][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/81796a08b208293b2d307aee0d22a69a738b1371</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][076-078][繁体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][076-078][繁体][1080P][MP4][1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/81796a08b208293b2d307aee0d22a69a738b1371</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-01-16T13:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250116/81796a08b208293b2d307aee0d22a69a738b1371.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
