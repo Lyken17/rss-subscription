@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/25a4b2cac517f51394f11430816504821d0cfc95</link>
+			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][347.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25a4b2cac517f51394f11430816504821d0cfc95</link>
+				<contentLength>364222880</contentLength>
+				<pubDate>2025-01-16T11:05:07.572</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364222880" url="https://mikanani.me/Download/20250116/25a4b2cac517f51394f11430816504821d0cfc95.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][15][1080p][简繁日内封][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/383e6e7d5c27b9945268aad5bd641819d7c2b291</link>
 			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][15][1080p][简繁日内封][招募翻译]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-14T22:01:01.339</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="201148336" url="https://mikanani.me/Download/20250114/65aff65e0d56c074ddd56625cc760313f22fd9d6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 02 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/18a3cc7c9359d8d144a81db8849226edafbfc840</link>
-			<title>[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 02 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 02 (ABEMA 1280x720 AVC AAC MP4)[367.67 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/18a3cc7c9359d8d144a81db8849226edafbfc840</link>
-				<contentLength>385529952</contentLength>
-				<pubDate>2025-01-14T22:00:57.486</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385529952" url="https://mikanani.me/Download/20250114/18a3cc7c9359d8d144a81db8849226edafbfc840.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
