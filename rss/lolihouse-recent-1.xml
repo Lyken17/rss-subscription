@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b67b03868d604fbc5747fb7110a40376325fdf44</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][404.13 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b67b03868d604fbc5747fb7110a40376325fdf44</link>
-				<contentLength>423761024</contentLength>
-				<pubDate>2025-01-15T08:42:52.465</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="423761024" url="https://mikanani.me/Download/20250115/b67b03868d604fbc5747fb7110a40376325fdf44.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
 			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -51,6 +39,18 @@
 				<pubDate>2025-01-16T11:05:07.572</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="364222880" url="https://mikanani.me/Download/20250116/25a4b2cac517f51394f11430816504821d0cfc95.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f7b75604b40d7cbfb95f9f6972b1f6298d688803</link>
+			<title>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][875.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7b75604b40d7cbfb95f9f6972b1f6298d688803</link>
+				<contentLength>917650816</contentLength>
+				<pubDate>2025-01-16T16:53:16.614</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="917650816" url="https://mikanani.me/Download/20250116/f7b75604b40d7cbfb95f9f6972b1f6298d688803.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

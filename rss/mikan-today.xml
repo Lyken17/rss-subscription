@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f7b75604b40d7cbfb95f9f6972b1f6298d688803</link>
+			<title>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][875.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7b75604b40d7cbfb95f9f6972b1f6298d688803</link>
+				<contentLength>917650816</contentLength>
+				<pubDate>2025-01-16T16:53:16.614</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="917650816" url="https://mikanani.me/Download/20250116/f7b75604b40d7cbfb95f9f6972b1f6298d688803.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 坂本日常 / SAKAMOTO DAYS [01][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/a22514181a1b4dabb55cc93f892bba8646825df9</link>
 			<title>[北宇治字幕组] 坂本日常 / SAKAMOTO DAYS [01][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-14T23:33:17.529</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250114/96e6639aee8b0fefdf69de48e9adc2edb597b25c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 缘结甘神家 / Amagami-san Chi no Enmusubi - 14 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/154b54ae03dab8bd7a90f66e23023520be261646</link>
-			<title>[Up to 21°C] 缘结甘神家 / Amagami-san Chi no Enmusubi - 14 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 缘结甘神家 / Amagami-san Chi no Enmusubi - 14 (B-Global 1920x1080 HEVC AAC MKV)[260.44 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/154b54ae03dab8bd7a90f66e23023520be261646</link>
-				<contentLength>273091136</contentLength>
-				<pubDate>2025-01-14T23:01:26.83</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="273091136" url="https://mikanani.me/Download/20250114/154b54ae03dab8bd7a90f66e23023520be261646.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
