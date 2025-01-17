@@ -1204,5 +1204,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="14495514624" url="https://mikanani.me/Download/20250117/c286a76a6635e7cbd5a2890e5899057d9dc2d9e9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 02V2 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/65f5dfc2f3847b00bade1a1ed09fd4b2841ae42d</link>
+			<title>[新沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 02V2 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 02V2 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/65f5dfc2f3847b00bade1a1ed09fd4b2841ae42d</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-01-17T13:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250117/65f5dfc2f3847b00bade1a1ed09fd4b2841ae42d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
