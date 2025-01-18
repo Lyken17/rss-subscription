@@ -1912,5 +1912,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542071872" url="https://mikanani.me/Download/20250118/49d15324cf0420e6abd57ac00de784b478ff96c3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/17d82851d7336ce903ca42508035b152388471f2</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][769.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/17d82851d7336ce903ca42508035b152388471f2</link>
+				<contentLength>807088960</contentLength>
+				<pubDate>2025-01-18T15:12:12.578</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="807088960" url="https://mikanani.me/Download/20250118/17d82851d7336ce903ca42508035b152388471f2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
