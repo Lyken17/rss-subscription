@@ -448,5 +448,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="380224128" url="https://mikanani.me/Download/20250118/03988ee6df6f7958b157a4eb587a7aa99fb69627.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f1ed0b8dbeb41a85ce6d97d080da0851bef013d4</link>
+			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][274.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1ed0b8dbeb41a85ce6d97d080da0851bef013d4</link>
+				<contentLength>287938976</contentLength>
+				<pubDate>2025-01-18T13:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="287938976" url="https://mikanani.me/Download/20250118/f1ed0b8dbeb41a85ce6d97d080da0851bef013d4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
