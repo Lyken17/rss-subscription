@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 火凤燎原 / The Ravages of Time - 17 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a9ab89259ae9b2d457671b24dd55b9363d8dc43c</link>
+			<title>[Up to 21°C] 火凤燎原 / The Ravages of Time - 17 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 火凤燎原 / The Ravages of Time - 17 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.47 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a9ab89259ae9b2d457671b24dd55b9363d8dc43c</link>
+				<contentLength>1578400512</contentLength>
+				<pubDate>2025-01-18T11:06:45.282</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1578400512" url="https://mikanani.me/Download/20250118/a9ab89259ae9b2d457671b24dd55b9363d8dc43c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a6cfe5a747001ea469dbdb717177a423365c8447</link>
 			<title>[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1119,18 +1131,6 @@
 				<pubDate>2025-01-17T09:58:00.698</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="80541120" url="https://mikanani.me/Download/20250117/bdc362340f62fd7d9db18655f9916872da358b92.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[织梦字幕组] 被赠与的未来 柊mix Given Hiiragi mix [剧场版] [BDRip] [HEVC-10bit DTS 1080P] [繁日双语_内嵌] [V2]</guid>
-			<link>https://mikanani.me/Home/Episode/edde860cb9cbd247ec831c83434794fd9f71ca62</link>
-			<title>[织梦字幕组] 被赠与的未来 柊mix Given Hiiragi mix [剧场版] [BDRip] [HEVC-10bit DTS 1080P] [繁日双语_内嵌] [V2]</title>
-			<description>[织梦字幕组] 被赠与的未来 柊mix Given Hiiragi mix [剧场版] [BDRip] [HEVC-10bit DTS 1080P] [繁日双语_内嵌] [V2][6.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/edde860cb9cbd247ec831c83434794fd9f71ca62</link>
-				<contentLength>6979321856</contentLength>
-				<pubDate>2025-01-17T09:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6979321856" url="https://mikanani.me/Download/20250117/edde860cb9cbd247ec831c83434794fd9f71ca62.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
