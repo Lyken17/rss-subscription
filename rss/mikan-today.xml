@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 火凤燎原 / The Ravages of Time - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/de2a3508b309647fef8f62c924580b1434055518</link>
+			<title>[Up to 21°C] 火凤燎原 / The Ravages of Time - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 火凤燎原 / The Ravages of Time - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/de2a3508b309647fef8f62c924580b1434055518</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-01-18T12:56:29.324</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250118/de2a3508b309647fef8f62c924580b1434055518.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[星空字幕组][亚刻奥特曼 / ULTRAMAN ARC][25 FIN][简日双语][1080P][TVrip][MP4]（急招校对、后期）</guid>
 			<link>https://mikanani.me/Home/Episode/2f90b47be66dd9dbd8fda612948b766c1cc267a2</link>
 			<title>[星空字幕组][亚刻奥特曼 / ULTRAMAN ARC][25 FIN][简日双语][1080P][TVrip][MP4]（急招校对、后期）</title>
@@ -1119,18 +1131,6 @@
 				<pubDate>2025-01-17T11:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="330616000" url="https://mikanani.me/Download/20250117/0aee6414e0972eca1df493d8a63d7977eadfeca7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 中年男的异世界网购生活 / The Daily Life of a Middle-Aged Online Shopper in Another World - 01 [Crunchyroll][WEB-DL][1080p][AVC AAC][CHT_CHS][SRT][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/82c07c2c01ad658f9b643f07f585496695f070aa</link>
-			<title>[Skymoon-Raws] 中年男的异世界网购生活 / The Daily Life of a Middle-Aged Online Shopper in Another World - 01 [Crunchyroll][WEB-DL][1080p][AVC AAC][CHT_CHS][SRT][MKV]</title>
-			<description>[Skymoon-Raws] 中年男的异世界网购生活 / The Daily Life of a Middle-Aged Online Shopper in Another World - 01 [Crunchyroll][WEB-DL][1080p][AVC AAC][CHT_CHS][SRT][MKV][830.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/82c07c2c01ad658f9b643f07f585496695f070aa</link>
-				<contentLength>870632640</contentLength>
-				<pubDate>2025-01-17T11:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="870632640" url="https://mikanani.me/Download/20250117/82c07c2c01ad658f9b643f07f585496695f070aa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
