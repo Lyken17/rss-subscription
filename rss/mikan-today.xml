@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 48 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/63a3988a1948dd6001f4a410fa0e6c21a01f7a23</link>
+			<title>[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 48 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] Wonderful 光之美少女！ / Wonderful Precure! - 48 (ABEMA 1920x1080 AVC AAC MP4)[726.68 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63a3988a1948dd6001f4a410fa0e6c21a01f7a23</link>
+				<contentLength>761979200</contentLength>
+				<pubDate>2025-01-19T07:30:53.03</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761979200" url="https://mikanani.me/Download/20250119/63a3988a1948dd6001f4a410fa0e6c21a01f7a23.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[漫猫字幕组][1月新番][BanG Dream! Ave Mujica][02][1080p][MP4][简中]</guid>
 			<link>https://mikanani.me/Home/Episode/920b9bcb0c17e9da0c23d094589810748272c247</link>
 			<title>[漫猫字幕组][1月新番][BanG Dream! Ave Mujica][02][1080p][MP4][简中]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-18T13:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6442450944" url="https://mikanani.me/Download/20250118/82a3f75c1411b420099888aa3a3fc661d30b54ea.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][01][1080p][CHS]</guid>
-			<link>https://mikanani.me/Home/Episode/bfc65c662103a20b877e7a1cad4ec9d6b787f85b</link>
-			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][01][1080p][CHS]</title>
-			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][01][1080p][CHS][271.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bfc65c662103a20b877e7a1cad4ec9d6b787f85b</link>
-				<contentLength>284247968</contentLength>
-				<pubDate>2025-01-18T13:49:10.926</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="284247968" url="https://mikanani.me/Download/20250118/bfc65c662103a20b877e7a1cad4ec9d6b787f85b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
