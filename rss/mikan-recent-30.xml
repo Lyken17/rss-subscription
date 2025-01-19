@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【极影字幕·毁片党】你们还真就结婚啦？全12集 GB_CN HEVC_opus 1080p</guid>
-			<link>https://mikanani.me/Home/Episode/8cdfeafb234acb274a8032e9193ca08b96920e6f</link>
-			<title>【极影字幕·毁片党】你们还真就结婚啦？全12集 GB_CN HEVC_opus 1080p</title>
-			<description>【极影字幕·毁片党】你们还真就结婚啦？全12集 GB_CN HEVC_opus 1080p[2.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8cdfeafb234acb274a8032e9193ca08b96920e6f</link>
-				<contentLength>2576980480</contentLength>
-				<pubDate>2024-12-20T21:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20241220/8cdfeafb234acb274a8032e9193ca08b96920e6f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 转生贵族凭鉴定技能扭转人生 第二季 / Tensei Kizoku, Kantei Skill de Nariagaru S2 - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/556afb9c59d83413e1eaf0b802b716fdb0751090</link>
 			<title>[Up to 21°C] 转生贵族凭鉴定技能扭转人生 第二季 / Tensei Kizoku, Kantei Skill de Nariagaru S2 - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -29199,6 +29187,18 @@
 				<pubDate>2025-01-20T04:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250120/161d6946a24f653e8e68c79f41427fd688db2176.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[胆大党][全12集][日语多字幕][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/77565e4fe53b044a950fb6df1257bd2fbb0cabc8</link>
+			<title>[胆大党][全12集][日语多字幕][WEB-MKV][2160P]</title>
+			<description>[胆大党][全12集][日语多字幕][WEB-MKV][2160P][23.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77565e4fe53b044a950fb6df1257bd2fbb0cabc8</link>
+				<contentLength>24910811136</contentLength>
+				<pubDate>2025-01-20T05:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24910811136" url="https://mikanani.me/Download/20250120/77565e4fe53b044a950fb6df1257bd2fbb0cabc8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

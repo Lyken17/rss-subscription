@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[胆大党][全12集][日语多字幕][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/77565e4fe53b044a950fb6df1257bd2fbb0cabc8</link>
+			<title>[胆大党][全12集][日语多字幕][WEB-MKV][2160P]</title>
+			<description>[胆大党][全12集][日语多字幕][WEB-MKV][2160P][23.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77565e4fe53b044a950fb6df1257bd2fbb0cabc8</link>
+				<contentLength>24910811136</contentLength>
+				<pubDate>2025-01-20T05:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24910811136" url="https://mikanani.me/Download/20250120/77565e4fe53b044a950fb6df1257bd2fbb0cabc8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 03 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f861ff3e2df518b24d70cfb30e1d3fd82a12fa90</link>
 			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 03 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-19T12:03:17.847</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="615472192" url="https://mikanani.me/Download/20250119/9346a709ff386f30febb7430ad1a1ba99b37cb9f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 热带雨林的爆笑生活／哈雷小子 (ジャングルはいつもハレのちグゥ) (Haré+Guu)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.12)</guid>
-			<link>https://mikanani.me/Home/Episode/2235700dccd9efd251e5fa917352fa03b96e1993</link>
-			<title>[整理搬运] 热带雨林的爆笑生活／哈雷小子 (ジャングルはいつもハレのちグゥ) (Haré+Guu)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.12)</title>
-			<description>[整理搬运] 热带雨林的爆笑生活／哈雷小子 (ジャングルはいつもハレのちグゥ) (Haré+Guu)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.12)[17.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2235700dccd9efd251e5fa917352fa03b96e1993</link>
-				<contentLength>18575732736</contentLength>
-				<pubDate>2025-01-19T12:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18575732736" url="https://mikanani.me/Download/20250119/2235700dccd9efd251e5fa917352fa03b96e1993.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
