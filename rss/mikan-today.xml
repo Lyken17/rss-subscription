@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Fatum Fatalis] 不时轻声地以俄语遮羞的邻座艾莉同学 / 时々ボソッとロシア语でデレる隣のアーリャさん / Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san (BD REENCODE EP01-12+SP Fin)</guid>
+			<link>https://mikanani.me/Home/Episode/6e7c273d74f544cc39cc340ba3a30830162edab6</link>
+			<title>[Fatum Fatalis] 不时轻声地以俄语遮羞的邻座艾莉同学 / 时々ボソッとロシア语でデレる隣のアーリャさん / Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san (BD REENCODE EP01-12+SP Fin)</title>
+			<description>[Fatum Fatalis] 不时轻声地以俄语遮羞的邻座艾莉同学 / 时々ボソッとロシア语でデレる隣のアーリャさん / Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san (BD REENCODE EP01-12+SP Fin)[14.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e7c273d74f544cc39cc340ba3a30830162edab6</link>
+				<contentLength>15354508288</contentLength>
+				<pubDate>2025-01-20T18:21:32.283413</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15354508288" url="https://mikanani.me/Download/20250120/6e7c273d74f544cc39cc340ba3a30830162edab6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">OVA 天使禁猎区.2000.DVD720P.日语中字</guid>
 			<link>https://mikanani.me/Home/Episode/0bb87b26dce283c5d3c16494c470b87628f8e92a</link>
 			<title>OVA 天使禁猎区.2000.DVD720P.日语中字</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-19T19:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16750372864" url="https://mikanani.me/Download/20250119/5939059d36190caf6b6b5cbaaf7fc6c29c4baf9c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【DBFC字幕组】【龙珠 大魔】【014】【中日双语字幕】【1080P】【MP4】</guid>
-			<link>https://mikanani.me/Home/Episode/e9e08230745bedcb739b42e9fed93c4393311a86</link>
-			<title>【DBFC字幕组】【龙珠 大魔】【014】【中日双语字幕】【1080P】【MP4】</title>
-			<description>【DBFC字幕组】【龙珠 大魔】【014】【中日双语字幕】【1080P】【MP4】[598.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e9e08230745bedcb739b42e9fed93c4393311a86</link>
-				<contentLength>627153280</contentLength>
-				<pubDate>2025-01-19T19:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="627153280" url="https://mikanani.me/Download/20250119/e9e08230745bedcb739b42e9fed93c4393311a86.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
