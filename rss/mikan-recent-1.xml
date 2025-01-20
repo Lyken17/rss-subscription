@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/86c08c6a72f6da1e778c7c29b05e3f81dca00f32</link>
-			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][简体][1080P][MP4][329.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86c08c6a72f6da1e778c7c29b05e3f81dca00f32</link>
-				<contentLength>345925216</contentLength>
-				<pubDate>2025-01-19T04:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="345925216" url="https://mikanani.me/Download/20250119/86c08c6a72f6da1e778c7c29b05e3f81dca00f32.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/138f1c37da96ece6cab2742accf5cf530dd15d50</link>
-			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][繁体][1080P][MP4][330MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/138f1c37da96ece6cab2742accf5cf530dd15d50</link>
-				<contentLength>346030080</contentLength>
-				<pubDate>2025-01-19T04:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="346030080" url="https://mikanani.me/Download/20250119/138f1c37da96ece6cab2742accf5cf530dd15d50.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[漫猫字幕组][1月新番][BanG Dream! Ave Mujica][02][1080p][MP4][简中]</guid>
 			<link>https://mikanani.me/Home/Episode/920b9bcb0c17e9da0c23d094589810748272c247</link>
 			<title>[漫猫字幕组][1月新番][BanG Dream! Ave Mujica][02][1080p][MP4][简中]</title>
@@ -1587,6 +1563,18 @@
 				<pubDate>2025-01-20T11:21:01.878</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="327763872" url="https://mikanani.me/Download/20250120/bbd123342b39dd5eae771ee7b2629432927d124c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8714e9191fae2c87bd780ab93072dedbf2207bf0</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][259.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8714e9191fae2c87bd780ab93072dedbf2207bf0</link>
+				<contentLength>271707008</contentLength>
+				<pubDate>2025-01-20T12:30:08.117</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="271707008" url="https://mikanani.me/Download/20250120/8714e9191fae2c87bd780ab93072dedbf2207bf0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
