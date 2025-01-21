@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</guid>
+			<link>https://mikanani.me/Home/Episode/3f7bd7ec8430a58cebc5fc01eb83c5dca356bb75</link>
+			<title>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</title>
+			<description>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[105.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f7bd7ec8430a58cebc5fc01eb83c5dca356bb75</link>
+				<contentLength>113601888256</contentLength>
+				<pubDate>2025-01-22T04:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="113601888256" url="https://mikanani.me/Download/20250122/3f7bd7ec8430a58cebc5fc01eb83c5dca356bb75.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[遮天][第91-93集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/9b9bc6d7049ba19b643ab759a54dea38bda066ec</link>
 			<title>[遮天][第91-93集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-21T11:10:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="127453151232" url="https://mikanani.me/Download/20250121/884273053c1a6b34bbcf2ae714cbf300c85805ca.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a80c701990c487d5baeb098196521a7da9b1ec89</link>
-			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)[606.01 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a80c701990c487d5baeb098196521a7da9b1ec89</link>
-				<contentLength>635447552</contentLength>
-				<pubDate>2025-01-21T11:02:54.274</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="635447552" url="https://mikanani.me/Download/20250121/a80c701990c487d5baeb098196521a7da9b1ec89.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
