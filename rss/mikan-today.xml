@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [03][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e6f4e353c325ee36ea1521e88a81f03af35dfd92</link>
+			<title>[桜都字幕组] 全修。 / Zenshuu. [03][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 全修。 / Zenshuu. [03][1080p][简体内嵌][798.11 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e6f4e353c325ee36ea1521e88a81f03af35dfd92</link>
+				<contentLength>836878976</contentLength>
+				<pubDate>2025-01-21T21:10:43.651</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="836878976" url="https://mikanani.me/Download/20250121/e6f4e353c325ee36ea1521e88a81f03af35dfd92.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 15 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6d1efd8e897d5dc4478cfdf7b8ab0b614349c59f</link>
+			<title>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 15 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 15 (ABEMA 1280x720 AVC AAC MP4)[367.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d1efd8e897d5dc4478cfdf7b8ab0b614349c59f</link>
+				<contentLength>385718688</contentLength>
+				<pubDate>2025-01-21T21:01:25.562</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385718688" url="https://mikanani.me/Download/20250121/6d1efd8e897d5dc4478cfdf7b8ab0b614349c59f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d75f2eefb3a8821b0c14ccad88a78486a8407976</link>
 			<title>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-20T22:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15891379200" url="https://mikanani.me/Download/20250120/e88cd817f55c5fb11ffa4cc35bf1cbeaebff4cbc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 这公司有我喜欢的人 / Kono Kaisha ni Suki na Hito ga Imasu - 03 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d1e6bb69f6c31711aa76845da1b9fac00385f868</link>
-			<title>[Up to 21°C] 这公司有我喜欢的人 / Kono Kaisha ni Suki na Hito ga Imasu - 03 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 这公司有我喜欢的人 / Kono Kaisha ni Suki na Hito ga Imasu - 03 (B-Global 1920x1080 HEVC AAC MKV)[198.96 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d1e6bb69f6c31711aa76845da1b9fac00385f868</link>
-				<contentLength>208624688</contentLength>
-				<pubDate>2025-01-20T22:01:12.423</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="208624688" url="https://mikanani.me/Download/20250120/d1e6bb69f6c31711aa76845da1b9fac00385f868.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 我的幸福婚约 / Watashi no Shiawase na Kekkon 2nd Season - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d56b9e173d11854c92cf4053a96a3cfca3c41089</link>
-			<title>[Up to 21°C] 我的幸福婚约 / Watashi no Shiawase na Kekkon 2nd Season - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 我的幸福婚约 / Watashi no Shiawase na Kekkon 2nd Season - 16 (ABEMA 1920x1080 AVC AAC MP4)[712.27 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d56b9e173d11854c92cf4053a96a3cfca3c41089</link>
-				<contentLength>746869248</contentLength>
-				<pubDate>2025-01-20T22:01:01.873</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746869248" url="https://mikanani.me/Download/20250120/d56b9e173d11854c92cf4053a96a3cfca3c41089.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
