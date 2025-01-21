@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔王2099 / Maou 2099 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5af56fc625cf207b28a6e18b0d928761c7b6b184</link>
-			<title>[LoliHouse] 魔王2099 / Maou 2099 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔王2099 / Maou 2099 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][561.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5af56fc625cf207b28a6e18b0d928761c7b6b184</link>
-				<contentLength>589163392</contentLength>
-				<pubDate>2024-12-22T16:51:45.845</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="589163392" url="https://mikanani.me/Download/20241222/5af56fc625cf207b28a6e18b0d928761c7b6b184.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/27f3fb2f4ed556c1a3513b1656db4c9cf31c1fa8</link>
 			<title>[LoliHouse] 刀剑神域外传 Gun Gale Online II / Sword Art Online Alternative: Gun Gale Online II [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -1875,6 +1863,18 @@
 				<pubDate>2025-01-21T23:52:27.035</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="295992032" url="https://mikanani.me/Download/20250121/afe4d855fa93e237688164ab94b506007ed12154.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d59020063796a29207051fefd8332b04e07e0d43</link>
+			<title>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][334.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d59020063796a29207051fefd8332b04e07e0d43</link>
+				<contentLength>351042272</contentLength>
+				<pubDate>2025-01-22T00:36:11.847</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="351042272" url="https://mikanani.me/Download/20250122/d59020063796a29207051fefd8332b04e07e0d43.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
