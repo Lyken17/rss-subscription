@@ -52,5 +52,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="480635776" url="https://mikanani.me/Download/20250122/c0c6cdd5397a82590a7fa1aace0c00028411490d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 04 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9dc5738f7325f637c5bc4b7d3a522ee78dbb0b9c</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 04 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 04 [WebRip 1080p HEVC-10bit AAC][无字幕][545.26 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9dc5738f7325f637c5bc4b7d3a522ee78dbb0b9c</link>
+				<contentLength>571746560</contentLength>
+				<pubDate>2025-01-22T09:11:56.875</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="571746560" url="https://mikanani.me/Download/20250122/9dc5738f7325f637c5bc4b7d3a522ee78dbb0b9c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
