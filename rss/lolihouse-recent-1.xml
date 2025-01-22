@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="656324672" url="https://mikanani.me/Download/20250122/f22fc3baf2672d35ee6b56e66b87cce882170f72.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 主公与狗 / Tono to Inu [01-12][WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0111763eea34ede25647caf82a378823733c02ff</link>
+			<title>[奶²&amp;LoliHouse] 主公与狗 / Tono to Inu [01-12][WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] 主公与狗 / Tono to Inu [01-12][WebRip 1080p HEVC-10bit AAC][简日内封字幕][2.65 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0111763eea34ede25647caf82a378823733c02ff</link>
+				<contentLength>2845415936</contentLength>
+				<pubDate>2025-01-22T23:19:33.848</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2845415936" url="https://mikanani.me/Download/20250122/0111763eea34ede25647caf82a378823733c02ff.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
