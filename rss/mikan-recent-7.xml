@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 140 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/73b03850c26af1105b104b3c3f9693fe2809089e</link>
-			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 140 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 140 (ABEMA 1920x1080 AVC AAC MP4)[721.74 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/73b03850c26af1105b104b3c3f9693fe2809089e</link>
-				<contentLength>756799232</contentLength>
-				<pubDate>2025-01-15T03:00:52.963</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="756799232" url="https://mikanani.me/Download/20250115/73b03850c26af1105b104b3c3f9693fe2809089e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b67b03868d604fbc5747fb7110a40376325fdf44</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -8199,6 +8187,18 @@
 				<pubDate>2025-01-22T09:11:56.875</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="571746560" url="https://mikanani.me/Download/20250122/9dc5738f7325f637c5bc4b7d3a522ee78dbb0b9c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][93][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/f5233c6c2f8f04d77a37f0b4814958ccc2629616</link>
+			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][93][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][93][AVC][GB][1080P][533.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5233c6c2f8f04d77a37f0b4814958ccc2629616</link>
+				<contentLength>559446784</contentLength>
+				<pubDate>2025-01-22T10:44:26.421</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="559446784" url="https://mikanani.me/Download/20250122/f5233c6c2f8f04d77a37f0b4814958ccc2629616.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

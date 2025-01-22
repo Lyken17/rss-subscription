@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][93][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/f5233c6c2f8f04d77a37f0b4814958ccc2629616</link>
+			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][93][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][93][AVC][GB][1080P][533.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5233c6c2f8f04d77a37f0b4814958ccc2629616</link>
+				<contentLength>559446784</contentLength>
+				<pubDate>2025-01-22T10:44:26.421</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="559446784" url="https://mikanani.me/Download/20250122/f5233c6c2f8f04d77a37f0b4814958ccc2629616.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1007-1008 复仇者 前后篇][WEBRIP][1080P][简体MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/57b248c6ad1417d63b70bae507338749be494482</link>
 			<title>[APTX4869][CONAN][名侦探柯南 1007-1008 复仇者 前后篇][WEBRIP][1080P][简体MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-21T14:24:25.855</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748158976" url="https://mikanani.me/Download/20250121/d564452064647d4376956e35199d4aed31e5c50a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][吞噬星空][Swallowed Star][2021][154][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/8180106e68c5a6a70d60ff8db4e847272a9fbc26</link>
-			<title>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][154][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][154][AVC][GB][1080P][597.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8180106e68c5a6a70d60ff8db4e847272a9fbc26</link>
-				<contentLength>626387840</contentLength>
-				<pubDate>2025-01-21T14:24:20.438</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="626387840" url="https://mikanani.me/Download/20250121/8180106e68c5a6a70d60ff8db4e847272a9fbc26.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
