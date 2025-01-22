@@ -520,5 +520,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="351042272" url="https://mikanani.me/Download/20250122/d59020063796a29207051fefd8332b04e07e0d43.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c0c6cdd5397a82590a7fa1aace0c00028411490d</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][458.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0c6cdd5397a82590a7fa1aace0c00028411490d</link>
+				<contentLength>480635776</contentLength>
+				<pubDate>2025-01-22T07:41:18.566</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="480635776" url="https://mikanani.me/Download/20250122/c0c6cdd5397a82590a7fa1aace0c00028411490d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
