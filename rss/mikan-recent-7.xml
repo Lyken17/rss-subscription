@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][中间管理录利根川/Chuukan Kanriroku Tonegawa/中间管理录トネガワ][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/518212a31c2acfacd7bbb812fb27950fa03f13b0</link>
-			<title>[DBD-Raws][中间管理录利根川/Chuukan Kanriroku Tonegawa/中间管理录トネガワ][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][中间管理录利根川/Chuukan Kanriroku Tonegawa/中间管理录トネガワ][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][21.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/518212a31c2acfacd7bbb812fb27950fa03f13b0</link>
-				<contentLength>22978074624</contentLength>
-				<pubDate>2025-01-15T18:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="22978074624" url="https://mikanani.me/Download/20250115/518212a31c2acfacd7bbb812fb27950fa03f13b0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">Ben 10 全系列影片高清合集</guid>
-			<link>https://mikanani.me/Home/Episode/ee595ab5a57c197a8bbf23bf50d624963e0ff061</link>
-			<title>Ben 10 全系列影片高清合集</title>
-			<description>Ben 10 全系列影片高清合集[93.41 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ee595ab5a57c197a8bbf23bf50d624963e0ff061</link>
-				<contentLength>100298227712</contentLength>
-				<pubDate>2025-01-15T18:28:07.762</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="100298227712" url="https://mikanani.me/Download/20250115/ee595ab5a57c197a8bbf23bf50d624963e0ff061.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 喜欢的冲绳妹说方言 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [02][1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/ecd74a18be958eaf95faafa83ca52ab6ae6abf2e</link>
 			<title>[桜都字幕组] 喜欢的冲绳妹说方言 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [02][1080p][简日内嵌]</title>
@@ -8835,6 +8811,18 @@
 				<pubDate>2025-01-23T01:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="71725957120" url="https://mikanani.me/Download/20250123/cf5345c0ca211628d5d88f3895b97ef1c5c49247.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55</link>
+			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 03 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-01-23T02:28:40.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250123/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55</link>
+			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 03 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-01-23T02:28:40.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250123/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 56 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/64ee4eafc663998d8fa4706b364bd1852c1f8b9c</link>
 			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 56 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-21T23:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="520827712" url="https://mikanani.me/Download/20250121/58cd1b7ccf8c35a0006947b33309fbb1d940c72c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 15 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/08de8b065b428beaf3d1a48b84e0447a89700482</link>
-			<title>[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 15 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 15 (CR 1920x1080 AVC AAC MKV)[1.37 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/08de8b065b428beaf3d1a48b84e0447a89700482</link>
-				<contentLength>1471026304</contentLength>
-				<pubDate>2025-01-21T23:32:44.051</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250121/08de8b065b428beaf3d1a48b84e0447a89700482.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
