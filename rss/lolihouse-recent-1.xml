@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="596335680" url="https://mikanani.me/Download/20250123/5602b73193fa410525b77f3fee83c6a0d13f81ca.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/92c906a9da70962e4c9ccd4340eb55dae08a378c</link>
+			<title>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][496.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92c906a9da70962e4c9ccd4340eb55dae08a378c</link>
+				<contentLength>520953536</contentLength>
+				<pubDate>2025-01-23T20:58:03.271</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="520953536" url="https://mikanani.me/Download/20250123/92c906a9da70962e4c9ccd4340eb55dae08a378c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
