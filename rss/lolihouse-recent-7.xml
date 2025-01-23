@@ -628,5 +628,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="849692608" url="https://mikanani.me/Download/20250124/24ce774122c1eb4ec5301010f0e6e336230d9c2d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 无名记忆 Act.2 / 无名记忆 Act.2 / Unnamed Memory Act.2 - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e148b1d928a135daeb0ef43d3459207baab31dba</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 无名记忆 Act.2 / 无名记忆 Act.2 / Unnamed Memory Act.2 - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 无名记忆 Act.2 / 无名记忆 Act.2 / Unnamed Memory Act.2 - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][251.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e148b1d928a135daeb0ef43d3459207baab31dba</link>
+				<contentLength>263549088</contentLength>
+				<pubDate>2025-01-24T07:10:09.607</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="263549088" url="https://mikanani.me/Download/20250124/e148b1d928a135daeb0ef43d3459207baab31dba.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
