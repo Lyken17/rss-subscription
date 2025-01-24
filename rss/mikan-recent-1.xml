@@ -1348,5 +1348,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="438241856" url="https://mikanani.me/Download/20250124/42d17db9b3440b3092f3d1a4ae97fba738350518.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
+			<title>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</title>
+			<description>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2025-01-24T20:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250124/e1a0709a22c6c908efcd6cef264b039d8f990359.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9ef0e8330ba9b2467da35a55a86b918b4879ff36</link>
-			<title>[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 04 (CR 1920x1080 AVC AAC MKV)[1.19 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9ef0e8330ba9b2467da35a55a86b918b4879ff36</link>
-				<contentLength>1277752832</contentLength>
-				<pubDate>2025-01-17T13:06:01.908</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1277752832" url="https://mikanani.me/Download/20250117/9ef0e8330ba9b2467da35a55a86b918b4879ff36.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 02V2 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/65f5dfc2f3847b00bade1a1ed09fd4b2841ae42d</link>
 			<title>[新沸羊羊制作] 我独自升级 第二季 －起于暗影－ - 02V2 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -8523,6 +8511,18 @@
 				<pubDate>2025-01-24T19:53:46.3</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="438241856" url="https://mikanani.me/Download/20250124/42d17db9b3440b3092f3d1a4ae97fba738350518.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
+			<title>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</title>
+			<description>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2025-01-24T20:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250124/e1a0709a22c6c908efcd6cef264b039d8f990359.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

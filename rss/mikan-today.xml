@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
+			<title>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</title>
+			<description>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2025-01-24T20:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250124/e1a0709a22c6c908efcd6cef264b039d8f990359.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">超超超超超喜欢你的100个女朋友 第二季 - EP02 [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2) {超超超超超喜欢你的100个女朋友 | 君のことが大大大大大好きな100人の彼女}</guid>
 			<link>https://mikanani.me/Home/Episode/501051278d28607f8ebb9b99f3a65e0e45be2e5f</link>
 			<title>超超超超超喜欢你的100个女朋友 第二季 - EP02 [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2) {超超超超超喜欢你的100个女朋友 | 君のことが大大大大大好きな100人の彼女}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-23T22:02:21.495</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="455469952" url="https://mikanani.me/Download/20250123/4312daf5e4cbab2ce281e9923e02b99278e56eeb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/28b9e863de8460853ab05a971c06e8a5173d6013</link>
-			<title>[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][541.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/28b9e863de8460853ab05a971c06e8a5173d6013</link>
-				<contentLength>567908736</contentLength>
-				<pubDate>2025-01-23T22:01:42.845333</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="567908736" url="https://mikanani.me/Download/20250123/28b9e863de8460853ab05a971c06e8a5173d6013.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
