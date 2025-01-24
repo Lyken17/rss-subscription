@@ -112,5 +112,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="732619072" url="https://mikanani.me/Download/20250124/2ee2eba45f78062fedeb35a816aef0b8d91fe0cc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 蜂蜜柠檬苏打 / ハニーレモンソーダ / Honey Lemon Soda - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/49378e26a0f813fe4fa2ad426533fa70a0dda7ce</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 蜂蜜柠檬苏打 / ハニーレモンソーダ / Honey Lemon Soda - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 蜂蜜柠檬苏打 / ハニーレモンソーダ / Honey Lemon Soda - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][463.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49378e26a0f813fe4fa2ad426533fa70a0dda7ce</link>
+				<contentLength>486088384</contentLength>
+				<pubDate>2025-01-24T12:51:55.966</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="486088384" url="https://mikanani.me/Download/20250124/49378e26a0f813fe4fa2ad426533fa70a0dda7ce.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
