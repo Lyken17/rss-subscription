@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="596335680" url="https://mikanani.me/Download/20250123/5602b73193fa410525b77f3fee83c6a0d13f81ca.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</guid>
-			<link>https://mikanani.me/Home/Episode/1ad6bcc106c7486b9e287378c0b37db1a9137e07</link>
-			<title>[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</title>
-			<description>[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)[66.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1ad6bcc106c7486b9e287378c0b37db1a9137e07</link>
-				<contentLength>71725957120</contentLength>
-				<pubDate>2025-01-23T19:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="71725957120" url="https://mikanani.me/Download/20250123/1ad6bcc106c7486b9e287378c0b37db1a9137e07.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][73][GB][4K HEVC 10Bit]</guid>
 			<link>https://mikanani.me/Home/Episode/828b575ff5cf558a068b729913f17a9160deaa58</link>
 			<title>[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][73][GB][4K HEVC 10Bit]</title>
@@ -1911,6 +1899,30 @@
 				<pubDate>2025-01-25T02:23:57.435</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="339445024" url="https://mikanani.me/Download/20250125/8cb9f32fb5d7c0848d11e85cc4f5a34ca7d60b7a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][27][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/6c718f009dfbb674312db772fa619985a8217b31</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][27][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][27][简体][1080P][MP4][359.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6c718f009dfbb674312db772fa619985a8217b31</link>
+				<contentLength>377067936</contentLength>
+				<pubDate>2025-01-25T04:03:09.719</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="377067936" url="https://mikanani.me/Download/20250125/6c718f009dfbb674312db772fa619985a8217b31.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][27][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/60052b1b118977aa0993c838c7911b71012f2f76</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][27][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][27][繁体][1080P][MP4][359.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/60052b1b118977aa0993c838c7911b71012f2f76</link>
+				<contentLength>376963072</contentLength>
+				<pubDate>2025-01-25T04:02:58.591</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="376963072" url="https://mikanani.me/Download/20250125/60052b1b118977aa0993c838c7911b71012f2f76.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
