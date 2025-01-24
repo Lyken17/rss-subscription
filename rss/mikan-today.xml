@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] Bang Dream Ave Mujica - 04 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a01cdb15119cbbb49dbe3d865461cc1433cc66da</link>
+			<title>[新沸羊羊制作] Bang Dream Ave Mujica - 04 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] Bang Dream Ave Mujica - 04 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][892.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a01cdb15119cbbb49dbe3d865461cc1433cc66da</link>
+				<contentLength>936168640</contentLength>
+				<pubDate>2025-01-24T11:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="936168640" url="https://mikanani.me/Download/20250124/a01cdb15119cbbb49dbe3d865461cc1433cc66da.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 中年大叔转生反派千金 / Akuyaku Reijou Tensei Ojisan - 03 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/cbbfe47bd570c718e6aeab8e3cb5654ec4a38363</link>
 			<title>[Skymoon-Raws] 中年大叔转生反派千金 / Akuyaku Reijou Tensei Ojisan - 03 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-23T02:28:40.242</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250123/8ea608cdcd290dfc98f3ba8110fc02cbcd441d55.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 56 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/64ee4eafc663998d8fa4706b364bd1852c1f8b9c</link>
-			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 56 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 56 (ABEMA 1920x1080 AVC AAC MP4)[79.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/64ee4eafc663998d8fa4706b364bd1852c1f8b9c</link>
-				<contentLength>82963336</contentLength>
-				<pubDate>2025-01-23T02:03:26.611</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="82963336" url="https://mikanani.me/Download/20250123/64ee4eafc663998d8fa4706b364bd1852c1f8b9c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

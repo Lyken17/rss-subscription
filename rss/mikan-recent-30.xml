@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
-			<title>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 多数欠 / Tasuuketsu - 24 (CR 1920x1080 AVC AAC MKV)[1.29 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfe811d6a83be464590cdddade05eee7cff4cebf</link>
-				<contentLength>1385126912</contentLength>
-				<pubDate>2024-12-25T04:03:36.293</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20241225/dfe811d6a83be464590cdddade05eee7cff4cebf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/3f6443b3a4f00c7617505aedc5e815ffe6bde79a</link>
 			<title>[LoliHouse] 多数欠 / Tasuuketsu - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -28995,6 +28983,18 @@
 				<pubDate>2025-01-24T10:55:03.397</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="527077216" url="https://mikanani.me/Download/20250124/979da3aa563b9d385ba9785e9254351dc063e79f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] Bang Dream Ave Mujica - 04 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a01cdb15119cbbb49dbe3d865461cc1433cc66da</link>
+			<title>[新沸羊羊制作] Bang Dream Ave Mujica - 04 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] Bang Dream Ave Mujica - 04 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][892.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a01cdb15119cbbb49dbe3d865461cc1433cc66da</link>
+				<contentLength>936168640</contentLength>
+				<pubDate>2025-01-24T11:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="936168640" url="https://mikanani.me/Download/20250124/a01cdb15119cbbb49dbe3d865461cc1433cc66da.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
