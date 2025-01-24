@@ -8656,5 +8656,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20250124/96a80ba58108b4dc99964599d586bf5e571d598b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][11][1080P][AVC AAC][简日双语][WebRip]</guid>
+			<link>https://mikanani.me/Home/Episode/a0d1142ad6ed5065c4cc1c05646393bf655cf1be</link>
+			<title>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][11][1080P][AVC AAC][简日双语][WebRip]</title>
+			<description>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][11][1080P][AVC AAC][简日双语][WebRip][271.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a0d1142ad6ed5065c4cc1c05646393bf655cf1be</link>
+				<contentLength>285044896</contentLength>
+				<pubDate>2025-01-24T17:09:58.403</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="285044896" url="https://mikanani.me/Download/20250124/a0d1142ad6ed5065c4cc1c05646393bf655cf1be.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

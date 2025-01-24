@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][11][1080P][AVC AAC][简日双语][WebRip]</guid>
+			<link>https://mikanani.me/Home/Episode/a0d1142ad6ed5065c4cc1c05646393bf655cf1be</link>
+			<title>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][11][1080P][AVC AAC][简日双语][WebRip]</title>
+			<description>[霜庭云花Sub][BanG Dream! It's MyGO!!!!!][11][1080P][AVC AAC][简日双语][WebRip][271.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a0d1142ad6ed5065c4cc1c05646393bf655cf1be</link>
+				<contentLength>285044896</contentLength>
+				<pubDate>2025-01-24T17:09:58.403</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="285044896" url="https://mikanani.me/Download/20250124/a0d1142ad6ed5065c4cc1c05646393bf655cf1be.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 04 (1080p HEVC AAC 简中)</guid>
 			<link>https://mikanani.me/Home/Episode/aec85c1ab63720a7add9139f3da899fdb91671ac</link>
 			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 04 (1080p HEVC AAC 简中)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-23T21:35:08.484</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250123/fdc73da623a483646f320fe901fff98be38de5ec.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][73][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/828b575ff5cf558a068b729913f17a9160deaa58</link>
-			<title>[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][73][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][73][GB][4K HEVC 10Bit][1.31 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/828b575ff5cf558a068b729913f17a9160deaa58</link>
-				<contentLength>1406601728</contentLength>
-				<pubDate>2025-01-23T21:14:06.339</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1406601728" url="https://mikanani.me/Download/20250123/828b575ff5cf558a068b729913f17a9160deaa58.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
