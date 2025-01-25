@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1d07e8056833c1f5642f8bc22f40b8896fbea93c</link>
+			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1d07e8056833c1f5642f8bc22f40b8896fbea93c</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-01-25T20:32:01.189</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250125/1d07e8056833c1f5642f8bc22f40b8896fbea93c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][4K_HDR][机动战士高达0079剧场版三部曲合集/Mobile Suit Gundam The Movie Trilogy I-III][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](机动戦士ガンダム 剧场版三部作)</guid>
 			<link>https://mikanani.me/Home/Episode/af4035c78f88554421dbdda7466382925b0e3124</link>
 			<title>[DBD-Raws][4K_HDR][机动战士高达0079剧场版三部曲合集/Mobile Suit Gundam The Movie Trilogy I-III][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](机动戦士ガンダム 剧场版三部作)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-24T21:36:34.262883</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="324534272" url="https://mikanani.me/Download/20250124/a74153eedee75ea6f35daaab0860b2c441b898e0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/7dd8fb7aef03174709f8d2412d78a52d03d04767</link>
-			<title>[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 03 (ABEMA 1920x1080 AVC AAC MP4)[717.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7dd8fb7aef03174709f8d2412d78a52d03d04767</link>
-				<contentLength>751891904</contentLength>
-				<pubDate>2025-01-24T21:30:54.58</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="751891904" url="https://mikanani.me/Download/20250124/7dd8fb7aef03174709f8d2412d78a52d03d04767.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 火凤燎原 / The Ravages of Time - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/de2a3508b309647fef8f62c924580b1434055518</link>
-			<title>[Up to 21°C] 火凤燎原 / The Ravages of Time - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 火凤燎原 / The Ravages of Time - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/de2a3508b309647fef8f62c924580b1434055518</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-01-18T12:56:29.324</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250118/de2a3508b309647fef8f62c924580b1434055518.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][01][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/5b223d587beed01a2883b9450da32f06da5a5937</link>
 			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][01][1080p][CHT]</title>
@@ -8679,6 +8667,18 @@
 				<pubDate>2025-01-25T19:40:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="960181056" url="https://mikanani.me/Download/20250125/b2875222980e19a68320da913f1f199089cae9c1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1d07e8056833c1f5642f8bc22f40b8896fbea93c</link>
+			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1d07e8056833c1f5642f8bc22f40b8896fbea93c</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-01-25T20:32:01.189</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250125/1d07e8056833c1f5642f8bc22f40b8896fbea93c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
