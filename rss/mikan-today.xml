@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[凡人修仙传][第127集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/df556ffd00e85aee04bd343f697446ba33f12a59</link>
+			<title>[凡人修仙传][第127集][国语中字][WEB-MKV][2160P]</title>
+			<description>[凡人修仙传][第127集][国语中字][WEB-MKV][2160P][2.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/df556ffd00e85aee04bd343f697446ba33f12a59</link>
+				<contentLength>2576980480</contentLength>
+				<pubDate>2025-01-25T12:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20250125/df556ffd00e85aee04bd343f697446ba33f12a59.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[老番补档][棋魂/ヒカルの碁/Hikaru no go][BD1080P][台粤日三语中字][已刮削]</guid>
+			<link>https://mikanani.me/Home/Episode/7c99d5be6fece626b395d05187a4e8746beb0f8a</link>
+			<title>[老番补档][棋魂/ヒカルの碁/Hikaru no go][BD1080P][台粤日三语中字][已刮削]</title>
+			<description>[老番补档][棋魂/ヒカルの碁/Hikaru no go][BD1080P][台粤日三语中字][已刮削][46.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7c99d5be6fece626b395d05187a4e8746beb0f8a</link>
+				<contentLength>50358493184</contentLength>
+				<pubDate>2025-01-25T11:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="50358493184" url="https://mikanani.me/Download/20250125/7c99d5be6fece626b395d05187a4e8746beb0f8a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 火凤燎原 / The Ravages of Time - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/e774b15bcd6ab94a521ea0fc188114bd70c1b488</link>
 			<title>[Up to 21°C] 火凤燎原 / The Ravages of Time - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-24T06:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20250124/3c105b8162e4e350b8324257657454f5e3e2a847.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/24ce774122c1eb4ec5301010f0e6e336230d9c2d</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][810.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/24ce774122c1eb4ec5301010f0e6e336230d9c2d</link>
-				<contentLength>849692608</contentLength>
-				<pubDate>2025-01-24T05:58:34.777</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="849692608" url="https://mikanani.me/Download/20250124/24ce774122c1eb4ec5301010f0e6e336230d9c2d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][17][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/f4e80fca7df3d26d0990fece39ee0df5307b105b</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][17][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][17][WEBrip][1080P][简日双语][409.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f4e80fca7df3d26d0990fece39ee0df5307b105b</link>
-				<contentLength>428972448</contentLength>
-				<pubDate>2025-01-24T03:08:20.609587</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="428972448" url="https://mikanani.me/Download/20250124/f4e80fca7df3d26d0990fece39ee0df5307b105b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
