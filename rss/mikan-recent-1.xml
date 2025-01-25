@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
-			<title>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</title>
-			<description>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P][1.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
-				<contentLength>1932735232</contentLength>
-				<pubDate>2025-01-24T20:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250124/e1a0709a22c6c908efcd6cef264b039d8f990359.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[猎户手抄部] 无名记忆 第二季 / Unnamed Memory Act.2 [15] [1080p] [繁日内嵌] [2025年1月番]</guid>
 			<link>https://mikanani.me/Home/Episode/3650fd4fe9b6aa1fc4f0a27f67b891566f00f53a</link>
 			<title>[猎户手抄部] 无名记忆 第二季 / Unnamed Memory Act.2 [15] [1080p] [繁日内嵌] [2025年1月番]</title>
@@ -1983,6 +1971,18 @@
 				<pubDate>2025-01-26T03:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="399822016" url="https://mikanani.me/Download/20250126/052aaee9dc5a58ee15aa0450f961f6bc9eb6ef6a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[施尧 &amp; 三明治摆烂组] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill "Kinomi Master" - 04 - [简繁内封][H265 10bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/a183eb96dbb4de1a1d0fd165391db1ad65f84fb8</link>
+			<title>[施尧 &amp; 三明治摆烂组] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill "Kinomi Master" - 04 - [简繁内封][H265 10bit 1080P]</title>
+			<description>[施尧 &amp; 三明治摆烂组] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill "Kinomi Master" - 04 - [简繁内封][H265 10bit 1080P][404.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a183eb96dbb4de1a1d0fd165391db1ad65f84fb8</link>
+				<contentLength>424358720</contentLength>
+				<pubDate>2025-01-26T05:01:07.284833</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="424358720" url="https://mikanani.me/Download/20250126/a183eb96dbb4de1a1d0fd165391db1ad65f84fb8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
