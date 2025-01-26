@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E03 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/3c898aaae9b685d40eb06029e114042b1a37997a</link>
+			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E03 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
+			<description>[SourGrape] 战队红战士在异世界当冒险者 S01E03 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌][749.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c898aaae9b685d40eb06029e114042b1a37997a</link>
+				<contentLength>786222272</contentLength>
+				<pubDate>2025-01-27T06:31:44.404367</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786222272" url="https://mikanani.me/Download/20250127/3c898aaae9b685d40eb06029e114042b1a37997a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d62a4cb034f0c426095ee3ed7efba76030c22ee8</link>
 			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T01:46:20.793</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250126/cf180ef48e5ac59d44473526d57d0aa4bbe2acb5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 16 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4af1d05a2aac15964b7f2664151c7949325843ed</link>
-			<title>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 16 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 16 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4af1d05a2aac15964b7f2664151c7949325843ed</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-01-26T01:32:39.668</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250126/4af1d05a2aac15964b7f2664151c7949325843ed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
