@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/965d278a7e2242e8f5c85d7729eb06104c423fb5</link>
+			<title>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 03 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/965d278a7e2242e8f5c85d7729eb06104c423fb5</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2025-01-26T18:02:43.703</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250126/965d278a7e2242e8f5c85d7729eb06104c423fb5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Mashin Creator Wataru /  魔神创造传 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/1c73ee3d743fabe8ba4612a46634e8c91cecf377</link>
 			<title>[ANi] Mashin Creator Wataru /  魔神创造传 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-25T20:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="37795713024" url="https://mikanani.me/Download/20250125/af4035c78f88554421dbdda7466382925b0e3124.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][机动战士高达0079剧场版三部曲合集/Mobile Suit Gundam The Movie Trilogy][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV](机动戦士ガンダム 剧场版三部作)</guid>
-			<link>https://mikanani.me/Home/Episode/cfcb5f786a5f699d8c70d46c45bcfba3629fa06f</link>
-			<title>[DBD-Raws][机动战士高达0079剧场版三部曲合集/Mobile Suit Gundam The Movie Trilogy][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV](机动戦士ガンダム 剧场版三部作)</title>
-			<description>[DBD-Raws][机动战士高达0079剧场版三部曲合集/Mobile Suit Gundam The Movie Trilogy][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV](机动戦士ガンダム 剧场版三部作)[14.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cfcb5f786a5f699d8c70d46c45bcfba3629fa06f</link>
-				<contentLength>15032385536</contentLength>
-				<pubDate>2025-01-25T20:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="15032385536" url="https://mikanani.me/Download/20250125/cfcb5f786a5f699d8c70d46c45bcfba3629fa06f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
