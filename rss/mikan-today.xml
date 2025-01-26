@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)</guid>
+			<link>https://mikanani.me/Home/Episode/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa</link>
+			<title>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)</title>
+			<description>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)[183.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa</link>
+				<contentLength>191994272</contentLength>
+				<pubDate>2025-01-26T11:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="191994272" url="https://mikanani.me/Download/20250126/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【DBFC字幕组】【龙珠 大魔】【015】【中日双语字幕】【1080P】【MP4】</guid>
 			<link>https://mikanani.me/Home/Episode/209362296d7e2e0026fe66443c016bee49efcbf8</link>
 			<title>【DBFC字幕组】【龙珠 大魔】【015】【中日双语字幕】【1080P】【MP4】</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-25T15:30:48.65</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="761580736" url="https://mikanani.me/Download/20250125/4819b1f32e96d9c79c992c05b7f69ee8c3b7653e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [03][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/41e452f0ad260bc855627e9b91af506d5bc0b5f0</link>
-			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [03][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [03][1080p][繁体内嵌][289.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/41e452f0ad260bc855627e9b91af506d5bc0b5f0</link>
-				<contentLength>303122336</contentLength>
-				<pubDate>2025-01-25T15:03:42.128</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="303122336" url="https://mikanani.me/Download/20250125/41e452f0ad260bc855627e9b91af506d5bc0b5f0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

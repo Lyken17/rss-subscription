@@ -1528,5 +1528,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250126/7a9aa8fd038f3c58133dbb76e7e1fda97c2b5160.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)</guid>
+			<link>https://mikanani.me/Home/Episode/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa</link>
+			<title>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)</title>
+			<description>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)[183.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa</link>
+				<contentLength>191994272</contentLength>
+				<pubDate>2025-01-26T11:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="191994272" url="https://mikanani.me/Download/20250126/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

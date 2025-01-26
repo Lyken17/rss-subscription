@@ -77,18 +77,6 @@
 			<enclosure type="application/x-bittorrent" length="613951744" url="https://mikanani.me/Download/20250119/ef90accc28e14bf7897f711f7d3fcf2e1b755ab2.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[无名记忆 Act.2 / Unnamed Memory Act.2][14][1080p][简日双语][招募翻译时轴]</guid>
-			<link>https://mikanani.me/Home/Episode/a4bbc3634d1904d04970fdeac65e6678f01fb99d</link>
-			<title>【喵萌奶茶屋】★01月新番★[无名记忆 Act.2 / Unnamed Memory Act.2][14][1080p][简日双语][招募翻译时轴]</title>
-			<description>【喵萌奶茶屋】★01月新番★[无名记忆 Act.2 / Unnamed Memory Act.2][14][1080p][简日双语][招募翻译时轴][400.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a4bbc3634d1904d04970fdeac65e6678f01fb99d</link>
-				<contentLength>420374112</contentLength>
-				<pubDate>2025-01-19T03:14:01.651</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="420374112" url="https://mikanani.me/Download/20250119/a4bbc3634d1904d04970fdeac65e6678f01fb99d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/86c08c6a72f6da1e778c7c29b05e3f81dca00f32</link>
 			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][03][简体][1080P][MP4]</title>
@@ -8547,6 +8535,18 @@
 				<pubDate>2025-01-26T09:31:40.164</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250126/7a9aa8fd038f3c58133dbb76e7e1fda97c2b5160.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)</guid>
+			<link>https://mikanani.me/Home/Episode/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa</link>
+			<title>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)</title>
+			<description>[雪飘工作室][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][50_完][720p][简体内嵌](检索:Q娃/プリキュア)[183.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa</link>
+				<contentLength>191994272</contentLength>
+				<pubDate>2025-01-26T11:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="191994272" url="https://mikanani.me/Download/20250126/7d4c01da9e607cf3b35f84f41d46eccf4a8f69fa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
