@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d62a4cb034f0c426095ee3ed7efba76030c22ee8</link>
+			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)[236.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d62a4cb034f0c426095ee3ed7efba76030c22ee8</link>
+				<contentLength>247799488</contentLength>
+				<pubDate>2025-01-27T04:45:35.831</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="247799488" url="https://mikanani.me/Download/20250127/d62a4cb034f0c426095ee3ed7efba76030c22ee8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[芝士动物朋友] 不忍！加密忍者咲耶 / Shinobanai！Crypto Ninja Sakuya / 忍ばない！クリプトニンジャ咲耶 [1-13][MX-TVRip][1080p][HEVC+OPUS][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/83aafacc952aba3f561727ee74516e83a787f534</link>
 			<title>[芝士动物朋友] 不忍！加密忍者咲耶 / Shinobanai！Crypto Ninja Sakuya / 忍ばない！クリプトニンジャ咲耶 [1-13][MX-TVRip][1080p][HEVC+OPUS][简繁内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T01:32:39.668</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250126/4af1d05a2aac15964b7f2664151c7949325843ed.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第1151集 怪盗基德与王冠魔术（后篇）][WEBRIP][简繁日多语MKV][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/f2ee1f02e640c2193c495213155ab7a5c207ce05</link>
-			<title>[银色子弹字幕组][名侦探柯南][第1151集 怪盗基德与王冠魔术（后篇）][WEBRIP][简繁日多语MKV][1080P]</title>
-			<description>[银色子弹字幕组][名侦探柯南][第1151集 怪盗基德与王冠魔术（后篇）][WEBRIP][简繁日多语MKV][1080P][437.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f2ee1f02e640c2193c495213155ab7a5c207ce05</link>
-				<contentLength>458542272</contentLength>
-				<pubDate>2025-01-26T01:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458542272" url="https://mikanani.me/Download/20250126/f2ee1f02e640c2193c495213155ab7a5c207ce05.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

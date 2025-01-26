@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1d07e8056833c1f5642f8bc22f40b8896fbea93c</link>
-			<title>[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 名侦探柯南 / Detective Conan - 1151 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1d07e8056833c1f5642f8bc22f40b8896fbea93c</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-01-25T20:32:01.189</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250125/1d07e8056833c1f5642f8bc22f40b8896fbea93c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][02][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/8bd2aceb39a1b786922f7d6087f354a7dfa80823</link>
 			<title>【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][02][1080p][CHT]</title>
@@ -1803,6 +1791,18 @@
 				<pubDate>2025-01-27T03:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="981991424" url="https://mikanani.me/Download/20250127/b4ff3791438f038026751166618c62ff01c624d0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d62a4cb034f0c426095ee3ed7efba76030c22ee8</link>
+			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 04 (CR 1920x1080 AVC AAC MKV)[236.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d62a4cb034f0c426095ee3ed7efba76030c22ee8</link>
+				<contentLength>247799488</contentLength>
+				<pubDate>2025-01-27T04:45:35.831</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="247799488" url="https://mikanani.me/Download/20250127/d62a4cb034f0c426095ee3ed7efba76030c22ee8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
