@@ -1552,5 +1552,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="191889408" url="https://mikanani.me/Download/20250126/1b12d3159c8b30b85259d8956d250871edfee6cd.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
+			<title>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)[1.27 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
+				<contentLength>1363652096</contentLength>
+				<pubDate>2025-01-26T13:05:53.507</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20250126/8eb6fa9ee25f9112c5085b535fb77242c7b74c73.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

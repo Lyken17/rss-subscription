@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
+			<title>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)[1.27 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
+				<contentLength>1363652096</contentLength>
+				<pubDate>2025-01-26T13:05:53.507</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20250126/8eb6fa9ee25f9112c5085b535fb77242c7b74c73.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 26 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/442b568a2d128c85a98f1ad7af0aa72d9f5b2535</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 26 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-25T16:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250125/8146c493ca13807d5c816b7f558a4b65a68938ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][03][1080p][繁日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/2326cbbb2e4c42b930632a6a5edddc3c54e7f81d</link>
-			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][03][1080p][繁日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][03][1080p][繁日双语][招募翻译][438.94 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2326cbbb2e4c42b930632a6a5edddc3c54e7f81d</link>
-				<contentLength>460261952</contentLength>
-				<pubDate>2025-01-25T15:55:44.174</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="460261952" url="https://mikanani.me/Download/20250125/2326cbbb2e4c42b930632a6a5edddc3c54e7f81d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
