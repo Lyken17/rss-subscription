@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5c08189b3af3454c473721861b62549e2de53cac</link>
+			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][450.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5c08189b3af3454c473721861b62549e2de53cac</link>
+				<contentLength>472740000</contentLength>
+				<pubDate>2025-01-26T13:25:18.753</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="472740000" url="https://mikanani.me/Download/20250126/5c08189b3af3454c473721861b62549e2de53cac.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
 			<title>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-25T16:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250125/9a752946971229b26e76eeca4e069aecc54bf8c6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[逆天至尊][第370-374集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/8146c493ca13807d5c816b7f558a4b65a68938ac</link>
-			<title>[逆天至尊][第370-374集][国语中字][WEB-MKV][2160P]</title>
-			<description>[逆天至尊][第370-374集][国语中字][WEB-MKV][2160P][2.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8146c493ca13807d5c816b7f558a4b65a68938ac</link>
-				<contentLength>2254857728</contentLength>
-				<pubDate>2025-01-25T16:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250125/8146c493ca13807d5c816b7f558a4b65a68938ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][13][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/5b25d11e4685caa78a42e38c3dbcf2615c81a56b</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][13][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][13][WEBrip][1080P][简日双语][467.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5b25d11e4685caa78a42e38c3dbcf2615c81a56b</link>
-				<contentLength>489789856</contentLength>
-				<pubDate>2024-12-27T05:49:33.086145</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="489789856" url="https://mikanani.me/Download/20241227/5b25d11e4685caa78a42e38c3dbcf2615c81a56b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸羊羊制作] 青之箱 - 13V1 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/18b75415c8bb681d5dae6fe6201efde2ee4898dd</link>
-			<title>[沸羊羊制作] 青之箱 - 13V1 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕]</title>
-			<description>[沸羊羊制作] 青之箱 - 13V1 [NF WebRip 1080p HEVC-10bit E-AC-3][官方简繁内封字幕][321.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/18b75415c8bb681d5dae6fe6201efde2ee4898dd</link>
-				<contentLength>337431744</contentLength>
-				<pubDate>2024-12-27T05:23:06.489558</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="337431744" url="https://mikanani.me/Download/20241227/18b75415c8bb681d5dae6fe6201efde2ee4898dd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【11】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/75ad5625891a6ad72f4ef2f95d1a37525274ea81</link>
 			<title>【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【11】【BIG5_MP4】【1920X1080】</title>
@@ -30075,6 +30051,18 @@
 				<pubDate>2025-01-26T13:05:53.507</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20250126/8eb6fa9ee25f9112c5085b535fb77242c7b74c73.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5c08189b3af3454c473721861b62549e2de53cac</link>
+			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][450.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5c08189b3af3454c473721861b62549e2de53cac</link>
+				<contentLength>472740000</contentLength>
+				<pubDate>2025-01-26T13:25:18.753</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="472740000" url="https://mikanani.me/Download/20250126/5c08189b3af3454c473721861b62549e2de53cac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
