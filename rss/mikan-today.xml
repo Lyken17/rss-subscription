@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋&amp;千夏字幕组】★01月新番★[超超超超超喜欢你的100个女朋友 / Hyakkano][14][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/dc90ed9494be2f60d76129afd5479d43595ba9c8</link>
+			<title>【喵萌奶茶屋&amp;千夏字幕组】★01月新番★[超超超超超喜欢你的100个女朋友 / Hyakkano][14][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋&amp;千夏字幕组】★01月新番★[超超超超超喜欢你的100个女朋友 / Hyakkano][14][1080p][简日双语][招募翻译][553.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dc90ed9494be2f60d76129afd5479d43595ba9c8</link>
+				<contentLength>579967360</contentLength>
+				<pubDate>2025-01-26T08:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="579967360" url="https://mikanani.me/Download/20250126/dc90ed9494be2f60d76129afd5479d43595ba9c8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 天久鹰央的推理病历表 - 01-04 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/455cc559d329d9fb752a3e429580c78930fecdbc</link>
 			<title>[新沸羊羊制作] 天久鹰央的推理病历表 - 01-04 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-25T13:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="152578719744" url="https://mikanani.me/Download/20250125/b2f5f14fea04d21d6ce339b892d8ac198d5ad71e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[宗门里除了我都是卧底][第30-35集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/7314e4261552bff9d72a8c6ee3d7ee61a58d3378</link>
-			<title>[宗门里除了我都是卧底][第30-35集][国语中字][WEB-MKV][2160P]</title>
-			<description>[宗门里除了我都是卧底][第30-35集][国语中字][WEB-MKV][2160P][4.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7314e4261552bff9d72a8c6ee3d7ee61a58d3378</link>
-				<contentLength>4509715456</contentLength>
-				<pubDate>2025-01-25T13:35:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4509715456" url="https://mikanani.me/Download/20250125/7314e4261552bff9d72a8c6ee3d7ee61a58d3378.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
