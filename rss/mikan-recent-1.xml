@@ -1120,5 +1120,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="41231687680" url="https://mikanani.me/Download/20250127/f83044d3f9d25674fd0c9b02d3ee144a73476fd7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E03 V2 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f4a3118018bd18de7024ac1228acc80a627fb6eb</link>
+			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E03 V2 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
+			<description>[SourGrape] 战队红战士在异世界当冒险者 S01E03 V2 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌][749.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f4a3118018bd18de7024ac1228acc80a627fb6eb</link>
+				<contentLength>786222272</contentLength>
+				<pubDate>2025-01-27T15:16:14.380549</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786222272" url="https://mikanani.me/Download/20250127/f4a3118018bd18de7024ac1228acc80a627fb6eb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
