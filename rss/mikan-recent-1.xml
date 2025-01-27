@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
-			<title>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)[1.27 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
-				<contentLength>1363652096</contentLength>
-				<pubDate>2025-01-26T13:05:53.507</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20250126/8eb6fa9ee25f9112c5085b535fb77242c7b74c73.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5c08189b3af3454c473721861b62549e2de53cac</link>
 			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1119,6 +1107,18 @@
 				<pubDate>2025-01-27T19:32:12.161547</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="276404640" url="https://mikanani.me/Download/20250127/adfd6ef78d27df652f8f5fe09a9210024431e0a8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8e443e026861e6edcd5a6aaf762cf3c7a45a5424</link>
+			<title>[Up to 21°C] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 03 (ABEMA 1920x1080 AVC AAC MP4)[711.49 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e443e026861e6edcd5a6aaf762cf3c7a45a5424</link>
+				<contentLength>746051328</contentLength>
+				<pubDate>2025-01-27T20:30:49.048</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746051328" url="https://mikanani.me/Download/20250127/8e443e026861e6edcd5a6aaf762cf3c7a45a5424.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
