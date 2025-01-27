@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/53317583406b27f16812e95cd567ff64ab29c093</link>
+			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)[231.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/53317583406b27f16812e95cd567ff64ab29c093</link>
+				<contentLength>242881664</contentLength>
+				<pubDate>2025-01-27T09:01:15.96</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="242881664" url="https://mikanani.me/Download/20250127/53317583406b27f16812e95cd567ff64ab29c093.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E03 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/3c898aaae9b685d40eb06029e114042b1a37997a</link>
 			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E03 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T01:51:36.715</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="477123040" url="https://mikanani.me/Download/20250126/5bdfb244abe70d77deb5109b2b0f1cd7d49f2449.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 03 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/cf180ef48e5ac59d44473526d57d0aa4bbe2acb5</link>
-			<title>[Up to 21°C] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 03 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 03 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cf180ef48e5ac59d44473526d57d0aa4bbe2acb5</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-01-26T01:46:20.793</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250126/cf180ef48e5ac59d44473526d57d0aa4bbe2acb5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
