@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 127 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/86e04d651cfd7cab20371355d0ed028cd4d064f4</link>
+			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 127 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 127 (B-Global Donghua 1920x1080 HEVC AAC MKV)[671.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/86e04d651cfd7cab20371355d0ed028cd4d064f4</link>
+				<contentLength>704496256</contentLength>
+				<pubDate>2025-01-27T11:03:08.878</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="704496256" url="https://mikanani.me/Download/20250127/86e04d651cfd7cab20371355d0ed028cd4d064f4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 龙珠大魔 - 01-15 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c9db5cca0848cdfd5004502279f4909ed8f923f1</link>
 			<title>[新沸羊羊制作] 龙珠大魔 - 01-15 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T02:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="362178144" url="https://mikanani.me/Download/20250126/7790c208c367babafeee9ef8bdab476b8522d201.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f7a717f5d5530777b635aa62daec1b1bbd15670a</link>
-			<title>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 04 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f7a717f5d5530777b635aa62daec1b1bbd15670a</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2025-01-26T02:18:05.578</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250126/f7a717f5d5530777b635aa62daec1b1bbd15670a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
