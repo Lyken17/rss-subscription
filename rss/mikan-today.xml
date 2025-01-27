@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/561fe5d50ec8109e93ceaa82355bf5cd8ae3b199</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][910.55 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/561fe5d50ec8109e93ceaa82355bf5cd8ae3b199</link>
+				<contentLength>954780864</contentLength>
+				<pubDate>2025-01-27T19:02:57.098</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="954780864" url="https://mikanani.me/Download/20250127/561fe5d50ec8109e93ceaa82355bf5cd8ae3b199.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 22 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/c59d1015c63ed85e7ceafba5a4282e283b903048</link>
 			<title>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 22 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T08:57:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="579967360" url="https://mikanani.me/Download/20250126/dc90ed9494be2f60d76129afd5479d43595ba9c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[新沸羊羊制作] 天久鹰央的推理病历表 - 01-04 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/455cc559d329d9fb752a3e429580c78930fecdbc</link>
-			<title>[新沸羊羊制作] 天久鹰央的推理病历表 - 01-04 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[新沸羊羊制作] 天久鹰央的推理病历表 - 01-04 [CR WebRip Ai2160p HEVC-10bit AAC][官方简繁内封字幕][3.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/455cc559d329d9fb752a3e429580c78930fecdbc</link>
-				<contentLength>3650722304</contentLength>
-				<pubDate>2025-01-26T06:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3650722304" url="https://mikanani.me/Download/20250126/455cc559d329d9fb752a3e429580c78930fecdbc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
