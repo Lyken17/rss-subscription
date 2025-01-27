@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[徒弟个个是大佬][第24-27集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/e52ba563863e5bfeff27b705a5a594b0cf0a5f58</link>
-			<title>[徒弟个个是大佬][第24-27集][国语中字][WEB-MKV][2160P]</title>
-			<description>[徒弟个个是大佬][第24-27集][国语中字][WEB-MKV][2160P][2.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e52ba563863e5bfeff27b705a5a594b0cf0a5f58</link>
-				<contentLength>2791728640</contentLength>
-				<pubDate>2025-01-20T04:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20250120/e52ba563863e5bfeff27b705a5a594b0cf0a5f58.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 03 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f861ff3e2df518b24d70cfb30e1d3fd82a12fa90</link>
 			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 03 (CR 1920x1080 AVC AAC MKV)</title>
@@ -8079,6 +8067,30 @@
 				<pubDate>2025-01-27T11:03:08.878</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="704496256" url="https://mikanani.me/Download/20250127/86e04d651cfd7cab20371355d0ed028cd4d064f4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/deada3260ecb28b5226815f6f6052152f0800ba6</link>
+			<title>[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</title>
+			<description>[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4][225.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/deada3260ecb28b5226815f6f6052152f0800ba6</link>
+				<contentLength>236684576</contentLength>
+				<pubDate>2025-01-27T12:03:41.393</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="236684576" url="https://mikanani.me/Download/20250127/deada3260ecb28b5226815f6f6052152f0800ba6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简繁日语字幕][1080P][HEVC MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/49e0f61c43df0e30c3be9dcbe16bb174da03c274</link>
+			<title>[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简繁日语字幕][1080P][HEVC MKV]</title>
+			<description>[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简繁日语字幕][1080P][HEVC MKV][301.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49e0f61c43df0e30c3be9dcbe16bb174da03c274</link>
+				<contentLength>316009344</contentLength>
+				<pubDate>2025-01-27T12:03:22.509</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="316009344" url="https://mikanani.me/Download/20250127/49e0f61c43df0e30c3be9dcbe16bb174da03c274.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
