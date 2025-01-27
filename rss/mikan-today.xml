@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/60015a6b0f584e9d7985f7800dc21b44f1e2b515</link>
+			<title>[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌]</title>
+			<description>[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌][858.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/60015a6b0f584e9d7985f7800dc21b44f1e2b515</link>
+				<contentLength>900317824</contentLength>
+				<pubDate>2025-01-28T05:30:02.412</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="900317824" url="https://mikanani.me/Download/20250128/60015a6b0f584e9d7985f7800dc21b44f1e2b515.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 大神同学想要被吃掉 / Ookami-san wa Taberaretai (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/ba9d745f6761cd36beabd0c8417001f3ba8e574e</link>
 			<title>[H-Enc] 大神同学想要被吃掉 / Ookami-san wa Taberaretai (BDRip 1080p HEVC FLAC)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T20:01:53.604</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="379385280" url="https://mikanani.me/Download/20250126/ec0e51ab2fb7dc6b40b1e8760ca1ce3cb986bb52.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 魔神创造传 / Mashin Souzouden Wataru - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0cfb6f2652fcee2518ea454e2faa2cdfa74302e3</link>
-			<title>[Up to 21°C] 魔神创造传 / Mashin Souzouden Wataru - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 魔神创造传 / Mashin Souzouden Wataru - 03 (ABEMA 1920x1080 AVC AAC MP4)[718.16 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0cfb6f2652fcee2518ea454e2faa2cdfa74302e3</link>
-				<contentLength>753045312</contentLength>
-				<pubDate>2025-01-26T20:00:53.113</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="753045312" url="https://mikanani.me/Download/20250126/0cfb6f2652fcee2518ea454e2faa2cdfa74302e3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
