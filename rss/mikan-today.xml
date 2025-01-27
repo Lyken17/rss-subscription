@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/614e5f48819f8b4742387341e373fb6d0d160a68</link>
+			<title>[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 05 (CR 1920x1080 AVC AAC MKV)[1.36 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/614e5f48819f8b4742387341e373fb6d0d160a68</link>
+				<contentLength>1460288896</contentLength>
+				<pubDate>2025-01-28T02:18:30.901</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20250128/614e5f48819f8b4742387341e373fb6d0d160a68.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 04 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0713cdccf1cc9d2dd1dcc5ca606928ba63540b2d</link>
 			<title>[Up to 21°C] 我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 04 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T19:53:24.35</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="679015872" url="https://mikanani.me/Download/20250126/af1942702adf5e79c2ded4eadd182f3c6c409b23.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[仙逆][第73集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/cabb02eca679fb7a52c9285896e12612ffbfc387</link>
-			<title>[仙逆][第73集][国语中字][WEB-MKV][2160P]</title>
-			<description>[仙逆][第73集][国语中字][WEB-MKV][2160P][2.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cabb02eca679fb7a52c9285896e12612ffbfc387</link>
-				<contentLength>2147483648</contentLength>
-				<pubDate>2025-01-26T19:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250126/cabb02eca679fb7a52c9285896e12612ffbfc387.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
