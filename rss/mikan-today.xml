@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">23yrs ago - [2002] Robin_禁猎魔女(魔女猎人罗宾,Witch Hunter ROBIN)_TV</guid>
+			<link>https://mikanani.me/Home/Episode/f8b839909b6c78af2ca2463fa3335c276a1053de</link>
+			<title>23yrs ago - [2002] Robin_禁猎魔女(魔女猎人罗宾,Witch Hunter ROBIN)_TV</title>
+			<description>23yrs ago - [2002] Robin_禁猎魔女(魔女猎人罗宾,Witch Hunter ROBIN)_TV[57.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8b839909b6c78af2ca2463fa3335c276a1053de</link>
+				<contentLength>61847527424</contentLength>
+				<pubDate>2025-01-27T12:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="61847527424" url="https://mikanani.me/Download/20250127/f8b839909b6c78af2ca2463fa3335c276a1053de.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/deada3260ecb28b5226815f6f6052152f0800ba6</link>
 			<title>[诸神字幕组][夏目友人帐 柒][Natsume Yuujinchou Shichi][12][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-26T03:15:54.565</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="539806912" url="https://mikanani.me/Download/20250126/914e61938b4c04621409ad1b2a3818c00bb38dfb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【动漫国字幕组&amp;澄空学园&amp;华盟字幕社&amp;千夏字幕组】★10月新番[冻牌][15][1080P][繁体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/052aaee9dc5a58ee15aa0450f961f6bc9eb6ef6a</link>
-			<title>【动漫国字幕组&amp;澄空学园&amp;华盟字幕社&amp;千夏字幕组】★10月新番[冻牌][15][1080P][繁体][MP4]</title>
-			<description>【动漫国字幕组&amp;澄空学园&amp;华盟字幕社&amp;千夏字幕组】★10月新番[冻牌][15][1080P][繁体][MP4][381.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/052aaee9dc5a58ee15aa0450f961f6bc9eb6ef6a</link>
-				<contentLength>399822016</contentLength>
-				<pubDate>2025-01-26T03:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="399822016" url="https://mikanani.me/Download/20250126/052aaee9dc5a58ee15aa0450f961f6bc9eb6ef6a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
