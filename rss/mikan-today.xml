@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] おーばーふろぉ / Overflow (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/dc274a3d3d6f5a0842afe12f3452adbabc0188c6</link>
+			<title>[H-Enc] おーばーふろぉ / Overflow (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] おーばーふろぉ / Overflow (BDRip 1080p HEVC FLAC)[4.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dc274a3d3d6f5a0842afe12f3452adbabc0188c6</link>
+				<contentLength>4402341376</contentLength>
+				<pubDate>2025-01-28T19:05:30.086587</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4402341376" url="https://mikanani.me/Download/20250128/dc274a3d3d6f5a0842afe12f3452adbabc0188c6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP04 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
 			<link>https://mikanani.me/Home/Episode/8c00b76892a6700c1642a27044f0a2cf91d0e9ce</link>
 			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP04 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-26T21:00:58.514</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="753359936" url="https://mikanani.me/Download/20250126/bd2f27aba0e8cab3fc871e1606e7bbb5161ec4dd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  我想跷掉太子妃培训 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/0ef6e76a125a2d6d803dbadc89e26d76844671c1</link>
-			<title>[ANi]  我想跷掉太子妃培训 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  我想跷掉太子妃培训 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][273.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0ef6e76a125a2d6d803dbadc89e26d76844671c1</link>
-				<contentLength>286261248</contentLength>
-				<pubDate>2025-01-26T21:00:57.356352</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="286261248" url="https://mikanani.me/Download/20250126/0ef6e76a125a2d6d803dbadc89e26d76844671c1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
