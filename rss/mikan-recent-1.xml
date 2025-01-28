@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/53317583406b27f16812e95cd567ff64ab29c093</link>
-			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)[231.63 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/53317583406b27f16812e95cd567ff64ab29c093</link>
-				<contentLength>242881664</contentLength>
-				<pubDate>2025-01-27T09:01:15.96</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="242881664" url="https://mikanani.me/Download/20250127/53317583406b27f16812e95cd567ff64ab29c093.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 龙珠大魔 - 01-15 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c9db5cca0848cdfd5004502279f4909ed8f923f1</link>
 			<title>[新沸羊羊制作] 龙珠大魔 - 01-15 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -675,6 +663,18 @@
 				<pubDate>2025-01-28T14:24:15.225</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="196744320" url="https://mikanani.me/Download/20250128/419b588ad41094ac362cbbec5b1210c1ea2b974c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[847][2025.01.25][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/37152ce9aff1170e370256b4c669e9a19bffa4d3</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[847][2025.01.25][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[847][2025.01.25][AVC][1080P][GB_JP][535.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37152ce9aff1170e370256b4c669e9a19bffa4d3</link>
+				<contentLength>561617280</contentLength>
+				<pubDate>2025-01-28T16:57:30.701</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="561617280" url="https://mikanani.me/Download/20250128/37152ce9aff1170e370256b4c669e9a19bffa4d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

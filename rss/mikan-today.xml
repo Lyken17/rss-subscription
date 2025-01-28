@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[847][2025.01.25][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/37152ce9aff1170e370256b4c669e9a19bffa4d3</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[847][2025.01.25][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[847][2025.01.25][AVC][1080P][GB_JP][535.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37152ce9aff1170e370256b4c669e9a19bffa4d3</link>
+				<contentLength>561617280</contentLength>
+				<pubDate>2025-01-28T16:57:30.701</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="561617280" url="https://mikanani.me/Download/20250128/37152ce9aff1170e370256b4c669e9a19bffa4d3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][16][1080p][简日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/419b588ad41094ac362cbbec5b1210c1ea2b974c</link>
 			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][16][1080p][简日双语][招募翻译]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-26T20:52:37.378</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="186520704" url="https://mikanani.me/Download/20250126/76c9881cfe006edea90faca160fa50ec0183ea4c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[风车字幕组][名侦探柯南][1139][被弟弟刁难而困扰的姐姐][1080P][简体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/96f4a7bc6ee6b8106208dca3e55ba031036961a4</link>
-			<title>[风车字幕组][名侦探柯南][1139][被弟弟刁难而困扰的姐姐][1080P][简体][MP4]</title>
-			<description>[风车字幕组][名侦探柯南][1139][被弟弟刁难而困扰的姐姐][1080P][简体][MP4][177.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96f4a7bc6ee6b8106208dca3e55ba031036961a4</link>
-				<contentLength>186436816</contentLength>
-				<pubDate>2025-01-26T20:51:33.636</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="186436816" url="https://mikanani.me/Download/20250126/96f4a7bc6ee6b8106208dca3e55ba031036961a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
