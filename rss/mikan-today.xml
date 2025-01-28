@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 吸血鬼马上死 / Kyuuketsuki Sugu Shinu / 吸血鬼すぐ死ぬ 10-bit 1080p HEVC BDRip [S1-S2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/4757a7e5c7c6ba7b4633827538db35f8fb84f5cc</link>
+			<title>[VCB-Studio] 吸血鬼马上死 / Kyuuketsuki Sugu Shinu / 吸血鬼すぐ死ぬ 10-bit 1080p HEVC BDRip [S1-S2 Fin]</title>
+			<description>[VCB-Studio] 吸血鬼马上死 / Kyuuketsuki Sugu Shinu / 吸血鬼すぐ死ぬ 10-bit 1080p HEVC BDRip [S1-S2 Fin][39.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4757a7e5c7c6ba7b4633827538db35f8fb84f5cc</link>
+				<contentLength>42305429504</contentLength>
+				<pubDate>2025-01-28T14:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="42305429504" url="https://mikanani.me/Download/20250128/4757a7e5c7c6ba7b4633827538db35f8fb84f5cc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 04 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/02315c3c0ab8f177e11703b97c389dd25791c1d7</link>
+			<title>[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 04 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 04 [WebRip 1080p HEVC-10bit AAC][无字幕][260.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/02315c3c0ab8f177e11703b97c389dd25791c1d7</link>
+				<contentLength>272870944</contentLength>
+				<pubDate>2025-01-28T14:00:38.066</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="272870944" url="https://mikanani.me/Download/20250128/02315c3c0ab8f177e11703b97c389dd25791c1d7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8b446a23a91637444fe2646367d8b382c1884333</link>
 			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1203,6 @@
 				<pubDate>2025-01-26T20:30:48.662</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748064576" url="https://mikanani.me/Download/20250126/eb03645f16c4f4c88a3ccc768096a3ffcefba2a2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐首领 / Girumasu - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2a8ee91a4093e66104cd3fbdbaefceb0011ca757</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐首领 / Girumasu - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐首领 / Girumasu - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][518.77 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2a8ee91a4093e66104cd3fbdbaefceb0011ca757</link>
-				<contentLength>543969792</contentLength>
-				<pubDate>2025-01-26T20:29:03.587</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="543969792" url="https://mikanani.me/Download/20250126/2a8ee91a4093e66104cd3fbdbaefceb0011ca757.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
