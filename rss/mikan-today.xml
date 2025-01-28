@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/850dc2c39d0a6f74ab73eae9efb27c6c408153c3</link>
+			<title>[Up to 21°C] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 03 (ABEMA 1920x1080 AVC AAC MP4)[692.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/850dc2c39d0a6f74ab73eae9efb27c6c408153c3</link>
+				<contentLength>726180800</contentLength>
+				<pubDate>2025-01-29T01:00:47.542</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="726180800" url="https://mikanani.me/Download/20250129/850dc2c39d0a6f74ab73eae9efb27c6c408153c3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [04][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/8096f00179de73a207b82f3840b2e370ff78ae15</link>
 			<title>[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [04][1080p][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-27T03:20:16.475432</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1033266816" url="https://mikanani.me/Download/20250127/83aafacc952aba3f561727ee74516e83a787f534.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 14 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/20c1425854f55013c3cdd67b07c5919370e3e2fc</link>
-			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 14 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 14 (ABEMA 1920x1080 AVC AAC MP4)[77.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/20c1425854f55013c3cdd67b07c5919370e3e2fc</link>
-				<contentLength>81631640</contentLength>
-				<pubDate>2025-01-27T03:15:23.732</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="81631640" url="https://mikanani.me/Download/20250127/20c1425854f55013c3cdd67b07c5919370e3e2fc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
