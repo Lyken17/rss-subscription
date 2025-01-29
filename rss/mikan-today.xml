@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill 'Kinomi Master' - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/add43da877aa935372bfbbf91743d2f9ed2d017f</link>
+			<title>[Up to 21°C] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill 'Kinomi Master' - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Hazure Skill 'Kinomi Master' - 05 (CR 1920x1080 AVC AAC MKV)[1.37 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/add43da877aa935372bfbbf91743d2f9ed2d017f</link>
+				<contentLength>1471026304</contentLength>
+				<pubDate>2025-01-29T12:35:34.923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250129/add43da877aa935372bfbbf91743d2f9ed2d017f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [27][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/73872b9a6cfbd67c7ee945ef12e98ee2b2021319</link>
 			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [27][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-27T22:01:14.221</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="258736128" url="https://mikanani.me/Download/20250127/770b59977f8d15e1747a8a5175789297418401b3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 这公司有我喜欢的人 / Kono Kaisha ni Suki na Hito ga Imasu - 04 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/68ae5caf86bcf3ddc029eff3a7da66aa38b61ac2</link>
-			<title>[Up to 21°C] 这公司有我喜欢的人 / Kono Kaisha ni Suki na Hito ga Imasu - 04 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 这公司有我喜欢的人 / Kono Kaisha ni Suki na Hito ga Imasu - 04 (B-Global 1920x1080 HEVC AAC MKV)[191.04 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/68ae5caf86bcf3ddc029eff3a7da66aa38b61ac2</link>
-				<contentLength>200319952</contentLength>
-				<pubDate>2025-01-27T22:01:06.631</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="200319952" url="https://mikanani.me/Download/20250127/68ae5caf86bcf3ddc029eff3a7da66aa38b61ac2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
