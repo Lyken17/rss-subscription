@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/60015a6b0f584e9d7985f7800dc21b44f1e2b515</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌][858.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/60015a6b0f584e9d7985f7800dc21b44f1e2b515</link>
-				<contentLength>900317824</contentLength>
-				<pubDate>2025-01-28T05:30:02.412</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="900317824" url="https://mikanani.me/Download/20250128/60015a6b0f584e9d7985f7800dc21b44f1e2b515.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8b446a23a91637444fe2646367d8b382c1884333</link>
 			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -867,6 +855,18 @@
 				<pubDate>2025-01-29T12:35:34.923</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250129/add43da877aa935372bfbbf91743d2f9ed2d017f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][27][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/95141b58729f575f62a54e19fffcf69656b51924</link>
+			<title>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][27][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][27][1080p][简日双语][395.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/95141b58729f575f62a54e19fffcf69656b51924</link>
+				<contentLength>414397248</contentLength>
+				<pubDate>2025-01-29T14:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="414397248" url="https://mikanani.me/Download/20250129/95141b58729f575f62a54e19fffcf69656b51924.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -6844,5 +6844,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250129/add43da877aa935372bfbbf91743d2f9ed2d017f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][27][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/95141b58729f575f62a54e19fffcf69656b51924</link>
+			<title>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][27][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][27][1080p][简日双语][395.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/95141b58729f575f62a54e19fffcf69656b51924</link>
+				<contentLength>414397248</contentLength>
+				<pubDate>2025-01-29T14:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="414397248" url="https://mikanani.me/Download/20250129/95141b58729f575f62a54e19fffcf69656b51924.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
