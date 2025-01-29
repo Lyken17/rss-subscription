@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8b446a23a91637444fe2646367d8b382c1884333</link>
-			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)[628.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8b446a23a91637444fe2646367d8b382c1884333</link>
-				<contentLength>658925184</contentLength>
-				<pubDate>2025-01-28T11:03:00.417</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="658925184" url="https://mikanani.me/Download/20250128/8b446a23a91637444fe2646367d8b382c1884333.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 吸血鬼马上死 / Kyuuketsuki Sugu Shinu / 吸血鬼すぐ死ぬ 10-bit 1080p HEVC BDRip [S1-S2 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/4757a7e5c7c6ba7b4633827538db35f8fb84f5cc</link>
 			<title>[VCB-Studio] 吸血鬼马上死 / Kyuuketsuki Sugu Shinu / 吸血鬼すぐ死ぬ 10-bit 1080p HEVC BDRip [S1-S2 Fin]</title>
@@ -963,6 +951,18 @@
 				<pubDate>2025-01-29T17:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="67860484096" url="https://mikanani.me/Download/20250129/220cb3a683013ae34c12152622292257be677d16.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 被我的手指扰乱吧。 / Ore no Yubi de Midarero (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/6a63a7c192bcf77f964747aa4a2ef56f2cfe3f4c</link>
+			<title>[H-Enc] 被我的手指扰乱吧。 / Ore no Yubi de Midarero (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 被我的手指扰乱吧。 / Ore no Yubi de Midarero (BDRip 1080p HEVC FLAC)[2.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a63a7c192bcf77f964747aa4a2ef56f2cfe3f4c</link>
+				<contentLength>2147483648</contentLength>
+				<pubDate>2025-01-29T18:29:47.457417</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250129/6a63a7c192bcf77f964747aa4a2ef56f2cfe3f4c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
