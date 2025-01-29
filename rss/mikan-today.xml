@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/64f9e15ba0800dbaeacad06052750571e930d490</link>
+			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 04 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64f9e15ba0800dbaeacad06052750571e930d490</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-01-30T02:28:30.542</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250130/64f9e15ba0800dbaeacad06052750571e930d490.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 57 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/5b25036bd6607144fdc9c16053f7a8360d013484</link>
 			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 57 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-28T21:30:52.477</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747162816" url="https://mikanani.me/Download/20250128/4a79c9a673495943751643df00cfce6aa31f0561.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 坂本日常 / SAKAMOTO DAYS [03] [1080p] [繁日内嵌] [2025年1月番]</guid>
-			<link>https://mikanani.me/Home/Episode/86ff565ddc4d2785b8a131a4cd7f3ab3c7716f50</link>
-			<title>[猎户手抄部] 坂本日常 / SAKAMOTO DAYS [03] [1080p] [繁日内嵌] [2025年1月番]</title>
-			<description>[猎户手抄部] 坂本日常 / SAKAMOTO DAYS [03] [1080p] [繁日内嵌] [2025年1月番][737.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86ff565ddc4d2785b8a131a4cd7f3ab3c7716f50</link>
-				<contentLength>773744256</contentLength>
-				<pubDate>2025-01-28T21:07:52.770283</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="773744256" url="https://mikanani.me/Download/20250128/86ff565ddc4d2785b8a131a4cd7f3ab3c7716f50.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
