@@ -760,5 +760,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="601704384" url="https://mikanani.me/Download/20250130/c42169e17d40adef40f59ceb8236dc7a3f91bc9c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 龙王的工作！ / Ryuuou no Oshigoto! / りゅうおうのおしごと！ 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/517a047fa5cafccdc8b36dc0f682594089a3aa3f</link>
+			<title>[VCB-Studio] 龙王的工作！ / Ryuuou no Oshigoto! / りゅうおうのおしごと！ 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] 龙王的工作！ / Ryuuou no Oshigoto! / りゅうおうのおしごと！ 10-bit 1080p HEVC BDRip [Reseed Fin][22.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/517a047fa5cafccdc8b36dc0f682594089a3aa3f</link>
+				<contentLength>24051816448</contentLength>
+				<pubDate>2025-01-30T17:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24051816448" url="https://mikanani.me/Download/20250130/517a047fa5cafccdc8b36dc0f682594089a3aa3f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

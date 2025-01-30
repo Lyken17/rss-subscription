@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 龙王的工作！ / Ryuuou no Oshigoto! / りゅうおうのおしごと！ 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/517a047fa5cafccdc8b36dc0f682594089a3aa3f</link>
+			<title>[VCB-Studio] 龙王的工作！ / Ryuuou no Oshigoto! / りゅうおうのおしごと！ 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] 龙王的工作！ / Ryuuou no Oshigoto! / りゅうおうのおしごと！ 10-bit 1080p HEVC BDRip [Reseed Fin][22.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/517a047fa5cafccdc8b36dc0f682594089a3aa3f</link>
+				<contentLength>24051816448</contentLength>
+				<pubDate>2025-01-30T17:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24051816448" url="https://mikanani.me/Download/20250130/517a047fa5cafccdc8b36dc0f682594089a3aa3f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c42169e17d40adef40f59ceb8236dc7a3f91bc9c</link>
 			<title>[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-28T22:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250128/87d855dff59e5a992a70b3aed7d3b549eb8b1eea.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 妖怪学校的新人教师 / Youkai Gakkou no Sensei Hajimemashita! - 16 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7cb9664cdc8cb83f8c79a375cf41ff488020e954</link>
-			<title>[Up to 21°C] 妖怪学校的新人教师 / Youkai Gakkou no Sensei Hajimemashita! - 16 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 妖怪学校的新人教师 / Youkai Gakkou no Sensei Hajimemashita! - 16 (B-Global 1920x1080 HEVC AAC MKV)[307.05 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7cb9664cdc8cb83f8c79a375cf41ff488020e954</link>
-				<contentLength>321965248</contentLength>
-				<pubDate>2025-01-28T22:01:38.271</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="321965248" url="https://mikanani.me/Download/20250128/7cb9664cdc8cb83f8c79a375cf41ff488020e954.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
