@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/af6cf386d225f77d891f008ab952cae0e6a2c861</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][480.89 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af6cf386d225f77d891f008ab952cae0e6a2c861</link>
+				<contentLength>504249728</contentLength>
+				<pubDate>2025-01-30T08:02:54.388</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="504249728" url="https://mikanani.me/Download/20250130/af6cf386d225f77d891f008ab952cae0e6a2c861.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 04 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/64f9e15ba0800dbaeacad06052750571e930d490</link>
 			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 04 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-01-28T21:35:20.542777</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="221668960" url="https://mikanani.me/Download/20250128/9213460c1cc6a3afed14c59d2d9d22f0be6f8e7a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4a79c9a673495943751643df00cfce6aa31f0561</link>
-			<title>[Up to 21°C] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 03 (ABEMA 1920x1080 AVC AAC MP4)[712.55 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a79c9a673495943751643df00cfce6aa31f0561</link>
-				<contentLength>747162816</contentLength>
-				<pubDate>2025-01-28T21:30:52.477</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747162816" url="https://mikanani.me/Download/20250128/4a79c9a673495943751643df00cfce6aa31f0561.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
