@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 世界第一初恋 / Sekaiichi Hatsukoi / 世界一初恋 10-bit 1080p HEVC BDRip [S1-S2 + OVAs + MOVIE x 2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/677eb2001c3842cecb7862f634d9a69c2e90a48e</link>
+			<title>[VCB-Studio] 世界第一初恋 / Sekaiichi Hatsukoi / 世界一初恋 10-bit 1080p HEVC BDRip [S1-S2 + OVAs + MOVIE x 2 Fin]</title>
+			<description>[VCB-Studio] 世界第一初恋 / Sekaiichi Hatsukoi / 世界一初恋 10-bit 1080p HEVC BDRip [S1-S2 + OVAs + MOVIE x 2 Fin][17.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/677eb2001c3842cecb7862f634d9a69c2e90a48e</link>
+				<contentLength>18360985600</contentLength>
+				<pubDate>2025-01-31T14:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18360985600" url="https://mikanani.me/Download/20250131/677eb2001c3842cecb7862f634d9a69c2e90a48e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 06 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/656972abc679f4e7adb6f1f5b1cece49f7e5e63b</link>
 			<title>[Up to 21°C] 时光代理人 英都篇 / Link Click Bridon Arc - 06 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-29T23:01:03.659</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751933824" url="https://mikanani.me/Download/20250129/5efed4a14f0cc3aae1da757271e21d708675497c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">22yrs ago - [1963-1993] 8 Man_エイトマン_TV.OVA</guid>
-			<link>https://mikanani.me/Home/Episode/1a27b75b0a431f394e8bc78fd0aa1080d3c8339a</link>
-			<title>22yrs ago - [1963-1993] 8 Man_エイトマン_TV.OVA</title>
-			<description>22yrs ago - [1963-1993] 8 Man_エイトマン_TV.OVA[51.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1a27b75b0a431f394e8bc78fd0aa1080d3c8339a</link>
-				<contentLength>55082954752</contentLength>
-				<pubDate>2025-01-29T22:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="55082954752" url="https://mikanani.me/Download/20250129/1a27b75b0a431f394e8bc78fd0aa1080d3c8339a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

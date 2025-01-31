@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/24ce774122c1eb4ec5301010f0e6e336230d9c2d</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][810.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/24ce774122c1eb4ec5301010f0e6e336230d9c2d</link>
-				<contentLength>849692608</contentLength>
-				<pubDate>2025-01-24T05:58:34.777</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="849692608" url="https://mikanani.me/Download/20250124/24ce774122c1eb4ec5301010f0e6e336230d9c2d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 无名记忆 Act.2 / 无名记忆 Act.2 / Unnamed Memory Act.2 - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e148b1d928a135daeb0ef43d3459207baab31dba</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 无名记忆 Act.2 / 无名记忆 Act.2 / Unnamed Memory Act.2 - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -6519,6 +6507,18 @@
 				<pubDate>2025-01-31T12:29:54.934</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746019904" url="https://mikanani.me/Download/20250131/7b0449ea2fff3bfeb3755021fbe6564db6a32393.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 世界第一初恋 / Sekaiichi Hatsukoi / 世界一初恋 10-bit 1080p HEVC BDRip [S1-S2 + OVAs + MOVIE x 2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/677eb2001c3842cecb7862f634d9a69c2e90a48e</link>
+			<title>[VCB-Studio] 世界第一初恋 / Sekaiichi Hatsukoi / 世界一初恋 10-bit 1080p HEVC BDRip [S1-S2 + OVAs + MOVIE x 2 Fin]</title>
+			<description>[VCB-Studio] 世界第一初恋 / Sekaiichi Hatsukoi / 世界一初恋 10-bit 1080p HEVC BDRip [S1-S2 + OVAs + MOVIE x 2 Fin][17.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/677eb2001c3842cecb7862f634d9a69c2e90a48e</link>
+				<contentLength>18360985600</contentLength>
+				<pubDate>2025-01-31T14:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18360985600" url="https://mikanani.me/Download/20250131/677eb2001c3842cecb7862f634d9a69c2e90a48e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
