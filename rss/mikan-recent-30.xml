@@ -30604,5 +30604,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="18360985600" url="https://mikanani.me/Download/20250131/677eb2001c3842cecb7862f634d9a69c2e90a48e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 指尖传出的真挚热情 / Yubisaki kara Honki no Netsujou (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/cac11696ab8341190700e9932cdb7297df735b5c</link>
+			<title>[H-Enc] 指尖传出的真挚热情 / Yubisaki kara Honki no Netsujou (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 指尖传出的真挚热情 / Yubisaki kara Honki no Netsujou (BDRip 1080p HEVC FLAC)[3.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cac11696ab8341190700e9932cdb7297df735b5c</link>
+				<contentLength>3650722304</contentLength>
+				<pubDate>2025-01-31T15:12:18.063503</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3650722304" url="https://mikanani.me/Download/20250131/cac11696ab8341190700e9932cdb7297df735b5c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
