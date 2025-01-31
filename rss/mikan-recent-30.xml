@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
-			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][13][1080p][繁日双语][招募翻译][187.02 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3254c7dfe243a78ab982f28fb6df11d2b635dcb4</link>
-				<contentLength>196104688</contentLength>
-				<pubDate>2025-01-01T01:24:23.611</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="196104688" url="https://mikanani.me/Download/20250101/3254c7dfe243a78ab982f28fb6df11d2b635dcb4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂]</guid>
 			<link>https://mikanani.me/Home/Episode/959155338246501fa54f5005ae2a02729cd49470</link>
 			<title>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[11][1080P][MKV][繁体外挂]</title>
@@ -30507,6 +30495,18 @@
 				<pubDate>2025-01-31T03:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371300768" url="https://mikanani.me/Download/20250131/3d2058cf8949096231b642718d43f948ef171baa.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9a35d548d124e48a2581ce17120fa72ebb1bc6d1</link>
+			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)[728.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a35d548d124e48a2581ce17120fa72ebb1bc6d1</link>
+				<contentLength>763426240</contentLength>
+				<pubDate>2025-01-31T10:03:23.637</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="763426240" url="https://mikanani.me/Download/20250131/9a35d548d124e48a2581ce17120fa72ebb1bc6d1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

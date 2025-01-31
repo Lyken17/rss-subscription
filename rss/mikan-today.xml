@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9a35d548d124e48a2581ce17120fa72ebb1bc6d1</link>
+			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)[728.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a35d548d124e48a2581ce17120fa72ebb1bc6d1</link>
+				<contentLength>763426240</contentLength>
+				<pubDate>2025-01-31T10:03:23.637</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="763426240" url="https://mikanani.me/Download/20250131/9a35d548d124e48a2581ce17120fa72ebb1bc6d1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 中年大叔转生反派千金 / Akuyaku Reijou Tensei Ojisan - 04 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/3d2058cf8949096231b642718d43f948ef171baa</link>
 			<title>[Skymoon-Raws] 中年大叔转生反派千金 / Akuyaku Reijou Tensei Ojisan - 04 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-29T22:21:10.181001</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="688285312" url="https://mikanani.me/Download/20250129/fc71decb6e1ff4747a7ead8b6b28bd39ca3c5ab2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][04][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/fcc6114779d3004b32c5b759044e1843b42d456f</link>
-			<title>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][04][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][04][1080p][简日双语][713.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fcc6114779d3004b32c5b759044e1843b42d456f</link>
-				<contentLength>747844416</contentLength>
-				<pubDate>2025-01-29T21:37:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747844416" url="https://mikanani.me/Download/20250129/fcc6114779d3004b32c5b759044e1843b42d456f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
