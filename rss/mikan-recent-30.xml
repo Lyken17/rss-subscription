@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[一念永恒][第136集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
-			<title>[一念永恒][第136集][国语中字][WEB-MKV][2160P]</title>
-			<description>[一念永恒][第136集][国语中字][WEB-MKV][2160P][425.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7d922c04d0821be94233ab2ea77947d096a29445</link>
-				<contentLength>445959360</contentLength>
-				<pubDate>2025-01-01T20:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="445959360" url="https://mikanani.me/Download/20250101/7d922c04d0821be94233ab2ea77947d096a29445.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
-			<title>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P]</title>
-			<description>[徒弟个个是大佬][第21-22集][国语中字][WEB-MKV][2160P][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/42319907567417ca8754a1765b85eb060e121509</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-01-01T19:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250101/42319907567417ca8754a1765b85eb060e121509.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&amp;繁日][我出生的那一天][数码修复版][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/a7c318d3236e116f1f5b330e1e6a21235c19a4c9</link>
 			<title>[哆啦字幕组][哆啦A梦大山版附映中篇 Doraemon1979][2002.3.9][1080P][WEB][简日&amp;繁日][我出生的那一天][数码修复版][MKV]</title>
@@ -31011,6 +30987,30 @@
 				<pubDate>2025-02-01T02:24:15.386</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="282538816" url="https://mikanani.me/Download/20250201/ea05e3407de9dd59b4e3509197ff69069024ee7f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/62c14e9afeeea93a23fd52506a9a7a9207c96f1a</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][简体][1080P][MP4][385.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62c14e9afeeea93a23fd52506a9a7a9207c96f1a</link>
+				<contentLength>404330912</contentLength>
+				<pubDate>2025-02-01T03:20:02.348</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="404330912" url="https://mikanani.me/Download/20250201/62c14e9afeeea93a23fd52506a9a7a9207c96f1a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/ed07accb953559081bdf219c57d72d6f038bf922</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][繁体][1080P][MP4][385.39 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed07accb953559081bdf219c57d72d6f038bf922</link>
+				<contentLength>404110720</contentLength>
+				<pubDate>2025-02-01T03:19:53.429</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="404110720" url="https://mikanani.me/Download/20250201/ed07accb953559081bdf219c57d72d6f038bf922.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

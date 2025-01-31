@@ -1492,5 +1492,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="282538816" url="https://mikanani.me/Download/20250201/ea05e3407de9dd59b4e3509197ff69069024ee7f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/62c14e9afeeea93a23fd52506a9a7a9207c96f1a</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][简体][1080P][MP4][385.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62c14e9afeeea93a23fd52506a9a7a9207c96f1a</link>
+				<contentLength>404330912</contentLength>
+				<pubDate>2025-02-01T03:20:02.348</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="404330912" url="https://mikanani.me/Download/20250201/62c14e9afeeea93a23fd52506a9a7a9207c96f1a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/ed07accb953559081bdf219c57d72d6f038bf922</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][28][繁体][1080P][MP4][385.39 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed07accb953559081bdf219c57d72d6f038bf922</link>
+				<contentLength>404110720</contentLength>
+				<pubDate>2025-02-01T03:19:53.429</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="404110720" url="https://mikanani.me/Download/20250201/ed07accb953559081bdf219c57d72d6f038bf922.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
