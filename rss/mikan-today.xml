@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/44c5c9d284e74eb5193eb621c2ae5a67baf9d72a</link>
+			<title>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 05 (CR 1920x1080 AVC AAC MKV)[1.37 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44c5c9d284e74eb5193eb621c2ae5a67baf9d72a</link>
+				<contentLength>1471026304</contentLength>
+				<pubDate>2025-02-02T02:19:24.843</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250202/44c5c9d284e74eb5193eb621c2ae5a67baf9d72a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 05 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/52a4fe5189a5c1870f02d291d34895d1fa46ecbf</link>
 			<title>[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 05 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-01T00:01:13.51</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="226691648" url="https://mikanani.me/Download/20250201/a6bdb2cd9017c37d838e67a8b5ff6d90eac77cd6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  我和班上最讨厌的女生结婚了。 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/04c0ddec68aef2b54a9f03dd32a007268377de0d</link>
-			<title>[ANi]  我和班上最讨厌的女生结婚了。 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  我和班上最讨厌的女生结婚了。 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][299.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/04c0ddec68aef2b54a9f03dd32a007268377de0d</link>
-				<contentLength>313629088</contentLength>
-				<pubDate>2025-02-01T00:01:02.494002</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="313629088" url="https://mikanani.me/Download/20250201/04c0ddec68aef2b54a9f03dd32a007268377de0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
