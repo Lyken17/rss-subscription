@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/a9320f6a8e2c8e1eb0934a7af7a494b732dfdbca</link>
+			<title>[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 04 (ABEMA 1920x1080 AVC AAC MP4)[729.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a9320f6a8e2c8e1eb0934a7af7a494b732dfdbca</link>
+				<contentLength>764841792</contentLength>
+				<pubDate>2025-02-01T10:30:51.486</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="764841792" url="https://mikanani.me/Download/20250201/a9320f6a8e2c8e1eb0934a7af7a494b732dfdbca.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 37 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/71c0dcddc508a2112ea12f53de7846ee4c354008</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 37 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-30T23:43:43.753</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="321273216" url="https://mikanani.me/Download/20250130/53fe8c89eba17814ce3905fc468099b2e596224e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [04][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/de0c9e55265faafee859304ceb4f214c95478b92</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [04][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [04][1080p][简体内嵌][660.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/de0c9e55265faafee859304ceb4f214c95478b92</link>
-				<contentLength>692416704</contentLength>
-				<pubDate>2025-01-30T23:42:18.118</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="692416704" url="https://mikanani.me/Download/20250130/de0c9e55265faafee859304ceb4f214c95478b92.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
