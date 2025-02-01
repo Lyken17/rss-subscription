@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8f15ca07a287dc0ecce37800d3b80197766d6e33</link>
-			<title>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][504.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f15ca07a287dc0ecce37800d3b80197766d6e33</link>
-				<contentLength>529132416</contentLength>
-				<pubDate>2025-01-02T23:09:02.542</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="529132416" url="https://mikanani.me/Download/20250102/8f15ca07a287dc0ecce37800d3b80197766d6e33.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/1027006b70db1ddb92361f90d2ec396634f43964</link>
 			<title>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2007,6 +1995,18 @@
 				<pubDate>2025-02-02T04:06:20.528</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="446336864" url="https://mikanani.me/Download/20250202/1425a49173b77d4f2569202f6044500689cdc461.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7fa828abbd9d8f33c51d3385e7127f222812f0ed</link>
+			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][598 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7fa828abbd9d8f33c51d3385e7127f222812f0ed</link>
+				<contentLength>627048448</contentLength>
+				<pubDate>2025-02-02T06:26:17.697</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="627048448" url="https://mikanani.me/Download/20250202/7fa828abbd9d8f33c51d3385e7127f222812f0ed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
