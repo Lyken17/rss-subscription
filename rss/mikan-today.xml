@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7a45d755f9ed0b9c9632e7f05d56b85a1922113a</link>
+			<title>[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][471.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a45d755f9ed0b9c9632e7f05d56b85a1922113a</link>
+				<contentLength>494330176</contentLength>
+				<pubDate>2025-02-01T20:18:21.184</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="494330176" url="https://mikanani.me/Download/20250201/7a45d755f9ed0b9c9632e7f05d56b85a1922113a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][05][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/52edbe3792c8e24e66f45e0054f74e22db9d51df</link>
+			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][05][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][05][1080p][简日双语][招募翻译][301.05 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/52edbe3792c8e24e66f45e0054f74e22db9d51df</link>
+				<contentLength>315673792</contentLength>
+				<pubDate>2025-02-01T20:14:09.198</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="315673792" url="https://mikanani.me/Download/20250201/52edbe3792c8e24e66f45e0054f74e22db9d51df.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 05 (1080p HEVC AAC 简中)</guid>
 			<link>https://mikanani.me/Home/Episode/f07dab422de415d7d475bed40099b9e2cf016156</link>
 			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 05 (1080p HEVC AAC 简中)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-01-31T00:58:32.933552</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309959072" url="https://mikanani.me/Download/20250131/4c9a0f10ffda1a4cf8f44884469ee5b4498fb6d8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][05][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/ff0ad21d47fe8068a7cb8c78ef70c3a7b0281635</link>
-			<title>【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][05][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][05][1080p][简日双语][招募翻译][447.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ff0ad21d47fe8068a7cb8c78ef70c3a7b0281635</link>
-				<contentLength>468818336</contentLength>
-				<pubDate>2025-01-31T00:58:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="468818336" url="https://mikanani.me/Download/20250131/ff0ad21d47fe8068a7cb8c78ef70c3a7b0281635.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【动漫国字幕组】★04月新番[终末列车前往何方?][01-12][1080P][繁体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7d9511d62db81bc9b10339ad1802d9dbcfd8361b</link>
-			<title>【动漫国字幕组】★04月新番[终末列车前往何方?][01-12][1080P][繁体][MP4]</title>
-			<description>【动漫国字幕组】★04月新番[终末列车前往何方?][01-12][1080P][繁体][MP4][5.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7d9511d62db81bc9b10339ad1802d9dbcfd8361b</link>
-				<contentLength>5905580032</contentLength>
-				<pubDate>2025-01-31T00:46:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5905580032" url="https://mikanani.me/Download/20250131/7d9511d62db81bc9b10339ad1802d9dbcfd8361b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

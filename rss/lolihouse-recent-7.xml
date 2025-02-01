@@ -364,5 +364,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="870957696" url="https://mikanani.me/Download/20250201/b5db00d027391e721a082a5a5da331f33dc2b97c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7a45d755f9ed0b9c9632e7f05d56b85a1922113a</link>
+			<title>[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][471.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a45d755f9ed0b9c9632e7f05d56b85a1922113a</link>
+				<contentLength>494330176</contentLength>
+				<pubDate>2025-02-01T20:18:21.184</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="494330176" url="https://mikanani.me/Download/20250201/7a45d755f9ed0b9c9632e7f05d56b85a1922113a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
