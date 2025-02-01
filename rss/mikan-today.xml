@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 天才王子的赤字国家振兴术 / Tensai Ouji no Akaji Kokka Saisei Jutsu / 天才王子の赤字国家再生术 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/eadf156a59939d19e75e5c273893fbcc9282f621</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 天才王子的赤字国家振兴术 / Tensai Ouji no Akaji Kokka Saisei Jutsu / 天才王子の赤字国家再生术 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 天才王子的赤字国家振兴术 / Tensai Ouji no Akaji Kokka Saisei Jutsu / 天才王子の赤字国家再生术 10-bit 1080p HEVC BDRip [Fin][19.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eadf156a59939d19e75e5c273893fbcc9282f621</link>
+				<contentLength>20830590976</contentLength>
+				<pubDate>2025-02-01T12:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20830590976" url="https://mikanani.me/Download/20250201/eadf156a59939d19e75e5c273893fbcc9282f621.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 青之箱 - 17 [NF WebRip Ai2160p HEVC-10bit E-AC-3][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6fa5e212d869a170cc2686e6922b066b25722e58</link>
 			<title>[新沸羊羊制作] 青之箱 - 17 [NF WebRip Ai2160p HEVC-10bit E-AC-3][官方简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-30T23:45:31.13</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="692175488" url="https://mikanani.me/Download/20250130/7f4f1ea874c420f129809ab982e3b1bcdbaa6cda.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] BanG Dream! Ave Mujica / 颂乐人偶 [03][WebRip][HEVC_AAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/e4ee0ca6c786e2ce283a05b43f1b9e2404cbd453</link>
-			<title>[北宇治字幕组] BanG Dream! Ave Mujica / 颂乐人偶 [03][WebRip][HEVC_AAC][简繁日内封]</title>
-			<description>[北宇治字幕组] BanG Dream! Ave Mujica / 颂乐人偶 [03][WebRip][HEVC_AAC][简繁日内封][299.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4ee0ca6c786e2ce283a05b43f1b9e2404cbd453</link>
-				<contentLength>313712960</contentLength>
-				<pubDate>2025-01-30T23:43:58.71</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="313712960" url="https://mikanani.me/Download/20250130/e4ee0ca6c786e2ce283a05b43f1b9e2404cbd453.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
