@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)</guid>
+			<link>https://mikanani.me/Home/Episode/49bb54f8ca859fa57fc6810e3c16d05015db598f</link>
+			<title>贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)</title>
+			<description>贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)[952.04 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49bb54f8ca859fa57fc6810e3c16d05015db598f</link>
+				<contentLength>998286272</contentLength>
+				<pubDate>2025-02-02T05:09:55.053</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="998286272" url="https://mikanani.me/Download/20250202/49bb54f8ca859fa57fc6810e3c16d05015db598f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 我与尼特女忍者的莫名同居生活 / NEET Kunoichi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/1425a49173b77d4f2569202f6044500689cdc461</link>
 			<title>[LoliHouse] 我与尼特女忍者的莫名同居生活 / NEET Kunoichi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-01T00:39:53.03</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="382562464" url="https://mikanani.me/Download/20250201/50b19dbc4471185d15befab23129fd9658d13a83.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 青之箱 / 蓝箱 / Ao no Hako / Blue Box [16][WebRip][HEVC_AAC][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b7aab08636b53d23c12a5e38a7e660795b935c21</link>
-			<title>[北宇治字幕组] 青之箱 / 蓝箱 / Ao no Hako / Blue Box [16][WebRip][HEVC_AAC][简日内嵌]</title>
-			<description>[北宇治字幕组] 青之箱 / 蓝箱 / Ao no Hako / Blue Box [16][WebRip][HEVC_AAC][简日内嵌][379.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b7aab08636b53d23c12a5e38a7e660795b935c21</link>
-				<contentLength>397861184</contentLength>
-				<pubDate>2025-02-01T00:39:47.777</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397861184" url="https://mikanani.me/Download/20250201/b7aab08636b53d23c12a5e38a7e660795b935c21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

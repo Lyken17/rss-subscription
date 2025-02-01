@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="413663232" url="https://mikanani.me/Download/20250131/af9caf46f027f5e1a58d678ca1ff288492e124dd.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][05][WebRip][1080P][AVC 8bit][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/eeb9b2539cc11d90dc6bfc1f0d68f49f74d80111</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][05][WebRip][1080P][AVC 8bit][简体内嵌]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][05][WebRip][1080P][AVC 8bit][简体内嵌][815.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eeb9b2539cc11d90dc6bfc1f0d68f49f74d80111</link>
-				<contentLength>855113728</contentLength>
-				<pubDate>2025-01-31T20:58:16.203</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="855113728" url="https://mikanani.me/Download/20250131/eeb9b2539cc11d90dc6bfc1f0d68f49f74d80111.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 欢迎来到日本，精灵小姐 / Nihon e Youkoso Elf-san. - 04 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/fadadc3d451929f70e91c83871804eae58310346</link>
 			<title>[Up to 21°C] 欢迎来到日本，精灵小姐 / Nihon e Youkoso Elf-san. - 04 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1527,6 +1515,18 @@
 				<pubDate>2025-02-02T03:28:38.274</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350528480" url="https://mikanani.me/Download/20250202/86963d7e6a35c9b27cce455fd063318e41b65a3e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)</guid>
+			<link>https://mikanani.me/Home/Episode/49bb54f8ca859fa57fc6810e3c16d05015db598f</link>
+			<title>贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)</title>
+			<description>贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)[952.04 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49bb54f8ca859fa57fc6810e3c16d05015db598f</link>
+				<contentLength>998286272</contentLength>
+				<pubDate>2025-02-02T05:09:55.053</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="998286272" url="https://mikanani.me/Download/20250202/49bb54f8ca859fa57fc6810e3c16d05015db598f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
