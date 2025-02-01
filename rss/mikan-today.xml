@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][圣战士丹拜因/Seisenshi Dunbine][01-49TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](圣戦士ダンバイン)</guid>
+			<link>https://mikanani.me/Home/Episode/fb193834548fd40d9d26ec1fe4a35ae123ebb0e4</link>
+			<title>[DBD-Raws][圣战士丹拜因/Seisenshi Dunbine][01-49TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](圣戦士ダンバイン)</title>
+			<description>[DBD-Raws][圣战士丹拜因/Seisenshi Dunbine][01-49TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](圣戦士ダンバイン)[56.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fb193834548fd40d9d26ec1fe4a35ae123ebb0e4</link>
+				<contentLength>60773785600</contentLength>
+				<pubDate>2025-02-01T15:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="60773785600" url="https://mikanani.me/Download/20250201/fb193834548fd40d9d26ec1fe4a35ae123ebb0e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 天才王子的赤字国家振兴术 / Tensai Ouji no Akaji Kokka Saisei Jutsu / 天才王子の赤字国家再生术 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/eadf156a59939d19e75e5c273893fbcc9282f621</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 天才王子的赤字国家振兴术 / Tensai Ouji no Akaji Kokka Saisei Jutsu / 天才王子の赤字国家再生术 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-01-30T23:47:17.741</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="506242016" url="https://mikanani.me/Download/20250130/8c23453c08e2e8cbff04cccd4af61ad0c880c2c6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [04][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/7f4f1ea874c420f129809ab982e3b1bcdbaa6cda</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [04][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [04][1080p][繁体内嵌][660.11 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7f4f1ea874c420f129809ab982e3b1bcdbaa6cda</link>
-				<contentLength>692175488</contentLength>
-				<pubDate>2025-01-30T23:45:31.13</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="692175488" url="https://mikanani.me/Download/20250130/7f4f1ea874c420f129809ab982e3b1bcdbaa6cda.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
