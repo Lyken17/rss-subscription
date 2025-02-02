@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e</link>
+			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)[237.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e</link>
+				<contentLength>248890000</contentLength>
+				<pubDate>2025-02-03T04:45:38.338</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248890000" url="https://mikanani.me/Download/20250203/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9f3ad266de4d08d2d26a233d931807bdba0340d8</link>
 			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-02-02T03:28:48.021</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350727712" url="https://mikanani.me/Download/20250202/de44d49f348113109a2f29b4bd578daa3446ed95.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 雪之尽头篇 / Ao no Exorcist _Yuki no Hate Hen][05][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/86963d7e6a35c9b27cce455fd063318e41b65a3e</link>
-			<title>【豌豆字幕组】[青之驱魔师 雪之尽头篇 / Ao no Exorcist _Yuki no Hate Hen][05][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[青之驱魔师 雪之尽头篇 / Ao no Exorcist _Yuki no Hate Hen][05][繁体][1080P][MP4][334.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86963d7e6a35c9b27cce455fd063318e41b65a3e</link>
-				<contentLength>350528480</contentLength>
-				<pubDate>2025-02-02T03:28:38.274</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="350528480" url="https://mikanani.me/Download/20250202/86963d7e6a35c9b27cce455fd063318e41b65a3e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
