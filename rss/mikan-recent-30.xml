@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][14][WEBrip][1080P][简日双语][462.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf</link>
-				<contentLength>484861536</contentLength>
-				<pubDate>2025-01-03T04:39:28.670145</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250103/dc4094573bf42d20089c0cd6ffa1fd79b91b45bf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/5e19d429a936ec054532fc7e160a6e61b0cb9039</link>
 			<title>[Up to 21°C] 今天的晚餐就是你 / Mythical Creatures Are My Dinners - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -31107,6 +31095,30 @@
 				<pubDate>2025-02-02T11:54:44.765</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="332660736" url="https://mikanani.me/Download/20250202/223070ad84c442a1d260b7378638f9e0ee272478.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 530(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3dd800075b0db8c9953425c4c0c0a99cb7651ac7</link>
+			<title>[Up to 21°C] 海贼王 / One Piece - 530(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 海贼王 / One Piece - 530(retake (B-Global 3840x2160 HEVC AAC MKV)[1.16 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3dd800075b0db8c9953425c4c0c0a99cb7651ac7</link>
+				<contentLength>1245540480</contentLength>
+				<pubDate>2025-02-02T13:05:23.389</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1245540480" url="https://mikanani.me/Download/20250202/3dd800075b0db8c9953425c4c0c0a99cb7651ac7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 怪异与少女与神隐 / Kaii to Otome to Kamikakushi / 怪异と乙女と神隠し 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/e5924b1fbb62f2b5fda24537232d949a25b6ed0b</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 怪异与少女与神隐 / Kaii to Otome to Kamikakushi / 怪异と乙女と神隠し 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 怪异与少女与神隐 / Kaii to Otome to Kamikakushi / 怪异と乙女と神隠し 10-bit 1080p HEVC BDRip [Fin][17.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e5924b1fbb62f2b5fda24537232d949a25b6ed0b</link>
+				<contentLength>18468360192</contentLength>
+				<pubDate>2025-02-02T13:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18468360192" url="https://mikanani.me/Download/20250202/e5924b1fbb62f2b5fda24537232d949a25b6ed0b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
