@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [01][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</guid>
+			<link>https://mikanani.me/Home/Episode/92026fb701bc1c99ed2afb668a02043851cb7657</link>
+			<title>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [01][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</title>
+			<description>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [01][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）[881.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92026fb701bc1c99ed2afb668a02043851cb7657</link>
+				<contentLength>924110016</contentLength>
+				<pubDate>2025-02-04T03:51:45.332045</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="924110016" url="https://mikanani.me/Download/20250204/92026fb701bc1c99ed2afb668a02043851cb7657.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/814d37e429b28ae7974f778a15be689d09d1f695</link>
 			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-02T21:01:08.357</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="753244544" url="https://mikanani.me/Download/20250202/538ea717ede04abc3b19d531ef8c3be440461c3a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 我想跷掉太子妃培训 / Kisaki Kyouiku kara Nigetai Watashi - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/859323c3cfa9a26409f8e5f762ab704192ee538d</link>
-			<title>[Up to 21°C] 我想跷掉太子妃培训 / Kisaki Kyouiku kara Nigetai Watashi - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 我想跷掉太子妃培训 / Kisaki Kyouiku kara Nigetai Watashi - 05 (Baha 1920x1080 AVC AAC MP4)[298.42 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/859323c3cfa9a26409f8e5f762ab704192ee538d</link>
-				<contentLength>312916064</contentLength>
-				<pubDate>2025-02-02T21:00:58.954</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="312916064" url="https://mikanani.me/Download/20250202/859323c3cfa9a26409f8e5f762ab704192ee538d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
