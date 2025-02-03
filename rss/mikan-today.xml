@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 相亲对象是强硬的问题学生 / Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/f1d1cc5188a3d86e7cf2b92583480c7bf8451d33</link>
+			<title>[H-Enc] 相亲对象是强硬的问题学生 / Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 相亲对象是强硬的问题学生 / Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji (BDRip 1080p HEVC FLAC)[1.8 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1d1cc5188a3d86e7cf2b92583480c7bf8451d33</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2025-02-04T04:21:00.780074</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250204/f1d1cc5188a3d86e7cf2b92583480c7bf8451d33.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [01][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</guid>
 			<link>https://mikanani.me/Home/Episode/92026fb701bc1c99ed2afb668a02043851cb7657</link>
 			<title>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [01][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-02T21:01:08.890883</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="313524224" url="https://mikanani.me/Download/20250202/f234c747c0feaf98e482a95e5963d222be2074a0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/538ea717ede04abc3b19d531ef8c3be440461c3a</link>
-			<title>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 04 (ABEMA 1920x1080 AVC AAC MP4)[718.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/538ea717ede04abc3b19d531ef8c3be440461c3a</link>
-				<contentLength>753244544</contentLength>
-				<pubDate>2025-02-02T21:01:08.357</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="753244544" url="https://mikanani.me/Download/20250202/538ea717ede04abc3b19d531ef8c3be440461c3a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
