@@ -5800,5 +5800,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="675188544" url="https://mikanani.me/Download/20250203/4fa78b07217cd97466a9567b8151dca3feb5a410.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/af53b74dfee5ab0562da0e21c1381ffe934ac07a</link>
+			<title>[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin][13.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af53b74dfee5ab0562da0e21c1381ffe934ac07a</link>
+				<contentLength>13958643712</contentLength>
+				<pubDate>2025-02-03T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13958643712" url="https://mikanani.me/Download/20250203/af53b74dfee5ab0562da0e21c1381ffe934ac07a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/af53b74dfee5ab0562da0e21c1381ffe934ac07a</link>
+			<title>[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin][13.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af53b74dfee5ab0562da0e21c1381ffe934ac07a</link>
+				<contentLength>13958643712</contentLength>
+				<pubDate>2025-02-03T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13958643712" url="https://mikanani.me/Download/20250203/af53b74dfee5ab0562da0e21c1381ffe934ac07a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4fa78b07217cd97466a9567b8151dca3feb5a410</link>
 			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-02-02T06:06:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="261619712" url="https://mikanani.me/Download/20250202/c2b400d9ce6e8a61dce1b6944fe78fa565335aa1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)</guid>
-			<link>https://mikanani.me/Home/Episode/49bb54f8ca859fa57fc6810e3c16d05015db598f</link>
-			<title>贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)</title>
-			<description>贝希猫／贝希猫 - EP06 [TV通常版／18+无雾气版] [简／繁] (1080p MUSE H.264 AAC2.0+DDP2.0 SRTx2)[952.04 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49bb54f8ca859fa57fc6810e3c16d05015db598f</link>
-				<contentLength>998286272</contentLength>
-				<pubDate>2025-02-02T05:09:55.053</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="998286272" url="https://mikanani.me/Download/20250202/49bb54f8ca859fa57fc6810e3c16d05015db598f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
