@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 19 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/56ae0f0fa7c3cecfa706ce495aef53986fa61136</link>
+			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 19 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 19 (B-Global Donghua 2048x870 HEVC AAC MKV)[579.39 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56ae0f0fa7c3cecfa706ce495aef53986fa61136</link>
+				<contentLength>607534464</contentLength>
+				<pubDate>2025-02-03T10:02:45.437</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="607534464" url="https://mikanani.me/Download/20250203/56ae0f0fa7c3cecfa706ce495aef53986fa61136.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 38 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/496f1adb4f5e2429354d9aeea67cbcaff7b373e9</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 38 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-02-02T04:06:20.528</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="446336864" url="https://mikanani.me/Download/20250202/1425a49173b77d4f2569202f6044500689cdc461.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ca7f3c1d325e70dc76488b59e55bbc1b72baaee5</link>
-			<title>[Up to 21°C] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 04 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ca7f3c1d325e70dc76488b59e55bbc1b72baaee5</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2025-02-02T04:06:01.571</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250202/ca7f3c1d325e70dc76488b59e55bbc1b72baaee5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
