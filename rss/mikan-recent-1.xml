@@ -1204,5 +1204,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="178257920" url="https://mikanani.me/Download/20250203/7390e7985643dd6fe66a7b64e383da695e945848.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][工作细胞BLACK/Hataraku Saibou Black][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](はたらく细胞BLACK)</guid>
+			<link>https://mikanani.me/Home/Episode/3e32f8e1bb85e6bf92cef5390182494fc3045bd1</link>
+			<title>[DBD-Raws][工作细胞BLACK/Hataraku Saibou Black][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](はたらく细胞BLACK)</title>
+			<description>[DBD-Raws][工作细胞BLACK/Hataraku Saibou Black][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](はたらく细胞BLACK)[14.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3e32f8e1bb85e6bf92cef5390182494fc3045bd1</link>
+				<contentLength>15784004608</contentLength>
+				<pubDate>2025-02-03T19:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15784004608" url="https://mikanani.me/Download/20250203/3e32f8e1bb85e6bf92cef5390182494fc3045bd1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 05 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c538a141d0b10416a3f913c049238d12886b17e4</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 05 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 05 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][766.74 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c538a141d0b10416a3f913c049238d12886b17e4</link>
+				<contentLength>803985152</contentLength>
+				<pubDate>2025-02-03T18:34:13.491</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="803985152" url="https://mikanani.me/Download/20250203/c538a141d0b10416a3f913c049238d12886b17e4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
