@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【DBFC字幕组】【龙珠 大魔】【016】【中日双语字幕】【1080P】【MP4】</guid>
-			<link>https://mikanani.me/Home/Episode/43c7096026f443a14049b5dc5713c65236840c4f</link>
-			<title>【DBFC字幕组】【龙珠 大魔】【016】【中日双语字幕】【1080P】【MP4】</title>
-			<description>【DBFC字幕组】【龙珠 大魔】【016】【中日双语字幕】【1080P】【MP4】[550.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/43c7096026f443a14049b5dc5713c65236840c4f</link>
-				<contentLength>577136256</contentLength>
-				<pubDate>2025-02-02T08:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="577136256" url="https://mikanani.me/Download/20250202/43c7096026f443a14049b5dc5713c65236840c4f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - FMI14 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/e53a863ba16c0c90e829fa56d6cf4f654e063915</link>
 			<title>[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - FMI14 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1203,6 +1191,30 @@
 				<pubDate>2025-02-03T15:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="26736171008" url="https://mikanani.me/Download/20250203/5591266f57498d0b188bf91af3288cf5599ec5da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">Candy Boy.2008.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/d12d358647e14a11d2202e2c4c479d96454f35bb</link>
+			<title>Candy Boy.2008.DVD720P.日语中字</title>
+			<description>Candy Boy.2008.DVD720P.日语中字[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d12d358647e14a11d2202e2c4c479d96454f35bb</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-02-03T16:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250203/d12d358647e14a11d2202e2c4c479d96454f35bb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">OVA Candy☆Boy.2007.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/7390e7985643dd6fe66a7b64e383da695e945848</link>
+			<title>OVA Candy☆Boy.2007.DVD720P.日语中字</title>
+			<description>OVA Candy☆Boy.2007.DVD720P.日语中字[170MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7390e7985643dd6fe66a7b64e383da695e945848</link>
+				<contentLength>178257920</contentLength>
+				<pubDate>2025-02-03T16:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="178257920" url="https://mikanani.me/Download/20250203/7390e7985643dd6fe66a7b64e383da695e945848.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

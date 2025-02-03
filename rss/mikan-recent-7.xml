@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/53317583406b27f16812e95cd567ff64ab29c093</link>
-			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)[231.63 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/53317583406b27f16812e95cd567ff64ab29c093</link>
-				<contentLength>242881664</contentLength>
-				<pubDate>2025-01-27T09:01:15.96</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="242881664" url="https://mikanani.me/Download/20250127/53317583406b27f16812e95cd567ff64ab29c093.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] 龙珠大魔 - 01-15 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c9db5cca0848cdfd5004502279f4909ed8f923f1</link>
 			<title>[新沸羊羊制作] 龙珠大魔 - 01-15 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -5895,6 +5883,30 @@
 				<pubDate>2025-02-03T15:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="26736171008" url="https://mikanani.me/Download/20250203/5591266f57498d0b188bf91af3288cf5599ec5da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">Candy Boy.2008.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/d12d358647e14a11d2202e2c4c479d96454f35bb</link>
+			<title>Candy Boy.2008.DVD720P.日语中字</title>
+			<description>Candy Boy.2008.DVD720P.日语中字[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d12d358647e14a11d2202e2c4c479d96454f35bb</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-02-03T16:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250203/d12d358647e14a11d2202e2c4c479d96454f35bb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">OVA Candy☆Boy.2007.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/7390e7985643dd6fe66a7b64e383da695e945848</link>
+			<title>OVA Candy☆Boy.2007.DVD720P.日语中字</title>
+			<description>OVA Candy☆Boy.2007.DVD720P.日语中字[170MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7390e7985643dd6fe66a7b64e383da695e945848</link>
+				<contentLength>178257920</contentLength>
+				<pubDate>2025-02-03T16:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="178257920" url="https://mikanani.me/Download/20250203/7390e7985643dd6fe66a7b64e383da695e945848.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
