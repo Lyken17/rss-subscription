@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/bcc6664d19bc23ee211ff856e073a96610d44308</link>
+			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[606.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bcc6664d19bc23ee211ff856e073a96610d44308</link>
+				<contentLength>635615296</contentLength>
+				<pubDate>2025-02-04T12:23:38.098</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="635615296" url="https://mikanani.me/Download/20250204/bcc6664d19bc23ee211ff856e073a96610d44308.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5</link>
 			<title>[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-02T22:01:23.441</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="442194976" url="https://mikanani.me/Download/20250202/425248fba045d8c61ec668bb706562dff081bdde.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 天久鹰央的推理病历表 / Ameku Takao no Suiri Karte - 05 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b9661d6d5deaf5ea3cb70130e940d1e780eed29e</link>
-			<title>[Up to 21°C] 天久鹰央的推理病历表 / Ameku Takao no Suiri Karte - 05 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 天久鹰央的推理病历表 / Ameku Takao no Suiri Karte - 05 (ABEMA 1280x720 AVC AAC MP4)[367.64 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b9661d6d5deaf5ea3cb70130e940d1e780eed29e</link>
-				<contentLength>385498496</contentLength>
-				<pubDate>2025-02-02T22:00:40.295</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385498496" url="https://mikanani.me/Download/20250202/b9661d6d5deaf5ea3cb70130e940d1e780eed29e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

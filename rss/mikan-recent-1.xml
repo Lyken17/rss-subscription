@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e</link>
-			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)[237.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e</link>
-				<contentLength>248890000</contentLength>
-				<pubDate>2025-02-03T04:45:38.338</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="248890000" url="https://mikanani.me/Download/20250203/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E04 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c16cba09520445fe6a357463c596e2c448371bc0</link>
 			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E04 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
@@ -783,6 +771,18 @@
 				<pubDate>2025-02-04T12:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20250204/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/bcc6664d19bc23ee211ff856e073a96610d44308</link>
+			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[606.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bcc6664d19bc23ee211ff856e073a96610d44308</link>
+				<contentLength>635615296</contentLength>
+				<pubDate>2025-02-04T12:23:38.098</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="635615296" url="https://mikanani.me/Download/20250204/bcc6664d19bc23ee211ff856e073a96610d44308.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
