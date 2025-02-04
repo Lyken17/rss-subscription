@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[H-Enc] 大神同学想要被吃掉 / Ookami-san wa Taberaretai (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/ba9d745f6761cd36beabd0c8417001f3ba8e574e</link>
-			<title>[H-Enc] 大神同学想要被吃掉 / Ookami-san wa Taberaretai (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 大神同学想要被吃掉 / Ookami-san wa Taberaretai (BDRip 1080p HEVC FLAC)[753.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ba9d745f6761cd36beabd0c8417001f3ba8e574e</link>
-				<contentLength>789577728</contentLength>
-				<pubDate>2025-01-28T03:18:20.454596</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="789577728" url="https://mikanani.me/Download/20250128/ba9d745f6761cd36beabd0c8417001f3ba8e574e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/60015a6b0f584e9d7985f7800dc21b44f1e2b515</link>
 			<title>[SweetSub][刹那之花][Momentary Lily][04][WebRip][1080P][AVC 8bit][简日内嵌]</title>
@@ -5835,6 +5823,18 @@
 				<pubDate>2025-02-04T04:21:00.780074</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250204/f1d1cc5188a3d86e7cf2b92583480c7bf8451d33.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/40329719f39df4e37a18da9076b759321e96e82e</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)[717.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40329719f39df4e37a18da9076b759321e96e82e</link>
+				<contentLength>752657344</contentLength>
+				<pubDate>2025-02-04T11:03:23.009</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752657344" url="https://mikanani.me/Download/20250204/40329719f39df4e37a18da9076b759321e96e82e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
