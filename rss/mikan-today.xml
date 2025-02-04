@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5</link>
+			<title>[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin][14.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5</link>
+				<contentLength>15461881856</contentLength>
+				<pubDate>2025-02-04T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20250204/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/40329719f39df4e37a18da9076b759321e96e82e</link>
 			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-02T22:00:40.295</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="385498496" url="https://mikanani.me/Download/20250202/b9661d6d5deaf5ea3cb70130e940d1e780eed29e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 地。-关于地球的运动- / Chi.: Chikyuu no Undou ni Tsuite - 19 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e3aa1c84cd8be3f2cc130a1117ff9ed448fa9e89</link>
-			<title>[Up to 21°C] 地。-关于地球的运动- / Chi.: Chikyuu no Undou ni Tsuite - 19 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 地。-关于地球的运动- / Chi.: Chikyuu no Undou ni Tsuite - 19 (ABEMA 1920x1080 AVC AAC MP4)[752.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e3aa1c84cd8be3f2cc130a1117ff9ed448fa9e89</link>
-				<contentLength>788686464</contentLength>
-				<pubDate>2025-02-02T21:30:54.704</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="788686464" url="https://mikanani.me/Download/20250202/e3aa1c84cd8be3f2cc130a1117ff9ed448fa9e89.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
