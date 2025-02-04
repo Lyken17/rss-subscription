@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 挣扎吧，亚当君 / Modaete yo, Adam-kun (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/3455928c5af35d7924522ce3e06300b7ff2ede76</link>
+			<title>[H-Enc] 挣扎吧，亚当君 / Modaete yo, Adam-kun (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 挣扎吧，亚当君 / Modaete yo, Adam-kun (BDRip 1080p HEVC FLAC)[2.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3455928c5af35d7924522ce3e06300b7ff2ede76</link>
+				<contentLength>2576980480</contentLength>
+				<pubDate>2025-02-05T05:11:22.502294</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20250205/3455928c5af35d7924522ce3e06300b7ff2ede76.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 143 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/41c96d071d4cc9600faf4d082eb4168ecff07fea</link>
 			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 143 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-03T15:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7623566848" url="https://mikanani.me/Download/20250203/ec1b47359030447b06f49378831c0d5a09c2c9f4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/9b7da1d07194e45fd5cd4e90c77208f327bf02bb</link>
-			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][19.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b7da1d07194e45fd5cd4e90c77208f327bf02bb</link>
-				<contentLength>20656948</contentLength>
-				<pubDate>2025-02-03T13:50:51.277381</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20656948" url="https://mikanani.me/Download/20250203/9b7da1d07194e45fd5cd4e90c77208f327bf02bb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
