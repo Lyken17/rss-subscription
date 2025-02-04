@@ -30940,5 +30940,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="635615296" url="https://mikanani.me/Download/20250204/bcc6664d19bc23ee211ff856e073a96610d44308.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][4K_HDR][剧场版 魔法少女小圆 三部合集/Puella Magi Madoka Magica the Movie 01-03][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Gekijouban Mahou Shoujo Madoka Magica 01-03/剧场版 魔法少女まどか☆マギカ 01-03)</guid>
+			<link>https://mikanani.me/Home/Episode/4969cce7b4906cd23855784ce3bcf4257c1fcb07</link>
+			<title>[DBD-Raws][4K_HDR][剧场版 魔法少女小圆 三部合集/Puella Magi Madoka Magica the Movie 01-03][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Gekijouban Mahou Shoujo Madoka Magica 01-03/剧场版 魔法少女まどか☆マギカ 01-03)</title>
+			<description>[DBD-Raws][4K_HDR][剧场版 魔法少女小圆 三部合集/Puella Magi Madoka Magica the Movie 01-03][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Gekijouban Mahou Shoujo Madoka Magica 01-03/剧场版 魔法少女まどか☆マギカ 01-03)[24.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4969cce7b4906cd23855784ce3bcf4257c1fcb07</link>
+				<contentLength>25769803776</contentLength>
+				<pubDate>2025-02-04T14:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="25769803776" url="https://mikanani.me/Download/20250204/4969cce7b4906cd23855784ce3bcf4257c1fcb07.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
