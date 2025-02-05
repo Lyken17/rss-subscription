@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 重启咲良田 / Sagrada Reset / サクラダリセット 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/420301452808d34afd387e42a3475619e08ae16a</link>
-			<title>[千夏字幕组&amp;VCB-Studio] 重启咲良田 / Sagrada Reset / サクラダリセット 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
-			<description>[千夏字幕组&amp;VCB-Studio] 重启咲良田 / Sagrada Reset / サクラダリセット 10-bit 1080p HEVC BDRip [Reseed Fin][28.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/420301452808d34afd387e42a3475619e08ae16a</link>
-				<contentLength>30064771072</contentLength>
-				<pubDate>2025-01-06T12:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="30064771072" url="https://mikanani.me/Download/20250106/420301452808d34afd387e42a3475619e08ae16a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! Ave Mujica][01v2][1080P][AVC AAC][繁日双语][WebRip]</guid>
 			<link>https://mikanani.me/Home/Episode/ca6464fa7a5c0b29655feb98a80ed9653c4d4314</link>
 			<title>[霜庭云花Sub][BanG Dream! Ave Mujica][01v2][1080P][AVC AAC][繁日双语][WebRip]</title>
@@ -29979,6 +29967,18 @@
 				<pubDate>2025-02-05T17:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="404330912" url="https://mikanani.me/Download/20250205/dfa70a0a824605419c9c658137af42c039ec408e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][IDOLiSH7-偶像星愿-Second BEAT!/IDOLiSH7 Second Beat!][01-15TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドリッシュセブン Second BEAT!/IDOLiSH7 S2)</guid>
+			<link>https://mikanani.me/Home/Episode/c939fb05b4579977c9c06d139d1212feae0284c2</link>
+			<title>[DBD-Raws][IDOLiSH7-偶像星愿-Second BEAT!/IDOLiSH7 Second Beat!][01-15TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドリッシュセブン Second BEAT!/IDOLiSH7 S2)</title>
+			<description>[DBD-Raws][IDOLiSH7-偶像星愿-Second BEAT!/IDOLiSH7 Second Beat!][01-15TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドリッシュセブン Second BEAT!/IDOLiSH7 S2)[18.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c939fb05b4579977c9c06d139d1212feae0284c2</link>
+				<contentLength>20078972928</contentLength>
+				<pubDate>2025-02-05T19:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20078972928" url="https://mikanani.me/Download/20250205/c939fb05b4579977c9c06d139d1212feae0284c2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
