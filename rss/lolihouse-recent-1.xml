@@ -52,5 +52,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="336876000" url="https://mikanani.me/Download/20250205/89a5515bb651d94c5ac5a80dbf0df3b3fb596e3a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/af7e64a295bb42d3b4d32ff70399906d28c05671</link>
+			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][346.65 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af7e64a295bb42d3b4d32ff70399906d28c05671</link>
+				<contentLength>363488864</contentLength>
+				<pubDate>2025-02-05T10:28:45.311</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="363488864" url="https://mikanani.me/Download/20250205/af7e64a295bb42d3b4d32ff70399906d28c05671.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
