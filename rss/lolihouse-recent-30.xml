@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 01 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e5eae7eb26f8e9281fe076f1cc95ca473d047b9a</link>
-			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 01 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 01 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][1.03 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e5eae7eb26f8e9281fe076f1cc95ca473d047b9a</link>
-				<contentLength>1105954048</contentLength>
-				<pubDate>2025-01-06T15:39:33.447</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1105954048" url="https://mikanani.me/Download/20250106/e5eae7eb26f8e9281fe076f1cc95ca473d047b9a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 01v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/88667af38474451dc46a38a4e50f32fb136fb3c1</link>
 			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 01v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
@@ -2031,6 +2019,18 @@
 				<pubDate>2025-02-05T20:51:25.022</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="183867808" url="https://mikanani.me/Download/20250205/a7839a53a8540cfa50dd65300f031d4838773a07.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8c8f909aea283bc3598d23da0f01c83d0901cc87</link>
+			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][421.03 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8c8f909aea283bc3598d23da0f01c83d0901cc87</link>
+				<contentLength>441481952</contentLength>
+				<pubDate>2025-02-05T23:39:57.458</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="441481952" url="https://mikanani.me/Download/20250205/8c8f909aea283bc3598d23da0f01c83d0901cc87.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
