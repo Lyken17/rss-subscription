@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/011bbb3cf87dc8ba16aeecdb90fb8491263553bc</link>
+			<title>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][6.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/011bbb3cf87dc8ba16aeecdb90fb8491263553bc</link>
+				<contentLength>7408818688</contentLength>
+				<pubDate>2025-02-05T16:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7408818688" url="https://mikanani.me/Download/20250205/011bbb3cf87dc8ba16aeecdb90fb8491263553bc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][剧场版 魔法少女小圆 三部合集/Puella Magi Madoka Magica the Movie 01-03][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](Gekijouban Mahou Shoujo Madoka Magica 01-03/剧场版 魔法少女まどか☆マギカ 01-03)</guid>
 			<link>https://mikanani.me/Home/Episode/f72050d7649e443c9730988f11b6be1a1e25b570</link>
 			<title>[DBD-Raws][剧场版 魔法少女小圆 三部合集/Puella Magi Madoka Magica the Movie 01-03][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](Gekijouban Mahou Shoujo Madoka Magica 01-03/剧场版 魔法少女まどか☆マギカ 01-03)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-03T18:34:13.491</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="803985152" url="https://mikanani.me/Download/20250203/c538a141d0b10416a3f913c049238d12886b17e4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">Candy Boy.2008.DVD720P.日语中字</guid>
-			<link>https://mikanani.me/Home/Episode/d12d358647e14a11d2202e2c4c479d96454f35bb</link>
-			<title>Candy Boy.2008.DVD720P.日语中字</title>
-			<description>Candy Boy.2008.DVD720P.日语中字[2.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d12d358647e14a11d2202e2c4c479d96454f35bb</link>
-				<contentLength>2254857728</contentLength>
-				<pubDate>2025-02-03T16:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250203/d12d358647e14a11d2202e2c4c479d96454f35bb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

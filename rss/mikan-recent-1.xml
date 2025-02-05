@@ -700,5 +700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358917088" url="https://mikanani.me/Download/20250205/a9fddc4237feb555e6cff7fa67f96631eec85b36.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/011bbb3cf87dc8ba16aeecdb90fb8491263553bc</link>
+			<title>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][6.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/011bbb3cf87dc8ba16aeecdb90fb8491263553bc</link>
+				<contentLength>7408818688</contentLength>
+				<pubDate>2025-02-05T16:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7408818688" url="https://mikanani.me/Download/20250205/011bbb3cf87dc8ba16aeecdb90fb8491263553bc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
