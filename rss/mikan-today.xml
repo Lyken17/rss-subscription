@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 命运石之门 0 / Steins;Gate 0 / シュタインズ・ゲート ゼロ 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b9c37174cdadff338417c2c144220f9d03b02848</link>
+			<title>[VCB-Studio] 命运石之门 0 / Steins;Gate 0 / シュタインズ・ゲート ゼロ 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] 命运石之门 0 / Steins;Gate 0 / シュタインズ・ゲート ゼロ 10-bit 1080p HEVC BDRip [Reseed Fin][36.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9c37174cdadff338417c2c144220f9d03b02848</link>
+				<contentLength>39298949120</contentLength>
+				<pubDate>2025-02-06T12:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="39298949120" url="https://mikanani.me/Download/20250206/b9c37174cdadff338417c2c144220f9d03b02848.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7b534726062e120d0ee61a53f4ebcb3034e04a4b</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-04T14:01:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="25769803776" url="https://mikanani.me/Download/20250204/4969cce7b4906cd23855784ce3bcf4257c1fcb07.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/bcc6664d19bc23ee211ff856e073a96610d44308</link>
-			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
-			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 33 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[606.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bcc6664d19bc23ee211ff856e073a96610d44308</link>
-				<contentLength>635615296</contentLength>
-				<pubDate>2025-02-04T12:23:38.098</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="635615296" url="https://mikanani.me/Download/20250204/bcc6664d19bc23ee211ff856e073a96610d44308.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
