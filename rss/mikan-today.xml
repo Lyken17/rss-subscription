@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[完美世界][第200-201集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/597e9b7eef70ba282d69f9052481d5dfb6fe4cda</link>
+			<title>[完美世界][第200-201集][国语中字][WEB-MKV][2160P]</title>
+			<description>[完美世界][第200-201集][国语中字][WEB-MKV][2160P][2.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/597e9b7eef70ba282d69f9052481d5dfb6fe4cda</link>
+				<contentLength>2899102976</contentLength>
+				<pubDate>2025-02-06T20:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2899102976" url="https://mikanani.me/Download/20250206/597e9b7eef70ba282d69f9052481d5dfb6fe4cda.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][03][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/9c48abce4cd6a5377d7479380b29a1ad13daf8d8</link>
 			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][03][1080p][CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-04T22:26:01.434836</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="234881024" url="https://mikanani.me/Download/20250204/b5ba978dc41b1bcdfd41efd7e8e4b309af2dfb3c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [19] [1080p] [简日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/6d798c6387ed3820c7d530c00394c2964d48cb0d</link>
-			<title>[猎户手抄部] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [19] [1080p] [简日内嵌] [2024年10月番]</title>
-			<description>[猎户手抄部] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [19] [1080p] [简日内嵌] [2024年10月番][223.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6d798c6387ed3820c7d530c00394c2964d48cb0d</link>
-				<contentLength>234776160</contentLength>
-				<pubDate>2025-02-04T22:24:47.65202</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="234776160" url="https://mikanani.me/Download/20250204/6d798c6387ed3820c7d530c00394c2964d48cb0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
