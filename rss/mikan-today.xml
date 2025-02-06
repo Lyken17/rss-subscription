@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4e85413feb157479a34a4b79ce001d927f501209</link>
+			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][469.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4e85413feb157479a34a4b79ce001d927f501209</link>
+				<contentLength>492222560</contentLength>
+				<pubDate>2025-02-06T14:24:39.25</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="492222560" url="https://mikanani.me/Download/20250206/4e85413feb157479a34a4b79ce001d927f501209.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [28][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/af7e96e0896c2267e680aaa679d28ad4263d2728</link>
 			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [28][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-04T18:46:47.937</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="297638304" url="https://mikanani.me/Download/20250204/4ce9b25a87d74dfa11505604be0b59369ea02ff3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP05 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
-			<link>https://mikanani.me/Home/Episode/1c4999fa4afc776ea524b7c21b8a303be59dcb5e</link>
-			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP05 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
-			<description>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP05 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)[619.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1c4999fa4afc776ea524b7c21b8a303be59dcb5e</link>
-				<contentLength>649246784</contentLength>
-				<pubDate>2025-02-04T17:05:17.025</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="649246784" url="https://mikanani.me/Download/20250204/1c4999fa4afc776ea524b7c21b8a303be59dcb5e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
