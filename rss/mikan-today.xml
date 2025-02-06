@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7b534726062e120d0ee61a53f4ebcb3034e04a4b</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][579.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7b534726062e120d0ee61a53f4ebcb3034e04a4b</link>
+				<contentLength>608069248</contentLength>
+				<pubDate>2025-02-06T10:41:27.776</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="608069248" url="https://mikanani.me/Download/20250206/7b534726062e120d0ee61a53f4ebcb3034e04a4b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [04][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/6250e89e3b484b58b1f8aaf66dc32ef7d3cfa844</link>
 			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [04][1080p][繁体内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-04T12:23:38.098</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="635615296" url="https://mikanani.me/Download/20250204/bcc6664d19bc23ee211ff856e073a96610d44308.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5</link>
-			<title>[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[悠哈璃羽字幕社&amp;VCB-Studio] 公爵的契约未婚妻 / 她去公爵家的理由 / Kanojo ga Koushaku-tei ni Itta Riyuu / 彼女が公爵邸に行った理由 10-bit 1080p HEVC BDRip [Fin][14.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5</link>
-				<contentLength>15461881856</contentLength>
-				<pubDate>2025-02-04T12:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20250204/66f4b56c6a98031de7734c1e40a3bdd2e6e1b7d5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
