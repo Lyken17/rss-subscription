@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [06] [WEBRip 2160p HEVC-10bit AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/5d0aaf1b57177fd136ed78c56e592d67c2298d90</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [06] [WEBRip 2160p HEVC-10bit AAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [06] [WEBRip 2160p HEVC-10bit AAC][1022.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5d0aaf1b57177fd136ed78c56e592d67c2298d90</link>
+				<contentLength>1071959232</contentLength>
+				<pubDate>2025-02-07T06:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1071959232" url="https://mikanani.me/Download/20250207/5d0aaf1b57177fd136ed78c56e592d67c2298d90.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][19][WEBrip][1080P][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/0f3422343cdbd62e71ac1228fccdd205bb0a5acd</link>
 			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][19][WEBrip][1080P][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-06T00:03:13.887</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250206/24b3bc806398d91e32cbce6a2fc272bb8102b09d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][数码重映第893集 星级餐厅之谜][字幕仅重映片头及下集预告][TVRIP][简繁日多语MKV][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/687807aa2afdc07257ca632197ea541dc0a3afb4</link>
-			<title>[银色子弹字幕组][名侦探柯南][数码重映第893集 星级餐厅之谜][字幕仅重映片头及下集预告][TVRIP][简繁日多语MKV][1080P]</title>
-			<description>[银色子弹字幕组][名侦探柯南][数码重映第893集 星级餐厅之谜][字幕仅重映片头及下集预告][TVRIP][简繁日多语MKV][1080P][515MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/687807aa2afdc07257ca632197ea541dc0a3afb4</link>
-				<contentLength>540016640</contentLength>
-				<pubDate>2025-02-05T23:54:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="540016640" url="https://mikanani.me/Download/20250205/687807aa2afdc07257ca632197ea541dc0a3afb4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
