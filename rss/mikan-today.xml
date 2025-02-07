@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/516b5e27d8d93e7b15e53d0957e33b7cc1792a9e</link>
+			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)[701.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/516b5e27d8d93e7b15e53d0957e33b7cc1792a9e</link>
+				<contentLength>735334912</contentLength>
+				<pubDate>2025-02-07T10:03:17.304</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="735334912" url="https://mikanani.me/Download/20250207/516b5e27d8d93e7b15e53d0957e33b7cc1792a9e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [06] [WEBRip 2160p HEVC-10bit AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/5d0aaf1b57177fd136ed78c56e592d67c2298d90</link>
 			<title>[TensoRaws] BanG Dream! Ave Mujica [06] [WEBRip 2160p HEVC-10bit AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-06T00:30:48.747</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="404184096" url="https://mikanani.me/Download/20250206/6d6d8a3b242fbd700807b8ffccab56bb7269eac0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/24b3bc806398d91e32cbce6a2fc272bb8102b09d</link>
-			<title>[Up to 21°C] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 06 (CR 1920x1080 AVC AAC MKV)[1.37 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/24b3bc806398d91e32cbce6a2fc272bb8102b09d</link>
-				<contentLength>1471026304</contentLength>
-				<pubDate>2025-02-06T00:03:13.887</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1471026304" url="https://mikanani.me/Download/20250206/24b3bc806398d91e32cbce6a2fc272bb8102b09d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
