@@ -30040,5 +30040,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="591208128" url="https://mikanani.me/Download/20250207/603ef0342717f483453466b41769c2073ec37940.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD制作组][BanG Dream! Ave Mujica][06][1080P][WEB-DL][简日双语内嵌][AAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/f6c9fdb1c5123e0ae458e1bb1239136f20799a26</link>
+			<title>[DBD制作组][BanG Dream! Ave Mujica][06][1080P][WEB-DL][简日双语内嵌][AAC][MKV]</title>
+			<description>[DBD制作组][BanG Dream! Ave Mujica][06][1080P][WEB-DL][简日双语内嵌][AAC][MKV][403.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f6c9fdb1c5123e0ae458e1bb1239136f20799a26</link>
+				<contentLength>423205280</contentLength>
+				<pubDate>2025-02-07T13:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="423205280" url="https://mikanani.me/Download/20250207/f6c9fdb1c5123e0ae458e1bb1239136f20799a26.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

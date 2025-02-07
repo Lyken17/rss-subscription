@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD制作组][BanG Dream! Ave Mujica][06][1080P][WEB-DL][简日双语内嵌][AAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/f6c9fdb1c5123e0ae458e1bb1239136f20799a26</link>
+			<title>[DBD制作组][BanG Dream! Ave Mujica][06][1080P][WEB-DL][简日双语内嵌][AAC][MKV]</title>
+			<description>[DBD制作组][BanG Dream! Ave Mujica][06][1080P][WEB-DL][简日双语内嵌][AAC][MKV][403.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f6c9fdb1c5123e0ae458e1bb1239136f20799a26</link>
+				<contentLength>423205280</contentLength>
+				<pubDate>2025-02-07T13:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="423205280" url="https://mikanani.me/Download/20250207/f6c9fdb1c5123e0ae458e1bb1239136f20799a26.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]爱犬讯号 / Dog Signal - 03 [粤语+内封繁体中文字幕][WEB 1920x1080 x264 AAC SRT TVB YUE CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/603ef0342717f483453466b41769c2073ec37940</link>
 			<title>[jibaketa合成&amp;二次压制][TVB粤语]爱犬讯号 / Dog Signal - 03 [粤语+内封繁体中文字幕][WEB 1920x1080 x264 AAC SRT TVB YUE CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-06T00:56:11.01</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="349689600" url="https://mikanani.me/Download/20250206/33c6114c4598f91e349107ad530c733036ed495b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/da710aa93fdd123514a94b511011a9c90d115037</link>
-			<title>[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][334.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/da710aa93fdd123514a94b511011a9c90d115037</link>
-				<contentLength>350224384</contentLength>
-				<pubDate>2025-02-06T00:56:01.268751</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="350224384" url="https://mikanani.me/Download/20250206/da710aa93fdd123514a94b511011a9c90d115037.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
