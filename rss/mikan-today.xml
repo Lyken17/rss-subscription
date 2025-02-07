@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [27][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/545654dead42b99577c95ef474f69f0b15f1887a</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [27][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [27][1080p][简繁日内封][231.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/545654dead42b99577c95ef474f69f0b15f1887a</link>
+				<contentLength>242430768</contentLength>
+				<pubDate>2025-02-07T11:07:12.828356</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="242430768" url="https://mikanani.me/Download/20250207/545654dead42b99577c95ef474f69f0b15f1887a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/516b5e27d8d93e7b15e53d0957e33b7cc1792a9e</link>
 			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-06T00:31:38.086</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1513975936" url="https://mikanani.me/Download/20250206/4da0bbfb2acdf823afe8c76eaee8d96283db8945.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 灰色：幻影扳机 / Grisaia Phantom Trigger - 06 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/6d6d8a3b242fbd700807b8ffccab56bb7269eac0</link>
-			<title>[Up to 21°C] 灰色：幻影扳机 / Grisaia Phantom Trigger - 06 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 灰色：幻影扳机 / Grisaia Phantom Trigger - 06 (ABEMA 1280x720 AVC AAC MP4)[385.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6d6d8a3b242fbd700807b8ffccab56bb7269eac0</link>
-				<contentLength>404184096</contentLength>
-				<pubDate>2025-02-06T00:30:48.747</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="404184096" url="https://mikanani.me/Download/20250206/6d6d8a3b242fbd700807b8ffccab56bb7269eac0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
