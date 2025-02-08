@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/5ad26ddd0fcddb3630c7110322ef42de1232fed7</link>
+			<title>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 06 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ad26ddd0fcddb3630c7110322ef42de1232fed7</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2025-02-09T02:18:49.669</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250209/5ad26ddd0fcddb3630c7110322ef42de1232fed7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 06 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c5352228daca293d78ee3b5c89b8f112a5017a24</link>
 			<title>[Up to 21°C] 青之驱魔师 终夜篇 / Ao no Exorcist: Yosuga-hen - 06 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-08T01:01:48.564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="324785920" url="https://mikanani.me/Download/20250208/9529ddd239257fd7220276ef5a6102ac2a09ad0b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Sorairo Utility /  一杆青空 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/8fd27f3ee86211ccc1ac04e3d8faa493e3d9733b</link>
-			<title>[ANi] Sorairo Utility /  一杆青空 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Sorairo Utility /  一杆青空 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][309.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8fd27f3ee86211ccc1ac04e3d8faa493e3d9733b</link>
-				<contentLength>324953696</contentLength>
-				<pubDate>2025-02-08T01:01:05.428699</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="324953696" url="https://mikanani.me/Download/20250208/8fd27f3ee86211ccc1ac04e3d8faa493e3d9733b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
