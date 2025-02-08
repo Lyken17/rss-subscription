@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] BanG Dream! Ave Mujica [05][1080p]</guid>
+			<link>https://mikanani.me/Home/Episode/733088061e38cf5593b7184df4c6fd9e85eaba83</link>
+			<title>[萌樱字幕组] BanG Dream! Ave Mujica [05][1080p]</title>
+			<description>[萌樱字幕组] BanG Dream! Ave Mujica [05][1080p][266.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/733088061e38cf5593b7184df4c6fd9e85eaba83</link>
+				<contentLength>279340640</contentLength>
+				<pubDate>2025-02-08T21:07:02.881731</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="279340640" url="https://mikanani.me/Download/20250208/733088061e38cf5593b7184df4c6fd9e85eaba83.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][忧国的莫里亚蒂 第一季+第二季/Yuukoku no Moriarty S1+S2][01-24TV全集+OVA+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](忧国のモリアーティ S1+S2)</guid>
 			<link>https://mikanani.me/Home/Episode/08fd01f6d4ddca304e21127bd486b8003eedbb08</link>
 			<title>[DBD-Raws][忧国的莫里亚蒂 第一季+第二季/Yuukoku no Moriarty S1+S2][01-24TV全集+OVA+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](忧国のモリアーティ S1+S2)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-07T15:07:55.308</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1024427264" url="https://mikanani.me/Download/20250207/010af6a3145c6e8fa7838d1c61edd62edbf8ab13.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][机动战士高达0080 口袋中的战争/Mobile Suit Gundam 0080: War in the Pocket][01-06全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV](Kidou Senshi Gundam 0080: Pocket no Naka no Sensou/机动戦士ガンダム 0080 ポケットの中の戦争)</guid>
-			<link>https://mikanani.me/Home/Episode/a434679d8bdefa3cfdb1badd4d47c8a3a4bdd990</link>
-			<title>[DBD-Raws][机动战士高达0080 口袋中的战争/Mobile Suit Gundam 0080: War in the Pocket][01-06全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV](Kidou Senshi Gundam 0080: Pocket no Naka no Sensou/机动戦士ガンダム 0080 ポケットの中の戦争)</title>
-			<description>[DBD-Raws][机动战士高达0080 口袋中的战争/Mobile Suit Gundam 0080: War in the Pocket][01-06全集][1080P][BDRip][HEVC-10bit][简繁内封][FLAC][MKV](Kidou Senshi Gundam 0080: Pocket no Naka no Sensou/机动戦士ガンダム 0080 ポケットの中の戦争)[8.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a434679d8bdefa3cfdb1badd4d47c8a3a4bdd990</link>
-				<contentLength>8912057344</contentLength>
-				<pubDate>2025-02-07T14:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8912057344" url="https://mikanani.me/Download/20250207/a434679d8bdefa3cfdb1badd4d47c8a3a4bdd990.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
