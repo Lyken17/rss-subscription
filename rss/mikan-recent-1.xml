@@ -1132,5 +1132,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9771051008" url="https://mikanani.me/Download/20250208/344a0fd80811cc234b5f1705bdd3d43daddabf65.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][魔法少女小圆/Puella Magi Madoka Magica][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](Mahou Shoujo Madoka Magica/魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA)</guid>
+			<link>https://mikanani.me/Home/Episode/6d355643346755f19d00a714b54e54c73e4a8f23</link>
+			<title>[DBD-Raws][魔法少女小圆/Puella Magi Madoka Magica][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](Mahou Shoujo Madoka Magica/魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA)</title>
+			<description>[DBD-Raws][魔法少女小圆/Puella Magi Madoka Magica][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](Mahou Shoujo Madoka Magica/魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA)[14.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d355643346755f19d00a714b54e54c73e4a8f23</link>
+				<contentLength>15998752768</contentLength>
+				<pubDate>2025-02-08T15:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15998752768" url="https://mikanani.me/Download/20250208/6d355643346755f19d00a714b54e54c73e4a8f23.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

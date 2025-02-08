@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][魔法少女小圆/Puella Magi Madoka Magica][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](Mahou Shoujo Madoka Magica/魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA)</guid>
+			<link>https://mikanani.me/Home/Episode/6d355643346755f19d00a714b54e54c73e4a8f23</link>
+			<title>[DBD-Raws][魔法少女小圆/Puella Magi Madoka Magica][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](Mahou Shoujo Madoka Magica/魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA)</title>
+			<description>[DBD-Raws][魔法少女小圆/Puella Magi Madoka Magica][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](Mahou Shoujo Madoka Magica/魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA)[14.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d355643346755f19d00a714b54e54c73e4a8f23</link>
+				<contentLength>15998752768</contentLength>
+				<pubDate>2025-02-08T15:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15998752768" url="https://mikanani.me/Download/20250208/6d355643346755f19d00a714b54e54c73e4a8f23.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][腹黑妹妹控兄记/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!][01-12TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!)</guid>
 			<link>https://mikanani.me/Home/Episode/b079e6b2536dc2f5ad5c0b451ab264b0f6f388ab</link>
 			<title>[DBD-Raws][腹黑妹妹控兄记/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!][01-12TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-07T02:18:23.757</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250207/cd5dd732e813b6e456fcef9e065aad3bcf2870f0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d97cc9076184d56b29f5b6c82ab93bd9a0287672</link>
-			<title>[Up to 21°C] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 05 (ABEMA 1920x1080 AVC AAC MP4)[728.95 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d97cc9076184d56b29f5b6c82ab93bd9a0287672</link>
-				<contentLength>764359488</contentLength>
-				<pubDate>2025-02-07T02:00:47.973</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="764359488" url="https://mikanani.me/Download/20250207/d97cc9076184d56b29f5b6c82ab93bd9a0287672.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
