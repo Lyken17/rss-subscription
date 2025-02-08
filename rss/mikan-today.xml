@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e096be23c5948ab68a952ba2f000febc47067e95</link>
+			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)[261.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e096be23c5948ab68a952ba2f000febc47067e95</link>
+				<contentLength>274097760</contentLength>
+				<pubDate>2025-02-08T09:01:26.085</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="274097760" url="https://mikanani.me/Download/20250208/e096be23c5948ab68a952ba2f000febc47067e95.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][29][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/c95199a89d5e959c4fca57682449504f456b03af</link>
 			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][29][简体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-07T01:01:25.975</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="271004480" url="https://mikanani.me/Download/20250207/39f929c65bb89871cc05ece51e090c9bf5ba8474.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] TRILLION GAME /  一兆＄游戏 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/eaab11e030f25d54ca82c72b613d8147076d4d42</link>
-			<title>[ANi] TRILLION GAME /  一兆＄游戏 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] TRILLION GAME /  一兆＄游戏 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][438.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eaab11e030f25d54ca82c72b613d8147076d4d42</link>
-				<contentLength>460220000</contentLength>
-				<pubDate>2025-02-07T01:01:09.341209</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="460220000" url="https://mikanani.me/Download/20250207/eaab11e030f25d54ca82c72b613d8147076d4d42.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
