@@ -1144,5 +1144,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15998752768" url="https://mikanani.me/Download/20250208/6d355643346755f19d00a714b54e54c73e4a8f23.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [05] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/d1753d3a7dae47245fd69f62f2986c41f9ab094d</link>
+			<title>[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [05] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
+			<description>[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [05] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][346.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d1753d3a7dae47245fd69f62f2986c41f9ab094d</link>
+				<contentLength>363017024</contentLength>
+				<pubDate>2025-02-08T16:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="363017024" url="https://mikanani.me/Download/20250208/d1753d3a7dae47245fd69f62f2986c41f9ab094d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [05] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/c86160bb47f19e36e13da4c8daec12e6a24bac31</link>
+			<title>[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [05] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
+			<description>[黑白字幕组]我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai [05] [webRip] [AVC-8bit 1080P AAC] [简日内嵌][346.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c86160bb47f19e36e13da4c8daec12e6a24bac31</link>
+				<contentLength>363331584</contentLength>
+				<pubDate>2025-02-08T16:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="363331584" url="https://mikanani.me/Download/20250208/c86160bb47f19e36e13da4c8daec12e6a24bac31.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
