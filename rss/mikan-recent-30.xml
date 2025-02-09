@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
-			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][369.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49345ef956ae49526cad1de0788049588cb9a3c3</link>
-				<contentLength>387773888</contentLength>
-				<pubDate>2025-01-10T19:49:37.687</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="387773888" url="https://mikanani.me/Download/20250110/49345ef956ae49526cad1de0788049588cb9a3c3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)</guid>
 			<link>https://mikanani.me/Home/Episode/abf35f56ee414ec441398831906f0596681ccdbd</link>
 			<title>[Fatum Fatalis] 异世界失格 / 异世界失格 / Isekai Shikkaku (BD REENCODE EP01-12+SP Fin)</title>
@@ -30987,6 +30975,18 @@
 				<pubDate>2025-02-10T02:30:49.65</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747393536" url="https://mikanani.me/Download/20250210/5af0fd73161c99af27e71c8d309f3be1ad41c9ee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c</link>
+			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)[77.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c</link>
+				<contentLength>81537272</contentLength>
+				<pubDate>2025-02-10T03:15:23.754</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="81537272" url="https://mikanani.me/Download/20250210/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
