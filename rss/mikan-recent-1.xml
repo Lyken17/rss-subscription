@@ -1180,5 +1180,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="487231328" url="https://mikanani.me/Download/20250209/a97df900230c37709c8aa4e76c4368bfb12f3641.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[徒弟个个是大佬][第28-33集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/8885e875092989aa8fd7a9c5511a4abf2bc513ac</link>
+			<title>[徒弟个个是大佬][第28-33集][国语中字][WEB-MKV][2160P]</title>
+			<description>[徒弟个个是大佬][第28-33集][国语中字][WEB-MKV][2160P][3.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8885e875092989aa8fd7a9c5511a4abf2bc513ac</link>
+				<contentLength>4080218880</contentLength>
+				<pubDate>2025-02-09T11:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20250209/8885e875092989aa8fd7a9c5511a4abf2bc513ac.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[牧神记][第15-17集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498</link>
+			<title>[牧神记][第15-17集][国语中字][WEB-MKV][2160P]</title>
+			<description>[牧神记][第15-17集][国语中字][WEB-MKV][2160P][7.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498</link>
+				<contentLength>8267811840</contentLength>
+				<pubDate>2025-02-09T11:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8267811840" url="https://mikanani.me/Download/20250209/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
