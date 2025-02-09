@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/eb8aad6745bae8228e2683d5baf8c3611675365a</link>
+			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 06 (CR 1920x1080 AVC AAC MKV)[237.66 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eb8aad6745bae8228e2683d5baf8c3611675365a</link>
+				<contentLength>249204576</contentLength>
+				<pubDate>2025-02-10T04:45:43.319</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="249204576" url="https://mikanani.me/Download/20250210/eb8aad6745bae8228e2683d5baf8c3611675365a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c</link>
 			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-09T16:30:59.545</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="470936448" url="https://mikanani.me/Download/20250209/eb353b66b784b196e85784d94c8b67192aaa5ba7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 18 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/79851df220217e4ad4922fc045ab943712b60c84</link>
-			<title>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 18 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 18 (Baha 1920x1080 AVC AAC MP4)[517.42 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/79851df220217e4ad4922fc045ab943712b60c84</link>
-				<contentLength>542554176</contentLength>
-				<pubDate>2025-02-09T16:30:55.146</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="542554176" url="https://mikanani.me/Download/20250209/79851df220217e4ad4922fc045ab943712b60c84.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
