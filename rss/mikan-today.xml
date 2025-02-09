@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [22][甜蜜苦涩交织的真相][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/2d4050e15d09ebe05901142563fff3a80c5a9041</link>
+			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [22][甜蜜苦涩交织的真相][1080p][简日内嵌]</title>
+			<description>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [22][甜蜜苦涩交织的真相][1080p][简日内嵌][579.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2d4050e15d09ebe05901142563fff3a80c5a9041</link>
+				<contentLength>607440064</contentLength>
+				<pubDate>2025-02-09T16:13:03.233441</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="607440064" url="https://mikanani.me/Download/20250209/2d4050e15d09ebe05901142563fff3a80c5a9041.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/569d21168be4eb4fc124909c94931fce5c9054dc</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-02-08T14:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="13529147392" url="https://mikanani.me/Download/20250208/aa0990ad18b88195ed78515474890baadb4142f9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462-1464+sp][2025.01][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/7f696ad5daef9820d32f884d63fe725cf3e57518</link>
-			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462-1464+sp][2025.01][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</title>
-			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1462-1464+sp][2025.01][简日_繁日内封][1080P][hevc-10bit_aac][MKV][2.32 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7f696ad5daef9820d32f884d63fe725cf3e57518</link>
-				<contentLength>2491080960</contentLength>
-				<pubDate>2025-02-08T13:50:34.776</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2491080960" url="https://mikanani.me/Download/20250208/7f696ad5daef9820d32f884d63fe725cf3e57518.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
