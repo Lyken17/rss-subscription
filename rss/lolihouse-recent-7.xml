@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7fa828abbd9d8f33c51d3385e7127f222812f0ed</link>
-			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][598 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7fa828abbd9d8f33c51d3385e7127f222812f0ed</link>
-				<contentLength>627048448</contentLength>
-				<pubDate>2025-02-02T06:26:17.697</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="627048448" url="https://mikanani.me/Download/20250202/7fa828abbd9d8f33c51d3385e7127f222812f0ed.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/3eebfcc6839fefea06f0675958013659dfc6d80f</link>
 			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -435,6 +423,18 @@
 				<pubDate>2025-02-09T13:43:17.956</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="706834624" url="https://mikanani.me/Download/20250209/d5c9fff749b6462d06f840651dc65bd25aa20217.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/569d21168be4eb4fc124909c94931fce5c9054dc</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][629.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/569d21168be4eb4fc124909c94931fce5c9054dc</link>
+				<contentLength>660393152</contentLength>
+				<pubDate>2025-02-09T14:59:19.977</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="660393152" url="https://mikanani.me/Download/20250209/569d21168be4eb4fc124909c94931fce5c9054dc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
