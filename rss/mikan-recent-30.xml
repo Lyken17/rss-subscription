@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][15][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/28df251dee4eb546f5aa69420e90229ba1d58fcf</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][15][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][15][WEBrip][1080P][简日双语][457.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/28df251dee4eb546f5aa69420e90229ba1d58fcf</link>
-				<contentLength>479933248</contentLength>
-				<pubDate>2025-01-10T04:46:06.549808</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="479933248" url="https://mikanani.me/Download/20250110/28df251dee4eb546f5aa69420e90229ba1d58fcf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[大道朝天][第1-16集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/5f448283360435a156495fc41af38decd5beec78</link>
 			<title>[大道朝天][第1-16集][国语中字][WEB-MKV][2160P]</title>
@@ -29979,6 +29967,18 @@
 				<pubDate>2025-02-09T11:32:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8267811840" url="https://mikanani.me/Download/20250209/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 531(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3d41038e3df4b598e1d1878d18b8cc796f39bae9</link>
+			<title>[Up to 21°C] 海贼王 / One Piece - 531(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 海贼王 / One Piece - 531(retake (B-Global 3840x2160 HEVC AAC MKV)[1.25 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d41038e3df4b598e1d1878d18b8cc796f39bae9</link>
+				<contentLength>1342177280</contentLength>
+				<pubDate>2025-02-09T13:05:46.823</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1342177280" url="https://mikanani.me/Download/20250209/3d41038e3df4b598e1d1878d18b8cc796f39bae9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
