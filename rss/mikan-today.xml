@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/eee7e2203d12fe81518e233e2c94dfe06068142a</link>
+			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
+			<description>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[762MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eee7e2203d12fe81518e233e2c94dfe06068142a</link>
+				<contentLength>799014912</contentLength>
+				<pubDate>2025-02-10T11:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="799014912" url="https://mikanani.me/Download/20250210/eee7e2203d12fe81518e233e2c94dfe06068142a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 129 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/698ffd16b788e3762b8b2a614275debcebb99cc1</link>
 			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 129 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-09T18:00:24.760067</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="580281984" url="https://mikanani.me/Download/20250209/0deec07f071478cba00f4d38c11d6f6aac537441.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[03][1080P][简体中字]</guid>
-			<link>https://mikanani.me/Home/Episode/36e0c9a6b3cd6e3cd898d5833e48f8b6bf0bb8f9</link>
-			<title>【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[03][1080P][简体中字]</title>
-			<description>【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[03][1080P][简体中字][578.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/36e0c9a6b3cd6e3cd898d5833e48f8b6bf0bb8f9</link>
-				<contentLength>606391488</contentLength>
-				<pubDate>2025-02-09T17:59:27.943661</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="606391488" url="https://mikanani.me/Download/20250209/36e0c9a6b3cd6e3cd898d5833e48f8b6bf0bb8f9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
