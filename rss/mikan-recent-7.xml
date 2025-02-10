@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e</link>
-			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 05 (CR 1920x1080 AVC AAC MKV)[237.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e</link>
-				<contentLength>248890000</contentLength>
-				<pubDate>2025-02-03T04:45:38.338</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="248890000" url="https://mikanani.me/Download/20250203/9dda003f4bf92d433e07393c7fb7be0ec64e6a4e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E04 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c16cba09520445fe6a357463c596e2c448371bc0</link>
 			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E04 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
@@ -6627,6 +6615,18 @@
 				<pubDate>2025-02-10T11:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="799014912" url="https://mikanani.me/Download/20250210/eee7e2203d12fe81518e233e2c94dfe06068142a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</guid>
+			<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
+			<title>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</title>
+			<description>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）[4.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-02-10T12:34:58.651596</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250210/afdba06a6368199eab58b4f215e8156d2b63b4ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</guid>
+			<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
+			<title>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</title>
+			<description>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）[4.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-02-10T12:34:58.651596</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250210/afdba06a6368199eab58b4f215e8156d2b63b4ae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/eee7e2203d12fe81518e233e2c94dfe06068142a</link>
 			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-09T18:03:38.902</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250209/7f9df95df8f95a7578707c26ff216c6005f559c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[04][1080P][简体中字]</guid>
-			<link>https://mikanani.me/Home/Episode/0deec07f071478cba00f4d38c11d6f6aac537441</link>
-			<title>【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[04][1080P][简体中字]</title>
-			<description>【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[04][1080P][简体中字][553.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0deec07f071478cba00f4d38c11d6f6aac537441</link>
-				<contentLength>580281984</contentLength>
-				<pubDate>2025-02-09T18:00:24.760067</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="580281984" url="https://mikanani.me/Download/20250209/0deec07f071478cba00f4d38c11d6f6aac537441.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

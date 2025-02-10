@@ -1636,5 +1636,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="799014912" url="https://mikanani.me/Download/20250210/eee7e2203d12fe81518e233e2c94dfe06068142a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</guid>
+			<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
+			<title>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</title>
+			<description>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）[4.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-02-10T12:34:58.651596</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250210/afdba06a6368199eab58b4f215e8156d2b63b4ae.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
