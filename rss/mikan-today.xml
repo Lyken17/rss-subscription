@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/38c2ab927b91008cd3de751ad75c2297406f1944</link>
+			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][22.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38c2ab927b91008cd3de751ad75c2297406f1944</link>
+				<contentLength>23173530</contentLength>
+				<pubDate>2025-02-10T13:50:39.821763</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23173530" url="https://mikanani.me/Download/20250210/38c2ab927b91008cd3de751ad75c2297406f1944.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</guid>
 			<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
 			<title>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-09T18:13:22.369</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459370656" url="https://mikanani.me/Download/20250209/3d3144233b911e6483a61b425e958183fe945afb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 05 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7f9df95df8f95a7578707c26ff216c6005f559c1</link>
-			<title>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 05 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 05 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7f9df95df8f95a7578707c26ff216c6005f559c1</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-02-09T18:03:38.902</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250209/7f9df95df8f95a7578707c26ff216c6005f559c1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

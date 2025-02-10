@@ -6628,5 +6628,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250210/afdba06a6368199eab58b4f215e8156d2b63b4ae.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/38c2ab927b91008cd3de751ad75c2297406f1944</link>
+			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][22.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38c2ab927b91008cd3de751ad75c2297406f1944</link>
+				<contentLength>23173530</contentLength>
+				<pubDate>2025-02-10T13:50:39.821763</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23173530" url="https://mikanani.me/Download/20250210/38c2ab927b91008cd3de751ad75c2297406f1944.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
