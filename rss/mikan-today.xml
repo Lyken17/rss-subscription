@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6519d3c5ac7e90b869c902e5346c6c129cdad774</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][797.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6519d3c5ac7e90b869c902e5346c6c129cdad774</link>
+				<contentLength>836239360</contentLength>
+				<pubDate>2025-02-10T18:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="836239360" url="https://mikanani.me/Download/20250210/6519d3c5ac7e90b869c902e5346c6c129cdad774.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [05] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/10bf762ac59372a9eee7b5995a194906339b4de2</link>
 			<title>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [05] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-09T18:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="531732896" url="https://mikanani.me/Download/20250209/52d16e205d319b086b0b9a6c9d0f184815dc092f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][17][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/4aaa5280acd8fe5480932fbe4b97bf05e64c1c5e</link>
-			<title>【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][17][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[青箱 / Ao no Hako / Blue Box][17][1080p][简日双语][招募翻译][421.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4aaa5280acd8fe5480932fbe4b97bf05e64c1c5e</link>
-				<contentLength>441869920</contentLength>
-				<pubDate>2025-02-09T18:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441869920" url="https://mikanani.me/Download/20250209/4aaa5280acd8fe5480932fbe4b97bf05e64c1c5e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

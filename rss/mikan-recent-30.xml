@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/fde9b9a53fce35758b12bced19dfd9b9cce983e2</link>
-			<title>[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 01 (ABEMA 1920x1080 AVC AAC MP4)[729.11 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fde9b9a53fce35758b12bced19dfd9b9cce983e2</link>
-				<contentLength>764527232</contentLength>
-				<pubDate>2025-01-11T10:31:02.114</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="764527232" url="https://mikanani.me/Download/20250111/fde9b9a53fce35758b12bced19dfd9b9cce983e2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
 			<title>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -30291,6 +30279,18 @@
 				<pubDate>2025-02-10T17:53:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="498493024" url="https://mikanani.me/Download/20250210/10bf762ac59372a9eee7b5995a194906339b4de2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6519d3c5ac7e90b869c902e5346c6c129cdad774</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][797.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6519d3c5ac7e90b869c902e5346c6c129cdad774</link>
+				<contentLength>836239360</contentLength>
+				<pubDate>2025-02-10T18:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="836239360" url="https://mikanani.me/Download/20250210/6519d3c5ac7e90b869c902e5346c6c129cdad774.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

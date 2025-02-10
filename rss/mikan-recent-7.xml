@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4fa78b07217cd97466a9567b8151dca3feb5a410</link>
-			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)[643.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4fa78b07217cd97466a9567b8151dca3feb5a410</link>
-				<contentLength>675188544</contentLength>
-				<pubDate>2025-02-03T11:03:01.572</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="675188544" url="https://mikanani.me/Download/20250203/4fa78b07217cd97466a9567b8151dca3feb5a410.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/af53b74dfee5ab0562da0e21c1381ffe934ac07a</link>
 			<title>[VCB-Studio] 圣枪修女 / CHRONO CRUSADE / クロノクルセイド 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -6651,6 +6639,18 @@
 				<pubDate>2025-02-10T17:53:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="498493024" url="https://mikanani.me/Download/20250210/10bf762ac59372a9eee7b5995a194906339b4de2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6519d3c5ac7e90b869c902e5346c6c129cdad774</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 06 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][797.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6519d3c5ac7e90b869c902e5346c6c129cdad774</link>
+				<contentLength>836239360</contentLength>
+				<pubDate>2025-02-10T18:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="836239360" url="https://mikanani.me/Download/20250210/6519d3c5ac7e90b869c902e5346c6c129cdad774.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
