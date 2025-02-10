@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 19 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/56ae0f0fa7c3cecfa706ce495aef53986fa61136</link>
-			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 19 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 19 (B-Global Donghua 2048x870 HEVC AAC MKV)[579.39 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/56ae0f0fa7c3cecfa706ce495aef53986fa61136</link>
-				<contentLength>607534464</contentLength>
-				<pubDate>2025-02-03T10:02:45.437</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="607534464" url="https://mikanani.me/Download/20250203/56ae0f0fa7c3cecfa706ce495aef53986fa61136.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4fa78b07217cd97466a9567b8151dca3feb5a410</link>
 			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -6651,6 +6639,18 @@
 				<pubDate>2025-02-10T16:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="221144672" url="https://mikanani.me/Download/20250210/14babdec86702fb92fef64e1ace45a604e821319.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [05] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/10bf762ac59372a9eee7b5995a194906339b4de2</link>
+			<title>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [05] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</title>
+			<description>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [05] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕][475.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10bf762ac59372a9eee7b5995a194906339b4de2</link>
+				<contentLength>498493024</contentLength>
+				<pubDate>2025-02-10T17:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="498493024" url="https://mikanani.me/Download/20250210/10bf762ac59372a9eee7b5995a194906339b4de2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
