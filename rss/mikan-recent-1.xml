@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[徒弟个个是大佬][第28-33集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/8885e875092989aa8fd7a9c5511a4abf2bc513ac</link>
-			<title>[徒弟个个是大佬][第28-33集][国语中字][WEB-MKV][2160P]</title>
-			<description>[徒弟个个是大佬][第28-33集][国语中字][WEB-MKV][2160P][3.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8885e875092989aa8fd7a9c5511a4abf2bc513ac</link>
-				<contentLength>4080218880</contentLength>
-				<pubDate>2025-02-09T11:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20250209/8885e875092989aa8fd7a9c5511a4abf2bc513ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[牧神记][第15-17集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498</link>
-			<title>[牧神记][第15-17集][国语中字][WEB-MKV][2160P]</title>
-			<description>[牧神记][第15-17集][国语中字][WEB-MKV][2160P][7.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498</link>
-				<contentLength>8267811840</contentLength>
-				<pubDate>2025-02-09T11:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8267811840" url="https://mikanani.me/Download/20250209/bbcbcd5c58d5d7427b9bcbadf40a5edd59298498.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 531(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/3d41038e3df4b598e1d1878d18b8cc796f39bae9</link>
 			<title>[Up to 21°C] 海贼王 / One Piece - 531(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
@@ -1659,6 +1635,18 @@
 				<pubDate>2025-02-10T18:40:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="836239360" url="https://mikanani.me/Download/20250210/6519d3c5ac7e90b869c902e5346c6c129cdad774.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][06][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6911f73b7e6e16e3ad3a967185b84e65cdd74e0b</link>
+			<title>[SweetSub][刹那之花][Momentary Lily][06][WebRip][1080P][AVC 8bit][简日内嵌]</title>
+			<description>[SweetSub][刹那之花][Momentary Lily][06][WebRip][1080P][AVC 8bit][简日内嵌][943.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6911f73b7e6e16e3ad3a967185b84e65cdd74e0b</link>
+				<contentLength>989750912</contentLength>
+				<pubDate>2025-02-10T20:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="989750912" url="https://mikanani.me/Download/20250210/6911f73b7e6e16e3ad3a967185b84e65cdd74e0b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

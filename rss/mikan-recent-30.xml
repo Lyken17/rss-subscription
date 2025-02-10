@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
-			<title>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 大道朝天 / One Way or Another - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)[598.98 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a33230e230234c6d315fa733de17eae9cde49a63</link>
-				<contentLength>628076032</contentLength>
-				<pubDate>2025-01-11T12:03:01.526</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="628076032" url="https://mikanani.me/Download/20250111/a33230e230234c6d315fa733de17eae9cde49a63.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 简中&amp;日文字幕 (整理时间：2023.11.10)</guid>
 			<link>https://mikanani.me/Home/Episode/ce0cc98f53c3bbfa6183d4e17d014a4e83148611</link>
 			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 简中&amp;日文字幕 (整理时间：2023.11.10)</title>
@@ -30291,6 +30279,18 @@
 				<pubDate>2025-02-10T18:40:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="836239360" url="https://mikanani.me/Download/20250210/6519d3c5ac7e90b869c902e5346c6c129cdad774.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][06][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6911f73b7e6e16e3ad3a967185b84e65cdd74e0b</link>
+			<title>[SweetSub][刹那之花][Momentary Lily][06][WebRip][1080P][AVC 8bit][简日内嵌]</title>
+			<description>[SweetSub][刹那之花][Momentary Lily][06][WebRip][1080P][AVC 8bit][简日内嵌][943.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6911f73b7e6e16e3ad3a967185b84e65cdd74e0b</link>
+				<contentLength>989750912</contentLength>
+				<pubDate>2025-02-10T20:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="989750912" url="https://mikanani.me/Download/20250210/6911f73b7e6e16e3ad3a967185b84e65cdd74e0b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
