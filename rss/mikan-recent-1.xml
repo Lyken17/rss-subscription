@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/38c2ab927b91008cd3de751ad75c2297406f1944</link>
-			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][22.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/38c2ab927b91008cd3de751ad75c2297406f1944</link>
-				<contentLength>23173530</contentLength>
-				<pubDate>2025-02-10T13:50:39.821763</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="23173530" url="https://mikanani.me/Download/20250210/38c2ab927b91008cd3de751ad75c2297406f1944.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/03b557023d6e76b46c5dc1f94ec6a02af03d8bf3</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -627,6 +615,18 @@
 				<pubDate>2025-02-11T20:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20250211/80fd942f2b8442b217c2d5cd72f7a02dc610d06d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi]  妖怪学校的菜鸟老师 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/165b511e1632297ab86f8a7aeb70b17250526cfd</link>
+			<title>[ANi]  妖怪学校的菜鸟老师 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi]  妖怪学校的菜鸟老师 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][347.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/165b511e1632297ab86f8a7aeb70b17250526cfd</link>
+				<contentLength>364589888</contentLength>
+				<pubDate>2025-02-11T22:01:06.839581</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364589888" url="https://mikanani.me/Download/20250211/165b511e1632297ab86f8a7aeb70b17250526cfd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
