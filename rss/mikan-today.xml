@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GalaxyRailroad-888] 游戏王GO RUSH!! Yu-Gi-Oh! GO RUSH !! 144 720P [GB_简中]</guid>
+			<link>https://mikanani.me/Home/Episode/1ddf21b4359c77c76f942239fcc21cd9f727dea1</link>
+			<title>[GalaxyRailroad-888] 游戏王GO RUSH!! Yu-Gi-Oh! GO RUSH !! 144 720P [GB_简中]</title>
+			<description>[GalaxyRailroad-888] 游戏王GO RUSH!! Yu-Gi-Oh! GO RUSH !! 144 720P [GB_简中][616MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ddf21b4359c77c76f942239fcc21cd9f727dea1</link>
+				<contentLength>645922816</contentLength>
+				<pubDate>2025-02-13T03:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="645922816" url="https://mikanani.me/Download/20250213/1ddf21b4359c77c76f942239fcc21cd9f727dea1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][06][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/0f0dd17b4d49201db8cd652c5fe5884ee8e858ef</link>
 			<title>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][06][1080p][繁日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-10T10:53:34.05</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1116691456" url="https://mikanani.me/Download/20250210/0dfe046f559299786b46a5672ff4f7ce89ae24ab.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 20 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a47d2546a23f0b048e046c1b27a65dff69f51ba3</link>
-			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 20 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 20 (B-Global Donghua 2048x870 HEVC AAC MKV)[467.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a47d2546a23f0b048e046c1b27a65dff69f51ba3</link>
-				<contentLength>490209280</contentLength>
-				<pubDate>2025-02-10T10:02:19.022</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="490209280" url="https://mikanani.me/Download/20250210/a47d2546a23f0b048e046c1b27a65dff69f51ba3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
