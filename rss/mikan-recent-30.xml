@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/07e682023bb3516fdffc8d8e92e150ffb89ccbf2</link>
-			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)[249.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07e682023bb3516fdffc8d8e92e150ffb89ccbf2</link>
-				<contentLength>262039136</contentLength>
-				<pubDate>2025-01-13T09:01:18.799</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="262039136" url="https://mikanani.me/Download/20250113/07e682023bb3516fdffc8d8e92e150ffb89ccbf2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [18][超强！布丁的保镖][1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/9d0f2057523ea42ae65adab7daa5a527060f8a31</link>
 			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [18][超强！布丁的保镖][1080p][简日内嵌]</title>
@@ -28539,6 +28527,18 @@
 				<pubDate>2025-02-12T12:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16213501952" url="https://mikanani.me/Download/20250212/8885f1f46c8fc74b6ea7db1d90128b3b0f4afc27.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/dd42e99b02200c1b27daf7fee6bb7713f9991114</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封][248.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd42e99b02200c1b27daf7fee6bb7713f9991114</link>
+				<contentLength>260256560</contentLength>
+				<pubDate>2025-02-12T17:10:49.938937</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="260256560" url="https://mikanani.me/Download/20250212/dd42e99b02200c1b27daf7fee6bb7713f9991114.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

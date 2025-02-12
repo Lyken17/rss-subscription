@@ -6064,5 +6064,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16213501952" url="https://mikanani.me/Download/20250212/8885f1f46c8fc74b6ea7db1d90128b3b0f4afc27.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/dd42e99b02200c1b27daf7fee6bb7713f9991114</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封][248.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd42e99b02200c1b27daf7fee6bb7713f9991114</link>
+				<contentLength>260256560</contentLength>
+				<pubDate>2025-02-12T17:10:49.938937</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="260256560" url="https://mikanani.me/Download/20250212/dd42e99b02200c1b27daf7fee6bb7713f9991114.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

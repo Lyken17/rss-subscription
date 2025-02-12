@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/dd42e99b02200c1b27daf7fee6bb7713f9991114</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [28][1080p][简繁日内封][248.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd42e99b02200c1b27daf7fee6bb7713f9991114</link>
+				<contentLength>260256560</contentLength>
+				<pubDate>2025-02-12T17:10:49.938937</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="260256560" url="https://mikanani.me/Download/20250212/dd42e99b02200c1b27daf7fee6bb7713f9991114.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 恋爱FLOPS / LOVE FLOPS / Renai Flops / 恋爱フロップス 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/8885f1f46c8fc74b6ea7db1d90128b3b0f4afc27</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 恋爱FLOPS / LOVE FLOPS / Renai Flops / 恋爱フロップス 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-09T23:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="433481312" url="https://mikanani.me/Download/20250209/27b770a15424c08ff5d4f92b8d7b0b2fd6c2fe4d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  金肉人 完美超人始祖篇 Season 2 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/5b5faeafc2e8105cb824cba4dfc748b7970e7320</link>
-			<title>[ANi]  金肉人 完美超人始祖篇 Season 2 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  金肉人 完美超人始祖篇 Season 2 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][454.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5b5faeafc2e8105cb824cba4dfc748b7970e7320</link>
-				<contentLength>476997216</contentLength>
-				<pubDate>2025-02-09T23:31:06.396852</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="476997216" url="https://mikanani.me/Download/20250209/5b5faeafc2e8105cb824cba4dfc748b7970e7320.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
