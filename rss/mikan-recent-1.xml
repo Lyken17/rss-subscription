@@ -412,5 +412,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250212/90284c7968cf252f327b1ccffe128f63561e0c18.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 07 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a729ba78cfc9040be42b85f94f86eea908b72c3c</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 07 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 07 [WebRip 1080p HEVC-10bit AAC][无字幕][527.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a729ba78cfc9040be42b85f94f86eea908b72c3c</link>
+				<contentLength>553543296</contentLength>
+				<pubDate>2025-02-12T09:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="553543296" url="https://mikanani.me/Download/20250212/a729ba78cfc9040be42b85f94f86eea908b72c3c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/69210404911d2dce8057aad91178aeeadd323e76</link>
+			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][298.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/69210404911d2dce8057aad91178aeeadd323e76</link>
+				<contentLength>312790208</contentLength>
+				<pubDate>2025-02-12T09:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="312790208" url="https://mikanani.me/Download/20250212/69210404911d2dce8057aad91178aeeadd323e76.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
