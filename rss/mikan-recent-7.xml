@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/011bbb3cf87dc8ba16aeecdb90fb8491263553bc</link>
-			<title>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 01-08 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][6.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/011bbb3cf87dc8ba16aeecdb90fb8491263553bc</link>
-				<contentLength>7408818688</contentLength>
-				<pubDate>2025-02-05T16:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7408818688" url="https://mikanani.me/Download/20250205/011bbb3cf87dc8ba16aeecdb90fb8491263553bc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [05] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/e87f8cf645d7174dfc699dace5b8811b0be9a4f5</link>
 			<title>[黑白字幕组]全修。 / Zenshuu. [05] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
@@ -6231,6 +6219,18 @@
 				<pubDate>2025-02-12T22:31:12.836963</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496605600" url="https://mikanani.me/Download/20250212/225e85cc04b26df78abc5abc97cd7258cdc00f28.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/40469c867def5b36cc8960a61cf1d73e4f8f6cfc</link>
+			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[543MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40469c867def5b36cc8960a61cf1d73e4f8f6cfc</link>
+				<contentLength>569376768</contentLength>
+				<pubDate>2025-02-13T00:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="569376768" url="https://mikanani.me/Download/20250213/40469c867def5b36cc8960a61cf1d73e4f8f6cfc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

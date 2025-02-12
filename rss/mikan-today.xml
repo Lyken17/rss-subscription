@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/40469c867def5b36cc8960a61cf1d73e4f8f6cfc</link>
+			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[543MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40469c867def5b36cc8960a61cf1d73e4f8f6cfc</link>
+				<contentLength>569376768</contentLength>
+				<pubDate>2025-02-13T00:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="569376768" url="https://mikanani.me/Download/20250213/40469c867def5b36cc8960a61cf1d73e4f8f6cfc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [18] [1080p] [繁日内嵌] [JaVer] [2025年1月番]</guid>
 			<link>https://mikanani.me/Home/Episode/98e5e95ef9877dba2281c7bb8fa48465971ef0cc</link>
 			<title>[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [18] [1080p] [繁日内嵌] [JaVer] [2025年1月番]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-10T09:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="612892672" url="https://mikanani.me/Download/20250210/0ab393d74ade5f2bb21c95eedb2c43b9ec8b6601.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E05 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/bf909f3659a22c3041625bb41a87140855f0b394</link>
-			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E05 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
-			<description>[SourGrape] 战队红战士在异世界当冒险者 S01E05 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌][899.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bf909f3659a22c3041625bb41a87140855f0b394</link>
-				<contentLength>942879552</contentLength>
-				<pubDate>2025-02-10T09:07:22.259338</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="942879552" url="https://mikanani.me/Download/20250210/bf909f3659a22c3041625bb41a87140855f0b394.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
