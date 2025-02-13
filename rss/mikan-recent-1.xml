@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/fa85459cc4c4c96b0c15f86648b8b1d49e911f21</link>
-			<title>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
-			<description>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][420.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fa85459cc4c4c96b0c15f86648b8b1d49e911f21</link>
-				<contentLength>441345632</contentLength>
-				<pubDate>2025-02-11T23:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441345632" url="https://mikanani.me/Download/20250211/fa85459cc4c4c96b0c15f86648b8b1d49e911f21.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/a24d0fe048b6a01847e9a98cd510d74bffecbe8d</link>
-			<title>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
-			<description>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [简日内嵌][421MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a24d0fe048b6a01847e9a98cd510d74bffecbe8d</link>
-				<contentLength>441450496</contentLength>
-				<pubDate>2025-02-11T23:42:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441450496" url="https://mikanani.me/Download/20250211/a24d0fe048b6a01847e9a98cd510d74bffecbe8d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Hana wa Saku Shura no Gotoku /  群花绽放、彷如修罗 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8e53a5db1f73cce2996ce582b49f21ea4ac4646e</link>
 			<title>[ANi] Hana wa Saku Shura no Gotoku /  群花绽放、彷如修罗 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -471,6 +447,18 @@
 				<pubDate>2025-02-13T03:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="645922816" url="https://mikanani.me/Download/20250213/1ddf21b4359c77c76f942239fcc21cd9f727dea1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7cb17b07047fee0ec1fff3962984f38bbed19626</link>
+			<title>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7cb17b07047fee0ec1fff3962984f38bbed19626</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-02-13T08:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250213/7cb17b07047fee0ec1fff3962984f38bbed19626.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
