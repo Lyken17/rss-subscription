@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b</link>
+			<title>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][494.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b</link>
+				<contentLength>518206272</contentLength>
+				<pubDate>2025-02-13T10:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="518206272" url="https://mikanani.me/Download/20250213/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7cb17b07047fee0ec1fff3962984f38bbed19626</link>
 			<title>[新沸羊羊制作] Re：从零开始的异世界生活 第三季 - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-10T11:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="799014912" url="https://mikanani.me/Download/20250210/eee7e2203d12fe81518e233e2c94dfe06068142a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 129 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/698ffd16b788e3762b8b2a614275debcebb99cc1</link>
-			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 129 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 129 (B-Global Donghua 1920x1080 HEVC AAC MKV)[683.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/698ffd16b788e3762b8b2a614275debcebb99cc1</link>
-				<contentLength>717100160</contentLength>
-				<pubDate>2025-02-10T11:03:17.218</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="717100160" url="https://mikanani.me/Download/20250210/698ffd16b788e3762b8b2a614275debcebb99cc1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
