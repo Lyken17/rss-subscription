@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][入间同学入魔了！ 第二季/Mairimashita! Iruma-kun S2][01-21TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔入りました！入间くん 第2シーズン)</guid>
+			<link>https://mikanani.me/Home/Episode/100c001f182969af54905c0746cf9641f0b69e97</link>
+			<title>[DBD-Raws][入间同学入魔了！ 第二季/Mairimashita! Iruma-kun S2][01-21TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔入りました！入间くん 第2シーズン)</title>
+			<description>[DBD-Raws][入间同学入魔了！ 第二季/Mairimashita! Iruma-kun S2][01-21TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔入りました！入间くん 第2シーズン)[23.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/100c001f182969af54905c0746cf9641f0b69e97</link>
+				<contentLength>25232932864</contentLength>
+				<pubDate>2025-02-13T18:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="25232932864" url="https://mikanani.me/Download/20250213/100c001f182969af54905c0746cf9641f0b69e97.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">OVA I''s Pure.2005.DVD720P.日语中字</guid>
 			<link>https://mikanani.me/Home/Episode/5f847f3b21e56dd6346ad8b53fe17036d1d90c49</link>
 			<title>OVA I''s Pure.2005.DVD720P.日语中字</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-10T13:50:39.821763</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="23173530" url="https://mikanani.me/Download/20250210/38c2ab927b91008cd3de751ad75c2297406f1944.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</guid>
-			<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
-			<title>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）</title>
-			<description>[芝士动物朋友] 七魔剑支配天下 / Nanatsu no Maken ga Shihai Suru / 七つの魔剣が支配する [1-15][BDRip][1080p][HEVC+OPUS][简繁内封]（检索：主宰七魔剑）[4.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/afdba06a6368199eab58b4f215e8156d2b63b4ae</link>
-				<contentLength>4294967296</contentLength>
-				<pubDate>2025-02-10T12:34:58.651596</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250210/afdba06a6368199eab58b4f215e8156d2b63b4ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

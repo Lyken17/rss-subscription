@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7b534726062e120d0ee61a53f4ebcb3034e04a4b</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][579.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7b534726062e120d0ee61a53f4ebcb3034e04a4b</link>
-				<contentLength>608069248</contentLength>
-				<pubDate>2025-02-06T10:41:27.776</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="608069248" url="https://mikanani.me/Download/20250206/7b534726062e120d0ee61a53f4ebcb3034e04a4b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 命运石之门 0 / Steins;Gate 0 / シュタインズ・ゲート ゼロ 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/b9c37174cdadff338417c2c144220f9d03b02848</link>
 			<title>[VCB-Studio] 命运石之门 0 / Steins;Gate 0 / シュタインズ・ゲート ゼロ 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -5847,6 +5835,18 @@
 				<pubDate>2025-02-13T11:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250213/5f847f3b21e56dd6346ad8b53fe17036d1d90c49.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][入间同学入魔了！ 第二季/Mairimashita! Iruma-kun S2][01-21TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔入りました！入间くん 第2シーズン)</guid>
+			<link>https://mikanani.me/Home/Episode/100c001f182969af54905c0746cf9641f0b69e97</link>
+			<title>[DBD-Raws][入间同学入魔了！ 第二季/Mairimashita! Iruma-kun S2][01-21TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔入りました！入间くん 第2シーズン)</title>
+			<description>[DBD-Raws][入间同学入魔了！ 第二季/Mairimashita! Iruma-kun S2][01-21TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔入りました！入间くん 第2シーズン)[23.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/100c001f182969af54905c0746cf9641f0b69e97</link>
+				<contentLength>25232932864</contentLength>
+				<pubDate>2025-02-13T18:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="25232932864" url="https://mikanani.me/Download/20250213/100c001f182969af54905c0746cf9641f0b69e97.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
