@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[完美世界][第202集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/409736bef9b3f9bad37cce1dea4704fe79634d43</link>
+			<title>[完美世界][第202集][国语中字][WEB-MKV][2160P]</title>
+			<description>[完美世界][第202集][国语中字][WEB-MKV][2160P][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/409736bef9b3f9bad37cce1dea4704fe79634d43</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-02-13T20:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250213/409736bef9b3f9bad37cce1dea4704fe79634d43.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[晚街与灯][灼眼的夏娜 第一季_Shakugan no Shana I][04][BDRip_1080P_x264_AAC][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/616c3db10f8fe8b1a8c306d8d0fec03c7b202ef3</link>
 			<title>[晚街与灯][灼眼的夏娜 第一季_Shakugan no Shana I][04][BDRip_1080P_x264_AAC][简日内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-10T15:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="648649088" url="https://mikanani.me/Download/20250210/03b557023d6e76b46c5dc1f94ec6a02af03d8bf3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/bf95e26d1b5f3970e8665f5739ef8bc98de82c4c</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][586.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bf95e26d1b5f3970e8665f5739ef8bc98de82c4c</link>
-				<contentLength>615094656</contentLength>
-				<pubDate>2025-02-10T15:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="615094656" url="https://mikanani.me/Download/20250210/bf95e26d1b5f3970e8665f5739ef8bc98de82c4c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
