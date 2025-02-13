@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">OVA I''s Pure.2005.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/5f847f3b21e56dd6346ad8b53fe17036d1d90c49</link>
+			<title>OVA I''s Pure.2005.DVD720P.日语中字</title>
+			<description>OVA I''s Pure.2005.DVD720P.日语中字[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f847f3b21e56dd6346ad8b53fe17036d1d90c49</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-02-13T11:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250213/5f847f3b21e56dd6346ad8b53fe17036d1d90c49.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b</link>
 			<title>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-10T12:34:58.651596</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250210/afdba06a6368199eab58b4f215e8156d2b63b4ae.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/eee7e2203d12fe81518e233e2c94dfe06068142a</link>
-			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
-			<description>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[762MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eee7e2203d12fe81518e233e2c94dfe06068142a</link>
-				<contentLength>799014912</contentLength>
-				<pubDate>2025-02-10T11:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="799014912" url="https://mikanani.me/Download/20250210/eee7e2203d12fe81518e233e2c94dfe06068142a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

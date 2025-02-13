@@ -5872,5 +5872,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518206272" url="https://mikanani.me/Download/20250213/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">OVA I''s Pure.2005.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/5f847f3b21e56dd6346ad8b53fe17036d1d90c49</link>
+			<title>OVA I''s Pure.2005.DVD720P.日语中字</title>
+			<description>OVA I''s Pure.2005.DVD720P.日语中字[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f847f3b21e56dd6346ad8b53fe17036d1d90c49</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-02-13T11:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250213/5f847f3b21e56dd6346ad8b53fe17036d1d90c49.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
