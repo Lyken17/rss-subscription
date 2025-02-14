@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/356b4306347154d0413c7331aae888e52daf45cd</link>
+			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][437.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/356b4306347154d0413c7331aae888e52daf45cd</link>
+				<contentLength>458647136</contentLength>
+				<pubDate>2025-02-15T05:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="458647136" url="https://mikanani.me/Download/20250215/356b4306347154d0413c7331aae888e52daf45cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][30][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/447f2098f12c9507caf065634097e443bb2024da</link>
 			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][30][简体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-13T00:56:01.626674</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350329248" url="https://mikanani.me/Download/20250213/2f7121c811ec3d00bf35ad62aeb4fa0f8aa5464c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/40469c867def5b36cc8960a61cf1d73e4f8f6cfc</link>
-			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
-			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 34 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[543MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/40469c867def5b36cc8960a61cf1d73e4f8f6cfc</link>
-				<contentLength>569376768</contentLength>
-				<pubDate>2025-02-13T00:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="569376768" url="https://mikanani.me/Download/20250213/40469c867def5b36cc8960a61cf1d73e4f8f6cfc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
