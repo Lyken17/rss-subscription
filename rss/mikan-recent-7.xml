@@ -5248,5 +5248,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="395627712" url="https://mikanani.me/Download/20250214/d1ca0fbe5beb21719bb6a50fef421413389f5a26.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][前辈是男孩子/Senpai wa Otokonoko][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](先辈はおとこのこ)</guid>
+			<link>https://mikanani.me/Home/Episode/5ef259d4816635459a9d7e96671122f359507991</link>
+			<title>[DBD-Raws][前辈是男孩子/Senpai wa Otokonoko][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](先辈はおとこのこ)</title>
+			<description>[DBD-Raws][前辈是男孩子/Senpai wa Otokonoko][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](先辈はおとこのこ)[7.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ef259d4816635459a9d7e96671122f359507991</link>
+				<contentLength>7945689600</contentLength>
+				<pubDate>2025-02-14T16:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250214/5ef259d4816635459a9d7e96671122f359507991.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

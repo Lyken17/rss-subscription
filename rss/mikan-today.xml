@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][前辈是男孩子/Senpai wa Otokonoko][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](先辈はおとこのこ)</guid>
+			<link>https://mikanani.me/Home/Episode/5ef259d4816635459a9d7e96671122f359507991</link>
+			<title>[DBD-Raws][前辈是男孩子/Senpai wa Otokonoko][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](先辈はおとこのこ)</title>
+			<description>[DBD-Raws][前辈是男孩子/Senpai wa Otokonoko][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](先辈はおとこのこ)[7.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ef259d4816635459a9d7e96671122f359507991</link>
+				<contentLength>7945689600</contentLength>
+				<pubDate>2025-02-14T16:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250214/5ef259d4816635459a9d7e96671122f359507991.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][魔法科高中的劣等生 第三季/Mahouka Koukou no Rettousei S3][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔法科高校の劣等生 第3シーズン)</guid>
 			<link>https://mikanani.me/Home/Episode/76f1344a69876dcdf0589ed05a8f0822fbc4d56a</link>
 			<title>[DBD-Raws][魔法科高中的劣等生 第三季/Mahouka Koukou no Rettousei S3][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](魔法科高校の劣等生 第3シーズン)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-11T13:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250211/dafd762a32cda7be69585fe98fc73c980c662e96.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">My Happy Marriage S02E06 The Man Called Naoshi Usui 1080p NF WEB-DL AAC2.0 H 264 MULTi-VARYG (Watashi no Shiawase na Kekkon, Multi-Audio, Multi-Subs)</guid>
-			<link>https://mikanani.me/Home/Episode/7106ebc2328a894e228b21f1b78e37c1c02cffbf</link>
-			<title>My Happy Marriage S02E06 The Man Called Naoshi Usui 1080p NF WEB-DL AAC2.0 H 264 MULTi-VARYG (Watashi no Shiawase na Kekkon, Multi-Audio, Multi-Subs)</title>
-			<description>My Happy Marriage S02E06 The Man Called Naoshi Usui 1080p NF WEB-DL AAC2.0 H 264 MULTi-VARYG (Watashi no Shiawase na Kekkon, Multi-Audio, Multi-Subs)[1.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7106ebc2328a894e228b21f1b78e37c1c02cffbf</link>
-				<contentLength>1717986944</contentLength>
-				<pubDate>2025-02-11T11:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250211/7106ebc2328a894e228b21f1b78e37c1c02cffbf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
