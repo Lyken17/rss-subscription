@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][07][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/9b34319a1e27b20365348561d933a89d8d6f2e00</link>
+			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][07][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][07][1080p][简日双语][招募翻译][389.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b34319a1e27b20365348561d933a89d8d6f2e00</link>
+				<contentLength>408105792</contentLength>
+				<pubDate>2025-02-15T06:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="408105792" url="https://mikanani.me/Download/20250215/9b34319a1e27b20365348561d933a89d8d6f2e00.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/356b4306347154d0413c7331aae888e52daf45cd</link>
 			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-13T01:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="609012928" url="https://mikanani.me/Download/20250213/52321141bfb0c6e7d2e7a0caa52d331d42c87231.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2f7121c811ec3d00bf35ad62aeb4fa0f8aa5464c</link>
-			<title>[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][334.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f7121c811ec3d00bf35ad62aeb4fa0f8aa5464c</link>
-				<contentLength>350329248</contentLength>
-				<pubDate>2025-02-13T00:56:01.626674</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="350329248" url="https://mikanani.me/Download/20250213/2f7121c811ec3d00bf35ad62aeb4fa0f8aa5464c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
