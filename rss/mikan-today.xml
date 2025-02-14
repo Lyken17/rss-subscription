@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 龙珠大魔 / Dragonball DaiMa - 18 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/9f247fc4d17cf6740a54f631a627b40e7fc4e1e5</link>
+			<title>[Skymoon-Raws] 龙珠大魔 / Dragonball DaiMa - 18 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 龙珠大魔 / Dragonball DaiMa - 18 [ViuTV][WEB-DL][1080p][AVC AAC][562.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f247fc4d17cf6740a54f631a627b40e7fc4e1e5</link>
+				<contentLength>590243456</contentLength>
+				<pubDate>2025-02-15T01:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="590243456" url="https://mikanani.me/Download/20250215/9f247fc4d17cf6740a54f631a627b40e7fc4e1e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 06 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e4971b6c239aa3f9cd3e1fc95fd6fb78fa755b99</link>
 			<title>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 06 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-12T22:55:05.177801</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="706006208" url="https://mikanani.me/Download/20250212/283144cc17752259b18f4004a94304d1c9e7b6cc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  Re：从零开始的异世界生活 第三季 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/225e85cc04b26df78abc5abc97cd7258cdc00f28</link>
-			<title>[ANi]  Re：从零开始的异世界生活 第三季 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  Re：从零开始的异世界生活 第三季 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][473.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/225e85cc04b26df78abc5abc97cd7258cdc00f28</link>
-				<contentLength>496605600</contentLength>
-				<pubDate>2025-02-12T22:31:12.836963</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="496605600" url="https://mikanani.me/Download/20250212/225e85cc04b26df78abc5abc97cd7258cdc00f28.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
