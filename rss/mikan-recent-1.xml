@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b</link>
-			<title>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 15 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][494.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b</link>
-				<contentLength>518206272</contentLength>
-				<pubDate>2025-02-13T10:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="518206272" url="https://mikanani.me/Download/20250213/5d78d5e39db1b19c67d37f9700c85c72d39c9a9b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">OVA I''s Pure.2005.DVD720P.日语中字</guid>
 			<link>https://mikanani.me/Home/Episode/5f847f3b21e56dd6346ad8b53fe17036d1d90c49</link>
 			<title>OVA I''s Pure.2005.DVD720P.日语中字</title>
@@ -447,6 +435,18 @@
 				<pubDate>2025-02-14T16:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250214/5ef259d4816635459a9d7e96671122f359507991.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/c442ec66bc5b05a7f36f845ca672405554232e37</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c442ec66bc5b05a7f36f845ca672405554232e37</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-02-14T18:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250214/c442ec66bc5b05a7f36f845ca672405554232e37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

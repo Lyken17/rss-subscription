@@ -27268,5 +27268,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250214/5ef259d4816635459a9d7e96671122f359507991.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/c442ec66bc5b05a7f36f845ca672405554232e37</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c442ec66bc5b05a7f36f845ca672405554232e37</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-02-14T18:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250214/c442ec66bc5b05a7f36f845ca672405554232e37.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
