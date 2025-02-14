@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
-			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 03 [WebRip 1080p HEVC-10bit AAC][无字幕][459.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b242f059f055877a25500f0887bf5c882068c88c</link>
-				<contentLength>481936000</contentLength>
-				<pubDate>2025-01-15T15:09:14.386</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="481936000" url="https://mikanani.me/Download/20250115/b242f059f055877a25500f0887bf5c882068c88c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e9249464c6c5fd74409e760e87484920c1351744</link>
 			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2103,6 +2091,18 @@
 				<pubDate>2025-02-13T21:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542638080" url="https://mikanani.me/Download/20250213/8f5c22554602b2ad364da4205051bb097917b9f9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/91e873e831d76bbfd53ff507b6dd4678e16178c6</link>
+			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][326MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/91e873e831d76bbfd53ff507b6dd4678e16178c6</link>
+				<contentLength>341835776</contentLength>
+				<pubDate>2025-02-14T22:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="341835776" url="https://mikanani.me/Download/20250214/91e873e831d76bbfd53ff507b6dd4678e16178c6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
