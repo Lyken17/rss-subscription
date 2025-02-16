@@ -1336,5 +1336,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="905025920" url="https://mikanani.me/Download/20250216/1f38830b82030b8c1676883c2ddd93e302fca89b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/99fee4379096220057dda21031f1170bd376c608</link>
+			<title>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 18 (ABEMA 1920x1080 AVC AAC MP4)[711.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99fee4379096220057dda21031f1170bd376c608</link>
+				<contentLength>745883584</contentLength>
+				<pubDate>2025-02-17T01:00:53.695</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="745883584" url="https://mikanani.me/Download/20250217/99fee4379096220057dda21031f1170bd376c608.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 无名记忆 第二季 / Unnamed Memory S2 - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/119de217d458258a222ef45596e1ed2e98818e0c</link>
+			<title>[Up to 21°C] 无名记忆 第二季 / Unnamed Memory S2 - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 无名记忆 第二季 / Unnamed Memory S2 - 18 (ABEMA 1920x1080 AVC AAC MP4)[712.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/119de217d458258a222ef45596e1ed2e98818e0c</link>
+				<contentLength>747089408</contentLength>
+				<pubDate>2025-02-17T00:30:53.082</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747089408" url="https://mikanani.me/Download/20250217/119de217d458258a222ef45596e1ed2e98818e0c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
