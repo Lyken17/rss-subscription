@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</guid>
+			<link>https://mikanani.me/Home/Episode/64af2f6911f678a57f3bb66479b7f07471614735</link>
+			<title>[DBD-Raws][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</title>
+			<description>[DBD-Raws][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)[10.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64af2f6911f678a57f3bb66479b7f07471614735</link>
+				<contentLength>11596411904</contentLength>
+				<pubDate>2025-02-16T15:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11596411904" url="https://mikanani.me/Download/20250216/64af2f6911f678a57f3bb66479b7f07471614735.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0de71d574f2c57043f4927dcacee859a8a83d51b</link>
 			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-02-14T23:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="308805632" url="https://mikanani.me/Download/20250214/1fc5528042231098c441fde3295ee46fb6637708.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [18v2] [1080p] [繁日内嵌] [JaVer] [2025年1月番]</guid>
-			<link>https://mikanani.me/Home/Episode/c7d4de18936566db200ef409be9a1cc3cc7f7744</link>
-			<title>[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [18v2] [1080p] [繁日内嵌] [JaVer] [2025年1月番]</title>
-			<description>[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [18v2] [1080p] [繁日内嵌] [JaVer] [2025年1月番][609.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c7d4de18936566db200ef409be9a1cc3cc7f7744</link>
-				<contentLength>639211904</contentLength>
-				<pubDate>2025-02-14T23:22:03.805305</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="639211904" url="https://mikanani.me/Download/20250214/c7d4de18936566db200ef409be9a1cc3cc7f7744.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

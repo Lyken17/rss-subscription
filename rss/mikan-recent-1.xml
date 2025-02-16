@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][07][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/9b34319a1e27b20365348561d933a89d8d6f2e00</link>
-			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][07][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][07][1080p][简日双语][招募翻译][389.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b34319a1e27b20365348561d933a89d8d6f2e00</link>
-				<contentLength>408105792</contentLength>
-				<pubDate>2025-02-15T06:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="408105792" url="https://mikanani.me/Download/20250215/9b34319a1e27b20365348561d933a89d8d6f2e00.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][19][1080p][简日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/0b01ea1a53235fc460b6fa764d11a8af4a15d642</link>
 			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][19][1080p][简日双语][招募翻译]</title>
@@ -843,6 +831,18 @@
 				<pubDate>2025-02-16T09:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="521247136" url="https://mikanani.me/Download/20250216/0de71d574f2c57043f4927dcacee859a8a83d51b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</guid>
+			<link>https://mikanani.me/Home/Episode/64af2f6911f678a57f3bb66479b7f07471614735</link>
+			<title>[DBD-Raws][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</title>
+			<description>[DBD-Raws][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)[10.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64af2f6911f678a57f3bb66479b7f07471614735</link>
+				<contentLength>11596411904</contentLength>
+				<pubDate>2025-02-16T15:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11596411904" url="https://mikanani.me/Download/20250216/64af2f6911f678a57f3bb66479b7f07471614735.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
