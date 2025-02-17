@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9</link>
+			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)[283.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9</link>
+				<contentLength>297627808</contentLength>
+				<pubDate>2025-02-17T09:01:30.506</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="297627808" url="https://mikanani.me/Download/20250217/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SourGrape] 战队红战士在异世界当冒险者 S01E06 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/8c0afd3c711eb3e0a1d0f39c48cb789694af6cf6</link>
 			<title>[SourGrape] 战队红战士在异世界当冒险者 S01E06 [WebRip] [1080p] [手抄B站字幕] [特效字幕] [简中内嵌]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-02-16T00:31:30.267994</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="374865920" url="https://mikanani.me/Download/20250216/58860eba528cda6f1f35aa99c09271c425b9985f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Solo Leveling S02 /  我独自升级 第二季 －起于暗影－ - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3609340a99b7db7dab9b841b6bf418186df6a8a1</link>
-			<title>[ANi] Solo Leveling S02 /  我独自升级 第二季 －起于暗影－ - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Solo Leveling S02 /  我独自升级 第二季 －起于暗影－ - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][446.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3609340a99b7db7dab9b841b6bf418186df6a8a1</link>
-				<contentLength>468398912</contentLength>
-				<pubDate>2025-02-16T00:31:02.369716</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="468398912" url="https://mikanani.me/Download/20250216/3609340a99b7db7dab9b841b6bf418186df6a8a1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
