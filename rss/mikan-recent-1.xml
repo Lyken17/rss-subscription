@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][长生界][The Eternal Realm][2024][17][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/f403d73151fd7e97b496a474ad8e002257c86f11</link>
-			<title>[GM-Team][国漫][长生界][The Eternal Realm][2024][17][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][长生界][The Eternal Realm][2024][17][HEVC][GB][4K][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f403d73151fd7e97b496a474ad8e002257c86f11</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-02-16T19:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250216/f403d73151fd7e97b496a474ad8e002257c86f11.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][长生界][The Eternal Realm][2024][16][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/10737947e97f1879d40da9be89cd6ad001de7d6c</link>
-			<title>[GM-Team][国漫][长生界][The Eternal Realm][2024][16][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][长生界][The Eternal Realm][2024][16][HEVC][GB][4K][1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/10737947e97f1879d40da9be89cd6ad001de7d6c</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-02-16T19:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250216/10737947e97f1879d40da9be89cd6ad001de7d6c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][长生界][The Eternal Realm][2024][15][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/a0d0e5723ccab8e11a3e1dc5dc6f61315300e7eb</link>
-			<title>[GM-Team][国漫][长生界][The Eternal Realm][2024][15][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][长生界][The Eternal Realm][2024][15][HEVC][GB][4K][1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a0d0e5723ccab8e11a3e1dc5dc6f61315300e7eb</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-02-16T19:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250216/a0d0e5723ccab8e11a3e1dc5dc6f61315300e7eb.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][76][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/114a17d6d21e47bef4e597e374a17d931ff3ca3c</link>
 			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][76][AVC][GB][1080P]</title>
@@ -1563,6 +1527,18 @@
 				<pubDate>2025-02-18T01:44:46.727</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="407770240" url="https://mikanani.me/Download/20250218/81f87d98e9f76bb6d21d46d39c27c313ac9db82b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/821a7670841bdc354058351e205b3bed4e7157b0</link>
+			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 18 (ABEMA 1920x1080 AVC AAC MP4)[43.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/821a7670841bdc354058351e205b3bed4e7157b0</link>
+				<contentLength>45906656</contentLength>
+				<pubDate>2025-02-18T02:35:23.443</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="45906656" url="https://mikanani.me/Download/20250218/821a7670841bdc354058351e205b3bed4e7157b0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

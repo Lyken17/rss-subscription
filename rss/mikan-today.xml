@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/821a7670841bdc354058351e205b3bed4e7157b0</link>
+			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 18 (ABEMA 1920x1080 AVC AAC MP4)[43.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/821a7670841bdc354058351e205b3bed4e7157b0</link>
+				<contentLength>45906656</contentLength>
+				<pubDate>2025-02-18T02:35:23.443</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="45906656" url="https://mikanani.me/Download/20250218/821a7670841bdc354058351e205b3bed4e7157b0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c1c1d03862f9d352f476730a5a9bb7ecf8a9fc77</link>
 			<title>[Up to 21°C] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-16T22:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="477102080" url="https://mikanani.me/Download/20250216/9a2c995a817d6811808ba04152ed56a65f2076f4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][07v2][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/bab9be2f84d6d045bbc5ae868d4038cbaf93d1a4</link>
-			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][07v2][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][07v2][简体][1080P][MP4][374.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bab9be2f84d6d045bbc5ae868d4038cbaf93d1a4</link>
-				<contentLength>393006272</contentLength>
-				<pubDate>2025-02-16T22:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="393006272" url="https://mikanani.me/Download/20250216/bab9be2f84d6d045bbc5ae868d4038cbaf93d1a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
