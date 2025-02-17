@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 21 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f42470a6cdf2acca5429bf5283ef509951931edc</link>
+			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 21 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 21 (B-Global Donghua 2048x870 HEVC AAC MKV)[498.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f42470a6cdf2acca5429bf5283ef509951931edc</link>
+				<contentLength>522641728</contentLength>
+				<pubDate>2025-02-17T10:02:26.402</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="522641728" url="https://mikanani.me/Download/20250217/f42470a6cdf2acca5429bf5283ef509951931edc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-02-16T00:32:02.844617</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="521247136" url="https://mikanani.me/Download/20250216/1ad926fec20110b0d37662cf7b9bd4820e36b770.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  我与尼特女忍者的莫名同居生活 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/58860eba528cda6f1f35aa99c09271c425b9985f</link>
-			<title>[ANi]  我与尼特女忍者的莫名同居生活 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  我与尼特女忍者的莫名同居生活 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][357.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58860eba528cda6f1f35aa99c09271c425b9985f</link>
-				<contentLength>374865920</contentLength>
-				<pubDate>2025-02-16T00:31:30.267994</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="374865920" url="https://mikanani.me/Download/20250216/58860eba528cda6f1f35aa99c09271c425b9985f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
