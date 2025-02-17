@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [29][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/b633e54e9ee59aa83ef8d51ff0a2ec5376403171</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [29][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [29][1080p][简繁日内封][294.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b633e54e9ee59aa83ef8d51ff0a2ec5376403171</link>
+				<contentLength>308595904</contentLength>
+				<pubDate>2025-02-17T12:12:38.117932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="308595904" url="https://mikanani.me/Download/20250217/b633e54e9ee59aa83ef8d51ff0a2ec5376403171.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 130 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/292ac4d5dbf3f5bd44c1a17e474ab2f911962e7d</link>
 			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 130 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-02-16T00:50:26.731801</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="756023296" url="https://mikanani.me/Download/20250216/d32e600276e6fae65b92bcdff33b4bd7cb9af38e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">SAKAMOTO DAYS S01E07 Jurassic Bastard 1080p NF WEB-DL DDP5.1 H 264 MULTi-VARYG (Multi-Audio, Multi-Subs)</guid>
-			<link>https://mikanani.me/Home/Episode/6da4e88126eb6013459b4abea8787ef1fdfaf5c9</link>
-			<title>SAKAMOTO DAYS S01E07 Jurassic Bastard 1080p NF WEB-DL DDP5.1 H 264 MULTi-VARYG (Multi-Audio, Multi-Subs)</title>
-			<description>SAKAMOTO DAYS S01E07 Jurassic Bastard 1080p NF WEB-DL DDP5.1 H 264 MULTi-VARYG (Multi-Audio, Multi-Subs)[1.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6da4e88126eb6013459b4abea8787ef1fdfaf5c9</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-02-16T00:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250216/6da4e88126eb6013459b4abea8787ef1fdfaf5c9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
