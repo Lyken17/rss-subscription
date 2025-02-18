@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9</link>
-			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)[283.84 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9</link>
-				<contentLength>297627808</contentLength>
-				<pubDate>2025-02-17T09:01:30.506</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="297627808" url="https://mikanani.me/Download/20250217/45a1fed6516c6562121c97ca6fc6d6cc6ef6f0e9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 21 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f42470a6cdf2acca5429bf5283ef509951931edc</link>
 			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 21 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
@@ -1095,6 +1083,18 @@
 				<pubDate>2025-02-18T14:59:35.628</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="661934592" url="https://mikanani.me/Download/20250218/7e9e478f637b142660bfb07084484a1a1bdec45f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][4K_HDR][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</guid>
+			<link>https://mikanani.me/Home/Episode/8d40282920f61739ef9f31aac111e25925ca8dd5</link>
+			<title>[DBD-Raws][4K_HDR][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</title>
+			<description>[DBD-Raws][4K_HDR][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)[18.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d40282920f61739ef9f31aac111e25925ca8dd5</link>
+				<contentLength>19971598336</contentLength>
+				<pubDate>2025-02-18T16:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19971598336" url="https://mikanani.me/Download/20250218/8d40282920f61739ef9f31aac111e25925ca8dd5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

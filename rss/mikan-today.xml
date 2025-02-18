@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][4K_HDR][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</guid>
+			<link>https://mikanani.me/Home/Episode/8d40282920f61739ef9f31aac111e25925ca8dd5</link>
+			<title>[DBD-Raws][4K_HDR][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)</title>
+			<description>[DBD-Raws][4K_HDR][超时空要塞 可曾记得爱/The Super Dimension Fortress Macross - Do You Remember Love?][完全版+院线版][2160P][UHDBDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Choujikuu Yousai Macross: Ai Oboete Imasuka/超时空要塞マクロス 爱・おぼえていますか)[18.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d40282920f61739ef9f31aac111e25925ca8dd5</link>
+				<contentLength>19971598336</contentLength>
+				<pubDate>2025-02-18T16:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19971598336" url="https://mikanani.me/Download/20250218/8d40282920f61739ef9f31aac111e25925ca8dd5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 35 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/7e9e478f637b142660bfb07084484a1a1bdec45f</link>
 			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 35 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-17T02:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="339214336" url="https://mikanani.me/Download/20250217/6fe55da89242ebc76f491fd863aaffe2f1d45938.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 魔神创造传 / Mashin Souzouden Wataru - 06 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/a11c0e1957c3f7677c876296fe8b79a180ae6e05</link>
-			<title>[Skymoon-Raws] 魔神创造传 / Mashin Souzouden Wataru - 06 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 魔神创造传 / Mashin Souzouden Wataru - 06 [ViuTV][WEB-DL][1080p][AVC AAC][541.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a11c0e1957c3f7677c876296fe8b79a180ae6e05</link>
-				<contentLength>567384448</contentLength>
-				<pubDate>2025-02-17T02:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="567384448" url="https://mikanani.me/Download/20250217/a11c0e1957c3f7677c876296fe8b79a180ae6e05.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
