@@ -1072,5 +1072,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="284919072" url="https://mikanani.me/Download/20250218/9048075c8fbea13f196bb24f18461eb50532d583.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简繁日语字幕][1080P][HEVC MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/cc852bbc72dddbf614b5148846a5ee25c83ba1ff</link>
+			<title>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简繁日语字幕][1080P][HEVC MKV]</title>
+			<description>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简繁日语字幕][1080P][HEVC MKV][243.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cc852bbc72dddbf614b5148846a5ee25c83ba1ff</link>
+				<contentLength>255055632</contentLength>
+				<pubDate>2025-02-18T13:43:09.3</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="255055632" url="https://mikanani.me/Download/20250218/cc852bbc72dddbf614b5148846a5ee25c83ba1ff.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简日双语字幕][1080P][CHS MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/e5e066933525b9e41ebb00cebfac358450955344</link>
+			<title>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简日双语字幕][1080P][CHS MP4]</title>
+			<description>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简日双语字幕][1080P][CHS MP4][192.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e5e066933525b9e41ebb00cebfac358450955344</link>
+				<contentLength>202144480</contentLength>
+				<pubDate>2025-02-18T13:42:43.678</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="202144480" url="https://mikanani.me/Download/20250218/e5e066933525b9e41ebb00cebfac358450955344.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
