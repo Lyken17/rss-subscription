@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [29][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/b633e54e9ee59aa83ef8d51ff0a2ec5376403171</link>
-			<title>[萌樱字幕组] 药屋少女的呢喃 [29][1080p][简繁日内封]</title>
-			<description>[萌樱字幕组] 药屋少女的呢喃 [29][1080p][简繁日内封][294.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b633e54e9ee59aa83ef8d51ff0a2ec5376403171</link>
-				<contentLength>308595904</contentLength>
-				<pubDate>2025-02-17T12:12:38.117932</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="308595904" url="https://mikanani.me/Download/20250217/b633e54e9ee59aa83ef8d51ff0a2ec5376403171.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/cc45ab6e60ec2643829dcc82c3aa89bcdd48c3b4</link>
 			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,6 +1179,30 @@
 				<pubDate>2025-02-18T18:16:24.903</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="555567040" url="https://mikanani.me/Download/20250218/1126ffdf5c0da27eb81aa6e14863925db393d885.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[遮天][第97集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/a179b5894652836d02d56f926f784bf75a2a0e52</link>
+			<title>[遮天][第97集][国语中字][WEB-MKV][2160P]</title>
+			<description>[遮天][第97集][国语中字][WEB-MKV][2160P][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a179b5894652836d02d56f926f784bf75a2a0e52</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2025-02-18T20:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250218/a179b5894652836d02d56f926f784bf75a2a0e52.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[冷番补完字幕组][BanG Dream! Ave Mujica][2025][WEB][06][1080p][内封简繁中字]</guid>
+			<link>https://mikanani.me/Home/Episode/d57e4feb13495f6e6b742afc11e3a44c23e37f54</link>
+			<title>[冷番补完字幕组][BanG Dream! Ave Mujica][2025][WEB][06][1080p][内封简繁中字]</title>
+			<description>[冷番补完字幕组][BanG Dream! Ave Mujica][2025][WEB][06][1080p][内封简繁中字][528MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d57e4feb13495f6e6b742afc11e3a44c23e37f54</link>
+				<contentLength>553648128</contentLength>
+				<pubDate>2025-02-18T19:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="553648128" url="https://mikanani.me/Download/20250218/d57e4feb13495f6e6b742afc11e3a44c23e37f54.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
