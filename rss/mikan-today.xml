@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/32271d246ae537bada47af1b88006a686eb08af9</link>
+			<title>[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
+			<description>[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][367.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/32271d246ae537bada47af1b88006a686eb08af9</link>
+				<contentLength>385037120</contentLength>
+				<pubDate>2025-02-19T01:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385037120" url="https://mikanani.me/Download/20250219/32271d246ae537bada47af1b88006a686eb08af9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/dea43a4d476a3b8f0c674929c1898308a481a5d3</link>
 			<title>[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-17T22:28:18.174</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="94434752" url="https://mikanani.me/Download/20250217/8d1f49b74927411eddd9f65b85371bd54cdfaf5c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 「只能触摸一分钟哦...」合租房的秘密规则。 / 「1 Funkan dake Furete mo Ii yo...」 Share House no Himitsu Rule. [05][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/947d2ef0297fa6842a27bd89c46fc58a54ecb307</link>
-			<title>[桜都字幕组] 「只能触摸一分钟哦...」合租房的秘密规则。 / 「1 Funkan dake Furete mo Ii yo...」 Share House no Himitsu Rule. [05][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 「只能触摸一分钟哦...」合租房的秘密规则。 / 「1 Funkan dake Furete mo Ii yo...」 Share House no Himitsu Rule. [05][1080p][繁体内嵌][114.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/947d2ef0297fa6842a27bd89c46fc58a54ecb307</link>
-				<contentLength>120166808</contentLength>
-				<pubDate>2025-02-17T22:27:57.753</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="120166808" url="https://mikanani.me/Download/20250217/947d2ef0297fa6842a27bd89c46fc58a54ecb307.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

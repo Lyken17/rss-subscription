@@ -5140,5 +5140,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250219/dec5877abd3d67234fdf75a7a99e930b26fa6f16.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/32271d246ae537bada47af1b88006a686eb08af9</link>
+			<title>[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
+			<description>[黑白字幕组]全修。 / Zenshuu. [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][367.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/32271d246ae537bada47af1b88006a686eb08af9</link>
+				<contentLength>385037120</contentLength>
+				<pubDate>2025-02-19T01:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385037120" url="https://mikanani.me/Download/20250219/32271d246ae537bada47af1b88006a686eb08af9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
