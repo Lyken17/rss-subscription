@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 35 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/7e9e478f637b142660bfb07084484a1a1bdec45f</link>
+			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 35 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 35 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)[631.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7e9e478f637b142660bfb07084484a1a1bdec45f</link>
+				<contentLength>661934592</contentLength>
+				<pubDate>2025-02-18T14:59:35.628</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="661934592" url="https://mikanani.me/Download/20250218/7e9e478f637b142660bfb07084484a1a1bdec45f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简繁日语字幕][1080P][HEVC MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/cc852bbc72dddbf614b5148846a5ee25c83ba1ff</link>
 			<title>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][01][TVRip][简繁日语字幕][1080P][HEVC MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-17T02:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="567384448" url="https://mikanani.me/Download/20250217/a11c0e1957c3f7677c876296fe8b79a180ae6e05.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 19 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/3acdcf1abcd1dd6f678344bdc345bf2da3dedb6e</link>
-			<title>[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 19 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 香格里拉·开拓异境～粪作猎手挑战神作～第2季 / Shangri-La Frontier 2nd Season - 19 [ViuTV][WEB-DL][1080p][AVC AAC][488.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3acdcf1abcd1dd6f678344bdc345bf2da3dedb6e</link>
-				<contentLength>512334240</contentLength>
-				<pubDate>2025-02-17T01:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="512334240" url="https://mikanani.me/Download/20250217/3acdcf1abcd1dd6f678344bdc345bf2da3dedb6e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
