@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7df5872bbf4d315ebac8eb9c09290362138d0aee</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][719.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7df5872bbf4d315ebac8eb9c09290362138d0aee</link>
-				<contentLength>754513344</contentLength>
-				<pubDate>2025-01-20T10:43:07.986</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="754513344" url="https://mikanani.me/Download/20250120/7df5872bbf4d315ebac8eb9c09290362138d0aee.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8714e9191fae2c87bd780ab93072dedbf2207bf0</link>
 			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2223,6 +2211,18 @@
 				<pubDate>2025-02-19T16:12:28.975</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="249435264" url="https://mikanani.me/Download/20250219/b8970ee2faf3e600ce848febe941c6ca74db4a3f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 这公司有我喜欢的人 / この会社に好きな人がいます / Kono Kaisha ni Suki na Hito ga Imasu - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e5f48854a62160fa29509c759e71b13dfd7f416b</link>
+			<title>[LoliHouse] 这公司有我喜欢的人 / この会社に好きな人がいます / Kono Kaisha ni Suki na Hito ga Imasu - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 这公司有我喜欢的人 / この会社に好きな人がいます / Kono Kaisha ni Suki na Hito ga Imasu - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][300.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e5f48854a62160fa29509c759e71b13dfd7f416b</link>
+				<contentLength>315474560</contentLength>
+				<pubDate>2025-02-19T18:21:55.464</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="315474560" url="https://mikanani.me/Download/20250219/e5f48854a62160fa29509c759e71b13dfd7f416b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
