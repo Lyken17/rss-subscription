@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 07 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b9174f1a6b3a53c3749c0fd8d7de5f5e363e7afd</link>
+			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 07 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 07 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9174f1a6b3a53c3749c0fd8d7de5f5e363e7afd</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-02-20T02:27:50.759</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250220/b9174f1a6b3a53c3749c0fd8d7de5f5e363e7afd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 60 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/e45fe3bade8d26500deb5ddffea3045099d73c90</link>
 			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 60 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-18T23:16:00.878829</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="228379856" url="https://mikanani.me/Download/20250218/3bb8ddbeac1b811e56c428020316e69455174103.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [21] [1080p] [简日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/8488a77aeb654f066315f4b9af208172b860cd1b</link>
-			<title>[猎户手抄部] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [21] [1080p] [简日内嵌] [2024年10月番]</title>
-			<description>[猎户手抄部] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [21] [1080p] [简日内嵌] [2024年10月番][217.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8488a77aeb654f066315f4b9af208172b860cd1b</link>
-				<contentLength>228170144</contentLength>
-				<pubDate>2025-02-18T23:15:44.960847</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="228170144" url="https://mikanani.me/Download/20250218/8488a77aeb654f066315f4b9af208172b860cd1b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
