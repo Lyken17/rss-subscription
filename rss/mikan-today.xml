@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 08 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a19d3286fbbb34fa8010e4f1d0fbeb559c9dc770</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 08 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 08 [WebRip 1080p HEVC-10bit AAC][无字幕][578.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a19d3286fbbb34fa8010e4f1d0fbeb559c9dc770</link>
+				<contentLength>606286656</contentLength>
+				<pubDate>2025-02-19T14:18:42.456</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="606286656" url="https://mikanani.me/Download/20250219/a19d3286fbbb34fa8010e4f1d0fbeb559c9dc770.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 夏日重现 / Summer Time Rendering / サマータイムレンダ 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/526a50fff149641854310dc86c14d1fa81be97ea</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 夏日重现 / Summer Time Rendering / サマータイムレンダ 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-17T23:31:14.428</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="778693504" url="https://mikanani.me/Download/20250217/3a55953694c8cb1a723056791b6d0edfcc0b2e8f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 平凡职业造就世界最强 第三季 / Arifureta Shokugyou de Sekai Saikyou Season 3 - 16 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d1c64572be030d50786ae1bf4f18be8c48013bfd</link>
-			<title>[Up to 21°C] 平凡职业造就世界最强 第三季 / Arifureta Shokugyou de Sekai Saikyou Season 3 - 16 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 平凡职业造就世界最强 第三季 / Arifureta Shokugyou de Sekai Saikyou Season 3 - 16 (B-Global 1920x1080 HEVC AAC MKV)[341.24 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d1c64572be030d50786ae1bf4f18be8c48013bfd</link>
-				<contentLength>357816064</contentLength>
-				<pubDate>2025-02-17T23:01:47.567</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="357816064" url="https://mikanani.me/Download/20250217/d1c64572be030d50786ae1bf4f18be8c48013bfd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
