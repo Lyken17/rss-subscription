@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 08 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/a19d3286fbbb34fa8010e4f1d0fbeb559c9dc770</link>
-			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 08 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 08 [WebRip 1080p HEVC-10bit AAC][无字幕][578.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a19d3286fbbb34fa8010e4f1d0fbeb559c9dc770</link>
-				<contentLength>606286656</contentLength>
-				<pubDate>2025-02-19T14:18:42.456</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="606286656" url="https://mikanani.me/Download/20250219/a19d3286fbbb34fa8010e4f1d0fbeb559c9dc770.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b8970ee2faf3e600ce848febe941c6ca74db4a3f</link>
 			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -87,6 +75,18 @@
 				<pubDate>2025-02-20T21:45:38.784</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="683231168" url="https://mikanani.me/Download/20250220/782e527dfa956b21a83966c8f25155f950100bbe.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/035f9f581b72b14641520f14b9ac3b1b33264176</link>
+			<title>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][431.91 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/035f9f581b72b14641520f14b9ac3b1b33264176</link>
+				<contentLength>452890464</contentLength>
+				<pubDate>2025-02-20T22:57:31.149</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="452890464" url="https://mikanani.me/Download/20250220/035f9f581b72b14641520f14b9ac3b1b33264176.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
