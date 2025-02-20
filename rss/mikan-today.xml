@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 间谍过家家 / 间谍家家酒 / SPYxFAMILY 10-bit 1080p HEVC BDRip [S1-S2 + MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/a3c67fa207abdc7c0429860b29d084478da00fca</link>
+			<title>[VCB-Studio] 间谍过家家 / 间谍家家酒 / SPYxFAMILY 10-bit 1080p HEVC BDRip [S1-S2 + MOVIE Fin]</title>
+			<description>[VCB-Studio] 间谍过家家 / 间谍家家酒 / SPYxFAMILY 10-bit 1080p HEVC BDRip [S1-S2 + MOVIE Fin][64.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3c67fa207abdc7c0429860b29d084478da00fca</link>
+				<contentLength>69148975104</contentLength>
+				<pubDate>2025-02-20T12:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="69148975104" url="https://mikanani.me/Download/20250220/a3c67fa207abdc7c0429860b29d084478da00fca.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] Re：从零开始的异世界生活 第三季 - 11 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/98c94fc8e6d4f021394f28d38bf4d3e44f9a61b7</link>
 			<title>[不当舔狗制作组] Re：从零开始的异世界生活 第三季 - 11 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-18T23:18:51.462</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1046332032" url="https://mikanani.me/Download/20250218/8a38fe5d308e04781ec45d4105ba8313293acba8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Billion Meta Lab] 昙花一现的百合 Momentary Lily [06][1080P][繁日内嵌][检索：刹那之花]</guid>
-			<link>https://mikanani.me/Home/Episode/01ae68325f103259be90ca5d39470dbb3318e35a</link>
-			<title>[Billion Meta Lab] 昙花一现的百合 Momentary Lily [06][1080P][繁日内嵌][检索：刹那之花]</title>
-			<description>[Billion Meta Lab] 昙花一现的百合 Momentary Lily [06][1080P][繁日内嵌][检索：刹那之花][595.44 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/01ae68325f103259be90ca5d39470dbb3318e35a</link>
-				<contentLength>624364096</contentLength>
-				<pubDate>2025-02-18T23:18:32.697</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="624364096" url="https://mikanani.me/Download/20250218/01ae68325f103259be90ca5d39470dbb3318e35a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -25600,5 +25600,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="485490688" url="https://mikanani.me/Download/20250220/98c94fc8e6d4f021394f28d38bf4d3e44f9a61b7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 间谍过家家 / 间谍家家酒 / SPYxFAMILY 10-bit 1080p HEVC BDRip [S1-S2 + MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/a3c67fa207abdc7c0429860b29d084478da00fca</link>
+			<title>[VCB-Studio] 间谍过家家 / 间谍家家酒 / SPYxFAMILY 10-bit 1080p HEVC BDRip [S1-S2 + MOVIE Fin]</title>
+			<description>[VCB-Studio] 间谍过家家 / 间谍家家酒 / SPYxFAMILY 10-bit 1080p HEVC BDRip [S1-S2 + MOVIE Fin][64.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3c67fa207abdc7c0429860b29d084478da00fca</link>
+				<contentLength>69148975104</contentLength>
+				<pubDate>2025-02-20T12:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="69148975104" url="https://mikanani.me/Download/20250220/a3c67fa207abdc7c0429860b29d084478da00fca.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
