@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第89集][国语中字][WEB-MKV][2160P]</guid>
+			<link>https://mikanani.me/Home/Episode/976e5c979b3c049027eece3d0cf1f8e39c48c002</link>
+			<title>[斗罗大陆2绝世唐门][第89集][国语中字][WEB-MKV][2160P]</title>
+			<description>[斗罗大陆2绝世唐门][第89集][国语中字][WEB-MKV][2160P][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/976e5c979b3c049027eece3d0cf1f8e39c48c002</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2025-02-21T21:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250221/976e5c979b3c049027eece3d0cf1f8e39c48c002.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9a6201bae703af084ffc9a21691cfe8ca56d6bca</link>
 			<title>[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-20T01:00:42.84</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="313262080" url="https://mikanani.me/Download/20250220/1646f5197e2a1e89505cb0d0b27c36b3c957082b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[战队红战士在异世界当冒险者_Sentai Red Isekai de Boukensha ni Naru][02][x264 1080p][CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/a330b9bb934d29eb7aaa8cf148fd2c56921d7e2f</link>
-			<title>【悠哈璃羽字幕社】[战队红战士在异世界当冒险者_Sentai Red Isekai de Boukensha ni Naru][02][x264 1080p][CHT]</title>
-			<description>【悠哈璃羽字幕社】[战队红战士在异世界当冒险者_Sentai Red Isekai de Boukensha ni Naru][02][x264 1080p][CHT][489.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a330b9bb934d29eb7aaa8cf148fd2c56921d7e2f</link>
-				<contentLength>513382816</contentLength>
-				<pubDate>2025-02-20T01:00:08.9</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="513382816" url="https://mikanani.me/Download/20250220/a330b9bb934d29eb7aaa8cf148fd2c56921d7e2f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
