@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/001aa0979237bd6440dce0f57293b61541a87145</link>
+			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[707.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/001aa0979237bd6440dce0f57293b61541a87145</link>
+				<contentLength>741867520</contentLength>
+				<pubDate>2025-02-21T10:03:22.031</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="741867520" url="https://mikanani.me/Download/20250221/001aa0979237bd6440dce0f57293b61541a87145.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][21][WEBrip][1080P][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/448057b2e83c50287c861697872888f75741f9ec</link>
 			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][21][WEBrip][1080P][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-19T23:46:10.27</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3736621568" url="https://mikanani.me/Download/20250219/c2794a288b338f8c6d134e618bdd680cad8ef721.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa自载][代理商粤语]熊熊勇闯异世界 [粤语+影片内字幕](WEB 1920x1080 AVC AAC YUE MUSE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/54b5218087889e07e99228f48e0a387e7e00be7f</link>
-			<title>[jibaketa自载][代理商粤语]熊熊勇闯异世界 [粤语+影片内字幕](WEB 1920x1080 AVC AAC YUE MUSE CHT)</title>
-			<description>[jibaketa自载][代理商粤语]熊熊勇闯异世界 [粤语+影片内字幕](WEB 1920x1080 AVC AAC YUE MUSE CHT)[3.42 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/54b5218087889e07e99228f48e0a387e7e00be7f</link>
-				<contentLength>3672197120</contentLength>
-				<pubDate>2025-02-19T23:45:45.172</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3672197120" url="https://mikanani.me/Download/20250219/54b5218087889e07e99228f48e0a387e7e00be7f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
