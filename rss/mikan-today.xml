@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [02][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</guid>
+			<link>https://mikanani.me/Home/Episode/67a3dc7064085be22bc6ebe60ce13b83055be340</link>
+			<title>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [02][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</title>
+			<description>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [02][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）[819.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/67a3dc7064085be22bc6ebe60ce13b83055be340</link>
+				<contentLength>859412864</contentLength>
+				<pubDate>2025-02-21T12:55:42.758958</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="859412864" url="https://mikanani.me/Download/20250221/67a3dc7064085be22bc6ebe60ce13b83055be340.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/001aa0979237bd6440dce0f57293b61541a87145</link>
 			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-19T23:53:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="781818240" url="https://mikanani.me/Download/20250219/daf345be47c7c34c3758dc09c32e8290771528c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa自载][代理商粤语]熊熊勇闯异世界Punch! [粤语+影片内字幕](WEB 1920x1080 AVC AAC YUE MUSE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/c2794a288b338f8c6d134e618bdd680cad8ef721</link>
-			<title>[jibaketa自载][代理商粤语]熊熊勇闯异世界Punch! [粤语+影片内字幕](WEB 1920x1080 AVC AAC YUE MUSE CHT)</title>
-			<description>[jibaketa自载][代理商粤语]熊熊勇闯异世界Punch! [粤语+影片内字幕](WEB 1920x1080 AVC AAC YUE MUSE CHT)[3.48 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c2794a288b338f8c6d134e618bdd680cad8ef721</link>
-				<contentLength>3736621568</contentLength>
-				<pubDate>2025-02-19T23:46:10.27</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3736621568" url="https://mikanani.me/Download/20250219/c2794a288b338f8c6d134e618bdd680cad8ef721.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
