@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】 这家公司里有我喜欢的人 第07集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/d89e94951f024d90820b03f169903b36c77104a2</link>
+			<title>【极影字幕·毁片党】 这家公司里有我喜欢的人 第07集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】 这家公司里有我喜欢的人 第07集 GB_CN HEVC_opus 1080p[153.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d89e94951f024d90820b03f169903b36c77104a2</link>
+				<contentLength>160935440</contentLength>
+				<pubDate>2025-02-22T10:37:41.643</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="160935440" url="https://mikanani.me/Download/20250222/d89e94951f024d90820b03f169903b36c77104a2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a305ae55d4c7f53190dcae0e0502d69307e092f0</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-21T01:04:11.355</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="452030624" url="https://mikanani.me/Download/20250221/8faa8c000b20867ff97a0e581414394811d6a793.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 07 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f6f5d0046d96788cb106f7c9ac28a53d9d8f8a50</link>
-			<title>[Up to 21°C] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 07 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 07 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f6f5d0046d96788cb106f7c9ac28a53d9d8f8a50</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2025-02-21T01:02:52.509</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250221/f6f5d0046d96788cb106f7c9ac28a53d9d8f8a50.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
