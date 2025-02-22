@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/36ac527a16348eb44ba49d73eff7d7097ce0826b</link>
+			<title>[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][760.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/36ac527a16348eb44ba49d73eff7d7097ce0826b</link>
+				<contentLength>797137984</contentLength>
+				<pubDate>2025-02-22T17:11:30.443</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="797137984" url="https://mikanani.me/Download/20250222/36ac527a16348eb44ba49d73eff7d7097ce0826b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐迷宫头目 / Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu - 07 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/7b62f994148cab1cfa4a6778b5042c9faa62e6b2</link>
 			<title>[Skymoon-Raws] 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐迷宫头目 / Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu - 07 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-21T02:18:45.784</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1481763712" url="https://mikanani.me/Download/20250221/213b6b1b780366f60c9c1773b7d84b2045a2c19e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/c4ea886a28995d46b3c3e916a6ec090be15efbb2</link>
-			<title>[Up to 21°C] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 07 (ABEMA 1920x1080 AVC AAC MP4)[729.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c4ea886a28995d46b3c3e916a6ec090be15efbb2</link>
-				<contentLength>764715968</contentLength>
-				<pubDate>2025-02-21T02:00:53.216</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="764715968" url="https://mikanani.me/Download/20250221/c4ea886a28995d46b3c3e916a6ec090be15efbb2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
