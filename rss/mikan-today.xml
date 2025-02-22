@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [08] [WEBRip 2160p HEVC-10bit AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/dd5e5c4ac6dbf4fca416b64837c71519e57ef63e</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [08] [WEBRip 2160p HEVC-10bit AAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [08] [WEBRip 2160p HEVC-10bit AAC][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd5e5c4ac6dbf4fca416b64837c71519e57ef63e</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2025-02-23T02:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250223/dd5e5c4ac6dbf4fca416b64837c71519e57ef63e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/5832d464ce6dfa082a6dcc55be7db49fd472c5eb</link>
 			<title>[Up to 21°C] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-22T01:17:14.004</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20250222/54dae50bba90cc46cedb3feeda3a6fb71b4d89c3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/52dcc9c6a12668e43b92eeab7503a0a4849ed97b</link>
-			<title>[Up to 21°C] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - 08 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/52dcc9c6a12668e43b92eeab7503a0a4849ed97b</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2025-02-22T01:03:37.952</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250222/52dcc9c6a12668e43b92eeab7503a0a4849ed97b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
