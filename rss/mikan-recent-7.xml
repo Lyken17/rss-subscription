@@ -6280,5 +6280,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="160935440" url="https://mikanani.me/Download/20250222/d89e94951f024d90820b03f169903b36c77104a2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 火凤燎原 / The Ravages of Time - 23 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ca31ca9678d847eda23ece3ccc06f85a004f234b</link>
+			<title>[Up to 21°C] 火凤燎原 / The Ravages of Time - 23 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 火凤燎原 / The Ravages of Time - 23 (B-Global Donghua 1920x1080 HEVC AAC MKV)[765.67 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ca31ca9678d847eda23ece3ccc06f85a004f234b</link>
+				<contentLength>802863168</contentLength>
+				<pubDate>2025-02-22T11:03:37.691</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="802863168" url="https://mikanani.me/Download/20250222/ca31ca9678d847eda23ece3ccc06f85a004f234b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
