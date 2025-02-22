@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5f18e433a96d47789e5fd0780e2659feac642b6b</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][640.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f18e433a96d47789e5fd0780e2659feac642b6b</link>
+				<contentLength>672105728</contentLength>
+				<pubDate>2025-02-22T13:08:38.283</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="672105728" url="https://mikanani.me/Download/20250222/5f18e433a96d47789e5fd0780e2659feac642b6b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GalaxyRailroad-888] 游戏王GO RUSH!! Yu-Gi-Oh! GO RUSH !! 145 720P [GB_简中]</guid>
 			<link>https://mikanani.me/Home/Episode/0bd073016c99743e92e3efc218f8598329292372</link>
 			<title>[GalaxyRailroad-888] 游戏王GO RUSH!! Yu-Gi-Oh! GO RUSH !! 145 720P [GB_简中]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-21T01:31:33.144</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250221/dff7699e65f7d452457c40f3dc4499de1293764f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 金牌得主 / Medalist - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/5ac93f2eda4f3072598d92da593fe46d060f35ab</link>
-			<title>[Up to 21°C] 金牌得主 / Medalist - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 金牌得主 / Medalist - 07 (ABEMA 1920x1080 AVC AAC MP4)[692.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5ac93f2eda4f3072598d92da593fe46d060f35ab</link>
-				<contentLength>725771904</contentLength>
-				<pubDate>2025-02-21T01:31:02.19</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="725771904" url="https://mikanani.me/Download/20250221/5ac93f2eda4f3072598d92da593fe46d060f35ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

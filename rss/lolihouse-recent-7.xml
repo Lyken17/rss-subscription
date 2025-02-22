@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/356b4306347154d0413c7331aae888e52daf45cd</link>
-			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][437.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/356b4306347154d0413c7331aae888e52daf45cd</link>
-				<contentLength>458647136</contentLength>
-				<pubDate>2025-02-15T05:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458647136" url="https://mikanani.me/Download/20250215/356b4306347154d0413c7331aae888e52daf45cd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/639f13920ce4ce3cc90f444aaa139c536362c1e5</link>
 			<title>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -603,6 +591,18 @@
 				<pubDate>2025-02-22T00:28:39.715</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="445246336" url="https://mikanani.me/Download/20250222/8ea154de4cb09812491d8d0d0d49b6fb2a81df1b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5f18e433a96d47789e5fd0780e2659feac642b6b</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][640.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f18e433a96d47789e5fd0780e2659feac642b6b</link>
+				<contentLength>672105728</contentLength>
+				<pubDate>2025-02-22T13:08:38.283</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="672105728" url="https://mikanani.me/Download/20250222/5f18e433a96d47789e5fd0780e2659feac642b6b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
