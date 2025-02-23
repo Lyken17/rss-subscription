@@ -208,5 +208,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="485186592" url="https://mikanani.me/Download/20250223/05c52241993a19187f3cb47963733ddd514eb140.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/06dac4ce6236c3327bf1cf44608ddf50e68026d5</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][467.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/06dac4ce6236c3327bf1cf44608ddf50e68026d5</link>
+				<contentLength>489894720</contentLength>
+				<pubDate>2025-02-23T20:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="489894720" url="https://mikanani.me/Download/20250223/06dac4ce6236c3327bf1cf44608ddf50e68026d5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
