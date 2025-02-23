@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
-			<title>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P]</title>
-			<description>[斗罗大陆2绝世唐门][第85集][国语中字][WEB-MKV][2160P][1.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e1a0709a22c6c908efcd6cef264b039d8f990359</link>
-				<contentLength>1932735232</contentLength>
-				<pubDate>2025-01-24T20:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250124/e1a0709a22c6c908efcd6cef264b039d8f990359.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[猎户手抄部] 无名记忆 第二季 / Unnamed Memory Act.2 [15] [1080p] [繁日内嵌] [2025年1月番]</guid>
 			<link>https://mikanani.me/Home/Episode/3650fd4fe9b6aa1fc4f0a27f67b891566f00f53a</link>
 			<title>[猎户手抄部] 无名记忆 第二季 / Unnamed Memory Act.2 [15] [1080p] [繁日内嵌] [2025年1月番]</title>
@@ -26103,6 +26091,18 @@
 				<pubDate>2025-02-24T03:15:27.487</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="81589696" url="https://mikanani.me/Download/20250224/5b66582056194c8726d5f428da7370a9802e796f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4d49d0a070a84e3c888a7637ab3889ff0a1d17de</link>
+			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 08 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 08 (CR 1920x1080 AVC AAC MKV)[236.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4d49d0a070a84e3c888a7637ab3889ff0a1d17de</link>
+				<contentLength>247631712</contentLength>
+				<pubDate>2025-02-24T04:45:48.733</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="247631712" url="https://mikanani.me/Download/20250224/4d49d0a070a84e3c888a7637ab3889ff0a1d17de.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
