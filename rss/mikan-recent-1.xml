@@ -1312,5 +1312,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1001285248" url="https://mikanani.me/Download/20250223/851ea2c908ea0bd248186d8ad3e6d22d56437b03.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 533(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3b51c03a08c28c8b865d4e3b9e1f15f330ca81d8</link>
+			<title>[Up to 21°C] 海贼王 / One Piece - 533(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 海贼王 / One Piece - 533(retake (B-Global 3840x2160 HEVC AAC MKV)[1.33 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b51c03a08c28c8b865d4e3b9e1f15f330ca81d8</link>
+				<contentLength>1428076672</contentLength>
+				<pubDate>2025-02-23T13:06:09.751</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1428076672" url="https://mikanani.me/Download/20250223/3b51c03a08c28c8b865d4e3b9e1f15f330ca81d8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 噗尼轮轮 噗尼2 / Punirunes 2 - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/ebd8d37e454890cf0cc54a6ba0ed9e9b398d700e</link>
+			<title>[Up to 21°C] 噗尼轮轮 噗尼2 / Punirunes 2 - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 噗尼轮轮 噗尼2 / Punirunes 2 - 20 (ABEMA 1920x1080 AVC AAC MP4)[368.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ebd8d37e454890cf0cc54a6ba0ed9e9b398d700e</link>
+				<contentLength>386431712</contentLength>
+				<pubDate>2025-02-23T12:30:44.253</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386431712" url="https://mikanani.me/Download/20250223/ebd8d37e454890cf0cc54a6ba0ed9e9b398d700e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
