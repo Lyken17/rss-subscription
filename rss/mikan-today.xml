@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][77][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/96e2cbc77c229a62f4f122996be400dca44e0fa3</link>
+			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][77][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][仙逆][Renegade Immortal][2023][77][AVC][GB][1080P][590.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/96e2cbc77c229a62f4f122996be400dca44e0fa3</link>
+				<contentLength>618670336</contentLength>
+				<pubDate>2025-02-24T11:22:46.067</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="618670336" url="https://mikanani.me/Download/20250224/96e2cbc77c229a62f4f122996be400dca44e0fa3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]Let's Camp!露营少女/摇曳露营/Yuru Camp Season 4 - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/514dc0598c2c7f380e2691b414c98dd7ac0c0f07</link>
 			<title>[jibaketa合成&amp;压制][TVB粤语]Let's Camp!露营少女/摇曳露营/Yuru Camp Season 4 - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-02-23T11:16:47.832</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="415152224" url="https://mikanani.me/Download/20250223/e7e89368086ead714cd4992d06683be6a4f52f8d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【百冬练习组】【Re: 从零开始的异世界的生活_Re꞉ Zero kara Hajimeru Isekai Seikatsu】[61][WebRip 1080p AVC AAC][简体]</guid>
-			<link>https://mikanani.me/Home/Episode/d8d5eb0b75392df28138d630fe93e4fe4cb8a74e</link>
-			<title>【百冬练习组】【Re: 从零开始的异世界的生活_Re꞉ Zero kara Hajimeru Isekai Seikatsu】[61][WebRip 1080p AVC AAC][简体]</title>
-			<description>【百冬练习组】【Re: 从零开始的异世界的生活_Re꞉ Zero kara Hajimeru Isekai Seikatsu】[61][WebRip 1080p AVC AAC][简体][396.13 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8d5eb0b75392df28138d630fe93e4fe4cb8a74e</link>
-				<contentLength>415372416</contentLength>
-				<pubDate>2025-02-23T11:16:44.443</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="415372416" url="https://mikanani.me/Download/20250223/d8d5eb0b75392df28138d630fe93e4fe4cb8a74e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
