@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 44 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/838dbad18910da2ceaf9a275fe04fb59a689423b</link>
+			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 44 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 44 (B-Global Donghua 1920x1080 HEVC AAC MKV)[250.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/838dbad18910da2ceaf9a275fe04fb59a689423b</link>
+				<contentLength>262573920</contentLength>
+				<pubDate>2025-02-24T09:01:22.184</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="262573920" url="https://mikanani.me/Download/20250224/838dbad18910da2ceaf9a275fe04fb59a689423b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/81359e07886144af55ab4e94dcbbcdee3d18f1ba</link>
 			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-02-23T07:38:55.374</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="433659584" url="https://mikanani.me/Download/20250223/30cd65d2423a4243f9e1de3d982bd52ddb3d8842.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c085e770866cce2bf17b47ad1e9e6dc6405ab34a</link>
-			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08 [CR WebRip 1080p HEVC-10bit AAC][官方简繁内封字幕][561MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c085e770866cce2bf17b47ad1e9e6dc6405ab34a</link>
-				<contentLength>588251136</contentLength>
-				<pubDate>2025-02-23T06:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="588251136" url="https://mikanani.me/Download/20250223/c085e770866cce2bf17b47ad1e9e6dc6405ab34a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
