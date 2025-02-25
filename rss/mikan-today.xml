@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">作弊技能《果实大师》 - EP09 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</guid>
+			<link>https://mikanani.me/Home/Episode/e1fd5eccf02085fa7547945327cf818466a786ae</link>
+			<title>作弊技能《果实大师》 - EP09 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</title>
+			<description>作弊技能《果实大师》 - EP09 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}[1.39 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e1fd5eccf02085fa7547945327cf818466a786ae</link>
+				<contentLength>1492501120</contentLength>
+				<pubDate>2025-02-26T05:26:21.061</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250226/e1fd5eccf02085fa7547945327cf818466a786ae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵酱翻译]中年男的异世界网购生活  Arafou Otoko no Isekai Tsuuhan Seikatsu [07](1920x1080p) [AVC] [AAC][繁体中文]</guid>
 			<link>https://mikanani.me/Home/Episode/788fe0e89b0f43e309abc06da97832aa6eded0ac</link>
 			<title>[喵酱翻译]中年男的异世界网购生活  Arafou Otoko no Isekai Tsuuhan Seikatsu [07](1920x1080p) [AVC] [AAC][繁体中文]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-24T23:31:05.81</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="121467040" url="https://mikanani.me/Download/20250224/08cba67ea4504cfc139721680cecdec8f54b786b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]中年男的异世界网购生活 / Arafou Otoko no Isekai Tsuuhan Seikatsu [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/82a6980025f2cc502c55e1dff66784bb9c99f4ab</link>
-			<title>[黑白字幕组]中年男的异世界网购生活 / Arafou Otoko no Isekai Tsuuhan Seikatsu [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
-			<description>[黑白字幕组]中年男的异世界网购生活 / Arafou Otoko no Isekai Tsuuhan Seikatsu [07] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][316.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/82a6980025f2cc502c55e1dff66784bb9c99f4ab</link>
-				<contentLength>332188864</contentLength>
-				<pubDate>2025-02-24T23:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="332188864" url="https://mikanani.me/Download/20250224/82a6980025f2cc502c55e1dff66784bb9c99f4ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
