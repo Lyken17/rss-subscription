@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4d49d0a070a84e3c888a7637ab3889ff0a1d17de</link>
-			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 08 (CR 1920x1080 AVC AAC MKV)[236.16 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4d49d0a070a84e3c888a7637ab3889ff0a1d17de</link>
-				<contentLength>247631712</contentLength>
-				<pubDate>2025-02-24T04:45:48.733</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="247631712" url="https://mikanani.me/Download/20250224/4d49d0a070a84e3c888a7637ab3889ff0a1d17de.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/81359e07886144af55ab4e94dcbbcdee3d18f1ba</link>
 			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 08V2 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -867,6 +855,18 @@
 				<pubDate>2025-02-25T11:03:24.101</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748976896" url="https://mikanani.me/Download/20250225/a27ec5591c0d916bbe4096b04739a1c3f67586fb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 关于我转生变成史莱姆这档事 / Tensei Shitara Slime Datta Ken / 転生したらスライムだった件 10-bit 1080p HEVC BDRip [S1 Reseed + OAD Reseed + S2 Reseed + MOVIE + WEB + S3]</guid>
+			<link>https://mikanani.me/Home/Episode/c5d956867cf20b9a65f89af78a58f38aff00c448</link>
+			<title>[VCB-Studio] 关于我转生变成史莱姆这档事 / Tensei Shitara Slime Datta Ken / 転生したらスライムだった件 10-bit 1080p HEVC BDRip [S1 Reseed + OAD Reseed + S2 Reseed + MOVIE + WEB + S3]</title>
+			<description>[VCB-Studio] 关于我转生变成史莱姆这档事 / Tensei Shitara Slime Datta Ken / 転生したらスライムだった件 10-bit 1080p HEVC BDRip [S1 Reseed + OAD Reseed + S2 Reseed + MOVIE + WEB + S3][159.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5d956867cf20b9a65f89af78a58f38aff00c448</link>
+				<contentLength>171583946752</contentLength>
+				<pubDate>2025-02-25T12:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="171583946752" url="https://mikanani.me/Download/20250225/c5d956867cf20b9a65f89af78a58f38aff00c448.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

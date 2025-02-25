@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 关于我转生变成史莱姆这档事 / Tensei Shitara Slime Datta Ken / 転生したらスライムだった件 10-bit 1080p HEVC BDRip [S1 Reseed + OAD Reseed + S2 Reseed + MOVIE + WEB + S3]</guid>
+			<link>https://mikanani.me/Home/Episode/c5d956867cf20b9a65f89af78a58f38aff00c448</link>
+			<title>[VCB-Studio] 关于我转生变成史莱姆这档事 / Tensei Shitara Slime Datta Ken / 転生したらスライムだった件 10-bit 1080p HEVC BDRip [S1 Reseed + OAD Reseed + S2 Reseed + MOVIE + WEB + S3]</title>
+			<description>[VCB-Studio] 关于我转生变成史莱姆这档事 / Tensei Shitara Slime Datta Ken / 転生したらスライムだった件 10-bit 1080p HEVC BDRip [S1 Reseed + OAD Reseed + S2 Reseed + MOVIE + WEB + S3][159.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5d956867cf20b9a65f89af78a58f38aff00c448</link>
+				<contentLength>171583946752</contentLength>
+				<pubDate>2025-02-25T12:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="171583946752" url="https://mikanani.me/Download/20250225/c5d956867cf20b9a65f89af78a58f38aff00c448.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][长生界][The Eternal Realm][2024][19][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/38771d9a64ea24f82e4879eea50b63c88523fada</link>
 			<title>[GM-Team][国漫][长生界][The Eternal Realm][2024][19][HEVC][GB][4K]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-23T23:03:50.375</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250223/728e120e1c2800eb12d4521f0f344fe9968b08e6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 神剑闯江湖 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin：Meiji Kenkaku Romantan - Kyoto Douran [43] [1080p] [繁日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/8619aafcfcbb8e7dc2008a9bde9af749bdffbe81</link>
-			<title>[猎户手抄部] 神剑闯江湖 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin：Meiji Kenkaku Romantan - Kyoto Douran [43] [1080p] [繁日内嵌] [2024年10月番]</title>
-			<description>[猎户手抄部] 神剑闯江湖 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin：Meiji Kenkaku Romantan - Kyoto Douran [43] [1080p] [繁日内嵌] [2024年10月番][339.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8619aafcfcbb8e7dc2008a9bde9af749bdffbe81</link>
-				<contentLength>355781824</contentLength>
-				<pubDate>2025-02-23T22:41:39.214039</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="355781824" url="https://mikanani.me/Download/20250223/8619aafcfcbb8e7dc2008a9bde9af749bdffbe81.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
