@@ -6712,5 +6712,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="171583946752" url="https://mikanani.me/Download/20250225/c5d956867cf20b9a65f89af78a58f38aff00c448.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [08] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/0a1a1984c05bd8567f213fa51ae37c88deadc3be</link>
+			<title>[黑白字幕组]全修。 / Zenshuu. [08] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
+			<description>[黑白字幕组]全修。 / Zenshuu. [08] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][402.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0a1a1984c05bd8567f213fa51ae37c88deadc3be</link>
+				<contentLength>421632416</contentLength>
+				<pubDate>2025-02-25T14:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="421632416" url="https://mikanani.me/Download/20250225/0a1a1984c05bd8567f213fa51ae37c88deadc3be.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [08] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e95179474066f2c8bd2d58630e255c810496e47f</link>
+			<title>[黑白字幕组]全修。 / Zenshuu. [08] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
+			<description>[黑白字幕组]全修。 / Zenshuu. [08] [webRip] [AVC-8bit 1080P AAC] [简日内嵌][402.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e95179474066f2c8bd2d58630e255c810496e47f</link>
+				<contentLength>421946976</contentLength>
+				<pubDate>2025-02-25T14:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="421946976" url="https://mikanani.me/Download/20250225/e95179474066f2c8bd2d58630e255c810496e47f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
