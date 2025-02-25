@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6f2846f88a9d662f05bde093decc486ea57bf815</link>
+			<title>[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][585.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6f2846f88a9d662f05bde093decc486ea57bf815</link>
+				<contentLength>614329216</contentLength>
+				<pubDate>2025-02-25T18:46:15.088</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="614329216" url="https://mikanani.me/Download/20250225/6f2846f88a9d662f05bde093decc486ea57bf815.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][05][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/a3cc66e840c89556ab3ac814c49cbccf5b090571</link>
 			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][05][1080p][CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-24T00:21:32.561</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="352405408" url="https://mikanani.me/Download/20250224/ef9af5ac17209d652c17d38445cd7d44d90bf86c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [08][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b179d5ac3ca46810a816ee5bb87d0a1f25786d82</link>
-			<title>[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [08][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [08][1080p][繁体内嵌][424.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b179d5ac3ca46810a816ee5bb87d0a1f25786d82</link>
-				<contentLength>445277792</contentLength>
-				<pubDate>2025-02-24T00:20:17.37</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="445277792" url="https://mikanani.me/Download/20250224/b179d5ac3ca46810a816ee5bb87d0a1f25786d82.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
