@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
-			<title>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 海贼王 / One Piece - 529(retake (B-Global 3840x2160 HEVC AAC MKV)[1.27 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8eb6fa9ee25f9112c5085b535fb77242c7b74c73</link>
-				<contentLength>1363652096</contentLength>
-				<pubDate>2025-01-26T13:05:53.507</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20250126/8eb6fa9ee25f9112c5085b535fb77242c7b74c73.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5c08189b3af3454c473721861b62549e2de53cac</link>
 			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -25083,6 +25071,30 @@
 				<pubDate>2025-02-25T19:42:04.441</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="566482688" url="https://mikanani.me/Download/20250225/9a193a53df3edf429f599d251714aeb3eecb271e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 20 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/ba735483397aa5370d895e5fd9ebd69d75ebbc49</link>
+			<title>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 20 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 20 (ABEMA 1280x720 AVC AAC MP4)[367.94 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ba735483397aa5370d895e5fd9ebd69d75ebbc49</link>
+				<contentLength>385813056</contentLength>
+				<pubDate>2025-02-25T21:00:51.844</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385813056" url="https://mikanani.me/Download/20250225/ba735483397aa5370d895e5fd9ebd69d75ebbc49.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E08 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</guid>
+			<link>https://mikanani.me/Home/Episode/f0a8792dc63810ab9d9f2e848ee649a07d62c560</link>
+			<title>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E08 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</title>
+			<description>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E08 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs][172.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f0a8792dc63810ab9d9f2e848ee649a07d62c560</link>
+				<contentLength>180732560</contentLength>
+				<pubDate>2025-02-25T20:33:26.427</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="180732560" url="https://mikanani.me/Download/20250225/f0a8792dc63810ab9d9f2e848ee649a07d62c560.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
