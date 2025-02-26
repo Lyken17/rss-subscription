@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 145 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/8f3faaf73ee12ceb54247f1a1173b1b85a818d9c</link>
-			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 145 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 145 (ABEMA 1920x1080 AVC AAC MP4)[721.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f3faaf73ee12ceb54247f1a1173b1b85a818d9c</link>
-				<contentLength>756704896</contentLength>
-				<pubDate>2025-02-19T03:00:49.607</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="756704896" url="https://mikanani.me/Download/20250219/8f3faaf73ee12ceb54247f1a1173b1b85a818d9c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">不幸职业【鉴定士】实则最强 - EP06 [简／繁] (1080p MUSE H.264 AAC SRTx2) {不幸职业【鉴定士】其实是最强的 | 不遇职【鉴定士】が実は最强だった}</guid>
 			<link>https://mikanani.me/Home/Episode/43903682f049ebab4971594779caa492cc169df6</link>
 			<title>不幸职业【鉴定士】实则最强 - EP06 [简／繁] (1080p MUSE H.264 AAC SRTx2) {不幸职业【鉴定士】其实是最强的 | 不遇职【鉴定士】が実は最强だった}</title>
@@ -6843,6 +6831,18 @@
 				<pubDate>2025-02-26T07:21:15.232488</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748578432" url="https://mikanani.me/Download/20250226/8bf7d2f114fd5ff86248f63c45c87205377a4894.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 09 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/de6e80ffbeb361fa7270f22ad79fa25ab39d180b</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 09 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 09 [WebRip 1080p HEVC-10bit AAC][无字幕][427.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/de6e80ffbeb361fa7270f22ad79fa25ab39d180b</link>
+				<contentLength>448371104</contentLength>
+				<pubDate>2025-02-26T10:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="448371104" url="https://mikanani.me/Download/20250226/de6e80ffbeb361fa7270f22ad79fa25ab39d180b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

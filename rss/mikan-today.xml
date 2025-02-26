@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 09 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/de6e80ffbeb361fa7270f22ad79fa25ab39d180b</link>
+			<title>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 09 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ / Kinomi Master - 09 [WebRip 1080p HEVC-10bit AAC][无字幕][427.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/de6e80ffbeb361fa7270f22ad79fa25ab39d180b</link>
+				<contentLength>448371104</contentLength>
+				<pubDate>2025-02-26T10:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="448371104" url="https://mikanani.me/Download/20250226/de6e80ffbeb361fa7270f22ad79fa25ab39d180b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/7946dce6cc4422adabc1d9761912c40dcbbcac87</link>
 			<title>[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-25T00:05:41.023</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="368543008" url="https://mikanani.me/Download/20250225/6a0e9761697e376db8afcae5c02090e844d93660.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [31][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/e21aa585ef16640dc72a17e4b11610cdc2202021</link>
-			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [31][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [31][WebRip][HEVC_AAC][繁日内嵌][351.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e21aa585ef16640dc72a17e4b11610cdc2202021</link>
-				<contentLength>368784192</contentLength>
-				<pubDate>2025-02-25T00:05:33.986</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="368784192" url="https://mikanani.me/Download/20250225/e21aa585ef16640dc72a17e4b11610cdc2202021.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
