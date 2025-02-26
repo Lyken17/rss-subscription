@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/7946dce6cc4422adabc1d9761912c40dcbbcac87</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封][228.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7946dce6cc4422adabc1d9761912c40dcbbcac87</link>
+				<contentLength>239914192</contentLength>
+				<pubDate>2025-02-26T10:41:53.207879</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="239914192" url="https://mikanani.me/Download/20250226/7946dce6cc4422adabc1d9761912c40dcbbcac87.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 09 [1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8bf7d2f114fd5ff86248f63c45c87205377a4894</link>
 			<title>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 09 [1080P][AVC AAC][CHT][MP4]</title>
@@ -212,11 +224,11 @@
 			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/7946dce6cc4422adabc1d9761912c40dcbbcac87</link>
 			<title>[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封]</title>
-			<description>[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封][228.8 MB]</description>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [30][1080p][简繁日内封][228.8MB]</description>
 			<torrent xmlns="https://mikanani.me/0.1/">
 				<link>https://mikanani.me/Home/Episode/7946dce6cc4422adabc1d9761912c40dcbbcac87</link>
 				<contentLength>239914192</contentLength>
-				<pubDate>2025-02-26T00:30:57.281826</pubDate>
+				<pubDate>2025-02-26T00:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="239914192" url="https://mikanani.me/Download/20250226/7946dce6cc4422adabc1d9761912c40dcbbcac87.torrent"></enclosure>
 		</item>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-02-25T00:05:33.986</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="368784192" url="https://mikanani.me/Download/20250225/e21aa585ef16640dc72a17e4b11610cdc2202021.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 龙珠大魔 / Dragon Ball Daima - 19 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ba8e9e10b458a3b03d08ac6c4d228ea44f8d184c</link>
-			<title>[Up to 21°C] 龙珠大魔 / Dragon Ball Daima - 19 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 龙珠大魔 / Dragon Ball Daima - 19 (ABEMA 1920x1080 AVC AAC MP4)[716.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ba8e9e10b458a3b03d08ac6c4d228ea44f8d184c</link>
-				<contentLength>751168384</contentLength>
-				<pubDate>2025-02-25T00:01:17.171</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="751168384" url="https://mikanani.me/Download/20250225/ba8e9e10b458a3b03d08ac6c4d228ea44f8d184c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
