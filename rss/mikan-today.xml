@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][20][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/358c772d460b080df8aaa23eaf9d5816694674cb</link>
+			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][20][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][20][1080p][简日双语][招募翻译][187.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/358c772d460b080df8aaa23eaf9d5816694674cb</link>
+				<contentLength>196681408</contentLength>
+				<pubDate>2025-02-27T04:20:39.108</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="196681408" url="https://mikanani.me/Download/20250227/358c772d460b080df8aaa23eaf9d5816694674cb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/42e7373abcd85a2767235abd4028b213814a1bd0</link>
 			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-25T22:08:58.516</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="68734160" url="https://mikanani.me/Download/20250225/b29fc91aeded09ba51251e092aee22782d26f403.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [71] [HEVC-10bit 1080P] [简日双语] [特效字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/49c4504c451e958e0a2a2e6a173cbff9b5e13d1f</link>
-			<title>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [71] [HEVC-10bit 1080P] [简日双语] [特效字幕]</title>
-			<description>[织梦字幕组] 与猫共度的夜晚 Yoru wa Neko to Issho 3 [71] [HEVC-10bit 1080P] [简日双语] [特效字幕][64.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49c4504c451e958e0a2a2e6a173cbff9b5e13d1f</link>
-				<contentLength>67412952</contentLength>
-				<pubDate>2025-02-25T22:08:52.581</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="67412952" url="https://mikanani.me/Download/20250225/49c4504c451e958e0a2a2e6a173cbff9b5e13d1f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
