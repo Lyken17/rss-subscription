@@ -7168,5 +7168,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="743524288" url="https://mikanani.me/Download/20250227/b35747ac1e9ec981b12b0ce1c07aa4cc572b64a3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 08 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/42e7373abcd85a2767235abd4028b213814a1bd0</link>
+			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 08 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 08 (CR 1920x1080 AVC AAC MKV)[1.31 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42e7373abcd85a2767235abd4028b213814a1bd0</link>
+				<contentLength>1406601728</contentLength>
+				<pubDate>2025-02-27T02:30:20.785</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1406601728" url="https://mikanani.me/Download/20250227/42e7373abcd85a2767235abd4028b213814a1bd0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
