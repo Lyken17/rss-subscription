@@ -736,5 +736,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5153960960" url="https://mikanani.me/Download/20250227/c9b0491a09d73f89c5053bfd1f556a2a82683532.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/35739eaa93eea85eb11ea3639dc0b95011829c00</link>
+			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][385.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35739eaa93eea85eb11ea3639dc0b95011829c00</link>
+				<contentLength>404288960</contentLength>
+				<pubDate>2025-02-27T20:37:23.797</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="404288960" url="https://mikanani.me/Download/20250227/35739eaa93eea85eb11ea3639dc0b95011829c00.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

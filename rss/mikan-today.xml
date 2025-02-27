@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/35739eaa93eea85eb11ea3639dc0b95011829c00</link>
+			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][385.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35739eaa93eea85eb11ea3639dc0b95011829c00</link>
+				<contentLength>404288960</contentLength>
+				<pubDate>2025-02-27T20:37:23.797</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="404288960" url="https://mikanani.me/Download/20250227/35739eaa93eea85eb11ea3639dc0b95011829c00.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[神印王座][第148集][国语中字][WEB-MKV][2160P]</guid>
 			<link>https://mikanani.me/Home/Episode/94198e3365e8411e0b5d0da953970e36f18f2d6d</link>
 			<title>[神印王座][第148集][国语中字][WEB-MKV][2160P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-25T23:33:49.072</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="381681664" url="https://mikanani.me/Download/20250225/ffd61d13f8887d4534f4295373f3c2d88c4f9228.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 20 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e81ae111ee9649a6a850e8960ec13394023deb5f</link>
-			<title>[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 20 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 妖怪学校的菜鸟老师 / Youkai Gakkou no Sensei Hajimemashita! - 20 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e81ae111ee9649a6a850e8960ec13394023deb5f</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-02-25T23:31:30.398</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250225/e81ae111ee9649a6a850e8960ec13394023deb5f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
