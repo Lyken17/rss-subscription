@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/05f741f6441b493453fef008419a96032622063a</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][703.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/05f741f6441b493453fef008419a96032622063a</link>
-				<contentLength>737599808</contentLength>
-				<pubDate>2025-02-26T15:59:40.496</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="737599808" url="https://mikanani.me/Download/20250226/05f741f6441b493453fef008419a96032622063a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 蜂蜜柠檬苏打 / ハニーレモンソーダ / Honey Lemon Soda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d4a2ac1de8973443f7b1eaaa2c44e9cded283367</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 蜂蜜柠檬苏打 / ハニーレモンソーダ / Honey Lemon Soda - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -111,6 +99,18 @@
 				<pubDate>2025-02-27T22:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="502792192" url="https://mikanani.me/Download/20250227/39dac9734cf47f904682d8a1a756b200e9a13c99.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2bc36d636d7f1d8024d6af41dd0852e27502512c</link>
+			<title>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][349.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2bc36d636d7f1d8024d6af41dd0852e27502512c</link>
+				<contentLength>366204672</contentLength>
+				<pubDate>2025-02-27T23:32:42.153</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="366204672" url="https://mikanani.me/Download/20250227/2bc36d636d7f1d8024d6af41dd0852e27502512c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
