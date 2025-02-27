@@ -7252,5 +7252,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725740416" url="https://mikanani.me/Download/20250228/3530946d1c73b52bab7491f0ea508750193dc508.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-02-28T02:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250228/14d2f1a433b91c3cd54e061f39f47b765bc607fb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

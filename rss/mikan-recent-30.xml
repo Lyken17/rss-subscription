@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[H-Enc] おーばーふろぉ / Overflow (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/dc274a3d3d6f5a0842afe12f3452adbabc0188c6</link>
-			<title>[H-Enc] おーばーふろぉ / Overflow (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] おーばーふろぉ / Overflow (BDRip 1080p HEVC FLAC)[4.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc274a3d3d6f5a0842afe12f3452adbabc0188c6</link>
-				<contentLength>4402341376</contentLength>
-				<pubDate>2025-01-28T19:05:30.086587</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4402341376" url="https://mikanani.me/Download/20250128/dc274a3d3d6f5a0842afe12f3452adbabc0188c6.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[冻牌 / Touhai: Ura Rate Mahjong Touhai Roku][15][1080p][繁体][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/792016305fdcb635b2df9c6ae2610073fbec5882</link>
 			<title>【喵萌奶茶屋】★10月新番★[冻牌 / Touhai: Ura Rate Mahjong Touhai Roku][15][1080p][繁体][招募翻译]</title>
@@ -25635,6 +25623,18 @@
 				<pubDate>2025-02-28T01:30:55.049</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725740416" url="https://mikanani.me/Download/20250228/3530946d1c73b52bab7491f0ea508750193dc508.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-02-28T02:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250228/14d2f1a433b91c3cd54e061f39f47b765bc607fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

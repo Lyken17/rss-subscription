@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="511054976" url="https://mikanani.me/Download/20250226/64071f25f9f23d47aad21b7a5a7b3154a2930927.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][我的英雄学院剧场版：You're Next/Boku no Hero Academia the Movie You're Next][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](仆のヒーローアカデミア THE MOVIE ユアネクスト)</guid>
-			<link>https://mikanani.me/Home/Episode/257d38a0a10a0d56ae2dfffeffa342a10bd8d4f9</link>
-			<title>[DBD-Raws][我的英雄学院剧场版：You're Next/Boku no Hero Academia the Movie You're Next][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](仆のヒーローアカデミア THE MOVIE ユアネクスト)</title>
-			<description>[DBD-Raws][我的英雄学院剧场版：You're Next/Boku no Hero Academia the Movie You're Next][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](仆のヒーローアカデミア THE MOVIE ユアネクスト)[10.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/257d38a0a10a0d56ae2dfffeffa342a10bd8d4f9</link>
-				<contentLength>11166914560</contentLength>
-				<pubDate>2025-02-26T19:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20250226/257d38a0a10a0d56ae2dfffeffa342a10bd8d4f9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 14 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ff548e49c8d6acc48950f6a7ea014f3a8236f90e</link>
 			<title>[Up to 21°C] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 14 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1263,6 +1251,18 @@
 				<pubDate>2025-02-28T01:30:55.049</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725740416" url="https://mikanani.me/Download/20250228/3530946d1c73b52bab7491f0ea508750193dc508.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-02-28T02:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250228/14d2f1a433b91c3cd54e061f39f47b765bc607fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
