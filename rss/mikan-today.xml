@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/5ba4d04ab32d69b30003b10eba0a04b09462f377</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语][439.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ba4d04ab32d69b30003b10eba0a04b09462f377</link>
+				<contentLength>461163712</contentLength>
+				<pubDate>2025-02-28T04:07:51.193268</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="461163712" url="https://mikanani.me/Download/20250228/5ba4d04ab32d69b30003b10eba0a04b09462f377.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/14d2f1a433b91c3cd54e061f39f47b765bc607fb</link>
 			<title>[TensoRaws] BanG Dream! Ave Mujica [09] [WEBRip 2160p HEVC-10bit AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-26T21:30:44.655</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="308868544" url="https://mikanani.me/Download/20250226/264bc4e90b8799bf073c7b8ea62120f32aad4ff3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 14 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ff548e49c8d6acc48950f6a7ea014f3a8236f90e</link>
-			<title>[Up to 21°C] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 14 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V - 14 (B-Global 1920x1080 HEVC AAC MKV)[377.67 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ff548e49c8d6acc48950f6a7ea014f3a8236f90e</link>
-				<contentLength>396015712</contentLength>
-				<pubDate>2025-02-26T21:01:59.697</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="396015712" url="https://mikanani.me/Download/20250226/ff548e49c8d6acc48950f6a7ea014f3a8236f90e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
