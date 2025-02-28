@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 摇曳露营△ 第三季 / Yuru Camp Season 3 / ゆるキャン△ SEASON3 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/f1c69b43a67248abdacd40d5a991af1c1edad7ea</link>
+			<title>[千夏字幕组&amp;VCB-Studio] 摇曳露营△ 第三季 / Yuru Camp Season 3 / ゆるキャン△ SEASON3 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[千夏字幕组&amp;VCB-Studio] 摇曳露营△ 第三季 / Yuru Camp Season 3 / ゆるキャン△ SEASON3 10-bit 1080p HEVC BDRip [Fin][21.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1c69b43a67248abdacd40d5a991af1c1edad7ea</link>
+				<contentLength>22548578304</contentLength>
+				<pubDate>2025-02-28T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22548578304" url="https://mikanani.me/Download/20250228/f1c69b43a67248abdacd40d5a991af1c1edad7ea.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] BanG Dream! Ave Mujica - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cac0056a8960c15c19f85f2b58fe92804d67aec5</link>
 			<title>[不当舔狗制作组] BanG Dream! Ave Mujica - 09 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-26T22:30:51.243</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="421988928" url="https://mikanani.me/Download/20250226/5a3ab1912a919339d0b78a1a95a29d85e37a9fe1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8420088902677e8e142b35e2bc325e82c6cafb04</link>
-			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][283.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8420088902677e8e142b35e2bc325e82c6cafb04</link>
-				<contentLength>296809920</contentLength>
-				<pubDate>2025-02-26T22:25:16.212</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="296809920" url="https://mikanani.me/Download/20250226/8420088902677e8e142b35e2bc325e82c6cafb04.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
