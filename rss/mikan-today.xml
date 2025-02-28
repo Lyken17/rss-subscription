@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][09][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/c7c32322fcb66f5d68735eb7ae107992c02a56cd</link>
+			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][09][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][09][1080p][简日双语][招募翻译][310.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c7c32322fcb66f5d68735eb7ae107992c02a56cd</link>
+				<contentLength>325792576</contentLength>
+				<pubDate>2025-03-01T07:04:37.302</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="325792576" url="https://mikanani.me/Download/20250301/c7c32322fcb66f5d68735eb7ae107992c02a56cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 龙珠大魔 / Dragonball DaiMa - 20 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/753ec1d359d4fbba50eed41baa2f62a69cbfe5e6</link>
 			<title>[Skymoon-Raws] 龙珠大魔 / Dragonball DaiMa - 20 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-28T00:03:21.019</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="486161792" url="https://mikanani.me/Download/20250228/53077273b8a86e99ad13fa9bf7ee0162cb656caf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 大叔转生恶役大小姐 / Akuyaku Reijou Tensei Ojisan - 08 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/cdd0cf58f0c3e38981bbc98a5e2a21ce87b946e3</link>
-			<title>[Up to 21°C] 大叔转生恶役大小姐 / Akuyaku Reijou Tensei Ojisan - 08 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 大叔转生恶役大小姐 / Akuyaku Reijou Tensei Ojisan - 08 (B-Global 1920x1080 HEVC AAC MKV)[314.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cdd0cf58f0c3e38981bbc98a5e2a21ce87b946e3</link>
-				<contentLength>329703744</contentLength>
-				<pubDate>2025-02-28T00:01:39.636</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="329703744" url="https://mikanani.me/Download/20250228/cdd0cf58f0c3e38981bbc98a5e2a21ce87b946e3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
