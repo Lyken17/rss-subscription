@@ -25156,5 +25156,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="240438480" url="https://mikanani.me/Download/20250228/a5340af1858c55239b5c74ae094b022179ae12da.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组] BanG Dream! Ave Mujica [07][1080p]</guid>
+			<link>https://mikanani.me/Home/Episode/3d653b4e53d8bbb629c8556b41629ded9fddc034</link>
+			<title>[萌樱字幕组] BanG Dream! Ave Mujica [07][1080p]</title>
+			<description>[萌樱字幕组] BanG Dream! Ave Mujica [07][1080p][290.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d653b4e53d8bbb629c8556b41629ded9fddc034</link>
+				<contentLength>304506464</contentLength>
+				<pubDate>2025-02-28T16:06:18.676784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="304506464" url="https://mikanani.me/Download/20250228/3d653b4e53d8bbb629c8556b41629ded9fddc034.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

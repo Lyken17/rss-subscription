@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] BanG Dream! Ave Mujica [07][1080p]</guid>
+			<link>https://mikanani.me/Home/Episode/3d653b4e53d8bbb629c8556b41629ded9fddc034</link>
+			<title>[萌樱字幕组] BanG Dream! Ave Mujica [07][1080p]</title>
+			<description>[萌樱字幕组] BanG Dream! Ave Mujica [07][1080p][290.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d653b4e53d8bbb629c8556b41629ded9fddc034</link>
+				<contentLength>304506464</contentLength>
+				<pubDate>2025-02-28T16:06:18.676784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="304506464" url="https://mikanani.me/Download/20250228/3d653b4e53d8bbb629c8556b41629ded9fddc034.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1468]小丸子想沾花轮的光&amp;友藏想疼爱宏志[2025.02.23][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/0419a62783f820e2499c16ab94c3aa1a7ff9c970</link>
 			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1468]小丸子想沾花轮的光&amp;友藏想疼爱宏志[2025.02.23][BIG5][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-02-26T23:01:21.701</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746439296" url="https://mikanani.me/Download/20250226/73774a8f0ce846a29bda41f5d461208d7564de66.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] Re：从零开始的异世界生活 第三季 / Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season - 12 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1ad764eb8f4fb6a45f8df226ce441e8f5fc159c4</link>
-			<title>[Up to 21°C] Re：从零开始的异世界生活 第三季 / Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season - 12 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] Re：从零开始的异世界生活 第三季 / Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season - 12 (B-Global 3840x2160 HEVC AAC MKV)[951.44 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1ad764eb8f4fb6a45f8df226ce441e8f5fc159c4</link>
-				<contentLength>997657152</contentLength>
-				<pubDate>2025-02-26T22:34:21.911</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="997657152" url="https://mikanani.me/Download/20250226/1ad764eb8f4fb6a45f8df226ce441e8f5fc159c4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
