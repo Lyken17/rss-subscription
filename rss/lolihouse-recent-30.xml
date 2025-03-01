@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/af6cf386d225f77d891f008ab952cae0e6a2c861</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][480.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/af6cf386d225f77d891f008ab952cae0e6a2c861</link>
-				<contentLength>504249728</contentLength>
-				<pubDate>2025-01-30T08:02:54.388</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504249728" url="https://mikanani.me/Download/20250130/af6cf386d225f77d891f008ab952cae0e6a2c861.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c42169e17d40adef40f59ceb8236dc7a3f91bc9c</link>
 			<title>[LoliHouse] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 /  Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2151,6 +2139,18 @@
 				<pubDate>2025-03-01T09:40:57.389</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="524592096" url="https://mikanani.me/Download/20250301/7bce583d481611d101e8e00dd629233f44ceb1b5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/76a854df0c794a8725133b0ab29050b52e40f8fa</link>
+			<title>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 龙珠 大魔 / Dragon Ball Daima - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][796.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/76a854df0c794a8725133b0ab29050b52e40f8fa</link>
+				<contentLength>835190784</contentLength>
+				<pubDate>2025-03-01T15:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="835190784" url="https://mikanani.me/Download/20250301/76a854df0c794a8725133b0ab29050b52e40f8fa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
