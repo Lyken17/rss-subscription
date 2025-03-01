@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/5ba4d04ab32d69b30003b10eba0a04b09462f377</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语][439.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5ba4d04ab32d69b30003b10eba0a04b09462f377</link>
-				<contentLength>461163712</contentLength>
-				<pubDate>2025-02-28T04:07:51.193268</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="461163712" url="https://mikanani.me/Download/20250228/5ba4d04ab32d69b30003b10eba0a04b09462f377.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][083-085][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/5f6cb19f18e2db50c4d2a130ff711d07301f5024</link>
 			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][083-085][简体][1080P][MP4]</title>
@@ -939,6 +927,18 @@
 				<pubDate>2025-03-01T11:04:03.327</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="911264960" url="https://mikanani.me/Download/20250301/39eefc5a9fb411665c6830d00a442f65ec9e7c6f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/db8e69647f53317268e5666220c51e7c431785b0</link>
+			<title>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P][7.51 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/db8e69647f53317268e5666220c51e7c431785b0</link>
+				<contentLength>8063801344</contentLength>
+				<pubDate>2025-03-01T12:03:00.589</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8063801344" url="https://mikanani.me/Download/20250301/db8e69647f53317268e5666220c51e7c431785b0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

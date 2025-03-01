@@ -25324,5 +25324,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="911264960" url="https://mikanani.me/Download/20250301/39eefc5a9fb411665c6830d00a442f65ec9e7c6f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/db8e69647f53317268e5666220c51e7c431785b0</link>
+			<title>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P][7.51 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/db8e69647f53317268e5666220c51e7c431785b0</link>
+				<contentLength>8063801344</contentLength>
+				<pubDate>2025-03-01T12:03:00.589</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8063801344" url="https://mikanani.me/Download/20250301/db8e69647f53317268e5666220c51e7c431785b0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
