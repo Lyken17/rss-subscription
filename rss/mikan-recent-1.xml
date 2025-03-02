@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/db8e69647f53317268e5666220c51e7c431785b0</link>
-			<title>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][01-08][AVC][GB][1080P][7.51 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/db8e69647f53317268e5666220c51e7c431785b0</link>
-				<contentLength>8063801344</contentLength>
-				<pubDate>2025-03-01T12:03:00.589</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8063801344" url="https://mikanani.me/Download/20250301/db8e69647f53317268e5666220c51e7c431785b0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][07][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/dea7289011523197e34771684a2c0f1f39ffc545</link>
 			<title>【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][07][1080p][CHT]</title>
@@ -1695,6 +1683,30 @@
 				<pubDate>2025-03-02T18:33:37.909</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250302/e017a120515522e2ae90e01334356b9d64b70ffc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 镇魂街 第四季 / Rakshasa Street S4 - 16 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/49df5001e93de8730acb8bf6c82726b685d90e1e</link>
+			<title>[Up to 21°C] 镇魂街 第四季 / Rakshasa Street S4 - 16 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 镇魂街 第四季 / Rakshasa Street S4 - 16 (B-Global Donghua 2048x870 HEVC AAC MKV)[333.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49df5001e93de8730acb8bf6c82726b685d90e1e</link>
+				<contentLength>349354080</contentLength>
+				<pubDate>2025-03-02T20:01:46.636</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="349354080" url="https://mikanani.me/Download/20250302/49df5001e93de8730acb8bf6c82726b685d90e1e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 魔神创造传 / Mashin Souzouden Wataru - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/233ef07289e0bf5d2713628b2d55047a3c24d489</link>
+			<title>[Up to 21°C] 魔神创造传 / Mashin Souzouden Wataru - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 魔神创造传 / Mashin Souzouden Wataru - 08 (ABEMA 1920x1080 AVC AAC MP4)[718.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/233ef07289e0bf5d2713628b2d55047a3c24d489</link>
+				<contentLength>752888064</contentLength>
+				<pubDate>2025-03-02T20:01:02.109</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752888064" url="https://mikanani.me/Download/20250302/233ef07289e0bf5d2713628b2d55047a3c24d489.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
