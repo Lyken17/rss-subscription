@@ -460,5 +460,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="523658848" url="https://mikanani.me/Download/20250303/f6a8a4cd86b616c37693f87af2f12def5f7f6c15.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bd0b523d83da0aa7a671648fe53dcd66ce026583</link>
+			<title>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 终究、与你相恋 / Douse, Koishite Shimaunda - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][424.73 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd0b523d83da0aa7a671648fe53dcd66ce026583</link>
+				<contentLength>445361696</contentLength>
+				<pubDate>2025-03-03T01:35:32.595</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="445361696" url="https://mikanani.me/Download/20250303/bd0b523d83da0aa7a671648fe53dcd66ce026583.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
