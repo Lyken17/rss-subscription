@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][简日双语][先行版][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/2d287ff9a5968d07312d40423ccf9f9f4f0d09c7</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][简日双语][先行版][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][简日双语][先行版][招募翻译时轴][313.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2d287ff9a5968d07312d40423ccf9f9f4f0d09c7</link>
+				<contentLength>328760032</contentLength>
+				<pubDate>2025-03-04T04:42:41.044</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="328760032" url="https://mikanani.me/Download/20250304/2d287ff9a5968d07312d40423ccf9f9f4f0d09c7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646</link>
 			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-02T22:59:45.70905</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="394893728" url="https://mikanani.me/Download/20250302/40e989bb32fc67ec6accfa5ac201d4b81bacb503.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 浪客剑心 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran [44] [1080p] [简日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/e08eed0138d9f39aa3dcafc777eb8357878ef995</link>
-			<title>[猎户手抄部] 浪客剑心 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran [44] [1080p] [简日内嵌] [2024年10月番]</title>
-			<description>[猎户手抄部] 浪客剑心 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran [44] [1080p] [简日内嵌] [2024年10月番][376.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e08eed0138d9f39aa3dcafc777eb8357878ef995</link>
-				<contentLength>394998592</contentLength>
-				<pubDate>2025-03-02T22:59:30.880986</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="394998592" url="https://mikanani.me/Download/20250302/e08eed0138d9f39aa3dcafc777eb8357878ef995.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
