@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646</link>
+			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)[42.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646</link>
+				<contentLength>44879052</contentLength>
+				<pubDate>2025-03-04T02:35:28.468</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="44879052" url="https://mikanani.me/Download/20250304/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ff8a388654ebcdb7745f3f53930effb6c8124081</link>
 			<title>[Up to 21°C] 我的可爱对黑岩目高不管用 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-02T22:59:30.880986</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="394998592" url="https://mikanani.me/Download/20250302/e08eed0138d9f39aa3dcafc777eb8357878ef995.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [03][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</guid>
-			<link>https://mikanani.me/Home/Episode/be938760bc4723a1eb8f981d14523f3ef5733d48</link>
-			<title>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [03][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）</title>
-			<description>[芝士动物朋友] 石纪元 科学与未来 / Dr.STONE SCIENCE FUTURE [03][CR-WebRip][1080p][HEVC+AAC][简繁内封]（新石纪 第四季 S4）[986.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be938760bc4723a1eb8f981d14523f3ef5733d48</link>
-				<contentLength>1034315392</contentLength>
-				<pubDate>2025-03-02T22:41:21.2187</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1034315392" url="https://mikanani.me/Download/20250302/be938760bc4723a1eb8f981d14523f3ef5733d48.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

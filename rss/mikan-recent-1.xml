@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 46 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e017a120515522e2ae90e01334356b9d64b70ffc</link>
-			<title>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 46 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 香格里拉・开拓异境～粪作猎手挑战神作～ 第二季 / Shangri-La Frontier 2nd Season - 46 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e017a120515522e2ae90e01334356b9d64b70ffc</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-03-02T18:33:37.909</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250302/e017a120515522e2ae90e01334356b9d64b70ffc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 镇魂街 第四季 / Rakshasa Street S4 - 16 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/49df5001e93de8730acb8bf6c82726b685d90e1e</link>
 			<title>[Up to 21°C] 镇魂街 第四季 / Rakshasa Street S4 - 16 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
@@ -1467,6 +1455,18 @@
 				<pubDate>2025-03-04T00:21:34.64</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="230718176" url="https://mikanani.me/Download/20250304/ecc3692a602fc899c9a76994ae4d0debfbede385.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646</link>
+			<title>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 20 (ABEMA 1920x1080 AVC AAC MP4)[42.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646</link>
+				<contentLength>44879052</contentLength>
+				<pubDate>2025-03-04T02:35:28.468</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="44879052" url="https://mikanani.me/Download/20250304/8e1ba2cefa062ffeeb2bcf0658d6062d580ea646.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
