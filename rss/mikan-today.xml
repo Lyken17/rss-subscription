@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 23 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/13e4a499331a33c64462ed9bc571e7b5a3e10b7b</link>
+			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 23 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 23 (B-Global Donghua 2048x870 HEVC AAC MKV)[873.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/13e4a499331a33c64462ed9bc571e7b5a3e10b7b</link>
+				<contentLength>915721408</contentLength>
+				<pubDate>2025-03-03T10:04:06.751</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="915721408" url="https://mikanani.me/Download/20250303/13e4a499331a33c64462ed9bc571e7b5a3e10b7b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 46 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/960d33ae0e92fa28a9f341b1ab5f2eb4229158a5</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 46 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-03-02T10:23:41.643</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="560369472" url="https://mikanani.me/Download/20250302/ba5bcb186b2706a6b6045699c222af47ee962256.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - FMI18 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8f9a818a37d0f078e596a71b7cd3c281a2d9cf04</link>
-			<title>[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - FMI18 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 海贼王：鱼人岛篇特别编辑版 / One Piece: Gyojin Tou-hen - FMI18 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f9a818a37d0f078e596a71b7cd3c281a2d9cf04</link>
-				<contentLength>1449551488</contentLength>
-				<pubDate>2025-03-02T10:01:33.312</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250302/8f9a818a37d0f078e596a71b7cd3c281a2d9cf04.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
