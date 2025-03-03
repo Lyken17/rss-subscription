@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 132 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/84b1b90637f7217e59639e9193ca95d52cec66d9</link>
+			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 132 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 132 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1016.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/84b1b90637f7217e59639e9193ca95d52cec66d9</link>
+				<contentLength>1066391296</contentLength>
+				<pubDate>2025-03-03T11:04:43.336</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1066391296" url="https://mikanani.me/Download/20250303/84b1b90637f7217e59639e9193ca95d52cec66d9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 23 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/13e4a499331a33c64462ed9bc571e7b5a3e10b7b</link>
 			<title>[Up to 21°C] 虎x鹤妖师录 / Tiger Crane - 23 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
@@ -1143,18 +1155,6 @@
 				<pubDate>2025-03-02T11:25:45.755</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="52240056" url="https://mikanani.me/Download/20250302/77736c7d61b08f2ca4a87aea78a1a2a9bacddd0a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ba5bcb186b2706a6b6045699c222af47ee962256</link>
-			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][534.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ba5bcb186b2706a6b6045699c222af47ee962256</link>
-				<contentLength>560369472</contentLength>
-				<pubDate>2025-03-02T10:23:41.643</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="560369472" url="https://mikanani.me/Download/20250302/ba5bcb186b2706a6b6045699c222af47ee962256.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

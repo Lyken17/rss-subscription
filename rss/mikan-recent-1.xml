@@ -41,18 +41,6 @@
 			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250302/c6be539443c3b3c1b7519bf7defbf894d07b83b3.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 监禁区域LevelX / Kankin Kuiki Level X - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/6177ae1be4fdd993ca4bde50a72b90b992c35acc</link>
-			<title>[Up to 21°C] 监禁区域LevelX / Kankin Kuiki Level X - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 监禁区域LevelX / Kankin Kuiki Level X - 08 (ABEMA 1920x1080 AVC AAC MP4)[390.78 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6177ae1be4fdd993ca4bde50a72b90b992c35acc</link>
-				<contentLength>409762528</contentLength>
-				<pubDate>2025-03-02T03:15:47.183</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="409762528" url="https://mikanani.me/Download/20250302/6177ae1be4fdd993ca4bde50a72b90b992c35acc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【动漫国字幕组&amp;澄空学园&amp;华盟字幕社&amp;千夏字幕组】★10月新番[冻牌][20][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/eb81dc8326df84a0077f2bab6ee58aec61627e2a</link>
 			<title>【动漫国字幕组&amp;澄空学园&amp;华盟字幕社&amp;千夏字幕组】★10月新番[冻牌][20][1080P][简体][MP4]</title>
@@ -1287,6 +1275,18 @@
 				<pubDate>2025-03-03T10:04:06.751</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="915721408" url="https://mikanani.me/Download/20250303/13e4a499331a33c64462ed9bc571e7b5a3e10b7b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 132 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/84b1b90637f7217e59639e9193ca95d52cec66d9</link>
+			<title>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 132 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 132 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1016.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/84b1b90637f7217e59639e9193ca95d52cec66d9</link>
+				<contentLength>1066391296</contentLength>
+				<pubDate>2025-03-03T11:04:43.336</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1066391296" url="https://mikanani.me/Download/20250303/84b1b90637f7217e59639e9193ca95d52cec66d9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
