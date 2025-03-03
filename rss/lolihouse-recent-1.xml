@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ba5bcb186b2706a6b6045699c222af47ee962256</link>
-			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][534.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ba5bcb186b2706a6b6045699c222af47ee962256</link>
-				<contentLength>560369472</contentLength>
-				<pubDate>2025-03-02T10:23:41.643</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="560369472" url="https://mikanani.me/Download/20250302/ba5bcb186b2706a6b6045699c222af47ee962256.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[悠哈璃羽字幕社&amp;LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/db4dba124efe6f02d8379b308ddbef83e5bf035e</link>
 			<title>[悠哈璃羽字幕社&amp;LoliHouse] 天久鹰央的推理病历表 / Ameku Takao's Detective Karte - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -123,6 +111,18 @@
 				<pubDate>2025-03-03T17:41:41.908</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="726002560" url="https://mikanani.me/Download/20250303/7823babe6b5e7622e099625ab90fdfbbf2a6ca70.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 09v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/530771efe48590e65524f991470a8d04f6656aee</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 09v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 09v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][692.39 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/530771efe48590e65524f991470a8d04f6656aee</link>
+				<contentLength>726023552</contentLength>
+				<pubDate>2025-03-03T18:19:49.005</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="726023552" url="https://mikanani.me/Download/20250303/530771efe48590e65524f991470a8d04f6656aee.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
