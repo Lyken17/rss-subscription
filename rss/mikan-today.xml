@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</guid>
+			<link>https://mikanani.me/Home/Episode/8d653b9dd9f1e027174fed2c77415688a2a1cbaa</link>
+			<title>作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</title>
+			<description>作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}[1.39 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d653b9dd9f1e027174fed2c77415688a2a1cbaa</link>
+				<contentLength>1492501120</contentLength>
+				<pubDate>2025-03-05T05:01:59.402</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250305/8d653b9dd9f1e027174fed2c77415688a2a1cbaa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 147 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/2f16aebcf887cc19bce0605d374e10c29e71e8b2</link>
 			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 147 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-03T17:41:41.908</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="726002560" url="https://mikanani.me/Download/20250303/7823babe6b5e7622e099625ab90fdfbbf2a6ca70.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][09][WebRip][1080P][AV1 10bit][简日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/e4535775d3c60678bacfd38ca06464ff28b0d69a</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][09][WebRip][1080P][AV1 10bit][简日内封]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][09][WebRip][1080P][AV1 10bit][简日内封][380.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4535775d3c60678bacfd38ca06464ff28b0d69a</link>
-				<contentLength>398825888</contentLength>
-				<pubDate>2025-03-03T17:36:43.035</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="398825888" url="https://mikanani.me/Download/20250303/e4535775d3c60678bacfd38ca06464ff28b0d69a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
