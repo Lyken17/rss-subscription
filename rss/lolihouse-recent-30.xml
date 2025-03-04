@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3eebfcc6839fefea06f0675958013659dfc6d80f</link>
-			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][336.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3eebfcc6839fefea06f0675958013659dfc6d80f</link>
-				<contentLength>352426400</contentLength>
-				<pubDate>2025-02-02T13:25:46.45</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="352426400" url="https://mikanani.me/Download/20250202/3eebfcc6839fefea06f0675958013659dfc6d80f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/dc7984176e1f7495e7e95ff2b7fdeb94ae9956a7</link>
 			<title>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -2211,6 +2199,18 @@
 				<pubDate>2025-03-03T23:49:24.029</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="480142944" url="https://mikanani.me/Download/20250303/bfe9d7d6c1a07c30c1c9532bc41e74b44ff30bce.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3c03e6291b959909cddb819bac77fcc271a982b5</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][587.59 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c03e6291b959909cddb819bac77fcc271a982b5</link>
+				<contentLength>616132800</contentLength>
+				<pubDate>2025-03-04T21:40:28.361</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="616132800" url="https://mikanani.me/Download/20250304/3c03e6291b959909cddb819bac77fcc271a982b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
