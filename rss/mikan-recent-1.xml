@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[无名记忆 Act.2 / Unnamed Memory Act.2][20][1080p][简日双语][招募翻译时轴]</guid>
-			<link>https://mikanani.me/Home/Episode/87182ba3c895bf19fb12a0fc21c09b921173cac2</link>
-			<title>【喵萌奶茶屋】★01月新番★[无名记忆 Act.2 / Unnamed Memory Act.2][20][1080p][简日双语][招募翻译时轴]</title>
-			<description>【喵萌奶茶屋】★01月新番★[无名记忆 Act.2 / Unnamed Memory Act.2][20][1080p][简日双语][招募翻译时轴][433.92 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/87182ba3c895bf19fb12a0fc21c09b921173cac2</link>
-				<contentLength>454998112</contentLength>
-				<pubDate>2025-03-03T03:57:15.113</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="454998112" url="https://mikanani.me/Download/20250303/87182ba3c895bf19fb12a0fc21c09b921173cac2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/2843ec733c3a79689237e246703863b549e82000</link>
 			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -867,6 +855,30 @@
 				<pubDate>2025-03-04T11:03:01.36</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="640291968" url="https://mikanani.me/Download/20250304/9bdf0e7398f7e373f24c04d06029fddcaadda2ac.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][09][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/2755d3a2317c5c67e8cb96121992f98f3d03e68c</link>
+			<title>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][09][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][09][1080p][繁日双语][807.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2755d3a2317c5c67e8cb96121992f98f3d03e68c</link>
+				<contentLength>846515392</contentLength>
+				<pubDate>2025-03-04T11:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="846515392" url="https://mikanani.me/Download/20250304/2755d3a2317c5c67e8cb96121992f98f3d03e68c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][09][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/8b7e3678a2738f69c71d3b64068798d59599ccbc</link>
+			<title>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][09][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][09][1080p][简日双语][807.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b7e3678a2738f69c71d3b64068798d59599ccbc</link>
+				<contentLength>846305664</contentLength>
+				<pubDate>2025-03-04T11:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="846305664" url="https://mikanani.me/Download/20250304/8b7e3678a2738f69c71d3b64068798d59599ccbc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
