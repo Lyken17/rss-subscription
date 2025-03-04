@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 21 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/b59a046dd9052db028c3524ea679640fcd705053</link>
+			<title>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 21 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 21 (ABEMA 1280x720 AVC AAC MP4)[368.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b59a046dd9052db028c3524ea679640fcd705053</link>
+				<contentLength>386012288</contentLength>
+				<pubDate>2025-03-04T21:01:03.647</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386012288" url="https://mikanani.me/Download/20250304/b59a046dd9052db028c3524ea679640fcd705053.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[BOTHDxAnimeRep] 剧场版 进击的巨人 完结篇 THE LAST ATTACK [1080P][简体内嵌][AI翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/c7029a401551589eb64580cad50c2efbc3ad87d7</link>
 			<title>[BOTHDxAnimeRep] 剧场版 进击的巨人 完结篇 THE LAST ATTACK [1080P][简体内嵌][AI翻译]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-03T00:30:54.604</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747487872" url="https://mikanani.me/Download/20250303/c89502d36e5e93d21262e1e9523549b9e3b4fe55.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka： Familia Myth V [14][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/63bf2bc66bba055898b087fcf84da018b9b67ed1</link>
-			<title>[桜都字幕组] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka： Familia Myth V [14][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 在地下城寻求邂逅是否搞错了什么 第五季 / Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka： Familia Myth V [14][1080p][简繁内封][448.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/63bf2bc66bba055898b087fcf84da018b9b67ed1</link>
-				<contentLength>469866912</contentLength>
-				<pubDate>2025-03-03T00:19:21.692</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="469866912" url="https://mikanani.me/Download/20250303/63bf2bc66bba055898b087fcf84da018b9b67ed1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
