@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9bdf0e7398f7e373f24c04d06029fddcaadda2ac</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)[610.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9bdf0e7398f7e373f24c04d06029fddcaadda2ac</link>
+				<contentLength>640291968</contentLength>
+				<pubDate>2025-03-04T11:03:01.36</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="640291968" url="https://mikanani.me/Download/20250304/9bdf0e7398f7e373f24c04d06029fddcaadda2ac.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP09 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
 			<link>https://mikanani.me/Home/Episode/84085b3482d9b8acfd535fc6fdf024d5b4e81e48</link>
 			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP09 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-02T23:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="533200896" url="https://mikanani.me/Download/20250302/e697980c31cf6e9df4a744d1a1d96dd8196b2e2c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 超超超超超喜欢你的 100 个女朋友 / Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season - 20 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4d67ab516bea5586ea3a51a984494d0c10407e4c</link>
-			<title>[Up to 21°C] 超超超超超喜欢你的 100 个女朋友 / Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season - 20 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 超超超超超喜欢你的 100 个女朋友 / Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season - 20 (CR 1920x1080 AVC AAC MKV)[1.34 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4d67ab516bea5586ea3a51a984494d0c10407e4c</link>
-				<contentLength>1438814080</contentLength>
-				<pubDate>2025-03-02T23:03:54.972</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250302/4d67ab516bea5586ea3a51a984494d0c10407e4c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

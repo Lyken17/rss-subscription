@@ -6688,5 +6688,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="492086240" url="https://mikanani.me/Download/20250304/84085b3482d9b8acfd535fc6fdf024d5b4e81e48.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 牧神记 / Tales of Herding Gods - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9bdf0e7398f7e373f24c04d06029fddcaadda2ac</link>
+			<title>[Up to 21°C] 牧神记 / Tales of Herding Gods - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[Up to 21°C] 牧神记 / Tales of Herding Gods - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)[610.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9bdf0e7398f7e373f24c04d06029fddcaadda2ac</link>
+				<contentLength>640291968</contentLength>
+				<pubDate>2025-03-04T11:03:01.36</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="640291968" url="https://mikanani.me/Download/20250304/9bdf0e7398f7e373f24c04d06029fddcaadda2ac.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
