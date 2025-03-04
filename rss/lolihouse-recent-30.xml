@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/dc7984176e1f7495e7e95ff2b7fdeb94ae9956a7</link>
-			<title>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[千夏字幕组&amp;喵萌奶茶屋&amp;LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][710.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc7984176e1f7495e7e95ff2b7fdeb94ae9956a7</link>
-				<contentLength>744814016</contentLength>
-				<pubDate>2025-02-02T15:53:57.382</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="744814016" url="https://mikanani.me/Download/20250202/dc7984176e1f7495e7e95ff2b7fdeb94ae9956a7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d7e4c87112229fde1191e5a6e55095f408542b35</link>
 			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2211,6 +2199,18 @@
 				<pubDate>2025-03-04T21:40:28.361</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="616132800" url="https://mikanani.me/Download/20250304/3c03e6291b959909cddb819bac77fcc271a982b5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cddec7df621efaa0025098562f45bc0e19d57d00</link>
+			<title>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][354.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cddec7df621efaa0025098562f45bc0e19d57d00</link>
+				<contentLength>371426592</contentLength>
+				<pubDate>2025-03-04T23:35:04.347</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="371426592" url="https://mikanani.me/Download/20250304/cddec7df621efaa0025098562f45bc0e19d57d00.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
