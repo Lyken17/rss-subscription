@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2843ec733c3a79689237e246703863b549e82000</link>
-			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 09 (CR 1920x1080 AVC AAC MKV)[237.95 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2843ec733c3a79689237e246703863b549e82000</link>
-				<contentLength>249508656</contentLength>
-				<pubDate>2025-03-03T04:45:52.173</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="249508656" url="https://mikanani.me/Download/20250303/2843ec733c3a79689237e246703863b549e82000.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 46 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/960d33ae0e92fa28a9f341b1ab5f2eb4229158a5</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 46 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -879,6 +867,18 @@
 				<pubDate>2025-03-04T11:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="846305664" url="https://mikanani.me/Download/20250304/8b7e3678a2738f69c71d3b64068798d59599ccbc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 27 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/22fc0442dbeb19dce0d50f7a7c6851cadb59536e</link>
+			<title>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 27 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</title>
+			<description>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 27 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/22fc0442dbeb19dce0d50f7a7c6851cadb59536e</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-03-04T12:19:44.977</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250304/22fc0442dbeb19dce0d50f7a7c6851cadb59536e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
