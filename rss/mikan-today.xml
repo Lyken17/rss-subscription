@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][你的颜色/Kimi no Iro][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+DTS][MKV](きみの色)</guid>
+			<link>https://mikanani.me/Home/Episode/1de9385eb595968da6dc9a7732209dbb76c92927</link>
+			<title>[DBD-Raws][你的颜色/Kimi no Iro][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+DTS][MKV](きみの色)</title>
+			<description>[DBD-Raws][你的颜色/Kimi no Iro][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+DTS][MKV](きみの色)[9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1de9385eb595968da6dc9a7732209dbb76c92927</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2025-03-05T14:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250305/1de9385eb595968da6dc9a7732209dbb76c92927.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][败犬女主太多了！/Make Heroine ga Oosugiru!][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](负けヒロインが多すぎる!)</guid>
 			<link>https://mikanani.me/Home/Episode/f4fc04c6ac9f18fbf6ca44837386aa79f65472ea</link>
 			<title>[DBD-Raws][败犬女主太多了！/Make Heroine ga Oosugiru!][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLACx2][MKV](负けヒロインが多すぎる!)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-04T01:02:58.119</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20250304/ff8a388654ebcdb7745f3f53930effb6c8124081.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社&amp;西农YUI汉化组】[暗芝居 第十四季_Yami Shibai 14][09][x264 1080p][CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/a4388d733804f2cd4a6e6520c08b9d3f89e4258b</link>
-			<title>【悠哈璃羽字幕社&amp;西农YUI汉化组】[暗芝居 第十四季_Yami Shibai 14][09][x264 1080p][CHT]</title>
-			<description>【悠哈璃羽字幕社&amp;西农YUI汉化组】[暗芝居 第十四季_Yami Shibai 14][09][x264 1080p][CHT][219.98 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a4388d733804f2cd4a6e6520c08b9d3f89e4258b</link>
-				<contentLength>230665744</contentLength>
-				<pubDate>2025-03-04T00:21:43.117</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="230665744" url="https://mikanani.me/Download/20250304/a4388d733804f2cd4a6e6520c08b9d3f89e4258b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

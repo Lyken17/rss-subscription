@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[TOC]青春之箱[21][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/62864bcea2c03430ae6f91777589f351e7bbb9be</link>
-			<title>[TOC]青春之箱[21][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC]青春之箱[21][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/62864bcea2c03430ae6f91777589f351e7bbb9be</link>
-				<contentLength>747110400</contentLength>
-				<pubDate>2025-02-26T06:42:05.444199</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250226/62864bcea2c03430ae6f91777589f351e7bbb9be.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 09 [1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8bf7d2f114fd5ff86248f63c45c87205377a4894</link>
 			<title>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 09 [1080P][AVC AAC][CHT][MP4]</title>
@@ -6759,6 +6747,18 @@
 				<pubDate>2025-03-05T13:12:16.829</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="237533920" url="https://mikanani.me/Download/20250305/7c6bbf69ccfb734d5a4801c3b5739c4528fa64b3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][你的颜色/Kimi no Iro][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+DTS][MKV](きみの色)</guid>
+			<link>https://mikanani.me/Home/Episode/1de9385eb595968da6dc9a7732209dbb76c92927</link>
+			<title>[DBD-Raws][你的颜色/Kimi no Iro][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+DTS][MKV](きみの色)</title>
+			<description>[DBD-Raws][你的颜色/Kimi no Iro][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+DTS][MKV](きみの色)[9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1de9385eb595968da6dc9a7732209dbb76c92927</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2025-03-05T14:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250305/1de9385eb595968da6dc9a7732209dbb76c92927.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
