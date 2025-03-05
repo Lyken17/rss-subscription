@@ -6724,5 +6724,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="885648256" url="https://mikanani.me/Download/20250305/12e87928cbfe232f85c36e03560d4636e1c0107d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 我太受欢迎了该怎么办 / Watashi ga Motete Dou Sunda / 私がモテてどうすんだ 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2d339a0e9c7cd769fc7db08866fd84537e6c764b</link>
+			<title>[VCB-Studio] 我太受欢迎了该怎么办 / Watashi ga Motete Dou Sunda / 私がモテてどうすんだ 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 我太受欢迎了该怎么办 / Watashi ga Motete Dou Sunda / 私がモテてどうすんだ 10-bit 1080p HEVC BDRip [Fin][26.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2d339a0e9c7cd769fc7db08866fd84537e6c764b</link>
+				<contentLength>27917287424</contentLength>
+				<pubDate>2025-03-05T12:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="27917287424" url="https://mikanani.me/Download/20250305/2d339a0e9c7cd769fc7db08866fd84537e6c764b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 10 [1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/401e979eb267df6671b82d12da9020972228c43d</link>
+			<title>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 10 [1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 10 [1080P][AVC AAC][CHT][MP4][714.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/401e979eb267df6671b82d12da9020972228c43d</link>
+				<contentLength>748788096</contentLength>
+				<pubDate>2025-03-05T12:35:23.858932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748788096" url="https://mikanani.me/Download/20250305/401e979eb267df6671b82d12da9020972228c43d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
