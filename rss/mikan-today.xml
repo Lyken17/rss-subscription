@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/99f38b1d94357bbdf72ac85999e44053fdeaf314</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][541.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99f38b1d94357bbdf72ac85999e44053fdeaf314</link>
+				<contentLength>568034560</contentLength>
+				<pubDate>2025-03-06T04:35:03.689</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="568034560" url="https://mikanani.me/Download/20250306/99f38b1d94357bbdf72ac85999e44053fdeaf314.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 62 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a9b9d4516e8e960508e14f5faba1bbf153e62528</link>
 			<title>[Up to 21°C] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 62 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-05T07:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="778567680" url="https://mikanani.me/Download/20250305/15dc22c4df3497ba1558ec76fd8a4eda8d8d3e71.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</guid>
-			<link>https://mikanani.me/Home/Episode/8d653b9dd9f1e027174fed2c77415688a2a1cbaa</link>
-			<title>作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</title>
-			<description>作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}[1.39 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8d653b9dd9f1e027174fed2c77415688a2a1cbaa</link>
-				<contentLength>1492501120</contentLength>
-				<pubDate>2025-03-05T05:01:59.402</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250305/8d653b9dd9f1e027174fed2c77415688a2a1cbaa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

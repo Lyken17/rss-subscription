@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="320214144" url="https://mikanani.me/Download/20250305/45002fca224bb936452f9c04b63a813a7b2e81c0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/99f38b1d94357bbdf72ac85999e44053fdeaf314</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][541.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99f38b1d94357bbdf72ac85999e44053fdeaf314</link>
+				<contentLength>568034560</contentLength>
+				<pubDate>2025-03-06T04:35:03.689</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="568034560" url="https://mikanani.me/Download/20250306/99f38b1d94357bbdf72ac85999e44053fdeaf314.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
