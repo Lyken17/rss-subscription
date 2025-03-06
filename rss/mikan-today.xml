@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[盲僧压制][天火传说][03][机智与冷酷的对抗][DVD修复版][1080P][国语][内封简中]</guid>
+			<link>https://mikanani.me/Home/Episode/5b6824a279c807e03048a8cca14cbc01a463b235</link>
+			<title>[盲僧压制][天火传说][03][机智与冷酷的对抗][DVD修复版][1080P][国语][内封简中]</title>
+			<description>[盲僧压制][天火传说][03][机智与冷酷的对抗][DVD修复版][1080P][国语][内封简中][1.46 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b6824a279c807e03048a8cca14cbc01a463b235</link>
+				<contentLength>1567663104</contentLength>
+				<pubDate>2025-03-06T18:51:35.46</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1567663104" url="https://mikanani.me/Download/20250306/5b6824a279c807e03048a8cca14cbc01a463b235.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f01fdc3c59cb8d1d0d88942974ab827e8692d691</link>
 			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-05T10:07:26.262</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="367075008" url="https://mikanani.me/Download/20250305/f801f652ebcd9dc6de0d3f6486f8dff528166908.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 天命大主宰 / The Destiny Ruler - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ccbe6ebc4a9e995695285249c8860536e49dfce7</link>
-			<title>[Up to 21°C] 天命大主宰 / The Destiny Ruler - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 天命大主宰 / The Destiny Ruler - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[374.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ccbe6ebc4a9e995695285249c8860536e49dfce7</link>
-				<contentLength>393079680</contentLength>
-				<pubDate>2025-03-05T10:07:13.09</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="393079680" url="https://mikanani.me/Download/20250305/ccbe6ebc4a9e995695285249c8860536e49dfce7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -6820,5 +6820,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542543680" url="https://mikanani.me/Download/20250306/f01fdc3c59cb8d1d0d88942974ab827e8692d691.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[盲僧压制][天火传说][03][机智与冷酷的对抗][DVD修复版][1080P][国语][内封简中]</guid>
+			<link>https://mikanani.me/Home/Episode/5b6824a279c807e03048a8cca14cbc01a463b235</link>
+			<title>[盲僧压制][天火传说][03][机智与冷酷的对抗][DVD修复版][1080P][国语][内封简中]</title>
+			<description>[盲僧压制][天火传说][03][机智与冷酷的对抗][DVD修复版][1080P][国语][内封简中][1.46 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b6824a279c807e03048a8cca14cbc01a463b235</link>
+				<contentLength>1567663104</contentLength>
+				<pubDate>2025-03-06T18:51:35.46</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1567663104" url="https://mikanani.me/Download/20250306/5b6824a279c807e03048a8cca14cbc01a463b235.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
