@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] Re：从零开始的异世界生活 第三季 - 13 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9b911e93d8920e2f6a87b3f7bee1dda64106cf47</link>
+			<title>[不当舔狗制作组] Re：从零开始的异世界生活 第三季 - 13 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[不当舔狗制作组] Re：从零开始的异世界生活 第三季 - 13 [CR WebRip AI2160p HEVC-10bit AAC][官方简繁内封字幕][804.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b911e93d8920e2f6a87b3f7bee1dda64106cf47</link>
+				<contentLength>843369664</contentLength>
+				<pubDate>2025-03-06T11:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="843369664" url="https://mikanani.me/Download/20250306/9b911e93d8920e2f6a87b3f7bee1dda64106cf47.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/155611f615d23e4b18a7ad919e256542d1286354</link>
 			<title>[Up to 21°C] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-05T09:18:56.26</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="858825664" url="https://mikanani.me/Download/20250305/d820b6fc37e429cc1ee197569c2e37e27cc226f7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 坂本日常 - 04 [NF WebRip AI2160p HEVC-10bit E-AC-3][日英双语音频 官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/df9d6cada56c7320c637735a475a4c7443963c26</link>
-			<title>[不当舔狗制作组] 坂本日常 - 04 [NF WebRip AI2160p HEVC-10bit E-AC-3][日英双语音频 官方简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 坂本日常 - 04 [NF WebRip AI2160p HEVC-10bit E-AC-3][日英双语音频 官方简繁内封字幕][1.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df9d6cada56c7320c637735a475a4c7443963c26</link>
-				<contentLength>1932735232</contentLength>
-				<pubDate>2025-03-05T08:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250305/df9d6cada56c7320c637735a475a4c7443963c26.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
