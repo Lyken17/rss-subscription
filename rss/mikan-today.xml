@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Reseed][DBD-Raws][美少女战士Sailor Stars/Sailor Moon Sailor Stars][01-34TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](美少女战士SSS/美少女戦士セーラームーン セーラースターズ)</guid>
+			<link>https://mikanani.me/Home/Episode/d4c9da48b8cce2ee64adef6dcd154313c55dc3cd</link>
+			<title>[Reseed][DBD-Raws][美少女战士Sailor Stars/Sailor Moon Sailor Stars][01-34TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](美少女战士SSS/美少女戦士セーラームーン セーラースターズ)</title>
+			<description>[Reseed][DBD-Raws][美少女战士Sailor Stars/Sailor Moon Sailor Stars][01-34TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](美少女战士SSS/美少女戦士セーラームーン セーラースターズ)[23.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d4c9da48b8cce2ee64adef6dcd154313c55dc3cd</link>
+				<contentLength>25018183680</contentLength>
+				<pubDate>2025-03-06T15:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="25018183680" url="https://mikanani.me/Download/20250306/d4c9da48b8cce2ee64adef6dcd154313c55dc3cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[漫猫字幕组][1月新番][BanG Dream! Ave Mujica][08v2][1080p][MP4][简中]</guid>
 			<link>https://mikanani.me/Home/Episode/3afe65f7ba05afb8ae17f1b0b19ba2628662c33e</link>
 			<title>[漫猫字幕组][1月新番][BanG Dream! Ave Mujica][08v2][1080p][MP4][简中]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-05T10:06:58.159</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="393457184" url="https://mikanani.me/Download/20250305/31fe162f50d37d269c28e506d776b45865c101f9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 天命大主宰 / The Destiny Ruler - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/59b0daf5518c5f6116d8cdcd3ccb937d59f33697</link>
-			<title>[Up to 21°C] 天命大主宰 / The Destiny Ruler - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 天命大主宰 / The Destiny Ruler - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)[425.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/59b0daf5518c5f6116d8cdcd3ccb937d59f33697</link>
-				<contentLength>446378816</contentLength>
-				<pubDate>2025-03-05T10:06:48.237</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="446378816" url="https://mikanani.me/Download/20250305/59b0daf5518c5f6116d8cdcd3ccb937d59f33697.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
