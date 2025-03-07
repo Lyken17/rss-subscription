@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="256481696" url="https://mikanani.me/Download/20250306/bd6d18229a15e96a93cba33f7afa35d6a6aefdb2.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[完美世界][第205集][国语中字][WEB-MKV][2160P]</guid>
-			<link>https://mikanani.me/Home/Episode/21888dfb501278b0f97014cad17559b2d9a66047</link>
-			<title>[完美世界][第205集][国语中字][WEB-MKV][2160P]</title>
-			<description>[完美世界][第205集][国语中字][WEB-MKV][2160P][1.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21888dfb501278b0f97014cad17559b2d9a66047</link>
-				<contentLength>1932735232</contentLength>
-				<pubDate>2025-03-06T20:46:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250306/21888dfb501278b0f97014cad17559b2d9a66047.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[S1百综字幕组]BanG Dream! Ave Mujica [10][2160p][Bilibili][Web-DL][HDR][HEVC_AAC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/b1176511d7e19da25c0eab71d1774717a679cbde</link>
 			<title>[S1百综字幕组]BanG Dream! Ave Mujica [10][2160p][Bilibili][Web-DL][HDR][HEVC_AAC][简日双语]</title>
@@ -2019,6 +2007,30 @@
 				<pubDate>2025-03-08T02:24:28.118</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="317278112" url="https://mikanani.me/Download/20250308/700586368cac1ba47dd2db1590e53462c2139039.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/4447cd0e63a9b8b20503b5ac9fb78e564b486404</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][简体][1080P][MP4][355.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4447cd0e63a9b8b20503b5ac9fb78e564b486404</link>
+				<contentLength>372349344</contentLength>
+				<pubDate>2025-03-08T04:45:05.721</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="372349344" url="https://mikanani.me/Download/20250308/4447cd0e63a9b8b20503b5ac9fb78e564b486404.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/4b1e3e5168deecd5c0e1e9bb572c5e6e2edd00ea</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][繁体][1080P][MP4][354.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b1e3e5168deecd5c0e1e9bb572c5e6e2edd00ea</link>
+				<contentLength>372171072</contentLength>
+				<pubDate>2025-03-08T04:44:56.775</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="372171072" url="https://mikanani.me/Download/20250308/4b1e3e5168deecd5c0e1e9bb572c5e6e2edd00ea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
