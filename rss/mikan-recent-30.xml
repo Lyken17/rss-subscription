@@ -26584,5 +26584,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="19434727424" url="https://mikanani.me/Download/20250307/a3c03dec3f1a7f3cab177c4495b4cd28e596c1be.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][01-27 Fin][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/4aacf6d4abd4045d430f093b162f0b46947ec24c</link>
+			<title>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][01-27 Fin][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][01-27 Fin][GB][4K HEVC 10Bit][28.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4aacf6d4abd4045d430f093b162f0b46947ec24c</link>
+				<contentLength>30816391168</contentLength>
+				<pubDate>2025-03-07T16:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="30816391168" url="https://mikanani.me/Download/20250307/4aacf6d4abd4045d430f093b162f0b46947ec24c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

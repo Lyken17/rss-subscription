@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][01-27 Fin][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/4aacf6d4abd4045d430f093b162f0b46947ec24c</link>
+			<title>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][01-27 Fin][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][神墓 第2季][Tomb of Fallen Gods Ⅱ][2024][01-27 Fin][GB][4K HEVC 10Bit][28.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4aacf6d4abd4045d430f093b162f0b46947ec24c</link>
+				<contentLength>30816391168</contentLength>
+				<pubDate>2025-03-07T16:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="30816391168" url="https://mikanani.me/Download/20250307/4aacf6d4abd4045d430f093b162f0b46947ec24c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[个人制作合集]神之塔 Tower of God S02E23-26 1080p CR WEB-DL AAC2.0 H 264 DUAL-VARYG (多国语含中文)</guid>
 			<link>https://mikanani.me/Home/Episode/9e0ee867bc73e6e8e3979015ffeb8e9d5b85dab8</link>
 			<title>[个人制作合集]神之塔 Tower of God S02E23-26 1080p CR WEB-DL AAC2.0 H 264 DUAL-VARYG (多国语含中文)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-06T16:49:42.512</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542543680" url="https://mikanani.me/Download/20250306/f01fdc3c59cb8d1d0d88942974ab827e8692d691.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Reseed][DBD-Raws][美少女战士Sailor Stars/Sailor Moon Sailor Stars][01-34TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](美少女战士SSS/美少女戦士セーラームーン セーラースターズ)</guid>
-			<link>https://mikanani.me/Home/Episode/d4c9da48b8cce2ee64adef6dcd154313c55dc3cd</link>
-			<title>[Reseed][DBD-Raws][美少女战士Sailor Stars/Sailor Moon Sailor Stars][01-34TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](美少女战士SSS/美少女戦士セーラームーン セーラースターズ)</title>
-			<description>[Reseed][DBD-Raws][美少女战士Sailor Stars/Sailor Moon Sailor Stars][01-34TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](美少女战士SSS/美少女戦士セーラームーン セーラースターズ)[23.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d4c9da48b8cce2ee64adef6dcd154313c55dc3cd</link>
-				<contentLength>25018183680</contentLength>
-				<pubDate>2025-03-06T15:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="25018183680" url="https://mikanani.me/Download/20250306/d4c9da48b8cce2ee64adef6dcd154313c55dc3cd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
