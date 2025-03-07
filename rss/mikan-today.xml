@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][10][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/6cd434f7dacab12fbaefe9fbac57ed0dffaa4fbb</link>
+			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][10][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][10][1080p][简日双语][招募翻译][297.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6cd434f7dacab12fbaefe9fbac57ed0dffaa4fbb</link>
+				<contentLength>311510944</contentLength>
+				<pubDate>2025-03-08T07:05:27.543</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="311510944" url="https://mikanani.me/Download/20250308/6cd434f7dacab12fbaefe9fbac57ed0dffaa4fbb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][086][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/ddaaccecdc6f8ba8b57185b0d7c92bbd0a6d0243</link>
 			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][086][简体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-07T07:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="419849824" url="https://mikanani.me/Download/20250307/49256e54e1281104e90e6899da53bf034d3ac29d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [10] [WEBRip 2160p HEVC-10bit AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/1719972a670a03d88c76be747eb317e3dc09f11a</link>
-			<title>[TensoRaws] BanG Dream! Ave Mujica [10] [WEBRip 2160p HEVC-10bit AAC]</title>
-			<description>[TensoRaws] BanG Dream! Ave Mujica [10] [WEBRip 2160p HEVC-10bit AAC][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1719972a670a03d88c76be747eb317e3dc09f11a</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-03-07T07:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250307/1719972a670a03d88c76be747eb317e3dc09f11a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
