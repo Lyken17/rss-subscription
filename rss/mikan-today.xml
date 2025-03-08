@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/eb225d6c6bdd5c3b0c548cd97550f57a3091bd4e</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHT][235.59 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eb225d6c6bdd5c3b0c548cd97550f57a3091bd4e</link>
+				<contentLength>247034016</contentLength>
+				<pubDate>2025-03-08T13:22:37.32</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="247034016" url="https://mikanani.me/Download/20250308/eb225d6c6bdd5c3b0c548cd97550f57a3091bd4e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/cfb4e2a5b47115b9238ae0467ae83468fa933405</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHS][235.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cfb4e2a5b47115b9238ae0467ae83468fa933405</link>
+				<contentLength>246813824</contentLength>
+				<pubDate>2025-03-08T13:22:20.729</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="246813824" url="https://mikanani.me/Download/20250308/cfb4e2a5b47115b9238ae0467ae83468fa933405.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 03 [BDRip][HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/6c96cbf22165c84ca2c42fef47aec46b2a7ff032</link>
 			<title>[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 03 [BDRip][HEVC-10bit 1080p][繁日内嵌]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-03-07T16:02:14.321305</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="256376832" url="https://mikanani.me/Download/20250307/a39c0218fb052fa0aa6520244f6a3378d64d3701.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][15][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/e2503f79b92ab9bff180fcc3293fe2a078b0e68b</link>
-			<title>[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][15][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][15][GB][4K HEVC 10Bit][1.15 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e2503f79b92ab9bff180fcc3293fe2a078b0e68b</link>
-				<contentLength>1234803072</contentLength>
-				<pubDate>2025-03-07T15:00:18.432</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1234803072" url="https://mikanani.me/Download/20250307/e2503f79b92ab9bff180fcc3293fe2a078b0e68b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][205][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/e3564dc5d78902090fab251920137821c39ed21c</link>
-			<title>[GM-Team][国漫][完美世界][Perfect World][2021][205][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][完美世界][Perfect World][2021][205][AVC][GB][1080P][879.64 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e3564dc5d78902090fab251920137821c39ed21c</link>
-				<contentLength>922369408</contentLength>
-				<pubDate>2025-03-07T14:59:55.019</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="922369408" url="https://mikanani.me/Download/20250307/e3564dc5d78902090fab251920137821c39ed21c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
