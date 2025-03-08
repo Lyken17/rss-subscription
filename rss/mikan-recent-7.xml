@@ -7540,5 +7540,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="818109504" url="https://mikanani.me/Download/20250308/da7bd52c409b84a86ec08f316b72c4aa37d02832.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 境界触发者 / World Trigger / ワールドトリガー 10-bit 1080p HEVC BDRip [S1 + S2-S3 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7b5050b30e3b4aa51a893470c30e8d9cce1782d9</link>
+			<title>[VCB-Studio] 境界触发者 / World Trigger / ワールドトリガー 10-bit 1080p HEVC BDRip [S1 + S2-S3 Reseed Fin]</title>
+			<description>[VCB-Studio] 境界触发者 / World Trigger / ワールドトリガー 10-bit 1080p HEVC BDRip [S1 + S2-S3 Reseed Fin][139.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7b5050b30e3b4aa51a893470c30e8d9cce1782d9</link>
+				<contentLength>149357494272</contentLength>
+				<pubDate>2025-03-08T16:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="149357494272" url="https://mikanani.me/Download/20250308/7b5050b30e3b4aa51a893470c30e8d9cce1782d9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

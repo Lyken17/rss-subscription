@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 境界触发者 / World Trigger / ワールドトリガー 10-bit 1080p HEVC BDRip [S1 + S2-S3 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7b5050b30e3b4aa51a893470c30e8d9cce1782d9</link>
+			<title>[VCB-Studio] 境界触发者 / World Trigger / ワールドトリガー 10-bit 1080p HEVC BDRip [S1 + S2-S3 Reseed Fin]</title>
+			<description>[VCB-Studio] 境界触发者 / World Trigger / ワールドトリガー 10-bit 1080p HEVC BDRip [S1 + S2-S3 Reseed Fin][139.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7b5050b30e3b4aa51a893470c30e8d9cce1782d9</link>
+				<contentLength>149357494272</contentLength>
+				<pubDate>2025-03-08T16:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="149357494272" url="https://mikanani.me/Download/20250308/7b5050b30e3b4aa51a893470c30e8d9cce1782d9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/da7bd52c409b84a86ec08f316b72c4aa37d02832</link>
 			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-07T16:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250307/f205b506e99ed021e32900df9e9c76b3eb7341c9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[H-Enc] 败犬女主太多了！ / Make Heroine ga Oosugiru! (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/a3c03dec3f1a7f3cab177c4495b4cd28e596c1be</link>
-			<title>[H-Enc] 败犬女主太多了！ / Make Heroine ga Oosugiru! (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 败犬女主太多了！ / Make Heroine ga Oosugiru! (BDRip 1080p HEVC FLAC)[18.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a3c03dec3f1a7f3cab177c4495b4cd28e596c1be</link>
-				<contentLength>19434727424</contentLength>
-				<pubDate>2025-03-07T16:12:09.219209</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="19434727424" url="https://mikanani.me/Download/20250307/a3c03dec3f1a7f3cab177c4495b4cd28e596c1be.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
