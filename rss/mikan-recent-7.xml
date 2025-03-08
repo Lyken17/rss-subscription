@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][09][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/c7c32322fcb66f5d68735eb7ae107992c02a56cd</link>
-			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][09][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][09][1080p][简日双语][招募翻译][310.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c7c32322fcb66f5d68735eb7ae107992c02a56cd</link>
-				<contentLength>325792576</contentLength>
-				<pubDate>2025-03-01T07:04:37.302</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="325792576" url="https://mikanani.me/Download/20250301/c7c32322fcb66f5d68735eb7ae107992c02a56cd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 45 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4d674a0e9de9ceeb29cfc23f1cdc22e24611a211</link>
 			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 45 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -7539,6 +7527,18 @@
 				<pubDate>2025-03-08T13:22:20.729</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="246813824" url="https://mikanani.me/Download/20250308/cfb4e2a5b47115b9238ae0467ae83468fa933405.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/da7bd52c409b84a86ec08f316b72c4aa37d02832</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][780.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da7bd52c409b84a86ec08f316b72c4aa37d02832</link>
+				<contentLength>818109504</contentLength>
+				<pubDate>2025-03-08T14:51:07.988</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="818109504" url="https://mikanani.me/Download/20250308/da7bd52c409b84a86ec08f316b72c4aa37d02832.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

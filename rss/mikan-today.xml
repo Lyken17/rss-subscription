@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/da7bd52c409b84a86ec08f316b72c4aa37d02832</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][780.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da7bd52c409b84a86ec08f316b72c4aa37d02832</link>
+				<contentLength>818109504</contentLength>
+				<pubDate>2025-03-08T14:51:07.988</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="818109504" url="https://mikanani.me/Download/20250308/da7bd52c409b84a86ec08f316b72c4aa37d02832.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/eb225d6c6bdd5c3b0c548cd97550f57a3091bd4e</link>
 			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][06][1080p][CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-07T16:12:09.219209</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="19434727424" url="https://mikanani.me/Download/20250307/a3c03dec3f1a7f3cab177c4495b4cd28e596c1be.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[次元城字幕组][直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][简繁内封][先行版][急招新员]</guid>
-			<link>https://mikanani.me/Home/Episode/a39c0218fb052fa0aa6520244f6a3378d64d3701</link>
-			<title>[次元城字幕组][直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][简繁内封][先行版][急招新员]</title>
-			<description>[次元城字幕组][直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][简繁内封][先行版][急招新员][244.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a39c0218fb052fa0aa6520244f6a3378d64d3701</link>
-				<contentLength>256376832</contentLength>
-				<pubDate>2025-03-07T16:02:14.321305</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="256376832" url="https://mikanani.me/Download/20250307/a39c0218fb052fa0aa6520244f6a3378d64d3701.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
