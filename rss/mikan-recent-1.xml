@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 天命大主宰 / The Destiny Ruler - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5b186bad427d8f43f18540cd85577f1dcef0d552</link>
-			<title>[Up to 21°C] 天命大主宰 / The Destiny Ruler - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 天命大主宰 / The Destiny Ruler - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)[341.67 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5b186bad427d8f43f18540cd85577f1dcef0d552</link>
-				<contentLength>358266976</contentLength>
-				<pubDate>2025-03-07T09:01:56.268</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="358266976" url="https://mikanani.me/Download/20250307/5b186bad427d8f43f18540cd85577f1dcef0d552.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/fba7fdefdd8afd9ed79ed75d26f8407f3b0b5506</link>
 			<title>[Up to 21°C] 少年歌行 第四季 / Youths and Golden Coffin S4 - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1443,6 +1431,18 @@
 				<pubDate>2025-03-08T16:02:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="149357494272" url="https://mikanani.me/Download/20250308/7b5050b30e3b4aa51a893470c30e8d9cce1782d9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][09][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/6ecc75e04d1304a4502627a81e34a26074c4c10e</link>
+			<title>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][09][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][凡人修仙传 外海风云][Fan Ren Xiu Xian Zhuan][2024][09][AVC][GB][1080P][776.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ecc75e04d1304a4502627a81e34a26074c4c10e</link>
+				<contentLength>814250752</contentLength>
+				<pubDate>2025-03-08T16:25:32.497</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="814250752" url="https://mikanani.me/Download/20250308/6ecc75e04d1304a4502627a81e34a26074c4c10e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
