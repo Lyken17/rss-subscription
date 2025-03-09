@@ -5,6 +5,42 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c75c60fdd07574b72e33bd4c13a7a1db99027d44</link>
+			<title>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 21 (ABEMA 1920x1080 AVC AAC MP4)[711.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c75c60fdd07574b72e33bd4c13a7a1db99027d44</link>
+				<contentLength>745936000</contentLength>
+				<pubDate>2025-03-10T01:00:50.203</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="745936000" url="https://mikanani.me/Download/20250310/c75c60fdd07574b72e33bd4c13a7a1db99027d44.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 无名记忆 第二季 / Unnamed Memory S2 - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/bd6960c3078124a8849601279cff7abeeb6b0832</link>
+			<title>[Up to 21°C] 无名记忆 第二季 / Unnamed Memory S2 - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[Up to 21°C] 无名记忆 第二季 / Unnamed Memory S2 - 21 (ABEMA 1920x1080 AVC AAC MP4)[712.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd6960c3078124a8849601279cff7abeeb6b0832</link>
+				<contentLength>746974080</contentLength>
+				<pubDate>2025-03-10T00:30:53.369</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746974080" url="https://mikanani.me/Download/20250310/bd6960c3078124a8849601279cff7abeeb6b0832.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Up to 21°C] 全修。 / Zenshuu. - 10 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ea48c4584bb21f00d5fe7289bc4b83fa4a3267c5</link>
+			<title>[Up to 21°C] 全修。 / Zenshuu. - 10 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[Up to 21°C] 全修。 / Zenshuu. - 10 (CR 1920x1080 AVC AAC MKV)[1.36 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ea48c4584bb21f00d5fe7289bc4b83fa4a3267c5</link>
+				<contentLength>1460288896</contentLength>
+				<pubDate>2025-03-10T00:16:49.16</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1460288896" url="https://mikanani.me/Download/20250310/ea48c4584bb21f00d5fe7289bc4b83fa4a3267c5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [31][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/1b54f620d9fbb6758406d99d233e9a4ec35e5d2e</link>
 			<title>[萌樱字幕组] 药屋少女的呢喃 [31][1080p][简繁日内封]</title>
@@ -15,6 +51,18 @@
 				<pubDate>2025-03-10T00:15:29.595998</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="221878688" url="https://mikanani.me/Download/20250310/1b54f620d9fbb6758406d99d233e9a4ec35e5d2e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组] BanG Dream! Ave Mujica [08]</guid>
+			<link>https://mikanani.me/Home/Episode/cb58c1477610d00f37df326ba82fe8414faf67d2</link>
+			<title>[萌樱字幕组] BanG Dream! Ave Mujica [08]</title>
+			<description>[萌樱字幕组] BanG Dream! Ave Mujica [08][295.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb58c1477610d00f37df326ba82fe8414faf67d2</link>
+				<contentLength>309749344</contentLength>
+				<pubDate>2025-03-10T00:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="309749344" url="https://mikanani.me/Download/20250310/cb58c1477610d00f37df326ba82fe8414faf67d2.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 21 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV]</guid>
@@ -1143,54 +1191,6 @@
 				<pubDate>2025-03-09T08:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="488846144" url="https://mikanani.me/Download/20250309/afb16580eac38615a3268fd81b28b92c7e5377b4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 09 [WebRip 1080p HEVC-10bit AACx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d8748a7baa5af76feb1b3b791c042273b7ba788a</link>
-			<title>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 09 [WebRip 1080p HEVC-10bit AACx2][简繁日内封字幕]</title>
-			<description>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 09 [WebRip 1080p HEVC-10bit AACx2][简繁日内封字幕][1.05 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8748a7baa5af76feb1b3b791c042273b7ba788a</link>
-				<contentLength>1127428864</contentLength>
-				<pubDate>2025-03-09T08:40:12.006</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250309/d8748a7baa5af76feb1b3b791c042273b7ba788a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0364a875b5f3f26fa4269e084e817083016ada5a</link>
-			<title>[Up to 21°C] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 05 (ABEMA 1920x1080 AVC AAC MP4)[731.21 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0364a875b5f3f26fa4269e084e817083016ada5a</link>
-				<contentLength>766729280</contentLength>
-				<pubDate>2025-03-09T08:30:53.534</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="766729280" url="https://mikanani.me/Download/20250309/0364a875b5f3f26fa4269e084e817083016ada5a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][1080p][09][简繁外挂](检索:Q娃)（附NCOPED）</guid>
-			<link>https://mikanani.me/Home/Episode/068cb12c433026179e7cbe4f573da8dd87189b15</link>
-			<title>[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][1080p][09][简繁外挂](检索:Q娃)（附NCOPED）</title>
-			<description>[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][1080p][09][简繁外挂](检索:Q娃)（附NCOPED）[1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/068cb12c433026179e7cbe4f573da8dd87189b15</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-03-09T06:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250309/068cb12c433026179e7cbe4f573da8dd87189b15.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][720p][09][繁体内嵌](检索:Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/1968bf176f4e2157eaa42adf4890d7accec5c072</link>
-			<title>[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][720p][09][繁体内嵌](检索:Q娃)</title>
-			<description>[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][720p][09][繁体内嵌](检索:Q娃)[286.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1968bf176f4e2157eaa42adf4890d7accec5c072</link>
-				<contentLength>300836448</contentLength>
-				<pubDate>2025-03-09T06:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="300836448" url="https://mikanani.me/Download/20250309/1968bf176f4e2157eaa42adf4890d7accec5c072.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
