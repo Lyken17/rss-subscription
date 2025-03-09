@@ -2320,5 +2320,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="503085792" url="https://mikanani.me/Download/20250309/85d9da563dd806588b6ea78ca1d6d3d564a848cb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[个人制作合集][LoliHouse] 悲喜渔生 / Negative Positive Angler - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3759471dc8bf5f7543abed430723c37c22ca7a3e</link>
+			<title>[个人制作合集][LoliHouse] 悲喜渔生 / Negative Positive Angler - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[个人制作合集][LoliHouse] 悲喜渔生 / Negative Positive Angler - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][4.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3759471dc8bf5f7543abed430723c37c22ca7a3e</link>
+				<contentLength>4724464128</contentLength>
+				<pubDate>2025-03-09T17:06:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4724464128" url="https://mikanani.me/Download/20250309/3759471dc8bf5f7543abed430723c37c22ca7a3e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
