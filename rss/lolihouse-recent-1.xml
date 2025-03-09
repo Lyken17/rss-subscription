@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 45 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/775058d1047dae4470f3b1dc6f9c264c3c5776b6</link>
-			<title>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 45 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 浪客剑心 -明治剑客浪漫谭-  京都动乱 / Rurouni Kenshin (2023) - 45 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][322.26 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/775058d1047dae4470f3b1dc6f9c264c3c5776b6</link>
-				<contentLength>337914112</contentLength>
-				<pubDate>2025-03-07T23:28:01.587</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="337914112" url="https://mikanani.me/Download/20250307/775058d1047dae4470f3b1dc6f9c264c3c5776b6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/21c0bef7ace23b3355e8456f8b7389521a0671b2</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][450.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21c0bef7ace23b3355e8456f8b7389521a0671b2</link>
-				<contentLength>472509312</contentLength>
-				<pubDate>2025-03-08T00:58:11.435</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="472509312" url="https://mikanani.me/Download/20250308/21c0bef7ace23b3355e8456f8b7389521a0671b2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/da7bd52c409b84a86ec08f316b72c4aa37d02832</link>
 			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -51,6 +27,18 @@
 				<pubDate>2025-03-09T02:03:19.917</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="689522624" url="https://mikanani.me/Download/20250309/36d8ba159d1897d68d9b4730908a85f7a95145c9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 09 [WebRip 1080p HEVC-10bit AACx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d8748a7baa5af76feb1b3b791c042273b7ba788a</link>
+			<title>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 09 [WebRip 1080p HEVC-10bit AACx2][简繁日内封字幕]</title>
+			<description>[北宇治字幕组&amp;LoliHouse] 坂本日常 / SAKAMOTO DAYS - 09 [WebRip 1080p HEVC-10bit AACx2][简繁日内封字幕][1.05 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d8748a7baa5af76feb1b3b791c042273b7ba788a</link>
+				<contentLength>1127428864</contentLength>
+				<pubDate>2025-03-09T08:40:12.006</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250309/d8748a7baa5af76feb1b3b791c042273b7ba788a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
