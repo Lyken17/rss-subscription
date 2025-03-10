@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3b3e50ecc74feeaec2eb7dd5d9cb24f10a8abc30</link>
+			<title>[黒ネズミたち] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 虽然我是注定没落的贵族，闲来无事只好来深究魔法 / Botsuraku Yotei no Kizoku dakedo - 11 (CR 1920x1080 AVC AAC MKV)[1.35 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b3e50ecc74feeaec2eb7dd5d9cb24f10a8abc30</link>
+				<contentLength>1449551488</contentLength>
+				<pubDate>2025-03-11T01:35:19.013</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250311/3b3e50ecc74feeaec2eb7dd5d9cb24f10a8abc30.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [07] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b3ca9dd94d5cf839f3ebe7b84a57ca542d417109</link>
 			<title>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [07] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-09T21:17:37.075</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20250309/2ab0004a7803efeb5a8def96cb21150f6ecfc18f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d6ab1cdfc4115364f9a943d2c6db35f20dd8e4a8</link>
-			<title>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 地缚少年花子君 第二季 / Jibaku Shounen Hanako-kun 2 - 09 (ABEMA 1920x1080 AVC AAC MP4)[718.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d6ab1cdfc4115364f9a943d2c6db35f20dd8e4a8</link>
-				<contentLength>753265536</contentLength>
-				<pubDate>2025-03-09T21:01:02.447</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="753265536" url="https://mikanani.me/Download/20250309/d6ab1cdfc4115364f9a943d2c6db35f20dd8e4a8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
