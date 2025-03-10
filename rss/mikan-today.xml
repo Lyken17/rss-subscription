@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 10V2 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f698ec7605c10138cb55bbe461f66633637265a9</link>
+			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 10V2 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 10V2 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕][556.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f698ec7605c10138cb55bbe461f66633637265a9</link>
+				<contentLength>583952000</contentLength>
+				<pubDate>2025-03-10T14:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="583952000" url="https://mikanani.me/Download/20250310/f698ec7605c10138cb55bbe461f66633637265a9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/b985d921fe05009108dc29ad36ce8959250194d3</link>
 			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-09T15:02:03.311</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1621350144" url="https://mikanani.me/Download/20250309/c398b9fa474275620adb703c81060ceb4abdc877.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][长生界][The Eternal Realm][2024][01-26 Fin][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/2bd4b2897fcb76595a05bb8439a54a5bd9be90d3</link>
-			<title>[GM-Team][国漫][长生界][The Eternal Realm][2024][01-26 Fin][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][长生界][The Eternal Realm][2024][01-26 Fin][HEVC][GB][4K][28.28 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2bd4b2897fcb76595a05bb8439a54a5bd9be90d3</link>
-				<contentLength>30365419520</contentLength>
-				<pubDate>2025-03-09T14:53:51.436</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="30365419520" url="https://mikanani.me/Download/20250309/2bd4b2897fcb76595a05bb8439a54a5bd9be90d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
