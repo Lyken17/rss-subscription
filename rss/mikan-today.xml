@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP10 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
+			<link>https://mikanani.me/Home/Episode/c3987e8acc20811f71296063dca5c5f780ada9fe</link>
+			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP10 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
+			<description>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP10 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)[533.49 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c3987e8acc20811f71296063dca5c5f780ada9fe</link>
+				<contentLength>559404800</contentLength>
+				<pubDate>2025-03-11T06:04:13.451</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="559404800" url="https://mikanani.me/Download/20250311/c3987e8acc20811f71296063dca5c5f780ada9fe.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c1171302184824f2f7143c628891c27ad6e877d6</link>
 			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-09T21:22:42.02</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1578400512" url="https://mikanani.me/Download/20250309/52092f52fefbabe523f34b64b46a4794f08fd0b2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[盲僧压制][天火传说][08][干尸的真面目][DVD修复版][1080P][国语][内封简中]</guid>
-			<link>https://mikanani.me/Home/Episode/214983d7337c4ac9417983eb198c5fa7c86992f9</link>
-			<title>[盲僧压制][天火传说][08][干尸的真面目][DVD修复版][1080P][国语][内封简中]</title>
-			<description>[盲僧压制][天火传说][08][干尸的真面目][DVD修复版][1080P][国语][内封简中][1.42 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/214983d7337c4ac9417983eb198c5fa7c86992f9</link>
-				<contentLength>1524713344</contentLength>
-				<pubDate>2025-03-09T21:22:24.857</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1524713344" url="https://mikanani.me/Download/20250309/214983d7337c4ac9417983eb198c5fa7c86992f9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
