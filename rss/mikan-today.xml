@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f310ff6d1588b139fcb5d780b66e0ad773d0debb</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][921.74 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f310ff6d1588b139fcb5d780b66e0ad773d0debb</link>
+				<contentLength>966514432</contentLength>
+				<pubDate>2025-03-11T16:08:18.992</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="966514432" url="https://mikanani.me/Download/20250311/f310ff6d1588b139fcb5d780b66e0ad773d0debb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][07][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/489eb53bfea68ba0b5b324fd78b436f393c12bba</link>
 			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][07][1080p][CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-09T22:24:06.344</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="468661056" url="https://mikanani.me/Download/20250309/7a6f18bf9d69c2817e37cfb20ecae8da530236b4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 坂本日常 / SAKAMOTO DAYS [07] [1080p] [繁日内嵌] [2025年1月番]</guid>
-			<link>https://mikanani.me/Home/Episode/52d5bb91b9c107e7e5fa45d876fd7e261bc190f5</link>
-			<title>[猎户手抄部] 坂本日常 / SAKAMOTO DAYS [07] [1080p] [繁日内嵌] [2025年1月番]</title>
-			<description>[猎户手抄部] 坂本日常 / SAKAMOTO DAYS [07] [1080p] [繁日内嵌] [2025年1月番][673.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/52d5bb91b9c107e7e5fa45d876fd7e261bc190f5</link>
-				<contentLength>706425664</contentLength>
-				<pubDate>2025-03-09T22:18:26.089551</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="706425664" url="https://mikanani.me/Download/20250309/52d5bb91b9c107e7e5fa45d876fd7e261bc190f5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

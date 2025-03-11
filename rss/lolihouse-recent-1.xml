@@ -64,5 +64,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4939212288" url="https://mikanani.me/Download/20250311/35a8390857bf7c0c46db184e4ef402b99cadd7f9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f310ff6d1588b139fcb5d780b66e0ad773d0debb</link>
+			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][921.74 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f310ff6d1588b139fcb5d780b66e0ad773d0debb</link>
+				<contentLength>966514432</contentLength>
+				<pubDate>2025-03-11T16:08:18.992</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="966514432" url="https://mikanani.me/Download/20250311/f310ff6d1588b139fcb5d780b66e0ad773d0debb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
