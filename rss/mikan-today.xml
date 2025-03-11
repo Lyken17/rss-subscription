@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 04 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/83dcf0e6196572826caec4ad1ef5b4773d4c6473</link>
+			<title>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 04 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 04 (B-Global Donghua 2048x870 HEVC AAC MKV)[496.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/83dcf0e6196572826caec4ad1ef5b4773d4c6473</link>
+				<contentLength>520450208</contentLength>
+				<pubDate>2025-03-11T10:02:42.37</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="520450208" url="https://mikanani.me/Download/20250311/83dcf0e6196572826caec4ad1ef5b4773d4c6473.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[个人制作合集][LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/35a8390857bf7c0c46db184e4ef402b99cadd7f9</link>
 			<title>[个人制作合集][LoliHouse] 被队伍驱逐的治愈师，其实是最强的 / Party kara Tsuihou sareta Sono Chiyushi - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-09T21:30:57.405</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="788413824" url="https://mikanani.me/Download/20250309/d3a224e2929857bd3b4b285ad00c25d270a2cdd8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[盲僧压制][天火传说][10][西大寺古窟][DVD修复版][1080P][国语][内封简中]</guid>
-			<link>https://mikanani.me/Home/Episode/2e095b297eb5af813a8871f847ec71c58e4a096e</link>
-			<title>[盲僧压制][天火传说][10][西大寺古窟][DVD修复版][1080P][国语][内封简中]</title>
-			<description>[盲僧压制][天火传说][10][西大寺古窟][DVD修复版][1080P][国语][内封简中][1.52 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2e095b297eb5af813a8871f847ec71c58e4a096e</link>
-				<contentLength>1632087552</contentLength>
-				<pubDate>2025-03-09T21:22:53.464</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1632087552" url="https://mikanani.me/Download/20250309/2e095b297eb5af813a8871f847ec71c58e4a096e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
