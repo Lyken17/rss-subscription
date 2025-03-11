@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/63ccbae0e03f861035f9921a5da65f76d7b48461</link>
+			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕][5.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63ccbae0e03f861035f9921a5da65f76d7b48461</link>
+				<contentLength>5905580032</contentLength>
+				<pubDate>2025-03-12T07:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5905580032" url="https://mikanani.me/Download/20250312/63ccbae0e03f861035f9921a5da65f76d7b48461.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">作弊技能《果实大师》 - EP11 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</guid>
 			<link>https://mikanani.me/Home/Episode/741ed6397de9ddad4bf0c1582a8b6acddd5ca91e</link>
 			<title>作弊技能《果实大师》 - EP11 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T20:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6012954112" url="https://mikanani.me/Download/20250310/0e116aa1dec92bf32fd74244691137d5b2246514.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/33350715f34e46024efc40e01adbcf94913fe13d</link>
-			<title>[黒ネズミたち] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 09 (ABEMA 1920x1080 AVC AAC MP4)[711.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/33350715f34e46024efc40e01adbcf94913fe13d</link>
-				<contentLength>746177152</contentLength>
-				<pubDate>2025-03-10T20:30:53.655</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746177152" url="https://mikanani.me/Download/20250310/33350715f34e46024efc40e01adbcf94913fe13d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
