@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]队长小翼第二季 青少年篇 / 世少篇 - 23 (WEB 1920x1080 AVC AACx2 SRT ViuTV CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/58e14b48ccf682864eb1983f7d59b182cdd2da5c</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]队长小翼第二季 青少年篇 / 世少篇 - 23 (WEB 1920x1080 AVC AACx2 SRT ViuTV CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]队长小翼第二季 青少年篇 / 世少篇 - 23 (WEB 1920x1080 AVC AACx2 SRT ViuTV CHT)[870.55 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/58e14b48ccf682864eb1983f7d59b182cdd2da5c</link>
+				<contentLength>912837824</contentLength>
+				<pubDate>2025-03-11T14:15:37.303</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="912837824" url="https://mikanani.me/Download/20250311/58e14b48ccf682864eb1983f7d59b182cdd2da5c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【20】【BIG5_MP4】【1920X1080】【END】</guid>
 			<link>https://mikanani.me/Home/Episode/1bbd631d30940af04d508a7d836ae9857e3b4f8a</link>
 			<title>【幻樱字幕组】【10月新番】【龙珠DAIMA Dragon Ball DAIMA】【20】【BIG5_MP4】【1920X1080】【END】</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-09T22:01:26.895</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="396854560" url="https://mikanani.me/Download/20250309/9a4468924c5ce7f7f1f27a7ca39d9db9b670c8f8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  超超超超超喜欢你的 100 个女朋友 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/b1fa79d8bcc87524b02aa65ec0fe96ba1a153b4e</link>
-			<title>[ANi]  超超超超超喜欢你的 100 个女朋友 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  超超超超超喜欢你的 100 个女朋友 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][422.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b1fa79d8bcc87524b02aa65ec0fe96ba1a153b4e</link>
-				<contentLength>442603936</contentLength>
-				<pubDate>2025-03-09T22:00:56.68838</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="442603936" url="https://mikanani.me/Download/20250309/b1fa79d8bcc87524b02aa65ec0fe96ba1a153b4e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
