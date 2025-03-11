@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)[648.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713</link>
+				<contentLength>680074944</contentLength>
+				<pubDate>2025-03-11T11:01:40.372</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="680074944" url="https://mikanani.me/Download/20250311/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 04 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/83dcf0e6196572826caec4ad1ef5b4773d4c6473</link>
 			<title>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 04 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-09T21:54:15.564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="150198032" url="https://mikanani.me/Download/20250309/22897d4ed7c3864825978ca423bf9609194004c3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 地。-关于地球的运动- / Chi.: Chikyuu no Undou ni Tsuite - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d3a224e2929857bd3b4b285ad00c25d270a2cdd8</link>
-			<title>[Up to 21°C] 地。-关于地球的运动- / Chi.: Chikyuu no Undou ni Tsuite - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 地。-关于地球的运动- / Chi.: Chikyuu no Undou ni Tsuite - 24 (ABEMA 1920x1080 AVC AAC MP4)[751.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d3a224e2929857bd3b4b285ad00c25d270a2cdd8</link>
-				<contentLength>788413824</contentLength>
-				<pubDate>2025-03-09T21:30:57.405</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="788413824" url="https://mikanani.me/Download/20250309/d3a224e2929857bd3b4b285ad00c25d270a2cdd8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

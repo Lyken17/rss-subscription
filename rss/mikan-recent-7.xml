@@ -7264,5 +7264,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="520450208" url="https://mikanani.me/Download/20250311/83dcf0e6196572826caec4ad1ef5b4773d4c6473.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)[648.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713</link>
+				<contentLength>680074944</contentLength>
+				<pubDate>2025-03-11T11:01:40.372</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="680074944" url="https://mikanani.me/Download/20250311/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

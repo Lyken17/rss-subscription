@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ea90f9403b88e16c896863a28169b51cd35b470f</link>
-			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 22 (ABEMA 1920x1080 AVC AAC MP4)[727.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ea90f9403b88e16c896863a28169b51cd35b470f</link>
-				<contentLength>762419584</contentLength>
-				<pubDate>2025-03-10T03:00:50.03</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="762419584" url="https://mikanani.me/Download/20250310/ea90f9403b88e16c896863a28169b51cd35b470f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/393c936e3de327375252550598e9286aa6d8fa02</link>
 			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -27,18 +15,6 @@
 				<pubDate>2025-03-10T03:47:33.725</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="250011968" url="https://mikanani.me/Download/20250310/393c936e3de327375252550598e9286aa6d8fa02.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e05c408d511bbac32b2b28b099ee46673b73111f</link>
-			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 20 (ABEMA 1920x1080 AVC AAC MP4)[77.83 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e05c408d511bbac32b2b28b099ee46673b73111f</link>
-				<contentLength>81610672</contentLength>
-				<pubDate>2025-03-10T03:15:26.611</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="81610672" url="https://mikanani.me/Download/20250310/e05c408d511bbac32b2b28b099ee46673b73111f.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[个人制作合集][霜庭云花Sub&amp;萌樱字幕组] 暗杀女仆冥土小姐。 / 君は冥土様。 / Kimi wa Meido-sama. - 01-12 [WebRip 1080P HEVC AAC][简繁日内封 ASSx3]</guid>
@@ -807,6 +783,18 @@
 				<pubDate>2025-03-11T10:02:42.37</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="520450208" url="https://mikanani.me/Download/20250311/83dcf0e6196572826caec4ad1ef5b4773d4c6473.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 21 (B-Global Donghua 1920x1080 HEVC AAC MKV)[648.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713</link>
+				<contentLength>680074944</contentLength>
+				<pubDate>2025-03-11T11:01:40.372</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="680074944" url="https://mikanani.me/Download/20250311/c713e39ce8bf9f6eec8a65fbeb7e315c55dd1713.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
