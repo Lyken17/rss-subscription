@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/314d3895a5a53db2c69e7d9bd91a914a3498f4fe</link>
+			<title>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 09 (ABEMA 1920x1080 AVC AAC MP4)[692.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/314d3895a5a53db2c69e7d9bd91a914a3498f4fe</link>
+				<contentLength>726065472</contentLength>
+				<pubDate>2025-03-12T01:00:47.832</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="726065472" url="https://mikanani.me/Download/20250312/314d3895a5a53db2c69e7d9bd91a914a3498f4fe.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [32][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/cf47de678bc0b041eb3eb0f07deef81661fa4b11</link>
 			<title>[萌樱字幕组] 药屋少女的呢喃 [32][1080p][简繁日内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T16:00:33.723</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="239568160" url="https://mikanani.me/Download/20250310/c00258d32d565f06c437094c589613cc9354fa70.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1470]樱家的女儿节玩偶骚动&amp;小玉想要午饭添菜[2025.03.09][GB][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/70658b0f37ccc6d9d541196e9427c0b4f465a051</link>
-			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1470]樱家的女儿节玩偶骚动&amp;小玉想要午饭添菜[2025.03.09][GB][1080P][MP4]</title>
-			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1470]樱家的女儿节玩偶骚动&amp;小玉想要午饭添菜[2025.03.09][GB][1080P][MP4][228.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/70658b0f37ccc6d9d541196e9427c0b4f465a051</link>
-				<contentLength>239673024</contentLength>
-				<pubDate>2025-03-10T15:59:18.954</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="239673024" url="https://mikanani.me/Download/20250310/70658b0f37ccc6d9d541196e9427c0b4f465a051.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -7732,5 +7732,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250311/ea94e511f3f786b73767a0361bef67608e47b898.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/314d3895a5a53db2c69e7d9bd91a914a3498f4fe</link>
+			<title>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 09 (ABEMA 1920x1080 AVC AAC MP4)[692.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/314d3895a5a53db2c69e7d9bd91a914a3498f4fe</link>
+				<contentLength>726065472</contentLength>
+				<pubDate>2025-03-12T01:00:47.832</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="726065472" url="https://mikanani.me/Download/20250312/314d3895a5a53db2c69e7d9bd91a914a3498f4fe.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
