@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室 &amp; WBX][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][大电影！心动不已 在游戏的世界大冒险][BDrip](检索:Q娃/プリキュア)</guid>
+			<link>https://mikanani.me/Home/Episode/d06fb7b3ac629f7524631f2d8041a3f6feeb37b2</link>
+			<title>[雪飘工作室 &amp; WBX][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][大电影！心动不已 在游戏的世界大冒险][BDrip](检索:Q娃/プリキュア)</title>
+			<description>[雪飘工作室 &amp; WBX][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][大电影！心动不已 在游戏的世界大冒险][BDrip](检索:Q娃/プリキュア)[5.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d06fb7b3ac629f7524631f2d8041a3f6feeb37b2</link>
+				<contentLength>5476083200</contentLength>
+				<pubDate>2025-03-12T18:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5476083200" url="https://mikanani.me/Download/20250312/d06fb7b3ac629f7524631f2d8041a3f6feeb37b2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)</guid>
 			<link>https://mikanani.me/Home/Episode/50244aa0ebd8cb48373d34a78683bb6a65eafd73</link>
 			<title>[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T22:31:19.711</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="551341248" url="https://mikanani.me/Download/20250310/de7f1d9410e461de189f8b201899b06faf208994.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  平凡上班族到异世界当上了四天王的故事 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7176480678049a12ce2143151e79bd1bc7a758c3</link>
-			<title>[ANi]  平凡上班族到异世界当上了四天王的故事 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  平凡上班族到异世界当上了四天王的故事 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][526.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7176480678049a12ce2143151e79bd1bc7a758c3</link>
-				<contentLength>551550976</contentLength>
-				<pubDate>2025-03-10T22:31:06.098431</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="551550976" url="https://mikanani.me/Download/20250310/7176480678049a12ce2143151e79bd1bc7a758c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
