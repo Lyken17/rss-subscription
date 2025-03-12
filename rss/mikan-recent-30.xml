@@ -26428,5 +26428,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="44989784064" url="https://mikanani.me/Download/20250312/0ff03806121412de11d546e4eaa43c6498db41e2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku - 10 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/bbcdc10a2db980067db3d85c4c7a4b64eb546c63</link>
+			<title>[黒ネズミたち] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku - 10 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku - 10 (B-Global 1920x1080 HEVC AAC MKV)[284.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bbcdc10a2db980067db3d85c4c7a4b64eb546c63</link>
+				<contentLength>297942400</contentLength>
+				<pubDate>2025-03-12T13:52:35.643</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="297942400" url="https://mikanani.me/Download/20250312/bbcdc10a2db980067db3d85c4c7a4b64eb546c63.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

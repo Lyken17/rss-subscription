@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku - 10 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/bbcdc10a2db980067db3d85c4c7a4b64eb546c63</link>
+			<title>[黒ネズミたち] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku - 10 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku - 10 (B-Global 1920x1080 HEVC AAC MKV)[284.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bbcdc10a2db980067db3d85c4c7a4b64eb546c63</link>
+				<contentLength>297942400</contentLength>
+				<pubDate>2025-03-12T13:52:35.643</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="297942400" url="https://mikanani.me/Download/20250312/bbcdc10a2db980067db3d85c4c7a4b64eb546c63.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][天空战记/Tenkuu Senki Shurato][01-38TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](天空戦记シュラト)</guid>
 			<link>https://mikanani.me/Home/Episode/0ff03806121412de11d546e4eaa43c6498db41e2</link>
 			<title>[DBD-Raws][天空战记/Tenkuu Senki Shurato][01-38TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](天空戦记シュラト)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T21:43:42.372</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="103137936" url="https://mikanani.me/Download/20250310/c7d01f125f2db185ac77a4768ce6089e14649540.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 「只能触摸一分钟哦...」合租房的秘密规则。 / 「1 Funkan dake Furete mo Ii yo...」 Share House no Himitsu Rule. [07][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/c283df6512895d8b256ce70f4ab6303414be7eae</link>
-			<title>[桜都字幕组] 「只能触摸一分钟哦...」合租房的秘密规则。 / 「1 Funkan dake Furete mo Ii yo...」 Share House no Himitsu Rule. [07][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 「只能触摸一分钟哦...」合租房的秘密规则。 / 「1 Funkan dake Furete mo Ii yo...」 Share House no Himitsu Rule. [07][1080p][简体内嵌][98.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c283df6512895d8b256ce70f4ab6303414be7eae</link>
-				<contentLength>102970160</contentLength>
-				<pubDate>2025-03-10T21:43:29.61</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="102970160" url="https://mikanani.me/Download/20250310/c283df6512895d8b256ce70f4ab6303414be7eae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
