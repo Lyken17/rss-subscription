@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)</guid>
+			<link>https://mikanani.me/Home/Episode/50244aa0ebd8cb48373d34a78683bb6a65eafd73</link>
+			<title>[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)</title>
+			<description>[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)[17.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/50244aa0ebd8cb48373d34a78683bb6a65eafd73</link>
+				<contentLength>18683107328</contentLength>
+				<pubDate>2025-03-12T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18683107328" url="https://mikanani.me/Download/20250312/50244aa0ebd8cb48373d34a78683bb6a65eafd73.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][22][1080p][简日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/769f2215861f20ca706bdb4eb67c105ee93271aa</link>
 			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][22][1080p][简日双语][招募翻译]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T22:31:06.098431</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="551550976" url="https://mikanani.me/Download/20250310/7176480678049a12ce2143151e79bd1bc7a758c3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 超超超超超喜欢你的 100 个女朋友 / Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e852193ae7df2890922f4217168f69b0e1a41c31</link>
-			<title>[黒ネズミたち] 超超超超超喜欢你的 100 个女朋友 / Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 超超超超超喜欢你的 100 个女朋友 / Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4)[715.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e852193ae7df2890922f4217168f69b0e1a41c31</link>
-				<contentLength>750056896</contentLength>
-				<pubDate>2025-03-10T22:30:55.265</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="750056896" url="https://mikanani.me/Download/20250310/e852193ae7df2890922f4217168f69b0e1a41c31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

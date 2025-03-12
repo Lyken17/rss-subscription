@@ -7576,5 +7576,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="524655008" url="https://mikanani.me/Download/20250312/1f299e8e340120e7ff15d8ad9dc16a3c45b6d402.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)</guid>
+			<link>https://mikanani.me/Home/Episode/50244aa0ebd8cb48373d34a78683bb6a65eafd73</link>
+			<title>[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)</title>
+			<description>[DBD-Raws][致不灭的你 第二季/Fumetsu no Anata e S2][01-20TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](不灭のあなたへ S2)[17.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/50244aa0ebd8cb48373d34a78683bb6a65eafd73</link>
+				<contentLength>18683107328</contentLength>
+				<pubDate>2025-03-12T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18683107328" url="https://mikanani.me/Download/20250312/50244aa0ebd8cb48373d34a78683bb6a65eafd73.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
