@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 一兆＄游戏 / Trillion Game - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3b2489d145b12890c65bc368517579a5a873472f</link>
-			<title>[Up to 21°C] 一兆＄游戏 / Trillion Game - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 一兆＄游戏 / Trillion Game - 18 (ABEMA 1920x1080 AVC AAC MP4)[727.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3b2489d145b12890c65bc368517579a5a873472f</link>
-				<contentLength>762440576</contentLength>
-				<pubDate>2025-02-10T03:00:51.489</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="762440576" url="https://mikanani.me/Download/20250210/3b2489d145b12890c65bc368517579a5a873472f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c</link>
-			<title>[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 殿下与狗 / Tono to Inu - 16 (ABEMA 1920x1080 AVC AAC MP4)[77.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c</link>
-				<contentLength>81537272</contentLength>
-				<pubDate>2025-02-10T03:15:23.754</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="81537272" url="https://mikanani.me/Download/20250210/2fc30873ec5ac5e2d52d5dc5c2fb09a99b8c737c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 06 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/eb8aad6745bae8228e2683d5baf8c3611675365a</link>
 			<title>[Up to 21°C] 暗芝居 第十四季 / Yami Shibai S14 - 06 (CR 1920x1080 AVC AAC MKV)</title>
@@ -26427,6 +26403,18 @@
 				<pubDate>2025-03-12T07:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="432327872" url="https://mikanani.me/Download/20250312/dea321376b980dcfa973a9ef3174664ab5bba6eb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+			<title>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+				<contentLength>747110400</contentLength>
+				<pubDate>2025-03-12T11:01:13.778221</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250312/7441899f8018f28839140f177448b6bcc05ea8c4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

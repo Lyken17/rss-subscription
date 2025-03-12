@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 147 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2f16aebcf887cc19bce0605d374e10c29e71e8b2</link>
-			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 147 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 147 (ABEMA 1920x1080 AVC AAC MP4)[721.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f16aebcf887cc19bce0605d374e10c29e71e8b2</link>
-				<contentLength>756809728</contentLength>
-				<pubDate>2025-03-05T03:01:00.982</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="756809728" url="https://mikanani.me/Download/20250305/2f16aebcf887cc19bce0605d374e10c29e71e8b2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</guid>
 			<link>https://mikanani.me/Home/Episode/8d653b9dd9f1e027174fed2c77415688a2a1cbaa</link>
 			<title>作弊技能《果实大师》 - EP10 [简／繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</title>
@@ -7467,6 +7455,18 @@
 				<pubDate>2025-03-12T07:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="432327872" url="https://mikanani.me/Download/20250312/dea321376b980dcfa973a9ef3174664ab5bba6eb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+			<title>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+				<contentLength>747110400</contentLength>
+				<pubDate>2025-03-12T11:01:13.778221</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250312/7441899f8018f28839140f177448b6bcc05ea8c4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

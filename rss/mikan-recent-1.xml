@@ -832,5 +832,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="432327872" url="https://mikanani.me/Download/20250312/dea321376b980dcfa973a9ef3174664ab5bba6eb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+			<title>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+				<contentLength>747110400</contentLength>
+				<pubDate>2025-03-12T11:01:13.778221</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250312/7441899f8018f28839140f177448b6bcc05ea8c4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

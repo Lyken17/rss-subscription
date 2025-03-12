@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+			<title>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
+				<contentLength>747110400</contentLength>
+				<pubDate>2025-03-12T11:01:13.778221</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250312/7441899f8018f28839140f177448b6bcc05ea8c4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/19e048555e31202838724edbc613b6f02bc25c55</link>
 			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T21:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="621176448" url="https://mikanani.me/Download/20250310/66231607cbe052bb4df7aeefad157dae745d3484.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[梦蓝字幕组]Crayonshinchan 蜡笔小新[1273][2025.03.01][AVC][1080P][GB_JP][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7221930e22fb3aaf9524e99edb0a958da1fefbc2</link>
-			<title>[梦蓝字幕组]Crayonshinchan 蜡笔小新[1273][2025.03.01][AVC][1080P][GB_JP][MP4]</title>
-			<description>[梦蓝字幕组]Crayonshinchan 蜡笔小新[1273][2025.03.01][AVC][1080P][GB_JP][MP4][631.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7221930e22fb3aaf9524e99edb0a958da1fefbc2</link>
-				<contentLength>661966016</contentLength>
-				<pubDate>2025-03-10T20:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="661966016" url="https://mikanani.me/Download/20250310/7221930e22fb3aaf9524e99edb0a958da1fefbc2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
