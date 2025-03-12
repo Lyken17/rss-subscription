@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][天空战记/Tenkuu Senki Shurato][01-38TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](天空戦记シュラト)</guid>
+			<link>https://mikanani.me/Home/Episode/0ff03806121412de11d546e4eaa43c6498db41e2</link>
+			<title>[DBD-Raws][天空战记/Tenkuu Senki Shurato][01-38TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](天空戦记シュラト)</title>
+			<description>[DBD-Raws][天空战记/Tenkuu Senki Shurato][01-38TV全集+OVA+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](天空戦记シュラト)[41.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ff03806121412de11d546e4eaa43c6498db41e2</link>
+				<contentLength>44989784064</contentLength>
+				<pubDate>2025-03-12T13:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="44989784064" url="https://mikanani.me/Download/20250312/0ff03806121412de11d546e4eaa43c6498db41e2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 11 [1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/425320f4c6a564fe8019568743fa63fb65874821</link>
 			<title>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 11 [1080P][AVC AAC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-10T21:43:29.61</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="102970160" url="https://mikanani.me/Download/20250310/c283df6512895d8b256ce70f4ab6303414be7eae.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 45 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b94534a0f367721b9417b249fd8ab77ba91f3ab3</link>
-			<title>[黒ネズミたち] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 45 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 神剑闯江湖 ―明治剑客浪漫谭― 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran - 45 (ABEMA 1280x720 AVC AAC MP4)[354.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b94534a0f367721b9417b249fd8ab77ba91f3ab3</link>
-				<contentLength>371793600</contentLength>
-				<pubDate>2025-03-10T21:30:47.125</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="371793600" url="https://mikanani.me/Download/20250310/b94534a0f367721b9417b249fd8ab77ba91f3ab3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
