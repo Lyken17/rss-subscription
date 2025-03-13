@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/63ccbae0e03f861035f9921a5da65f76d7b48461</link>
-			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕][5.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/63ccbae0e03f861035f9921a5da65f76d7b48461</link>
-				<contentLength>5905580032</contentLength>
-				<pubDate>2025-03-12T07:01:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5905580032" url="https://mikanani.me/Download/20250312/63ccbae0e03f861035f9921a5da65f76d7b48461.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/19e048555e31202838724edbc613b6f02bc25c55</link>
 			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -1107,6 +1095,30 @@
 				<pubDate>2025-03-13T13:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4509715456" url="https://mikanani.me/Download/20250313/1b611c88d4216f289289039ae7206fc3a84980aa.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][087][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/c804bd9a845bbf3b73442b3dfbf268f198798296</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][087][简体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][087][简体][1080P][MP4][507.65 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c804bd9a845bbf3b73442b3dfbf268f198798296</link>
+				<contentLength>532309600</contentLength>
+				<pubDate>2025-03-13T14:31:57.088</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="532309600" url="https://mikanani.me/Download/20250313/c804bd9a845bbf3b73442b3dfbf268f198798296.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][087][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/9291a3e91d2242aa9998e6a65f3621ba01fc9bca</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][087][繁体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][087][繁体][1080P][MP4][507.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9291a3e91d2242aa9998e6a65f3621ba01fc9bca</link>
+				<contentLength>532068448</contentLength>
+				<pubDate>2025-03-13T14:31:37.636</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="532068448" url="https://mikanani.me/Download/20250313/9291a3e91d2242aa9998e6a65f3621ba01fc9bca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
