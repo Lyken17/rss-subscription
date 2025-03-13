@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][10][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/6ce846a54e7c4fa7c01634bcf5a34ff6fd6ae4c7</link>
+			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][10][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][10][1080p][简日双语][招募翻译][288.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ce846a54e7c4fa7c01634bcf5a34ff6fd6ae4c7</link>
+				<contentLength>302839232</contentLength>
+				<pubDate>2025-03-14T07:10:09.315</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302839232" url="https://mikanani.me/Download/20250314/6ce846a54e7c4fa7c01634bcf5a34ff6fd6ae4c7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][24][WEBrip][1080P][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/5c0ec75dde5321a2383872e3a58c7fde2ff75c17</link>
 			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][24][WEBrip][1080P][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-13T01:22:55.528</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3929895168" url="https://mikanani.me/Download/20250313/2d92282876b60b0a6d5ad512ba2de4f888e83a8c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活/Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru][01-12TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ループ7回目の悪役令嬢は, 元敌国で自由気ままな花嫁生活を満吃する)</guid>
-			<link>https://mikanani.me/Home/Episode/9db8ffab62c682d17d61d95667d90357d132ecd4</link>
-			<title>[DBD-Raws][轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活/Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru][01-12TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ループ7回目の悪役令嬢は, 元敌国で自由気ままな花嫁生活を満吃する)</title>
-			<description>[DBD-Raws][轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活/Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru][01-12TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ループ7回目の悪役令嬢は, 元敌国で自由気ままな花嫁生活を満吃する)[10.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9db8ffab62c682d17d61d95667d90357d132ecd4</link>
-				<contentLength>10952166400</contentLength>
-				<pubDate>2025-03-13T01:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="10952166400" url="https://mikanani.me/Download/20250313/9db8ffab62c682d17d61d95667d90357d132ecd4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
