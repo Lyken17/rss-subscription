@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][四重星/Trapezium][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](成为星星的少女/トラペジウム)</guid>
+			<link>https://mikanani.me/Home/Episode/1b611c88d4216f289289039ae7206fc3a84980aa</link>
+			<title>[DBD-Raws][四重星/Trapezium][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](成为星星的少女/トラペジウム)</title>
+			<description>[DBD-Raws][四重星/Trapezium][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](成为星星的少女/トラペジウム)[4.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1b611c88d4216f289289039ae7206fc3a84980aa</link>
+				<contentLength>4509715456</contentLength>
+				<pubDate>2025-03-13T13:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4509715456" url="https://mikanani.me/Download/20250313/1b611c88d4216f289289039ae7206fc3a84980aa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][赛马娘：新时代之门/Uma Musume Pretty Derby Shinjidai no Tobira][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+AC3][MKV](ウマ娘 プリティーダービー 新时代の扉)</guid>
 			<link>https://mikanani.me/Home/Episode/3af4f297b52736a909a75a5f3f0e3aee1fb9ae14</link>
 			<title>[DBD-Raws][赛马娘：新时代之门/Uma Musume Pretty Derby Shinjidai no Tobira][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC+AC3][MKV](ウマ娘 プリティーダービー 新时代の扉)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-12T00:20:04.580108</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="263612000" url="https://mikanani.me/Download/20250312/cf47de678bc0b041eb3eb0f07deef81661fa4b11.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[云光字幕组] 蜂蜜柠檬苏打水 Honey Lemon Soda [09][简体双语][1080p]招募翻译.mp4</guid>
-			<link>https://mikanani.me/Home/Episode/975dac2defcb68082f39d5794241d18392ed26fe</link>
-			<title>[云光字幕组] 蜂蜜柠檬苏打水 Honey Lemon Soda [09][简体双语][1080p]招募翻译.mp4</title>
-			<description>[云光字幕组] 蜂蜜柠檬苏打水 Honey Lemon Soda [09][简体双语][1080p]招募翻译.mp4[288.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/975dac2defcb68082f39d5794241d18392ed26fe</link>
-				<contentLength>302073760</contentLength>
-				<pubDate>2025-03-12T00:06:48.472</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="302073760" url="https://mikanani.me/Download/20250312/975dac2defcb68082f39d5794241d18392ed26fe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

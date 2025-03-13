@@ -7252,5 +7252,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="341405856" url="https://mikanani.me/Download/20250313/cfd7cb11d87995a06e1201ee7c8407a589c3be2a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][四重星/Trapezium][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](成为星星的少女/トラペジウム)</guid>
+			<link>https://mikanani.me/Home/Episode/1b611c88d4216f289289039ae7206fc3a84980aa</link>
+			<title>[DBD-Raws][四重星/Trapezium][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](成为星星的少女/トラペジウム)</title>
+			<description>[DBD-Raws][四重星/Trapezium][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](成为星星的少女/トラペジウム)[4.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1b611c88d4216f289289039ae7206fc3a84980aa</link>
+				<contentLength>4509715456</contentLength>
+				<pubDate>2025-03-13T13:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4509715456" url="https://mikanani.me/Download/20250313/1b611c88d4216f289289039ae7206fc3a84980aa.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
