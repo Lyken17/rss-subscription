@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/6ceb68b908e634f3a7c9b470b547379e61cd2765</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin][46.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ceb68b908e634f3a7c9b470b547379e61cd2765</link>
+				<contentLength>49606873088</contentLength>
+				<pubDate>2025-03-13T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="49606873088" url="https://mikanani.me/Download/20250313/6ceb68b908e634f3a7c9b470b547379e61cd2765.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/4f04112005b9a896b03055a7fa4fd8c32aae4297</link>
 			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-11T23:01:17</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="228065280" url="https://mikanani.me/Download/20250311/8034575c5ac25abfeb5e99cf1c390d48cd994e2f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 22 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d9fecd1d04bc8f6138f479f3bfcf539884b0e326</link>
-			<title>[黒ネズミたち] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 22 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 22 (Baha 1920x1080 AVC AAC MP4)[324.44 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d9fecd1d04bc8f6138f479f3bfcf539884b0e326</link>
-				<contentLength>340200000</contentLength>
-				<pubDate>2025-03-11T23:00:51.284</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="340200000" url="https://mikanani.me/Download/20250311/d9fecd1d04bc8f6138f479f3bfcf539884b0e326.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

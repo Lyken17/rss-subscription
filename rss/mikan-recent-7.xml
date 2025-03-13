@@ -7180,5 +7180,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="291734816" url="https://mikanani.me/Download/20250313/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/6ceb68b908e634f3a7c9b470b547379e61cd2765</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin][46.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ceb68b908e634f3a7c9b470b547379e61cd2765</link>
+				<contentLength>49606873088</contentLength>
+				<pubDate>2025-03-13T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="49606873088" url="https://mikanani.me/Download/20250313/6ceb68b908e634f3a7c9b470b547379e61cd2765.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
