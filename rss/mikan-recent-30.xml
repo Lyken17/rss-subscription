@@ -26764,5 +26764,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="930296640" url="https://mikanani.me/Download/20250313/2926a20318afd72cb7a72ac45376802389db0a3f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/4f04112005b9a896b03055a7fa4fd8c32aae4297</link>
+			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌][278.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f04112005b9a896b03055a7fa4fd8c32aae4297</link>
+				<contentLength>291839680</contentLength>
+				<pubDate>2025-03-13T09:38:05.733</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="291839680" url="https://mikanani.me/Download/20250313/4f04112005b9a896b03055a7fa4fd8c32aae4297.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0</link>
+			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][简体内嵌][278.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0</link>
+				<contentLength>291734816</contentLength>
+				<pubDate>2025-03-13T09:25:19.16</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="291734816" url="https://mikanani.me/Download/20250313/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
