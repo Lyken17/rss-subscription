@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb</link>
+			<title>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕][860.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb</link>
+				<contentLength>901974592</contentLength>
+				<pubDate>2025-03-14T12:06:53.425</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="901974592" url="https://mikanani.me/Download/20250314/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 【我推的孩子】 / Oshi no Ko (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/f9e42b50f45b8f9228b6850e1ab7b07c36c8f4a7</link>
 			<title>[H-Enc] 【我推的孩子】 / Oshi no Ko (BDRip 1080p HEVC FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-13T04:56:03.17</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="339256288" url="https://mikanani.me/Download/20250313/ddd6cc9fe8ba6552f726a3ea7f16251d755a6c24.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [10][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/641798bcb990e64cc0423fbcaab7eb5e4a788dcc</link>
-			<title>[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [10][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 灰色：幻影扳机 / Grisaia：Phantom Trigger [10][1080p][简繁内封][212.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/641798bcb990e64cc0423fbcaab7eb5e4a788dcc</link>
-				<contentLength>222507824</contentLength>
-				<pubDate>2025-03-13T02:57:42.067</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="222507824" url="https://mikanani.me/Download/20250313/641798bcb990e64cc0423fbcaab7eb5e4a788dcc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
