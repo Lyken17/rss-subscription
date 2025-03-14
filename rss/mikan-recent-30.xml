@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/fa85459cc4c4c96b0c15f86648b8b1d49e911f21</link>
-			<title>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
-			<description>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][420.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fa85459cc4c4c96b0c15f86648b8b1d49e911f21</link>
-				<contentLength>441345632</contentLength>
-				<pubDate>2025-02-11T23:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441345632" url="https://mikanani.me/Download/20250211/fa85459cc4c4c96b0c15f86648b8b1d49e911f21.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/a24d0fe048b6a01847e9a98cd510d74bffecbe8d</link>
-			<title>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
-			<description>[黑白字幕组]全修。 / Zenshuu. [06] [webRip] [AVC-8bit 1080P AAC] [简日内嵌][421MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a24d0fe048b6a01847e9a98cd510d74bffecbe8d</link>
-				<contentLength>441450496</contentLength>
-				<pubDate>2025-02-11T23:42:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441450496" url="https://mikanani.me/Download/20250211/a24d0fe048b6a01847e9a98cd510d74bffecbe8d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Hana wa Saku Shura no Gotoku /  群花绽放、彷如修罗 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8e53a5db1f73cce2996ce582b49f21ea4ac4646e</link>
 			<title>[ANi] Hana wa Saku Shura no Gotoku /  群花绽放、彷如修罗 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -27423,6 +27399,18 @@
 				<pubDate>2025-03-14T07:10:09.315</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="302839232" url="https://mikanani.me/Download/20250314/6ce846a54e7c4fa7c01634bcf5a34ff6fd6ae4c7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/cdfe080366799a74be1a1095a834eb5825f23fda</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)[341.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cdfe080366799a74be1a1095a834eb5825f23fda</link>
+				<contentLength>357564416</contentLength>
+				<pubDate>2025-03-14T09:01:55.781908</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="357564416" url="https://mikanani.me/Download/20250314/cdfe080366799a74be1a1095a834eb5825f23fda.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
