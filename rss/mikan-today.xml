@@ -77,18 +77,6 @@
 			<enclosure type="application/x-bittorrent" length="89894424" url="https://mikanani.me/Download/20250314/7ad27e97d91e5dff8ebbc8d59757579a0610a506.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][剧场版 刀剑神域 进击篇 无星之夜的咏叹调/Gekijouban Sword Art Online Progressive Hoshinaki Yoru no Aria][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC+AC3][MKV](剧场版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア)</guid>
-			<link>https://mikanani.me/Home/Episode/101ae9b1081f57b2aa2926255683c9b0299cb2c0</link>
-			<title>[DBD-Raws][剧场版 刀剑神域 进击篇 无星之夜的咏叹调/Gekijouban Sword Art Online Progressive Hoshinaki Yoru no Aria][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC+AC3][MKV](剧场版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア)</title>
-			<description>[DBD-Raws][剧场版 刀剑神域 进击篇 无星之夜的咏叹调/Gekijouban Sword Art Online Progressive Hoshinaki Yoru no Aria][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC+AC3][MKV](剧场版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア)[9.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/101ae9b1081f57b2aa2926255683c9b0299cb2c0</link>
-				<contentLength>10630043648</contentLength>
-				<pubDate>2025-03-14T15:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="10630043648" url="https://mikanani.me/Download/20250314/101ae9b1081f57b2aa2926255683c9b0299cb2c0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][ViuTV粤语]国王战队帝王者 / 虫王战队超王者 / King-Ohger - 41 [粤语+无对白字幕](BD 1920x1080 x264 AAC PGS+SRT VIUTV YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/559bed3be44ee9ddda781d14f902fbc09dbb48d5</link>
 			<title>[jibaketa合成&amp;二次压制][ViuTV粤语]国王战队帝王者 / 虫王战队超王者 / King-Ohger - 41 [粤语+无对白字幕](BD 1920x1080 x264 AAC PGS+SRT VIUTV YUE CHT)</title>
@@ -1203,6 +1191,18 @@
 				<pubDate>2025-03-13T12:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="703699328" url="https://mikanani.me/Download/20250313/847c3e47cbb43bb082b799166240df3071518977.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 63 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/734db74d81f7a7099610330eca775035368125ae</link>
+			<title>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 63 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 63 (ABEMA 1920x1080 AVC AAC MP4)[77.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/734db74d81f7a7099610330eca775035368125ae</link>
+				<contentLength>81054928</contentLength>
+				<pubDate>2025-03-13T12:37:02.003941</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="81054928" url="https://mikanani.me/Download/20250313/734db74d81f7a7099610330eca775035368125ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
