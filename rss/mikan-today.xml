@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[AKito搬运] 战斗陀螺 X BEYBLADE X 01-51 [Baha][WebDL 1080p AVC AAC][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/2064b635c5d46ea11c0de921815cc5b032bf77cd</link>
+			<title>[AKito搬运] 战斗陀螺 X BEYBLADE X 01-51 [Baha][WebDL 1080p AVC AAC][CHT]</title>
+			<description>[AKito搬运] 战斗陀螺 X BEYBLADE X 01-51 [Baha][WebDL 1080p AVC AAC][CHT][23.17 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2064b635c5d46ea11c0de921815cc5b032bf77cd</link>
+				<contentLength>24878598144</contentLength>
+				<pubDate>2025-03-14T13:04:03.146</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24878598144" url="https://mikanani.me/Download/20250314/2064b635c5d46ea11c0de921815cc5b032bf77cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb</link>
 			<title>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-13T04:56:07.652</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="339130464" url="https://mikanani.me/Download/20250313/b78cfed502fdb4893e58f08a8208d5f04a17b2fa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[晚街与灯][Re: 从零开始的异世界的生活_Re Zero kara Hajimeru Isekai Seikatsu][64][3rd - 14][WebRip_1080P_x264_AAC][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/ddd6cc9fe8ba6552f726a3ea7f16251d755a6c24</link>
-			<title>[晚街与灯][Re: 从零开始的异世界的生活_Re Zero kara Hajimeru Isekai Seikatsu][64][3rd - 14][WebRip_1080P_x264_AAC][简体内嵌]</title>
-			<description>[晚街与灯][Re: 从零开始的异世界的生活_Re Zero kara Hajimeru Isekai Seikatsu][64][3rd - 14][WebRip_1080P_x264_AAC][简体内嵌][323.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ddd6cc9fe8ba6552f726a3ea7f16251d755a6c24</link>
-				<contentLength>339256288</contentLength>
-				<pubDate>2025-03-13T04:56:03.17</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="339256288" url="https://mikanani.me/Download/20250313/ddd6cc9fe8ba6552f726a3ea7f16251d755a6c24.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
