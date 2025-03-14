@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][10][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/568e63529761454e38ea0c7083c7ba7b77cd450b</link>
+			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][10][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][10][1080p][繁日双语][招募翻译][288.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/568e63529761454e38ea0c7083c7ba7b77cd450b</link>
+				<contentLength>302870688</contentLength>
+				<pubDate>2025-03-14T18:59:25.706</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302870688" url="https://mikanani.me/Download/20250314/568e63529761454e38ea0c7083c7ba7b77cd450b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/153171aa6cc72d750534e574f23784be5b5784f7</link>
 			<title>[ANi]  卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-13T12:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="703699328" url="https://mikanani.me/Download/20250313/847c3e47cbb43bb082b799166240df3071518977.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 63 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/734db74d81f7a7099610330eca775035368125ae</link>
-			<title>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 63 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 63 (ABEMA 1920x1080 AVC AAC MP4)[77.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/734db74d81f7a7099610330eca775035368125ae</link>
-				<contentLength>81054928</contentLength>
-				<pubDate>2025-03-13T12:37:02.003941</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="81054928" url="https://mikanani.me/Download/20250313/734db74d81f7a7099610330eca775035368125ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
