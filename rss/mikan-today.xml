@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/be82cd30a3f8b6fc7f7f4b234d1aafb19ceff983</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][399.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/be82cd30a3f8b6fc7f7f4b234d1aafb19ceff983</link>
+				<contentLength>419115840</contentLength>
+				<pubDate>2025-03-15T18:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="419115840" url="https://mikanani.me/Download/20250315/be82cd30a3f8b6fc7f7f4b234d1aafb19ceff983.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 22 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c0674fd94818b8eae628874a2d880b3c1d6b65ba</link>
 			<title>[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 22 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-14T01:01:44.38959</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="316984512" url="https://mikanani.me/Download/20250314/6c2bb676237a6415712ce39824d5234410e9d3eb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Anyway Im Falling in Love with You /  终究，与你相恋。 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/666e92f0e34cba1dc00c90af5eb6a4bd8eecb90d</link>
-			<title>[ANi] Anyway Im Falling in Love with You /  终究，与你相恋。 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Anyway Im Falling in Love with You /  终究，与你相恋。 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][327.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/666e92f0e34cba1dc00c90af5eb6a4bd8eecb90d</link>
-				<contentLength>343094080</contentLength>
-				<pubDate>2025-03-14T01:01:15.146534</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="343094080" url="https://mikanani.me/Download/20250314/666e92f0e34cba1dc00c90af5eb6a4bd8eecb90d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
