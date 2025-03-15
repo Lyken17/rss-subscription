@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] Show Time！唱歌的大姐姐也想做 第二季 / Showtime! Uta no Onee-san Datte Shitai 2 (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/50e7c88a3abbac2fa437ec221d92462dd15f658e</link>
+			<title>[H-Enc] Show Time！唱歌的大姐姐也想做 第二季 / Showtime! Uta no Onee-san Datte Shitai 2 (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] Show Time！唱歌的大姐姐也想做 第二季 / Showtime! Uta no Onee-san Datte Shitai 2 (BDRip 1080p HEVC FLAC)[1.7 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/50e7c88a3abbac2fa437ec221d92462dd15f658e</link>
+				<contentLength>1825361152</contentLength>
+				<pubDate>2025-03-15T16:12:55.831058</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1825361152" url="https://mikanani.me/Download/20250315/50e7c88a3abbac2fa437ec221d92462dd15f658e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan - 12 END [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/df701215a6a8485b237ea7b047514d04b9a54763</link>
 			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan - 12 END [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-14T01:00:50.965929</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="437885344" url="https://mikanani.me/Download/20250314/8cc728aec28318d1f35de00d0153e5c1448ac4f3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/fff14649a634d0a2f5932a9080b974dc8a944cef</link>
-			<title>[黒ネズミたち] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 10 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 10 (Baha 1920x1080 AVC AAC MP4)[327.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fff14649a634d0a2f5932a9080b974dc8a944cef</link>
-				<contentLength>342884352</contentLength>
-				<pubDate>2025-03-14T01:00:46.647251</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="342884352" url="https://mikanani.me/Download/20250314/fff14649a634d0a2f5932a9080b974dc8a944cef.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
