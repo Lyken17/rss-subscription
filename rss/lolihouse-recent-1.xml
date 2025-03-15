@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb</link>
-			<title>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 10 [WebRip 1080p HEVC-10bit AAC][无字幕][860.19 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb</link>
-				<contentLength>901974592</contentLength>
-				<pubDate>2025-03-14T12:06:53.425</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="901974592" url="https://mikanani.me/Download/20250314/d5cc714028ce0ea8c7ad642e16870ca5cafa80fb.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a434dd8b68d4bb5b5802a43fe232b37d43eab49a</link>
 			<title>[喵萌Production&amp;LoliHouse] BanG Dream! Ave Mujica - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -99,6 +87,18 @@
 				<pubDate>2025-03-15T18:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="419115840" url="https://mikanani.me/Download/20250315/be82cd30a3f8b6fc7f7f4b234d1aafb19ceff983.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ba5ad432842ee9278823339cfda6e4ea6e16f11b</link>
+			<title>[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][676.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ba5ad432842ee9278823339cfda6e4ea6e16f11b</link>
+				<contentLength>709026112</contentLength>
+				<pubDate>2025-03-15T19:42:15.86</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="709026112" url="https://mikanani.me/Download/20250315/ba5ad432842ee9278823339cfda6e4ea6e16f11b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
