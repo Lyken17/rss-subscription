@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cd8fc28d532f9d01a2485844ea57b859ee509711</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][879.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cd8fc28d532f9d01a2485844ea57b859ee509711</link>
+				<contentLength>922222592</contentLength>
+				<pubDate>2025-03-15T12:32:08.35</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="922222592" url="https://mikanani.me/Download/20250315/cd8fc28d532f9d01a2485844ea57b859ee509711.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][21][1080P][MP4][BIG5][繁中]</guid>
 			<link>https://mikanani.me/Home/Episode/5f1b13ab526eaf42cac5bfc9ee84df16bf0bc86d</link>
 			<title>[爱恋字幕社&amp;猫恋汉化组][10月新番][缘结甘神家/结缘甘神神社][Amagami-san Chi no Enmusubi][21][1080P][MP4][BIG5][繁中]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-14T00:06:12.681</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="305670400" url="https://mikanani.me/Download/20250314/3eef6c8b6a0a962cdcfcf8a94c51d0f1c3ebc542.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][11][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/05d1f09dc5cb254b5c7f894d2440b7fa32d836db</link>
-			<title>【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][11][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌Production】★01月新番★[BanG Dream! Ave Mujica][11][1080p][简日双语][招募翻译][408.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/05d1f09dc5cb254b5c7f894d2440b7fa32d836db</link>
-				<contentLength>428773216</contentLength>
-				<pubDate>2025-03-14T00:04:20.244</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="428773216" url="https://mikanani.me/Download/20250314/05d1f09dc5cb254b5c7f894d2440b7fa32d836db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

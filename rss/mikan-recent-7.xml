@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/4447cd0e63a9b8b20503b5ac9fb78e564b486404</link>
-			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][简体][1080P][MP4][355.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4447cd0e63a9b8b20503b5ac9fb78e564b486404</link>
-				<contentLength>372349344</contentLength>
-				<pubDate>2025-03-08T04:45:05.721</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="372349344" url="https://mikanani.me/Download/20250308/4447cd0e63a9b8b20503b5ac9fb78e564b486404.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/4b1e3e5168deecd5c0e1e9bb572c5e6e2edd00ea</link>
-			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][33][繁体][1080P][MP4][354.93 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4b1e3e5168deecd5c0e1e9bb572c5e6e2edd00ea</link>
-				<contentLength>372171072</contentLength>
-				<pubDate>2025-03-08T04:44:56.775</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="372171072" url="https://mikanani.me/Download/20250308/4b1e3e5168deecd5c0e1e9bb572c5e6e2edd00ea.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][086][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/ddaaccecdc6f8ba8b57185b0d7c92bbd0a6d0243</link>
 			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][086][简体][1080P][MP4]</title>
@@ -6891,6 +6867,18 @@
 				<pubDate>2025-03-15T11:38:15.696</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="345327520" url="https://mikanani.me/Download/20250315/1615c1639602286b342a5b278437215676ea7166.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔域英雄传说 / Übel Blatt - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cd8fc28d532f9d01a2485844ea57b859ee509711</link>
+			<title>[LoliHouse] 魔域英雄传说 / Übel Blatt - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔域英雄传说 / Übel Blatt - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][879.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cd8fc28d532f9d01a2485844ea57b859ee509711</link>
+				<contentLength>922222592</contentLength>
+				<pubDate>2025-03-15T12:32:08.35</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="922222592" url="https://mikanani.me/Download/20250315/cd8fc28d532f9d01a2485844ea57b859ee509711.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
