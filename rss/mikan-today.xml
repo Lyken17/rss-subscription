@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5c682031b969dae14d4a28b6546094eb824edf06</link>
+			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 09 (ABEMA 1920x1080 AVC AAC MP4)[729.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5c682031b969dae14d4a28b6546094eb824edf06</link>
+				<contentLength>764936192</contentLength>
+				<pubDate>2025-03-15T10:31:01.798454</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="764936192" url="https://mikanani.me/Download/20250315/5c682031b969dae14d4a28b6546094eb824edf06.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 仿原生2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/42afa780bb2aaed5299cc4ad51007280d8c4d985</link>
 			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 仿原生2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-13T23:47:46.601</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250313/c2e1287dc5be7c09603fb78280b88d46f0f37e33.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [10][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/bae71b242f054379b2c236811ec2e1d703bfb4d0</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [10][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [10][1080p][简繁内封][493.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bae71b242f054379b2c236811ec2e1d703bfb4d0</link>
-				<contentLength>517514208</contentLength>
-				<pubDate>2025-03-13T23:15:44.532</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="517514208" url="https://mikanani.me/Download/20250313/bae71b242f054379b2c236811ec2e1d703bfb4d0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
