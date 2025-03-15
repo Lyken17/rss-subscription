@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 仿原生2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/42afa780bb2aaed5299cc4ad51007280d8c4d985</link>
+			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 仿原生2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 仿原生2160p HEVC-10bit AAC][官方简繁内封字幕][13.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42afa780bb2aaed5299cc4ad51007280d8c4d985</link>
+				<contentLength>14495514624</contentLength>
+				<pubDate>2025-03-15T08:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14495514624" url="https://mikanani.me/Download/20250315/42afa780bb2aaed5299cc4ad51007280d8c4d985.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] Show Time！唱歌的大姐姐也想做 / Showtime! Uta no Onee-san Datte Shitai (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/af5a7252c56c9c6b6109805f8821eac324b70e54</link>
 			<title>[H-Enc] Show Time！唱歌的大姐姐也想做 / Showtime! Uta no Onee-san Datte Shitai (BDRip 1080p HEVC FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-13T23:15:44.532</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="517514208" url="https://mikanani.me/Download/20250313/bae71b242f054379b2c236811ec2e1d703bfb4d0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [10][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/4e0071402e0875847c8619cbc66b20b51b7773ea</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [10][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [10][1080p][繁体内嵌][662.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4e0071402e0875847c8619cbc66b20b51b7773ea</link>
-				<contentLength>694943744</contentLength>
-				<pubDate>2025-03-13T23:15:05.157</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="694943744" url="https://mikanani.me/Download/20250313/4e0071402e0875847c8619cbc66b20b51b7773ea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
