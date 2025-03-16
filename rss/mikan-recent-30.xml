@@ -28636,5 +28636,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="442394208" url="https://mikanani.me/Download/20250316/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】 这家公司里有我喜欢的人 第10集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/10fad8d993b116682236e1d56f8af6fb465209ab</link>
+			<title>【极影字幕·毁片党】 这家公司里有我喜欢的人 第10集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】 这家公司里有我喜欢的人 第10集 GB_CN HEVC_opus 1080p[145.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10fad8d993b116682236e1d56f8af6fb465209ab</link>
+				<contentLength>152253232</contentLength>
+				<pubDate>2025-03-16T14:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="152253232" url="https://mikanani.me/Download/20250316/10fad8d993b116682236e1d56f8af6fb465209ab.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
