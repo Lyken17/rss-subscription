@@ -1180,5 +1180,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="842593728" url="https://mikanani.me/Download/20250316/b98b1aa0ae8108678d6197494b3d11001f917648.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 无职转生～到了异世界就拿出真本事～ / Mushoku Tensei ~Isekai Ittara Honki Dasu~ 10-bit 1080p HEVC BDRip [S1 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/1f485770633c882d1cfb1ca2ba742545182d959a</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 无职转生～到了异世界就拿出真本事～ / Mushoku Tensei ~Isekai Ittara Honki Dasu~ 10-bit 1080p HEVC BDRip [S1 Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 无职转生～到了异世界就拿出真本事～ / Mushoku Tensei ~Isekai Ittara Honki Dasu~ 10-bit 1080p HEVC BDRip [S1 Reseed Fin][85.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1f485770633c882d1cfb1ca2ba742545182d959a</link>
+				<contentLength>91912298496</contentLength>
+				<pubDate>2025-03-16T11:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="91912298496" url="https://mikanani.me/Download/20250316/1f485770633c882d1cfb1ca2ba742545182d959a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
