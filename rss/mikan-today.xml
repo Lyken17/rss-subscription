@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b98b1aa0ae8108678d6197494b3d11001f917648</link>
+			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][803.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b98b1aa0ae8108678d6197494b3d11001f917648</link>
+				<contentLength>842593728</contentLength>
+				<pubDate>2025-03-16T11:29:07.391</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="842593728" url="https://mikanani.me/Download/20250316/b98b1aa0ae8108678d6197494b3d11001f917648.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 45 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
 			<link>https://mikanani.me/Home/Episode/2c53d2ff10da05168210563ccd9d0737258dcc9e</link>
 			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 45 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-15T03:24:59.888</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="315558464" url="https://mikanani.me/Download/20250315/07236016ee25183fbcef306845bc66cf934f1685.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  冻牌~地下麻将斗牌录~ - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/8b320ad4c62b046b57a359ef18a66e0e25f873d5</link>
-			<title>[ANi]  冻牌~地下麻将斗牌录~ - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  冻牌~地下麻将斗牌录~ - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][280.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8b320ad4c62b046b57a359ef18a66e0e25f873d5</link>
-				<contentLength>293811008</contentLength>
-				<pubDate>2025-03-15T02:25:46.789525</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="293811008" url="https://mikanani.me/Download/20250315/8b320ad4c62b046b57a359ef18a66e0e25f873d5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
