@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/80bddc361e10bb3dfa965c4c2ebf04b5e9c173fc</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][421.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/80bddc361e10bb3dfa965c4c2ebf04b5e9c173fc</link>
+				<contentLength>442058656</contentLength>
+				<pubDate>2025-03-17T07:02:07.143</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="442058656" url="https://mikanani.me/Download/20250317/80bddc361e10bb3dfa965c4c2ebf04b5e9c173fc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] 青之箱 - 23 [NF WebRip 暴力2160p HEVC-10bit AAC][官方简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6b0e5d69bbe3f4164e92b694b7541e48f853db9e</link>
 			<title>[不当舔狗制作组] 青之箱 - 23 [NF WebRip 暴力2160p HEVC-10bit AAC][官方简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-16T16:25:45.002</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="549537728" url="https://mikanani.me/Download/20250316/f0f3c3b5a0c6dd97ea2f3b2614d629a31a8a1f9d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">ガールズバンドクライ (JPBD Vol.1-7 Remux) 少女乐队的呐喊 哭泣少女乐队 GIRLS BAND CRY</guid>
-			<link>https://mikanani.me/Home/Episode/06cbbabe5ae2a41bbede16c885fcc829677a30db</link>
-			<title>ガールズバンドクライ (JPBD Vol.1-7 Remux) 少女乐队的呐喊 哭泣少女乐队 GIRLS BAND CRY</title>
-			<description>ガールズバンドクライ (JPBD Vol.1-7 Remux) 少女乐队的呐喊 哭泣少女乐队 GIRLS BAND CRY[96.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06cbbabe5ae2a41bbede16c885fcc829677a30db</link>
-				<contentLength>103186587648</contentLength>
-				<pubDate>2025-03-16T16:20:17.086447</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="103186587648" url="https://mikanani.me/Download/20250316/06cbbabe5ae2a41bbede16c885fcc829677a30db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
