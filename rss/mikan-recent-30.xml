@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/c442ec66bc5b05a7f36f845ca672405554232e37</link>
-			<title>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
-			<description>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 06 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][1.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c442ec66bc5b05a7f36f845ca672405554232e37</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2025-02-14T18:46:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250214/c442ec66bc5b05a7f36f845ca672405554232e37.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[猎户手抄部] 无名记忆 第二季 / Unnamed Memory Act.2 [18] [1080p] [繁日内嵌] [2025年1月番]</guid>
 			<link>https://mikanani.me/Home/Episode/8b816bb5c5a92358e32fc17359badbac515cce35</link>
 			<title>[猎户手抄部] 无名记忆 第二季 / Unnamed Memory Act.2 [18] [1080p] [繁日内嵌] [2025年1月番]</title>
@@ -29811,6 +29799,30 @@
 				<pubDate>2025-03-17T01:13:58.953</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="440255104" url="https://mikanani.me/Download/20250317/4e2b51254d0d70c32cffdb70dff208f52a704ebc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一兆＄游戏 / Trillion Game - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/de623ad671480b484257af126a4fe11a3d791503</link>
+			<title>[黒ネズミたち] 一兆＄游戏 / Trillion Game - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一兆＄游戏 / Trillion Game - 23 (ABEMA 1920x1080 AVC AAC MP4)[727.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/de623ad671480b484257af126a4fe11a3d791503</link>
+				<contentLength>762524480</contentLength>
+				<pubDate>2025-03-17T03:00:49.991115</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="762524480" url="https://mikanani.me/Download/20250317/de623ad671480b484257af126a4fe11a3d791503.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4814eecba13914be132c16f5d42783f81d26f209</link>
+			<title>[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 11 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4814eecba13914be132c16f5d42783f81d26f209</link>
+				<contentLength>746795840</contentLength>
+				<pubDate>2025-03-17T02:30:53.248218</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20250317/4814eecba13914be132c16f5d42783f81d26f209.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
