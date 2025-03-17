@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc</link>
-			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][421.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc</link>
-				<contentLength>442394208</contentLength>
-				<pubDate>2025-03-16T12:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="442394208" url="https://mikanani.me/Download/20250316/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/fa75d9adad3aeacce819d92e4c9f23857cf7dbf9</link>
 			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -183,6 +171,18 @@
 				<pubDate>2025-03-17T19:29:41.947</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="693727424" url="https://mikanani.me/Download/20250317/6afd89983099940273267875c6bf4606e6421de0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 大叔转生恶役大小姐 / Akuyaku Reijou Tensei Ojisan - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/03eb36f4d8b2a2fef16a3d0027e09571e0bd564e</link>
+			<title>[LoliHouse] 大叔转生恶役大小姐 / Akuyaku Reijou Tensei Ojisan - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 大叔转生恶役大小姐 / Akuyaku Reijou Tensei Ojisan - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][534.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/03eb36f4d8b2a2fef16a3d0027e09571e0bd564e</link>
+				<contentLength>560421952</contentLength>
+				<pubDate>2025-03-17T20:57:28.703</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="560421952" url="https://mikanani.me/Download/20250317/03eb36f4d8b2a2fef16a3d0027e09571e0bd564e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
