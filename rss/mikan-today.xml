@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d0eed7c96a8487b2e584f3cce0cbef8b1e0d06f3</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 22 (ABEMA 1920x1080 AVC AAC MP4)[45.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d0eed7c96a8487b2e584f3cce0cbef8b1e0d06f3</link>
+				<contentLength>47605352</contentLength>
+				<pubDate>2025-03-18T02:35:23.753662</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47605352" url="https://mikanani.me/Download/20250318/d0eed7c96a8487b2e584f3cce0cbef8b1e0d06f3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[剧场版 进击的巨人 完结篇 THE LAST ATTACK][片尾彩蛋][WEBrip][1080P][CHS&amp;JPN]</guid>
 			<link>https://mikanani.me/Home/Episode/96fa81ef62224048b030c6d6c145bccea4d72341</link>
 			<title>【今晚月色真美】[剧场版 进击的巨人 完结篇 THE LAST ATTACK][片尾彩蛋][WEBrip][1080P][CHS&amp;JPN]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-03-16T23:27:35.321</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="379741792" url="https://mikanani.me/Download/20250316/fb9356a5c246bdc438562ff19fa997c0ad987bd0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [08] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/efb1ff0aba17650b62a9ba555628deef92880f31</link>
-			<title>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [08] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</title>
-			<description>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [08] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕][427.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/efb1ff0aba17650b62a9ba555628deef92880f31</link>
-				<contentLength>448266240</contentLength>
-				<pubDate>2025-03-16T23:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="448266240" url="https://mikanani.me/Download/20250316/efb1ff0aba17650b62a9ba555628deef92880f31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
