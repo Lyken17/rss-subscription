@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/bd03a3785aaeb2a23e69888f1ed1b1be4ed86cbd</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AVC 8bit][简日内嵌]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AVC 8bit][简日内嵌][915.52 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bd03a3785aaeb2a23e69888f1ed1b1be4ed86cbd</link>
-				<contentLength>959992320</contentLength>
-				<pubDate>2025-03-11T17:49:29.381</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="959992320" url="https://mikanani.me/Download/20250311/bd03a3785aaeb2a23e69888f1ed1b1be4ed86cbd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Billion Meta Lab] 你的颜色 \ kimi no iro \ きみの色  [1080P][HEVC 10bit][BDRIP][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/4353ca72e0a7640813a7101be2ef6c1557121cfd</link>
 			<title>[Billion Meta Lab] 你的颜色 \ kimi no iro \ きみの色  [1080P][HEVC 10bit][BDRIP][简繁日内封]</title>
@@ -7359,6 +7347,18 @@
 				<pubDate>2025-03-19T01:00:48.228133</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725824320" url="https://mikanani.me/Download/20250319/7e626b19761bf7fe090942a090aa08099d813cbd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组] BanG Dream! Ave Mujica [09][1080p]</guid>
+			<link>https://mikanani.me/Home/Episode/915932fc6fa03f75bf076d68eac94fab834db0fc</link>
+			<title>[萌樱字幕组] BanG Dream! Ave Mujica [09][1080p]</title>
+			<description>[萌樱字幕组] BanG Dream! Ave Mujica [09][1080p][293.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/915932fc6fa03f75bf076d68eac94fab834db0fc</link>
+				<contentLength>307966784</contentLength>
+				<pubDate>2025-03-19T01:33:22.185298</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="307966784" url="https://mikanani.me/Download/20250319/915932fc6fa03f75bf076d68eac94fab834db0fc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
