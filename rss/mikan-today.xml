@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub&amp;VCB-Studio] 物怪剧场版：第一章 油纸伞 / Mononoke: The Phantom in the Rain / 剧场版モノノ怪 唐伞 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/f4044e1b5bfe1a5c88e8521e1f0321177d81e436</link>
+			<title>[SweetSub&amp;VCB-Studio] 物怪剧场版：第一章 油纸伞 / Mononoke: The Phantom in the Rain / 剧场版モノノ怪 唐伞 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
+			<description>[SweetSub&amp;VCB-Studio] 物怪剧场版：第一章 油纸伞 / Mononoke: The Phantom in the Rain / 剧场版モノノ怪 唐伞 10-bit 1080p HEVC BDRip [MOVIE Fin][12.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f4044e1b5bfe1a5c88e8521e1f0321177d81e436</link>
+				<contentLength>13851269120</contentLength>
+				<pubDate>2025-03-18T18:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13851269120" url="https://mikanani.me/Download/20250318/f4044e1b5bfe1a5c88e8521e1f0321177d81e436.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 39 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/e386f76e0ecd8633fd46c164fd13d4c85107f52f</link>
 			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 39 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC PGS+SRT iCABLE YUE CHT)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-03-17T01:06:32.508</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="166786496" url="https://mikanani.me/Download/20250317/dd00ada8dfa780f439dfe9dcf5695848573b546c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [20][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/a9eed9640d3c727ea81ec75173cd96cb8f05a5e9</link>
-			<title>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [20][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [20][WebRip][HEVC_AAC][繁日内嵌][159.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a9eed9640d3c727ea81ec75173cd96cb8f05a5e9</link>
-				<contentLength>166880864</contentLength>
-				<pubDate>2025-03-17T01:06:25.514</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="166880864" url="https://mikanani.me/Download/20250317/a9eed9640d3c727ea81ec75173cd96cb8f05a5e9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
