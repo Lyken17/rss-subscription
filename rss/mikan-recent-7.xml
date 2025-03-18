@@ -6904,5 +6904,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="430859872" url="https://mikanani.me/Download/20250318/cbef4b48eca35b79ad14eb2d1640a6466278d68f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d898d5d74b96ae650ab1d4b511388fa6541e8310</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)[647.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d898d5d74b96ae650ab1d4b511388fa6541e8310</link>
+				<contentLength>678533504</contentLength>
+				<pubDate>2025-03-18T11:03:17.016801</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="678533504" url="https://mikanani.me/Download/20250318/d898d5d74b96ae650ab1d4b511388fa6541e8310.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
