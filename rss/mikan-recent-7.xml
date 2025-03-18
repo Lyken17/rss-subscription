@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AV1 10bit][简日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/fc794a6c7222c9508baa418f44e3114a2407f99b</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AV1 10bit][简日内封]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AV1 10bit][简日内封][530.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fc794a6c7222c9508baa418f44e3114a2407f99b</link>
-				<contentLength>556657536</contentLength>
-				<pubDate>2025-03-11T16:23:40.526</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="556657536" url="https://mikanani.me/Download/20250311/fc794a6c7222c9508baa418f44e3114a2407f99b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/bd03a3785aaeb2a23e69888f1ed1b1be4ed86cbd</link>
 			<title>[SweetSub][刹那之花][Momentary Lily][10][WebRip][1080P][AVC 8bit][简日内嵌]</title>
@@ -7347,6 +7335,30 @@
 				<pubDate>2025-03-18T23:19:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="400556032" url="https://mikanani.me/Download/20250318/137151ea2f6c68fb3e431eff07be44ae88e4c335.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 秋日天空 ～梦之中～ / Aki Sora Yume no Naka (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/495e133247117eb42b2a4aa30f09bf440cb91347</link>
+			<title>[H-Enc] 秋日天空 ～梦之中～ / Aki Sora Yume no Naka (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 秋日天空 ～梦之中～ / Aki Sora Yume no Naka (BDRip 1080p HEVC FLAC)[3.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/495e133247117eb42b2a4aa30f09bf440cb91347</link>
+				<contentLength>3328599552</contentLength>
+				<pubDate>2025-03-19T01:01:10.714323</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20250319/495e133247117eb42b2a4aa30f09bf440cb91347.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 420-72_s1_p100 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7e626b19761bf7fe090942a090aa08099d813cbd</link>
+			<title>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 420-72_s1_p100 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 420-72_s1_p100 (ABEMA 1920x1080 AVC AAC MP4)[692.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7e626b19761bf7fe090942a090aa08099d813cbd</link>
+				<contentLength>725824320</contentLength>
+				<pubDate>2025-03-19T01:00:48.228133</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725824320" url="https://mikanani.me/Download/20250319/7e626b19761bf7fe090942a090aa08099d813cbd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
