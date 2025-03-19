@@ -7300,5 +7300,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="373817344" url="https://mikanani.me/Download/20250320/a98c26d2fc147a41c9cf797410fcd67868c979e5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3f557f65a15b31be1128a7f84611eb17d5a715a4</link>
+			<title>[黒ネズミたち] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 11 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f557f65a15b31be1128a7f84611eb17d5a715a4</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-03-20T01:32:46.506955</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250320/3f557f65a15b31be1128a7f84611eb17d5a715a4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
