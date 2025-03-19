@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d898d5d74b96ae650ab1d4b511388fa6541e8310</link>
-			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 22 (B-Global Donghua 1920x1080 HEVC AAC MKV)[647.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d898d5d74b96ae650ab1d4b511388fa6541e8310</link>
-				<contentLength>678533504</contentLength>
-				<pubDate>2025-03-18T11:03:17.016801</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="678533504" url="https://mikanani.me/Download/20250318/d898d5d74b96ae650ab1d4b511388fa6541e8310.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【今晚月色真美】[剧场版 进击的巨人 完结篇 THE LAST ATTACK][片尾彩蛋][WEBrip][1080P][CHS&amp;JPN]</guid>
 			<link>https://mikanani.me/Home/Episode/864d058992e244db9c50c35f816d93ab78bfc49d</link>
 			<title>【今晚月色真美】[剧场版 进击的巨人 完结篇 THE LAST ATTACK][片尾彩蛋][WEBrip][1080P][CHS&amp;JPN]</title>
@@ -831,6 +819,18 @@
 				<pubDate>2025-03-19T16:08:46.021</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="222801424" url="https://mikanani.me/Download/20250319/5b1da5ccc27b7c73c387686dc10a2ac0b83b5dd9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ece4f006dcec029d117c0c833d67c35ca53593e4</link>
+			<title>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕]</title>
+			<description>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕][654.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ece4f006dcec029d117c0c833d67c35ca53593e4</link>
+				<contentLength>686366400</contentLength>
+				<pubDate>2025-03-19T19:11:44.267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="686366400" url="https://mikanani.me/Download/20250319/ece4f006dcec029d117c0c833d67c35ca53593e4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

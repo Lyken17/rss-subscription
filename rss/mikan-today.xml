@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ece4f006dcec029d117c0c833d67c35ca53593e4</link>
+			<title>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕]</title>
+			<description>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕][654.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ece4f006dcec029d117c0c833d67c35ca53593e4</link>
+				<contentLength>686366400</contentLength>
+				<pubDate>2025-03-19T19:11:44.267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="686366400" url="https://mikanani.me/Download/20250319/ece4f006dcec029d117c0c833d67c35ca53593e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][11][WebRip][1080P][AV1 10bit][简日内封][v2]</guid>
 			<link>https://mikanani.me/Home/Episode/700ec65139c77c6d6b5d11e6d7ad31b60addc2dc</link>
 			<title>[SweetSub][刹那之花][Momentary Lily][11][WebRip][1080P][AV1 10bit][简日内封][v2]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-17T22:25:48.603</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="402328128" url="https://mikanani.me/Download/20250317/e1394ad1590dc61fe6180b5cb7c19c23f557655f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [11][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/8e00285fa570f122b4344825533e6a0f47298e94</link>
-			<title>[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [11][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [11][1080p][简繁内封][217.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8e00285fa570f122b4344825533e6a0f47298e94</link>
-				<contentLength>228107216</contentLength>
-				<pubDate>2025-03-17T22:06:44.13</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="228107216" url="https://mikanani.me/Download/20250317/8e00285fa570f122b4344825533e6a0f47298e94.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

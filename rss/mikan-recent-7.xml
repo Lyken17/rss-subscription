@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
-			<title>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC]青春之箱[23][1080P][AVC AAC][CHT][MP4][712.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7441899f8018f28839140f177448b6bcc05ea8c4</link>
-				<contentLength>747110400</contentLength>
-				<pubDate>2025-03-12T11:01:13.778221</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250312/7441899f8018f28839140f177448b6bcc05ea8c4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 11 [1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/425320f4c6a564fe8019568743fa63fb65874821</link>
 			<title>[TOC] 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ 11 [1080P][AVC AAC][CHT][MP4]</title>
@@ -6903,6 +6891,18 @@
 				<pubDate>2025-03-19T16:08:46.021</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="222801424" url="https://mikanani.me/Download/20250319/5b1da5ccc27b7c73c387686dc10a2ac0b83b5dd9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ece4f006dcec029d117c0c833d67c35ca53593e4</link>
+			<title>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕]</title>
+			<description>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 04[简体中日字幕][654.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ece4f006dcec029d117c0c833d67c35ca53593e4</link>
+				<contentLength>686366400</contentLength>
+				<pubDate>2025-03-19T19:11:44.267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="686366400" url="https://mikanani.me/Download/20250319/ece4f006dcec029d117c0c833d67c35ca53593e4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
