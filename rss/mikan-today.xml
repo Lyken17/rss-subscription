@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 23 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/57ccd5a2006f4c725a28e7300a33760966fbf6a7</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 23 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 23 (B-Global Donghua 1920x1080 HEVC AAC MKV)[331.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/57ccd5a2006f4c725a28e7300a33760966fbf6a7</link>
+				<contentLength>347078656</contentLength>
+				<pubDate>2025-03-19T09:01:52.794042</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347078656" url="https://mikanani.me/Download/20250319/57ccd5a2006f4c725a28e7300a33760966fbf6a7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">作弊技能《果实大师》 - EP12 END [简／繁] (1080p CR H.264 AAC SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</guid>
 			<link>https://mikanani.me/Home/Episode/baa8312e163eefe758d9c41ccd26ca85948ed404</link>
 			<title>作弊技能《果实大师》 - EP12 END [简／繁] (1080p CR H.264 AAC SRTx2) {最弱技能《果实大师》 | 外れスキル《木の実マスター》}</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-03-17T21:30:41.620548</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371720192" url="https://mikanani.me/Download/20250317/7ecbe66fb8c657226ab77dd7f169be34a05288d0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 坂本日常 / SAKAMOTO DAYS [10][WebRip][HEVC_AAC][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/02f8cf20e389aaacff074165d611fbe2876eb119</link>
-			<title>[北宇治字幕组] 坂本日常 / SAKAMOTO DAYS [10][WebRip][HEVC_AAC][简日内嵌]</title>
-			<description>[北宇治字幕组] 坂本日常 / SAKAMOTO DAYS [10][WebRip][HEVC_AAC][简日内嵌][487.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/02f8cf20e389aaacff074165d611fbe2876eb119</link>
-				<contentLength>511579264</contentLength>
-				<pubDate>2025-03-17T20:59:54.661</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="511579264" url="https://mikanani.me/Download/20250317/02f8cf20e389aaacff074165d611fbe2876eb119.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
