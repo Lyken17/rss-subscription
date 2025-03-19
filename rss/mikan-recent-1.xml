@@ -832,5 +832,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="756274944" url="https://mikanani.me/Download/20250319/c586c3e9afe377c0602c009f01ad4483ee75d92c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/12f68a100be1023ae38137e090f07b268ac736ee</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4][218.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12f68a100be1023ae38137e090f07b268ac736ee</link>
+				<contentLength>228904144</contentLength>
+				<pubDate>2025-03-19T14:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="228904144" url="https://mikanani.me/Download/20250319/12f68a100be1023ae38137e090f07b268ac736ee.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/63ccbae0e03f861035f9921a5da65f76d7b48461</link>
-			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 1-10 [CR WebRip 暴力1080p HEVC-10bit AAC][官方简繁内封字幕][5.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/63ccbae0e03f861035f9921a5da65f76d7b48461</link>
-				<contentLength>5905580032</contentLength>
-				<pubDate>2025-03-12T07:01:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5905580032" url="https://mikanani.me/Download/20250312/63ccbae0e03f861035f9921a5da65f76d7b48461.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/19e048555e31202838724edbc613b6f02bc25c55</link>
 			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -6939,6 +6927,18 @@
 				<pubDate>2025-03-19T13:31:54.516</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="756274944" url="https://mikanani.me/Download/20250319/c586c3e9afe377c0602c009f01ad4483ee75d92c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/12f68a100be1023ae38137e090f07b268ac736ee</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4][218.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12f68a100be1023ae38137e090f07b268ac736ee</link>
+				<contentLength>228904144</contentLength>
+				<pubDate>2025-03-19T14:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="228904144" url="https://mikanani.me/Download/20250319/12f68a100be1023ae38137e090f07b268ac736ee.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

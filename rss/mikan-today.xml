@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/12f68a100be1023ae38137e090f07b268ac736ee</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1012 野菜采摘与四叶草（后篇）][HDTV][1080P][简体MP4][218.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12f68a100be1023ae38137e090f07b268ac736ee</link>
+				<contentLength>228904144</contentLength>
+				<pubDate>2025-03-19T14:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="228904144" url="https://mikanani.me/Download/20250319/12f68a100be1023ae38137e090f07b268ac736ee.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 11v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/97615251fe3a7a54f6901dd0794a4748b5e3f553</link>
 			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 11v2 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-17T22:01:11.435378</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="211812352" url="https://mikanani.me/Download/20250317/936fe827234ca8fb7d3aad2a10367e8d6a09f358.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] I Have a Crush at Work /  这公司有我喜欢的人 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/eaa87c191b19ca6e167a7b3539ce8ea7132ab635</link>
-			<title>[ANi] I Have a Crush at Work /  这公司有我喜欢的人 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] I Have a Crush at Work /  这公司有我喜欢的人 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][263.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eaa87c191b19ca6e167a7b3539ce8ea7132ab635</link>
-				<contentLength>276614336</contentLength>
-				<pubDate>2025-03-17T22:00:57.340792</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="276614336" url="https://mikanani.me/Download/20250317/eaa87c191b19ca6e167a7b3539ce8ea7132ab635.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
