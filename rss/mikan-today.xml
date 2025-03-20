@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Rev][DBD-Raws][龙珠Z/Dragon Ball Z][001-291TV全集][西版/SPA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ドラゴンボールZ)</guid>
+			<link>https://mikanani.me/Home/Episode/44b89f9ba3ea1909c4b893e809e00bb80de4c266</link>
+			<title>[Rev][DBD-Raws][龙珠Z/Dragon Ball Z][001-291TV全集][西版/SPA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ドラゴンボールZ)</title>
+			<description>[Rev][DBD-Raws][龙珠Z/Dragon Ball Z][001-291TV全集][西版/SPA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ドラゴンボールZ)[379.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44b89f9ba3ea1909c4b893e809e00bb80de4c266</link>
+				<contentLength>407592402944</contentLength>
+				<pubDate>2025-03-20T14:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="407592402944" url="https://mikanani.me/Download/20250320/44b89f9ba3ea1909c4b893e809e00bb80de4c266.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">​[整理搬运] 冰菓 (氷菓) (Hyouka)：TV动画+CD+小说+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2025.03.18)</guid>
 			<link>https://mikanani.me/Home/Episode/8fc108bb781ef1598ae0e5e8877a6b1350d2357d</link>
 			<title>​[整理搬运] 冰菓 (氷菓) (Hyouka)：TV动画+CD+小说+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2025.03.18)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-18T23:00:50.437115</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="326316864" url="https://mikanani.me/Download/20250318/ae5996530bb018b796d6aa82472f3cb75401dea5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 23 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/c1bcd7b4626ebef710f354cda68301ca872b06fb</link>
-			<title>[黒ネズミたち] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 23 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 23 (Baha 1920x1080 AVC AAC MP4)[310.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c1bcd7b4626ebef710f354cda68301ca872b06fb</link>
-				<contentLength>325897408</contentLength>
-				<pubDate>2025-03-18T23:00:46.046006</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="325897408" url="https://mikanani.me/Download/20250318/c1bcd7b4626ebef710f354cda68301ca872b06fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

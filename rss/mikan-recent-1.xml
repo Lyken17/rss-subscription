@@ -940,5 +940,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="215545280" url="https://mikanani.me/Download/20250320/1f2a318419e4f702a12155876d9b85d6eeacfea2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Rev][DBD-Raws][龙珠Z/Dragon Ball Z][001-291TV全集][西版/SPA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ドラゴンボールZ)</guid>
+			<link>https://mikanani.me/Home/Episode/44b89f9ba3ea1909c4b893e809e00bb80de4c266</link>
+			<title>[Rev][DBD-Raws][龙珠Z/Dragon Ball Z][001-291TV全集][西版/SPA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ドラゴンボールZ)</title>
+			<description>[Rev][DBD-Raws][龙珠Z/Dragon Ball Z][001-291TV全集][西版/SPA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ドラゴンボールZ)[379.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44b89f9ba3ea1909c4b893e809e00bb80de4c266</link>
+				<contentLength>407592402944</contentLength>
+				<pubDate>2025-03-20T14:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="407592402944" url="https://mikanani.me/Download/20250320/44b89f9ba3ea1909c4b893e809e00bb80de4c266.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
