@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/4f04112005b9a896b03055a7fa4fd8c32aae4297</link>
-			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][繁体内嵌][278.32 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f04112005b9a896b03055a7fa4fd8c32aae4297</link>
-				<contentLength>291839680</contentLength>
-				<pubDate>2025-03-13T09:38:05.733</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="291839680" url="https://mikanani.me/Download/20250313/4f04112005b9a896b03055a7fa4fd8c32aae4297.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0</link>
-			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [09][1080p][简体内嵌][278.22 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0</link>
-				<contentLength>291734816</contentLength>
-				<pubDate>2025-03-13T09:25:19.16</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="291734816" url="https://mikanani.me/Download/20250313/f1ad3d92d4cdc79aa2c265b1a90aaf9a0724ffc0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/6ceb68b908e634f3a7c9b470b547379e61cd2765</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 想要成为影之实力者！ / Kage no Jitsuryokusha ni Naritakute! / 阴の実力者になりたくて! 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</title>
@@ -6843,6 +6819,18 @@
 				<pubDate>2025-03-20T16:26:21.959</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4241280256" url="https://mikanani.me/Download/20250320/7da786ac79e267ee740230c6fd91c142cac7aa1e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/1d2444ee3182563ee24ed59846175e67e797ba92</link>
+			<title>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 迟早是最强的炼金术师？ / Izure Saikyou no Renkinjutsushi? - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][534.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1d2444ee3182563ee24ed59846175e67e797ba92</link>
+				<contentLength>560296128</contentLength>
+				<pubDate>2025-03-20T17:39:52.146</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="560296128" url="https://mikanani.me/Download/20250320/1d2444ee3182563ee24ed59846175e67e797ba92.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
