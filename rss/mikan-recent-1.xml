@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="9234180096" url="https://mikanani.me/Download/20250319/9b6a758e0f1728c409586cdd19043846f3a0db37.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</guid>
-			<link>https://mikanani.me/Home/Episode/c8d2bdad5b37e7ee5bea4435cce93ad8800e1800</link>
-			<title>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</title>
-			<description>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[105.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c8d2bdad5b37e7ee5bea4435cce93ad8800e1800</link>
-				<contentLength>113601888256</contentLength>
-				<pubDate>2025-03-19T19:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="113601888256" url="https://mikanani.me/Download/20250319/c8d2bdad5b37e7ee5bea4435cce93ad8800e1800.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/76b23670f3e6e15643cb7d21a294aa23e6c29a87</link>
 			<title>[LoliHouse] 魔法使的约定 / Mahoutsukai no Yakusoku - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1551,6 +1539,18 @@
 				<pubDate>2025-03-21T02:29:44.443</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="433061888" url="https://mikanani.me/Download/20250321/37a904e25069271bc77d1044c0bc3db07e7892c2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][25 END][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/8c733531ad110a5063623ebc41f0503ec112a87b</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][25 END][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][25 END][WEBrip][1080P][简日双语][432.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8c733531ad110a5063623ebc41f0503ec112a87b</link>
+				<contentLength>453613984</contentLength>
+				<pubDate>2025-03-21T04:17:46.988361</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="453613984" url="https://mikanani.me/Download/20250321/8c733531ad110a5063623ebc41f0503ec112a87b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

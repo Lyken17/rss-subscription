@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][25 END][WEBrip][1080P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/8c733531ad110a5063623ebc41f0503ec112a87b</link>
+			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][25 END][WEBrip][1080P][简日双语]</title>
+			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][25 END][WEBrip][1080P][简日双语][432.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8c733531ad110a5063623ebc41f0503ec112a87b</link>
+				<contentLength>453613984</contentLength>
+				<pubDate>2025-03-21T04:17:46.988361</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="453613984" url="https://mikanani.me/Download/20250321/8c733531ad110a5063623ebc41f0503ec112a87b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [11][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/1949f4e0fab452eb0f7d697fc0a49c1c1236cad3</link>
 			<title>[桜都字幕组] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [11][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-19T22:55:34.385</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="305555040" url="https://mikanani.me/Download/20250319/4003749bb7b4fa11b5fa908121ab5310f1b3927b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 [01-15 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/df477ac81ef5f3d2c4a457b2cb8d13a14e3b0e1b</link>
-			<title>[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 [01-15 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 在地下城寻求邂逅是否搞错了什么 第五季 / DanMachi S5 [01-15 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][5.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df477ac81ef5f3d2c4a457b2cb8d13a14e3b0e1b</link>
-				<contentLength>5798205952</contentLength>
-				<pubDate>2025-03-19T22:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5798205952" url="https://mikanani.me/Download/20250319/df477ac81ef5f3d2c4a457b2cb8d13a14e3b0e1b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
