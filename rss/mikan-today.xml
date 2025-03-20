@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][少女终末旅行/Shoujo Shuumatsu Ryokou][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](少女终末旅行)</guid>
+			<link>https://mikanani.me/Home/Episode/6fb179989920eaaf96af4ba0fa307f66473fe766</link>
+			<title>[DBD-Raws][少女终末旅行/Shoujo Shuumatsu Ryokou][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](少女终末旅行)</title>
+			<description>[DBD-Raws][少女终末旅行/Shoujo Shuumatsu Ryokou][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](少女终末旅行)[10.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6fb179989920eaaf96af4ba0fa307f66473fe766</link>
+				<contentLength>11381663744</contentLength>
+				<pubDate>2025-03-20T21:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250320/6fb179989920eaaf96af4ba0fa307f66473fe766.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/01a2f8f72d7e525e97386e46e6fe54bc898e2ec0</link>
 			<title>[黒ネズミたち] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-18T23:29:35.687</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309759840" url="https://mikanani.me/Download/20250318/f2ab07773315331b2e6189c008672894200c3fb9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][11][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/b2add3a108a9f2ebb634fba254747d02f9d9d782</link>
-			<title>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][11][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★01月新番★[我的幸福婚姻 2期 / Watashi no Shiawase na Kekkon S2][11][1080p][简日双语][765.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b2add3a108a9f2ebb634fba254747d02f9d9d782</link>
-				<contentLength>802999488</contentLength>
-				<pubDate>2025-03-18T23:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="802999488" url="https://mikanani.me/Download/20250318/b2add3a108a9f2ebb634fba254747d02f9d9d782.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
