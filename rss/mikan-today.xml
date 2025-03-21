@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一杆青空 / Sorairo Utility (TV) - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/54cb02ff3bfc971ba701aa50cf5ee7974bafc608</link>
+			<title>[黒ネズミたち] 一杆青空 / Sorairo Utility (TV) - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一杆青空 / Sorairo Utility (TV) - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54cb02ff3bfc971ba701aa50cf5ee7974bafc608</link>
+				<contentLength>746690944</contentLength>
+				<pubDate>2025-03-22T01:31:07.330891</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20250322/54cb02ff3bfc971ba701aa50cf5ee7974bafc608.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Sorairo Utility /  一杆青空 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/0b87140637e6b6bc87336538da8eb0f2b3fddba0</link>
 			<title>[ANi] Sorairo Utility /  一杆青空 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-21T00:01:08.928908</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="328518848" url="https://mikanani.me/Download/20250321/935e272d23c935d356bf5026a347a96dcbe1f07f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  中年大叔转生反派千金 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/80bdc700f99269a1746b3b425197008d23e9b6ea</link>
-			<title>[ANi]  中年大叔转生反派千金 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  中年大叔转生反派千金 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][406.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/80bdc700f99269a1746b3b425197008d23e9b6ea</link>
-				<contentLength>426560704</contentLength>
-				<pubDate>2025-03-21T00:00:50.812799</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="426560704" url="https://mikanani.me/Download/20250321/80bdc700f99269a1746b3b425197008d23e9b6ea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

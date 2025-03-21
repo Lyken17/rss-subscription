@@ -7144,5 +7144,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="461478304" url="https://mikanani.me/Download/20250322/472f63b6f2fe2e70846b15efa24ab7dc5c58840a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一杆青空 / Sorairo Utility (TV) - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/54cb02ff3bfc971ba701aa50cf5ee7974bafc608</link>
+			<title>[黒ネズミたち] 一杆青空 / Sorairo Utility (TV) - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一杆青空 / Sorairo Utility (TV) - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54cb02ff3bfc971ba701aa50cf5ee7974bafc608</link>
+				<contentLength>746690944</contentLength>
+				<pubDate>2025-03-22T01:31:07.330891</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20250322/54cb02ff3bfc971ba701aa50cf5ee7974bafc608.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
