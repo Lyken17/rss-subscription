@@ -1156,5 +1156,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1385126912" url="https://mikanani.me/Download/20250321/af37117d7bd9cb8869ef9d8f8c074a30de70f226.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][11][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/4972fe8350175ea692280301611cadc27cf73436</link>
+			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][11][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][11][1080p][简日双语][招募翻译][281.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4972fe8350175ea692280301611cadc27cf73436</link>
+				<contentLength>295111232</contentLength>
+				<pubDate>2025-03-21T12:29:50.864</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="295111232" url="https://mikanani.me/Download/20250321/4972fe8350175ea692280301611cadc27cf73436.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 测不准的阿波连同学 / Aharen-san wa Hakarenai / 阿波连さんははかれない 10-bit 1080p HEVC BDRip [S1 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/6469c33f62f996a23041e66c8aa3be4d4d7965ed</link>
+			<title>[千夏字幕组&amp;VCB-Studio] 测不准的阿波连同学 / Aharen-san wa Hakarenai / 阿波连さんははかれない 10-bit 1080p HEVC BDRip [S1 Fin]</title>
+			<description>[千夏字幕组&amp;VCB-Studio] 测不准的阿波连同学 / Aharen-san wa Hakarenai / 阿波连さんははかれない 10-bit 1080p HEVC BDRip [S1 Fin][10.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6469c33f62f996a23041e66c8aa3be4d4d7965ed</link>
+				<contentLength>11166914560</contentLength>
+				<pubDate>2025-03-21T12:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20250321/6469c33f62f996a23041e66c8aa3be4d4d7965ed.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
