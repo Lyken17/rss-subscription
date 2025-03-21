@@ -6712,5 +6712,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20250321/3a480c87cc2a6985aff52da055898015814ad5d3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/54deea95b30c7f2a190755a770b261b349d20d36</link>
+			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)[486.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54deea95b30c7f2a190755a770b261b349d20d36</link>
+				<contentLength>509922496</contentLength>
+				<pubDate>2025-03-21T11:02:33.177685</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="509922496" url="https://mikanani.me/Download/20250321/54deea95b30c7f2a190755a770b261b349d20d36.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

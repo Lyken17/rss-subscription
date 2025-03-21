@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/54deea95b30c7f2a190755a770b261b349d20d36</link>
+			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)[486.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54deea95b30c7f2a190755a770b261b349d20d36</link>
+				<contentLength>509922496</contentLength>
+				<pubDate>2025-03-21T11:02:33.177685</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="509922496" url="https://mikanani.me/Download/20250321/54deea95b30c7f2a190755a770b261b349d20d36.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/3d9db9ff81c8e11f9fe2bc9dcc4b64accc2773bf</link>
 			<title>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-20T00:55:56.139975</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="373397920" url="https://mikanani.me/Download/20250320/254909d3a6669bcd6a0a033945a58a3b49be405a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/a98c26d2fc147a41c9cf797410fcd67868c979e5</link>
-			<title>[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Honey Lemon Soda /  青春特调蜂蜜柠檬苏打 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][356.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a98c26d2fc147a41c9cf797410fcd67868c979e5</link>
-				<contentLength>373817344</contentLength>
-				<pubDate>2025-03-20T00:55:49.65514</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="373817344" url="https://mikanani.me/Download/20250320/a98c26d2fc147a41c9cf797410fcd67868c979e5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

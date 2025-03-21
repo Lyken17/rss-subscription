@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 145 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/8f3faaf73ee12ceb54247f1a1173b1b85a818d9c</link>
-			<title>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 145 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[Up to 21°C] 游戏王 Go Rush！！ / Yu☆Gi☆Oh! Go Rush!! - 145 (ABEMA 1920x1080 AVC AAC MP4)[721.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f3faaf73ee12ceb54247f1a1173b1b85a818d9c</link>
-				<contentLength>756704896</contentLength>
-				<pubDate>2025-02-19T03:00:49.607</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="756704896" url="https://mikanani.me/Download/20250219/8f3faaf73ee12ceb54247f1a1173b1b85a818d9c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">不幸职业【鉴定士】实则最强 - EP06 [简／繁] (1080p MUSE H.264 AAC SRTx2) {不幸职业【鉴定士】其实是最强的 | 不遇职【鉴定士】が実は最强だった}</guid>
 			<link>https://mikanani.me/Home/Episode/43903682f049ebab4971594779caa492cc169df6</link>
 			<title>不幸职业【鉴定士】实则最强 - EP06 [简／繁] (1080p MUSE H.264 AAC SRTx2) {不幸职业【鉴定士】其实是最强的 | 不遇职【鉴定士】が実は最强だった}</title>
@@ -29067,6 +29055,18 @@
 				<pubDate>2025-03-21T09:26:35.454</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20250321/3a480c87cc2a6985aff52da055898015814ad5d3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/54deea95b30c7f2a190755a770b261b349d20d36</link>
+			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)[486.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54deea95b30c7f2a190755a770b261b349d20d36</link>
+				<contentLength>509922496</contentLength>
+				<pubDate>2025-03-21T11:02:33.177685</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="509922496" url="https://mikanani.me/Download/20250321/54deea95b30c7f2a190755a770b261b349d20d36.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
