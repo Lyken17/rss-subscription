@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[1080P][MKV][繁体外挂]</guid>
+			<link>https://mikanani.me/Home/Episode/81e83380f8a998dfcd3c1e0f864b230aeebd77cc</link>
+			<title>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[1080P][MKV][繁体外挂]</title>
+			<description>【铃风字幕组】【在地下城寻求邂逅是否搞错了什么 V/DanMachi V】[1080P][MKV][繁体外挂][7.23 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/81e83380f8a998dfcd3c1e0f864b230aeebd77cc</link>
+				<contentLength>7763153408</contentLength>
+				<pubDate>2025-03-22T18:19:27.904</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7763153408" url="https://mikanani.me/Download/20250322/81e83380f8a998dfcd3c1e0f864b230aeebd77cc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 23 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/44aa45000bedb47e16ed0e519eee21f860cc93c8</link>
 			<title>[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 23 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-21T02:37:12.552</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="432988480" url="https://mikanani.me/Download/20250321/1949f4e0fab452eb0f7d697fc0a49c1c1236cad3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 喜欢的冲绳妹说方言 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [11][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/37a904e25069271bc77d1044c0bc3db07e7892c2</link>
-			<title>[桜都字幕组] 喜欢的冲绳妹说方言 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [11][1080p][简日内嵌]</title>
-			<description>[桜都字幕组] 喜欢的冲绳妹说方言 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [11][1080p][简日内嵌][413 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/37a904e25069271bc77d1044c0bc3db07e7892c2</link>
-				<contentLength>433061888</contentLength>
-				<pubDate>2025-03-21T02:29:44.443</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="433061888" url="https://mikanani.me/Download/20250321/37a904e25069271bc77d1044c0bc3db07e7892c2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
