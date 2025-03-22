@@ -1024,5 +1024,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="431310752" url="https://mikanani.me/Download/20250322/03913df7eb78b6fe8a3a1f616eb12aec6dffc273.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/8bae78000e0fb211bd308ec63876f606d4d84c3b</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[718.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8bae78000e0fb211bd308ec63876f606d4d84c3b</link>
+				<contentLength>753705920</contentLength>
+				<pubDate>2025-03-22T20:35:01.441</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753705920" url="https://mikanani.me/Download/20250322/8bae78000e0fb211bd308ec63876f606d4d84c3b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

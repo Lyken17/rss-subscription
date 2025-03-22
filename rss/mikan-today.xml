@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/8bae78000e0fb211bd308ec63876f606d4d84c3b</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[718.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8bae78000e0fb211bd308ec63876f606d4d84c3b</link>
+				<contentLength>753705920</contentLength>
+				<pubDate>2025-03-22T20:35:01.441</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753705920" url="https://mikanani.me/Download/20250322/8bae78000e0fb211bd308ec63876f606d4d84c3b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/667b2e542d173533a4481bf2dc5caeb6b23025f6</link>
 			<title>[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-21T08:50:58.615</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="318190400" url="https://mikanani.me/Download/20250321/f1ebcf572b6e978cd39941a3f50f75b8f10dc553.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] BanG Dream! Ave Mujica / 颂乐人偶 [08][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/65e106867f6f54b3fdd862decb483dfaa7c11172</link>
-			<title>[北宇治字幕组] BanG Dream! Ave Mujica / 颂乐人偶 [08][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] BanG Dream! Ave Mujica / 颂乐人偶 [08][WebRip][HEVC_AAC][繁日内嵌][306.03 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/65e106867f6f54b3fdd862decb483dfaa7c11172</link>
-				<contentLength>320895712</contentLength>
-				<pubDate>2025-03-21T08:50:43.947</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="320895712" url="https://mikanani.me/Download/20250321/65e106867f6f54b3fdd862decb483dfaa7c11172.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
