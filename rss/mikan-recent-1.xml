@@ -1036,5 +1036,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="753705920" url="https://mikanani.me/Download/20250322/8bae78000e0fb211bd308ec63876f606d4d84c3b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][HEVC][GB][4K]</guid>
+			<link>https://mikanani.me/Home/Episode/25863841bc6d0df76ffd389e859a2a85a68188c4</link>
+			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][HEVC][GB][4K]</title>
+			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][HEVC][GB][4K][936.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25863841bc6d0df76ffd389e859a2a85a68188c4</link>
+				<contentLength>981655872</contentLength>
+				<pubDate>2025-03-22T21:55:42</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="981655872" url="https://mikanani.me/Download/20250322/25863841bc6d0df76ffd389e859a2a85a68188c4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/2da43d480ea91daf9ac940eb3de1d9f13e877104</link>
+			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][AVC][GB][1080P][490.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2da43d480ea91daf9ac940eb3de1d9f13e877104</link>
+				<contentLength>514693536</contentLength>
+				<pubDate>2025-03-22T21:55:37.144</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="514693536" url="https://mikanani.me/Download/20250322/2da43d480ea91daf9ac940eb3de1d9f13e877104.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
