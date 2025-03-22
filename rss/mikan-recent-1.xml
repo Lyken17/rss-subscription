@@ -952,5 +952,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="168684416" url="https://mikanani.me/Download/20250322/017d014ce4b92d659275bcab4f370c0aff4ff16a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2</link>
+			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1,008.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2</link>
+				<contentLength>1057803456</contentLength>
+				<pubDate>2025-03-22T11:03:18.3487</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1057803456" url="https://mikanani.me/Download/20250322/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

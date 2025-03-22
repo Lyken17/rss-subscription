@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][34][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/33c44ff41ce86c3e59e823bfe7bae96845a87fe4</link>
-			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][34][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][34][简体][1080P][MP4][300.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/33c44ff41ce86c3e59e823bfe7bae96845a87fe4</link>
-				<contentLength>315495552</contentLength>
-				<pubDate>2025-03-15T03:25:10.931</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="315495552" url="https://mikanani.me/Download/20250315/33c44ff41ce86c3e59e823bfe7bae96845a87fe4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][34][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/07236016ee25183fbcef306845bc66cf934f1685</link>
-			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][34][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][34][繁体][1080P][MP4][300.94 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07236016ee25183fbcef306845bc66cf934f1685</link>
-				<contentLength>315558464</contentLength>
-				<pubDate>2025-03-15T03:24:59.888</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="315558464" url="https://mikanani.me/Download/20250315/07236016ee25183fbcef306845bc66cf934f1685.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[H-Enc] Show Time！唱歌的大姐姐也想做 / Showtime! Uta no Onee-san Datte Shitai (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/af5a7252c56c9c6b6109805f8821eac324b70e54</link>
 			<title>[H-Enc] Show Time！唱歌的大姐姐也想做 / Showtime! Uta no Onee-san Datte Shitai (BDRip 1080p HEVC FLAC)</title>
@@ -6699,6 +6675,18 @@
 				<pubDate>2025-03-22T08:10:39.949</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="168684416" url="https://mikanani.me/Download/20250322/017d014ce4b92d659275bcab4f370c0aff4ff16a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2</link>
+			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1,008.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2</link>
+				<contentLength>1057803456</contentLength>
+				<pubDate>2025-03-22T11:03:18.3487</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1057803456" url="https://mikanani.me/Download/20250322/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
