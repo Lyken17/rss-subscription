@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][关于我转生变成史莱姆这档事 柯里乌斯之梦/Tensei Shitara Slime Datta Ken Coleus no Yume][01-03全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転生したらスライムだった件 コリウスの梦)</guid>
+			<link>https://mikanani.me/Home/Episode/8e872a5fe500e17e74a9092b2650b357dada780a</link>
+			<title>[DBD-Raws][关于我转生变成史莱姆这档事 柯里乌斯之梦/Tensei Shitara Slime Datta Ken Coleus no Yume][01-03全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転生したらスライムだった件 コリウスの梦)</title>
+			<description>[DBD-Raws][关于我转生变成史莱姆这档事 柯里乌斯之梦/Tensei Shitara Slime Datta Ken Coleus no Yume][01-03全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転生したらスライムだった件 コリウスの梦)[2.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e872a5fe500e17e74a9092b2650b357dada780a</link>
+				<contentLength>3006477056</contentLength>
+				<pubDate>2025-03-22T14:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20250322/8e872a5fe500e17e74a9092b2650b357dada780a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][剧场版 关于我转生变成史莱姆这档事 红莲之绊篇/Gekijouban Tensei Shitara Slime Datta Ken Guren no Kizuna Hen][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+AC3][MKV](剧场版 転生したらスライムだった件 红莲の绊编)</guid>
 			<link>https://mikanani.me/Home/Episode/88a5da43eee9ad54edb224a4bb596219d2fe743d</link>
 			<title>[DBD-Raws][剧场版 关于我转生变成史莱姆这档事 红莲之绊篇/Gekijouban Tensei Shitara Slime Datta Ken Guren no Kizuna Hen][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+AC3][MKV](剧场版 転生したらスライムだった件 红莲の绊编)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-21T01:17:37.430856</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250321/274b6a5ae35d3bafca215d7f68c5458f2b45ecd5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】[物语系列 / Monogatari Series: Off &amp; Monster Season][07][业物语][BDRip][1080p][简繁日双语][含副音轨]</guid>
-			<link>https://mikanani.me/Home/Episode/e0a3ef191849c1734c0a04070316f0d295cc712a</link>
-			<title>【喵萌奶茶屋】[物语系列 / Monogatari Series: Off &amp; Monster Season][07][业物语][BDRip][1080p][简繁日双语][含副音轨]</title>
-			<description>【喵萌奶茶屋】[物语系列 / Monogatari Series: Off &amp; Monster Season][07][业物语][BDRip][1080p][简繁日双语][含副音轨][593.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e0a3ef191849c1734c0a04070316f0d295cc712a</link>
-				<contentLength>622225024</contentLength>
-				<pubDate>2025-03-21T01:14:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="622225024" url="https://mikanani.me/Download/20250321/e0a3ef191849c1734c0a04070316f0d295cc712a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
