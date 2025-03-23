@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★天穗之咲稻姬 Tensui no Sakunahime★01~13(完)★1920x1080★BDRIP AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)</guid>
+			<link>https://mikanani.me/Home/Episode/9897ca8283a6e195191e0a26d64d1aa08ff05787</link>
+			<title>六四位元字幕组★天穗之咲稻姬 Tensui no Sakunahime★01~13(完)★1920x1080★BDRIP AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)</title>
+			<description>六四位元字幕组★天穗之咲稻姬 Tensui no Sakunahime★01~13(完)★1920x1080★BDRIP AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)[11.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9897ca8283a6e195191e0a26d64d1aa08ff05787</link>
+				<contentLength>12025908224</contentLength>
+				<pubDate>2025-03-23T14:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20250323/9897ca8283a6e195191e0a26d64d1aa08ff05787.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/eaf2a72875607d75e818ce8fd39cb61b6d4385da</link>
 			<title>[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-22T01:00:45.495768</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="308491072" url="https://mikanani.me/Download/20250322/3dd189af76e202719630cb348b857c00ecf72fa3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [11][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/1930ae49e7e8885addbcd75cdba3ce43351506e1</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [11][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [11][1080p][简繁内封][700.51 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1930ae49e7e8885addbcd75cdba3ce43351506e1</link>
-				<contentLength>734537984</contentLength>
-				<pubDate>2025-03-22T00:54:04.777</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="734537984" url="https://mikanani.me/Download/20250322/1930ae49e7e8885addbcd75cdba3ce43351506e1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

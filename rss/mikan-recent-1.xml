@@ -1108,5 +1108,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1024794304" url="https://mikanani.me/Download/20250323/12d0e649d7923c628ded63dfc91d66083036a5fc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">六四位元字幕组★天穗之咲稻姬 Tensui no Sakunahime★01~13(完)★1920x1080★BDRIP AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)</guid>
+			<link>https://mikanani.me/Home/Episode/9897ca8283a6e195191e0a26d64d1aa08ff05787</link>
+			<title>六四位元字幕组★天穗之咲稻姬 Tensui no Sakunahime★01~13(完)★1920x1080★BDRIP AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)</title>
+			<description>六四位元字幕组★天穗之咲稻姬 Tensui no Sakunahime★01~13(完)★1920x1080★BDRIP AVC FLAC MKV★外挂繁体中文(采用千夏+樱都+自制字幕)[11.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9897ca8283a6e195191e0a26d64d1aa08ff05787</link>
+				<contentLength>12025908224</contentLength>
+				<pubDate>2025-03-23T14:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20250323/9897ca8283a6e195191e0a26d64d1aa08ff05787.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
