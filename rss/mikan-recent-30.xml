@@ -29128,5 +29128,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="304821056" url="https://mikanani.me/Download/20250323/0ccbf4f9e8cfc69df0033b21276a375c38b144ce.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/eaf2a72875607d75e818ce8fd39cb61b6d4385da</link>
+			<title>[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)[368.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eaf2a72875607d75e818ce8fd39cb61b6d4385da</link>
+				<contentLength>386400256</contentLength>
+				<pubDate>2025-03-23T14:01:07.861118</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386400256" url="https://mikanani.me/Download/20250323/eaf2a72875607d75e818ce8fd39cb61b6d4385da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][23][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/12d0e649d7923c628ded63dfc91d66083036a5fc</link>
+			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][23][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][23][AVC][GB][1080P][977.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12d0e649d7923c628ded63dfc91d66083036a5fc</link>
+				<contentLength>1024794304</contentLength>
+				<pubDate>2025-03-23T13:38:12.716</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1024794304" url="https://mikanani.me/Download/20250323/12d0e649d7923c628ded63dfc91d66083036a5fc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

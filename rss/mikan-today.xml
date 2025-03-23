@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/eaf2a72875607d75e818ce8fd39cb61b6d4385da</link>
+			<title>[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 噗尼轮轮 噗尼2 / Punirunes 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)[368.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eaf2a72875607d75e818ce8fd39cb61b6d4385da</link>
+				<contentLength>386400256</contentLength>
+				<pubDate>2025-03-23T14:01:07.861118</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386400256" url="https://mikanani.me/Download/20250323/eaf2a72875607d75e818ce8fd39cb61b6d4385da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][23][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/12d0e649d7923c628ded63dfc91d66083036a5fc</link>
+			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][23][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][23][AVC][GB][1080P][977.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12d0e649d7923c628ded63dfc91d66083036a5fc</link>
+				<contentLength>1024794304</contentLength>
+				<pubDate>2025-03-23T13:38:12.716</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1024794304" url="https://mikanani.me/Download/20250323/12d0e649d7923c628ded63dfc91d66083036a5fc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 536(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/287f35ce2ac09e8f8fcfe37c10b8995c93a9d3ea</link>
 			<title>[黒ネズミたち] 海贼王 / One Piece - 536(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-03-22T00:54:04.777</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="734537984" url="https://mikanani.me/Download/20250322/1930ae49e7e8885addbcd75cdba3ce43351506e1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [11][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/e7adbed014d914bf813adcc6f224c5b14b899b31</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [11][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [11][1080p][繁体内嵌][910.48 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e7adbed014d914bf813adcc6f224c5b14b899b31</link>
-				<contentLength>954707456</contentLength>
-				<pubDate>2025-03-22T00:44:55.486</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="954707456" url="https://mikanani.me/Download/20250322/e7adbed014d914bf813adcc6f224c5b14b899b31.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 全修。 / Zenshuu. [11][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/13315fa51a862a576c32b46669ec81c1fba18fa4</link>
-			<title>[桜都字幕组] 全修。 / Zenshuu. [11][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 全修。 / Zenshuu. [11][1080p][简体内嵌][910.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/13315fa51a862a576c32b46669ec81c1fba18fa4</link>
-				<contentLength>954655040</contentLength>
-				<pubDate>2025-03-22T00:36:46.345</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="954655040" url="https://mikanani.me/Download/20250322/13315fa51a862a576c32b46669ec81c1fba18fa4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
