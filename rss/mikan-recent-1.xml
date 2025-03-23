@@ -1672,5 +1672,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250324/51075053cac8eebb97084ebe693c1b9db84895b0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一兆＄游戏 / Trillion Game - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e6c10a4ee778a80c229b79e9556d12da5bcd0c95</link>
+			<title>[黒ネズミたち] 一兆＄游戏 / Trillion Game - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一兆＄游戏 / Trillion Game - 24 (ABEMA 1920x1080 AVC AAC MP4)[727.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e6c10a4ee778a80c229b79e9556d12da5bcd0c95</link>
+				<contentLength>762524480</contentLength>
+				<pubDate>2025-03-24T03:01:06.521263</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="762524480" url="https://mikanani.me/Download/20250324/e6c10a4ee778a80c229b79e9556d12da5bcd0c95.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6317d446da3e90c67d3ab879bdac420c03ab59b0</link>
+			<title>[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6317d446da3e90c67d3ab879bdac420c03ab59b0</link>
+				<contentLength>746795840</contentLength>
+				<pubDate>2025-03-24T02:31:04.683527</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20250324/6317d446da3e90c67d3ab879bdac420c03ab59b0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
