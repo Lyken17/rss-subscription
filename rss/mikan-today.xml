@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a053431e73de1081790bc12c4446cef7a5f37a7e</link>
+			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][674.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a053431e73de1081790bc12c4446cef7a5f37a7e</link>
+				<contentLength>706750720</contentLength>
+				<pubDate>2025-03-23T08:20:24.577</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="706750720" url="https://mikanani.me/Download/20250323/a053431e73de1081790bc12c4446cef7a5f37a7e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][1080p][11][简繁外挂](检索:Q娃)</guid>
 			<link>https://mikanani.me/Home/Episode/e2ebc96b718a03c5e47e91c8e37e404326001d08</link>
 			<title>[雪飘工作室][魔法つかいプリキュア!!~MIRAI DAYS~/Maho_Girls_Precure!!/魔法少女 光之美少女!!~未来的日子~][1080p][11][简繁外挂](检索:Q娃)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-22T00:01:35.842923</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="756757312" url="https://mikanani.me/Download/20250322/954b5d2b914f7aea37f534426e0c6107a684f9d2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我和班上最讨厌的女生结婚了 / Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - 12 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/72f7c1246d289ff4dd40de5922ae3b6fa2e0cd0a</link>
-			<title>[黒ネズミたち] 我和班上最讨厌的女生结婚了 / Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - 12 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我和班上最讨厌的女生结婚了 / Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. - 12 (B-Global 1920x1080 HEVC AAC MKV)[227.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/72f7c1246d289ff4dd40de5922ae3b6fa2e0cd0a</link>
-				<contentLength>238131616</contentLength>
-				<pubDate>2025-03-22T00:01:13.544324</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="238131616" url="https://mikanani.me/Download/20250322/72f7c1246d289ff4dd40de5922ae3b6fa2e0cd0a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
