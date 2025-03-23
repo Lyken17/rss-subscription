@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="523197472" url="https://mikanani.me/Download/20250323/75c1a1ad856f6d9ceb1060466d4c20bab12451dd.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 我和班上最讨厌的女生结婚了。 / クラスの大嫌いな女子と结婚することになった。 / Kurakon [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/9d9dd214542c6b7e219873b7f0ae066f4aacedae</link>
+			<title>[LoliHouse] 我和班上最讨厌的女生结婚了。 / クラスの大嫌いな女子と结婚することになった。 / Kurakon [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 我和班上最讨厌的女生结婚了。 / クラスの大嫌いな女子と结婚することになった。 / Kurakon [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][4.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9d9dd214542c6b7e219873b7f0ae066f4aacedae</link>
+				<contentLength>4831838208</contentLength>
+				<pubDate>2025-03-23T18:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20250323/9d9dd214542c6b7e219873b7f0ae066f4aacedae.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
