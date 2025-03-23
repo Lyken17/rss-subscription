@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20250323/9d9dd214542c6b7e219873b7f0ae066f4aacedae.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 12 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/87e15d1de690d7f2c8a83fc2b2b6be3711f36adf</link>
+			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 12 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 12 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][330.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/87e15d1de690d7f2c8a83fc2b2b6be3711f36adf</link>
+				<contentLength>346764096</contentLength>
+				<pubDate>2025-03-23T19:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346764096" url="https://mikanani.me/Download/20250323/87e15d1de690d7f2c8a83fc2b2b6be3711f36adf.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
