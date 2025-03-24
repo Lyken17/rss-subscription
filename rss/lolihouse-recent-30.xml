@@ -2260,5 +2260,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="667292800" url="https://mikanani.me/Download/20250324/c9b69f4ee40a0dc20210e089affa9d3281ab9936.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 青箱 / Ao no Hako / Blue Box - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/025819fbe74926491408c52101f684d0024ef25b</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 青箱 / Ao no Hako / Blue Box - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 青箱 / Ao no Hako / Blue Box - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][437.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/025819fbe74926491408c52101f684d0024ef25b</link>
+				<contentLength>459066560</contentLength>
+				<pubDate>2025-03-24T19:11:23.808</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="459066560" url="https://mikanani.me/Download/20250324/025819fbe74926491408c52101f684d0024ef25b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
