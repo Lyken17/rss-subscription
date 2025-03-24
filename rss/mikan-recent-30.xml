@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a305ae55d4c7f53190dcae0e0502d69307e092f0</link>
-			<title>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 宗门里除了我都是卧底 / Spy x Sect - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)[329.83 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a305ae55d4c7f53190dcae0e0502d69307e092f0</link>
-				<contentLength>345851808</contentLength>
-				<pubDate>2025-02-22T09:01:45.719</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="345851808" url="https://mikanani.me/Download/20250222/a305ae55d4c7f53190dcae0e0502d69307e092f0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【极影字幕·毁片党】 这家公司里有我喜欢的人 第07集 GB_CN HEVC_opus 1080p</guid>
 			<link>https://mikanani.me/Home/Episode/d89e94951f024d90820b03f169903b36c77104a2</link>
 			<title>【极影字幕·毁片党】 这家公司里有我喜欢的人 第07集 GB_CN HEVC_opus 1080p</title>
@@ -29331,6 +29319,18 @@
 				<pubDate>2025-03-24T15:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="557947264" url="https://mikanani.me/Download/20250324/0d413b40fd42d7141e505652184447a860882485.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 噗妮露是可爱史莱姆/ぷにるはかわいいスライム/Puniru wa Kawaii Slime S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/539c65e5a94bef73ef0f404930be00c4ecb02da5</link>
+			<title>[7³ACG] 噗妮露是可爱史莱姆/ぷにるはかわいいスライム/Puniru wa Kawaii Slime S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 噗妮露是可爱史莱姆/ぷにるはかわいいスライム/Puniru wa Kawaii Slime S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/539c65e5a94bef73ef0f404930be00c4ecb02da5</link>
+				<contentLength>4939212288</contentLength>
+				<pubDate>2025-03-24T16:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4939212288" url="https://mikanani.me/Download/20250324/539c65e5a94bef73ef0f404930be00c4ecb02da5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
