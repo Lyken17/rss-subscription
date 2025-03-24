@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
+			<link>https://mikanani.me/Home/Episode/1a5b5d227d4133bc749c9bb2a63ddafde9d67ddb</link>
+			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
+			<description>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)[537.62 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1a5b5d227d4133bc749c9bb2a63ddafde9d67ddb</link>
+				<contentLength>563735424</contentLength>
+				<pubDate>2025-03-25T05:21:35.39</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="563735424" url="https://mikanani.me/Download/20250325/1a5b5d227d4133bc749c9bb2a63ddafde9d67ddb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/ed6de5cabca5fb22c3f47519c53ce737237bc281</link>
 			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-23T23:03:38.712674</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="410202944" url="https://mikanani.me/Download/20250323/db4d403fa3fbd0bbd1e0c82938658db556f398b2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 战队红战士在异世界当冒险者 / Sentai Red Isekai de Boukensha ni Naru - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/06d77e145da7454f55ba507564f6e944f03ac5aa</link>
-			<title>[黒ネズミたち] 战队红战士在异世界当冒险者 / Sentai Red Isekai de Boukensha ni Naru - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 战队红战士在异世界当冒险者 / Sentai Red Isekai de Boukensha ni Naru - 11 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06d77e145da7454f55ba507564f6e944f03ac5aa</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-03-23T23:02:50.131916</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250323/06d77e145da7454f55ba507564f6e944f03ac5aa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
