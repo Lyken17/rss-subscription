@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/851c58ae80cfeaee21ed64cdcaf12ab377a8dac4</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][546.51 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/851c58ae80cfeaee21ed64cdcaf12ab377a8dac4</link>
+				<contentLength>573057280</contentLength>
+				<pubDate>2025-03-24T07:22:42.267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="573057280" url="https://mikanani.me/Download/20250324/851c58ae80cfeaee21ed64cdcaf12ab377a8dac4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E12 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</guid>
 			<link>https://mikanani.me/Home/Episode/11ae3be3ba333a98835b36699a9dfbe5b0d26073</link>
 			<title>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E12 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-23T03:02:30.506164</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250323/f6e1cd20ee9a94b33be8534948b1c11d5af7c6ce.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][12][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/9d2f87bcb8aec80fb01b4b33426e1f5f8b25e372</link>
-			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][12][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][12][简体][1080P][MP4][314.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9d2f87bcb8aec80fb01b4b33426e1f5f8b25e372</link>
-				<contentLength>329315776</contentLength>
-				<pubDate>2025-03-23T02:51:40.029</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="329315776" url="https://mikanani.me/Download/20250323/9d2f87bcb8aec80fb01b4b33426e1f5f8b25e372.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
