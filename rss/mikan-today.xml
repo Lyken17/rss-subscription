@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/ed6de5cabca5fb22c3f47519c53ce737237bc281</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 23 (ABEMA 1920x1080 AVC AAC MP4)[45.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed6de5cabca5fb22c3f47519c53ce737237bc281</link>
+				<contentLength>47710208</contentLength>
+				<pubDate>2025-03-25T02:35:42.748354</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47710208" url="https://mikanani.me/Download/20250325/ed6de5cabca5fb22c3f47519c53ce737237bc281.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] Zenshu 全修。 [1-12][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/73284766e1378814be2e146736b3aa73db564b5d</link>
 			<title>[TOC] Zenshu 全修。 [1-12][1080P][AVC AAC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-23T23:02:50.131916</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250323/06d77e145da7454f55ba507564f6e944f03ac5aa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [09] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cc87dad686f4ab69db9cca6322fda9ab0dd2c14a</link>
-			<title>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [09] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</title>
-			<description>[Strange-Raw] 战队红战士在异世界当冒险者 第一季 / Sentai Red Isekai de Boukensha ni Naru S01 [09] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕][441MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cc87dad686f4ab69db9cca6322fda9ab0dd2c14a</link>
-				<contentLength>462422016</contentLength>
-				<pubDate>2025-03-23T22:48:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="462422016" url="https://mikanani.me/Download/20250323/cc87dad686f4ab69db9cca6322fda9ab0dd2c14a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
