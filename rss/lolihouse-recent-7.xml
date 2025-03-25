@@ -580,5 +580,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="323391328" url="https://mikanani.me/Download/20250325/303337dee279f5f1b32709e79fcbc5293f649da6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 这公司有我喜欢的人 / この会社に好きな人がいます / Kono Kaisha ni Suki na Hito ga Imasu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/13f6645231df3345de0982b9a60183af2c25f118</link>
+			<title>[LoliHouse] 这公司有我喜欢的人 / この会社に好きな人がいます / Kono Kaisha ni Suki na Hito ga Imasu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 这公司有我喜欢的人 / この会社に好きな人がいます / Kono Kaisha ni Suki na Hito ga Imasu - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][332.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/13f6645231df3345de0982b9a60183af2c25f118</link>
+				<contentLength>348494240</contentLength>
+				<pubDate>2025-03-25T19:31:17.254</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="348494240" url="https://mikanani.me/Download/20250325/13f6645231df3345de0982b9a60183af2c25f118.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
