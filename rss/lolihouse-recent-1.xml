@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/851c58ae80cfeaee21ed64cdcaf12ab377a8dac4</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 金牌得主 / Medalist - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][546.51 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/851c58ae80cfeaee21ed64cdcaf12ab377a8dac4</link>
-				<contentLength>573057280</contentLength>
-				<pubDate>2025-03-24T07:22:42.267</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="573057280" url="https://mikanani.me/Download/20250324/851c58ae80cfeaee21ed64cdcaf12ab377a8dac4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 24 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）</guid>
 			<link>https://mikanani.me/Home/Episode/2782e383932ec556ed2a0d978095487b5d136610</link>
 			<title>[SweetSub&amp;LoliHouse] 时间巡警阿凡 / TP BON - 24 [WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕](检索用：时光巡逻队）</title>
@@ -63,6 +51,18 @@
 				<pubDate>2025-03-24T19:11:23.808</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459066560" url="https://mikanani.me/Download/20250324/025819fbe74926491408c52101f684d0024ef25b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/9998c4c6f42eac288f74e339217470797b8fb5ab</link>
+			<title>[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
+			<description>[LoliHouse] 黑岩目高不把我的可爱放在眼里 / Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END][264.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9998c4c6f42eac288f74e339217470797b8fb5ab</link>
+				<contentLength>276886976</contentLength>
+				<pubDate>2025-03-25T15:45:00.095</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="276886976" url="https://mikanani.me/Download/20250325/9998c4c6f42eac288f74e339217470797b8fb5ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
