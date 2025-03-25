@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 06 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0034cea61898d4be2dfc9d6fe89c853ee4ed3780</link>
+			<title>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 06 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 06 (B-Global Donghua 2048x870 HEVC AAC MKV)[484.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0034cea61898d4be2dfc9d6fe89c853ee4ed3780</link>
+				<contentLength>507615648</contentLength>
+				<pubDate>2025-03-25T10:02:46.804661</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="507615648" url="https://mikanani.me/Download/20250325/0034cea61898d4be2dfc9d6fe89c853ee4ed3780.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</guid>
 			<link>https://mikanani.me/Home/Episode/1a5b5d227d4133bc749c9bb2a63ddafde9d67ddb</link>
 			<title>我的可爱对黑岩目高不管用 / 黑岩目高不把我的可爱放在眼里 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-23T23:04:02.499201</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="410622368" url="https://mikanani.me/Download/20250323/4b03cc88ff32a8a50c1067bff730b14c2fdd60e5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 浪客剑心 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran [47] [1080p] [简日内嵌] [2024年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/db4d403fa3fbd0bbd1e0c82938658db556f398b2</link>
-			<title>[猎户手抄部] 浪客剑心 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran [47] [1080p] [简日内嵌] [2024年10月番]</title>
-			<description>[猎户手抄部] 浪客剑心 -明治剑客浪漫谭- 京都动乱 / Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran [47] [1080p] [简日内嵌] [2024年10月番][391.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/db4d403fa3fbd0bbd1e0c82938658db556f398b2</link>
-				<contentLength>410202944</contentLength>
-				<pubDate>2025-03-23T23:03:38.712674</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="410202944" url="https://mikanani.me/Download/20250323/db4d403fa3fbd0bbd1e0c82938658db556f398b2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="762524480" url="https://mikanani.me/Download/20250324/e6c10a4ee778a80c229b79e9556d12da5bcd0c95.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/6317d446da3e90c67d3ab879bdac420c03ab59b0</link>
-			<title>[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] MOMENTARY LILY 刹那之花 / Momentary Lily - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6317d446da3e90c67d3ab879bdac420c03ab59b0</link>
-				<contentLength>746795840</contentLength>
-				<pubDate>2025-03-24T02:31:04.683527</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20250324/6317d446da3e90c67d3ab879bdac420c03ab59b0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E12 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</guid>
 			<link>https://mikanani.me/Home/Episode/11ae3be3ba333a98835b36699a9dfbe5b0d26073</link>
 			<title>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E12 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</title>
@@ -855,6 +843,18 @@
 				<pubDate>2025-03-25T05:21:35.39</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="563735424" url="https://mikanani.me/Download/20250325/1a5b5d227d4133bc749c9bb2a63ddafde9d67ddb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 06 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0034cea61898d4be2dfc9d6fe89c853ee4ed3780</link>
+			<title>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 06 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 06 (B-Global Donghua 2048x870 HEVC AAC MKV)[484.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0034cea61898d4be2dfc9d6fe89c853ee4ed3780</link>
+				<contentLength>507615648</contentLength>
+				<pubDate>2025-03-25T10:02:46.804661</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="507615648" url="https://mikanani.me/Download/20250325/0034cea61898d4be2dfc9d6fe89c853ee4ed3780.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
