@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/8a65d5b287d1695c2b21c6582bcfd35d70372d29</link>
+			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][299.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a65d5b287d1695c2b21c6582bcfd35d70372d29</link>
+				<contentLength>313712960</contentLength>
+				<pubDate>2025-03-26T11:08:30.018</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="313712960" url="https://mikanani.me/Download/20250326/8a65d5b287d1695c2b21c6582bcfd35d70372d29.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 25 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/6730bb52547e0ebc02832861c1d68fb9f35b1d4c</link>
 			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 25 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-24T20:06:15.829</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250324/c211543fa90547c0be05761427e196ad66459687.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][堀与宫村 -piece-][Horimiya -piece-][01-13 精校合集][BDRip][1080P][AVC 8bit][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/c7ad7f5c0d117c259cf3fbb268f7885fb9b33eae</link>
-			<title>[SweetSub][堀与宫村 -piece-][Horimiya -piece-][01-13 精校合集][BDRip][1080P][AVC 8bit][繁日双语]</title>
-			<description>[SweetSub][堀与宫村 -piece-][Horimiya -piece-][01-13 精校合集][BDRip][1080P][AVC 8bit][繁日双语][8.58 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c7ad7f5c0d117c259cf3fbb268f7885fb9b33eae</link>
-				<contentLength>9212704768</contentLength>
-				<pubDate>2025-03-24T20:03:34.55</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9212704768" url="https://mikanani.me/Download/20250324/c7ad7f5c0d117c259cf3fbb268f7885fb9b33eae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
