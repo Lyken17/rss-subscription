@@ -844,5 +844,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="313712960" url="https://mikanani.me/Download/20250326/8a65d5b287d1695c2b21c6582bcfd35d70372d29.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/a9d3e428f31e6478f03629e5c56c0bdfd9460647</link>
+			<title>[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin]</title>
+			<description>[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin][31.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a9d3e428f31e6478f03629e5c56c0bdfd9460647</link>
+				<contentLength>33500745728</contentLength>
+				<pubDate>2025-03-26T12:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33500745728" url="https://mikanani.me/Download/20250326/a9d3e428f31e6478f03629e5c56c0bdfd9460647.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

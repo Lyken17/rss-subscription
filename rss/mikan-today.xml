@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/a9d3e428f31e6478f03629e5c56c0bdfd9460647</link>
+			<title>[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin]</title>
+			<description>[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin][31.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a9d3e428f31e6478f03629e5c56c0bdfd9460647</link>
+				<contentLength>33500745728</contentLength>
+				<pubDate>2025-03-26T12:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33500745728" url="https://mikanani.me/Download/20250326/a9d3e428f31e6478f03629e5c56c0bdfd9460647.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/8a65d5b287d1695c2b21c6582bcfd35d70372d29</link>
 			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-24T20:13:57.003</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="579998848" url="https://mikanani.me/Download/20250324/909dc43e2a7cb80fc9f9bd09c06f913ca1b75cea.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][ViuTV粤语]国王战队帝王者 / 虫王战队超王者 / King-Ohger - 43 [粤语+无对白字幕](BD 1920x1080 x264 AAC PGS+SRT VIUTV YUE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/c211543fa90547c0be05761427e196ad66459687</link>
-			<title>[jibaketa合成&amp;二次压制][ViuTV粤语]国王战队帝王者 / 虫王战队超王者 / King-Ohger - 43 [粤语+无对白字幕](BD 1920x1080 x264 AAC PGS+SRT VIUTV YUE CHT)</title>
-			<description>[jibaketa合成&amp;二次压制][ViuTV粤语]国王战队帝王者 / 虫王战队超王者 / King-Ohger - 43 [粤语+无对白字幕](BD 1920x1080 x264 AAC PGS+SRT VIUTV YUE CHT)[1.06 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c211543fa90547c0be05761427e196ad66459687</link>
-				<contentLength>1138166272</contentLength>
-				<pubDate>2025-03-24T20:06:15.829</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250324/c211543fa90547c0be05761427e196ad66459687.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
