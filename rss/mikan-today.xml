@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [13] [WEBRip 2160p HEVC-10bit AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/ab5a3d3815c00a6754230ca46f0a8b4eda70c670</link>
+			<title>[TensoRaws] BanG Dream! Ave Mujica [13] [WEBRip 2160p HEVC-10bit AAC]</title>
+			<description>[TensoRaws] BanG Dream! Ave Mujica [13] [WEBRip 2160p HEVC-10bit AAC][2.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab5a3d3815c00a6754230ca46f0a8b4eda70c670</link>
+				<contentLength>2147483648</contentLength>
+				<pubDate>2025-03-28T04:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250328/ab5a3d3815c00a6754230ca46f0a8b4eda70c670.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TensoRaws] BanG Dream! Ave Mujica [12] [WEBRip 2160p HEVC-10bit AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/3aaa12adb0e8e434ca28fd8d4c08c8d0fb11078b</link>
 			<title>[TensoRaws] BanG Dream! Ave Mujica [12] [WEBRip 2160p HEVC-10bit AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-26T23:01:17.296047</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20250326/12eefa868d4d9b4b6fee01902cc00dd7b7554d32.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [24] [1080p] [繁日内嵌] [JaVer] [2025年1月番]</guid>
-			<link>https://mikanani.me/Home/Episode/f77297d89fbfa6c5f12653fb40b1f4754abfcbb5</link>
-			<title>[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [24] [1080p] [繁日内嵌] [JaVer] [2025年1月番]</title>
-			<description>[猎户压制部] 我独自升级 第二季 -起于暗影- / Ore dake Level Up na Ken S2 [24] [1080p] [繁日内嵌] [JaVer] [2025年1月番][653.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f77297d89fbfa6c5f12653fb40b1f4754abfcbb5</link>
-				<contentLength>685034688</contentLength>
-				<pubDate>2025-03-26T22:48:18.058503</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="685034688" url="https://mikanani.me/Download/20250326/f77297d89fbfa6c5f12653fb40b1f4754abfcbb5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
