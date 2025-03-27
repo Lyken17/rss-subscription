@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/8a65d5b287d1695c2b21c6582bcfd35d70372d29</link>
-			<title>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 结缘甘神神社 / Amagami-san Chi no Enmusubi - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][299.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8a65d5b287d1695c2b21c6582bcfd35d70372d29</link>
-				<contentLength>313712960</contentLength>
-				<pubDate>2025-03-26T11:08:30.018</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="313712960" url="https://mikanani.me/Download/20250326/8a65d5b287d1695c2b21c6582bcfd35d70372d29.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/a9d3e428f31e6478f03629e5c56c0bdfd9460647</link>
 			<title>[VCB-Studio] 元气少女缘结神 / Kamisama Hajimemashita / 神様はじめました 10-bit 1080p/720p HEVC BDRip/DVDRip [S1-S2 + OAD Fin]</title>
@@ -759,6 +747,18 @@
 				<pubDate>2025-03-27T13:46:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/f8cb5fb771bd3f248ca0a74f591b892de544c87a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC] OVERLORD 不死者之王 剧场版「オーバーロード」圣王国编 [BD][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/b964313f0e1aaacffccb64cac6764c76382ca7b7</link>
+			<title>[TOC] OVERLORD 不死者之王 剧场版「オーバーロード」圣王国编 [BD][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] OVERLORD 不死者之王 剧场版「オーバーロード」圣王国编 [BD][1080P][AVC AAC][CHT][MP4][3.8 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b964313f0e1aaacffccb64cac6764c76382ca7b7</link>
+				<contentLength>4080218880</contentLength>
+				<pubDate>2025-03-27T18:35:09.593165</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20250327/b964313f0e1aaacffccb64cac6764c76382ca7b7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
