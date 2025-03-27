@@ -772,5 +772,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/5bb346db7af7740035a9a8ebf720a6f8f6ee631d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</guid>
+			<link>https://mikanani.me/Home/Episode/f8cb5fb771bd3f248ca0a74f591b892de544c87a</link>
+			<title>[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</title>
+			<description>[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)[9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8cb5fb771bd3f248ca0a74f591b892de544c87a</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2025-03-27T13:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/f8cb5fb771bd3f248ca0a74f591b892de544c87a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

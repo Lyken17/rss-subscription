@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</guid>
+			<link>https://mikanani.me/Home/Episode/f8cb5fb771bd3f248ca0a74f591b892de544c87a</link>
+			<title>[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</title>
+			<description>[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)[9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8cb5fb771bd3f248ca0a74f591b892de544c87a</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2025-03-27T13:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/f8cb5fb771bd3f248ca0a74f591b892de544c87a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-25T20:15:30.474</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="257026944" url="https://mikanani.me/Download/20250325/fd9be46b52a41efb0d54ae6681a66c35ea320231.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][102][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/8040b8c62b565df01ca13e11dbf4e9ad44c761e2</link>
-			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][102][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][102][AVC][GB][1080P][496.66 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8040b8c62b565df01ca13e11dbf4e9ad44c761e2</link>
-				<contentLength>520785760</contentLength>
-				<pubDate>2025-03-25T20:15:19.466</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="520785760" url="https://mikanani.me/Download/20250325/8040b8c62b565df01ca13e11dbf4e9ad44c761e2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
