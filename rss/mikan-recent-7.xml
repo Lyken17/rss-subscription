@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3f557f65a15b31be1128a7f84611eb17d5a715a4</link>
-			<title>[黒ネズミたち] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 青春特调蜂蜜柠檬苏打 / Honey Lemon Soda - 11 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3f557f65a15b31be1128a7f84611eb17d5a715a4</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-03-20T01:32:46.506955</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250320/3f557f65a15b31be1128a7f84611eb17d5a715a4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">魔法制造者～异世界魔法的制作方法～ / 魔法制造者～异世界魔法的制作方法～ - EP11 [简 / 繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {マジック・メイカー ～异世界魔法の作り方～}</guid>
 			<link>https://mikanani.me/Home/Episode/def521dda36142da5ced31839638dbb89509795c</link>
 			<title>魔法制造者～异世界魔法的制作方法～ / 魔法制造者～异世界魔法的制作方法～ - EP11 [简 / 繁] (1080p CR H.264 AAC2.0+DDP2.0 SRTx2) {マジック・メイカー ～异世界魔法の作り方～}</title>
@@ -6219,6 +6207,30 @@
 				<pubDate>2025-03-27T06:49:34.128</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250327/dcbc31ad531aced0f4cf1627d8b6653042874fcb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2022年4月番]</guid>
+			<link>https://mikanani.me/Home/Episode/e7a7ca232c8183bd35340ffaf82202495cf4f069</link>
+			<title>[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2022年4月番]</title>
+			<description>[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2022年4月番][9.8 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e7a7ca232c8183bd35340ffaf82202495cf4f069</link>
+				<contentLength>10522670080</contentLength>
+				<pubDate>2025-03-27T10:43:06.148368</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10522670080" url="https://mikanani.me/Download/20250327/e7a7ca232c8183bd35340ffaf82202495cf4f069.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [简日内嵌] [2022年4月番]</guid>
+			<link>https://mikanani.me/Home/Episode/1aa09f671fe3585bb1df390a7fd7904e5a3946ce</link>
+			<title>[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [简日内嵌] [2022年4月番]</title>
+			<description>[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [简日内嵌] [2022年4月番][9.8 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1aa09f671fe3585bb1df390a7fd7904e5a3946ce</link>
+				<contentLength>10522670080</contentLength>
+				<pubDate>2025-03-27T10:42:23.624394</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10522670080" url="https://mikanani.me/Download/20250327/1aa09f671fe3585bb1df390a7fd7904e5a3946ce.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
