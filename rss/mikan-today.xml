@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin][9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2025-03-27T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/5bb346db7af7740035a9a8ebf720a6f8f6ee631d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2022年4月番]</guid>
 			<link>https://mikanani.me/Home/Episode/e7a7ca232c8183bd35340ffaf82202495cf4f069</link>
 			<title>[猎户压制部] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2022年4月番]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-25T20:15:19.466</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="520785760" url="https://mikanani.me/Download/20250325/8040b8c62b565df01ca13e11dbf4e9ad44c761e2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 1P (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/bd8a9809c27fde03622b6158bdc3399f410d11e6</link>
-			<title>[黒ネズミたち] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 1P (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 1P (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bd8a9809c27fde03622b6158bdc3399f410d11e6</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-03-25T20:04:25.88077</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250325/bd8a9809c27fde03622b6158bdc3399f410d11e6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

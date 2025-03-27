@@ -6232,5 +6232,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="10522670080" url="https://mikanani.me/Download/20250327/1aa09f671fe3585bb1df390a7fd7904e5a3946ce.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin][9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2025-03-27T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/5bb346db7af7740035a9a8ebf720a6f8f6ee631d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
