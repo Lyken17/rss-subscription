@@ -472,5 +472,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20250328/2bdce97866eeb69bfafb077ee0e734a3b49e3f75.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/45da6dce5564bae6d6d2ff1f885ffc3e159a1e2e</link>
+			<title>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
+			<description>[LoliHouse] 想星的大天使 Myth of Emotions / Sousei no Aquarion: Myth of Emotions - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END][924.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/45da6dce5564bae6d6d2ff1f885ffc3e159a1e2e</link>
+				<contentLength>969555328</contentLength>
+				<pubDate>2025-03-28T17:08:49.048</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="969555328" url="https://mikanani.me/Download/20250328/45da6dce5564bae6d6d2ff1f885ffc3e159a1e2e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
