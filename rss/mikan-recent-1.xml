@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
-			<title>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin][9.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
-				<contentLength>10093172736</contentLength>
-				<pubDate>2025-03-27T12:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/5bb346db7af7740035a9a8ebf720a6f8f6ee631d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</guid>
 			<link>https://mikanani.me/Home/Episode/f8cb5fb771bd3f248ca0a74f591b892de544c87a</link>
 			<title>[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</title>
@@ -1035,6 +1023,18 @@
 				<pubDate>2025-03-28T17:08:49.048</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="969555328" url="https://mikanani.me/Download/20250328/45da6dce5564bae6d6d2ff1f885ffc3e159a1e2e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 18 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/807ba6a3223ab0b2d77a9bd4752a0955c55838f8</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 18 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 18 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][617.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/807ba6a3223ab0b2d77a9bd4752a0955c55838f8</link>
+				<contentLength>647390848</contentLength>
+				<pubDate>2025-03-28T19:43:40.737</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="647390848" url="https://mikanani.me/Download/20250328/807ba6a3223ab0b2d77a9bd4752a0955c55838f8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
