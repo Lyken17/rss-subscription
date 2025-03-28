@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 简中)</guid>
+			<link>https://mikanani.me/Home/Episode/28425e25a3a82c3f06f03667160bb296eadbed8a</link>
+			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 简中)</title>
+			<description>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 简中)[131.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/28425e25a3a82c3f06f03667160bb296eadbed8a</link>
+				<contentLength>137573168</contentLength>
+				<pubDate>2025-03-29T07:06:14.889</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="137573168" url="https://mikanani.me/Download/20250329/28425e25a3a82c3f06f03667160bb296eadbed8a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 繁中)</guid>
+			<link>https://mikanani.me/Home/Episode/d077ef978e5c7021a20f957f6e529631356dc7d7</link>
+			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 繁中)</title>
+			<description>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 繁中)[131.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d077ef978e5c7021a20f957f6e529631356dc7d7</link>
+				<contentLength>137709488</contentLength>
+				<pubDate>2025-03-29T07:06:05.669</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="137709488" url="https://mikanani.me/Download/20250329/d077ef978e5c7021a20f957f6e529631356dc7d7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][36][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/e8d8105355b1349d2fe7ea330f09b2a43cdd00df</link>
 			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][36][简体][1080P][MP4]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-03-28T01:01:34.546867</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="337641472" url="https://mikanani.me/Download/20250328/3b95caed6d9aee62889916ba39fcdcce9228dea9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 12 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f4ed87fd63b3f19ce956a5d7187bb3a202b36e63</link>
-			<title>[黒ネズミたち] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 12 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 终究，与你相恋。 / Douse, Koishite Shimaunda. - 12 (Baha 1920x1080 AVC AAC MP4)[322.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f4ed87fd63b3f19ce956a5d7187bb3a202b36e63</link>
-				<contentLength>338375488</contentLength>
-				<pubDate>2025-03-28T01:01:33.638151</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="338375488" url="https://mikanani.me/Download/20250328/f4ed87fd63b3f19ce956a5d7187bb3a202b36e63.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青春之箱 / Ao no Hako - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9cc84ccd2695b970d302b4bef17ef05ec7d578c5</link>
-			<title>[黒ネズミたち] 青春之箱 / Ao no Hako - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 青春之箱 / Ao no Hako - 25 (ABEMA 1920x1080 AVC AAC MP4)[703.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9cc84ccd2695b970d302b4bef17ef05ec7d578c5</link>
-				<contentLength>737463488</contentLength>
-				<pubDate>2025-03-28T01:01:21.233948</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="737463488" url="https://mikanani.me/Download/20250328/9cc84ccd2695b970d302b4bef17ef05ec7d578c5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
