@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/fed3ce73c3a1d4dd70d90d98b9d6ac15aac9628b</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)[318.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fed3ce73c3a1d4dd70d90d98b9d6ac15aac9628b</link>
+				<contentLength>334286016</contentLength>
+				<pubDate>2025-03-28T09:01:51.567574</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="334286016" url="https://mikanani.me/Download/20250328/fed3ce73c3a1d4dd70d90d98b9d6ac15aac9628b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[芝士动物朋友] 中年上班族转生恶役 / Akuyaku Reijou Tensei Ojisan / 悪役令嬢転生おじさん [03][CR-WebRip][1080p][HEVC+AAC][简繁日内封]（大叔 大小姐 反派千金）</guid>
 			<link>https://mikanani.me/Home/Episode/3eff40d9fee783f8a1f58d11c77a359983f914b4</link>
 			<title>[芝士动物朋友] 中年上班族转生恶役 / Akuyaku Reijou Tensei Ojisan / 悪役令嬢転生おじさん [03][CR-WebRip][1080p][HEVC+AAC][简繁日内封]（大叔 大小姐 反派千金）</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-26T23:31:18.039335</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751933824" url="https://mikanani.me/Download/20250326/80220ac32c48d24ebf82821f964542feacadfa18.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 16 [ViuTV][WEB-DL][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/39f6b0cd9a001c38de080b04df5e1a35a05854ce</link>
-			<title>[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 16 [ViuTV][WEB-DL][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Re：从零开始的异世界生活 第三季 / Re：Zero kara Hajimeru Isekai Seikatsu 3rd Season - 16 [ViuTV][WEB-DL][1080p][AVC AAC][307.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/39f6b0cd9a001c38de080b04df5e1a35a05854ce</link>
-				<contentLength>322646848</contentLength>
-				<pubDate>2025-03-26T23:26:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="322646848" url="https://mikanani.me/Download/20250326/39f6b0cd9a001c38de080b04df5e1a35a05854ce.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
