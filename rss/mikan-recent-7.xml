@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[云歌字幕组][1月新番][欢迎来到日本，精灵小姐][10][HEVC][x265 10bit][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/8e27a39084af356364700d52ce05dc11e5ae41ec</link>
-			<title>[云歌字幕组][1月新番][欢迎来到日本，精灵小姐][10][HEVC][x265 10bit][1080p][简日双语]</title>
-			<description>[云歌字幕组][1月新番][欢迎来到日本，精灵小姐][10][HEVC][x265 10bit][1080p][简日双语][323.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8e27a39084af356364700d52ce05dc11e5ae41ec</link>
-				<contentLength>339528896</contentLength>
-				<pubDate>2025-03-21T19:34:07.143</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="339528896" url="https://mikanani.me/Download/20250321/8e27a39084af356364700d52ce05dc11e5ae41ec.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a5a643dd253a9bfa68895516e50782e2b46c6e81</link>
 			<title>[黒ネズミたち] 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -6723,6 +6711,18 @@
 				<pubDate>2025-03-29T02:25:46.656335</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="342150336" url="https://mikanani.me/Download/20250329/1b6bb731ccbd30c166551aec165a15ddc35807e9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][12][WebRip][1080P][AV1 10bit][简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/c43cfdc5d698ff720d556f85e6d0b8cb87e58822</link>
+			<title>[SweetSub][刹那之花][Momentary Lily][12][WebRip][1080P][AV1 10bit][简日内封]</title>
+			<description>[SweetSub][刹那之花][Momentary Lily][12][WebRip][1080P][AV1 10bit][简日内封][661.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c43cfdc5d698ff720d556f85e6d0b8cb87e58822</link>
+				<contentLength>693328960</contentLength>
+				<pubDate>2025-03-29T03:38:16.167</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="693328960" url="https://mikanani.me/Download/20250329/c43cfdc5d698ff720d556f85e6d0b8cb87e58822.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
