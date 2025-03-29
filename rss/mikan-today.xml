@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/453b5156bce09376fff61d4f8c96c14d4cdb7bc8</link>
+			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/453b5156bce09376fff61d4f8c96c14d4cdb7bc8</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2025-03-29T11:02:09.747146</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250329/453b5156bce09376fff61d4f8c96c14d4cdb7bc8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【极影字幕·毁片党】 这家公司里有我喜欢的人 全12集 GB_CN HEVC_opus 1080p</guid>
 			<link>https://mikanani.me/Home/Episode/9f14014504960e2733c26c1611b3e0bca2994adf</link>
 			<title>【极影字幕·毁片党】 这家公司里有我喜欢的人 全12集 GB_CN HEVC_opus 1080p</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-28T01:30:50.385378</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435263904" url="https://mikanani.me/Download/20250328/ac74e2f0d9e1d8a98fd665933856cea6fd763096.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 一兆＄游戏 / Trillion Game - 26 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/fc073c3214803885ca2e9dffc4f63bb15c8877ca</link>
-			<title>[黒ネズミたち] 一兆＄游戏 / Trillion Game - 26 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 一兆＄游戏 / Trillion Game - 26 (Baha 1920x1080 AVC AAC MP4)[414.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fc073c3214803885ca2e9dffc4f63bb15c8877ca</link>
-				<contentLength>435054176</contentLength>
-				<pubDate>2025-03-28T01:29:36.495737</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="435054176" url="https://mikanani.me/Download/20250328/fc073c3214803885ca2e9dffc4f63bb15c8877ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
