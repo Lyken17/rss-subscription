@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 12 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/efd1ca0132db13cb88c9350a72f6b435e3953b4d</link>
+			<title>[黒ネズミたち] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 12 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 魔法使光之美少女！！～MIRAI DAYS～ / Mahoutsukai Precure!! Mirai Days - 12 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/efd1ca0132db13cb88c9350a72f6b435e3953b4d</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-03-30T03:02:39.192646</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250330/efd1ca0132db13cb88c9350a72f6b435e3953b4d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][数码重映第516-2集 风林火山 迷宫的铠甲武士 贰][TVRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/fcdb282802799d19a14a86cc34c0b0ae4da40780</link>
 			<title>[银色子弹字幕组][名侦探柯南][数码重映第516-2集 风林火山 迷宫的铠甲武士 贰][TVRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-28T23:46:11.195</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="707872704" url="https://mikanani.me/Download/20250328/6ce6d92e30da455050ea4d5820e7186e76f27cad.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 12[简体中日字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4e3608348166ab2190683ed8f141a339078c2225</link>
-			<title>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 12[简体中日字幕]</title>
-			<description>[猫通信个人翻译] 想星的大天使 感情的神话/Sousei no Aquarion - Myth of Emotions - 12[简体中日字幕][770.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4e3608348166ab2190683ed8f141a339078c2225</link>
-				<contentLength>807822976</contentLength>
-				<pubDate>2025-03-28T23:45:17.686</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="807822976" url="https://mikanani.me/Download/20250328/4e3608348166ab2190683ed8f141a339078c2225.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
