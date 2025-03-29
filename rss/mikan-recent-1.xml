@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20250328/2bdce97866eeb69bfafb077ee0e734a3b49e3f75.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e6ac7dec0a814607e4f9645c04b283081f7cc4a0</link>
-			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[481.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e6ac7dec0a814607e4f9645c04b283081f7cc4a0</link>
-				<contentLength>504365056</contentLength>
-				<pubDate>2025-03-28T11:02:29.711073</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504365056" url="https://mikanani.me/Download/20250328/e6ac7dec0a814607e4f9645c04b283081f7cc4a0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[S1百综字幕组]BanG Dream! Ave Mujica [13][2160p][Bilibili][Web-DL][HDR][HEVC_AAC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/a9d47ee2534b624c3e3629ac989409d838f7548e</link>
 			<title>[S1百综字幕组]BanG Dream! Ave Mujica [13][2160p][Bilibili][Web-DL][HDR][HEVC_AAC][简日双语]</title>
@@ -1179,6 +1167,30 @@
 				<pubDate>2025-03-29T17:14:08.006</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1084479232" url="https://mikanani.me/Download/20250329/84e064742ffe9f5eb4a739766a33d8631746310c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/56928b225f2be3da668863c23099aa74dec35668</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHT][245.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56928b225f2be3da668863c23099aa74dec35668</link>
+				<contentLength>257771440</contentLength>
+				<pubDate>2025-03-29T18:38:23.468</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257771440" url="https://mikanani.me/Download/20250329/56928b225f2be3da668863c23099aa74dec35668.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/92e29ed310f7294917daa8d6a9101143ed9580cb</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHS][245.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92e29ed310f7294917daa8d6a9101143ed9580cb</link>
+				<contentLength>257792416</contentLength>
+				<pubDate>2025-03-29T18:37:27.271</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257792416" url="https://mikanani.me/Download/20250329/92e29ed310f7294917daa8d6a9101143ed9580cb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

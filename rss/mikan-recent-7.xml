@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2</link>
-			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1,008.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2</link>
-				<contentLength>1057803456</contentLength>
-				<pubDate>2025-03-22T11:03:18.3487</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1057803456" url="https://mikanani.me/Download/20250322/b1d02221b7578f73c7bc6d743cbbe5af17c05ba2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][93][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/8fda58248a8a6f16dfa3b66cb47ff35d0789eeb5</link>
 			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][93][AVC][GB][1080P]</title>
@@ -6315,6 +6303,30 @@
 				<pubDate>2025-03-29T17:14:08.006</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1084479232" url="https://mikanani.me/Download/20250329/84e064742ffe9f5eb4a739766a33d8631746310c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/56928b225f2be3da668863c23099aa74dec35668</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHT][245.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56928b225f2be3da668863c23099aa74dec35668</link>
+				<contentLength>257771440</contentLength>
+				<pubDate>2025-03-29T18:38:23.468</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257771440" url="https://mikanani.me/Download/20250329/56928b225f2be3da668863c23099aa74dec35668.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/92e29ed310f7294917daa8d6a9101143ed9580cb</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][08][1080p][CHS][245.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92e29ed310f7294917daa8d6a9101143ed9580cb</link>
+				<contentLength>257792416</contentLength>
+				<pubDate>2025-03-29T18:37:27.271</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257792416" url="https://mikanani.me/Download/20250329/92e29ed310f7294917daa8d6a9101143ed9580cb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
