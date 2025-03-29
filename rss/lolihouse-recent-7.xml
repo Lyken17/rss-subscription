@@ -592,5 +592,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="315422144" url="https://mikanani.me/Download/20250329/a0378951c5e4e7d5325ad18582d8a1cc00ddd802.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel [01-12 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/1e78d14e1d85e00ba2605fb080696651c47adee2</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel [01-12 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 黄昏旅店 / Tasokare Hotel [01-12 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][8.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1e78d14e1d85e00ba2605fb080696651c47adee2</link>
+				<contentLength>8589934592</contentLength>
+				<pubDate>2025-03-29T20:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8589934592" url="https://mikanani.me/Download/20250329/1e78d14e1d85e00ba2605fb080696651c47adee2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
