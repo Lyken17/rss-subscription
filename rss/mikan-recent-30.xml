@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][20][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/358c772d460b080df8aaa23eaf9d5816694674cb</link>
-			<title>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][20][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★10月新番★[Chi。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite][20][1080p][简日双语][招募翻译][187.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/358c772d460b080df8aaa23eaf9d5816694674cb</link>
-				<contentLength>196681408</contentLength>
-				<pubDate>2025-02-27T04:20:39.108</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="196681408" url="https://mikanani.me/Download/20250227/358c772d460b080df8aaa23eaf9d5816694674cb.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [07][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/9f44836daf93a87116c57cbf3c15268522b939f7</link>
 			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [07][1080p][繁体内嵌]</title>
@@ -28551,6 +28539,18 @@
 				<pubDate>2025-03-29T11:02:09.747146</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250329/453b5156bce09376fff61d4f8c96c14d4cdb7bc8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/75097bdd57327cc721f35ecc643cd96edec6c2d6</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin][17.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/75097bdd57327cc721f35ecc643cd96edec6c2d6</link>
+				<contentLength>18790481920</contentLength>
+				<pubDate>2025-03-29T12:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18790481920" url="https://mikanani.me/Download/20250329/75097bdd57327cc721f35ecc643cd96edec6c2d6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

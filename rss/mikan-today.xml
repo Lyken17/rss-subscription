@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/75097bdd57327cc721f35ecc643cd96edec6c2d6</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin][17.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/75097bdd57327cc721f35ecc643cd96edec6c2d6</link>
+				<contentLength>18790481920</contentLength>
+				<pubDate>2025-03-29T12:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18790481920" url="https://mikanani.me/Download/20250329/75097bdd57327cc721f35ecc643cd96edec6c2d6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/453b5156bce09376fff61d4f8c96c14d4cdb7bc8</link>
 			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-28T01:31:15.955147</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725404864" url="https://mikanani.me/Download/20250328/e882d90d2860a25754716554f2114f0fb4fd3eae.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Trillion Game /  一兆＄游戏 - 26 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/ac74e2f0d9e1d8a98fd665933856cea6fd763096</link>
-			<title>[ANi] Trillion Game /  一兆＄游戏 - 26 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Trillion Game /  一兆＄游戏 - 26 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][415.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ac74e2f0d9e1d8a98fd665933856cea6fd763096</link>
-				<contentLength>435263904</contentLength>
-				<pubDate>2025-03-28T01:30:50.385378</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="435263904" url="https://mikanani.me/Download/20250328/ac74e2f0d9e1d8a98fd665933856cea6fd763096.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
