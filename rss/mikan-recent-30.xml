@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/5ba4d04ab32d69b30003b10eba0a04b09462f377</link>
-			<title>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语]</title>
-			<description>【今晚月色真美】[青之箱 / アオのハコ / Ao no Hako][22][WEBrip][1080P][简日双语][439.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5ba4d04ab32d69b30003b10eba0a04b09462f377</link>
-				<contentLength>461163712</contentLength>
-				<pubDate>2025-02-28T04:07:51.193268</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="461163712" url="https://mikanani.me/Download/20250228/5ba4d04ab32d69b30003b10eba0a04b09462f377.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][083-085][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/5f6cb19f18e2db50c4d2a130ff711d07301f5024</link>
 			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 烈空坐飞升][083-085][简体][1080P][MP4]</title>
@@ -28695,6 +28683,30 @@
 				<pubDate>2025-03-30T09:32:40.596568</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250330/23517d4f391193d12872c96d1911c860c50ffdcd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 煋红 / MARS RED 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/e9df987941e55702150dc237cc0a02d9c0217802</link>
+			<title>[VCB-Studio] 煋红 / MARS RED 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 煋红 / MARS RED 10-bit 1080p HEVC BDRip [Fin][16.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e9df987941e55702150dc237cc0a02d9c0217802</link>
+				<contentLength>17287243776</contentLength>
+				<pubDate>2025-03-30T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17287243776" url="https://mikanani.me/Download/20250330/e9df987941e55702150dc237cc0a02d9c0217802.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 四月是你的谎言 / 四月は君の嘘 / Shigatsu wa Kimi no Uso / Your Lie in April [BDRip][HEVC-10bit 1080p][简繁日内封][Rev.]</guid>
+			<link>https://mikanani.me/Home/Episode/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8</link>
+			<title>[❀拨雪寻春❀] 四月是你的谎言 / 四月は君の嘘 / Shigatsu wa Kimi no Uso / Your Lie in April [BDRip][HEVC-10bit 1080p][简繁日内封][Rev.]</title>
+			<description>[❀拨雪寻春❀] 四月是你的谎言 / 四月は君の嘘 / Shigatsu wa Kimi no Uso / Your Lie in April [BDRip][HEVC-10bit 1080p][简繁日内封][Rev.][29.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8</link>
+				<contentLength>31997505536</contentLength>
+				<pubDate>2025-03-30T11:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="31997505536" url="https://mikanani.me/Download/20250330/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

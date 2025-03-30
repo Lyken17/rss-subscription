@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][12][WebRip][1080P][AV1 10bit][简日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/c43cfdc5d698ff720d556f85e6d0b8cb87e58822</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][12][WebRip][1080P][AV1 10bit][简日内封]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][12][WebRip][1080P][AV1 10bit][简日内封][661.21 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c43cfdc5d698ff720d556f85e6d0b8cb87e58822</link>
-				<contentLength>693328960</contentLength>
-				<pubDate>2025-03-29T03:38:16.167</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="693328960" url="https://mikanani.me/Download/20250329/c43cfdc5d698ff720d556f85e6d0b8cb87e58822.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][36][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/e8d8105355b1349d2fe7ea330f09b2a43cdd00df</link>
 			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][36][简体][1080P][MP4]</title>
@@ -1107,6 +1095,30 @@
 				<pubDate>2025-03-30T09:32:40.596568</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250330/23517d4f391193d12872c96d1911c860c50ffdcd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 煋红 / MARS RED 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/e9df987941e55702150dc237cc0a02d9c0217802</link>
+			<title>[VCB-Studio] 煋红 / MARS RED 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 煋红 / MARS RED 10-bit 1080p HEVC BDRip [Fin][16.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e9df987941e55702150dc237cc0a02d9c0217802</link>
+				<contentLength>17287243776</contentLength>
+				<pubDate>2025-03-30T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17287243776" url="https://mikanani.me/Download/20250330/e9df987941e55702150dc237cc0a02d9c0217802.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 四月是你的谎言 / 四月は君の嘘 / Shigatsu wa Kimi no Uso / Your Lie in April [BDRip][HEVC-10bit 1080p][简繁日内封][Rev.]</guid>
+			<link>https://mikanani.me/Home/Episode/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8</link>
+			<title>[❀拨雪寻春❀] 四月是你的谎言 / 四月は君の嘘 / Shigatsu wa Kimi no Uso / Your Lie in April [BDRip][HEVC-10bit 1080p][简繁日内封][Rev.]</title>
+			<description>[❀拨雪寻春❀] 四月是你的谎言 / 四月は君の嘘 / Shigatsu wa Kimi no Uso / Your Lie in April [BDRip][HEVC-10bit 1080p][简繁日内封][Rev.][29.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8</link>
+				<contentLength>31997505536</contentLength>
+				<pubDate>2025-03-30T11:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="31997505536" url="https://mikanani.me/Download/20250330/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
