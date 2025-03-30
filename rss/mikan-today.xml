@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/a03e897d3f4d65da05a621508bf275ce1155a54b</link>
+			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 07 (ABEMA 1920x1080 AVC AAC MP4)[731.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a03e897d3f4d65da05a621508bf275ce1155a54b</link>
+				<contentLength>767243072</contentLength>
+				<pubDate>2025-03-30T08:30:50.259982</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="767243072" url="https://mikanani.me/Download/20250330/a03e897d3f4d65da05a621508bf275ce1155a54b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[雪飘工作室 &amp; WBX][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][BDrip][Vol.2][13-24](检索:Q娃/プリキュア)</guid>
 			<link>https://mikanani.me/Home/Episode/e1b00112603bf9fc8cf3cf2524b661a0b2d20697</link>
 			<title>[雪飘工作室 &amp; WBX][汪分精彩光之美少女！/Wonderful_Precure！/わんだふるぷりきゅあ！][BDrip][Vol.2][13-24](检索:Q娃/プリキュア)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-03-29T00:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="921383744" url="https://mikanani.me/Download/20250329/6fe9c79457cef2957119f1a7ca412e1615f7cc25.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 36 (NetFlix 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0a8cfec3f0ef502c670ec20fc55aa911d22a2cd7</link>
-			<title>[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 36 (NetFlix 1920x1080 AVC AAC MKV)</title>
-			<description>[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 36 (NetFlix 1920x1080 AVC AAC MKV)[878.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0a8cfec3f0ef502c670ec20fc55aa911d22a2cd7</link>
-				<contentLength>921488576</contentLength>
-				<pubDate>2025-03-29T00:26:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="921488576" url="https://mikanani.me/Download/20250329/0a8cfec3f0ef502c670ec20fc55aa911d22a2cd7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
