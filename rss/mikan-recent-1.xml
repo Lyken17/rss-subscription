@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 简中)</guid>
-			<link>https://mikanani.me/Home/Episode/28425e25a3a82c3f06f03667160bb296eadbed8a</link>
-			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 简中)</title>
-			<description>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 简中)[131.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/28425e25a3a82c3f06f03667160bb296eadbed8a</link>
-				<contentLength>137573168</contentLength>
-				<pubDate>2025-03-29T07:06:14.889</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="137573168" url="https://mikanani.me/Download/20250329/28425e25a3a82c3f06f03667160bb296eadbed8a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 繁中)</guid>
-			<link>https://mikanani.me/Home/Episode/d077ef978e5c7021a20f957f6e529631356dc7d7</link>
-			<title>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 繁中)</title>
-			<description>[森] 灰色：幻影扳机/Grisaia - Phantom Trigger - 12 (1080p HEVC AAC 繁中)[131.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d077ef978e5c7021a20f957f6e529631356dc7d7</link>
-				<contentLength>137709488</contentLength>
-				<pubDate>2025-03-29T07:06:05.669</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="137709488" url="https://mikanani.me/Download/20250329/d077ef978e5c7021a20f957f6e529631356dc7d7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 53 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a8171f3c687b1fd689953c68d96bffd8b40d2849</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 53 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1215,6 +1191,30 @@
 				<pubDate>2025-03-30T13:30:41.491</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="226523872" url="https://mikanani.me/Download/20250330/8926aceaa069de3bcae6fa2121b81db4b3d56c24.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][09][1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/71680c10b2d4c0aa068abd96900447db8aa5fc6b</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][09][1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][09][1080p][CHT][247.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/71680c10b2d4c0aa068abd96900447db8aa5fc6b</link>
+				<contentLength>259082160</contentLength>
+				<pubDate>2025-03-30T14:59:25.008</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="259082160" url="https://mikanani.me/Download/20250330/71680c10b2d4c0aa068abd96900447db8aa5fc6b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][09][1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/dba173d58de9d2496922c5651c3c97897afdd4f2</link>
+			<title>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][09][1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[群花绽放 彷如修罗_Hana wa Saku,Shura no Gotoku][09][1080p][CHS][246.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dba173d58de9d2496922c5651c3c97897afdd4f2</link>
+				<contentLength>258820016</contentLength>
+				<pubDate>2025-03-30T14:59:13.321</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="258820016" url="https://mikanani.me/Download/20250330/dba173d58de9d2496922c5651c3c97897afdd4f2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
