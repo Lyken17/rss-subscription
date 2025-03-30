@@ -580,5 +580,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6012954112" url="https://mikanani.me/Download/20250330/6e64f32f3f480303186465c3e3914406fa2d1993.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/5d9c3c435b929a2252bbe11681f09bd888a74085</link>
+			<title>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 我独自升级 -起于暗影- / Ore dake Level Up na Ken / Solo Leveling - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][674.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5d9c3c435b929a2252bbe11681f09bd888a74085</link>
+				<contentLength>707474240</contentLength>
+				<pubDate>2025-03-30T09:38:59.154</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="707474240" url="https://mikanani.me/Download/20250330/5d9c3c435b929a2252bbe11681f09bd888a74085.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
