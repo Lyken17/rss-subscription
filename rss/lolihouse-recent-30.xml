@@ -2272,5 +2272,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="473830528" url="https://mikanani.me/Download/20250330/a356682479943f9715fbd6c102aad2f3c9e17ef7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/222bf56d6f0d6b56ff5e0e89c34871ba16fc1fa4</link>
+			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][269.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/222bf56d6f0d6b56ff5e0e89c34871ba16fc1fa4</link>
+				<contentLength>282727552</contentLength>
+				<pubDate>2025-03-30T17:38:02.399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="282727552" url="https://mikanani.me/Download/20250330/222bf56d6f0d6b56ff5e0e89c34871ba16fc1fa4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
