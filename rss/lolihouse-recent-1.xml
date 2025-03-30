@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 12 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/41edcf042eb334a1b59c8fff30ba774a3065b238</link>
-			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 12 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 12 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][1.06 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/41edcf042eb334a1b59c8fff30ba774a3065b238</link>
-				<contentLength>1138166272</contentLength>
-				<pubDate>2025-03-29T07:57:23.859</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250329/41edcf042eb334a1b59c8fff30ba774a3065b238.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu!- 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4911750a0f8611fb969704051d3ebc5ca1331afd</link>
 			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu!- 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -147,6 +135,18 @@
 				<pubDate>2025-03-30T14:08:35.677</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="434110464" url="https://mikanani.me/Download/20250330/4f2d5760c6068e462fae2386ac0703c078c8cfae.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1b8ea9a5465a7211c794b17a49ad1a72c62c8307</link>
+			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][538.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1b8ea9a5465a7211c794b17a49ad1a72c62c8307</link>
+				<contentLength>564888832</contentLength>
+				<pubDate>2025-03-30T16:11:12.959</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="564888832" url="https://mikanani.me/Download/20250330/1b8ea9a5465a7211c794b17a49ad1a72c62c8307.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
