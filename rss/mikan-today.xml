@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/18b7f22c0c2acaa22209acf7b646d3c470cc18ad</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 24 (ABEMA 1920x1080 AVC AAC MP4)[45.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/18b7f22c0c2acaa22209acf7b646d3c470cc18ad</link>
+				<contentLength>47605352</contentLength>
+				<pubDate>2025-04-01T02:35:31.273175</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47605352" url="https://mikanani.me/Download/20250401/18b7f22c0c2acaa22209acf7b646d3c470cc18ad.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 大欺诈师 razbliuto / GREAT PRETENDER razbliuto [01-04 精校合集][WebRip 1080p HEVC-10bit FLAC][简繁日内封字幕][Fin][v2]</guid>
 			<link>https://mikanani.me/Home/Episode/e64dfdb41e2d82083e74800f5a0c1a5c8cd18a3c</link>
 			<title>[SweetSub&amp;LoliHouse] 大欺诈师 razbliuto / GREAT PRETENDER razbliuto [01-04 精校合集][WebRip 1080p HEVC-10bit FLAC][简繁日内封字幕][Fin][v2]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-30T16:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="487378112" url="https://mikanani.me/Download/20250330/4c49faaf6ee00cdb79baf2a12199c805b193d096.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1b8ea9a5465a7211c794b17a49ad1a72c62c8307</link>
-			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][538.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1b8ea9a5465a7211c794b17a49ad1a72c62c8307</link>
-				<contentLength>564888832</contentLength>
-				<pubDate>2025-03-30T16:11:12.959</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="564888832" url="https://mikanani.me/Download/20250330/1b8ea9a5465a7211c794b17a49ad1a72c62c8307.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
