@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2deaf19063a8b9f9e165ecf7e9517816605e8841</link>
+			<title>[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 不幸职业【鉴定士】实则最强 /  Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][398.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2deaf19063a8b9f9e165ecf7e9517816605e8841</link>
+				<contentLength>418350368</contentLength>
+				<pubDate>2025-03-31T19:11:05.964</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="418350368" url="https://mikanani.me/Download/20250331/2deaf19063a8b9f9e165ecf7e9517816605e8841.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01-12][合集][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/d48110e7097f9335480cbde95e49bff701509718</link>
 			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01-12][合集][简体][1080P][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-30T11:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="31997505536" url="https://mikanani.me/Download/20250330/cbd9fee729254f6b889cf3e3f4c3b4c9d4f3dbe8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [12][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8874d846c1e8363e65f02e1a47bf8e798db0cef4</link>
-			<title>[桜都字幕组] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [12][1080p][繁日内嵌]</title>
-			<description>[桜都字幕组] 在冲绳喜欢上的女孩方言讲得太过令人困扰 / Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru [12][1080p][繁日内嵌][456.51 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8874d846c1e8363e65f02e1a47bf8e798db0cef4</link>
-				<contentLength>478685440</contentLength>
-				<pubDate>2025-03-30T10:53:43.031</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="478685440" url="https://mikanani.me/Download/20250330/8874d846c1e8363e65f02e1a47bf8e798db0cef4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
