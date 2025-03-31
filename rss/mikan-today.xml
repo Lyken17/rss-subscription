@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[MeiYangYang] 我独自升级 第二季 -起于暗影- / Solo Leveling - S02E13 END [R-ESRGAN 2160P WebRip HEVC-10bit]</guid>
+			<link>https://mikanani.me/Home/Episode/ababecada6452c9dffe4c1c8bbbe28281832382a</link>
+			<title>[MeiYangYang] 我独自升级 第二季 -起于暗影- / Solo Leveling - S02E13 END [R-ESRGAN 2160P WebRip HEVC-10bit]</title>
+			<description>[MeiYangYang] 我独自升级 第二季 -起于暗影- / Solo Leveling - S02E13 END [R-ESRGAN 2160P WebRip HEVC-10bit][1.59 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ababecada6452c9dffe4c1c8bbbe28281832382a</link>
+				<contentLength>1707249536</contentLength>
+				<pubDate>2025-03-31T20:40:20.019</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1707249536" url="https://mikanani.me/Download/20250331/ababecada6452c9dffe4c1c8bbbe28281832382a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  鬼人幻灯抄 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/93a1fa737cbe0e2524af93fb94b79f86a98a5522</link>
 			<title>[ANi]  鬼人幻灯抄 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-30T13:30:52.508</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="226439984" url="https://mikanani.me/Download/20250330/6ebe2f068b80927893139a693a3c7fd1bfc95625.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][10][1080p][CHS]</guid>
-			<link>https://mikanani.me/Home/Episode/8926aceaa069de3bcae6fa2121b81db4b3d56c24</link>
-			<title>【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][10][1080p][CHS]</title>
-			<description>【悠哈璃羽字幕社】[天久鹰央的推理病历表_Ameku Takao no Suiri Karte][10][1080p][CHS][216.03 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8926aceaa069de3bcae6fa2121b81db4b3d56c24</link>
-				<contentLength>226523872</contentLength>
-				<pubDate>2025-03-30T13:30:41.491</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="226523872" url="https://mikanani.me/Download/20250330/8926aceaa069de3bcae6fa2121b81db4b3d56c24.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
