@@ -6244,5 +6244,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="21076378" url="https://mikanani.me/Download/20250331/b33ca86503eb365d3cf0d4aea3128c00e2b0c9d4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 31 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/89ddc69725353d475ce8ddef5b99dce9944d9b6d</link>
+			<title>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 31 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</title>
+			<description>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 31 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)[1.27 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89ddc69725353d475ce8ddef5b99dce9944d9b6d</link>
+				<contentLength>1363652096</contentLength>
+				<pubDate>2025-03-31T14:51:39.08</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20250331/89ddc69725353d475ce8ddef5b99dce9944d9b6d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
