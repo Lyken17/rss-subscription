@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][热血最强哥修罗/Nekketsu Saikyou Gozaurer][01-51TV全集][1080P][BDRip][HEVC-10bit][FLAC][MKV](热血最强ゴウザウラー)</guid>
+			<link>https://mikanani.me/Home/Episode/c6b02b42ad3ccfb917beaafee33a5ebc37644c2e</link>
+			<title>[DBD-Raws][热血最强哥修罗/Nekketsu Saikyou Gozaurer][01-51TV全集][1080P][BDRip][HEVC-10bit][FLAC][MKV](热血最强ゴウザウラー)</title>
+			<description>[DBD-Raws][热血最强哥修罗/Nekketsu Saikyou Gozaurer][01-51TV全集][1080P][BDRip][HEVC-10bit][FLAC][MKV](热血最强ゴウザウラー)[39.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c6b02b42ad3ccfb917beaafee33a5ebc37644c2e</link>
+				<contentLength>41875931136</contentLength>
+				<pubDate>2025-03-31T16:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="41875931136" url="https://mikanani.me/Download/20250331/c6b02b42ad3ccfb917beaafee33a5ebc37644c2e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 31 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/89ddc69725353d475ce8ddef5b99dce9944d9b6d</link>
 			<title>[jibaketa合成&amp;压制][ViuTV粤语]幪面超人 / 假面骑士GOTCHARD / 假面骑士歌查德 - 31 [粤日双语+内封繁体中文字幕] (BD 1920x1080 x264 AACx2 PGS+SRT ViuTV CHT)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-30T09:38:59.154</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="707474240" url="https://mikanani.me/Download/20250330/5d9c3c435b929a2252bbe11681f09bd888a74085.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/23517d4f391193d12872c96d1911c860c50ffdcd</link>
-			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 08 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/23517d4f391193d12872c96d1911c860c50ffdcd</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-03-30T09:32:40.596568</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250330/23517d4f391193d12872c96d1911c860c50ffdcd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
