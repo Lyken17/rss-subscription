@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 54 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/657d3a1c5a4266802c2d54ef9a78a20bb823fcb8</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 54 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 54 (B-Global Donghua 1920x1080 HEVC AAC MKV)[297.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/657d3a1c5a4266802c2d54ef9a78a20bb823fcb8</link>
+				<contentLength>312370784</contentLength>
+				<pubDate>2025-03-31T09:02:03.998299</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="312370784" url="https://mikanani.me/Download/20250331/657d3a1c5a4266802c2d54ef9a78a20bb823fcb8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] MOMENTARY / Momentary Lily - 14 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8f36b2356be19880d630a8dd836ca4528c5a2558</link>
 			<title>[黒ネズミたち] MOMENTARY / Momentary Lily - 14 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-30T03:02:39.192646</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250330/efd1ca0132db13cb88c9350a72f6b435e3953b4d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][数码重映第516-2集 风林火山 迷宫的铠甲武士 贰][TVRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/fcdb282802799d19a14a86cc34c0b0ae4da40780</link>
-			<title>[银色子弹字幕组][名侦探柯南][数码重映第516-2集 风林火山 迷宫的铠甲武士 贰][TVRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</title>
-			<description>[银色子弹字幕组][名侦探柯南][数码重映第516-2集 风林火山 迷宫的铠甲武士 贰][TVRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fcdb282802799d19a14a86cc34c0b0ae4da40780</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-03-30T02:02:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250330/fcdb282802799d19a14a86cc34c0b0ae4da40780.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
