@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[c.c动漫][1月新番][我独自升级 第二季 －起于暗影－][13-25][合集][BIG5][720P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/06166be7123a7d2d06058b2fea3e83204a75b0df</link>
+			<title>[c.c动漫][1月新番][我独自升级 第二季 －起于暗影－][13-25][合集][BIG5][720P][MP4]</title>
+			<description>[c.c动漫][1月新番][我独自升级 第二季 －起于暗影－][13-25][合集][BIG5][720P][MP4][3.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/06166be7123a7d2d06058b2fea3e83204a75b0df</link>
+				<contentLength>3221225472</contentLength>
+				<pubDate>2025-03-31T11:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20250331/06166be7123a7d2d06058b2fea3e83204a75b0df.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 136 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/57cbf9d0fe27e580ba33b41a68f1fc3f5e707437</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 136 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-03-30T06:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="239704480" url="https://mikanani.me/Download/20250330/e173114ef228ee75fc2aeab308aebf2723f8d5c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 监禁区域LevelX / Kankin Kuiki Level X - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/10a5c30fceab9603ae6fc1edac7c05c4ca19ba81</link>
-			<title>[黒ネズミたち] 监禁区域LevelX / Kankin Kuiki Level X - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 监禁区域LevelX / Kankin Kuiki Level X - 12 (ABEMA 1920x1080 AVC AAC MP4)[390.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/10a5c30fceab9603ae6fc1edac7c05c4ca19ba81</link>
-				<contentLength>409573792</contentLength>
-				<pubDate>2025-03-30T03:15:39.686531</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="409573792" url="https://mikanani.me/Download/20250330/10a5c30fceab9603ae6fc1edac7c05c4ca19ba81.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
