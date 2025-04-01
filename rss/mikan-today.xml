@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9c17b351e62b4e4f4a739b0fa7adbac60763e88c</link>
+			<title>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 11 (ABEMA 1920x1080 AVC AAC MP4)[692.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9c17b351e62b4e4f4a739b0fa7adbac60763e88c</link>
+				<contentLength>725824320</contentLength>
+				<pubDate>2025-04-02T01:00:48.819172</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725824320" url="https://mikanani.me/Download/20250402/9c17b351e62b4e4f4a739b0fa7adbac60763e88c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[全修。 / Zenshuu. / ZENSHU][12][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/1bd6ac12039eb8846414647e0ea546e9041c7a22</link>
 			<title>【喵萌奶茶屋】★01月新番★[全修。 / Zenshuu. / ZENSHU][12][1080p][简日双语]</title>
@@ -1119,18 +1131,6 @@
 				<pubDate>2025-03-30T21:38:54.774</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="525409984" url="https://mikanani.me/Download/20250330/0c420174e05f91ce9d56d88717810d6a33501c50.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][24][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/b3e8834a808838d594bf00d4474cc49c8dc67da6</link>
-			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][24][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][24][AVC][GB][1080P][957.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3e8834a808838d594bf00d4474cc49c8dc67da6</link>
-				<contentLength>1004273664</contentLength>
-				<pubDate>2025-03-30T21:34:21.729</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1004273664" url="https://mikanani.me/Download/20250330/b3e8834a808838d594bf00d4474cc49c8dc67da6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
