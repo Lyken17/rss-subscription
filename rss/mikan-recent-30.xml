@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Up to 21°C] 海贼王 / One Piece - 534(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3cd47776e81c24927b313fe8a1afefb815da0d6b</link>
-			<title>[Up to 21°C] 海贼王 / One Piece - 534(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[Up to 21°C] 海贼王 / One Piece - 534(retake (B-Global 3840x2160 HEVC AAC MKV)[1.28 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3cd47776e81c24927b313fe8a1afefb815da0d6b</link>
-				<contentLength>1374389504</contentLength>
-				<pubDate>2025-03-02T13:05:58.351</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1374389504" url="https://mikanani.me/Download/20250302/3cd47776e81c24927b313fe8a1afefb815da0d6b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Strange-Raw] 坂本日常 第一季 / SAKAMOTO DAYS S01 [08] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/27870ebfb9ffd4108a964562476c8b3be2e6fd95</link>
 			<title>[Strange-Raw] 坂本日常 第一季 / SAKAMOTO DAYS S01 [08] [Bilibili] [WEB-DL] [1080P AVC-8Bits AAC 2.0] [简日内嵌字幕]</title>
@@ -27939,6 +27927,18 @@
 				<pubDate>2025-04-01T19:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7301444608" url="https://mikanani.me/Download/20250401/f92b048fe727bec8bfbf3a6d28016ba536fbc5f0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 25 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/bc35685e5cd90be17f1452f83602543fc13b28da</link>
+			<title>[黒ネズミたち] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 25 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 我独自升级 第二季 －起于暗影－ / Ore dake Level Up na Ken Season 2 - 25 (ABEMA 1280x720 AVC AAC MP4)[367.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bc35685e5cd90be17f1452f83602543fc13b28da</link>
+				<contentLength>385561408</contentLength>
+				<pubDate>2025-04-01T21:00:47.600836</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385561408" url="https://mikanani.me/Download/20250401/bc35685e5cd90be17f1452f83602543fc13b28da.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
