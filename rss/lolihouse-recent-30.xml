@@ -2272,5 +2272,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="373387424" url="https://mikanani.me/Download/20250401/910307b2affc9cd5be8aa3a9dcd8a80f0e8913ee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. [01-12合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/f92b048fe727bec8bfbf3a6d28016ba536fbc5f0</link>
+			<title>[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. [01-12合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 精灵来日 / 欢迎来到日本，妖精小姐。 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san. [01-12合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][6.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f92b048fe727bec8bfbf3a6d28016ba536fbc5f0</link>
+				<contentLength>7301444608</contentLength>
+				<pubDate>2025-04-01T19:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7301444608" url="https://mikanani.me/Download/20250401/f92b048fe727bec8bfbf3a6d28016ba536fbc5f0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
