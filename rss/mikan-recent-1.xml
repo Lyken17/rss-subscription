@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 54 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/657d3a1c5a4266802c2d54ef9a78a20bb823fcb8</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 54 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 54 (B-Global Donghua 1920x1080 HEVC AAC MKV)[297.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/657d3a1c5a4266802c2d54ef9a78a20bb823fcb8</link>
-				<contentLength>312370784</contentLength>
-				<pubDate>2025-03-31T09:02:03.998299</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="312370784" url="https://mikanani.me/Download/20250331/657d3a1c5a4266802c2d54ef9a78a20bb823fcb8.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 136 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/57cbf9d0fe27e580ba33b41a68f1fc3f5e707437</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 136 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -459,6 +447,18 @@
 				<pubDate>2025-04-01T10:02:00.233762</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="370986176" url="https://mikanani.me/Download/20250401/b2beb5d869073404ac6fa6cde1aa57911907ca16.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E13 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</guid>
+			<link>https://mikanani.me/Home/Episode/c0feecd4added4e474444ed80f738e73ee6a3651</link>
+			<title>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E13 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</title>
+			<description>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E13 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs][138.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0feecd4added4e474444ed80f738e73ee6a3651</link>
+				<contentLength>145647200</contentLength>
+				<pubDate>2025-04-01T17:12:05.493</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="145647200" url="https://mikanani.me/Download/20250401/c0feecd4added4e474444ed80f738e73ee6a3651.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
