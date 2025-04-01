@@ -100,5 +100,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7301444608" url="https://mikanani.me/Download/20250401/f92b048fe727bec8bfbf3a6d28016ba536fbc5f0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 群花绽放，仿如修罗 / Hana wa Saku Shura no Gotoku [01-12 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/81bf927c707e18f20b01d9177feaf924f2cab0ea</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 群花绽放，仿如修罗 / Hana wa Saku Shura no Gotoku [01-12 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 群花绽放，仿如修罗 / Hana wa Saku Shura no Gotoku [01-12 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][4.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/81bf927c707e18f20b01d9177feaf924f2cab0ea</link>
+				<contentLength>4939212288</contentLength>
+				<pubDate>2025-04-02T01:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4939212288" url="https://mikanani.me/Download/20250402/81bf927c707e18f20b01d9177feaf924f2cab0ea.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
