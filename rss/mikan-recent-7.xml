@@ -5596,5 +5596,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250401/455d4430cf4c64f1d4ee49291a78b161bb6c428c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! Ave Mujica][13][1080P][AVC AAC][繁日双语][WebRip]</guid>
+			<link>https://mikanani.me/Home/Episode/fd237b270d977e2e345207fc96e246ce183072ee</link>
+			<title>[霜庭云花Sub][BanG Dream! Ave Mujica][13][1080P][AVC AAC][繁日双语][WebRip]</title>
+			<description>[霜庭云花Sub][BanG Dream! Ave Mujica][13][1080P][AVC AAC][繁日双语][WebRip][929.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd237b270d977e2e345207fc96e246ce183072ee</link>
+				<contentLength>975039360</contentLength>
+				<pubDate>2025-04-02T17:55:39.069</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="975039360" url="https://mikanani.me/Download/20250402/fd237b270d977e2e345207fc96e246ce183072ee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! Ave Mujica][13][1080P][AVC AAC][简日双语][WebRip]</guid>
+			<link>https://mikanani.me/Home/Episode/1cb12968ec054b0ba6f65a1935e35d0a442afd4f</link>
+			<title>[霜庭云花Sub][BanG Dream! Ave Mujica][13][1080P][AVC AAC][简日双语][WebRip]</title>
+			<description>[霜庭云花Sub][BanG Dream! Ave Mujica][13][1080P][AVC AAC][简日双语][WebRip][928.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1cb12968ec054b0ba6f65a1935e35d0a442afd4f</link>
+				<contentLength>973938368</contentLength>
+				<pubDate>2025-04-02T17:55:13.295</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="973938368" url="https://mikanani.me/Download/20250402/1cb12968ec054b0ba6f65a1935e35d0a442afd4f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
