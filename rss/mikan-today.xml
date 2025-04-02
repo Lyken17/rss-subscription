@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][繁日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/3553ccafaa8de2e832671dcf4368b8e68fff808e</link>
+			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][繁日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][繁日双语][招募翻译][4.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3553ccafaa8de2e832671dcf4368b8e68fff808e</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-04-03T03:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250403/3553ccafaa8de2e832671dcf4368b8e68fff808e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][简日双语][招募翻译]</guid>
 			<link>https://mikanani.me/Home/Episode/d5d49d595f8d7c31e31155411cdd903399d0ed51</link>
 			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][简日双语][招募翻译]</title>
@@ -1131,18 +1143,6 @@
 				<pubDate>2025-03-31T19:11:05.964</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="418350368" url="https://mikanani.me/Download/20250331/2deaf19063a8b9f9e165ecf7e9517816605e8841.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01-12][合集][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/eccd93801085a18fcbbd4a10a8e859c2f7d0ec49</link>
-			<title>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01-12][合集][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[青之驱魔师 终夜篇 / Ao no Exorcist _Yosuga Hen][01-12][合集][繁体][1080P][MP4][4.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eccd93801085a18fcbbd4a10a8e859c2f7d0ec49</link>
-				<contentLength>4724464128</contentLength>
-				<pubDate>2025-03-31T17:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4724464128" url="https://mikanani.me/Download/20250331/eccd93801085a18fcbbd4a10a8e859c2f7d0ec49.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[青之驱魔师 雪之尽头篇 / Ao no Exorcist _Yuki no Hate Hen][01-12][合集][简体][1080P][MP4]</guid>
