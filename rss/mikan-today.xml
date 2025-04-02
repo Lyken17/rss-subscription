@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 秘密的偶像公主 / Himitsu no AiPri [01-51 合集][WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d1967340cde95ddec56860e18ff9154e1fd0feaf</link>
+			<title>[LoliHouse] 秘密的偶像公主 / Himitsu no AiPri [01-51 合集][WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 秘密的偶像公主 / Himitsu no AiPri [01-51 合集][WebRip 1080p HEVC-10bit AAC][无字幕][52.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d1967340cde95ddec56860e18ff9154e1fd0feaf</link>
+				<contentLength>56371445760</contentLength>
+				<pubDate>2025-04-02T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="56371445760" url="https://mikanani.me/Download/20250402/d1967340cde95ddec56860e18ff9154e1fd0feaf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1473]小丸子在意葱花&amp;小丸子想解开樱花的谜团[2025.03.30][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/83247c2b69979ea99fcba7b391ad830db303146a</link>
 			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1473]小丸子在意葱花&amp;小丸子想解开樱花的谜团[2025.03.30][BIG5][1080P][MP4]</title>
@@ -1119,18 +1131,6 @@
 				<pubDate>2025-03-30T23:05:52.271</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250330/e342534c592b54e3504a0605b99a70bf781361c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[云光字幕组] 蜂蜜柠檬苏打水 Honey Lemon Soda [12][END][简体双语][1080p]招募翻译.mp4</guid>
-			<link>https://mikanani.me/Home/Episode/9322e2ab20d004515e70362599e383cceefd03d4</link>
-			<title>[云光字幕组] 蜂蜜柠檬苏打水 Honey Lemon Soda [12][END][简体双语][1080p]招募翻译.mp4</title>
-			<description>[云光字幕组] 蜂蜜柠檬苏打水 Honey Lemon Soda [12][END][简体双语][1080p]招募翻译.mp4[349.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9322e2ab20d004515e70362599e383cceefd03d4</link>
-				<contentLength>366603136</contentLength>
-				<pubDate>2025-03-30T23:05:05.272</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="366603136" url="https://mikanani.me/Download/20250330/9322e2ab20d004515e70362599e383cceefd03d4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
