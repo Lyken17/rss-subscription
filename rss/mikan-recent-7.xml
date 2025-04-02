@@ -5740,5 +5740,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="743754944" url="https://mikanani.me/Download/20250403/bbe9235913f62739dd180592c01b6007282b0beb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/d5d49d595f8d7c31e31155411cdd903399d0ed51</link>
+			<title>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][简日双语][招募翻译]</title>
+			<description>【喵萌奶茶屋】★01月新番★[异修罗 第二季 / Ishura S2][01-12][1080p][简日双语][招募翻译][4.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d5d49d595f8d7c31e31155411cdd903399d0ed51</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-04-03T03:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250403/d5d49d595f8d7c31e31155411cdd903399d0ed51.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
