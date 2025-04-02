@@ -27340,5 +27340,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16857746432" url="https://mikanani.me/Download/20250402/7e42cf820e3bfc61194c09253b2f7027584b7145.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[云歌字幕组][欢迎来到日本，精灵小姐][01-12][HEVC][x265 10bit][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/eaea687b04b04f7f25c26e6316d9c3e703ff5726</link>
+			<title>[云歌字幕组][欢迎来到日本，精灵小姐][01-12][HEVC][x265 10bit][1080p][简日双语]</title>
+			<description>[云歌字幕组][欢迎来到日本，精灵小姐][01-12][HEVC][x265 10bit][1080p][简日双语][4.28 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eaea687b04b04f7f25c26e6316d9c3e703ff5726</link>
+				<contentLength>4595615232</contentLength>
+				<pubDate>2025-04-02T14:20:01.467</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4595615232" url="https://mikanani.me/Download/20250402/eaea687b04b04f7f25c26e6316d9c3e703ff5726.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

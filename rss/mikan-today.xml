@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[云歌字幕组][欢迎来到日本，精灵小姐][01-12][HEVC][x265 10bit][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/eaea687b04b04f7f25c26e6316d9c3e703ff5726</link>
+			<title>[云歌字幕组][欢迎来到日本，精灵小姐][01-12][HEVC][x265 10bit][1080p][简日双语]</title>
+			<description>[云歌字幕组][欢迎来到日本，精灵小姐][01-12][HEVC][x265 10bit][1080p][简日双语][4.28 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eaea687b04b04f7f25c26e6316d9c3e703ff5726</link>
+				<contentLength>4595615232</contentLength>
+				<pubDate>2025-04-02T14:20:01.467</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4595615232" url="https://mikanani.me/Download/20250402/eaea687b04b04f7f25c26e6316d9c3e703ff5726.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [01-12 Fin][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/dc9d8288a2814e68c8933bcbb1d5d24b4daf92e7</link>
 			<title>[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [01-12 Fin][1080p][简繁内封]</title>
@@ -1119,18 +1131,6 @@
 				<pubDate>2025-03-30T23:30:56.568688</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="484546976" url="https://mikanani.me/Download/20250330/2f34a333c9d8215529c3e407964779c0305f2095.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  金肉人 完美超人始祖篇 Season 2 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/754eefe1061697186d55fcb44a268dbe91665c0d</link>
-			<title>[ANi]  金肉人 完美超人始祖篇 Season 2 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  金肉人 完美超人始祖篇 Season 2 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][462.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/754eefe1061697186d55fcb44a268dbe91665c0d</link>
-				<contentLength>484861536</contentLength>
-				<pubDate>2025-03-30T23:30:53.708558</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20250330/754eefe1061697186d55fcb44a268dbe91665c0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
