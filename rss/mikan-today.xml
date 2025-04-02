@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3b72763a7bd07731c74612bc2279133ca55e1801</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 27 (B-Global Donghua 1920x1080 HEVC AAC MKV)[398.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b72763a7bd07731c74612bc2279133ca55e1801</link>
+				<contentLength>418172096</contentLength>
+				<pubDate>2025-04-02T09:02:10.481268</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="418172096" url="https://mikanani.me/Download/20250402/3b72763a7bd07731c74612bc2279133ca55e1801.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][繁日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/16c7517bd8569f21545f15d2d27ac046ab717246</link>
 			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][01][1080p][繁日双语][招募翻译时轴]</title>
@@ -1119,18 +1131,6 @@
 				<pubDate>2025-03-30T22:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5153960960" url="https://mikanani.me/Download/20250330/9e105e6dcd849fdef3ebdecfb30931f12196d5f2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/0902ef13875468701c0e7ae749fec60664e9d0e5</link>
-			<title>[ANi]  使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][263.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0902ef13875468701c0e7ae749fec60664e9d0e5</link>
-				<contentLength>276404640</contentLength>
-				<pubDate>2025-03-30T22:32:40.97871</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="276404640" url="https://mikanani.me/Download/20250330/0902ef13875468701c0e7ae749fec60664e9d0e5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
