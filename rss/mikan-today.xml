@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][魔法光源股份有限公司/Kabushikigaisha Magilumiere][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](株式会社マジルミエ)</guid>
+			<link>https://mikanani.me/Home/Episode/f3abe6dff7eb053ec5715bf3c692046dba8e15c6</link>
+			<title>[DBD-Raws][魔法光源股份有限公司/Kabushikigaisha Magilumiere][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](株式会社マジルミエ)</title>
+			<description>[DBD-Raws][魔法光源股份有限公司/Kabushikigaisha Magilumiere][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](株式会社マジルミエ)[10.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3abe6dff7eb053ec5715bf3c692046dba8e15c6</link>
+				<contentLength>11166914560</contentLength>
+				<pubDate>2025-04-03T17:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20250403/f3abe6dff7eb053ec5715bf3c692046dba8e15c6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;VCB-Studio] 顺其自然的日子 / Happy-Go-Lucky Days / どうにかなる日々 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/1f60b69db4931dbd096d90aeb5c6665d82a4dd1c</link>
 			<title>[SweetSub&amp;VCB-Studio] 顺其自然的日子 / Happy-Go-Lucky Days / どうにかなる日々 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-03-31T20:30:54.477723</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745432704" url="https://mikanani.me/Download/20250331/fc59332267718d7e93b03d8305940f1224b0c81d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 50 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3911cca92a0e33cd8bc150347ae17749d0c7dfb7</link>
-			<title>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 50 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ - 50 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][397.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3911cca92a0e33cd8bc150347ae17749d0c7dfb7</link>
-				<contentLength>416798464</contentLength>
-				<pubDate>2025-03-31T20:13:58.194</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="416798464" url="https://mikanani.me/Download/20250331/3911cca92a0e33cd8bc150347ae17749d0c7dfb7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

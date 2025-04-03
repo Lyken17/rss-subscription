@@ -5260,5 +5260,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6764573696" url="https://mikanani.me/Download/20250403/1f60b69db4931dbd096d90aeb5c6665d82a4dd1c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][魔法光源股份有限公司/Kabushikigaisha Magilumiere][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](株式会社マジルミエ)</guid>
+			<link>https://mikanani.me/Home/Episode/f3abe6dff7eb053ec5715bf3c692046dba8e15c6</link>
+			<title>[DBD-Raws][魔法光源股份有限公司/Kabushikigaisha Magilumiere][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](株式会社マジルミエ)</title>
+			<description>[DBD-Raws][魔法光源股份有限公司/Kabushikigaisha Magilumiere][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](株式会社マジルミエ)[10.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3abe6dff7eb053ec5715bf3c692046dba8e15c6</link>
+				<contentLength>11166914560</contentLength>
+				<pubDate>2025-04-03T17:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20250403/f3abe6dff7eb053ec5715bf3c692046dba8e15c6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
