@@ -5416,5 +5416,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250404/6c07dd2039da08d8c3f88cffb8b0eeae2129531f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 金牌得主 / Medalist - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/442684dea8f3ec33d30f22653a6240be1e1bd3a5</link>
+			<title>[黒ネズミたち] 金牌得主 / Medalist - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 金牌得主 / Medalist - 13 (ABEMA 1920x1080 AVC AAC MP4)[691.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/442684dea8f3ec33d30f22653a6240be1e1bd3a5</link>
+				<contentLength>725509760</contentLength>
+				<pubDate>2025-04-04T01:31:02.265997</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725509760" url="https://mikanani.me/Download/20250404/442684dea8f3ec33d30f22653a6240be1e1bd3a5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/68cc37298a4a0b4a047981180f0b91ed24daa6af</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][388.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68cc37298a4a0b4a047981180f0b91ed24daa6af</link>
+				<contentLength>407759744</contentLength>
+				<pubDate>2025-04-04T01:15:51.589</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="407759744" url="https://mikanani.me/Download/20250404/68cc37298a4a0b4a047981180f0b91ed24daa6af.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
