@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3da5bde0526543a6d2bf2cf3ae840460c848035d</link>
-			<title>[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 青之壬生浪 / Ao no Miburo - 24 (ABEMA 1920x1080 AVC AAC MP4)[702.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3da5bde0526543a6d2bf2cf3ae840460c848035d</link>
-				<contentLength>736414912</contentLength>
-				<pubDate>2025-04-02T22:00:50.421905</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="736414912" url="https://mikanani.me/Download/20250402/3da5bde0526543a6d2bf2cf3ae840460c848035d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组&amp;7³ACG] 亦叶亦花/菜なれ花なれ/Na Nare Hana Nare S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/cb4ce22bfd99170bc029c8e1bec5cbfb6ea1047f</link>
-			<title>[桜都字幕组&amp;7³ACG] 亦叶亦花/菜なれ花なれ/Na Nare Hana Nare S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[桜都字幕组&amp;7³ACG] 亦叶亦花/菜なれ花なれ/Na Nare Hana Nare S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[3.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cb4ce22bfd99170bc029c8e1bec5cbfb6ea1047f</link>
-				<contentLength>3650722304</contentLength>
-				<pubDate>2025-04-02T21:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3650722304" url="https://mikanani.me/Download/20250402/cb4ce22bfd99170bc029c8e1bec5cbfb6ea1047f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Your Forma /  记忆缝线 YOUR FORMA - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/556592d3ab633300f4ba4409be8bc3ae1cedda6f</link>
 			<title>[ANi] Your Forma /  记忆缝线 YOUR FORMA - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -615,6 +591,18 @@
 				<pubDate>2025-04-04T04:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250404/92120d706d46a8654bdd9a08483f0d9a2d65eb1c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 拜托请穿上，鹰峰同学 - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5e65246d20f72153c6af47b753638d512de04b21</link>
+			<title>[不当舔狗制作组] 拜托请穿上，鹰峰同学 - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 拜托请穿上，鹰峰同学 - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕][801.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5e65246d20f72153c6af47b753638d512de04b21</link>
+				<contentLength>840014208</contentLength>
+				<pubDate>2025-04-04T05:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="840014208" url="https://mikanani.me/Download/20250404/5e65246d20f72153c6af47b753638d512de04b21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

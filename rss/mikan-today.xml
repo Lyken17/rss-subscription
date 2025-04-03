@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 拜托请穿上，鹰峰同学 - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5e65246d20f72153c6af47b753638d512de04b21</link>
+			<title>[不当舔狗制作组] 拜托请穿上，鹰峰同学 - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 拜托请穿上，鹰峰同学 - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕][801.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5e65246d20f72153c6af47b753638d512de04b21</link>
+				<contentLength>840014208</contentLength>
+				<pubDate>2025-04-04T05:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="840014208" url="https://mikanani.me/Download/20250404/5e65246d20f72153c6af47b753638d512de04b21.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][01-13][GB][720P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/29d417dcb602318b43bac7d96f8dc29f56c1beca</link>
 			<title>[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][01-13][GB][720P][MP4]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-04-01T17:31:27.6</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="127990022144" url="https://mikanani.me/Download/20250401/8bb04b14d2656bd6ff23b964846412bcc204a5cf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【剧场版/悠哈璃羽下北泽项目部】[孤独摇滚 Re:Re:/Bocchi the Rock!  Recap Part 2][BDRIP x264 1080p][繁体内嵌][CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/f9a132bcadd5cff3c30c8436f2deb2f9d83cbc5c</link>
-			<title>【剧场版/悠哈璃羽下北泽项目部】[孤独摇滚 Re:Re:/Bocchi the Rock!  Recap Part 2][BDRIP x264 1080p][繁体内嵌][CHT]</title>
-			<description>【剧场版/悠哈璃羽下北泽项目部】[孤独摇滚 Re:Re:/Bocchi the Rock!  Recap Part 2][BDRIP x264 1080p][繁体内嵌][CHT][998.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f9a132bcadd5cff3c30c8436f2deb2f9d83cbc5c</link>
-				<contentLength>1046793408</contentLength>
-				<pubDate>2025-04-01T17:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1046793408" url="https://mikanani.me/Download/20250401/f9a132bcadd5cff3c30c8436f2deb2f9d83cbc5c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
