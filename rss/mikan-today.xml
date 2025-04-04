@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub&amp;VCB-Studio] 剧场版 回转企鹅罐 / RE:cycle of the PENGUINDRUM / 剧场版 轮るピングドラム 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/24844f20e55e47f5783444bcb7b2ef6fb5028316</link>
+			<title>[SweetSub&amp;VCB-Studio] 剧场版 回转企鹅罐 / RE:cycle of the PENGUINDRUM / 剧场版 轮るピングドラム 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</title>
+			<description>[SweetSub&amp;VCB-Studio] 剧场版 回转企鹅罐 / RE:cycle of the PENGUINDRUM / 剧场版 轮るピングドラム 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin][22.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/24844f20e55e47f5783444bcb7b2ef6fb5028316</link>
+				<contentLength>24159191040</contentLength>
+				<pubDate>2025-04-04T14:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24159191040" url="https://mikanani.me/Download/20250404/24844f20e55e47f5783444bcb7b2ef6fb5028316.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/a1ead7c9a5feeb2b49adf131f7748134fd6b67b3</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-04-01T21:00:47.600836</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="385561408" url="https://mikanani.me/Download/20250401/bc35685e5cd90be17f1452f83602543fc13b28da.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[霜庭云花Sub][欢迎来到日本 妖精小姐 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san.][01-12 合集][1080P][AVC AAC][简日双语][WebRip]</guid>
-			<link>https://mikanani.me/Home/Episode/d092ce98ea297205dfb30433e127b9980a2dd23f</link>
-			<title>[霜庭云花Sub][欢迎来到日本 妖精小姐 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san.][01-12 合集][1080P][AVC AAC][简日双语][WebRip]</title>
-			<description>[霜庭云花Sub][欢迎来到日本 妖精小姐 / 日本へようこそエルフさん。 / Nihon e Youkoso Elf-san.][01-12 合集][1080P][AVC AAC][简日双语][WebRip][4.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d092ce98ea297205dfb30433e127b9980a2dd23f</link>
-				<contentLength>5046586368</contentLength>
-				<pubDate>2025-04-01T20:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20250401/d092ce98ea297205dfb30433e127b9980a2dd23f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
