@@ -700,5 +700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="293496416" url="https://mikanani.me/Download/20250405/56dbcd469fdde7e26fa6804f6a003f714bdc5fa5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VonEncodes] The Beginning After the End) - S01E01 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</guid>
+			<link>https://mikanani.me/Home/Episode/82af73dac6e7bafdb2ca15eac4c8788a0925b543</link>
+			<title>[VonEncodes] The Beginning After the End) - S01E01 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</title>
+			<description>[VonEncodes] The Beginning After the End) - S01E01 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs][98.25 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/82af73dac6e7bafdb2ca15eac4c8788a0925b543</link>
+				<contentLength>103022592</contentLength>
+				<pubDate>2025-04-05T03:57:44.779</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="103022592" url="https://mikanani.me/Download/20250405/82af73dac6e7bafdb2ca15eac4c8788a0925b543.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
