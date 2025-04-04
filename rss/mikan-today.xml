@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][01][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/1343e91b30f6d213771d536fb709f9032812828b</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][01][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][01][1080p][简日双语][450.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1343e91b30f6d213771d536fb709f9032812828b</link>
+				<contentLength>471985024</contentLength>
+				<pubDate>2025-04-04T11:19:48.423</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="471985024" url="https://mikanani.me/Download/20250404/1343e91b30f6d213771d536fb709f9032812828b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 09 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/c87e51ac9b154386077089c722f9b0ff5cd858f8</link>
+			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 09 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 09 (B-Global Donghua 1920x1080 HEVC AAC MKV)[682.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c87e51ac9b154386077089c722f9b0ff5cd858f8</link>
+				<contentLength>715967680</contentLength>
+				<pubDate>2025-04-04T11:03:23.50582</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="715967680" url="https://mikanani.me/Download/20250404/c87e51ac9b154386077089c722f9b0ff5cd858f8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/068e548611f6dab5c1a437bd5945bd919fc73c05</link>
 			<title>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1155,18 +1179,6 @@
 				<pubDate>2025-04-01T20:30:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20250401/d092ce98ea297205dfb30433e127b9980a2dd23f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [36][WebRip][HEVC_AAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/f1aaaa0248167eb41d39d00d0a57f6f77bc086a0</link>
-			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [36][WebRip][HEVC_AAC][简繁日内封]</title>
-			<description>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [36][WebRip][HEVC_AAC][简繁日内封][320.66 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f1aaaa0248167eb41d39d00d0a57f6f77bc086a0</link>
-				<contentLength>336236384</contentLength>
-				<pubDate>2025-04-01T19:25:17.784</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="336236384" url="https://mikanani.me/Download/20250401/f1aaaa0248167eb41d39d00d0a57f6f77bc086a0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
