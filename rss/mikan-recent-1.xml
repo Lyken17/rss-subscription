@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP01 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
-			<link>https://mikanani.me/Home/Episode/f9c8b00c69e748092525a6bc7b1f32a6bab02fb9</link>
-			<title>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP01 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
-			<description>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP01 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}[3.02 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f9c8b00c69e748092525a6bc7b1f32a6bab02fb9</link>
-				<contentLength>3242700288</contentLength>
-				<pubDate>2025-04-03T07:20:42.559</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3242700288" url="https://mikanani.me/Download/20250403/f9c8b00c69e748092525a6bc7b1f32a6bab02fb9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 01 (葛野篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2b5934ee9b4a5c81be2d26d751c31a6efe030ac6</link>
 			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 01 (葛野篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -483,6 +471,18 @@
 				<pubDate>2025-04-04T14:01:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="24159191040" url="https://mikanani.me/Download/20250404/24844f20e55e47f5783444bcb7b2ef6fb5028316.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi]  卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/ce13c8db2e76e26bc8cc989c18920015d1cc4fee</link>
+			<title>[ANi]  卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi]  卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][356.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce13c8db2e76e26bc8cc989c18920015d1cc4fee</link>
+				<contentLength>373922208</contentLength>
+				<pubDate>2025-04-04T16:00:57.933625</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="373922208" url="https://mikanani.me/Download/20250404/ce13c8db2e76e26bc8cc989c18920015d1cc4fee.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
