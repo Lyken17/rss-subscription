@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 记忆缝线 - 01 [ABEMA WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/efdb21135ef0157601a168ff96ec2dd84135714d</link>
+			<title>[不当舔狗制作组] 记忆缝线 - 01 [ABEMA WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 记忆缝线 - 01 [ABEMA WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/efdb21135ef0157601a168ff96ec2dd84135714d</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2025-04-05T06:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250405/efdb21135ef0157601a168ff96ec2dd84135714d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] 男女之间的友情存在吗？（不，不存在!!） - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/09c1e6a1a60cf8fe1484a6a198301175e92c7f0b</link>
 			<title>[不当舔狗制作组] 男女之间的友情存在吗？（不，不存在!!） - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-04-02T12:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20250402/dc75092f6e115c5db9cc66b2ef53daf51356f966.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [01-12 Fin][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8447285366877a3d91e2cc31c4ad15034ee82b31</link>
-			<title>[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [01-12 Fin][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 我和班上最讨厌的女生结婚了。 / Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. [01-12 Fin][1080p][简体内嵌][5.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8447285366877a3d91e2cc31c4ad15034ee82b31</link>
-				<contentLength>6227702784</contentLength>
-				<pubDate>2025-04-02T12:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20250402/8447285366877a3d91e2cc31c4ad15034ee82b31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
