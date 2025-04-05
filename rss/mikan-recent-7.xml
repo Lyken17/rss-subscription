@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/453b5156bce09376fff61d4f8c96c14d4cdb7bc8</link>
-			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/453b5156bce09376fff61d4f8c96c14d4cdb7bc8</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2025-03-29T11:02:09.747146</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250329/453b5156bce09376fff61d4f8c96c14d4cdb7bc8.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/75097bdd57327cc721f35ecc643cd96edec6c2d6</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 终末列车要开往哪里？ / Shuumatsu Train Doko e Iku / 终末トレインどこへいく？ 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -4407,6 +4395,18 @@
 				<pubDate>2025-04-05T17:47:25.737</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="260256560" url="https://mikanani.me/Download/20250405/f21cb1b9a266d5d420ce5a634fe130ccfc7c2048.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第01集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/8b676dc1f185f6f7a83e4cd11eb23c92eb70ab20</link>
+			<title>【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第01集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第01集 GB_CN HEVC_opus 1080p[201.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b676dc1f185f6f7a83e4cd11eb23c92eb70ab20</link>
+				<contentLength>210994464</contentLength>
+				<pubDate>2025-04-05T18:18:50.941</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="210994464" url="https://mikanani.me/Download/20250405/8b676dc1f185f6f7a83e4cd11eb23c92eb70ab20.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

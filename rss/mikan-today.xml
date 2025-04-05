@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第01集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/8b676dc1f185f6f7a83e4cd11eb23c92eb70ab20</link>
+			<title>【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第01集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第01集 GB_CN HEVC_opus 1080p[201.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b676dc1f185f6f7a83e4cd11eb23c92eb70ab20</link>
+				<contentLength>210994464</contentLength>
+				<pubDate>2025-04-05T18:18:50.941</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="210994464" url="https://mikanani.me/Download/20250405/8b676dc1f185f6f7a83e4cd11eb23c92eb70ab20.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/803e33a2a6ec06738bffc47a52824e3af02a74c3</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-03T00:45:55.098257</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="498702752" url="https://mikanani.me/Download/20250403/951fca84b8606d9461f1e74c3675b0d53e113336.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">ガールズバンドクライ (JPBD Vol.1-7 Re-encode) 少女乐队的呐喊 哭泣少女乐队 GIRLS BAND CRY</guid>
-			<link>https://mikanani.me/Home/Episode/16ad0faba20417666b79b8048fb18f5170f67df7</link>
-			<title>ガールズバンドクライ (JPBD Vol.1-7 Re-encode) 少女乐队的呐喊 哭泣少女乐队 GIRLS BAND CRY</title>
-			<description>ガールズバンドクライ (JPBD Vol.1-7 Re-encode) 少女乐队的呐喊 哭泣少女乐队 GIRLS BAND CRY[23.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/16ad0faba20417666b79b8048fb18f5170f67df7</link>
-				<contentLength>24910811136</contentLength>
-				<pubDate>2025-04-03T00:35:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="24910811136" url="https://mikanani.me/Download/20250403/16ad0faba20417666b79b8048fb18f5170f67df7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
