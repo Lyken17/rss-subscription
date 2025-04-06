@@ -1504,5 +1504,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="645817984" url="https://mikanani.me/Download/20250407/e6124a37985cd30b35314bd96da72a448990c1ad.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/acabd07077824ea802c0fe2cf22de8f6c7fc7989</link>
+			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01][1080p][简日双语][546.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/acabd07077824ea802c0fe2cf22de8f6c7fc7989</link>
+				<contentLength>572774144</contentLength>
+				<pubDate>2025-04-07T03:59:47.504</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="572774144" url="https://mikanani.me/Download/20250407/acabd07077824ea802c0fe2cf22de8f6c7fc7989.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十四季 / Yami Shibai S14 - 13 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f213c3498ddbf166ff500daf7dc396b4999d79f4</link>
+			<title>[黒ネズミたち] 暗芝居 第十四季 / Yami Shibai S14 - 13 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十四季 / Yami Shibai S14 - 13 (CR 1920x1080 AVC AAC MKV)[238.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f213c3498ddbf166ff500daf7dc396b4999d79f4</link>
+				<contentLength>249875664</contentLength>
+				<pubDate>2025-04-07T03:46:05.716555</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="249875664" url="https://mikanani.me/Download/20250407/f213c3498ddbf166ff500daf7dc396b4999d79f4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 殿下与狗 / Tono to Inu - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6b9a24a643f0ce69fb7fcd04ee99f28d2e536866</link>
+			<title>[黒ネズミたち] 殿下与狗 / Tono to Inu - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 殿下与狗 / Tono to Inu - 24 (ABEMA 1920x1080 AVC AAC MP4)[77.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6b9a24a643f0ce69fb7fcd04ee99f28d2e536866</link>
+				<contentLength>81369496</contentLength>
+				<pubDate>2025-04-07T03:15:27.317205</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="81369496" url="https://mikanani.me/Download/20250407/6b9a24a643f0ce69fb7fcd04ee99f28d2e536866.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
