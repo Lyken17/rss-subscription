@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="428049696" url="https://mikanani.me/Download/20250406/fed819b7ab2a5d81e3766e53ab9a8d95b158770b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ [26-50 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ca06d26ec5774d8865bf5865c88530cf2cb3d83b</link>
+			<title>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ [26-50 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] Shangri-La Frontier / 香格里拉·开拓异境～粪作猎手挑战神作～ [26-50 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][22.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ca06d26ec5774d8865bf5865c88530cf2cb3d83b</link>
+				<contentLength>23622320128</contentLength>
+				<pubDate>2025-04-07T00:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23622320128" url="https://mikanani.me/Download/20250407/ca06d26ec5774d8865bf5865c88530cf2cb3d83b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
