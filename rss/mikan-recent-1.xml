@@ -1300,5 +1300,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20250406/c5620a83a6bb11fe7c998a66f1e1b83c27aa75a9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 34 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/644feb6f081096a2ea06dfe0e0dfb4b807cd5c3d</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 34 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]新干线战士 改变世界 / 新干线变形机器人 变革世代 - 34 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][1.09 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/644feb6f081096a2ea06dfe0e0dfb4b807cd5c3d</link>
+				<contentLength>1170378624</contentLength>
+				<pubDate>2025-04-06T15:12:18.981</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1170378624" url="https://mikanani.me/Download/20250406/644feb6f081096a2ea06dfe0e0dfb4b807cd5c3d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
