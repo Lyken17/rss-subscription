@@ -4420,5 +4420,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20830590976" url="https://mikanani.me/Download/20250407/92880573528bc2708ac04a78013a139df6ade92d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[857][2025.04.05][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/b1ff64d04b12d6753553f9c724ee5d32f4ffc8e2</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[857][2025.04.05][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[857][2025.04.05][AVC][1080P][GB_JP][475.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1ff64d04b12d6753553f9c724ee5d32f4ffc8e2</link>
+				<contentLength>498440608</contentLength>
+				<pubDate>2025-04-07T21:18:17.493</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="498440608" url="https://mikanani.me/Download/20250407/b1ff64d04b12d6753553f9c724ee5d32f4ffc8e2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

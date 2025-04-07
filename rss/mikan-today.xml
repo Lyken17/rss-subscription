@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[857][2025.04.05][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/b1ff64d04b12d6753553f9c724ee5d32f4ffc8e2</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[857][2025.04.05][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[857][2025.04.05][AVC][1080P][GB_JP][475.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1ff64d04b12d6753553f9c724ee5d32f4ffc8e2</link>
+				<contentLength>498440608</contentLength>
+				<pubDate>2025-04-07T21:18:17.493</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="498440608" url="https://mikanani.me/Download/20250407/b1ff64d04b12d6753553f9c724ee5d32f4ffc8e2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【1月新番】【魔法制造者 ~异世界魔法的制作方法~ Magic Maker ~Isekai Mahou no Tsukurikata~】【01-12】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/de1bafcee9b7d0ced56e4e355338c9190e832be0</link>
 			<title>【幻樱字幕组】【1月新番】【魔法制造者 ~异世界魔法的制作方法~ Magic Maker ~Isekai Mahou no Tsukurikata~】【01-12】【BIG5_MP4】【1920X1080】</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-04-06T10:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="103284736" url="https://mikanani.me/Download/20250406/2bbb7d2772c1dd42dd88e5a27dc02b7832751c93.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3ba19214394158a74fe156e1c7647a4a29c0d1f6</link>
-			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 09 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3ba19214394158a74fe156e1c7647a4a29c0d1f6</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-04-06T09:32:40.406068</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250406/3ba19214394158a74fe156e1c7647a4a29c0d1f6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
