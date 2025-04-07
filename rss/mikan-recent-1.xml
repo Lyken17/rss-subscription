@@ -1048,5 +1048,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20852066304" url="https://mikanani.me/Download/20250407/39893205f138449a4a146d9747d2f5ae59a29cf2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/d813d66f9dd5f0ec51ea6cf78b8a972b5abe9451</link>
+			<title>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][简繁日内封]</title>
+			<description>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][简繁日内封][169.51 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d813d66f9dd5f0ec51ea6cf78b8a972b5abe9451</link>
+				<contentLength>177744112</contentLength>
+				<pubDate>2025-04-07T19:00:18.372</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="177744112" url="https://mikanani.me/Download/20250407/d813d66f9dd5f0ec51ea6cf78b8a972b5abe9451.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/000ccc5b24d0cb30dbf2710bae30cc8f6f07f252</link>
+			<title>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][繁日内嵌]</title>
+			<description>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][繁日内嵌][386.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/000ccc5b24d0cb30dbf2710bae30cc8f6f07f252</link>
+				<contentLength>405620640</contentLength>
+				<pubDate>2025-04-07T18:55:42.063</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="405620640" url="https://mikanani.me/Download/20250407/000ccc5b24d0cb30dbf2710bae30cc8f6f07f252.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/32218a8c48e97ce8ecca82edf51e689a0ca5e3c6</link>
+			<title>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][简日内嵌]</title>
+			<description>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [01][1080p][简日内嵌][386.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/32218a8c48e97ce8ecca82edf51e689a0ca5e3c6</link>
+				<contentLength>405673088</contentLength>
+				<pubDate>2025-04-07T18:50:43.685</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="405673088" url="https://mikanani.me/Download/20250407/32218a8c48e97ce8ecca82edf51e689a0ca5e3c6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
