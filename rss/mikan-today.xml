@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][14][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/fdc6c47f67381c24deb1c156656cde1666a677cd</link>
+			<title>[SweetSub][刹那之花][Momentary Lily][14][WebRip][1080P][AVC 8bit][简日内嵌]</title>
+			<description>[SweetSub][刹那之花][Momentary Lily][14][WebRip][1080P][AVC 8bit][简日内嵌][742.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fdc6c47f67381c24deb1c156656cde1666a677cd</link>
+				<contentLength>778777408</contentLength>
+				<pubDate>2025-04-08T03:49:38.255</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="778777408" url="https://mikanani.me/Download/20250408/fdc6c47f67381c24deb1c156656cde1666a677cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/13014d2786df09178892e9181dc78c105fda930a</link>
 			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-07T09:01:49.901082</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="320339968" url="https://mikanani.me/Download/20250407/ee97cfe75b1e711dea9784efe7bf5b54029c7e37.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 乡下大叔成为剑圣 - 01 [AMZN WebRip 暴力2160p HEVC-10bit E-AC-3][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1eb6ba5253ad5fc89f498b86c182cfffa5e33085</link>
-			<title>[不当舔狗制作组] 乡下大叔成为剑圣 - 01 [AMZN WebRip 暴力2160p HEVC-10bit E-AC-3][简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 乡下大叔成为剑圣 - 01 [AMZN WebRip 暴力2160p HEVC-10bit E-AC-3][简繁内封字幕][937MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1eb6ba5253ad5fc89f498b86c182cfffa5e33085</link>
-				<contentLength>982515712</contentLength>
-				<pubDate>2025-04-07T05:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="982515712" url="https://mikanani.me/Download/20250407/1eb6ba5253ad5fc89f498b86c182cfffa5e33085.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
