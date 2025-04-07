@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 01-13 [CR WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/90bcf5765248b8f8e029cb1909899c4e0a0c7ecc</link>
+			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 01-13 [CR WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 01-13 [CR WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕][5.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/90bcf5765248b8f8e029cb1909899c4e0a0c7ecc</link>
+				<contentLength>6120328192</contentLength>
+				<pubDate>2025-04-08T06:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6120328192" url="https://mikanani.me/Download/20250408/90bcf5765248b8f8e029cb1909899c4e0a0c7ecc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 14 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9f2a78cef31ab4d15227ed5d8183d6341a9f1388</link>
 			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 14 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-07T09:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="292447840" url="https://mikanani.me/Download/20250407/1dea1c82693f447f4ea18266319ba871263a4f26.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 快藏起来！玛琪娜同学!! - 01 [ADN WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b756416021c2bec2702ce751dbbf2e8c0281d7d2</link>
-			<title>[不当舔狗制作组] 快藏起来！玛琪娜同学!! - 01 [ADN WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 快藏起来！玛琪娜同学!! - 01 [ADN WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕][151.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b756416021c2bec2702ce751dbbf2e8c0281d7d2</link>
-				<contentLength>158964128</contentLength>
-				<pubDate>2025-04-07T09:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="158964128" url="https://mikanani.me/Download/20250407/b756416021c2bec2702ce751dbbf2e8c0281d7d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
