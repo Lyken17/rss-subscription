@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][10][1080p][简日双语][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/6cd434f7dacab12fbaefe9fbac57ed0dffaa4fbb</link>
-			<title>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][10][1080p][简日双语][招募翻译]</title>
-			<description>【喵萌奶茶屋】★01月新番★[黄昏旅店 / Tasokare Hotel][10][1080p][简日双语][招募翻译][297.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6cd434f7dacab12fbaefe9fbac57ed0dffaa4fbb</link>
-				<contentLength>311510944</contentLength>
-				<pubDate>2025-03-08T07:05:27.543</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="311510944" url="https://mikanani.me/Download/20250308/6cd434f7dacab12fbaefe9fbac57ed0dffaa4fbb.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [08][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/1e05e5ebd9f2989b2188524c538aa4bcb921cfc9</link>
 			<title>[桜都字幕组] 群花绽放、彷如修罗 / Hana wa Saku, Shura no Gotoku [08][1080p][繁体内嵌]</title>
@@ -25887,6 +25875,18 @@
 				<pubDate>2025-04-07T13:20:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6335076864" url="https://mikanani.me/Download/20250407/b8abe4d885056acc88d650632f80443595558d23.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU [01-12 修正合集 v2][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/266be8847b86c10f4c07cf4ee707afe4737c7d66</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU [01-12 修正合集 v2][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU [01-12 修正合集 v2][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][8.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/266be8847b86c10f4c07cf4ee707afe4737c7d66</link>
+				<contentLength>8697309184</contentLength>
+				<pubDate>2025-04-07T14:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8697309184" url="https://mikanani.me/Download/20250407/266be8847b86c10f4c07cf4ee707afe4737c7d66.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
