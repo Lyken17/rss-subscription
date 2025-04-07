@@ -25840,5 +25840,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8697309184" url="https://mikanani.me/Download/20250407/266be8847b86c10f4c07cf4ee707afe4737c7d66.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[MeiYangYang] 全修。 / Zenshuu [01-12][R-ESRGAN 2160P WebRip HEVC-10bit]</guid>
+			<link>https://mikanani.me/Home/Episode/39893205f138449a4a146d9747d2f5ae59a29cf2</link>
+			<title>[MeiYangYang] 全修。 / Zenshuu [01-12][R-ESRGAN 2160P WebRip HEVC-10bit]</title>
+			<description>[MeiYangYang] 全修。 / Zenshuu [01-12][R-ESRGAN 2160P WebRip HEVC-10bit][19.42 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/39893205f138449a4a146d9747d2f5ae59a29cf2</link>
+				<contentLength>20852066304</contentLength>
+				<pubDate>2025-04-07T17:38:30.669</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20852066304" url="https://mikanani.me/Download/20250407/39893205f138449a4a146d9747d2f5ae59a29cf2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
