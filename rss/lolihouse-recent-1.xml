@@ -76,5 +76,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="883257536" url="https://mikanani.me/Download/20250408/9f2a78cef31ab4d15227ed5d8183d6341a9f1388.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 搞笑漫画日和GO / Gag Manga Biyori GO - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5ef82209c2fbd16bfbc34902762527d6f176a5f1</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 搞笑漫画日和GO / Gag Manga Biyori GO - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 搞笑漫画日和GO / Gag Manga Biyori GO - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][54.07 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ef82209c2fbd16bfbc34902762527d6f176a5f1</link>
+				<contentLength>56696504</contentLength>
+				<pubDate>2025-04-08T11:06:06.693</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="56696504" url="https://mikanani.me/Download/20250408/5ef82209c2fbd16bfbc34902762527d6f176a5f1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
