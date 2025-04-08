@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[不当舔狗制作组] 黑执事 -绿之魔女篇- - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1ce9cabe1140a1c0d3d799e75712843f300dda34</link>
+			<title>[不当舔狗制作组] 黑执事 -绿之魔女篇- - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[不当舔狗制作组] 黑执事 -绿之魔女篇- - 01 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ce9cabe1140a1c0d3d799e75712843f300dda34</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-04-09T05:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250409/1ce9cabe1140a1c0d3d799e75712843f300dda34.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/63280148280a897e4be224c7d3a2b4364ceb4d4e</link>
 			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-04-08T13:09:52.296908</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="364904448" url="https://mikanani.me/Download/20250408/214433478dff79ccb3c6a4360ace5a96d66d89b9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/a4f7abd1498a009f14d36761e0c3ec6134c80707</link>
-			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01][1080p][繁日双语][468.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a4f7abd1498a009f14d36761e0c3ec6134c80707</link>
-				<contentLength>490859392</contentLength>
-				<pubDate>2025-04-08T12:46:30.503</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="490859392" url="https://mikanani.me/Download/20250408/a4f7abd1498a009f14d36761e0c3ec6134c80707.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
