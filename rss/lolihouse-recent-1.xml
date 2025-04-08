@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20250407/60552e03fc5d996a43e3ab80eb629b7415b1c13a.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/c863a31697ac24ea790c54871d33f56f62998774</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 异修罗 第二季 / Ishura S2 [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][5.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c863a31697ac24ea790c54871d33f56f62998774</link>
-				<contentLength>6120328192</contentLength>
-				<pubDate>2025-04-07T10:58:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6120328192" url="https://mikanani.me/Download/20250407/c863a31697ac24ea790c54871d33f56f62998774.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a66eccc8f5d5e5055c918e7ca2c0c6bf9adce32b</link>
 			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -111,6 +99,18 @@
 				<pubDate>2025-04-08T11:55:46.109</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="619205120" url="https://mikanani.me/Download/20250408/5d1cf4fdfe747d0069fde33fc74f1197c4b6b887.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 01 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/df5e79df75a358922d560cebbb289ea4d564b445</link>
+			<title>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 01 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 01 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][527.25 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/df5e79df75a358922d560cebbb289ea4d564b445</link>
+				<contentLength>552861696</contentLength>
+				<pubDate>2025-04-08T19:00:56.813</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="552861696" url="https://mikanani.me/Download/20250408/df5e79df75a358922d560cebbb289ea4d564b445.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
