@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 秘密的偶像公主 / Himitsu no AiPri [01-51 合集][WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d1967340cde95ddec56860e18ff9154e1fd0feaf</link>
-			<title>[LoliHouse] 秘密的偶像公主 / Himitsu no AiPri [01-51 合集][WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 秘密的偶像公主 / Himitsu no AiPri [01-51 合集][WebRip 1080p HEVC-10bit AAC][无字幕][52.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d1967340cde95ddec56860e18ff9154e1fd0feaf</link>
-				<contentLength>56371445760</contentLength>
-				<pubDate>2025-04-02T12:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="56371445760" url="https://mikanani.me/Download/20250402/d1967340cde95ddec56860e18ff9154e1fd0feaf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 01 (葛野篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2b5934ee9b4a5c81be2d26d751c31a6efe030ac6</link>
 			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 01 (葛野篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -507,6 +495,30 @@
 				<pubDate>2025-04-09T19:04:46.969</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="544840064" url="https://mikanani.me/Download/20250409/e969f1e664db70307ea67cb2ca9d672fa8f276b0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 01 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/fdaf2a44e1ecec76163a5525b1e74cbbbac30c74</link>
+			<title>[LoliHouse] Princess-Session Orchestra - 01 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra - 01 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[629.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fdaf2a44e1ecec76163a5525b1e74cbbbac30c74</link>
+				<contentLength>660120512</contentLength>
+				<pubDate>2025-04-09T20:02:19.731</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="660120512" url="https://mikanani.me/Download/20250409/fdaf2a44e1ecec76163a5525b1e74cbbbac30c74.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - [01-12合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/96cdba03607f487ec5b9eb9c5f2f107234b8c13a</link>
+			<title>[LoliHouse] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - [01-12合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 孤单一人的异世界攻略 / Hitoribocchi no Isekai Kouryaku - [01-12合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][6.92 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/96cdba03607f487ec5b9eb9c5f2f107234b8c13a</link>
+				<contentLength>7430293504</contentLength>
+				<pubDate>2025-04-09T19:23:40.119</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7430293504" url="https://mikanani.me/Download/20250409/96cdba03607f487ec5b9eb9c5f2f107234b8c13a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
