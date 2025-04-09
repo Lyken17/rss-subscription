@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP02 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
+			<link>https://mikanani.me/Home/Episode/8e8bd306d44a77e20fc5e418e017e0a1e057fb27</link>
+			<title>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP02 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
+			<description>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP02 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}[3.02 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e8bd306d44a77e20fc5e418e017e0a1e057fb27</link>
+				<contentLength>3242700288</contentLength>
+				<pubDate>2025-04-10T06:38:01.091</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3242700288" url="https://mikanani.me/Download/20250410/8e8bd306d44a77e20fc5e418e017e0a1e057fb27.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/67a6fbcbfd0325d05f271a6e97b512b64969be89</link>
 			<title>[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-09T12:55:50.647</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="323737344" url="https://mikanani.me/Download/20250409/1b79c94ed7317f3c13c8f9dcf38561a225527549.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 打了300年的史莱姆，不知不觉就练到了满级 第二季 / Slime Taoshite 300-nen: Sono Ni - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/aea10f3c8aef380bc1bad550f27a1fe8c06a7868</link>
-			<title>[黒ネズミたち] 打了300年的史莱姆，不知不觉就练到了满级 第二季 / Slime Taoshite 300-nen: Sono Ni - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 打了300年的史莱姆，不知不觉就练到了满级 第二季 / Slime Taoshite 300-nen: Sono Ni - 01 (B-Global 1920x1080 HEVC AAC MKV)[293.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aea10f3c8aef380bc1bad550f27a1fe8c06a7868</link>
-				<contentLength>307232768</contentLength>
-				<pubDate>2025-04-09T12:48:33.765028</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="307232768" url="https://mikanani.me/Download/20250409/aea10f3c8aef380bc1bad550f27a1fe8c06a7868.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
