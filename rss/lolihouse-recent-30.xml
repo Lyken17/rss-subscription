@@ -2224,5 +2224,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="306383424" url="https://mikanani.me/Download/20250410/06e731ab8381d197d0bc7284bfc3faacfd2fe90d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/35a7df2b4a6b131b6f6813c42ef21bbde61076e8</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][374.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35a7df2b4a6b131b6f6813c42ef21bbde61076e8</link>
+				<contentLength>392754624</contentLength>
+				<pubDate>2025-04-10T22:17:12.06</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="392754624" url="https://mikanani.me/Download/20250410/35a7df2b4a6b131b6f6813c42ef21bbde61076e8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
