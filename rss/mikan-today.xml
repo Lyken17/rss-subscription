@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][38][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/98170105b5f46b3a71cb5183bce235b6c2d3cd93</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][38][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][38][繁体][1080P][MP4][280.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/98170105b5f46b3a71cb5183bce235b6c2d3cd93</link>
+				<contentLength>294198976</contentLength>
+				<pubDate>2025-04-12T02:32:08.794</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="294198976" url="https://mikanani.me/Download/20250412/98170105b5f46b3a71cb5183bce235b6c2d3cd93.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][38][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/d8a85e478a974c59ef854d03c2192e7b52385e23</link>
+			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][38][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][38][简体][1080P][MP4][280.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d8a85e478a974c59ef854d03c2192e7b52385e23</link>
+				<contentLength>294104608</contentLength>
+				<pubDate>2025-04-12T02:31:53.511</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="294104608" url="https://mikanani.me/Download/20250412/d8a85e478a974c59ef854d03c2192e7b52385e23.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 02 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c281a6fe0a0698257dc35eb7d01fbaafe675c6e0</link>
 			<title>[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 02 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-04-10T21:01:05.60885</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20250410/99d38fa802c8f69e1d2a77cc2f556c630064cd6a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][210][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/555802c40d038ea2b922876515ed23a6377cc6f2</link>
-			<title>[GM-Team][国漫][完美世界][Perfect World][2021][210][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][完美世界][Perfect World][2021][210][AVC][GB][1080P][447.55 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/555802c40d038ea2b922876515ed23a6377cc6f2</link>
-				<contentLength>469290176</contentLength>
-				<pubDate>2025-04-10T20:33:38.193</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="469290176" url="https://mikanani.me/Download/20250410/555802c40d038ea2b922876515ed23a6377cc6f2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  忍者与杀手的两人生活 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/d99067dd59e374c00d832bcd2e94db5e627e7bc1</link>
-			<title>[ANi]  忍者与杀手的两人生活 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  忍者与杀手的两人生活 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][413.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d99067dd59e374c00d832bcd2e94db5e627e7bc1</link>
-				<contentLength>433061888</contentLength>
-				<pubDate>2025-04-10T20:31:08.143354</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="433061888" url="https://mikanani.me/Download/20250410/d99067dd59e374c00d832bcd2e94db5e627e7bc1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
