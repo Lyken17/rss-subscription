@@ -1072,5 +1072,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="620022976" url="https://mikanani.me/Download/20250411/6ea9a7b9ad68a481aca554ed0aca5eb511b392ba.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/697c20577e1e014c5bc7ef1f64d6e451570cbaa0</link>
+			<title>[VCB-Studio] Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta 10-bit 1080p HEVC BDRip [Fin][18.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/697c20577e1e014c5bc7ef1f64d6e451570cbaa0</link>
+				<contentLength>19434727424</contentLength>
+				<pubDate>2025-04-11T12:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19434727424" url="https://mikanani.me/Download/20250411/697c20577e1e014c5bc7ef1f64d6e451570cbaa0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
