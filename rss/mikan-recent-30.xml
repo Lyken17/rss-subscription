@@ -26716,5 +26716,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4305704960" url="https://mikanani.me/Download/20250412/49fe63bb6d046791787d80043369d3d44a2ce738.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_HEVC][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/3a34e83f49845e1e3e9c3d18c28bde5f64096bae</link>
+			<title>【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_HEVC][简繁内封]</title>
+			<description>【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_HEVC][简繁内封][383.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a34e83f49845e1e3e9c3d18c28bde5f64096bae</link>
+				<contentLength>402349088</contentLength>
+				<pubDate>2025-04-12T18:42:49.453</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="402349088" url="https://mikanani.me/Download/20250412/3a34e83f49845e1e3e9c3d18c28bde5f64096bae.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_AVC][繁体]</guid>
+			<link>https://mikanani.me/Home/Episode/1a013bde36c4b433396edce954c7559e65306585</link>
+			<title>【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_AVC][繁体]</title>
+			<description>【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_AVC][繁体][250.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1a013bde36c4b433396edce954c7559e65306585</link>
+				<contentLength>262353712</contentLength>
+				<pubDate>2025-04-12T18:42:47.065</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="262353712" url="https://mikanani.me/Download/20250412/1a013bde36c4b433396edce954c7559e65306585.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_AVC][简体]</guid>
+			<link>https://mikanani.me/Home/Episode/7aef0a4f5409968ad20a719231eda383b5fdc56a</link>
+			<title>【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_AVC][简体]</title>
+			<description>【千夏字幕组】【随兴旅_ZatsuTabi】[第01话][1080p_AVC][简体][250.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7aef0a4f5409968ad20a719231eda383b5fdc56a</link>
+				<contentLength>262290800</contentLength>
+				<pubDate>2025-04-12T18:42:44.827</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="262290800" url="https://mikanani.me/Download/20250412/7aef0a4f5409968ad20a719231eda383b5fdc56a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
