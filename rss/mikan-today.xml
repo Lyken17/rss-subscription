@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][01][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/cb43bb1e67a55a81d316a952eac8b0b34eb5c298</link>
+			<title>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][01][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][01][1080p][简日双语][招募翻译时轴][536.51 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb43bb1e67a55a81d316a952eac8b0b34eb5c298</link>
+				<contentLength>562571520</contentLength>
+				<pubDate>2025-04-13T04:45:42.832</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="562571520" url="https://mikanani.me/Download/20250413/cb43bb1e67a55a81d316a952eac8b0b34eb5c298.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][02][繁体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/cf4caeb8a0c45a60c2857c6becd91ee006f29f42</link>
 			<title>【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][02][繁体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-12T02:01:34.336245</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="318976832" url="https://mikanani.me/Download/20250412/6deb566983b38afc6ba0d9460ff80a0ba3b6f378.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  炎炎消防队 参之章 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/c12790f08d1359d71aeb112304caa5eb4d91c81e</link>
-			<title>[ANi]  炎炎消防队 参之章 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  炎炎消防队 参之章 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][404.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c12790f08d1359d71aeb112304caa5eb4d91c81e</link>
-				<contentLength>424044128</contentLength>
-				<pubDate>2025-04-12T01:25:59.632702</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="424044128" url="https://mikanani.me/Download/20250412/c12790f08d1359d71aeb112304caa5eb4d91c81e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
