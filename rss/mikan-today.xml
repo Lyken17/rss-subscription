@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f11b015283f74a34e55a39f50cc9ae24b93c973f</link>
+			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 12 (ABEMA 1920x1080 AVC AAC MP4)[729.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f11b015283f74a34e55a39f50cc9ae24b93c973f</link>
+				<contentLength>764621632</contentLength>
+				<pubDate>2025-04-12T10:31:00.543592</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="764621632" url="https://mikanani.me/Download/20250412/f11b015283f74a34e55a39f50cc9ae24b93c973f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7e382366f7b6dc20213c50d60c54b823715b1281</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-10T22:01:07.398345</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745537536" url="https://mikanani.me/Download/20250410/781b91a9126e98c46bdaaf59239fc19626421193.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Erai-raws] 月出之战/Moonrise - 01 ~ 18 (NF) [720p]</guid>
-			<link>https://mikanani.me/Home/Episode/136018b55b9964f2f1f0f69ef59926dd110d66b7</link>
-			<title>[Erai-raws] 月出之战/Moonrise - 01 ~ 18 (NF) [720p]</title>
-			<description>[Erai-raws] 月出之战/Moonrise - 01 ~ 18 (NF) [720p][7.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/136018b55b9964f2f1f0f69ef59926dd110d66b7</link>
-				<contentLength>7945689600</contentLength>
-				<pubDate>2025-04-10T22:01:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250410/136018b55b9964f2f1f0f69ef59926dd110d66b7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
