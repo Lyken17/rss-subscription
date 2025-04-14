@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【b站弹幕】凡人修仙传1—138集bilibili/哔哩哔哩弹幕（仅弹幕[ass]）</guid>
+			<link>https://mikanani.me/Home/Episode/878ea1ff2b5737cc9b64f2d45cb613aefba494f2</link>
+			<title>【b站弹幕】凡人修仙传1—138集bilibili/哔哩哔哩弹幕（仅弹幕[ass]）</title>
+			<description>【b站弹幕】凡人修仙传1—138集bilibili/哔哩哔哩弹幕（仅弹幕[ass]）[51.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/878ea1ff2b5737cc9b64f2d45cb613aefba494f2</link>
+				<contentLength>54421096</contentLength>
+				<pubDate>2025-04-15T06:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="54421096" url="https://mikanani.me/Download/20250415/878ea1ff2b5737cc9b64f2d45cb613aefba494f2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][01][1080p][繁日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/90ca3767ec29c7d1cacc58f841b65d432e7865a1</link>
 			<title>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][01][1080p][繁日双语][招募翻译时轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-14T00:20:34.72608</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="170603312" url="https://mikanani.me/Download/20250414/4afcb9ca44632e94b2284922248b28b6a8b7f082.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 魔女守护者 / Witch Watch - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/a14104daa0293426e898d999916635f923876f8d</link>
-			<title>[Skymoon-Raws] 魔女守护者 / Witch Watch - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 魔女守护者 / Witch Watch - 02 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][444.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a14104daa0293426e898d999916635f923876f8d</link>
-				<contentLength>465672608</contentLength>
-				<pubDate>2025-04-14T00:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="465672608" url="https://mikanani.me/Download/20250414/a14104daa0293426e898d999916635f923876f8d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
