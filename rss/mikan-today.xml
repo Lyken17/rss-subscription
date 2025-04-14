@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 无职转生Ⅱ ～到了异世界就拿出真本事～ / Mushoku Tensei II Isekai Ittara Honki Dasu (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/1e5b05a8e41c7bbab7cca59ac424e4bb28279c9d</link>
+			<title>[H-Enc] 无职转生Ⅱ ～到了异世界就拿出真本事～ / Mushoku Tensei II Isekai Ittara Honki Dasu (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 无职转生Ⅱ ～到了异世界就拿出真本事～ / Mushoku Tensei II Isekai Ittara Honki Dasu (BDRip 1080p HEVC FLAC)[54.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1e5b05a8e41c7bbab7cca59ac424e4bb28279c9d</link>
+				<contentLength>58411556864</contentLength>
+				<pubDate>2025-04-14T14:54:59.173604</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="58411556864" url="https://mikanani.me/Download/20250414/1e5b05a8e41c7bbab7cca59ac424e4bb28279c9d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[MingY&amp;Billion Meta Lab] mono女孩 / mono [01][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/c628f5b8e37f71373a641eb14e3b12dab07c1fea</link>
 			<title>[MingY&amp;Billion Meta Lab] mono女孩 / mono [01][1080p][简繁日内封]</title>
@@ -1131,18 +1143,6 @@
 				<pubDate>2025-04-13T16:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="118593944" url="https://mikanani.me/Download/20250413/e51b3c51d33eae2e3d9acdc087cab8d8ca09231e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][01][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/7264b97c1d96677b1c089b0a7587a759c41453fb</link>
-			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][01][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][01][1080p][繁日双语][534.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7264b97c1d96677b1c089b0a7587a759c41453fb</link>
-				<contentLength>560359040</contentLength>
-				<pubDate>2025-04-13T16:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="560359040" url="https://mikanani.me/Download/20250413/7264b97c1d96677b1c089b0a7587a759c41453fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
