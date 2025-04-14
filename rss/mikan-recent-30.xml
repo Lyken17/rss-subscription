@@ -27352,5 +27352,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="456445120" url="https://mikanani.me/Download/20250414/251b56b9b62df6d5093a692a65d46442d1684a4f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][王者天下 第四季/Kingdom S4][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](キングダム S4)</guid>
+			<link>https://mikanani.me/Home/Episode/cb3707663e5c5a1224efbf6aba86759e2aa34b2d</link>
+			<title>[DBD-Raws][王者天下 第四季/Kingdom S4][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](キングダム S4)</title>
+			<description>[DBD-Raws][王者天下 第四季/Kingdom S4][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](キングダム S4)[20.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb3707663e5c5a1224efbf6aba86759e2aa34b2d</link>
+				<contentLength>22441203712</contentLength>
+				<pubDate>2025-04-14T12:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22441203712" url="https://mikanani.me/Download/20250414/cb3707663e5c5a1224efbf6aba86759e2aa34b2d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
