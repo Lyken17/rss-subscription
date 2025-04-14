@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【b站弹幕】牧神记1—26集bilibili/哔哩哔哩弹幕（仅弹幕）[ass]</guid>
+			<link>https://mikanani.me/Home/Episode/e0c9715b5fc296ff8fce4222063a5ca317b18daf</link>
+			<title>【b站弹幕】牧神记1—26集bilibili/哔哩哔哩弹幕（仅弹幕）[ass]</title>
+			<description>【b站弹幕】牧神记1—26集bilibili/哔哩哔哩弹幕（仅弹幕）[ass][7.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e0c9715b5fc296ff8fce4222063a5ca317b18daf</link>
+				<contentLength>7654605</contentLength>
+				<pubDate>2025-04-15T06:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7654605" url="https://mikanani.me/Download/20250415/e0c9715b5fc296ff8fce4222063a5ca317b18daf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【b站弹幕】凡人修仙传1—138集bilibili/哔哩哔哩弹幕（仅弹幕[ass]）</guid>
 			<link>https://mikanani.me/Home/Episode/878ea1ff2b5737cc9b64f2d45cb613aefba494f2</link>
 			<title>【b站弹幕】凡人修仙传1—138集bilibili/哔哩哔哩弹幕（仅弹幕[ass]）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-14T00:20:44.483261</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="171127600" url="https://mikanani.me/Download/20250414/82df9b37565bd6915c087a7bf1682e30886cabf9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4afcb9ca44632e94b2284922248b28b6a8b7f082</link>
-			<title>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 02 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 02 (Baha 1920x1080 AVC AAC MP4)[162.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4afcb9ca44632e94b2284922248b28b6a8b7f082</link>
-				<contentLength>170603312</contentLength>
-				<pubDate>2025-04-14T00:20:34.72608</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="170603312" url="https://mikanani.me/Download/20250414/4afcb9ca44632e94b2284922248b28b6a8b7f082.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
