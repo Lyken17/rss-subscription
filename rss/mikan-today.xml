@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 58 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/cc094cf48260917f549f58d8d279237b11a9756e</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 58 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 58 (B-Global Donghua 1920x1080 HEVC AAC MKV)[265.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cc094cf48260917f549f58d8d279237b11a9756e</link>
+				<contentLength>278187200</contentLength>
+				<pubDate>2025-04-14T09:01:37.41988</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="278187200" url="https://mikanani.me/Download/20250414/cc094cf48260917f549f58d8d279237b11a9756e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 青箱 / Ao no Hako / Blue Box - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/c63e20c8ffeb1af94c88f6b50184b5aeb8c283cf</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 青箱 / Ao no Hako / Blue Box - 25 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
@@ -1131,18 +1143,6 @@
 				<pubDate>2025-04-13T13:35:54.608</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="401803840" url="https://mikanani.me/Download/20250413/f997aa7b69647ded1937b707526c80fa212dfeec.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [02][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/28f3a7adbc6bf5e63c9c93df8523bc14bf1fe3d3</link>
-			<title>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [02][1080p][简日内嵌]</title>
-			<description>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [02][1080p][简日内嵌][383.23 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/28f3a7adbc6bf5e63c9c93df8523bc14bf1fe3d3</link>
-				<contentLength>401845792</contentLength>
-				<pubDate>2025-04-13T13:35:20.879</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401845792" url="https://mikanani.me/Download/20250413/28f3a7adbc6bf5e63c9c93df8523bc14bf1fe3d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
