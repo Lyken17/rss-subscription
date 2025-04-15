@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc</link>
-			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][421.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc</link>
-				<contentLength>442394208</contentLength>
-				<pubDate>2025-03-16T12:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="442394208" url="https://mikanani.me/Download/20250316/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/fa75d9adad3aeacce819d92e4c9f23857cf7dbf9</link>
 			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2391,6 +2379,18 @@
 				<pubDate>2025-04-15T19:43:16.891</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="298099680" url="https://mikanani.me/Download/20250415/de359b48b5261c55fba00f8323df9a71bc997788.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 03 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7fcad58290ea1b67b3a90e84f6a20705ceca7910</link>
+			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 03 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 03 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][315.92 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7fcad58290ea1b67b3a90e84f6a20705ceca7910</link>
+				<contentLength>331266144</contentLength>
+				<pubDate>2025-04-15T21:25:59.709</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331266144" url="https://mikanani.me/Download/20250415/7fcad58290ea1b67b3a90e84f6a20705ceca7910.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

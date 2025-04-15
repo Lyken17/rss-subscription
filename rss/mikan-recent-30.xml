@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 535(retake (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3a969bb17907e26cd45976cacb3b45adfe254571</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 535(retake (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 535(retake (B-Global 3840x2160 HEVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3a969bb17907e26cd45976cacb3b45adfe254571</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-03-16T13:06:36.82474</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250316/3a969bb17907e26cd45976cacb3b45adfe254571.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc</link>
-			<title>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;LoliHouse] 青之驱魔师 终夜篇 / Ao no Exorcist Yosuga-hen - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][421.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc</link>
-				<contentLength>442394208</contentLength>
-				<pubDate>2025-03-16T12:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="442394208" url="https://mikanani.me/Download/20250316/2027dc8be45e2d4b3ec2d0177bb684c1ee1dbfbc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【极影字幕·毁片党】 这家公司里有我喜欢的人 第10集 GB_CN HEVC_opus 1080p</guid>
 			<link>https://mikanani.me/Home/Episode/10fad8d993b116682236e1d56f8af6fb465209ab</link>
 			<title>【极影字幕·毁片党】 这家公司里有我喜欢的人 第10集 GB_CN HEVC_opus 1080p</title>
@@ -27519,6 +27495,18 @@
 				<pubDate>2025-04-15T19:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="11639194" url="https://mikanani.me/Download/20250415/464fe36553d991281f78f14b8dfe75971b19d623.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 03 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7fcad58290ea1b67b3a90e84f6a20705ceca7910</link>
+			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 03 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 03 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][315.92 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7fcad58290ea1b67b3a90e84f6a20705ceca7910</link>
+				<contentLength>331266144</contentLength>
+				<pubDate>2025-04-15T21:25:59.709</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331266144" url="https://mikanani.me/Download/20250415/7fcad58290ea1b67b3a90e84f6a20705ceca7910.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
