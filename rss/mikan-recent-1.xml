@@ -1372,5 +1372,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391255168" url="https://mikanani.me/Download/20250416/c26d21b4be7c70efd0424542b1a6c328dc233372.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 02 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/b7a3db06baeaf8e2c826291f4d0a148c065fcce1</link>
+			<title>[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 02 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 02 (ABEMA 1280x720 AVC AAC MP4)[372.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b7a3db06baeaf8e2c826291f4d0a148c065fcce1</link>
+				<contentLength>390594560</contentLength>
+				<pubDate>2025-04-16T21:00:47.122395</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="390594560" url="https://mikanani.me/Download/20250416/b7a3db06baeaf8e2c826291f4d0a148c065fcce1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
