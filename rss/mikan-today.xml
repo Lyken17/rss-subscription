@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] Kakushite Makina San /  快藏好！玛琪娜同学!! - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][V2][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/ce731e67f0d77f54142f1afb109a8c4f110abf94</link>
+			<title>[ANi] Kakushite Makina San /  快藏好！玛琪娜同学!! - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][V2][MP4]</title>
+			<description>[ANi] Kakushite Makina San /  快藏好！玛琪娜同学!! - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][V2][MP4][163.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce731e67f0d77f54142f1afb109a8c4f110abf94</link>
+				<contentLength>171022752</contentLength>
+				<pubDate>2025-04-16T09:26:55.710625</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="171022752" url="https://mikanani.me/Download/20250416/ce731e67f0d77f54142f1afb109a8c4f110abf94.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 02 [bilibili WEB-DL 1080P AVC AAC][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/2d511f7ba6ac1598fb7a71a3e870657f908e2e1e</link>
 			<title>[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 02 [bilibili WEB-DL 1080P AVC AAC][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-15T01:30:49.070895</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="280703808" url="https://mikanani.me/Download/20250415/fb0dc387991759a261c5cf62a8836e481930a910.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 再见，地球 第一季 / Bye Bye, Earth - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9af3b303e6734c96975bd4e64719d71f0190351c</link>
-			<title>[黒ネズミたち] 再见，地球 第一季 / Bye Bye, Earth - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 再见，地球 第一季 / Bye Bye, Earth - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9af3b303e6734c96975bd4e64719d71f0190351c</link>
-				<contentLength>746690944</contentLength>
-				<pubDate>2025-04-15T01:01:53.506066</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20250415/9af3b303e6734c96975bd4e64719d71f0190351c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
