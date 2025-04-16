@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [02][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/be4ab8813b0dc018d0f105fd38c9ddfcb1d065d6</link>
+			<title>[桜都字幕组] 魔女守护者 / Witch Watch [02][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] 魔女守护者 / Witch Watch [02][1080p][繁体内嵌][578.62 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/be4ab8813b0dc018d0f105fd38c9ddfcb1d065d6</link>
+				<contentLength>606727040</contentLength>
+				<pubDate>2025-04-16T19:05:34.866</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="606727040" url="https://mikanani.me/Download/20250416/be4ab8813b0dc018d0f105fd38c9ddfcb1d065d6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [02][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/b309ccc4a082eaeb9b7ba2a8f961536c2d6c9100</link>
+			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [02][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [02][1080p][简体内嵌][579.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b309ccc4a082eaeb9b7ba2a8f961536c2d6c9100</link>
+				<contentLength>607251328</contentLength>
+				<pubDate>2025-04-16T18:41:30.117</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="607251328" url="https://mikanani.me/Download/20250416/b309ccc4a082eaeb9b7ba2a8f961536c2d6c9100.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][机动战士钢弹 GQuuuuuuX][Mobile Suit Gundam GQuuuuuuX][02][WebRip][1080P][AVC 8bit][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/6cbfbda3c0a9abc08cee96d749720c0515c15fe6</link>
 			<title>[SweetSub][机动战士钢弹 GQuuuuuuX][Mobile Suit Gundam GQuuuuuuX][02][WebRip][1080P][AVC 8bit][繁日双语]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-04-15T13:58:26.192</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="559520128" url="https://mikanani.me/Download/20250415/66950767e3f4e335982b1fb6369f2dd675e4bdb5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ab10b7238405556110028debffe09654ab75f236</link>
-			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)[639.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ab10b7238405556110028debffe09654ab75f236</link>
-				<contentLength>670354624</contentLength>
-				<pubDate>2025-04-15T11:03:19.040751</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="670354624" url="https://mikanani.me/Download/20250415/ab10b7238405556110028debffe09654ab75f236.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 02 - [简体内嵌][H264 8bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/e861d8b3d0e90380fc558d7c5ea263af20f98f41</link>
-			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 02 - [简体内嵌][H264 8bit 1080P]</title>
-			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 02 - [简体内嵌][H264 8bit 1080P][361.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e861d8b3d0e90380fc558d7c5ea263af20f98f41</link>
-				<contentLength>379269952</contentLength>
-				<pubDate>2025-04-15T10:19:52.761456</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="379269952" url="https://mikanani.me/Download/20250415/e861d8b3d0e90380fc558d7c5ea263af20f98f41.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
