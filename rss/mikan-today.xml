@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语][383.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004</link>
+				<contentLength>401929664</contentLength>
+				<pubDate>2025-04-18T05:45:34.8</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="401929664" url="https://mikanani.me/Download/20250418/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/778c859bd362e67eee985065c32a293e12afcda5</link>
 			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-16T23:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="441974784" url="https://mikanani.me/Download/20250416/2efa5269f47e205007203f74756428448c66707a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Your Forma /  记忆缝线 YOUR FORMA - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/04be24ad3d4175cf6ed30747799a1310b5c524cd</link>
-			<title>[ANi] Your Forma /  记忆缝线 YOUR FORMA - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Your Forma /  记忆缝线 YOUR FORMA - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][517.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/04be24ad3d4175cf6ed30747799a1310b5c524cd</link>
-				<contentLength>542742912</contentLength>
-				<pubDate>2025-04-16T23:16:45.069707</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="542742912" url="https://mikanani.me/Download/20250416/04be24ad3d4175cf6ed30747799a1310b5c524cd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
