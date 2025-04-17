@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/778c859bd362e67eee985065c32a293e12afcda5</link>
+			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][236.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/778c859bd362e67eee985065c32a293e12afcda5</link>
+				<contentLength>248072112</contentLength>
+				<pubDate>2025-04-18T04:24:01.349</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248072112" url="https://mikanani.me/Download/20250418/778c859bd362e67eee985065c32a293e12afcda5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/12b4eb5fede1da7992406e69167b8a8fb43a3426</link>
 			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-16T23:16:45.069707</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542742912" url="https://mikanani.me/Download/20250416/04be24ad3d4175cf6ed30747799a1310b5c524cd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [01][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/1fd9a59fa0895fedf13ac0884ddbb7b5fe1566a1</link>
-			<title>[MingY] 莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [01][1080p][繁日内嵌]</title>
-			<description>[MingY] 莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [01][1080p][繁日内嵌][38.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1fd9a59fa0895fedf13ac0884ddbb7b5fe1566a1</link>
-				<contentLength>40863008</contentLength>
-				<pubDate>2025-04-16T23:04:24.714</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="40863008" url="https://mikanani.me/Download/20250416/1fd9a59fa0895fedf13ac0884ddbb7b5fe1566a1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
