@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="942030208" url="https://mikanani.me/Download/20250418/48c472a6c243207a9a99a3cc64746704a2d9ebac.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8b48ed27624fc66f9834479173df17cef63d598b</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][250.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b48ed27624fc66f9834479173df17cef63d598b</link>
+				<contentLength>262427120</contentLength>
+				<pubDate>2025-04-18T20:23:07.376</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="262427120" url="https://mikanani.me/Download/20250418/8b48ed27624fc66f9834479173df17cef63d598b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
