@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/478fe472f69c6f870e168ad3b409db8cfa5f31f7</link>
+			<title>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)[728.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/478fe472f69c6f870e168ad3b409db8cfa5f31f7</link>
+				<contentLength>763363328</contentLength>
+				<pubDate>2025-04-18T10:03:31.453631</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="763363328" url="https://mikanani.me/Download/20250418/478fe472f69c6f870e168ad3b409db8cfa5f31f7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/14811b0828241ea449c328aae64e0afb32713aeb</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)[372.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14811b0828241ea449c328aae64e0afb32713aeb</link>
+				<contentLength>390175136</contentLength>
+				<pubDate>2025-04-18T09:41:29.989518</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="390175136" url="https://mikanani.me/Download/20250418/14811b0828241ea449c328aae64e0afb32713aeb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004</link>
 			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-04-16T23:18:26.787</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="716764608" url="https://mikanani.me/Download/20250416/c0700442e7b8b2f4f82504a7409dd23c8c3fe5b8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 记忆缝线 YOUR FORMA / Your Forma - 03 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/cd8123f62765604fa0f563dd590d5f7345d4a808</link>
-			<title>[黒ネズミたち] 记忆缝线 YOUR FORMA / Your Forma - 03 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 记忆缝线 YOUR FORMA / Your Forma - 03 (Baha 1920x1080 AVC AAC MP4)[517.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cd8123f62765604fa0f563dd590d5f7345d4a808</link>
-				<contentLength>542218624</contentLength>
-				<pubDate>2025-04-16T23:18:00.027341</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="542218624" url="https://mikanani.me/Download/20250416/cd8123f62765604fa0f563dd590d5f7345d4a808.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]停止!! 云雀 / Stop!! Hibari-kun! [01] [WebRip] [1440x1080 AAC] [CHS]</guid>
-			<link>https://mikanani.me/Home/Episode/2efa5269f47e205007203f74756428448c66707a</link>
-			<title>[黑白字幕组]停止!! 云雀 / Stop!! Hibari-kun! [01] [WebRip] [1440x1080 AAC] [CHS]</title>
-			<description>[黑白字幕组]停止!! 云雀 / Stop!! Hibari-kun! [01] [WebRip] [1440x1080 AAC] [CHS][421.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2efa5269f47e205007203f74756428448c66707a</link>
-				<contentLength>441974784</contentLength>
-				<pubDate>2025-04-16T23:18:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441974784" url="https://mikanani.me/Download/20250416/2efa5269f47e205007203f74756428448c66707a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
