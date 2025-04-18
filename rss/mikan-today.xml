@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[华盟字幕社&amp;千夏字幕组&amp;VCB-Studio] 狼与香辛料 行商邂逅贤狼 / Spice and Wolf：Merchant Meets the Wise Wolf / 狼と香辛料 MERCHANT MEETS THE WISE WOLF 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/113409e16869f1ec6f9a0f3f08bcf40166e06cd1</link>
+			<title>[华盟字幕社&amp;千夏字幕组&amp;VCB-Studio] 狼与香辛料 行商邂逅贤狼 / Spice and Wolf：Merchant Meets the Wise Wolf / 狼と香辛料 MERCHANT MEETS THE WISE WOLF 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[华盟字幕社&amp;千夏字幕组&amp;VCB-Studio] 狼与香辛料 行商邂逅贤狼 / Spice and Wolf：Merchant Meets the Wise Wolf / 狼と香辛料 MERCHANT MEETS THE WISE WOLF 10-bit 1080p HEVC BDRip [Fin][35.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/113409e16869f1ec6f9a0f3f08bcf40166e06cd1</link>
+				<contentLength>38547333120</contentLength>
+				<pubDate>2025-04-18T12:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="38547333120" url="https://mikanani.me/Download/20250418/113409e16869f1ec6f9a0f3f08bcf40166e06cd1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c4bcb9d8f29f916b891903e8126c684db78758b3</link>
 			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-16T23:19:34.808475</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="275251200" url="https://mikanani.me/Download/20250416/9c70881e0da6c112e222bc6efa47e848dfa9a20a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [01v2][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/ee6ceb0fc2192efcec0855e6aefaf83d0e1aabf5</link>
-			<title>[桜都字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [01v2][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [01v2][1080p][繁体内嵌][683.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ee6ceb0fc2192efcec0855e6aefaf83d0e1aabf5</link>
-				<contentLength>716596864</contentLength>
-				<pubDate>2025-04-16T23:19:13.469</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="716596864" url="https://mikanani.me/Download/20250416/ee6ceb0fc2192efcec0855e6aefaf83d0e1aabf5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
