@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="262427120" url="https://mikanani.me/Download/20250418/8b48ed27624fc66f9834479173df17cef63d598b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d5bb429a632820de51a0cea12e9817e501935e9e</link>
+			<title>[LoliHouse] 防风少年 / WIND BREAKER - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 防风少年 / WIND BREAKER - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][415.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d5bb429a632820de51a0cea12e9817e501935e9e</link>
+				<contentLength>435484096</contentLength>
+				<pubDate>2025-04-18T22:56:08.793</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="435484096" url="https://mikanani.me/Download/20250418/d5bb429a632820de51a0cea12e9817e501935e9e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
