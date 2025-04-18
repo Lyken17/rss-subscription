@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/64d04035ef773fa6e61184ce3e902ef06ebf6b4c</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT][1.05 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64d04035ef773fa6e61184ce3e902ef06ebf6b4c</link>
+				<contentLength>1127428864</contentLength>
+				<pubDate>2025-04-18T18:32:18.106</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250418/64d04035ef773fa6e61184ce3e902ef06ebf6b4c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/48c472a6c243207a9a99a3cc64746704a2d9ebac</link>
 			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-17T00:46:11.08368</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="587517120" url="https://mikanani.me/Download/20250417/d3d77800b522caf5d59fccca164fa857f6255030.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 03 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0f014965ffdaecceb6a835e8951de5ac78d7d11b</link>
-			<title>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 03 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 03 (Baha 1920x1080 AVC AAC MP4)[559.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0f014965ffdaecceb6a835e8951de5ac78d7d11b</link>
-				<contentLength>587097728</contentLength>
-				<pubDate>2025-04-17T00:45:59.62032</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="587097728" url="https://mikanani.me/Download/20250417/0f014965ffdaecceb6a835e8951de5ac78d7d11b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

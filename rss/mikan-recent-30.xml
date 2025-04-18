@@ -27196,5 +27196,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="942030208" url="https://mikanani.me/Download/20250418/48c472a6c243207a9a99a3cc64746704a2d9ebac.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/64d04035ef773fa6e61184ce3e902ef06ebf6b4c</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 04 [粤日双语+内封繁体中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT][1.05 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64d04035ef773fa6e61184ce3e902ef06ebf6b4c</link>
+				<contentLength>1127428864</contentLength>
+				<pubDate>2025-04-18T18:32:18.106</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250418/64d04035ef773fa6e61184ce3e902ef06ebf6b4c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
