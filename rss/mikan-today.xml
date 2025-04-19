@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/73d8b51b9b1eabfac9fa46d1c41df7be4f14c3bc</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][528.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73d8b51b9b1eabfac9fa46d1c41df7be4f14c3bc</link>
+				<contentLength>554466048</contentLength>
+				<pubDate>2025-04-20T03:16:56.961</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="554466048" url="https://mikanani.me/Download/20250420/73d8b51b9b1eabfac9fa46d1c41df7be4f14c3bc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][03][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/31a65539e219d012bacfe60305ad8eed09491a73</link>
 			<title>【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][03][简体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-19T01:08:06.37</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="782143296" url="https://mikanani.me/Download/20250419/5e3d8f1202feeecc1c82096b26291ffbbeac7e25.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[樱桃花字幕组]男女之间的友情存在吗？（不，不存在！！） /  Danjo no Yuujou wa Seiritsu suru - 01 (1080P) [简日双语] [B8131EFC]</guid>
-			<link>https://mikanani.me/Home/Episode/6cd3a390b3c9186dd7b007feaaf93de9f1f7bc24</link>
-			<title>[樱桃花字幕组]男女之间的友情存在吗？（不，不存在！！） /  Danjo no Yuujou wa Seiritsu suru - 01 (1080P) [简日双语] [B8131EFC]</title>
-			<description>[樱桃花字幕组]男女之间的友情存在吗？（不，不存在！！） /  Danjo no Yuujou wa Seiritsu suru - 01 (1080P) [简日双语] [B8131EFC][381.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6cd3a390b3c9186dd7b007feaaf93de9f1f7bc24</link>
-				<contentLength>399612320</contentLength>
-				<pubDate>2025-04-19T00:45:05.576332</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="399612320" url="https://mikanani.me/Download/20250419/6cd3a390b3c9186dd7b007feaaf93de9f1f7bc24.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
