@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004</link>
-			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][03][1080p][繁日双语][383.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004</link>
-				<contentLength>401929664</contentLength>
-				<pubDate>2025-04-18T05:45:34.8</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401929664" url="https://mikanani.me/Download/20250418/4b0ef6f8d50c5390b2a4ab2a2187ffedc94e8004.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/478fe472f69c6f870e168ad3b409db8cfa5f31f7</link>
 			<title>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -759,6 +747,30 @@
 				<pubDate>2025-04-19T11:57:29.138292</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="737463488" url="https://mikanani.me/Download/20250419/5710971caf5ca3a54c0d79b76b14249d14210617.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][090-091][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/c9c9624bd79e4021aaa93f7ccc1603fdfe49ff61</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][090-091][简体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][090-091][简体][1080P][MP4][928.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c9c9624bd79e4021aaa93f7ccc1603fdfe49ff61</link>
+				<contentLength>973497984</contentLength>
+				<pubDate>2025-04-19T13:21:05.212</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="973497984" url="https://mikanani.me/Download/20250419/c9c9624bd79e4021aaa93f7ccc1603fdfe49ff61.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][090-091][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/3f06c9459e447dab83a079979c9a9ece195b56fd</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][090-091][繁体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][090-091][繁体][1080P][MP4][927.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f06c9459e447dab83a079979c9a9ece195b56fd</link>
+				<contentLength>973026112</contentLength>
+				<pubDate>2025-04-19T13:20:42.567</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="973026112" url="https://mikanani.me/Download/20250419/3f06c9459e447dab83a079979c9a9ece195b56fd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
