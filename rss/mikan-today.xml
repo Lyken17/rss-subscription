@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/2f997e8200cdd08d168c3ed2a45d1a5ad2302b01</link>
+			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 31 (B-Global Donghua 1920x1080 HEVC AAC MKV)[775.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2f997e8200cdd08d168c3ed2a45d1a5ad2302b01</link>
+				<contentLength>812751232</contentLength>
+				<pubDate>2025-04-19T11:03:53.300296</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="812751232" url="https://mikanani.me/Download/20250419/2f997e8200cdd08d168c3ed2a45d1a5ad2302b01.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/862efd0633a93399d1e6cfaffa3f08ffd05fa876</link>
 			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」 / Cardfight!! Vanguard: Divinez Deluxe-hen - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-17T20:35:01.856</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="416043488" url="https://mikanani.me/Download/20250417/8af1e2b15d4886737f45326012bfdefd34066343.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  忍者与杀手的两人生活 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/cf2273b66c446b2a7ef1cc8c77fcc0b949876c92</link>
-			<title>[ANi]  忍者与杀手的两人生活 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  忍者与杀手的两人生活 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][314.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cf2273b66c446b2a7ef1cc8c77fcc0b949876c92</link>
-				<contentLength>329252864</contentLength>
-				<pubDate>2025-04-17T20:31:04.226411</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="329252864" url="https://mikanani.me/Download/20250417/cf2273b66c446b2a7ef1cc8c77fcc0b949876c92.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
