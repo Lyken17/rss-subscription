@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5636f74d4c89aa9c3f7522aab37282e42d609044</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][691.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5636f74d4c89aa9c3f7522aab37282e42d609044</link>
+				<contentLength>725310528</contentLength>
+				<pubDate>2025-04-20T05:02:42.125</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725310528" url="https://mikanani.me/Download/20250420/5636f74d4c89aa9c3f7522aab37282e42d609044.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/73d8b51b9b1eabfac9fa46d1c41df7be4f14c3bc</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-19T01:23:59.345695</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="551236416" url="https://mikanani.me/Download/20250419/e449d05ec3e0b7105fd3e94b948d7503a180081c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][01-02][1080P][HEVC_Ma10P][简繁外挂][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/5e3d8f1202feeecc1c82096b26291ffbbeac7e25</link>
-			<title>【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][01-02][1080P][HEVC_Ma10P][简繁外挂][MKV]</title>
-			<description>【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][01-02][1080P][HEVC_Ma10P][简繁外挂][MKV][745.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5e3d8f1202feeecc1c82096b26291ffbbeac7e25</link>
-				<contentLength>782143296</contentLength>
-				<pubDate>2025-04-19T01:08:06.37</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="782143296" url="https://mikanani.me/Download/20250419/5e3d8f1202feeecc1c82096b26291ffbbeac7e25.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

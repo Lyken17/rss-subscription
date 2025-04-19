@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8b48ed27624fc66f9834479173df17cef63d598b</link>
-			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 灰色: 幻影扳机 / グリザイア: ファントムトリガー / Grisaia: Phantom Trigger - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][250.27 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8b48ed27624fc66f9834479173df17cef63d598b</link>
-				<contentLength>262427120</contentLength>
-				<pubDate>2025-04-18T20:23:07.376</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="262427120" url="https://mikanani.me/Download/20250418/8b48ed27624fc66f9834479173df17cef63d598b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d5bb429a632820de51a0cea12e9817e501935e9e</link>
 			<title>[LoliHouse] 防风少年 / WIND BREAKER - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -183,6 +171,18 @@
 				<pubDate>2025-04-20T03:16:56.961</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="554466048" url="https://mikanani.me/Download/20250420/73d8b51b9b1eabfac9fa46d1c41df7be4f14c3bc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5636f74d4c89aa9c3f7522aab37282e42d609044</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][691.71 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5636f74d4c89aa9c3f7522aab37282e42d609044</link>
+				<contentLength>725310528</contentLength>
+				<pubDate>2025-04-20T05:02:42.125</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725310528" url="https://mikanani.me/Download/20250420/5636f74d4c89aa9c3f7522aab37282e42d609044.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
