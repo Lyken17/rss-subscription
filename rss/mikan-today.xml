@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 59 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/38f185f26703e4a21f9212dc16e87b314c451ec7</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 59 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 59 (B-Global Donghua 1920x1080 HEVC AAC MKV)[277.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38f185f26703e4a21f9212dc16e87b314c451ec7</link>
+				<contentLength>290455552</contentLength>
+				<pubDate>2025-04-19T09:01:37.986432</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="290455552" url="https://mikanani.me/Download/20250419/38f185f26703e4a21f9212dc16e87b314c451ec7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第68-70集 暗夜男爵杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P] 第68集/第69集/第70集</guid>
 			<link>https://mikanani.me/Home/Episode/e0d58580476348c87e2ca53a68441005cd8ecc30</link>
 			<title>[银色子弹字幕组][名侦探柯南][第68-70集 暗夜男爵杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P] 第68集/第69集/第70集</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-17T20:30:56.175282</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="328518848" url="https://mikanani.me/Download/20250417/e90a8424df5d6de881438ab8db5ac05302c91458.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d3dd13b4f5ff85cec7403320f11ed64ef496cb01</link>
-			<title>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
-			<description>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][757.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d3dd13b4f5ff85cec7403320f11ed64ef496cb01</link>
-				<contentLength>794715776</contentLength>
-				<pubDate>2025-04-17T20:21:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="794715776" url="https://mikanani.me/Download/20250417/d3dd13b4f5ff85cec7403320f11ed64ef496cb01.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
