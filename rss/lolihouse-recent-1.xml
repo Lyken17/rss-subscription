@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="448538880" url="https://mikanani.me/Download/20250419/4bc83998f6a7e980ddc2fe59a25e877f1629f28d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/44537a86b91b877ddd33c53fa6fdc6d9dc76ea0b</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][528.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44537a86b91b877ddd33c53fa6fdc6d9dc76ea0b</link>
+				<contentLength>554466048</contentLength>
+				<pubDate>2025-04-20T01:04:04.896</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="554466048" url="https://mikanani.me/Download/20250420/44537a86b91b877ddd33c53fa6fdc6d9dc76ea0b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
