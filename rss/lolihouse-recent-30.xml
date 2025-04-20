@@ -2452,5 +2452,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="648575744" url="https://mikanani.me/Download/20250420/2b1115718cf2a6154f1e6f1692fed9ee1f6c3e84.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 13 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/65edec301a1ce95ca9c2a3d503e83681fc9378e7</link>
+			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 13 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</title>
+			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 13 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][664.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/65edec301a1ce95ca9c2a3d503e83681fc9378e7</link>
+				<contentLength>697198208</contentLength>
+				<pubDate>2025-04-20T21:50:18.127</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="697198208" url="https://mikanani.me/Download/20250420/65edec301a1ce95ca9c2a3d503e83681fc9378e7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
