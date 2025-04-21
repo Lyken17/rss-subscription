@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 持续狩猎史莱姆三百年，不知不觉就练到LV MAX 其二 / Slime300 S2 - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d9d4d7cd316bb9727f73ea51a2ddeed25cbb4281</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 持续狩猎史莱姆三百年，不知不觉就练到LV MAX 其二 / Slime300 S2 - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 持续狩猎史莱姆三百年，不知不觉就练到LV MAX 其二 / Slime300 S2 - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][300.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d9d4d7cd316bb9727f73ea51a2ddeed25cbb4281</link>
+				<contentLength>314918816</contentLength>
+				<pubDate>2025-04-21T20:24:22.944</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="314918816" url="https://mikanani.me/Download/20250421/d9d4d7cd316bb9727f73ea51a2ddeed25cbb4281.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[霜庭云花Sub][BanG Dream! Ave Mujica][01-13 合集][1080P][AVC AAC][繁日双语][WebRip]</guid>
 			<link>https://mikanani.me/Home/Episode/8f14d39698a65521691553bffc566e824ad4ea0a</link>
 			<title>[霜庭云花Sub][BanG Dream! Ave Mujica][01-13 合集][1080P][AVC AAC][繁日双语][WebRip]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-20T19:31:03.395755</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="519988832" url="https://mikanani.me/Download/20250420/6a5190126a793f4c0f48a05eb66bd290040b345c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生为白猪贵族的我，运用前世记忆养育雏鸟般的弟弟 / Shirohiyo - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4fb4639074958d4b3891ddc2e012df530250a5d0</link>
-			<title>[黒ネズミたち] 转生为白猪贵族的我，运用前世记忆养育雏鸟般的弟弟 / Shirohiyo - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 转生为白猪贵族的我，运用前世记忆养育雏鸟般的弟弟 / Shirohiyo - 01 (Baha 1920x1080 AVC AAC MP4)[495.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4fb4639074958d4b3891ddc2e012df530250a5d0</link>
-				<contentLength>519569408</contentLength>
-				<pubDate>2025-04-20T19:30:59.375627</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="519569408" url="https://mikanani.me/Download/20250420/4fb4639074958d4b3891ddc2e012df530250a5d0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
