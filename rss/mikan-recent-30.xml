@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
-			<link>https://mikanani.me/Home/Episode/8bae78000e0fb211bd308ec63876f606d4d84c3b</link>
-			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
-			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]美妙宠物 光之美少女！ / Wonderful Precure! - 46 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[718.79 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8bae78000e0fb211bd308ec63876f606d4d84c3b</link>
-				<contentLength>753705920</contentLength>
-				<pubDate>2025-03-22T20:35:01.441</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="753705920" url="https://mikanani.me/Download/20250322/8bae78000e0fb211bd308ec63876f606d4d84c3b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/25863841bc6d0df76ffd389e859a2a85a68188c4</link>
 			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][139][HEVC][GB][4K]</title>
@@ -28335,6 +28323,18 @@
 				<pubDate>2025-04-22T03:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20250422/2a4d8be285f66ce5a662a0e3c4f245d02e203436.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日]</guid>
+			<link>https://mikanani.me/Home/Episode/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日][225.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac</link>
+				<contentLength>236453888</contentLength>
+				<pubDate>2025-04-22T04:47:39.118093</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="236453888" url="https://mikanani.me/Download/20250422/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

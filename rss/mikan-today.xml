@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日]</guid>
+			<link>https://mikanani.me/Home/Episode/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日][225.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac</link>
+				<contentLength>236453888</contentLength>
+				<pubDate>2025-04-22T04:47:39.118093</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="236453888" url="https://mikanani.me/Download/20250422/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 剧场版「进击的巨人」完结篇 THE LAST ATTACK [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)</guid>
 			<link>https://mikanani.me/Home/Episode/2a4d8be285f66ce5a662a0e3c4f245d02e203436</link>
 			<title>[Skymoon-Raws] 剧场版「进击的巨人」完结篇 THE LAST ATTACK [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-21T00:20:44.322461</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="166409008" url="https://mikanani.me/Download/20250421/dbebeecdb867db8b520d36d521b26d72e5d88b6b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 03 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/359d2ed09f725b8cca78119c811c3be4c9725a5c</link>
-			<title>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 03 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 03 (Baha 1920x1080 AVC AAC MP4)[158.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/359d2ed09f725b8cca78119c811c3be4c9725a5c</link>
-				<contentLength>165884720</contentLength>
-				<pubDate>2025-04-21T00:20:30.045976</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="165884720" url="https://mikanani.me/Download/20250421/359d2ed09f725b8cca78119c811c3be4c9725a5c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
