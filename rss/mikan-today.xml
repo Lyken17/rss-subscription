@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 剧场版「进击的巨人」完结篇 THE LAST ATTACK [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)</guid>
+			<link>https://mikanani.me/Home/Episode/2a4d8be285f66ce5a662a0e3c4f245d02e203436</link>
+			<title>[Skymoon-Raws] 剧场版「进击的巨人」完结篇 THE LAST ATTACK [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)</title>
+			<description>[Skymoon-Raws] 剧场版「进击的巨人」完结篇 THE LAST ATTACK [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)[3.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2a4d8be285f66ce5a662a0e3c4f245d02e203436</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2025-04-22T03:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20250422/2a4d8be285f66ce5a662a0e3c4f245d02e203436.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][05][TVRip][简繁日语字幕][1080P][HEVC MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/814ef9cd2f83aa1d68f219423fa6807ab988079e</link>
 			<title>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][05][TVRip][简繁日语字幕][1080P][HEVC MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-21T00:20:30.045976</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="165884720" url="https://mikanani.me/Download/20250421/359d2ed09f725b8cca78119c811c3be4c9725a5c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Lazarus /  LAZARUS 拉撒路 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/93012673fe67761a3b46da23b068ea17dee2ae67</link>
-			<title>[ANi] Lazarus /  LAZARUS 拉撒路 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Lazarus /  LAZARUS 拉撒路 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][607.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/93012673fe67761a3b46da23b068ea17dee2ae67</link>
-				<contentLength>636590464</contentLength>
-				<pubDate>2025-04-21T00:16:07.209475</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="636590464" url="https://mikanani.me/Download/20250421/93012673fe67761a3b46da23b068ea17dee2ae67.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
