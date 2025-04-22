@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 竹轮战纪～用我的可爱来侵略地球～ / Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/067dd4661d4b3682c439591b52bbe358725de205</link>
+			<title>[黒ネズミたち] 竹轮战纪～用我的可爱来侵略地球～ / Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 竹轮战纪～用我的可爱来侵略地球～ / Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku - 03 (ABEMA 1920x1080 AVC AAC MP4)[75.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/067dd4661d4b3682c439591b52bbe358725de205</link>
+				<contentLength>78748056</contentLength>
+				<pubDate>2025-04-23T01:20:24.471265</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="78748056" url="https://mikanani.me/Download/20250423/067dd4661d4b3682c439591b52bbe358725de205.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我与尼特女忍者的莫名同居生活 / NEET Kunoichi to Nazeka Dousei Hajimemashita - 15 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/25b9e5e1b08724f3c1b8ec2b5da1a150230a85c7</link>
 			<title>[黒ネズミたち] 我与尼特女忍者的莫名同居生活 / NEET Kunoichi to Nazeka Dousei Hajimemashita - 15 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-21T23:08:56.124</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="265782560" url="https://mikanani.me/Download/20250421/51d20a23653ab6ffd0682eecc3ddaf113336c671.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 正义使者: 我的英雄学院之非法英雄 / Vigilante: Boku no Hero Academia Illegals - 03 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c64ad5cfc301423b69793436c6585d4d765f140d</link>
-			<title>[黒ネズミたち] 正义使者: 我的英雄学院之非法英雄 / Vigilante: Boku no Hero Academia Illegals - 03 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 正义使者: 我的英雄学院之非法英雄 / Vigilante: Boku no Hero Academia Illegals - 03 (B-Global 1920x1080 HEVC AAC MKV)[443.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c64ad5cfc301423b69793436c6585d4d765f140d</link>
-				<contentLength>464519168</contentLength>
-				<pubDate>2025-04-21T23:02:22.889246</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="464519168" url="https://mikanani.me/Download/20250421/c64ad5cfc301423b69793436c6585d4d765f140d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
