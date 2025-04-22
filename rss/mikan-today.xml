@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/273dc91dd0eff6d4f944fd227dfdc24dc3eaf327</link>
+			<title>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★04★1920x1080★AVC AAC MP4★繁体中文[276MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/273dc91dd0eff6d4f944fd227dfdc24dc3eaf327</link>
+				<contentLength>289406976</contentLength>
+				<pubDate>2025-04-23T04:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="289406976" url="https://mikanani.me/Download/20250423/273dc91dd0eff6d4f944fd227dfdc24dc3eaf327.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[AnimeRep]莉可丽丝 朋友是时间小偷。/Lycoris Recoil - Friends are thieves of time. [简中][H264]</guid>
 			<link>https://mikanani.me/Home/Episode/70d42351deed217c56c734e1fbb6e88064290b2f</link>
 			<title>[AnimeRep]莉可丽丝 朋友是时间小偷。/Lycoris Recoil - Friends are thieves of time. [简中][H264]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-21T23:17:39.021</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="300563840" url="https://mikanani.me/Download/20250421/ac6f6616a3bb3ef4ad3a20b3f3174107967c087c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [39][WebRip][HEVC_AAC][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/7bd1337b0da54cee8f204204efb18f695b8c7f0e</link>
-			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [39][WebRip][HEVC_AAC][简日内嵌]</title>
-			<description>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [39][WebRip][HEVC_AAC][简日内嵌][330.26 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7bd1337b0da54cee8f204204efb18f695b8c7f0e</link>
-				<contentLength>346302720</contentLength>
-				<pubDate>2025-04-21T23:17:33.563</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="346302720" url="https://mikanani.me/Download/20250421/7bd1337b0da54cee8f204204efb18f695b8c7f0e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
