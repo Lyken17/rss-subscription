@@ -1552,5 +1552,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250423/799abc37c82d15a8964a521d6e7dcfb591332c0e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/b55f2a07ef1d16375c341eb3d3b276117e948164</link>
+			<title>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★04★1920x1080★AVC AAC MP4★繁体中文[388.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b55f2a07ef1d16375c341eb3d3b276117e948164</link>
+				<contentLength>407686336</contentLength>
+				<pubDate>2025-04-23T03:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="407686336" url="https://mikanani.me/Download/20250423/b55f2a07ef1d16375c341eb3d3b276117e948164.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
