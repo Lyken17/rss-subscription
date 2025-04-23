@@ -664,5 +664,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="427588320" url="https://mikanani.me/Download/20250423/7fa6db7b6fa73bc85e0fa1dbd7156640dcf55a56.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 39 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/26d1c1227e4ea79bf3bc349d2b67a63fd22a665a</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 39 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 39 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][317.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26d1c1227e4ea79bf3bc349d2b67a63fd22a665a</link>
+				<contentLength>332597824</contentLength>
+				<pubDate>2025-04-24T00:18:12.952</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="332597824" url="https://mikanani.me/Download/20250424/26d1c1227e4ea79bf3bc349d2b67a63fd22a665a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
