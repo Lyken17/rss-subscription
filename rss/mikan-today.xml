@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">メダリスト (JPBD Vol.1 Re-encode) 金牌得主 舞冰的祈愿 Medalist</guid>
+			<link>https://mikanani.me/Home/Episode/7d5ddeec56a165ca14ac9f606c2b1791710c548a</link>
+			<title>メダリスト (JPBD Vol.1 Re-encode) 金牌得主 舞冰的祈愿 Medalist</title>
+			<description>メダリスト (JPBD Vol.1 Re-encode) 金牌得主 舞冰的祈愿 Medalist[13.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d5ddeec56a165ca14ac9f606c2b1791710c548a</link>
+				<contentLength>14602889216</contentLength>
+				<pubDate>2025-04-23T08:44:57.032411</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14602889216" url="https://mikanani.me/Download/20250423/7d5ddeec56a165ca14ac9f606c2b1791710c548a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★04★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/273dc91dd0eff6d4f944fd227dfdc24dc3eaf327</link>
 			<title>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★04★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-21T23:26:14.822864</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250421/06c208c5003c1577961d7fc9382d4718e6544d32.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [39][WebRip][HEVC_AAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/ac6f6616a3bb3ef4ad3a20b3f3174107967c087c</link>
-			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [39][WebRip][HEVC_AAC][简繁日内封]</title>
-			<description>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [39][WebRip][HEVC_AAC][简繁日内封][286.64 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ac6f6616a3bb3ef4ad3a20b3f3174107967c087c</link>
-				<contentLength>300563840</contentLength>
-				<pubDate>2025-04-21T23:17:39.021</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="300563840" url="https://mikanani.me/Download/20250421/ac6f6616a3bb3ef4ad3a20b3f3174107967c087c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
