@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/76cd5ab7f5f8faccf5b43996339067e665f0f5be</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][562.98 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/76cd5ab7f5f8faccf5b43996339067e665f0f5be</link>
+				<contentLength>590327296</contentLength>
+				<pubDate>2025-04-23T18:33:50.306</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="590327296" url="https://mikanani.me/Download/20250423/76cd5ab7f5f8faccf5b43996339067e665f0f5be.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a8f677ad7678185b9b3517f0139bb75f9efa5c46</link>
 			<title>[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-22T10:02:22.612075</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="475948640" url="https://mikanani.me/Download/20250422/f90b6052be7785e4d03d8ed9394577a2e7c6b61c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 03 - [简体内嵌][H264 8bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/f2ac6816f94bdbecacd907b860133f7c6bc0c2a3</link>
-			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 03 - [简体内嵌][H264 8bit 1080P]</title>
-			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 03 - [简体内嵌][H264 8bit 1080P][361.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f2ac6816f94bdbecacd907b860133f7c6bc0c2a3</link>
-				<contentLength>379165088</contentLength>
-				<pubDate>2025-04-22T09:05:51.676845</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="379165088" url="https://mikanani.me/Download/20250422/f2ac6816f94bdbecacd907b860133f7c6bc0c2a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
