@@ -28108,5 +28108,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20250424/0ad069e6f75326ac78130a398aa38d213a50f742.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[1080P][DBD-Raws][阿拉蕾 (1997)/Dr. Slump][55-59TV][Remux][AC3][MKV](ドクタースランプ)</guid>
+			<link>https://mikanani.me/Home/Episode/8f1b19df972189455cb49893228f6e357a844c46</link>
+			<title>[1080P][DBD-Raws][阿拉蕾 (1997)/Dr. Slump][55-59TV][Remux][AC3][MKV](ドクタースランプ)</title>
+			<description>[1080P][DBD-Raws][阿拉蕾 (1997)/Dr. Slump][55-59TV][Remux][AC3][MKV](ドクタースランプ)[19.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f1b19df972189455cb49893228f6e357a844c46</link>
+				<contentLength>20401094656</contentLength>
+				<pubDate>2025-04-24T16:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20401094656" url="https://mikanani.me/Download/20250424/8f1b19df972189455cb49893228f6e357a844c46.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[1080P][DBD-Raws][阿拉蕾 (1997)/Dr. Slump][55-59TV][HEVC-10bit][AC3][MKV](ドクタースランプ)</guid>
+			<link>https://mikanani.me/Home/Episode/05c2052f35fe59550c7cb315dc887e1be85aa19b</link>
+			<title>[1080P][DBD-Raws][阿拉蕾 (1997)/Dr. Slump][55-59TV][HEVC-10bit][AC3][MKV](ドクタースランプ)</title>
+			<description>[1080P][DBD-Raws][阿拉蕾 (1997)/Dr. Slump][55-59TV][HEVC-10bit][AC3][MKV](ドクタースランプ)[4.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05c2052f35fe59550c7cb315dc887e1be85aa19b</link>
+				<contentLength>4831838208</contentLength>
+				<pubDate>2025-04-24T16:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20250424/05c2052f35fe59550c7cb315dc887e1be85aa19b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
