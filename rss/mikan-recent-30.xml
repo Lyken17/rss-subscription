@@ -28252,5 +28252,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20250425/b49a5b525c8b8a43b80fc486d4d6f5722ac600dd.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/ed86b5e80e47600117a6a3a408427c05a39296e8</link>
+			<title>[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][简体内嵌][2.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed86b5e80e47600117a6a3a408427c05a39296e8</link>
+				<contentLength>2791728640</contentLength>
+				<pubDate>2025-04-25T13:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20250425/ed86b5e80e47600117a6a3a408427c05a39296e8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/bceec1fbf6c8bfca71f77257ff7b0ffcd4dc9074</link>
+			<title>[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][繁体内嵌][2.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bceec1fbf6c8bfca71f77257ff7b0ffcd4dc9074</link>
+				<contentLength>2791728640</contentLength>
+				<pubDate>2025-04-25T13:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20250425/bceec1fbf6c8bfca71f77257ff7b0ffcd4dc9074.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/85a0e0938e5bd16c26108dc8326209179d6bd297</link>
+			<title>[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][简繁内封]</title>
+			<description>[桜都字幕组] 剧场版 赛马娘 新时代之门 / Gekijouban Pretty Derby Beginning of a New Era [1080p][简繁内封][2.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/85a0e0938e5bd16c26108dc8326209179d6bd297</link>
+				<contentLength>2899102976</contentLength>
+				<pubDate>2025-04-25T13:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2899102976" url="https://mikanani.me/Download/20250425/85a0e0938e5bd16c26108dc8326209179d6bd297.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
