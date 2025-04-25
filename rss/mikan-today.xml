@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][04][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/400542b4bbecf0298fa5c7330a2f83fb254e2c86</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][04][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][04][1080p][简日双语][招募翻译时轴][514.65 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/400542b4bbecf0298fa5c7330a2f83fb254e2c86</link>
+				<contentLength>539649664</contentLength>
+				<pubDate>2025-04-26T03:52:49.912</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="539649664" url="https://mikanani.me/Download/20250426/400542b4bbecf0298fa5c7330a2f83fb254e2c86.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 男女之间的友情存在吗？（不，不存在!!） - 04 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/252f8be7ef850135099a2d3082240a1504047a45</link>
 			<title>[沸班亚马制作组] 男女之间的友情存在吗？（不，不存在!!） - 04 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-24T23:51:10.675</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="325771584" url="https://mikanani.me/Download/20250424/31efa33af8d8516776868bcad23d33a342c96e5f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[千夏字幕组][小市民系列_Shoushimin Series][第13话][1080p_AVC][繁体][招募新人]</guid>
-			<link>https://mikanani.me/Home/Episode/50a3b8fd4e6ec9ae8392582fb476e856d47c4f8b</link>
-			<title>[千夏字幕组][小市民系列_Shoushimin Series][第13话][1080p_AVC][繁体][招募新人]</title>
-			<description>[千夏字幕组][小市民系列_Shoushimin Series][第13话][1080p_AVC][繁体][招募新人][310.24 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/50a3b8fd4e6ec9ae8392582fb476e856d47c4f8b</link>
-				<contentLength>325310208</contentLength>
-				<pubDate>2025-04-24T23:50:45.988</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="325310208" url="https://mikanani.me/Download/20250424/50a3b8fd4e6ec9ae8392582fb476e856d47c4f8b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
