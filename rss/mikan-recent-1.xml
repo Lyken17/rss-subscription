@@ -1348,5 +1348,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="408000928" url="https://mikanani.me/Download/20250425/12cef0e3f3a49a9c1941dd2dca4c3d6f8bdd48c2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 03 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1122969e6fb995fd9bc2c38f47266f5162fa7bfd</link>
+			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 03 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 03 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1122969e6fb995fd9bc2c38f47266f5162fa7bfd</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2025-04-25T18:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250425/1122969e6fb995fd9bc2c38f47266f5162fa7bfd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
