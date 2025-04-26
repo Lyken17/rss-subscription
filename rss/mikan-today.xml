@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/216547e6e7652f408e834b57c7dbdaae3b068ca2</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 04 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/216547e6e7652f408e834b57c7dbdaae3b068ca2</link>
+				<contentLength>346868928</contentLength>
+				<pubDate>2025-04-27T07:13:05.025401</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20250427/216547e6e7652f408e834b57c7dbdaae3b068ca2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 记忆缝线 - 01 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/28da1e286e1936205741e0be4f0a97fe7beb36bd</link>
 			<title>[沸班亚马制作组] 记忆缝线 - 01 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-26T14:47:26.703</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="345516288" url="https://mikanani.me/Download/20250426/b6e027359c2582421e7fcf1202aab6ee53c255a7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made [02][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/55fd6c6d4288bc980e3d46fd5367c31f57e12fe7</link>
-			<title>[北宇治字幕组] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made [02][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made [02][WebRip][HEVC_AAC][繁日内嵌][329.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55fd6c6d4288bc980e3d46fd5367c31f57e12fe7</link>
-				<contentLength>345358976</contentLength>
-				<pubDate>2025-04-26T14:46:56.812</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="345358976" url="https://mikanani.me/Download/20250426/55fd6c6d4288bc980e3d46fd5367c31f57e12fe7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
