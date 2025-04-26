@@ -1048,5 +1048,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="501313696" url="https://mikanani.me/Download/20250426/4ed6b29e639c6339079ec2ed55e796f2c7478b88.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[TOC] 推理要在晚餐后 [04][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/04406b6f68076c5350133db03e5228baef096018</link>
+			<title>[TOC] 推理要在晚餐后 [04][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] 推理要在晚餐后 [04][1080P][AVC AAC][CHT][MP4][703.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/04406b6f68076c5350133db03e5228baef096018</link>
+				<contentLength>737463488</contentLength>
+				<pubDate>2025-04-26T11:34:00.860361</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="737463488" url="https://mikanani.me/Download/20250426/04406b6f68076c5350133db03e5228baef096018.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 火凤燎原 / The Ravages of Time - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8e7e38e1a4c1970ddaf016fd1e6256dce6b239bc</link>
+			<title>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 火凤燎原 / The Ravages of Time - 32 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e7e38e1a4c1970ddaf016fd1e6256dce6b239bc</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-04-26T11:20:19.406517</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250426/8e7e38e1a4c1970ddaf016fd1e6256dce6b239bc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
