@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
-			<title>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[喵萌奶茶屋&amp;VCB-Studio] 迪阿姆帝国物语 / 堤亚穆帝国物语 / Tearmoon Teikoku Monogatari / ティアムーン帝国物语 10-bit 1080p HEVC BDRip [Fin][9.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5bb346db7af7740035a9a8ebf720a6f8f6ee631d</link>
-				<contentLength>10093172736</contentLength>
-				<pubDate>2025-03-27T12:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20250327/5bb346db7af7740035a9a8ebf720a6f8f6ee631d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</guid>
 			<link>https://mikanani.me/Home/Episode/f8cb5fb771bd3f248ca0a74f591b892de544c87a</link>
 			<title>[DBD-Raws][转生史莱姆日记/Tensura Nikki Tensei Shitara Slime Datta Ken][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](転スラ日记 転生したらスライムだった件)</title>
@@ -28491,6 +28479,18 @@
 				<pubDate>2025-04-26T17:31:20.326</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="873180672" url="https://mikanani.me/Download/20250426/e2f9d219104837dded149df69ed38c1aebf61a12.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1160 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/92d9757f459beb7e092bb6c70ef3cef5c0f6354a</link>
+			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1160 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1160 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92d9757f459beb7e092bb6c70ef3cef5c0f6354a</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-04-26T19:32:01.149033</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250426/92d9757f459beb7e092bb6c70ef3cef5c0f6354a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
