@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="529384064" url="https://mikanani.me/Download/20250427/112d51e282db881a0a3e9e7bc9b20a8d3ff79f60.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] Everyday Host - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/28023b78a8595c2c8b9dde8ea4fb30a1cfea75a0</link>
+			<title>[奶²&amp;LoliHouse] Everyday Host - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] Everyday Host - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][78.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/28023b78a8595c2c8b9dde8ea4fb30a1cfea75a0</link>
+				<contentLength>82638272</contentLength>
+				<pubDate>2025-04-27T16:26:24.928</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="82638272" url="https://mikanani.me/Download/20250427/28023b78a8595c2c8b9dde8ea4fb30a1cfea75a0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
