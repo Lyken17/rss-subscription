@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20250328/2bdce97866eeb69bfafb077ee0e734a3b49e3f75.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e6ac7dec0a814607e4f9645c04b283081f7cc4a0</link>
-			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[481.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e6ac7dec0a814607e4f9645c04b283081f7cc4a0</link>
-				<contentLength>504365056</contentLength>
-				<pubDate>2025-03-28T11:02:29.711073</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504365056" url="https://mikanani.me/Download/20250328/e6ac7dec0a814607e4f9645c04b283081f7cc4a0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[S1百综字幕组]BanG Dream! Ave Mujica [13][2160p][Bilibili][Web-DL][HDR][HEVC_AAC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/a9d47ee2534b624c3e3629ac989409d838f7548e</link>
 			<title>[S1百综字幕组]BanG Dream! Ave Mujica [13][2160p][Bilibili][Web-DL][HDR][HEVC_AAC][简日双语]</title>
@@ -29187,6 +29175,42 @@
 				<pubDate>2025-04-27T17:42:45.105</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="408189664" url="https://mikanani.me/Download/20250427/a2724b05ec536ef3da8e678c087a7c8e6c3e7a95.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][03][HEVC][x265 10bit][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/a62b689c80c1a27dc7394071f1ad3df42ce3c4af</link>
+			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][03][HEVC][x265 10bit][1080p][简日双语]</title>
+			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋][03][HEVC][x265 10bit][1080p][简日双语][390.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a62b689c80c1a27dc7394071f1ad3df42ce3c4af</link>
+				<contentLength>409154368</contentLength>
+				<pubDate>2025-04-27T19:11:58.018729</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="409154368" url="https://mikanani.me/Download/20250427/a62b689c80c1a27dc7394071f1ad3df42ce3c4af.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/176f1162f6f44210f8f34aa9606bc82878511c31</link>
+			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][繁日内嵌]</title>
+			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][繁日内嵌][295.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/176f1162f6f44210f8f34aa9606bc82878511c31</link>
+				<contentLength>309780800</contentLength>
+				<pubDate>2025-04-27T19:08:13.525</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="309780800" url="https://mikanani.me/Download/20250427/176f1162f6f44210f8f34aa9606bc82878511c31.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6533355b62bfb15f966aa597548d7dce1257fa0a</link>
+			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][简日内嵌]</title>
+			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][简日内嵌][295.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6533355b62bfb15f966aa597548d7dce1257fa0a</link>
+				<contentLength>309696928</contentLength>
+				<pubDate>2025-04-27T19:07:58.595</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="309696928" url="https://mikanani.me/Download/20250427/6533355b62bfb15f966aa597548d7dce1257fa0a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
