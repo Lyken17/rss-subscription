@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5636f74d4c89aa9c3f7522aab37282e42d609044</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 01v2 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][691.71 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5636f74d4c89aa9c3f7522aab37282e42d609044</link>
-				<contentLength>725310528</contentLength>
-				<pubDate>2025-04-20T05:02:42.125</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="725310528" url="https://mikanani.me/Download/20250420/5636f74d4c89aa9c3f7522aab37282e42d609044.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6138df50edabe79116a221ac7fed3619a8e17533</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -507,6 +495,18 @@
 				<pubDate>2025-04-27T09:50:44.521</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="707348416" url="https://mikanani.me/Download/20250427/c682d6d53c966452b2fa8618b4132c75862df257.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] mono女孩 / mono - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/db0ac6c560805d076fa85c6c09a5674350d51cf4</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] mono女孩 / mono - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] mono女孩 / mono - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][301.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/db0ac6c560805d076fa85c6c09a5674350d51cf4</link>
+				<contentLength>316009344</contentLength>
+				<pubDate>2025-04-27T13:03:36.044</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="316009344" url="https://mikanani.me/Download/20250427/db0ac6c560805d076fa85c6c09a5674350d51cf4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
