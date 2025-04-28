@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][03][HEVC][x265 10bit][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/a62b689c80c1a27dc7394071f1ad3df42ce3c4af</link>
-			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][03][HEVC][x265 10bit][1080p][简日双语]</title>
-			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋][03][HEVC][x265 10bit][1080p][简日双语][390.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a62b689c80c1a27dc7394071f1ad3df42ce3c4af</link>
-				<contentLength>409154368</contentLength>
-				<pubDate>2025-04-27T19:11:58.018729</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="409154368" url="https://mikanani.me/Download/20250427/a62b689c80c1a27dc7394071f1ad3df42ce3c4af.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/176f1162f6f44210f8f34aa9606bc82878511c31</link>
-			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][繁日内嵌]</title>
-			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][繁日内嵌][295.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/176f1162f6f44210f8f34aa9606bc82878511c31</link>
-				<contentLength>309780800</contentLength>
-				<pubDate>2025-04-27T19:08:13.525</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="309780800" url="https://mikanani.me/Download/20250427/176f1162f6f44210f8f34aa9606bc82878511c31.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/6533355b62bfb15f966aa597548d7dce1257fa0a</link>
-			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][简日内嵌]</title>
-			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [14][1080p][简日内嵌][295.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6533355b62bfb15f966aa597548d7dce1257fa0a</link>
-				<contentLength>309696928</contentLength>
-				<pubDate>2025-04-27T19:07:58.595</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="309696928" url="https://mikanani.me/Download/20250427/6533355b62bfb15f966aa597548d7dce1257fa0a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d622bbf21ea9af43f782efea43482c815f335616</link>
 			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1683,6 +1647,18 @@
 				<pubDate>2025-04-29T01:30:48.200108</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="315935936" url="https://mikanani.me/Download/20250429/20f58d3e85ac4cce8d720a08bafeabeb5532af2b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 28 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/52bfba744df42911d6668c4b6596ef2bf54bcde5</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 28 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 28 (ABEMA 1920x1080 AVC AAC MP4)[45.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/52bfba744df42911d6668c4b6596ef2bf54bcde5</link>
+				<contentLength>47710208</contentLength>
+				<pubDate>2025-04-29T02:35:29.908349</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47710208" url="https://mikanani.me/Download/20250429/52bfba744df42911d6668c4b6596ef2bf54bcde5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
