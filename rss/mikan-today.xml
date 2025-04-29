@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f7eb431d5afaab6166bae40895df5864fa0aeeb4</link>
+			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 04 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7eb431d5afaab6166bae40895df5864fa0aeeb4</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-04-30T03:04:47.37218</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250430/f7eb431d5afaab6166bae40895df5864fa0aeeb4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★05★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/a0b0d1b0faa752dc44051be1e40d06fdcc849d0f</link>
+			<title>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★05★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★05★1920x1080★AVC AAC MP4★繁体中文[371.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a0b0d1b0faa752dc44051be1e40d06fdcc849d0f</link>
+				<contentLength>389650848</contentLength>
+				<pubDate>2025-04-30T02:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="389650848" url="https://mikanani.me/Download/20250430/a0b0d1b0faa752dc44051be1e40d06fdcc849d0f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 02 [CR WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a99ccf1190a61f9b77e5759a6fdb6ad51b1362b0</link>
 			<title>[沸班亚马制作组] 夏日口袋 - 02 [CR WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2025-04-28T21:35:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="527014304" url="https://mikanani.me/Download/20250428/1c0c2dca31f5a3560513034552e45a02d061acaa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[梦蓝字幕组]New Doraemon[857][2025.04.05][AVC][1080P][GB_JP][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/62dd7fa8c25b921bdcb8a316224d8848d69ac6b6</link>
-			<title>[梦蓝字幕组]New Doraemon[857][2025.04.05][AVC][1080P][GB_JP][MP4]</title>
-			<description>[梦蓝字幕组]New Doraemon[857][2025.04.05][AVC][1080P][GB_JP][MP4][451MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/62dd7fa8c25b921bdcb8a316224d8848d69ac6b6</link>
-				<contentLength>472907776</contentLength>
-				<pubDate>2025-04-28T21:34:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="472907776" url="https://mikanani.me/Download/20250428/62dd7fa8c25b921bdcb8a316224d8848d69ac6b6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 随兴旅－That's Journey－ / Zatsu Tabi: That's Journey - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c9a126078e2d1090b23c3087f348799433b56410</link>
-			<title>[黒ネズミたち] 随兴旅－That's Journey－ / Zatsu Tabi: That's Journey - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 随兴旅－That's Journey－ / Zatsu Tabi: That's Journey - 04 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c9a126078e2d1090b23c3087f348799433b56410</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-04-28T21:32:31.321799</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250428/c9a126078e2d1090b23c3087f348799433b56410.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
