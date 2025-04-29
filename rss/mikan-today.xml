@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[04][1080p][内嵌简日]</guid>
+			<link>https://mikanani.me/Home/Episode/c2449f61cbd518a47fa44ad830d5cb58b5582094</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[04][1080p][内嵌简日]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[04][1080p][内嵌简日][166.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c2449f61cbd518a47fa44ad830d5cb58b5582094</link>
+				<contentLength>174797616</contentLength>
+				<pubDate>2025-04-30T05:59:20.846467</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="174797616" url="https://mikanani.me/Download/20250430/c2449f61cbd518a47fa44ad830d5cb58b5582094.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[04][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/e963dcf972fd9ca37488e2d79255207cefc87160</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[04][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[04][1080p][HEVC][内封双语][320.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e963dcf972fd9ca37488e2d79255207cefc87160</link>
+				<contentLength>336173472</contentLength>
+				<pubDate>2025-04-30T05:30:31.524107</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="336173472" url="https://mikanani.me/Download/20250430/e963dcf972fd9ca37488e2d79255207cefc87160.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 04 [AMZN WebRip 1080p HEVC-10bit E-AC-3][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b73f1233be004d4384bb74717682f187fc80bd7f</link>
 			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 04 [AMZN WebRip 1080p HEVC-10bit E-AC-3][简繁内封字幕]</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2025-04-28T22:01:20.075032</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746376384" url="https://mikanani.me/Download/20250428/513c74fa07795bb626ccd013c43f23fde9b5fa65.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] ZatsuTabi Thats Journey /  随兴旅－That′s Journey－ - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/718d96bd01d79786e2464ed3c115f7b3ed0475e3</link>
-			<title>[ANi] ZatsuTabi Thats Journey /  随兴旅－That′s Journey－ - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] ZatsuTabi Thats Journey /  随兴旅－That′s Journey－ - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][373.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/718d96bd01d79786e2464ed3c115f7b3ed0475e3</link>
-				<contentLength>391538272</contentLength>
-				<pubDate>2025-04-28T22:01:14.539197</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="391538272" url="https://mikanani.me/Download/20250428/718d96bd01d79786e2464ed3c115f7b3ed0475e3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 随兴旅－That′s Journey－ / Zatsu Tabi: That's Journey - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2b35c81723f7362b77cba1056fa79139c6c42910</link>
-			<title>[黒ネズミたち] 随兴旅－That′s Journey－ / Zatsu Tabi: That's Journey - 04 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 随兴旅－That′s Journey－ / Zatsu Tabi: That's Journey - 04 (Baha 1920x1080 AVC AAC MP4)[373.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2b35c81723f7362b77cba1056fa79139c6c42910</link>
-				<contentLength>391328576</contentLength>
-				<pubDate>2025-04-28T22:01:00.926767</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="391328576" url="https://mikanani.me/Download/20250428/2b35c81723f7362b77cba1056fa79139c6c42910.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
