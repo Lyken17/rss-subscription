@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日]</guid>
-			<link>https://mikanani.me/Home/Episode/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac</link>
-			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日]</title>
-			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[03][1080p][内嵌简日][225.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac</link>
-				<contentLength>236453888</contentLength>
-				<pubDate>2025-04-22T04:47:39.118093</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="236453888" url="https://mikanani.me/Download/20250422/144d5a7dd0e300c31f6148fe3b8bfbb0d997f4ac.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 03 - [简体内嵌][H264 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/f2ac6816f94bdbecacd907b860133f7c6bc0c2a3</link>
 			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 03 - [简体内嵌][H264 8bit 1080P]</title>
@@ -7551,6 +7539,30 @@
 				<pubDate>2025-04-29T11:12:33.487</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="426990624" url="https://mikanani.me/Download/20250429/42da7128a7c3e97ed0056f8838099fdad78797e2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][02][1080P][MP4][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/2bf2f2a794e8c590d650a04c6ebc8334ffa04c25</link>
+			<title>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][02][1080P][MP4][简中]</title>
+			<description>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][02][1080P][MP4][简中][338.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2bf2f2a794e8c590d650a04c6ebc8334ffa04c25</link>
+				<contentLength>354785696</contentLength>
+				<pubDate>2025-04-29T13:13:03.209</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="354785696" url="https://mikanani.me/Download/20250429/2bf2f2a794e8c590d650a04c6ebc8334ffa04c25.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][02][1080P][MP4][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/26f1fa92627c9ea8c89e732db67f0b790796c5ab</link>
+			<title>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][02][1080P][MP4][繁中]</title>
+			<description>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][02][1080P][MP4][繁中][338.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26f1fa92627c9ea8c89e732db67f0b790796c5ab</link>
+				<contentLength>354806656</contentLength>
+				<pubDate>2025-04-29T13:12:57.385</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="354806656" url="https://mikanani.me/Download/20250429/26f1fa92627c9ea8c89e732db67f0b790796c5ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
