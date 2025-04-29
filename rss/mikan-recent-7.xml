@@ -7564,5 +7564,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="354806656" url="https://mikanani.me/Download/20250429/26f1fa92627c9ea8c89e732db67f0b790796c5ab.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 01 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6444d2a4d151516c7a4ed629c2c9f664dc3a8d61</link>
+			<title>[沸班亚马制作组] 夏日口袋 - 01 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 夏日口袋 - 01 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕][342.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6444d2a4d151516c7a4ed629c2c9f664dc3a8d61</link>
+				<contentLength>359032416</contentLength>
+				<pubDate>2025-04-29T15:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="359032416" url="https://mikanani.me/Download/20250429/6444d2a4d151516c7a4ed629c2c9f664dc3a8d61.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
