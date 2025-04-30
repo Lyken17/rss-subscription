@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/8ed27d69a0ff681b91adf895f15884cb25cbd6ec</link>
+			<title>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][04][1080p][简日双语][310.73 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ed27d69a0ff681b91adf895f15884cb25cbd6ec</link>
+				<contentLength>325824032</contentLength>
+				<pubDate>2025-04-30T09:49:18.864</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="325824032" url="https://mikanani.me/Download/20250430/8ed27d69a0ff681b91adf895f15884cb25cbd6ec.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[BDMV] Amagami-san Chi no Enmusubi / Tying the knot with an amagami sister / 甘神さんちの縁结び Blu-ray Vol 4</guid>
 			<link>https://mikanani.me/Home/Episode/9851e77d8d9fb301098634de3c5a8cfc7c13c674</link>
 			<title>[BDMV] Amagami-san Chi no Enmusubi / Tying the knot with an amagami sister / 甘神さんちの縁结び Blu-ray Vol 4</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-04-28T22:41:35.279874</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="757910720" url="https://mikanani.me/Download/20250428/69e7e8aea9bdc08fc2b708ad3bc8fff52afdafa5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[诸神字幕组][拉撒路][LAZARUS][03][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/20b535731f3142412d49991b25c98cb9e7baccdb</link>
-			<title>[诸神字幕组][拉撒路][LAZARUS][03][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</title>
-			<description>[诸神字幕组][拉撒路][LAZARUS][03][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4][578.99 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/20b535731f3142412d49991b25c98cb9e7baccdb</link>
-				<contentLength>607115008</contentLength>
-				<pubDate>2025-04-28T22:24:52.663</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="607115008" url="https://mikanani.me/Download/20250428/20b535731f3142412d49991b25c98cb9e7baccdb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
