@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2fe035b4079cfb703aca9e5a7fcc47630f2fb12c</link>
+			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][253.69 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2fe035b4079cfb703aca9e5a7fcc47630f2fb12c</link>
+				<contentLength>266013248</contentLength>
+				<pubDate>2025-05-02T06:36:11.372</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="266013248" url="https://mikanani.me/Download/20250502/2fe035b4079cfb703aca9e5a7fcc47630f2fb12c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 剧场版 OVERLORD 圣王国篇 [BDRip AIMAX2160p HEVC-10bit FLAC]</guid>
 			<link>https://mikanani.me/Home/Episode/8feed970427c7826e54dbf85ed36f6eb7ceaeb40</link>
 			<title>[沸班亚马制作组] 剧场版 OVERLORD 圣王国篇 [BDRip AIMAX2160p HEVC-10bit FLAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-30T22:00:26.552224</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="79272344" url="https://mikanani.me/Download/20250430/06eb74bbea515828e5aec0ebdd1de3eaa2e3db6c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 04 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/94630c5ac86be3515f23dd847570058080bdde0c</link>
-			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 04 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 04 (ABEMA 1280x720 AVC AAC MP4)[367.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/94630c5ac86be3515f23dd847570058080bdde0c</link>
-				<contentLength>385666240</contentLength>
-				<pubDate>2025-04-30T21:30:51.762227</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385666240" url="https://mikanani.me/Download/20250430/94630c5ac86be3515f23dd847570058080bdde0c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
