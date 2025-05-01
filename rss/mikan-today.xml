@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][05][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/2b3d9a0372800eaf1f0f96ded76d2404fa3e46ee</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][05][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][05][1080p][简日双语][359.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2b3d9a0372800eaf1f0f96ded76d2404fa3e46ee</link>
+				<contentLength>377267168</contentLength>
+				<pubDate>2025-05-02T04:55:28.778</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="377267168" url="https://mikanani.me/Download/20250502/2b3d9a0372800eaf1f0f96ded76d2404fa3e46ee.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[夏日口袋 / 夏日的小宝箱 / Summer Pockets][02][1080p][繁日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/218af8845c1ef3594bf5e1d7b205049c16244152</link>
 			<title>【喵萌奶茶屋】★04月新番★[夏日口袋 / 夏日的小宝箱 / Summer Pockets][02][1080p][繁日双语][招募翻译时轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-30T20:52:35.137085</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="40894464" url="https://mikanani.me/Download/20250430/6b8d0b925758720e87157a07c01b9c14f249bc96.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[AnimeRep]莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [03][1080p][简中内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b0adb3b4eb30c5760b0cf2c5b94714e52d8f92e1</link>
-			<title>[AnimeRep]莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [03][1080p][简中内嵌]</title>
-			<description>[AnimeRep]莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [03][1080p][简中内嵌][40.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b0adb3b4eb30c5760b0cf2c5b94714e52d8f92e1</link>
-				<contentLength>42362472</contentLength>
-				<pubDate>2025-04-30T20:35:20.27244</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="42362472" url="https://mikanani.me/Download/20250430/b0adb3b4eb30c5760b0cf2c5b94714e52d8f92e1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
