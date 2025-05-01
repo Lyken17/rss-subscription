@@ -7072,5 +7072,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20250501/026375f70e233f411c9379de3f392a21a7a86058.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [04][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a4448d752073a4b3641c807f71d7805b76f64d57</link>
+			<title>[桜都字幕组] Summer Pockets / Summer Pockets [04][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] Summer Pockets / Summer Pockets [04][1080p][繁体内嵌][345.25 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a4448d752073a4b3641c807f71d7805b76f64d57</link>
+				<contentLength>362020864</contentLength>
+				<pubDate>2025-05-01T17:17:55.465</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="362020864" url="https://mikanani.me/Download/20250501/a4448d752073a4b3641c807f71d7805b76f64d57.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [04][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/bdf436062723b7422719cc17ec35223eb05df8a3</link>
+			<title>[桜都字幕组] Summer Pockets / Summer Pockets [04][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] Summer Pockets / Summer Pockets [04][1080p][简体内嵌][345.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bdf436062723b7422719cc17ec35223eb05df8a3</link>
+				<contentLength>362010368</contentLength>
+				<pubDate>2025-05-01T17:15:32.509</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="362010368" url="https://mikanani.me/Download/20250501/bdf436062723b7422719cc17ec35223eb05df8a3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
