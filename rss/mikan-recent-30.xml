@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 24 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7bdb7034bd6703ebd7da0fe9ae8c79835bb5ab48</link>
-			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 24 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 24 (B-Global Donghua 1920x1080 HEVC AAC MKV)[685.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7bdb7034bd6703ebd7da0fe9ae8c79835bb5ab48</link>
-				<contentLength>719008576</contentLength>
-				<pubDate>2025-04-01T11:01:17.253308</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="719008576" url="https://mikanani.me/Download/20250401/7bdb7034bd6703ebd7da0fe9ae8c79835bb5ab48.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E13 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</guid>
 			<link>https://mikanani.me/Home/Episode/c0feecd4added4e474444ed80f738e73ee6a3651</link>
 			<title>[VonEncodes] Ore dake Level Up na Ken (Solo Leveling) - S02E13 [1440p Enhance Upscale] [HEVC2+VVC-12bit] [Multi-Subs]</title>
@@ -29139,6 +29127,42 @@
 				<pubDate>2025-05-01T17:18:50.621</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="363174304" url="https://mikanani.me/Download/20250501/b0aed504c3f0bf6690b38a7a3f6a2a977b55bb99.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] mono女孩 / Mono [03][1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/d4edaabbf7e71c406ebffc7bc15c82d390e027c7</link>
+			<title>[桜都字幕组] mono女孩 / Mono [03][1080p][简繁内封]</title>
+			<description>[桜都字幕组] mono女孩 / Mono [03][1080p][简繁内封][278.98 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d4edaabbf7e71c406ebffc7bc15c82d390e027c7</link>
+				<contentLength>292531744</contentLength>
+				<pubDate>2025-05-01T19:09:18.371</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="292531744" url="https://mikanani.me/Download/20250501/d4edaabbf7e71c406ebffc7bc15c82d390e027c7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] mono女孩 / Mono [03][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f24032af655282641efa42f0cf050d620980dedd</link>
+			<title>[桜都字幕组] mono女孩 / Mono [03][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] mono女孩 / Mono [03][1080p][繁体内嵌][351.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f24032af655282641efa42f0cf050d620980dedd</link>
+				<contentLength>368060672</contentLength>
+				<pubDate>2025-05-01T19:09:02.056</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="368060672" url="https://mikanani.me/Download/20250501/f24032af655282641efa42f0cf050d620980dedd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] mono女孩 / Mono [03][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e8f56b4857f45a02ee6850d225c18cc452656273</link>
+			<title>[桜都字幕组] mono女孩 / Mono [03][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] mono女孩 / Mono [03][1080p][简体内嵌][350.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e8f56b4857f45a02ee6850d225c18cc452656273</link>
+				<contentLength>367871904</contentLength>
+				<pubDate>2025-05-01T19:08:44.043</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="367871904" url="https://mikanani.me/Download/20250501/e8f56b4857f45a02ee6850d225c18cc452656273.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
