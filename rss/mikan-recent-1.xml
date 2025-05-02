@@ -1120,5 +1120,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="218198176" url="https://mikanani.me/Download/20250502/2f09b39b5d783b3c64aedc8b1ac4e9215bd3463f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/f55752b122f1329ee91cae9c38257649b56b314c</link>
+			<title>[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][简繁日内封]</title>
+			<description>[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][简繁日内封][317.26 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f55752b122f1329ee91cae9c38257649b56b314c</link>
+				<contentLength>332671232</contentLength>
+				<pubDate>2025-05-02T15:31:37.567</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="332671232" url="https://mikanani.me/Download/20250502/f55752b122f1329ee91cae9c38257649b56b314c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/87e9059b1dd3813f4aa9bd783b48449409c0a8cc</link>
+			<title>[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][繁日内嵌]</title>
+			<description>[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][繁日内嵌][333.91 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/87e9059b1dd3813f4aa9bd783b48449409c0a8cc</link>
+				<contentLength>350130016</contentLength>
+				<pubDate>2025-05-02T15:31:32.601</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="350130016" url="https://mikanani.me/Download/20250502/87e9059b1dd3813f4aa9bd783b48449409c0a8cc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f735235605babc760c7a7c3612390a4b012fb9d8</link>
+			<title>[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][简日内嵌]</title>
+			<description>[北宇治字幕组] 夏日口袋 / Summer Pockets [04][WebRip][HEVC_AAC][简日内嵌][333.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f735235605babc760c7a7c3612390a4b012fb9d8</link>
+				<contentLength>350025152</contentLength>
+				<pubDate>2025-05-02T15:31:26.177</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="350025152" url="https://mikanani.me/Download/20250502/f735235605babc760c7a7c3612390a4b012fb9d8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
