@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][小鸟之翼 高尔夫少女 第一季/Birdie Wing Golf Girls' Story S1][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/126045d85886ce13a612d536bdec2d97ee076112</link>
+			<title>[DBD-Raws][小鸟之翼 高尔夫少女 第一季/Birdie Wing Golf Girls' Story S1][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][小鸟之翼 高尔夫少女 第一季/Birdie Wing Golf Girls' Story S1][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][12.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/126045d85886ce13a612d536bdec2d97ee076112</link>
+				<contentLength>13207024640</contentLength>
+				<pubDate>2025-05-02T13:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13207024640" url="https://mikanani.me/Download/20250502/126045d85886ce13a612d536bdec2d97ee076112.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8a240cbb5885bd14d78dffd3cc6d98816ff953bd</link>
 			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-30T22:45:55.796</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="312056224" url="https://mikanani.me/Download/20250430/b5043ce0ebf4c858b0422de8955fcf000bdc10cf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 华Doll* -Reinterpretation of Flowering- / Hana-Doll*: Reinterpretation of Flowering - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0ae4c8f107a14ca0c09743c660028d63161242dd</link>
-			<title>[黒ネズミたち] 华Doll* -Reinterpretation of Flowering- / Hana-Doll*: Reinterpretation of Flowering - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 华Doll* -Reinterpretation of Flowering- / Hana-Doll*: Reinterpretation of Flowering - 04 (ABEMA 1920x1080 AVC AAC MP4)[711.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0ae4c8f107a14ca0c09743c660028d63161242dd</link>
-				<contentLength>746376384</contentLength>
-				<pubDate>2025-04-30T22:31:18.155364</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746376384" url="https://mikanani.me/Download/20250430/0ae4c8f107a14ca0c09743c660028d63161242dd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
