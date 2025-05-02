@@ -1180,5 +1180,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250502/32dcba550ce2771b460d934969e3a0cdda5fc8c7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【百冬练习组】【战队大失格_Sentai Daishikkaku】[15][1080p AVC AAC][繁体]</guid>
+			<link>https://mikanani.me/Home/Episode/faf593cbecf5a97e97453058a579388cac59333d</link>
+			<title>【百冬练习组】【战队大失格_Sentai Daishikkaku】[15][1080p AVC AAC][繁体]</title>
+			<description>【百冬练习组】【战队大失格_Sentai Daishikkaku】[15][1080p AVC AAC][繁体][331.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/faf593cbecf5a97e97453058a579388cac59333d</link>
+				<contentLength>347414208</contentLength>
+				<pubDate>2025-05-02T18:16:29.275</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347414208" url="https://mikanani.me/Download/20250502/faf593cbecf5a97e97453058a579388cac59333d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
