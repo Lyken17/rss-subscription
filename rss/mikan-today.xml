@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d18cbe4214180c5e607c283ce6a159a6dba50346</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)[406.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d18cbe4214180c5e607c283ce6a159a6dba50346</link>
+				<contentLength>426665568</contentLength>
+				<pubDate>2025-05-02T09:02:12.28752</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="426665568" url="https://mikanani.me/Download/20250502/d18cbe4214180c5e607c283ce6a159a6dba50346.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2fe035b4079cfb703aca9e5a7fcc47630f2fb12c</link>
 			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-04-30T22:00:43.028079</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="79691776" url="https://mikanani.me/Download/20250430/a1495feafe01e8e504a24b054dc5945a73e9adb8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 全力兔 第二季 / Zenryoku Usagi (2023) 2nd Season - 16 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/06eb74bbea515828e5aec0ebdd1de3eaa2e3db6c</link>
-			<title>[黒ネズミたち] 全力兔 第二季 / Zenryoku Usagi (2023) 2nd Season - 16 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 全力兔 第二季 / Zenryoku Usagi (2023) 2nd Season - 16 (Baha 1920x1080 AVC AAC MP4)[75.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06eb74bbea515828e5aec0ebdd1de3eaa2e3db6c</link>
-				<contentLength>79272344</contentLength>
-				<pubDate>2025-04-30T22:00:26.552224</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="79272344" url="https://mikanani.me/Download/20250430/06eb74bbea515828e5aec0ebdd1de3eaa2e3db6c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
