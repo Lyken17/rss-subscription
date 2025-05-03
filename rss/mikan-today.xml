@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/05e22a14fa0168c21617aca3be9d3b13c0e86fdb</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 05 (ABEMA 1920x1080 AVC AAC MP4)[330.67 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05e22a14fa0168c21617aca3be9d3b13c0e86fdb</link>
+				<contentLength>346732640</contentLength>
+				<pubDate>2025-05-04T07:12:33.575</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346732640" url="https://mikanani.me/Download/20250504/05e22a14fa0168c21617aca3be9d3b13c0e86fdb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 17 [CR WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0304cb371dfd7d76b953b44de4d4374b6316ec8b</link>
 			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 17 [CR WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-03T11:12:39.569</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="213123072" url="https://mikanani.me/Download/20250503/961814328be31c27af36d9c35b54c7ebf805dbec.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[风车字幕组][名侦探柯南][1147][盯梢4][1080P][简体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/54e605626f98ff17298b7c146c1f567b4a7a1aae</link>
-			<title>[风车字幕组][名侦探柯南][1147][盯梢4][1080P][简体][MP4]</title>
-			<description>[风车字幕组][名侦探柯南][1147][盯梢4][1080P][简体][MP4][203.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/54e605626f98ff17298b7c146c1f567b4a7a1aae</link>
-				<contentLength>213049664</contentLength>
-				<pubDate>2025-05-03T11:07:57.087</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="213049664" url="https://mikanani.me/Download/20250503/54e605626f98ff17298b7c146c1f567b4a7a1aae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
