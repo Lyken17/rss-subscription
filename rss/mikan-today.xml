@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Rev][DBD-Raws][小鸟之翼 高尔夫少女 第二季/Birdie Wing Golf Girls' Story S2][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/b1e0d02edd629461f91da3ac97d992a621340363</link>
+			<title>[Rev][DBD-Raws][小鸟之翼 高尔夫少女 第二季/Birdie Wing Golf Girls' Story S2][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[Rev][DBD-Raws][小鸟之翼 高尔夫少女 第二季/Birdie Wing Golf Girls' Story S2][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][7.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1e0d02edd629461f91da3ac97d992a621340363</link>
+				<contentLength>7945689600</contentLength>
+				<pubDate>2025-05-03T14:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250503/b1e0d02edd629461f91da3ac97d992a621340363.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[MeiYangYang] 忍者与杀手二人组的日常生活 / Ninja to Koroshiya no Futarigurashi - 04 [R-ESRGAN 2160P WebRip HEVC-10bit]</guid>
 			<link>https://mikanani.me/Home/Episode/a8d9e24cde974d6beed4394d301fa7a7fe387763</link>
 			<title>[MeiYangYang] 忍者与杀手二人组的日常生活 / Ninja to Koroshiya no Futarigurashi - 04 [R-ESRGAN 2160P WebRip HEVC-10bit]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-02T13:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1825361152" url="https://mikanani.me/Download/20250502/ff0c7220828d803ad3e47d61a0c78269477a151c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][小鸟之翼 高尔夫少女 第二季/Birdie Wing Golf Girls' Story S2][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/58660ebe5eb805587139844e125e28950dbc8be5</link>
-			<title>[DBD-Raws][小鸟之翼 高尔夫少女 第二季/Birdie Wing Golf Girls' Story S2][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][小鸟之翼 高尔夫少女 第二季/Birdie Wing Golf Girls' Story S2][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][7.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58660ebe5eb805587139844e125e28950dbc8be5</link>
-				<contentLength>7945689600</contentLength>
-				<pubDate>2025-05-02T13:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20250502/58660ebe5eb805587139844e125e28950dbc8be5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
