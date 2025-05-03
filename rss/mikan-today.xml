@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 男女之间的友情存在吗？（不，不存在!!） - 05 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/91cc2c07ae0b938854dca5fe5fc7789c47091dc9</link>
+			<title>[沸班亚马制作组] 男女之间的友情存在吗？（不，不存在!!） - 05 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 男女之间的友情存在吗？（不，不存在!!） - 05 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕][279.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/91cc2c07ae0b938854dca5fe5fc7789c47091dc9</link>
+				<contentLength>293181856</contentLength>
+				<pubDate>2025-05-04T03:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="293181856" url="https://mikanani.me/Download/20250504/91cc2c07ae0b938854dca5fe5fc7789c47091dc9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][05][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/d4742b24531e23f9aee9077d89c6ffe2dc537df3</link>
 			<title>【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][05][简体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-03T11:00:29.846</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="414879584" url="https://mikanani.me/Download/20250503/2188f245feb558c32988eb8c4cc77d1a59d8ac69.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">​​[整理搬运] 会长是女仆大人！／非常女会长 (会长はメイド様 !) (Kaichō wa Meido-sama／Maid Sama !)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.23)</guid>
-			<link>https://mikanani.me/Home/Episode/b7ad4f15db5ac5f5bf6a4cbc2f05c9be5c2b7bb2</link>
-			<title>​​[整理搬运] 会长是女仆大人！／非常女会长 (会长はメイド様 !) (Kaichō wa Meido-sama／Maid Sama !)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.23)</title>
-			<description>​​[整理搬运] 会长是女仆大人！／非常女会长 (会长はメイド様 !) (Kaichō wa Meido-sama／Maid Sama !)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.23)[19.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b7ad4f15db5ac5f5bf6a4cbc2f05c9be5c2b7bb2</link>
-				<contentLength>20401094656</contentLength>
-				<pubDate>2025-05-03T10:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20401094656" url="https://mikanani.me/Download/20250503/b7ad4f15db5ac5f5bf6a4cbc2f05c9be5c2b7bb2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
