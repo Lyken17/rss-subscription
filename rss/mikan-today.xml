@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1015 蹲点盯梢][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/6b1cd6a36621899cbef4ea4d9810314a18a52c39</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1015 蹲点盯梢][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1015 蹲点盯梢][HDTV][1080P][简体MP4][183.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6b1cd6a36621899cbef4ea4d9810314a18a52c39</link>
+				<contentLength>192518560</contentLength>
+				<pubDate>2025-05-04T13:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="192518560" url="https://mikanani.me/Download/20250504/6b1cd6a36621899cbef4ea4d9810314a18a52c39.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][13][简繁外挂](检索:Q娃)</guid>
 			<link>https://mikanani.me/Home/Episode/5eb5e67c954f4d18b7169542ecd4904c19ea266a</link>
 			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][13][简繁外挂](检索:Q娃)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-03T18:47:00.882</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518468416" url="https://mikanani.me/Download/20250503/6c218f1fa5f81401d84a8b85c575fc2196e72467.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 05 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/698b47f147567517878276e99963271cd61485df</link>
-			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 05 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 05 (B-Global 1920x1080 HEVC AAC MKV)[380.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/698b47f147567517878276e99963271cd61485df</link>
-				<contentLength>398563744</contentLength>
-				<pubDate>2025-05-03T18:02:10.24026</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="398563744" url="https://mikanani.me/Download/20250503/698b47f147567517878276e99963271cd61485df.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

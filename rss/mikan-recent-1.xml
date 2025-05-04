@@ -1528,5 +1528,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="325268288" url="https://mikanani.me/Download/20250504/5ad2ba3ee68c41387ff0f0bc211c45b163f37b45.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1015 蹲点盯梢][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/6b1cd6a36621899cbef4ea4d9810314a18a52c39</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1015 蹲点盯梢][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1015 蹲点盯梢][HDTV][1080P][简体MP4][183.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6b1cd6a36621899cbef4ea4d9810314a18a52c39</link>
+				<contentLength>192518560</contentLength>
+				<pubDate>2025-05-04T13:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="192518560" url="https://mikanani.me/Download/20250504/6b1cd6a36621899cbef4ea4d9810314a18a52c39.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
