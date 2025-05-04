@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/a1ead7c9a5feeb2b49adf131f7748134fd6b67b3</link>
-			<title>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT]</title>
-			<description>[jibaketa合成&amp;音频压制][TVB粤语]爱犬讯号 / Dog Signal - 19 [粤语+内封繁体中文字幕][WEB 1920x1080 AVC AAC SRT TVB YUE CHT][548.47 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a1ead7c9a5feeb2b49adf131f7748134fd6b67b3</link>
-				<contentLength>575112448</contentLength>
-				<pubDate>2025-04-04T12:38:01.979</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="575112448" url="https://mikanani.me/Download/20250404/a1ead7c9a5feeb2b49adf131f7748134fd6b67b3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;VCB-Studio] 剧场版 回转企鹅罐 / RE:cycle of the PENGUINDRUM / 剧场版 轮るピングドラム 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/24844f20e55e47f5783444bcb7b2ef6fb5028316</link>
 			<title>[SweetSub&amp;VCB-Studio] 剧场版 回转企鹅罐 / RE:cycle of the PENGUINDRUM / 剧场版 轮るピングドラム 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</title>
@@ -31479,6 +31467,18 @@
 				<pubDate>2025-05-04T19:15:38.373</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250504/613460613e6b93b55295ab4057cbc026fd971e1a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [15][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/17d3f5ad262c4389db1bd2acff8d6e57a1c06ef3</link>
+			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [15][1080p][简繁日内封]</title>
+			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [15][1080p][简繁日内封][155.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/17d3f5ad262c4389db1bd2acff8d6e57a1c06ef3</link>
+				<contentLength>163389120</contentLength>
+				<pubDate>2025-05-04T21:00:23.469</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="163389120" url="https://mikanani.me/Download/20250504/17d3f5ad262c4389db1bd2acff8d6e57a1c06ef3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

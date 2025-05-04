@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [15][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/17d3f5ad262c4389db1bd2acff8d6e57a1c06ef3</link>
+			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [15][1080p][简繁日内封]</title>
+			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [15][1080p][简繁日内封][155.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/17d3f5ad262c4389db1bd2acff8d6e57a1c06ef3</link>
+				<contentLength>163389120</contentLength>
+				<pubDate>2025-05-04T21:00:23.469</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="163389120" url="https://mikanani.me/Download/20250504/17d3f5ad262c4389db1bd2acff8d6e57a1c06ef3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][07][简繁日语字幕][1080P][HEVC MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/666fe228cba06f140524ce6e88f424192f61ed74</link>
 			<title>[诸神字幕组][群花绽放、彷如修罗][Hana wa Saku, Shura no Gotoku][07][简繁日语字幕][1080P][HEVC MKV]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-05-04T00:01:20.318584</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="324219712" url="https://mikanani.me/Download/20250504/f2f7a44779657ec775a2f73301db016c0718bfa3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Black Butler /  黑执事 绿之魔女篇 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/6b334454b1a96faff14cb76e23c0f3287b1b7de1</link>
-			<title>[ANi] Black Butler /  黑执事 绿之魔女篇 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Black Butler /  黑执事 绿之魔女篇 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][407.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6b334454b1a96faff14cb76e23c0f3287b1b7de1</link>
-				<contentLength>427294720</contentLength>
-				<pubDate>2025-05-04T00:00:59.898007</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="427294720" url="https://mikanani.me/Download/20250504/6b334454b1a96faff14cb76e23c0f3287b1b7de1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
