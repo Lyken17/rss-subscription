@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][05][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/9466b920166db27eaac4faa98f10f9d96097c641</link>
+			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][05][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][05][1080p][繁日双语][514.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9466b920166db27eaac4faa98f10f9d96097c641</link>
+				<contentLength>539555264</contentLength>
+				<pubDate>2025-05-05T17:01:12.121</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="539555264" url="https://mikanani.me/Download/20250505/9466b920166db27eaac4faa98f10f9d96097c641.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[千夏字幕组&amp;喵萌奶茶屋&amp;VCB-Studio] 街角魔族 / Machikado Mazoku / まちカドまぞく 10-bit 1080p HEVC BDRip [S1 Reseed v3 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/1ed539c7fe70fbe9882c2e2ba22809b256974aed</link>
 			<title>[千夏字幕组&amp;喵萌奶茶屋&amp;VCB-Studio] 街角魔族 / Machikado Mazoku / まちカドまぞく 10-bit 1080p HEVC BDRip [S1 Reseed v3 Fin]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-05-04T18:18:32.350106</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="234461600" url="https://mikanani.me/Download/20250504/38e049666a24dba363adaa9c80bd7791274d47fd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 乡下大叔成为剑圣 - 05 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</guid>
-			<link>https://mikanani.me/Home/Episode/da48d368df7b48b855097c3bf5e3f0b07c8d3117</link>
-			<title>[Prejudice-Studio] 乡下大叔成为剑圣 - 05 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</title>
-			<description>[Prejudice-Studio] 乡下大叔成为剑圣 - 05 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP][339.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/da48d368df7b48b855097c3bf5e3f0b07c8d3117</link>
-				<contentLength>355886688</contentLength>
-				<pubDate>2025-05-04T18:16:41.787069</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="355886688" url="https://mikanani.me/Download/20250504/da48d368df7b48b855097c3bf5e3f0b07c8d3117.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
