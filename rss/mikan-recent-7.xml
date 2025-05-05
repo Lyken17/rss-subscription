@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 记忆缝线 - 03 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8ac63a2bf8abd6ab560ac0998ec515afeaedee3a</link>
-			<title>[沸班亚马制作组] 记忆缝线 - 03 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 记忆缝线 - 03 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕][1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8ac63a2bf8abd6ab560ac0998ec515afeaedee3a</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-04-28T20:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250428/8ac63a2bf8abd6ab560ac0998ec515afeaedee3a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 记忆缝线 - 03 [ABEMA WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2ae26ddc394b75cdd1587c49d449be0f28005287</link>
-			<title>[沸班亚马制作组] 记忆缝线 - 03 [ABEMA WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 记忆缝线 - 03 [ABEMA WebRip 1080p HEVC-10bit AAC][简繁内封字幕][512.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2ae26ddc394b75cdd1587c49d449be0f28005287</link>
-				<contentLength>537290368</contentLength>
-				<pubDate>2025-04-28T19:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="537290368" url="https://mikanani.me/Download/20250428/2ae26ddc394b75cdd1587c49d449be0f28005287.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 随兴旅－That's Journey－ / Zatsu Tabi: That's Journey - 04 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c9a126078e2d1090b23c3087f348799433b56410</link>
 			<title>[黒ネズミたち] 随兴旅－That's Journey－ / Zatsu Tabi: That's Journey - 04 (CR 1920x1080 AVC AAC MKV)</title>
@@ -7611,6 +7587,18 @@
 				<pubDate>2025-05-06T02:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="495452160" url="https://mikanani.me/Download/20250506/93bbe683b97d68a5f9050d90a39a8706bdbdba26.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 记忆缝线 - 05 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/973ff9374959b84b5a35c364acb78d8ad50e4408</link>
+			<title>[沸班亚马制作组] 记忆缝线 - 05 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 记忆缝线 - 05 [ABEMA WebRip AI2160p HEVC-10bit AAC][简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/973ff9374959b84b5a35c364acb78d8ad50e4408</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-05-06T03:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250506/973ff9374959b84b5a35c364acb78d8ad50e4408.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
