@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)</guid>
+			<link>https://mikanani.me/Home/Episode/9e763fa27fbbd993a3510ed9945807d6204d52b2</link>
+			<title>[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)</title>
+			<description>[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)[561.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e763fa27fbbd993a3510ed9945807d6204d52b2</link>
+				<contentLength>589121472</contentLength>
+				<pubDate>2025-05-05T17:24:33.911</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="589121472" url="https://mikanani.me/Download/20250505/9e763fa27fbbd993a3510ed9945807d6204d52b2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][05][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/9466b920166db27eaac4faa98f10f9d96097c641</link>
 			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][05][1080p][繁日双语]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-05-04T19:15:38.373</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250504/613460613e6b93b55295ab4057cbc026fd971e1a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 这是妳与我的最后战场，或是开创世界的圣战 第二季（仅限港澳台） - 04 [WEB-DL 1080p AVC 8bit AAC MP4][简繁内挂]</guid>
-			<link>https://mikanani.me/Home/Episode/38e049666a24dba363adaa9c80bd7791274d47fd</link>
-			<title>[Prejudice-Studio] 这是妳与我的最后战场，或是开创世界的圣战 第二季（仅限港澳台） - 04 [WEB-DL 1080p AVC 8bit AAC MP4][简繁内挂]</title>
-			<description>[Prejudice-Studio] 这是妳与我的最后战场，或是开创世界的圣战 第二季（仅限港澳台） - 04 [WEB-DL 1080p AVC 8bit AAC MP4][简繁内挂][223.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/38e049666a24dba363adaa9c80bd7791274d47fd</link>
-				<contentLength>234461600</contentLength>
-				<pubDate>2025-05-04T18:18:32.350106</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="234461600" url="https://mikanani.me/Download/20250504/38e049666a24dba363adaa9c80bd7791274d47fd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
