@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f476a23cf109a8ecc14bcc355f05d137607564af</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][407.27 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f476a23cf109a8ecc14bcc355f05d137607564af</link>
-				<contentLength>427053536</contentLength>
-				<pubDate>2025-05-06T14:20:14.661</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="427053536" url="https://mikanani.me/Download/20250506/f476a23cf109a8ecc14bcc355f05d137607564af.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c6bf3327e8cf026c2eaca8a332e26ac7e96966f1</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -87,6 +75,18 @@
 				<pubDate>2025-05-07T20:55:01.204</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="632553472" url="https://mikanani.me/Download/20250507/f715d560b956d5ea57a2fa84cf93a796cb1bd90f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：紫云寺家的孩子们)</guid>
+			<link>https://mikanani.me/Home/Episode/02cfd559e04cd1975f33caf3a1af49bf25c9cc96</link>
+			<title>[LoliHouse] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：紫云寺家的孩子们)</title>
+			<description>[LoliHouse] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：紫云寺家的孩子们)[408.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/02cfd559e04cd1975f33caf3a1af49bf25c9cc96</link>
+				<contentLength>428018240</contentLength>
+				<pubDate>2025-05-07T22:26:18.138</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="428018240" url="https://mikanani.me/Download/20250507/02cfd559e04cd1975f33caf3a1af49bf25c9cc96.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

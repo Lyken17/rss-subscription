@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU [01-12 修正合集 v2][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/266be8847b86c10f4c07cf4ee707afe4737c7d66</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU [01-12 修正合集 v2][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 全修。 / ZENSHU [01-12 修正合集 v2][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][8.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/266be8847b86c10f4c07cf4ee707afe4737c7d66</link>
-				<contentLength>8697309184</contentLength>
-				<pubDate>2025-04-07T14:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8697309184" url="https://mikanani.me/Download/20250407/266be8847b86c10f4c07cf4ee707afe4737c7d66.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 14 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9f2a78cef31ab4d15227ed5d8183d6341a9f1388</link>
 			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 14 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
@@ -2379,6 +2367,18 @@
 				<pubDate>2025-05-07T20:55:01.204</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="632553472" url="https://mikanani.me/Download/20250507/f715d560b956d5ea57a2fa84cf93a796cb1bd90f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：紫云寺家的孩子们)</guid>
+			<link>https://mikanani.me/Home/Episode/02cfd559e04cd1975f33caf3a1af49bf25c9cc96</link>
+			<title>[LoliHouse] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：紫云寺家的孩子们)</title>
+			<description>[LoliHouse] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：紫云寺家的孩子们)[408.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/02cfd559e04cd1975f33caf3a1af49bf25c9cc96</link>
+				<contentLength>428018240</contentLength>
+				<pubDate>2025-05-07T22:26:18.138</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="428018240" url="https://mikanani.me/Download/20250507/02cfd559e04cd1975f33caf3a1af49bf25c9cc96.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
