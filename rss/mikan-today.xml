@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
+			<link>https://mikanani.me/Home/Episode/b978aec72524c456aec18ab128381e610b360621</link>
+			<title>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
+			<description>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}[2.93 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b978aec72524c456aec18ab128381e610b360621</link>
+				<contentLength>3146063616</contentLength>
+				<pubDate>2025-05-08T06:54:43.613</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3146063616" url="https://mikanani.me/Download/20250508/b978aec72524c456aec18ab128381e610b360621.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 鬼人幻灯抄 - 03 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/12e2e9cab213a4c8bd6a2c29c16ba648d18f7f7b</link>
 			<title>[沸班亚马制作组] 鬼人幻灯抄 - 03 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-06T23:58:40.602</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="572050624" url="https://mikanani.me/Download/20250506/bbdcbed3e179e905001975635f53494ab5d302d5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [05][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8a2c507f6595d7b563a53f2e2bf4f1dbe6e46a75</link>
-			<title>[桜都字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [05][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [05][1080p][简体内嵌][546.02 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8a2c507f6595d7b563a53f2e2bf4f1dbe6e46a75</link>
-				<contentLength>572543488</contentLength>
-				<pubDate>2025-05-06T23:58:07.821</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="572543488" url="https://mikanani.me/Download/20250506/8a2c507f6595d7b563a53f2e2bf4f1dbe6e46a75.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
