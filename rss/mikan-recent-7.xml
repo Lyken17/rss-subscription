@@ -7636,5 +7636,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250508/c7dcc5ecdbc5b963c974a33121c3dc5c7b2f6b95.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 鬼人幻灯抄 - 02 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fa44ec40dbe6a8b996ea295a0919fb0408981a2a</link>
+			<title>[沸班亚马制作组] 鬼人幻灯抄 - 02 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 鬼人幻灯抄 - 02 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕][519.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fa44ec40dbe6a8b996ea295a0919fb0408981a2a</link>
+				<contentLength>544630400</contentLength>
+				<pubDate>2025-05-08T03:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="544630400" url="https://mikanani.me/Download/20250508/fa44ec40dbe6a8b996ea295a0919fb0408981a2a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
