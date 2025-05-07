@@ -7192,5 +7192,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="131533373440" url="https://mikanani.me/Download/20250507/b3b12fe60ccced11cf4e9ee4ee55ad9094661c54.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70</link>
+			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][繁日双语][530.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70</link>
+				<contentLength>555955008</contentLength>
+				<pubDate>2025-05-07T14:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="555955008" url="https://mikanani.me/Download/20250507/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

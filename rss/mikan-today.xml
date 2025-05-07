@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70</link>
+			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][繁日双语][530.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70</link>
+				<contentLength>555955008</contentLength>
+				<pubDate>2025-05-07T14:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="555955008" url="https://mikanani.me/Download/20250507/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[动漫国字幕组&amp;VCB-Studio] 青春猪头少年不会梦到红书包女孩 / Seishun Buta Yarou wa Ransel Girl no Yume o Minai 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/f216063676c3c0d27bf236b87f49efc062d4d097</link>
 			<title>[动漫国字幕组&amp;VCB-Studio] 青春猪头少年不会梦到红书包女孩 / Seishun Buta Yarou wa Ransel Girl no Yume o Minai 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-05T23:26:44.12</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="395942304" url="https://mikanani.me/Download/20250505/b707f6b4d1684895e249dff3c56b80bc83ab848c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi [03][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/cdfa45eafcdf1a806581450d38c1eb61f122d5d2</link>
-			<title>[北宇治字幕组] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi [03][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi [03][WebRip][HEVC_AAC][繁日内嵌][301.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cdfa45eafcdf1a806581450d38c1eb61f122d5d2</link>
-				<contentLength>315935936</contentLength>
-				<pubDate>2025-05-05T23:26:35.355</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="315935936" url="https://mikanani.me/Download/20250505/cdfa45eafcdf1a806581450d38c1eb61f122d5d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
