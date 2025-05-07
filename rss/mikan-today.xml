@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/31926c280621dd1d5aa065b7d9c4937269a42c47</link>
+			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][简日双语][530.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31926c280621dd1d5aa065b7d9c4937269a42c47</link>
+				<contentLength>556059840</contentLength>
+				<pubDate>2025-05-07T12:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="556059840" url="https://mikanani.me/Download/20250507/31926c280621dd1d5aa065b7d9c4937269a42c47.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 05 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8a5e42ea1db80ec13822b5cc64f3a9f993010376</link>
 			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 05 [AMZN WebRip AI2160p HEVC-10bit E-AC-3][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-05T23:20:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2469606144" url="https://mikanani.me/Download/20250505/c27d9de7ecf54f4c65efaecf7bc8db76e300725b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【MCE汉化组】[剧场版 击浪青春 / 一起加油吧][Ganbatte Ikimasshoi][がんばっていきまっしょい][简体][1080P][x264 AAC][V2]</guid>
-			<link>https://mikanani.me/Home/Episode/0045e27425285a11c7d8b1d960f2f52e4091193f</link>
-			<title>【MCE汉化组】[剧场版 击浪青春 / 一起加油吧][Ganbatte Ikimasshoi][がんばっていきまっしょい][简体][1080P][x264 AAC][V2]</title>
-			<description>【MCE汉化组】[剧场版 击浪青春 / 一起加油吧][Ganbatte Ikimasshoi][がんばっていきまっしょい][简体][1080P][x264 AAC][V2][2.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0045e27425285a11c7d8b1d960f2f52e4091193f</link>
-				<contentLength>2469606144</contentLength>
-				<pubDate>2025-05-05T23:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2469606144" url="https://mikanani.me/Download/20250505/0045e27425285a11c7d8b1d960f2f52e4091193f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
