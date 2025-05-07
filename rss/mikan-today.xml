@@ -113,18 +113,6 @@
 			<enclosure type="application/x-bittorrent" length="6120328192" url="https://mikanani.me/Download/20250507/868c6492027399392112e51aa69f10b2c1d5431f.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</guid>
-			<link>https://mikanani.me/Home/Episode/b3b12fe60ccced11cf4e9ee4ee55ad9094661c54</link>
-			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</title>
-			<description>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)[122.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3b12fe60ccced11cf4e9ee4ee55ad9094661c54</link>
-				<contentLength>131533373440</contentLength>
-				<pubDate>2025-05-07T13:26:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="131533373440" url="https://mikanani.me/Download/20250507/b3b12fe60ccced11cf4e9ee4ee55ad9094661c54.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/31926c280621dd1d5aa065b7d9c4937269a42c47</link>
 			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][04][1080p][简日双语]</title>
@@ -1203,6 +1191,18 @@
 				<pubDate>2025-05-05T23:55:42.097</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="617212800" url="https://mikanani.me/Download/20250505/c19085bb32778ba69ba7e195c06401d23542a1da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 受到猩猩之神庇佑的大小姐受到王立骑士团宠爱 / Gorilla no Kami kara Kago sareta Reijou - 05 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/24c48745aa914f6460db00f131111ef5cb1c7a0a</link>
+			<title>[奶²&amp;LoliHouse] 受到猩猩之神庇佑的大小姐受到王立骑士团宠爱 / Gorilla no Kami kara Kago sareta Reijou - 05 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] 受到猩猩之神庇佑的大小姐受到王立骑士团宠爱 / Gorilla no Kami kara Kago sareta Reijou - 05 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][242.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/24c48745aa914f6460db00f131111ef5cb1c7a0a</link>
+				<contentLength>254258704</contentLength>
+				<pubDate>2025-05-05T23:51:46.305</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="254258704" url="https://mikanani.me/Download/20250505/24c48745aa914f6460db00f131111ef5cb1c7a0a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
