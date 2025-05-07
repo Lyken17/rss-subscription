@@ -31876,5 +31876,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="555955008" url="https://mikanani.me/Download/20250507/712b9d7dad1cc84873b0f7acc0fae4fda39c2b70.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[05][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/0aa5b91744610482e4c0488c57d28158f6c0ab97</link>
+			<title>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[05][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[05][Webrip][1080p][简繁日内封][351.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0aa5b91744610482e4c0488c57d28158f6c0ab97</link>
+				<contentLength>368364736</contentLength>
+				<pubDate>2025-05-07T15:43:12.368606</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="368364736" url="https://mikanani.me/Download/20250507/0aa5b91744610482e4c0488c57d28158f6c0ab97.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
