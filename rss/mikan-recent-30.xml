@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="1170378624" url="https://mikanani.me/Download/20250408/da32e94a107cbb3ff90eb36049103af3aeda2467.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 08 (B-Global Donghua 2048x870 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/22669d3acb2cdf79b3abcc61a4db382e9baf2087</link>
-			<title>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 08 (B-Global Donghua 2048x870 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 长歌行 / The Legend of Princess Chang-Ge - 08 (B-Global Donghua 2048x870 HEVC AAC MKV)[344.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/22669d3acb2cdf79b3abcc61a4db382e9baf2087</link>
-				<contentLength>361653856</contentLength>
-				<pubDate>2025-04-08T10:02:01.658795</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="361653856" url="https://mikanani.me/Download/20250408/22669d3acb2cdf79b3abcc61a4db382e9baf2087.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0bd923e59dda24edebff871847550b5124c3ddff</link>
 			<title>[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 01 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -31527,6 +31515,18 @@
 				<pubDate>2025-05-08T16:42:37.045</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="656481984" url="https://mikanani.me/Download/20250508/ca59332d763c4a5e572e580244aa339123207047.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [27-33][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6bdbeff97e4d57071b9753544a84484fc8e0219d</link>
+			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [27-33][1080p][简日内嵌]</title>
+			<description>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [27-33][1080p][简日内嵌][4.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6bdbeff97e4d57071b9753544a84484fc8e0219d</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2025-05-08T17:34:39.1717</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20250508/6bdbeff97e4d57071b9753544a84484fc8e0219d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
