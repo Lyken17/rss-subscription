@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
+			<title>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin][12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2025-05-08T12:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20250508/f80b97c967b988e43608420a710eed69f8c99cb7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 终末起点（仅限港澳台地区） - 06 [WEB-DL 1080P AVC 8bit AAC MP4][简繁内挂]</guid>
 			<link>https://mikanani.me/Home/Episode/ecd5bf71cb49846d01c76c74e43f2e83bef1cf31</link>
 			<title>[Prejudice-Studio] 终末起点（仅限港澳台地区） - 06 [WEB-DL 1080P AVC 8bit AAC MP4][简繁内挂]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-07T00:16:29.87</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="446232000" url="https://mikanani.me/Download/20250507/a0be27d3198789ea952d8c7547217b1f388d7543.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">机动战士Gundam GQuuuuuuX S01E05 1080p 日英双语-多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/008a8fc2d93a36de417fb03bb9141b987022fdb7</link>
-			<title>机动战士Gundam GQuuuuuuX S01E05 1080p 日英双语-多国字幕</title>
-			<description>机动战士Gundam GQuuuuuuX S01E05 1080p 日英双语-多国字幕[943.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/008a8fc2d93a36de417fb03bb9141b987022fdb7</link>
-				<contentLength>989331456</contentLength>
-				<pubDate>2025-05-07T00:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="989331456" url="https://mikanani.me/Download/20250507/008a8fc2d93a36de417fb03bb9141b987022fdb7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -7324,5 +7324,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="265289728" url="https://mikanani.me/Download/20250508/f204a76b1840e53ff23ad9cca2338811e3b34533.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
+			<title>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin][12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2025-05-08T12:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20250508/f80b97c967b988e43608420a710eed69f8c99cb7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub][刹那之花][Momentary Lily][14][WebRip][1080P][AVC 8bit][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/fdc6c47f67381c24deb1c156656cde1666a677cd</link>
-			<title>[SweetSub][刹那之花][Momentary Lily][14][WebRip][1080P][AVC 8bit][简日内嵌]</title>
-			<description>[SweetSub][刹那之花][Momentary Lily][14][WebRip][1080P][AVC 8bit][简日内嵌][742.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fdc6c47f67381c24deb1c156656cde1666a677cd</link>
-				<contentLength>778777408</contentLength>
-				<pubDate>2025-04-08T03:49:38.255</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="778777408" url="https://mikanani.me/Download/20250408/fdc6c47f67381c24deb1c156656cde1666a677cd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 14 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9f2a78cef31ab4d15227ed5d8183d6341a9f1388</link>
 			<title>[SweetSub&amp;LoliHouse] 刹那之花 / Momentary Lily - 14 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
@@ -31479,6 +31467,18 @@
 				<pubDate>2025-05-08T09:27:51.940065</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="265289728" url="https://mikanani.me/Download/20250508/f204a76b1840e53ff23ad9cca2338811e3b34533.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
+			<title>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin][12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2025-05-08T12:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20250508/f80b97c967b988e43608420a710eed69f8c99cb7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
