@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语][431.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
+				<contentLength>452041120</contentLength>
+				<pubDate>2025-05-08T14:38:21.2368</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="452041120" url="https://mikanani.me/Download/20250508/73c4e2e34efa8fc32b37ff731bfe07b99934774b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][04][HEVC][x265 10bit][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/8baf61e69b3586c7a3b8891dc7271109a61b2e9b</link>
 			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][04][HEVC][x265 10bit][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-07T01:42:38.757</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="551152512" url="https://mikanani.me/Download/20250507/107eb965bd0804961044e2f311fdb6ca2a04f32e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[轻之国度字幕组][mono女孩][04][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/938ec699e09c6e976534934446223eca11ed8d30</link>
-			<title>[轻之国度字幕组][mono女孩][04][1080P][MP4]</title>
-			<description>[轻之国度字幕组][mono女孩][04][1080P][MP4][263.86 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/938ec699e09c6e976534934446223eca11ed8d30</link>
-				<contentLength>276677248</contentLength>
-				<pubDate>2025-05-07T01:32:46.536</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="276677248" url="https://mikanani.me/Download/20250507/938ec699e09c6e976534934446223eca11ed8d30.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

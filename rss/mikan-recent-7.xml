@@ -7408,5 +7408,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="113601888256" url="https://mikanani.me/Download/20250508/73a392125fcf9e7aac3839231a36ce5183042695.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语][431.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
+				<contentLength>452041120</contentLength>
+				<pubDate>2025-05-08T14:38:21.2368</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="452041120" url="https://mikanani.me/Download/20250508/73c4e2e34efa8fc32b37ff731bfe07b99934774b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

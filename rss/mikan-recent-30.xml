@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 01-13V2 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1395ffbc96f0eeea65ff0c3cbc2598d00926c4d8</link>
-			<title>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 01-13V2 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[不当舔狗制作组] 我独自升级 第二季 -起于暗影- - 01-13V2 [CR WebRip 暴力2160p HEVC-10bit AAC][简繁内封字幕][12.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1395ffbc96f0eeea65ff0c3cbc2598d00926c4d8</link>
-				<contentLength>13314398208</contentLength>
-				<pubDate>2025-04-08T07:02:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="13314398208" url="https://mikanani.me/Download/20250408/1395ffbc96f0eeea65ff0c3cbc2598d00926c4d8.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[不当舔狗制作组] 防风少年 第二季 - 01 [CR WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ae8211e3667ba4b3d3a7340ac11fcabd748ba407</link>
 			<title>[不当舔狗制作组] 防风少年 第二季 - 01 [CR WebRip 暴力1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -31515,6 +31503,18 @@
 				<pubDate>2025-05-08T13:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="113601888256" url="https://mikanani.me/Download/20250508/73a392125fcf9e7aac3839231a36ce5183042695.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语][431.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
+				<contentLength>452041120</contentLength>
+				<pubDate>2025-05-08T14:38:21.2368</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="452041120" url="https://mikanani.me/Download/20250508/73c4e2e34efa8fc32b37ff731bfe07b99934774b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
