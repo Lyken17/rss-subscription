@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][简日双语][371.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf</link>
+				<contentLength>390038816</contentLength>
+				<pubDate>2025-05-09T04:00:08.389</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="390038816" url="https://mikanani.me/Download/20250509/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP05 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</guid>
 			<link>https://mikanani.me/Home/Episode/d2283b786ae3064fd126f3ac2ce7992009b08f8b</link>
 			<title>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP05 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-07T22:32:32.345323</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250507/8939d205ca9ef603d3d5736bfb79ba9de79e8ca9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 请穿上内衣吧，鹰峰同学 / Haite Kudasai, Takamine-san - 06 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3616f306c4eaf2eeef46447fd8580fb86f050b87</link>
-			<title>[黒ネズミたち] 请穿上内衣吧，鹰峰同学 / Haite Kudasai, Takamine-san - 06 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 请穿上内衣吧，鹰峰同学 / Haite Kudasai, Takamine-san - 06 (B-Global 1920x1080 HEVC AAC MKV)[267.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3616f306c4eaf2eeef46447fd8580fb86f050b87</link>
-				<contentLength>279969792</contentLength>
-				<pubDate>2025-05-07T22:31:15.545238</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="279969792" url="https://mikanani.me/Download/20250507/3616f306c4eaf2eeef46447fd8580fb86f050b87.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
