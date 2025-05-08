@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] MIRU 我们的未来 / Miru: Watashi no Mirai - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0ffb6b02328b12ef26f72eb8000a306036321d48</link>
-			<title>[黒ネズミたち] MIRU 我们的未来 / Miru: Watashi no Mirai - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] MIRU 我们的未来 / Miru: Watashi no Mirai - 05 (ABEMA 1920x1080 AVC AAC MP4)[711.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0ffb6b02328b12ef26f72eb8000a306036321d48</link>
-				<contentLength>746061824</contentLength>
-				<pubDate>2025-05-01T22:01:40.837981</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746061824" url="https://mikanani.me/Download/20250501/0ffb6b02328b12ef26f72eb8000a306036321d48.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 家庭教师 Hitman Reborn ! (家庭教师ヒットマン Reborn !) (Katekyō Hitman Reborn !／Reborn !)：TV动画 (+特别篇)+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2024.01.22)</guid>
-			<link>https://mikanani.me/Home/Episode/e7a8aa878ea4988ce1fd9336de035c61b4267daf</link>
-			<title>[整理搬运] 家庭教师 Hitman Reborn ! (家庭教师ヒットマン Reborn !) (Katekyō Hitman Reborn !／Reborn !)：TV动画 (+特别篇)+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2024.01.22)</title>
-			<description>[整理搬运] 家庭教师 Hitman Reborn ! (家庭教师ヒットマン Reborn !) (Katekyō Hitman Reborn !／Reborn !)：TV动画 (+特别篇)+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2024.01.22)[114.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e7a8aa878ea4988ce1fd9336de035c61b4267daf</link>
-				<contentLength>122836066304</contentLength>
-				<pubDate>2025-05-01T21:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="122836066304" url="https://mikanani.me/Download/20250501/e7a8aa878ea4988ce1fd9336de035c61b4267daf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [11][1080p][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c72967bcf28017bb424cd6af62086a29c9850a20</link>
 			<title>[黑白字幕组] 学园战记无量 Gakuen Senki Muryou [11][1080p][简体内嵌]</title>
@@ -7611,6 +7587,18 @@
 				<pubDate>2025-05-09T04:00:08.389</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390038816" url="https://mikanani.me/Download/20250509/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/7e57e7a832089822c387388a1b0fa46a395264b9</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][繁日双语][371.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7e57e7a832089822c387388a1b0fa46a395264b9</link>
+				<contentLength>390038816</contentLength>
+				<pubDate>2025-05-09T06:05:43.476</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="390038816" url="https://mikanani.me/Download/20250509/7e57e7a832089822c387388a1b0fa46a395264b9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
