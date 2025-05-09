@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/aee27700db15202cc5e77d5c0b58c046011047fc</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][424.11 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aee27700db15202cc5e77d5c0b58c046011047fc</link>
-				<contentLength>444711552</contentLength>
-				<pubDate>2025-05-02T22:43:06.817</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="444711552" url="https://mikanani.me/Download/20250502/aee27700db15202cc5e77d5c0b58c046011047fc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)</guid>
 			<link>https://mikanani.me/Home/Episode/2abd29345ef9a0de929573060fe2dc731151e0fc</link>
 			<title>[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)</title>
@@ -591,6 +579,18 @@
 				<pubDate>2025-05-10T03:08:30.86</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="577482240" url="https://mikanani.me/Download/20250510/7c90ce0cb2985506cc8412b7c8c5d2a71d584d7f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 16 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/64ea85a0992a044d6eecd08e97b2d692012f0a83</link>
+			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 16 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</title>
+			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 16 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][680.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64ea85a0992a044d6eecd08e97b2d692012f0a83</link>
+				<contentLength>713975424</contentLength>
+				<pubDate>2025-05-10T07:01:40.66</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="713975424" url="https://mikanani.me/Download/20250510/64ea85a0992a044d6eecd08e97b2d692012f0a83.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 16 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/64ea85a0992a044d6eecd08e97b2d692012f0a83</link>
+			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 16 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</title>
+			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 16 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][680.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/64ea85a0992a044d6eecd08e97b2d692012f0a83</link>
+				<contentLength>713975424</contentLength>
+				<pubDate>2025-05-10T07:01:40.66</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="713975424" url="https://mikanani.me/Download/20250510/64ea85a0992a044d6eecd08e97b2d692012f0a83.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][42][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8389873d29cd10b8279b854fc48661c589cbb078</link>
 			<title>【豌豆字幕组】[药屋少女的呢喃（药师少女的独语）/ Kusuriya no Hitorigoto][42][简体][1080P][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-08T15:22:07.849</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="609809856" url="https://mikanani.me/Download/20250508/36650378e174c1dc2b56a35242b4f878e25b0f77.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</guid>
-			<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
-			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语]</title>
-			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[05][1080p][HEVC][内封双语][431.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/73c4e2e34efa8fc32b37ff731bfe07b99934774b</link>
-				<contentLength>452041120</contentLength>
-				<pubDate>2025-05-08T14:38:21.2368</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="452041120" url="https://mikanani.me/Download/20250508/73c4e2e34efa8fc32b37ff731bfe07b99934774b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
