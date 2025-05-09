@@ -7240,5 +7240,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250509/97f7c4c9462ad06726be1d373fca3b22c0ab2735.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/86ada03421d2892312208eaf4ef36f14757798f5</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 05 (ABEMA 1920x1080 AVC AAC MP4)[714.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/86ada03421d2892312208eaf4ef36f14757798f5</link>
+				<contentLength>749627008</contentLength>
+				<pubDate>2025-05-09T16:00:43.653591</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="749627008" url="https://mikanani.me/Download/20250509/86ada03421d2892312208eaf4ef36f14757798f5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

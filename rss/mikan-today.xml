@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/86ada03421d2892312208eaf4ef36f14757798f5</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 05 (ABEMA 1920x1080 AVC AAC MP4)[714.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/86ada03421d2892312208eaf4ef36f14757798f5</link>
+				<contentLength>749627008</contentLength>
+				<pubDate>2025-05-09T16:00:43.653591</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="749627008" url="https://mikanani.me/Download/20250509/86ada03421d2892312208eaf4ef36f14757798f5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 凡尔赛玫瑰 / ベルサイユのばら / Versailles no Bara / The Rose of Versailles [WebRip][HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/5f76a80d1f6b3dd6f3a45660e372a56230ad4f2e</link>
 			<title>[❀拨雪寻春❀] 凡尔赛玫瑰 / ベルサイユのばら / Versailles no Bara / The Rose of Versailles [WebRip][HEVC-10bit 1080p][繁日内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-07T23:30:57.245293</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391748000" url="https://mikanani.me/Download/20250507/b798ccc835b9a81ceafea1e51a1c9340eac0fe5b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 完美到难以接近的圣女遭到解除婚约后被卖到邻国 / Kanpeki Seijo - 06 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b97dc2c19b1fc324e71251b705477a8015d3f7d1</link>
-			<title>[黒ネズミたち] 完美到难以接近的圣女遭到解除婚约后被卖到邻国 / Kanpeki Seijo - 06 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 完美到难以接近的圣女遭到解除婚约后被卖到邻国 / Kanpeki Seijo - 06 (Baha 1920x1080 AVC AAC MP4)[373.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b97dc2c19b1fc324e71251b705477a8015d3f7d1</link>
-				<contentLength>391433408</contentLength>
-				<pubDate>2025-05-07T23:30:41.528235</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="391433408" url="https://mikanani.me/Download/20250507/b97dc2c19b1fc324e71251b705477a8015d3f7d1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
