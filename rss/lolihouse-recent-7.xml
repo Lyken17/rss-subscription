@@ -556,5 +556,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="760049856" url="https://mikanani.me/Download/20250509/5f8b79f20548257cdbe00c2600717c07d0f18325.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c84a940aa025e0e78732a2413fa55c94a2173ef6</link>
+			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][472.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c84a940aa025e0e78732a2413fa55c94a2173ef6</link>
+				<contentLength>495787712</contentLength>
+				<pubDate>2025-05-09T17:54:30.708</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="495787712" url="https://mikanani.me/Download/20250509/c84a940aa025e0e78732a2413fa55c94a2173ef6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
