@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a190340647b75a673c27d8b3b6e71486d00044bd</link>
+			<title>[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 06 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a190340647b75a673c27d8b3b6e71486d00044bd</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-05-10T10:47:00.613164</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250510/a190340647b75a673c27d8b3b6e71486d00044bd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 65 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/5e58246feb16641dbeecfd5ed4436f95557fab6d</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 65 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-08T16:42:37.045</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="656481984" url="https://mikanani.me/Download/20250508/ca59332d763c4a5e572e580244aa339123207047.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 03 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1e19481417ac8a354a946521e9cb16fc12ecfdb8</link>
-			<title>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 03 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
-			<description>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 03 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][778.69 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1e19481417ac8a354a946521e9cb16fc12ecfdb8</link>
-				<contentLength>816515648</contentLength>
-				<pubDate>2025-05-08T15:23:10.233</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="816515648" url="https://mikanani.me/Download/20250508/1e19481417ac8a354a946521e9cb16fc12ecfdb8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
