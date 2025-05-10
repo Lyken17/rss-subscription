@@ -652,5 +652,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="424148992" url="https://mikanani.me/Download/20250510/e598a8a9e2b914001d18761af45f9e8af831191d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a7d60ec5de6b0c73ab4450c36b59bd82bef81edd</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][488.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a7d60ec5de6b0c73ab4450c36b59bd82bef81edd</link>
+				<contentLength>512302784</contentLength>
+				<pubDate>2025-05-10T14:56:51.459</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="512302784" url="https://mikanani.me/Download/20250510/a7d60ec5de6b0c73ab4450c36b59bd82bef81edd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
