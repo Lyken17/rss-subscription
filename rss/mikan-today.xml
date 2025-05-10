@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8d9c5ef020123fd3781f2f9218740edd3b1d6595</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 06 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d9c5ef020123fd3781f2f9218740edd3b1d6595</link>
+				<contentLength>346868928</contentLength>
+				<pubDate>2025-05-11T07:12:27.125164</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20250511/8d9c5ef020123fd3781f2f9218740edd3b1d6595.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 乡下大叔成为剑圣 - 06 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</guid>
 			<link>https://mikanani.me/Home/Episode/14dc27fcaa537ab163c8eee1bc0815edfcd281e5</link>
 			<title>[Prejudice-Studio] 乡下大叔成为剑圣 - 06 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-10T02:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="512543936" url="https://mikanani.me/Download/20250510/1dc5692da9f99ebe504c793c313b33da3100c4b9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 炎炎消防队 第三季 / Enen no Shouboutai: San no Shou - 06 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0bac66a55c1ba5c5e62f8626284eaeba05961f35</link>
-			<title>[黒ネズミたち] 炎炎消防队 第三季 / Enen no Shouboutai: San no Shou - 06 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 炎炎消防队 第三季 / Enen no Shouboutai: San no Shou - 06 (B-Global 1920x1080 HEVC AAC MKV)[470.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0bac66a55c1ba5c5e62f8626284eaeba05961f35</link>
-				<contentLength>493564736</contentLength>
-				<pubDate>2025-05-10T02:02:08.379829</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="493564736" url="https://mikanani.me/Download/20250510/0bac66a55c1ba5c5e62f8626284eaeba05961f35.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
