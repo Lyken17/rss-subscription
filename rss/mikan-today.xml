@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[冷番补完字幕组][圣战士丹拜因][圣戦士ダンバイン ][Aura Battler Dunbine][1983][TV 1-49+OVA Fin][1080p][外挂简日繁日中字][V2]</guid>
+			<link>https://mikanani.me/Home/Episode/e827ce1731a5e0450ec2615105eeab170fecdd90</link>
+			<title>[冷番补完字幕组][圣战士丹拜因][圣戦士ダンバイン ][Aura Battler Dunbine][1983][TV 1-49+OVA Fin][1080p][外挂简日繁日中字][V2]</title>
+			<description>[冷番补完字幕组][圣战士丹拜因][圣戦士ダンバイン ][Aura Battler Dunbine][1983][TV 1-49+OVA Fin][1080p][外挂简日繁日中字][V2][108.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e827ce1731a5e0450ec2615105eeab170fecdd90</link>
+				<contentLength>115964116992</contentLength>
+				<pubDate>2025-05-10T12:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="115964116992" url="https://mikanani.me/Download/20250510/e827ce1731a5e0450ec2615105eeab170fecdd90.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 前辈是伪娘 / 前辈是男孩子 / Senpai wa Otokonoko / 先辈はおとこのこ 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/f1154b593bc8a6d812a455b05f3adfcbab659623</link>
 			<title>[VCB-Studio] 前辈是伪娘 / 前辈是男孩子 / Senpai wa Otokonoko / 先辈はおとこのこ 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-08T19:31:00.544082</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="293286720" url="https://mikanani.me/Download/20250508/82598790fa194cc32d1bcc2375c1dc29a314744c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 这是妳与我的最后战场，或是开创世界的圣战 第二季 / Kimi to Boku no Saigo no Senjou S2 - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/51751c41880211fe596d8052e6b357c37d8e03e0</link>
-			<title>[黒ネズミたち] 这是妳与我的最后战场，或是开创世界的圣战 第二季 / Kimi to Boku no Saigo no Senjou S2 - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 这是妳与我的最后战场，或是开创世界的圣战 第二季 / Kimi to Boku no Saigo no Senjou S2 - 05 (Baha 1920x1080 AVC AAC MP4)[279.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/51751c41880211fe596d8052e6b357c37d8e03e0</link>
-				<contentLength>292867264</contentLength>
-				<pubDate>2025-05-08T19:30:53.985688</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="292867264" url="https://mikanani.me/Download/20250508/51751c41880211fe596d8052e6b357c37d8e03e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
