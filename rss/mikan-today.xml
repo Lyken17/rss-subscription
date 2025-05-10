@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 06 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8f615e834b862878557d669184ca1c35744ade92</link>
+			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 06 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 06 (B-Global 1920x1080 HEVC AAC MKV)[428.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f615e834b862878557d669184ca1c35744ade92</link>
+				<contentLength>449314816</contentLength>
+				<pubDate>2025-05-10T18:01:59.983542</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="449314816" url="https://mikanani.me/Download/20250510/8f615e834b862878557d669184ca1c35744ade92.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][06][1080p][简日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/eb4513505f721e82de5b9bb086185aa00776ade6</link>
 			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][06][1080p][简日双语][招募翻译时轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-08T21:00:47.909583</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746481280" url="https://mikanani.me/Download/20250508/548e944a4e5202b41c0f2af347f35735d89035fc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 这是妳与我的最后战场，或是开创世界的圣战 第二季（仅限港澳台） - 05 [WEB-DL 1080p AVC 8bit AAC MP4][简繁内挂]</guid>
-			<link>https://mikanani.me/Home/Episode/262750680d2e763cd304cd0227d0c74ce7f33846</link>
-			<title>[Prejudice-Studio] 这是妳与我的最后战场，或是开创世界的圣战 第二季（仅限港澳台） - 05 [WEB-DL 1080p AVC 8bit AAC MP4][简繁内挂]</title>
-			<description>[Prejudice-Studio] 这是妳与我的最后战场，或是开创世界的圣战 第二季（仅限港澳台） - 05 [WEB-DL 1080p AVC 8bit AAC MP4][简繁内挂][230.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/262750680d2e763cd304cd0227d0c74ce7f33846</link>
-				<contentLength>241591904</contentLength>
-				<pubDate>2025-05-08T20:49:36.398726</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="241591904" url="https://mikanani.me/Download/20250508/262750680d2e763cd304cd0227d0c74ce7f33846.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

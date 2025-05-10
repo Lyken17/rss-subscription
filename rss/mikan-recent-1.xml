@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="418444736" url="https://mikanani.me/Download/20250509/6dbde50fc5385a790e62ec09ac0ab9d65dcc8e3c.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/fe0c2ec48d19872e39cfabc330fafbeffa09bfc9</link>
-			<title>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)[754.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fe0c2ec48d19872e39cfabc330fafbeffa09bfc9</link>
-				<contentLength>791140096</contentLength>
-				<pubDate>2025-05-09T10:03:31.063</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="791140096" url="https://mikanani.me/Download/20250509/fe0c2ec48d19872e39cfabc330fafbeffa09bfc9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f8b79f20548257cdbe00c2600717c07d0f18325</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -651,6 +639,18 @@
 				<pubDate>2025-05-10T16:52:18.846</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="346910880" url="https://mikanani.me/Download/20250510/eb4513505f721e82de5b9bb086185aa00776ade6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 06 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8f615e834b862878557d669184ca1c35744ade92</link>
+			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 06 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 06 (B-Global 1920x1080 HEVC AAC MKV)[428.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f615e834b862878557d669184ca1c35744ade92</link>
+				<contentLength>449314816</contentLength>
+				<pubDate>2025-05-10T18:01:59.983542</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="449314816" url="https://mikanani.me/Download/20250510/8f615e834b862878557d669184ca1c35744ade92.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
