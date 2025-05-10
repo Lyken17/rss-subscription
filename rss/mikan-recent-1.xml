@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6dbde50fc5385a790e62ec09ac0ab9d65dcc8e3c</link>
-			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)[399.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6dbde50fc5385a790e62ec09ac0ab9d65dcc8e3c</link>
-				<contentLength>418444736</contentLength>
-				<pubDate>2025-05-09T11:01:57.68</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="418444736" url="https://mikanani.me/Download/20250509/6dbde50fc5385a790e62ec09ac0ab9d65dcc8e3c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f8b79f20548257cdbe00c2600717c07d0f18325</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -651,6 +639,30 @@
 				<pubDate>2025-05-10T18:01:59.983542</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="449314816" url="https://mikanani.me/Download/20250510/8f615e834b862878557d669184ca1c35744ade92.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] mono女孩 / Mono [04][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/5a4ad9f8639a7dfe19f08dbd4ffd2488516ffe1e</link>
+			<title>[桜都字幕组] mono女孩 / Mono [04][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] mono女孩 / Mono [04][1080p][简体内嵌][301.28 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5a4ad9f8639a7dfe19f08dbd4ffd2488516ffe1e</link>
+				<contentLength>315914976</contentLength>
+				<pubDate>2025-05-10T19:05:16.204</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="315914976" url="https://mikanani.me/Download/20250510/5a4ad9f8639a7dfe19f08dbd4ffd2488516ffe1e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</guid>
+			<link>https://mikanani.me/Home/Episode/66cf0fdf24b85d208388a3bc43dfa0029f45dce4</link>
+			<title>[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</title>
+			<description>[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)[66.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/66cf0fdf24b85d208388a3bc43dfa0029f45dce4</link>
+				<contentLength>71725957120</contentLength>
+				<pubDate>2025-05-10T18:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="71725957120" url="https://mikanani.me/Download/20250510/66cf0fdf24b85d208388a3bc43dfa0029f45dce4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
