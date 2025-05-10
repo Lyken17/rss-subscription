@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 乡下大叔成为剑圣 - 06 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</guid>
+			<link>https://mikanani.me/Home/Episode/14dc27fcaa537ab163c8eee1bc0815edfcd281e5</link>
+			<title>[Prejudice-Studio] 乡下大叔成为剑圣 - 06 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</title>
+			<description>[Prejudice-Studio] 乡下大叔成为剑圣 - 06 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP][351.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14dc27fcaa537ab163c8eee1bc0815edfcd281e5</link>
+				<contentLength>368259904</contentLength>
+				<pubDate>2025-05-11T06:09:40.350108</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="368259904" url="https://mikanani.me/Download/20250511/14dc27fcaa537ab163c8eee1bc0815edfcd281e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4c66192a55d75fc6fc887e5fde1ee973c5b7476f</link>
 			<title>[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-10T02:02:08.379829</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="493564736" url="https://mikanani.me/Download/20250510/0bac66a55c1ba5c5e62f8626284eaeba05961f35.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 42 (DSNP 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c6049c8c686b50a52eee933bb311d1e2f0e76b0f</link>
-			<title>[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 42 (DSNP 1920x1080 AVC AAC MKV)</title>
-			<description>[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 42 (DSNP 1920x1080 AVC AAC MKV)[718.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c6049c8c686b50a52eee933bb311d1e2f0e76b0f</link>
-				<contentLength>753611584</contentLength>
-				<pubDate>2025-05-10T01:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="753611584" url="https://mikanani.me/Download/20250510/c6049c8c686b50a52eee933bb311d1e2f0e76b0f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
