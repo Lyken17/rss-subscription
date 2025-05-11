@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [34][100只饱藏大作战！][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/1fe43c9cac889e0994740a2cf20016baeaaa2e47</link>
+			<title>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [34][100只饱藏大作战！][1080p][简日内嵌]</title>
+			<description>【FSD】假面骑士加布\仮面ライダーガヴ\Kamen Rider GAVV [34][100只饱藏大作战！][1080p][简日内嵌][750.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1fe43c9cac889e0994740a2cf20016baeaaa2e47</link>
+				<contentLength>787375744</contentLength>
+				<pubDate>2025-05-12T06:40:24.224615</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="787375744" url="https://mikanani.me/Download/20250512/1fe43c9cac889e0994740a2cf20016baeaaa2e47.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][05][1080p][简日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/641528c43da3c26319148288027ae6700a7b6092</link>
 			<title>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][05][1080p][简日双语][招募翻译时轴]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-11T12:04:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="305764768" url="https://mikanani.me/Download/20250511/19eb4cf3d0ba4510aa9831d629b50d43be9a597b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][14][简体内嵌](检索:Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/351cb297f66c4a2be4c02f6119f0e23b9d0818a5</link>
-			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][14][简体内嵌](检索:Q娃)</title>
-			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][14][简体内嵌](检索:Q娃)[291.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/351cb297f66c4a2be4c02f6119f0e23b9d0818a5</link>
-				<contentLength>305659904</contentLength>
-				<pubDate>2025-05-11T11:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="305659904" url="https://mikanani.me/Download/20250511/351cb297f66c4a2be4c02f6119f0e23b9d0818a5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
