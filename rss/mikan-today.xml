@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
+			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕][305.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
+				<contentLength>319920544</contentLength>
+				<pubDate>2025-05-11T18:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="319920544" url="https://mikanani.me/Download/20250511/30949415682962a5b48541415a9c313cf440a618.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/71c1453b037e54f1db6a93a4b447023b06b5a2e2</link>
 			<title>[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-10T22:54:19.84</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="724660416" url="https://mikanani.me/Download/20250510/e4b71e434dc9aca4d4179404391d64ea948c95b8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户手抄部] 末世旅馆 / Apocalypse Hotel [05] [1080p] [繁日内嵌] [2025年4月番]</guid>
-			<link>https://mikanani.me/Home/Episode/1891ffa8fefa97af2175c1ae1975496524139623</link>
-			<title>[猎户手抄部] 末世旅馆 / Apocalypse Hotel [05] [1080p] [繁日内嵌] [2025年4月番]</title>
-			<description>[猎户手抄部] 末世旅馆 / Apocalypse Hotel [05] [1080p] [繁日内嵌] [2025年4月番][423.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1891ffa8fefa97af2175c1ae1975496524139623</link>
-				<contentLength>443547648</contentLength>
-				<pubDate>2025-05-10T22:51:17.824653</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="443547648" url="https://mikanani.me/Download/20250510/1891ffa8fefa97af2175c1ae1975496524139623.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

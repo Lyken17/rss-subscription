@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a190340647b75a673c27d8b3b6e71486d00044bd</link>
-			<title>[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 06 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a190340647b75a673c27d8b3b6e71486d00044bd</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-05-10T10:47:00.613164</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250510/a190340647b75a673c27d8b3b6e71486d00044bd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 前辈是伪娘 / 前辈是男孩子 / Senpai wa Otokonoko / 先辈はおとこのこ 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/f1154b593bc8a6d812a455b05f3adfcbab659623</link>
 			<title>[VCB-Studio] 前辈是伪娘 / 前辈是男孩子 / Senpai wa Otokonoko / 先辈はおとこのこ 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1719,6 +1707,18 @@
 				<pubDate>2025-05-11T17:24:39.613823</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="256691408" url="https://mikanani.me/Download/20250511/70363000743cd13dddcc0718aacf9a19a3f49bcc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
+			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕][305.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
+				<contentLength>319920544</contentLength>
+				<pubDate>2025-05-11T18:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="319920544" url="https://mikanani.me/Download/20250511/30949415682962a5b48541415a9c313cf440a618.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
