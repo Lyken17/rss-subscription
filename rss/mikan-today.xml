@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][战队大失格][16][GB][720P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/b5e20376ce0e0573001c71135939c334d34aa4ed</link>
+			<title>[轻之国度字幕组][战队大失格][16][GB][720P][MP4]</title>
+			<description>[轻之国度字幕组][战队大失格][16][GB][720P][MP4][336.26 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b5e20376ce0e0573001c71135939c334d34aa4ed</link>
+				<contentLength>352594176</contentLength>
+				<pubDate>2025-05-12T02:47:27.229</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352594176" url="https://mikanani.me/Download/20250512/b5e20376ce0e0573001c71135939c334d34aa4ed.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[漫猫字幕社&amp;猫恋汉化组][1月新番][药屋少女的呢喃][Kusuriya no Hitorigoto][42][1080P][MP4][GB&amp;JP][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/368afeab06d6bf3c7aa33d3bd6c4a37a24634423</link>
 			<title>[漫猫字幕社&amp;猫恋汉化组][1月新番][药屋少女的呢喃][Kusuriya no Hitorigoto][42][1080P][MP4][GB&amp;JP][简日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-11T10:41:02.176</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250511/464177fea033fcf13bb03e711c0ad40c3a01ecd1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 14 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/97f97399b45dcdda223cb8eaed83987988e4e72e</link>
-			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 14 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 14 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/97f97399b45dcdda223cb8eaed83987988e4e72e</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-05-11T09:32:06.721869</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250511/97f97399b45dcdda223cb8eaed83987988e4e72e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

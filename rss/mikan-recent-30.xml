@@ -31060,5 +31060,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="265216320" url="https://mikanani.me/Download/20250512/df9f120f2a9951446635438b245e844bc63120b5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][战队大失格][16][GB][720P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/b5e20376ce0e0573001c71135939c334d34aa4ed</link>
+			<title>[轻之国度字幕组][战队大失格][16][GB][720P][MP4]</title>
+			<description>[轻之国度字幕组][战队大失格][16][GB][720P][MP4][336.26 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b5e20376ce0e0573001c71135939c334d34aa4ed</link>
+				<contentLength>352594176</contentLength>
+				<pubDate>2025-05-12T02:47:27.229</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352594176" url="https://mikanani.me/Download/20250512/b5e20376ce0e0573001c71135939c334d34aa4ed.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
