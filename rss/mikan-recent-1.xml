@@ -1672,5 +1672,53 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="168327904" url="https://mikanani.me/Download/20250511/df4360c8a591612bafc0d0f8a71c8a70824e8982.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/71c1453b037e54f1db6a93a4b447023b06b5a2e2</link>
+			<title>[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [简日双语]</title>
+			<description>[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [简日双语][323.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/71c1453b037e54f1db6a93a4b447023b06b5a2e2</link>
+				<contentLength>339633760</contentLength>
+				<pubDate>2025-05-11T17:26:06.686546</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339633760" url="https://mikanani.me/Download/20250511/71c1453b037e54f1db6a93a4b447023b06b5a2e2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/33304d16303e4ee71170113074f7ffc168385058</link>
+			<title>[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [繁日双语]</title>
+			<description>[樱桃花字幕组]夏日口袋 / Summer Pockets - 03 (1080p) [繁日双语][323.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33304d16303e4ee71170113074f7ffc168385058</link>
+				<contentLength>339528896</contentLength>
+				<pubDate>2025-05-11T17:25:55.094714</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339528896" url="https://mikanani.me/Download/20250511/33304d16303e4ee71170113074f7ffc168385058.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋 / Summer Pockets - 04 (1080p) [简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/8c3230fea1b299f233207366c196d10f930aa0ec</link>
+			<title>[樱桃花字幕组]夏日口袋 / Summer Pockets - 04 (1080p) [简日双语]</title>
+			<description>[樱桃花字幕组]夏日口袋 / Summer Pockets - 04 (1080p) [简日双语][244.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8c3230fea1b299f233207366c196d10f930aa0ec</link>
+				<contentLength>256586544</contentLength>
+				<pubDate>2025-05-11T17:25:36.978332</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="256586544" url="https://mikanani.me/Download/20250511/8c3230fea1b299f233207366c196d10f930aa0ec.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋 / Summer Pockets - 04 (1080p) [简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/70363000743cd13dddcc0718aacf9a19a3f49bcc</link>
+			<title>[樱桃花字幕组]夏日口袋 / Summer Pockets - 04 (1080p) [简日双语]</title>
+			<description>[樱桃花字幕组]夏日口袋 / Summer Pockets - 04 (1080p) [简日双语][244.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/70363000743cd13dddcc0718aacf9a19a3f49bcc</link>
+				<contentLength>256691408</contentLength>
+				<pubDate>2025-05-11T17:24:39.613823</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="256691408" url="https://mikanani.me/Download/20250511/70363000743cd13dddcc0718aacf9a19a3f49bcc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
