@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[1080P][DBD-Raws][数码宝贝5：拯救者/Digimon Savers][01-48TV全集+SP][HEVC-10bit][简繁外挂][AC3][MKV](デジモンセイバーズ)</guid>
-			<link>https://mikanani.me/Home/Episode/6aed1642fad634bb258f50659c1b1027b5f10fc2</link>
-			<title>[1080P][DBD-Raws][数码宝贝5：拯救者/Digimon Savers][01-48TV全集+SP][HEVC-10bit][简繁外挂][AC3][MKV](デジモンセイバーズ)</title>
-			<description>[1080P][DBD-Raws][数码宝贝5：拯救者/Digimon Savers][01-48TV全集+SP][HEVC-10bit][简繁外挂][AC3][MKV](デジモンセイバーズ)[34.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6aed1642fad634bb258f50659c1b1027b5f10fc2</link>
-				<contentLength>36614594560</contentLength>
-				<pubDate>2025-05-05T18:52:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="36614594560" url="https://mikanani.me/Download/20250505/6aed1642fad634bb258f50659c1b1027b5f10fc2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[1080P][DBD-Raws][数码宝贝5：拯救者/Digimon Savers][01-48TV全集+SP][Remux][简繁外挂][AC3][MKV](デジモンセイバーズ)</guid>
-			<link>https://mikanani.me/Home/Episode/77c9284c8e317da4abc30d891265ddf8efe5042c</link>
-			<title>[1080P][DBD-Raws][数码宝贝5：拯救者/Digimon Savers][01-48TV全集+SP][Remux][简繁外挂][AC3][MKV](デジモンセイバーズ)</title>
-			<description>[1080P][DBD-Raws][数码宝贝5：拯救者/Digimon Savers][01-48TV全集+SP][Remux][简繁外挂][AC3][MKV](デジモンセイバーズ)[157.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/77c9284c8e317da4abc30d891265ddf8efe5042c</link>
-				<contentLength>169221718016</contentLength>
-				<pubDate>2025-05-05T18:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="169221718016" url="https://mikanani.me/Download/20250505/77c9284c8e317da4abc30d891265ddf8efe5042c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 测不准的阿波连同学2 / Aharen-san wa Hakarenai Season 2 - 05 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/aa1e0b99b461d688ca1bdf46995d626f0de1e7ed</link>
 			<title>[黒ネズミたち] 测不准的阿波连同学2 / Aharen-san wa Hakarenai Season 2 - 05 (CR 1920x1080 AVC AAC MKV)</title>
@@ -6999,6 +6975,18 @@
 				<pubDate>2025-05-13T01:30:37.210144</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20250513/1559a2ca3289cd536e0197ef30a4fa01426cd369.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
+			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P][2.36 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
+				<contentLength>2534030592</contentLength>
+				<pubDate>2025-05-13T03:04:42.932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2534030592" url="https://mikanani.me/Download/20250513/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
+			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P][2.36 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
+				<contentLength>2534030592</contentLength>
+				<pubDate>2025-05-13T03:04:42.932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2534030592" url="https://mikanani.me/Download/20250513/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 中禅寺老师的灵怪讲义实录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 06 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/958ea86fcc7b52d2cc382dc401654365fa8a726f</link>
 			<title>[黒ネズミたち] 中禅寺老师的灵怪讲义实录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 06 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-11T22:38:55.462975</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="585419968" url="https://mikanani.me/Download/20250511/7d6dadcf53cdd2aa47f14ee0a5f5e7292f776d70.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 拉撒路 / Lazarus [05] [1080p] [简日内嵌] [2025年4月番]</guid>
-			<link>https://mikanani.me/Home/Episode/6839aa67d1f0b0134136f7a31cf3089f800e99ec</link>
-			<title>[猎户压制部] 拉撒路 / Lazarus [05] [1080p] [简日内嵌] [2025年4月番]</title>
-			<description>[猎户压制部] 拉撒路 / Lazarus [05] [1080p] [简日内嵌] [2025年4月番][558.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6839aa67d1f0b0134136f7a31cf3089f800e99ec</link>
-				<contentLength>585105408</contentLength>
-				<pubDate>2025-05-11T22:38:41.530661</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="585105408" url="https://mikanani.me/Download/20250511/6839aa67d1f0b0134136f7a31cf3089f800e99ec.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
-			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕][305.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
-				<contentLength>319920544</contentLength>
-				<pubDate>2025-05-11T18:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="319920544" url="https://mikanani.me/Download/20250511/30949415682962a5b48541415a9c313cf440a618.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0177df435d52e3b1b4ec28890aaeccb0e4cd881d</link>
 			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1551,6 +1539,18 @@
 				<pubDate>2025-05-13T01:30:37.210144</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20250513/1559a2ca3289cd536e0197ef30a4fa01426cd369.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
+			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P][2.36 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
+				<contentLength>2534030592</contentLength>
+				<pubDate>2025-05-13T03:04:42.932</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2534030592" url="https://mikanani.me/Download/20250513/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
