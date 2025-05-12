@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 14 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/97f97399b45dcdda223cb8eaed83987988e4e72e</link>
-			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 14 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 14 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/97f97399b45dcdda223cb8eaed83987988e4e72e</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-05-11T09:32:06.721869</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250511/97f97399b45dcdda223cb8eaed83987988e4e72e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [06][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/08029c08d4a83a05f84240c33f3807e029456ed2</link>
 			<title>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [06][1080p][简繁日内封]</title>
@@ -1587,6 +1575,18 @@
 				<pubDate>2025-05-12T17:12:49.836792</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="737463488" url="https://mikanani.me/Download/20250512/ea0af4c63ed7dbd9402a90536de52b3f791a3f12.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</guid>
+			<link>https://mikanani.me/Home/Episode/1ebd7c2743045561ee2d98605faebc7f238596a4</link>
+			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</title>
+			<description>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)[142.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ebd7c2743045561ee2d98605faebc7f238596a4</link>
+				<contentLength>153330335744</contentLength>
+				<pubDate>2025-05-12T17:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="153330335744" url="https://mikanani.me/Download/20250512/1ebd7c2743045561ee2d98605faebc7f238596a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

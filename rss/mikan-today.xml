@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</guid>
+			<link>https://mikanani.me/Home/Episode/1ebd7c2743045561ee2d98605faebc7f238596a4</link>
+			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)</title>
+			<description>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.31)[142.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ebd7c2743045561ee2d98605faebc7f238596a4</link>
+				<contentLength>153330335744</contentLength>
+				<pubDate>2025-05-12T17:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="153330335744" url="https://mikanani.me/Download/20250512/1ebd7c2743045561ee2d98605faebc7f238596a4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 推理要在晚餐后 [06][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/ea0af4c63ed7dbd9402a90536de52b3f791a3f12</link>
 			<title>[TOC] 推理要在晚餐后 [06][1080P][AVC AAC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-11T16:59:14.588</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="174808112" url="https://mikanani.me/Download/20250511/0506faf1ffd56c3f900be8380d29c8d334ec104b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [16][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/c9893934671d0cb01434d7ecea1a0fc2e73c1e61</link>
-			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [16][1080p][繁日内嵌]</title>
-			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [16][1080p][繁日内嵌][302.94 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c9893934671d0cb01434d7ecea1a0fc2e73c1e61</link>
-				<contentLength>317655616</contentLength>
-				<pubDate>2025-05-11T16:59:02.397</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="317655616" url="https://mikanani.me/Download/20250511/c9893934671d0cb01434d7ecea1a0fc2e73c1e61.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
