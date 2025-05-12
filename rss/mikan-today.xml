@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TOC] 推理要在晚餐后 [06][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/ea0af4c63ed7dbd9402a90536de52b3f791a3f12</link>
+			<title>[TOC] 推理要在晚餐后 [06][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] 推理要在晚餐后 [06][1080P][AVC AAC][CHT][MP4][703.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ea0af4c63ed7dbd9402a90536de52b3f791a3f12</link>
+				<contentLength>737463488</contentLength>
+				<pubDate>2025-05-12T17:12:49.836792</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="737463488" url="https://mikanani.me/Download/20250512/ea0af4c63ed7dbd9402a90536de52b3f791a3f12.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/02bfc6e7d752f31554ebe29ad7a956d3390386e1</link>
 			<title>[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-11T16:59:02.397</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="317655616" url="https://mikanani.me/Download/20250511/c9893934671d0cb01434d7ecea1a0fc2e73c1e61.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E06][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
-			<link>https://mikanani.me/Home/Episode/9af187187592181fe98ba64a64dc9938f3aa9ee1</link>
-			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E06][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
-			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E06][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9af187187592181fe98ba64a64dc9938f3aa9ee1</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-05-11T16:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250511/9af187187592181fe98ba64a64dc9938f3aa9ee1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
