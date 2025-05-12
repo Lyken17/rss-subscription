@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/02bfc6e7d752f31554ebe29ad7a956d3390386e1</link>
+			<title>[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV][234MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/02bfc6e7d752f31554ebe29ad7a956d3390386e1</link>
+				<contentLength>245366784</contentLength>
+				<pubDate>2025-05-12T14:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="245366784" url="https://mikanani.me/Download/20250512/02bfc6e7d752f31554ebe29ad7a956d3390386e1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[拉撒路_LAZARUS][05][x264 1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/845645651e7f29a47dd85d0f829d33f297f9d39b</link>
 			<title>【悠哈璃羽字幕社】[拉撒路_LAZARUS][05][x264 1080p][CHT]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-11T16:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250511/9af187187592181fe98ba64a64dc9938f3aa9ee1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [16][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/9582bc54a658f2106efa0f365e6c5a938a49ed49</link>
-			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [16][1080p][简日内嵌]</title>
-			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [16][1080p][简日内嵌][302.45 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9582bc54a658f2106efa0f365e6c5a938a49ed49</link>
-				<contentLength>317141824</contentLength>
-				<pubDate>2025-05-11T16:58:54.391</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="317141824" url="https://mikanani.me/Download/20250511/9582bc54a658f2106efa0f365e6c5a938a49ed49.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -6844,5 +6844,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="361496576" url="https://mikanani.me/Download/20250512/56b3a7c2248022d10a2977fc1313cc3720d70716.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/02bfc6e7d752f31554ebe29ad7a956d3390386e1</link>
+			<title>[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 912 成为模特的侦探团][HDTV][1080P][MKV][234MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/02bfc6e7d752f31554ebe29ad7a956d3390386e1</link>
+				<contentLength>245366784</contentLength>
+				<pubDate>2025-05-12T14:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="245366784" url="https://mikanani.me/Download/20250512/02bfc6e7d752f31554ebe29ad7a956d3390386e1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
