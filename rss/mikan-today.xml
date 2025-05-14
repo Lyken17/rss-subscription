@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][07][1080p][繁日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/05d4ef35078e7e488a6d7ba3281176608927ce98</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][07][1080p][繁日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][07][1080p][繁日双语][招募翻译时轴][456.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05d4ef35078e7e488a6d7ba3281176608927ce98</link>
+				<contentLength>478612032</contentLength>
+				<pubDate>2025-05-15T02:27:24.141</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="478612032" url="https://mikanani.me/Download/20250515/05d4ef35078e7e488a6d7ba3281176608927ce98.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[06][1080p][内嵌简日]</guid>
 			<link>https://mikanani.me/Home/Episode/4dcd52d785bd9a65d1216598f08fc246d3b9662e</link>
 			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[06][1080p][内嵌简日]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-13T22:19:39.393025</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="540645760" url="https://mikanani.me/Download/20250513/2cd3fadc487d5a870d7d737a245ebee0a893143e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru [06] [1080p] [简日内嵌] [2025年4月番]</guid>
-			<link>https://mikanani.me/Home/Episode/84d4eebbeeda3358a63cabf1d773ab0093ddd6fb</link>
-			<title>[猎户压制部] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru [06] [1080p] [简日内嵌] [2025年4月番]</title>
-			<description>[猎户压制部] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru [06] [1080p] [简日内嵌] [2025年4月番][515.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/84d4eebbeeda3358a63cabf1d773ab0093ddd6fb</link>
-				<contentLength>540436096</contentLength>
-				<pubDate>2025-05-13T22:19:30.884574</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="540436096" url="https://mikanani.me/Download/20250513/84d4eebbeeda3358a63cabf1d773ab0093ddd6fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
