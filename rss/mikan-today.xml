@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/833d543fb96a5797999bf068e4d40a2ef1cfc64a</link>
+			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)[426.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/833d543fb96a5797999bf068e4d40a2ef1cfc64a</link>
+				<contentLength>447427392</contentLength>
+				<pubDate>2025-05-14T09:02:21.17009</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="447427392" url="https://mikanani.me/Download/20250514/833d543fb96a5797999bf068e4d40a2ef1cfc64a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 精灵幻想记 第二季 / Seirei Gensouki 2 (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/964a4a3692a9d19a2c3f29b4815452dbff08491d</link>
 			<title>[H-Enc] 精灵幻想记 第二季 / Seirei Gensouki 2 (BDRip 1080p HEVC FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-13T04:15:05.561</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="347372256" url="https://mikanani.me/Download/20250513/e9ee00c004e4c7a321bb2d7284133f04a93a1a4b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
-			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][96-100][AVC][GB][1080P][2.36 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655</link>
-				<contentLength>2534030592</contentLength>
-				<pubDate>2025-05-13T03:04:42.932</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2534030592" url="https://mikanani.me/Download/20250513/6826bf6ec6398123e1c61ff52f0ff11c4c9fc655.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
