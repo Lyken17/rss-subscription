@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 58 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/cc094cf48260917f549f58d8d279237b11a9756e</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 58 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 58 (B-Global Donghua 1920x1080 HEVC AAC MKV)[265.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cc094cf48260917f549f58d8d279237b11a9756e</link>
-				<contentLength>278187200</contentLength>
-				<pubDate>2025-04-14T09:01:37.41988</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="278187200" url="https://mikanani.me/Download/20250414/cc094cf48260917f549f58d8d279237b11a9756e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 138 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/22d7db388d11fc7f9e5a88d4ed020a5b9563f9a3</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 138 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -30135,6 +30123,18 @@
 				<pubDate>2025-05-14T15:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1010932096" url="https://mikanani.me/Download/20250514/2a30d98f04ea218c071a0d91f387abd735f92dde.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/fbbf2f46527847e388e8d89c339a37bc9ba11baa</link>
+			<title>[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[7.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fbbf2f46527847e388e8d89c339a37bc9ba11baa</link>
+				<contentLength>7623566848</contentLength>
+				<pubDate>2025-05-14T16:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7623566848" url="https://mikanani.me/Download/20250514/fbbf2f46527847e388e8d89c339a37bc9ba11baa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][06][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/40ea36d72d9050baa3bc94ed18b15f1cd5bb346b</link>
-			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][06][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][06][1080p][简日双语][478.79 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/40ea36d72d9050baa3bc94ed18b15f1cd5bb346b</link>
-				<contentLength>502047712</contentLength>
-				<pubDate>2025-05-13T09:11:04.728</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="502047712" url="https://mikanani.me/Download/20250513/40ea36d72d9050baa3bc94ed18b15f1cd5bb346b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6da77c0e5ce5f4982ce389d0ce0ca2f95eb11d34</link>
-			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)[281.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6da77c0e5ce5f4982ce389d0ce0ca2f95eb11d34</link>
-				<contentLength>294754720</contentLength>
-				<pubDate>2025-05-13T09:01:38.594936</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="294754720" url="https://mikanani.me/Download/20250513/6da77c0e5ce5f4982ce389d0ce0ca2f95eb11d34.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/1ece3fdfcc7ae9bb389caeb809e1810150229c00</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1263,6 +1239,18 @@
 				<pubDate>2025-05-14T15:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1010932096" url="https://mikanani.me/Download/20250514/2a30d98f04ea218c071a0d91f387abd735f92dde.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/fbbf2f46527847e388e8d89c339a37bc9ba11baa</link>
+			<title>[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[7.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fbbf2f46527847e388e8d89c339a37bc9ba11baa</link>
+				<contentLength>7623566848</contentLength>
+				<pubDate>2025-05-14T16:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7623566848" url="https://mikanani.me/Download/20250514/fbbf2f46527847e388e8d89c339a37bc9ba11baa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/fbbf2f46527847e388e8d89c339a37bc9ba11baa</link>
+			<title>[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 女神咖啡厅/女神のカフェテラス/Megami no Cafe Terrace S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[7.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fbbf2f46527847e388e8d89c339a37bc9ba11baa</link>
+				<contentLength>7623566848</contentLength>
+				<pubDate>2025-05-14T16:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7623566848" url="https://mikanani.me/Download/20250514/fbbf2f46527847e388e8d89c339a37bc9ba11baa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">凸变英雄X - 01-06 [1080P][Bilibili][WEB-DL][AAC AVC][CHN&amp;JPN]</guid>
 			<link>https://mikanani.me/Home/Episode/142f058cd2bbaf1fc7e85dbdd9f984d5c4ab3f5d</link>
 			<title>凸变英雄X - 01-06 [1080P][Bilibili][WEB-DL][AAC AVC][CHN&amp;JPN]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-13T11:02:50.60567</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="614046080" url="https://mikanani.me/Download/20250513/1ece3fdfcc7ae9bb389caeb809e1810150229c00.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][26-30][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/0e030e38c0df618abfacba4b415a3edef22b9c23</link>
-			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][26-30][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][26-30][AVC][GB][1080P][3.88 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0e030e38c0df618abfacba4b415a3edef22b9c23</link>
-				<contentLength>4166118400</contentLength>
-				<pubDate>2025-05-13T10:57:53.913</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4166118400" url="https://mikanani.me/Download/20250513/0e030e38c0df618abfacba4b415a3edef22b9c23.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
