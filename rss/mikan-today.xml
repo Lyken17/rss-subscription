@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 06 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/79acccc5c7110d5cbdb9bdd181df22af1eeba7e0</link>
+			<title>[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 06 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 06 (ABEMA 1280x720 AVC AAC MP4)[372.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79acccc5c7110d5cbdb9bdd181df22af1eeba7e0</link>
+				<contentLength>390804288</contentLength>
+				<pubDate>2025-05-14T21:02:28.420425</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="390804288" url="https://mikanani.me/Download/20250514/79acccc5c7110d5cbdb9bdd181df22af1eeba7e0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[AnimeRep]莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [05][1080p][简中内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/40adb3730872b0e0ec8149606836bccde94fb62e</link>
 			<title>[AnimeRep]莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [05][1080p][简中内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-13T15:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4187593216" url="https://mikanani.me/Download/20250513/8ee6c59d0605c9c8a20110a84c731bdb891e897c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组&amp;7³ACG] 胆大党/ダンダダン/Dan Da Dan S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/b3d32f37f70c27c11d08eb8a0898bd1ab14a44d0</link>
-			<title>[桜都字幕组&amp;7³ACG] 胆大党/ダンダダン/Dan Da Dan S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[桜都字幕组&amp;7³ACG] 胆大党/ダンダダン/Dan Da Dan S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[8.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3d32f37f70c27c11d08eb8a0898bd1ab14a44d0</link>
-				<contentLength>9341553664</contentLength>
-				<pubDate>2025-05-13T15:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9341553664" url="https://mikanani.me/Download/20250513/b3d32f37f70c27c11d08eb8a0898bd1ab14a44d0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
