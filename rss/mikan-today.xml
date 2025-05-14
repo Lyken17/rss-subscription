@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][06][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/3c9cbf1226b95a83f8890aa4717cc37272d75404</link>
+			<title>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][06][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][06][1080p][繁日双语][303.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c9cbf1226b95a83f8890aa4717cc37272d75404</link>
+				<contentLength>318179904</contentLength>
+				<pubDate>2025-05-15T05:27:10.14</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="318179904" url="https://mikanani.me/Download/20250515/3c9cbf1226b95a83f8890aa4717cc37272d75404.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][07][1080p][繁日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/05d4ef35078e7e488a6d7ba3281176608927ce98</link>
 			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][07][1080p][繁日双语][招募翻译时轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-13T22:42:53.512673</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="375285344" url="https://mikanani.me/Download/20250513/4f69d7ec94e025be8254064b286a770caea7f697.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru [06] [1080p] [繁日内嵌] [2025年4月番]</guid>
-			<link>https://mikanani.me/Home/Episode/2cd3fadc487d5a870d7d737a245ebee0a893143e</link>
-			<title>[猎户压制部] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru [06] [1080p] [繁日内嵌] [2025年4月番]</title>
-			<description>[猎户压制部] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru [06] [1080p] [繁日内嵌] [2025年4月番][515.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2cd3fadc487d5a870d7d737a245ebee0a893143e</link>
-				<contentLength>540645760</contentLength>
-				<pubDate>2025-05-13T22:19:39.393025</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="540645760" url="https://mikanani.me/Download/20250513/2cd3fadc487d5a870d7d737a245ebee0a893143e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
