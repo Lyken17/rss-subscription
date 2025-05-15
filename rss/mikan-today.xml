@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/5b511e0088e581e73e8b50f435432b4fd0cf28df</link>
+			<title>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHT][151.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b511e0088e581e73e8b50f435432b4fd0cf28df</link>
+				<contentLength>158639056</contentLength>
+				<pubDate>2025-05-15T12:39:41.915</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="158639056" url="https://mikanani.me/Download/20250515/5b511e0088e581e73e8b50f435432b4fd0cf28df.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/9c5878d6bc913f1a4f803b97f2f89b095f1b02d2</link>
+			<title>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHS][151.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9c5878d6bc913f1a4f803b97f2f89b095f1b02d2</link>
+				<contentLength>158544688</contentLength>
+				<pubDate>2025-05-15T12:39:33.339</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="158544688" url="https://mikanani.me/Download/20250515/9c5878d6bc913f1a4f803b97f2f89b095f1b02d2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</guid>
 			<link>https://mikanani.me/Home/Episode/4f64570ef6ecfb92fdab8aa46753d8ec7da656a1</link>
 			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-05-13T23:25:27.017</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="571033536" url="https://mikanani.me/Download/20250513/6cbc0f4349c5dbc9432a1eda1599d00440f1e234.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [06][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/e03a85ac766ad864ffd8d1e98a806fbeadb2233e</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [06][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [06][1080p][简体内嵌][544.73 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e03a85ac766ad864ffd8d1e98a806fbeadb2233e</link>
-				<contentLength>571190784</contentLength>
-				<pubDate>2025-05-13T23:24:31.914</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="571190784" url="https://mikanani.me/Download/20250513/e03a85ac766ad864ffd8d1e98a806fbeadb2233e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [06][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/881b774860f49d290659b1525e654adbabfc34e5</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [06][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [06][1080p][简繁内封][463.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/881b774860f49d290659b1525e654adbabfc34e5</link>
-				<contentLength>486434400</contentLength>
-				<pubDate>2025-05-13T23:23:41.077</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="486434400" url="https://mikanani.me/Download/20250513/881b774860f49d290659b1525e654adbabfc34e5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

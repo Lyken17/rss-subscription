@@ -988,5 +988,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2415919104" url="https://mikanani.me/Download/20250515/c6b3f8cf9f987f019f841587e58cc4779798b7b0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/5b511e0088e581e73e8b50f435432b4fd0cf28df</link>
+			<title>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHT][151.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b511e0088e581e73e8b50f435432b4fd0cf28df</link>
+				<contentLength>158639056</contentLength>
+				<pubDate>2025-05-15T12:39:41.915</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="158639056" url="https://mikanani.me/Download/20250515/5b511e0088e581e73e8b50f435432b4fd0cf28df.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/9c5878d6bc913f1a4f803b97f2f89b095f1b02d2</link>
+			<title>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][06][1080p][CHS][151.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9c5878d6bc913f1a4f803b97f2f89b095f1b02d2</link>
+				<contentLength>158544688</contentLength>
+				<pubDate>2025-05-15T12:39:33.339</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="158544688" url="https://mikanani.me/Download/20250515/9c5878d6bc913f1a4f803b97f2f89b095f1b02d2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
