@@ -1132,5 +1132,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="33491518" url="https://mikanani.me/Download/20250515/81e867034860a9a290858df0e66fe2de6aaad941.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</guid>
+			<link>https://mikanani.me/Home/Episode/5a5380f569ec7106f8fae39e240d459339404449</link>
+			<title>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</title>
+			<description>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}[925.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5a5380f569ec7106f8fae39e240d459339404449</link>
+				<contentLength>970320768</contentLength>
+				<pubDate>2025-05-15T17:22:04.712</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="970320768" url="https://mikanani.me/Download/20250515/5a5380f569ec7106f8fae39e240d459339404449.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

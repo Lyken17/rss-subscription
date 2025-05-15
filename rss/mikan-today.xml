@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</guid>
+			<link>https://mikanani.me/Home/Episode/5a5380f569ec7106f8fae39e240d459339404449</link>
+			<title>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</title>
+			<description>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}[925.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5a5380f569ec7106f8fae39e240d459339404449</link>
+				<contentLength>970320768</contentLength>
+				<pubDate>2025-05-15T17:22:04.712</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="970320768" url="https://mikanani.me/Download/20250515/5a5380f569ec7106f8fae39e240d459339404449.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[MingY] 莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [05][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/40882fa906a4fe9da7b57fa53a7bd880ad3244ce</link>
 			<title>[MingY] 莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil - Friends are thieves of time. [05][1080p][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-14T06:56:30.898456</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20250514/52df759979b7272dafa7a36f0d4b9443195aae65.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1709b2bc2ab021e68d3bbf7a70bbe867fd11a4ab</link>
-			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 06 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1709b2bc2ab021e68d3bbf7a70bbe867fd11a4ab</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-05-14T03:02:53.647098</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250514/1709b2bc2ab021e68d3bbf7a70bbe867fd11a4ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="240753056" url="https://mikanani.me/Download/20250508/6f5e431f8a0cf237ef74fe6ac8a631ca29919e3e.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 中禅寺老师的灵怪讲义实录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 05 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f204a76b1840e53ff23ad9cca2338811e3b34533</link>
-			<title>[黒ネズミたち] 中禅寺老师的灵怪讲义实录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 05 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 中禅寺老师的灵怪讲义实录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 05 (B-Global 1920x1080 HEVC AAC MKV)[253.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f204a76b1840e53ff23ad9cca2338811e3b34533</link>
-				<contentLength>265289728</contentLength>
-				<pubDate>2025-05-08T09:27:51.940065</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="265289728" url="https://mikanani.me/Download/20250508/f204a76b1840e53ff23ad9cca2338811e3b34533.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/f80b97c967b988e43608420a710eed69f8c99cb7</link>
 			<title>[动漫国字幕组&amp;VCB-Studio] 我们的重制人生 / Bokutachi no Remake / ぼくたちのリメイク 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -6951,6 +6939,18 @@
 				<pubDate>2025-05-15T16:40:49.692</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="33491518" url="https://mikanani.me/Download/20250515/81e867034860a9a290858df0e66fe2de6aaad941.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</guid>
+			<link>https://mikanani.me/Home/Episode/5a5380f569ec7106f8fae39e240d459339404449</link>
+			<title>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</title>
+			<description>[修正版&amp;无修版] 快藏好！玛琪娜同学!! - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}[925.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5a5380f569ec7106f8fae39e240d459339404449</link>
+				<contentLength>970320768</contentLength>
+				<pubDate>2025-05-15T17:22:04.712</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="970320768" url="https://mikanani.me/Download/20250515/5a5380f569ec7106f8fae39e240d459339404449.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
