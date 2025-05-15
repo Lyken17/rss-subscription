@@ -424,5 +424,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390919616" url="https://mikanani.me/Download/20250514/5f29df3accfa7283227786fc82b0bf8f73a59ef7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 07 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a5ee91b1a57a1cdffcd88482bf2c6b80ebc48819</link>
+			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 07 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 07 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][347.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a5ee91b1a57a1cdffcd88482bf2c6b80ebc48819</link>
+				<contentLength>364191424</contentLength>
+				<pubDate>2025-05-15T20:50:42.429</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364191424" url="https://mikanani.me/Download/20250515/a5ee91b1a57a1cdffcd88482bf2c6b80ebc48819.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
