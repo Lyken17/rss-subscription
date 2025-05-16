@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][01-06][HEVC][x265 10bit][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/995855bf84d7b29d21ed23d2514d96aa8f0a7bfa</link>
+			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][01-06][HEVC][x265 10bit][1080p][简日双语]</title>
+			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋][01-06][HEVC][x265 10bit][1080p][简日双语][2.09 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/995855bf84d7b29d21ed23d2514d96aa8f0a7bfa</link>
+				<contentLength>2244120320</contentLength>
+				<pubDate>2025-05-16T20:38:53.627</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2244120320" url="https://mikanani.me/Download/20250516/995855bf84d7b29d21ed23d2514d96aa8f0a7bfa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray 01-04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/48b3c556e3f92bf7b3d7e0e412eeef7ab4766177</link>
 			<title>赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray 01-04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-15T11:22:07.892</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2415919104" url="https://mikanani.me/Download/20250515/c6b3f8cf9f987f019f841587e58cc4779798b7b0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 大侠请上功 / Da Xia Qing Shang Gong - 02 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0406015ab425ac7f113e5b3c715d3b50345447ca</link>
-			<title>[黒ネズミたち] 大侠请上功 / Da Xia Qing Shang Gong - 02 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 大侠请上功 / Da Xia Qing Shang Gong - 02 (B-Global Donghua 1920x1080 HEVC AAC MKV)[433.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0406015ab425ac7f113e5b3c715d3b50345447ca</link>
-				<contentLength>454033408</contentLength>
-				<pubDate>2025-05-15T11:05:03.608486</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="454033408" url="https://mikanani.me/Download/20250515/0406015ab425ac7f113e5b3c715d3b50345447ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

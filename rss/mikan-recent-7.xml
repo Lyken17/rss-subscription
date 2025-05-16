@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5f8b79f20548257cdbe00c2600717c07d0f18325</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][724.84 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f8b79f20548257cdbe00c2600717c07d0f18325</link>
-				<contentLength>760049856</contentLength>
-				<pubDate>2025-05-09T12:56:01.47</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="760049856" url="https://mikanani.me/Download/20250509/5f8b79f20548257cdbe00c2600717c07d0f18325.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 凡尔赛玫瑰 / ベルサイユのばら / Versailles no Bara / The Rose of Versailles [WebRip][HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/5f76a80d1f6b3dd6f3a45660e372a56230ad4f2e</link>
 			<title>[❀拨雪寻春❀] 凡尔赛玫瑰 / ベルサイユのばら / Versailles no Bara / The Rose of Versailles [WebRip][HEVC-10bit 1080p][繁日内嵌]</title>
@@ -7023,6 +7011,18 @@
 				<pubDate>2025-05-16T19:17:09.678271</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="381367104" url="https://mikanani.me/Download/20250516/7cb7967ccd97bce34007e1d2bd0cbf2b0ed7cfd2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][01-06][HEVC][x265 10bit][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/995855bf84d7b29d21ed23d2514d96aa8f0a7bfa</link>
+			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][01-06][HEVC][x265 10bit][1080p][简日双语]</title>
+			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋][01-06][HEVC][x265 10bit][1080p][简日双语][2.09 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/995855bf84d7b29d21ed23d2514d96aa8f0a7bfa</link>
+				<contentLength>2244120320</contentLength>
+				<pubDate>2025-05-16T20:38:53.627</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2244120320" url="https://mikanani.me/Download/20250516/995855bf84d7b29d21ed23d2514d96aa8f0a7bfa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
