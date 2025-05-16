@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 30 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/76541c0647e0e5c6f6e22341d7bc072e9f726325</link>
+			<title>[黒ネズミたち] Nui Story 2 - 30 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 30 (ABEMA 1920x1080 AVC AAC MP4)[46.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/76541c0647e0e5c6f6e22341d7bc072e9f726325</link>
+				<contentLength>48968500</contentLength>
+				<pubDate>2025-05-17T02:58:18.208746</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="48968500" url="https://mikanani.me/Download/20250517/76541c0647e0e5c6f6e22341d7bc072e9f726325.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 男女之间存在纯友情吗？（不，不存在！） / 男女の友情は成立する？（いや、しないっ!!） / Danjoru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c49ca55b52873ab7023491294a29a7d5879c658c</link>
 			<title>[LoliHouse] 男女之间存在纯友情吗？（不，不存在！） / 男女の友情は成立する？（いや、しないっ!!） / Danjoru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-15T20:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="394474304" url="https://mikanani.me/Download/20250515/3d4249943c9033d81f398452585af7a90f41ed7a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  忍者与杀手的两人生活 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/5965c7dd6db57cb95b17314fb944de2363b6c95f</link>
-			<title>[ANi]  忍者与杀手的两人生活 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  忍者与杀手的两人生活 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][379.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5965c7dd6db57cb95b17314fb944de2363b6c95f</link>
-				<contentLength>397934592</contentLength>
-				<pubDate>2025-05-15T20:31:06.677834</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397934592" url="https://mikanani.me/Download/20250515/5965c7dd6db57cb95b17314fb944de2363b6c95f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

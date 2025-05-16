@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [02][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/be4ab8813b0dc018d0f105fd38c9ddfcb1d065d6</link>
-			<title>[桜都字幕组] 魔女守护者 / Witch Watch [02][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 魔女守护者 / Witch Watch [02][1080p][繁体内嵌][578.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be4ab8813b0dc018d0f105fd38c9ddfcb1d065d6</link>
-				<contentLength>606727040</contentLength>
-				<pubDate>2025-04-16T19:05:34.866</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="606727040" url="https://mikanani.me/Download/20250416/be4ab8813b0dc018d0f105fd38c9ddfcb1d065d6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [02][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b309ccc4a082eaeb9b7ba2a8f961536c2d6c9100</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [02][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [02][1080p][简体内嵌][579.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b309ccc4a082eaeb9b7ba2a8f961536c2d6c9100</link>
-				<contentLength>607251328</contentLength>
-				<pubDate>2025-04-16T18:41:30.117</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="607251328" url="https://mikanani.me/Download/20250416/b309ccc4a082eaeb9b7ba2a8f961536c2d6c9100.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[MeiYangYang] 炎炎消防队 叁之章 / Fire Force - S03E02 [R-ESRGAN 2160P WebRip HEVC-10bit]</guid>
 			<link>https://mikanani.me/Home/Episode/6b357c4e0d07a3f83642a401d13e168ca9449de9</link>
 			<title>[MeiYangYang] 炎炎消防队 叁之章 / Fire Force - S03E02 [R-ESRGAN 2160P WebRip HEVC-10bit]</title>
@@ -30183,6 +30159,18 @@
 				<pubDate>2025-05-17T01:17:41.701054</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725404864" url="https://mikanani.me/Download/20250517/11dee9a6005faa2759f997368510a9a132d29df3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 30 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/76541c0647e0e5c6f6e22341d7bc072e9f726325</link>
+			<title>[黒ネズミたち] Nui Story 2 - 30 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 30 (ABEMA 1920x1080 AVC AAC MP4)[46.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/76541c0647e0e5c6f6e22341d7bc072e9f726325</link>
+				<contentLength>48968500</contentLength>
+				<pubDate>2025-05-17T02:58:18.208746</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="48968500" url="https://mikanani.me/Download/20250517/76541c0647e0e5c6f6e22341d7bc072e9f726325.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
