@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/569e388f6e5c97675771755aab2ebb477c2b61b4</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 06 (ABEMA 1920x1080 AVC AAC MP4)[714.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/569e388f6e5c97675771755aab2ebb477c2b61b4</link>
+				<contentLength>749522112</contentLength>
+				<pubDate>2025-05-16T16:00:43.418986</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="749522112" url="https://mikanani.me/Download/20250516/569e388f6e5c97675771755aab2ebb477c2b61b4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/198136caef56b7a24f8554d04b43f270628987a4</link>
 			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-15T01:16:14.176401</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="340053184" url="https://mikanani.me/Download/20250515/0dccfcd5dfab1180a0f0b2617ef0c2d307429f13.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最强王者的第二人生 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 07 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/069357e5247189e5d887c9f141349749b84beb0d</link>
-			<title>[黒ネズミたち] 最强王者的第二人生 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 07 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 最强王者的第二人生 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 07 (B-Global 1920x1080 HEVC AAC MKV)[298.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/069357e5247189e5d887c9f141349749b84beb0d</link>
-				<contentLength>313314496</contentLength>
-				<pubDate>2025-05-15T00:46:08.214361</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="313314496" url="https://mikanani.me/Download/20250515/069357e5247189e5d887c9f141349749b84beb0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
