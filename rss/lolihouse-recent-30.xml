@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1a1af6973e5987cc2231dec605a266606d491286</link>
-			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][627.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1a1af6973e5987cc2231dec605a266606d491286</link>
-				<contentLength>657908032</contentLength>
-				<pubDate>2025-04-17T17:18:11.728</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="657908032" url="https://mikanani.me/Download/20250417/1a1af6973e5987cc2231dec605a266606d491286.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d3dd13b4f5ff85cec7403320f11ed64ef496cb01</link>
 			<title>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches 01 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -2127,6 +2115,18 @@
 				<pubDate>2025-05-18T00:42:34.291</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="283839040" url="https://mikanani.me/Download/20250518/48359c61df5228d41d34b51085a0ecc1b9151e31.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/406dec08fe4bf05bf6b620880c21025e6cc752b4</link>
+			<title>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][498.45 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/406dec08fe4bf05bf6b620880c21025e6cc752b4</link>
+				<contentLength>522662720</contentLength>
+				<pubDate>2025-05-18T02:07:56.807</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="522662720" url="https://mikanani.me/Download/20250518/406dec08fe4bf05bf6b620880c21025e6cc752b4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
