@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8b2077fce8221032a28cd35f54b6f75846c79146</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][609.16 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8b2077fce8221032a28cd35f54b6f75846c79146</link>
-				<contentLength>638750528</contentLength>
-				<pubDate>2025-05-10T00:12:29.89</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="638750528" url="https://mikanani.me/Download/20250510/8b2077fce8221032a28cd35f54b6f75846c79146.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7c90ce0cb2985506cc8412b7c8c5d2a71d584d7f</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 圣女因太过完美一点也不讨人喜欢而被废除婚约卖到邻国 / Kanpekiseijo - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -435,6 +423,18 @@
 				<pubDate>2025-05-17T02:15:17.529</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301612416" url="https://mikanani.me/Download/20250517/c49ca55b52873ab7023491294a29a7d5879c658c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 17 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b5ed05a9cc86c11c918733791a7f54048a82c97d</link>
+			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 17 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</title>
+			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 17 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][960.91 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b5ed05a9cc86c11c918733791a7f54048a82c97d</link>
+				<contentLength>1007587136</contentLength>
+				<pubDate>2025-05-17T08:16:42.298</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1007587136" url="https://mikanani.me/Download/20250517/b5ed05a9cc86c11c918733791a7f54048a82c97d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
