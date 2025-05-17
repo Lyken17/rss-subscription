@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d11b8c5eb34e1016b066c67fb459e31437549141</link>
+			<title>[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 06 (ABEMA 1920x1080 AVC AAC MP4)[717.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d11b8c5eb34e1016b066c67fb459e31437549141</link>
+				<contentLength>752772736</contentLength>
+				<pubDate>2025-05-18T02:32:58.235534</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752772736" url="https://mikanani.me/Download/20250518/d11b8c5eb34e1016b066c67fb459e31437549141.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/406dec08fe4bf05bf6b620880c21025e6cc752b4</link>
 			<title>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-17T08:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20250517/ac8a5e3d8291ade6e875c7606342cd699b19cfed.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【白恋动漫萝卜部＆AYN字幕组】[钢之魂][宇宙战士巴尔迪奥斯][Uchuu Senshi Baldios][GB][DVDRIP][480P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/30c0f7a1a47832ff22015ef06ce0471415677a59</link>
-			<title>【白恋动漫萝卜部＆AYN字幕组】[钢之魂][宇宙战士巴尔迪奥斯][Uchuu Senshi Baldios][GB][DVDRIP][480P][MP4]</title>
-			<description>【白恋动漫萝卜部＆AYN字幕组】[钢之魂][宇宙战士巴尔迪奥斯][Uchuu Senshi Baldios][GB][DVDRIP][480P][MP4][3.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/30c0f7a1a47832ff22015ef06ce0471415677a59</link>
-				<contentLength>3543347968</contentLength>
-				<pubDate>2025-05-17T08:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20250517/30c0f7a1a47832ff22015ef06ce0471415677a59.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
