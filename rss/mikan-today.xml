@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2e2f0710e0dc36d74f3ebc838327c18c631a04d3</link>
+			<title>[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕]</title>
+			<description>[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e2f0710e0dc36d74f3ebc838327c18c631a04d3</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-05-17T14:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250517/2e2f0710e0dc36d74f3ebc838327c18c631a04d3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil: Friends Are Thieves of Time. 01-05 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/bff8b4d20ac55dab202eb57f775cc1bef46ca2d0</link>
 			<title>莉可丽丝：友谊是时间的窃贼 / Lycoris Recoil: Friends Are Thieves of Time. 01-05 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-16T00:01:02.540421</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="452041120" url="https://mikanani.me/Download/20250516/ad6d023b24eeb141e46812284ca62b643961e55b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 20 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a91471e0b80239a4822ed1aefb7b497c185ea9a3</link>
-			<title>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 20 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 20 (ABEMA 1280x720 AVC AAC MP4)[367.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a91471e0b80239a4822ed1aefb7b497c185ea9a3</link>
-				<contentLength>385456544</contentLength>
-				<pubDate>2025-05-16T00:00:53.472175</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385456544" url="https://mikanani.me/Download/20250516/a91471e0b80239a4822ed1aefb7b497c185ea9a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

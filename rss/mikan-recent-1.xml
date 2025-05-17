@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4bd2151058395ef80e731732a7705de86b58ca1f</link>
-			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][243.28 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4bd2151058395ef80e731732a7705de86b58ca1f</link>
-				<contentLength>255097568</contentLength>
-				<pubDate>2025-05-16T06:36:08.435</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="255097568" url="https://mikanani.me/Download/20250516/4bd2151058395ef80e731732a7705de86b58ca1f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/dc6aa0d48c2e1b18d5d876ef7b62ff1b9d57b704</link>
 			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -831,6 +819,18 @@
 				<pubDate>2025-05-17T12:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="14173391872" url="https://mikanani.me/Download/20250517/167109ab0472758647549e30c15644d52f3876d0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2e2f0710e0dc36d74f3ebc838327c18c631a04d3</link>
+			<title>[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕]</title>
+			<description>[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e2f0710e0dc36d74f3ebc838327c18c631a04d3</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-05-17T14:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250517/2e2f0710e0dc36d74f3ebc838327c18c631a04d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

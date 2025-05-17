@@ -29668,5 +29668,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="14173391872" url="https://mikanani.me/Download/20250517/167109ab0472758647549e30c15644d52f3876d0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2e2f0710e0dc36d74f3ebc838327c18c631a04d3</link>
+			<title>[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕]</title>
+			<description>[冷番补完字幕组][时间之主][The Masters of Time][1982][Movie][1080p][内封中日双语字幕][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e2f0710e0dc36d74f3ebc838327c18c631a04d3</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-05-17T14:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250517/2e2f0710e0dc36d74f3ebc838327c18c631a04d3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
