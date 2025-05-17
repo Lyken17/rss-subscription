@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="5476083200" url="https://mikanani.me/Download/20250516/18199d7bbf96e2830727a5104224fc3fa485a708.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/166b1189cc38243851203566a232221d49012614</link>
-			<title>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 少年歌行 第四季 / Youths and Golden Coffin S4 - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)[725.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/166b1189cc38243851203566a232221d49012614</link>
-				<contentLength>760741888</contentLength>
-				<pubDate>2025-05-16T10:02:28.448727</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="760741888" url="https://mikanani.me/Download/20250516/166b1189cc38243851203566a232221d49012614.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/198136caef56b7a24f8554d04b43f270628987a4</link>
 			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1071,6 +1059,18 @@
 				<pubDate>2025-05-17T16:26:49.235</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="517126240" url="https://mikanani.me/Download/20250517/2d33a55f33b65577307d8cdc5ff3b65049c664e0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 07 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0c45a836ac7f7d9f34b62f505fe659fcb29b97a1</link>
+			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 07 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 07 (B-Global 1920x1080 HEVC AAC MKV)[432.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c45a836ac7f7d9f34b62f505fe659fcb29b97a1</link>
+				<contentLength>453089696</contentLength>
+				<pubDate>2025-05-17T18:02:02.425637</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="453089696" url="https://mikanani.me/Download/20250517/0c45a836ac7f7d9f34b62f505fe659fcb29b97a1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

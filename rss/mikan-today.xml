@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 07 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0c45a836ac7f7d9f34b62f505fe659fcb29b97a1</link>
+			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 07 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 07 (B-Global 1920x1080 HEVC AAC MKV)[432.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c45a836ac7f7d9f34b62f505fe659fcb29b97a1</link>
+				<contentLength>453089696</contentLength>
+				<pubDate>2025-05-17T18:02:02.425637</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="453089696" url="https://mikanani.me/Download/20250517/0c45a836ac7f7d9f34b62f505fe659fcb29b97a1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2348c34cbf6cc86486292195f35dbd70a03fbe18</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-16T01:09:45.30176</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="607052096" url="https://mikanani.me/Download/20250516/c386afbf0686bf1f6bceb1c85493cd5b32bfa3c5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【FSD粉羽社】你与偶像光之美少女\You and idol Precure\キミとアイドルプリキュア [12][1080P][中日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/9fc265592920d21fd14bbe9d68e4a3c9cb8a659c</link>
-			<title>【FSD粉羽社】你与偶像光之美少女\You and idol Precure\キミとアイドルプリキュア [12][1080P][中日双语]</title>
-			<description>【FSD粉羽社】你与偶像光之美少女\You and idol Precure\キミとアイドルプリキュア [12][1080P][中日双语][596.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9fc265592920d21fd14bbe9d68e4a3c9cb8a659c</link>
-				<contentLength>625265856</contentLength>
-				<pubDate>2025-05-16T01:05:47.834868</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="625265856" url="https://mikanani.me/Download/20250516/9fc265592920d21fd14bbe9d68e4a3c9cb8a659c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
