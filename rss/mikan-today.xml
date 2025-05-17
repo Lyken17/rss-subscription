@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP07 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</guid>
+			<link>https://mikanani.me/Home/Episode/a80afc7d59bc9cf72bb7245a45576f6ad5222794</link>
+			<title>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP07 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</title>
+			<description>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP07 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}[713.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a80afc7d59bc9cf72bb7245a45576f6ad5222794</link>
+				<contentLength>748630848</contentLength>
+				<pubDate>2025-05-18T05:18:54.204</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748630848" url="https://mikanani.me/Download/20250518/a80afc7d59bc9cf72bb7245a45576f6ad5222794.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 小市民系列 第二季 / Shoushimin Series 2nd Season - 17 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d5d0c41146bf87d7e25d03f71d228276fe29c23d</link>
 			<title>[黒ネズミたち] 小市民系列 第二季 / Shoushimin Series 2nd Season - 17 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-17T11:31:34.216145</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="326002272" url="https://mikanani.me/Download/20250517/6d7b20169020081a0ce7b7ba440e90ed2c7d0184.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 推理要在晚餐后 [07][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/903135cd4e9f264df646748740703a1d2cab0c9e</link>
-			<title>[TOC] 推理要在晚餐后 [07][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 推理要在晚餐后 [07][1080P][AVC AAC][CHT][MP4][703.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/903135cd4e9f264df646748740703a1d2cab0c9e</link>
-				<contentLength>737463488</contentLength>
-				<pubDate>2025-05-17T11:31:18.248334</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="737463488" url="https://mikanani.me/Download/20250517/903135cd4e9f264df646748740703a1d2cab0c9e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
