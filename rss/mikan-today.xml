@@ -1192,17 +1192,5 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="482869248" url="https://mikanani.me/Download/20250517/3ea053a6b669f2393ded34fe86f0a28fbdd8fb68.torrent"></enclosure>
 		</item>
-		<item>
-			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第74集 死神阵内杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/07310a65d34d0254a092e99abe26b97f2c95c2ec</link>
-			<title>[银色子弹字幕组][名侦探柯南][第74集 死神阵内杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</title>
-			<description>[银色子弹字幕组][名侦探柯南][第74集 死神阵内杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P][1.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07310a65d34d0254a092e99abe26b97f2c95c2ec</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2025-05-17T23:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250517/07310a65d34d0254a092e99abe26b97f2c95c2ec.torrent"></enclosure>
-		</item>
 	</channel>
 </rss>
