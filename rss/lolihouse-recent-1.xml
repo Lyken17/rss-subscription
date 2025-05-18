@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 17 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b5ed05a9cc86c11c918733791a7f54048a82c97d</link>
-			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 17 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</title>
-			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 17 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][960.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b5ed05a9cc86c11c918733791a7f54048a82c97d</link>
-				<contentLength>1007587136</contentLength>
-				<pubDate>2025-05-17T08:16:42.298</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1007587136" url="https://mikanani.me/Download/20250517/b5ed05a9cc86c11c918733791a7f54048a82c97d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2348c34cbf6cc86486292195f35dbd70a03fbe18</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -99,6 +87,18 @@
 				<pubDate>2025-05-18T09:22:31.472</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="838598656" url="https://mikanani.me/Download/20250518/1fc901e05fb8f504818e117f8f60e0c99fad1b68.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a0f38d527e41da0b8e410ce3c3cc373c0ceacef3</link>
+			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][413.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a0f38d527e41da0b8e410ce3c3cc373c0ceacef3</link>
+				<contentLength>433250624</contentLength>
+				<pubDate>2025-05-18T16:10:27.117</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="433250624" url="https://mikanani.me/Download/20250518/a0f38d527e41da0b8e410ce3c3cc373c0ceacef3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
