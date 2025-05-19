@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">天才治疗师退队作为无照治疗师快乐过活 / The Brilliant Healer's New Life in the Shadows - 07 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/16721be81fbfd1c6aa127d33d843b2f9d12d4886</link>
+			<title>天才治疗师退队作为无照治疗师快乐过活 / The Brilliant Healer's New Life in the Shadows - 07 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
+			<description>天才治疗师退队作为无照治疗师快乐过活 / The Brilliant Healer's New Life in the Shadows - 07 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][320.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/16721be81fbfd1c6aa127d33d843b2f9d12d4886</link>
+				<contentLength>335712096</contentLength>
+				<pubDate>2025-05-20T03:23:35.868</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="335712096" url="https://mikanani.me/Download/20250520/16721be81fbfd1c6aa127d33d843b2f9d12d4886.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 31 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/fb87208ce1c05193ea45e827ef6f3d385525fd81</link>
 			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 31 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-18T23:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="467350336" url="https://mikanani.me/Download/20250518/b15a8b4e482735c7017b6bd64fd6a183434caa0a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[天月搬运组] 赛马娘 Cinderella Gray / Uma Musume: Cinderella Gray - 07 (NetFlix 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8603a319204d7e6c28b68fcede0f0f8a73d17b12</link>
-			<title>[天月搬运组] 赛马娘 Cinderella Gray / Uma Musume: Cinderella Gray - 07 (NetFlix 1920x1080 AVC AAC MKV)</title>
-			<description>[天月搬运组] 赛马娘 Cinderella Gray / Uma Musume: Cinderella Gray - 07 (NetFlix 1920x1080 AVC AAC MKV)[870.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8603a319204d7e6c28b68fcede0f0f8a73d17b12</link>
-				<contentLength>912785408</contentLength>
-				<pubDate>2025-05-18T23:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="912785408" url="https://mikanani.me/Download/20250518/8603a319204d7e6c28b68fcede0f0f8a73d17b12.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
