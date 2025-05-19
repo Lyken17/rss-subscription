@@ -2092,5 +2092,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="411241024" url="https://mikanani.me/Download/20250519/3c6028b0d04032c933d654d4f26bc89f7d3de29e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 06 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3dd5caa452f8943a2cb6435bc9f92b7c7613ed9f</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 06 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 06 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][679.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3dd5caa452f8943a2cb6435bc9f92b7c7613ed9f</link>
+				<contentLength>712402560</contentLength>
+				<pubDate>2025-05-19T17:06:42.784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="712402560" url="https://mikanani.me/Download/20250519/3dd5caa452f8943a2cb6435bc9f92b7c7613ed9f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
