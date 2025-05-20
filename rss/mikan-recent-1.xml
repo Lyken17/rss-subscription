@@ -1036,5 +1036,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="580177088" url="https://mikanani.me/Download/20250520/908c213cc1b2debc2de081ee26718716edad3b1a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喜羊羊与灰太狼之奇思妙想喜羊羊】【1080p】【全集】</guid>
+			<link>https://mikanani.me/Home/Episode/008b7e2f1cb5863d72647e224fafcbbe5b79151a</link>
+			<title>【喜羊羊与灰太狼之奇思妙想喜羊羊】【1080p】【全集】</title>
+			<description>【喜羊羊与灰太狼之奇思妙想喜羊羊】【1080p】【全集】[7.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/008b7e2f1cb5863d72647e224fafcbbe5b79151a</link>
+				<contentLength>7838315520</contentLength>
+				<pubDate>2025-05-20T13:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7838315520" url="https://mikanani.me/Download/20250520/008b7e2f1cb5863d72647e224fafcbbe5b79151a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
