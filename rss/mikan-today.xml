@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">九龙大众浪漫 / Kowloon Generic Romance - 02 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/006db60c50a14fb01233efa4360f31a06befbeae</link>
+			<title>九龙大众浪漫 / Kowloon Generic Romance - 02 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
+			<description>九龙大众浪漫 / Kowloon Generic Romance - 02 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][279.49 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/006db60c50a14fb01233efa4360f31a06befbeae</link>
+				<contentLength>293066496</contentLength>
+				<pubDate>2025-05-20T20:03:42.806</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="293066496" url="https://mikanani.me/Download/20250520/006db60c50a14fb01233efa4360f31a06befbeae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[霜庭云花Sub][亚托莉 -我挚爱的时光- / アトリ / ATRI -My Dear Moments-][12][1080P][AVC AAC][繁体字幕][WebRip]</guid>
 			<link>https://mikanani.me/Home/Episode/f070c5aac2b7af27bb8f31dcba97e84a5910b4bf</link>
 			<title>[霜庭云花Sub][亚托莉 -我挚爱的时光- / アトリ / ATRI -My Dear Moments-][12][1080P][AVC AAC][繁体字幕][WebRip]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-19T23:00:51.775556</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="291189568" url="https://mikanani.me/Download/20250519/80ab6b008a140b10ae164e23574b13a1ad6e22a8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Summer Pockets - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/09a29f6308084a4c0a862f53f67730db282be759</link>
-			<title>[黒ネズミたち] Summer Pockets - 07 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Summer Pockets - 07 (Baha 1920x1080 AVC AAC MP4)[352.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/09a29f6308084a4c0a862f53f67730db282be759</link>
-				<contentLength>369413312</contentLength>
-				<pubDate>2025-05-19T23:00:50.307641</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="369413312" url="https://mikanani.me/Download/20250519/09a29f6308084a4c0a862f53f67730db282be759.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
