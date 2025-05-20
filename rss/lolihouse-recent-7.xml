@@ -400,5 +400,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="395134880" url="https://mikanani.me/Download/20250520/e8fb943d5fc186282fbb1b7f0d0425bfe0b78fee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ea8a159ec4445c664a5521dbb3a383477eed2127</link>
+			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][494.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ea8a159ec4445c664a5521dbb3a383477eed2127</link>
+				<contentLength>518227232</contentLength>
+				<pubDate>2025-05-21T02:40:38.615</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="518227232" url="https://mikanani.me/Download/20250521/ea8a159ec4445c664a5521dbb3a383477eed2127.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
