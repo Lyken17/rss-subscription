@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][08][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/2d7fa8d551bbc9b0373c5f0082ec17f110a3c085</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][08][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][08][1080p][简日双语][招募翻译时轴][419.94 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2d7fa8d551bbc9b0373c5f0082ec17f110a3c085</link>
+				<contentLength>440339008</contentLength>
+				<pubDate>2025-05-21T13:28:12.231</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="440339008" url="https://mikanani.me/Download/20250521/2d7fa8d551bbc9b0373c5f0082ec17f110a3c085.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][07][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/68fe6b3a36bba8e4ea0f189db61063b4840644bf</link>
 			<title>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][07][1080p][简日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-20T15:00:20.58</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="489957632" url="https://mikanani.me/Download/20250520/cae8d70a0876b60b34a8f111505a6a7c7d50ef66.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喜羊羊与灰太狼之奇思妙想喜羊羊】【1080p】【全集】</guid>
-			<link>https://mikanani.me/Home/Episode/008b7e2f1cb5863d72647e224fafcbbe5b79151a</link>
-			<title>【喜羊羊与灰太狼之奇思妙想喜羊羊】【1080p】【全集】</title>
-			<description>【喜羊羊与灰太狼之奇思妙想喜羊羊】【1080p】【全集】[7.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/008b7e2f1cb5863d72647e224fafcbbe5b79151a</link>
-				<contentLength>7838315520</contentLength>
-				<pubDate>2025-05-20T13:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7838315520" url="https://mikanani.me/Download/20250520/008b7e2f1cb5863d72647e224fafcbbe5b79151a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
