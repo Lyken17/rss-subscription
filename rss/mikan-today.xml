@@ -5,16 +5,28 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
-			<guid isPermaLink="false">[Prejudice-Raws] 终末起点（仅限港澳台地区） - 08 [WEB-DL 1080P AVC 8bit AAC MP4][简</guid>
+			<guid isPermaLink="false">[Prejudice-Raws] 终末起点（仅限港澳台地区） - 08 [WEB-DL 1080P AVC 8bit AAC MP4][简繁内挂]</guid>
 			<link>https://mikanani.me/Home/Episode/c5ca45deaba0183f7ca5cbc1ac52d31e58bced8e</link>
-			<title>[Prejudice-Raws] 终末起点（仅限港澳台地区） - 08 [WEB-DL 1080P AVC 8bit AAC MP4][简</title>
-			<description>[Prejudice-Raws] 终末起点（仅限港澳台地区） - 08 [WEB-DL 1080P AVC 8bit AAC MP4][简[301.2 MB]</description>
+			<title>[Prejudice-Raws] 终末起点（仅限港澳台地区） - 08 [WEB-DL 1080P AVC 8bit AAC MP4][简繁内挂]</title>
+			<description>[Prejudice-Raws] 终末起点（仅限港澳台地区） - 08 [WEB-DL 1080P AVC 8bit AAC MP4][简繁内挂][301.2 MB]</description>
 			<torrent xmlns="https://mikanani.me/0.1/">
 				<link>https://mikanani.me/Home/Episode/c5ca45deaba0183f7ca5cbc1ac52d31e58bced8e</link>
 				<contentLength>315831104</contentLength>
-				<pubDate>2025-05-22T09:58:58.82931</pubDate>
+				<pubDate>2025-05-22T11:44:58.592348</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="315831104" url="https://mikanani.me/Download/20250522/c5ca45deaba0183f7ca5cbc1ac52d31e58bced8e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 05 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/950d3af63ee9d6e54583ad9da129a5b80291d117</link>
+			<title>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 05 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 05 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文][537.73 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/950d3af63ee9d6e54583ad9da129a5b80291d117</link>
+				<contentLength>563850752</contentLength>
+				<pubDate>2025-05-22T11:19:54.909</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="563850752" url="https://mikanani.me/Download/20250522/950d3af63ee9d6e54583ad9da129a5b80291d117.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-05-20T22:27:08.533694</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="292238144" url="https://mikanani.me/Download/20250520/8b0ec9c1c2f27ef68803b80d57583591631fe32d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Summer Pockets - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d330b87edff87a9bec51520cc246c56a7b61187a</link>
-			<title>[黒ネズミたち] Summer Pockets - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Summer Pockets - 07 (ABEMA 1920x1080 AVC AAC MP4)[713.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d330b87edff87a9bec51520cc246c56a7b61187a</link>
-				<contentLength>747739520</contentLength>
-				<pubDate>2025-05-20T22:17:00.211387</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747739520" url="https://mikanani.me/Download/20250520/d330b87edff87a9bec51520cc246c56a7b61187a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
