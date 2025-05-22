@@ -1204,5 +1204,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="344992000" url="https://mikanani.me/Download/20250522/7053de3f669c973e500c867baec23f1b3b7c5d0c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/ab8ef56f37936620c515da880dfbd3a85a4ad079</link>
+			<title>[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 06 (ABEMA 1920x1080 AVC AAC MP4)[105.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab8ef56f37936620c515da880dfbd3a85a4ad079</link>
+				<contentLength>110415056</contentLength>
+				<pubDate>2025-05-22T22:16:22.933431</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="110415056" url="https://mikanani.me/Download/20250522/ab8ef56f37936620c515da880dfbd3a85a4ad079.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] mono女孩 / Mono [06][1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/1f8e5b55e0236dce0b9e3b5d87224581c3ee48d3</link>
+			<title>[桜都字幕组] mono女孩 / Mono [06][1080p][简繁内封]</title>
+			<description>[桜都字幕组] mono女孩 / Mono [06][1080p][简繁内封][289.66 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1f8e5b55e0236dce0b9e3b5d87224581c3ee48d3</link>
+				<contentLength>303730528</contentLength>
+				<pubDate>2025-05-22T22:12:47.748</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="303730528" url="https://mikanani.me/Download/20250522/1f8e5b55e0236dce0b9e3b5d87224581c3ee48d3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
