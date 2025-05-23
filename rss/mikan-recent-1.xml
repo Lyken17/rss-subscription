@@ -952,5 +952,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="211917216" url="https://mikanani.me/Download/20250523/89dc7d43ffb71f381d1ed8bf62498e11d413ca65.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b</link>
+			<title>[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封]</title>
+			<description>[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封][219.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b</link>
+				<contentLength>230497984</contentLength>
+				<pubDate>2025-05-23T18:33:22.455</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="230497984" url="https://mikanani.me/Download/20250523/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b</link>
+			<title>[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封]</title>
+			<description>[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封][219.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b</link>
+				<contentLength>230497984</contentLength>
+				<pubDate>2025-05-23T18:33:22.455</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="230497984" url="https://mikanani.me/Download/20250523/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">战队大失格 第二季 / Sentai Daishikkaku 2nd Season - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/4b73a31d9191c8fd4574cadeb90622410d5f3bd1</link>
 			<title>战队大失格 第二季 / Sentai Daishikkaku 2nd Season - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-21T23:37:23.675107</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250521/19bdc0081cf30822d3f8c2def44d43a427dde61f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  完美到难以接近的圣女遭到解除婚约后被卖到邻国 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3096f69a34f0bbfd3618319c7ea65c90e97066eb</link>
-			<title>[ANi]  完美到难以接近的圣女遭到解除婚约后被卖到邻国 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  完美到难以接近的圣女遭到解除婚约后被卖到邻国 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][382.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3096f69a34f0bbfd3618319c7ea65c90e97066eb</link>
-				<contentLength>400870592</contentLength>
-				<pubDate>2025-05-21T23:31:03.886047</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="400870592" url="https://mikanani.me/Download/20250521/3096f69a34f0bbfd3618319c7ea65c90e97066eb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

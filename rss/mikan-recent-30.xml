@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 33 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/893afdbd0e5917491f11d0f198e778861aa001e9</link>
-			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 33 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 33 (B-Global Donghua 1920x1080 HEVC AAC MKV)[428.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/893afdbd0e5917491f11d0f198e778861aa001e9</link>
-				<contentLength>449105088</contentLength>
-				<pubDate>2025-04-23T11:04:28.353416</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="449105088" url="https://mikanani.me/Download/20250423/893afdbd0e5917491f11d0f198e778861aa001e9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社&amp;西农YUI汉化组】[暗芝居 第十四季_Yami Shibai 14][01-13 END][x264 1080p][CHS]</guid>
 			<link>https://mikanani.me/Home/Episode/aad7f7c2a33d5510cade4dd36e67b002d812f99a</link>
 			<title>【悠哈璃羽字幕社&amp;西农YUI汉化组】[暗芝居 第十四季_Yami Shibai 14][01-13 END][x264 1080p][CHS]</title>
@@ -30123,6 +30111,18 @@
 				<pubDate>2025-05-23T17:29:32.780774</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="211917216" url="https://mikanani.me/Download/20250523/89dc7d43ffb71f381d1ed8bf62498e11d413ca65.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b</link>
+			<title>[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封]</title>
+			<description>[MingY&amp;Billion Meta Lab] mono女孩 / mono [06][1080p][简繁日内封][219.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b</link>
+				<contentLength>230497984</contentLength>
+				<pubDate>2025-05-23T18:33:22.455</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="230497984" url="https://mikanani.me/Download/20250523/7623fe2bf57bc7326d9b68e3e0634d5a9c59214b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
