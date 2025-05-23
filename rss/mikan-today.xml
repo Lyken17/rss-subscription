@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 31 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8dae4557a6abad34fb55474e29a988c46985436b</link>
+			<title>[黒ネズミたち] Nui Story 2 - 31 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 31 (ABEMA 1920x1080 AVC AAC MP4)[65.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8dae4557a6abad34fb55474e29a988c46985436b</link>
+				<contentLength>69101160</contentLength>
+				<pubDate>2025-05-24T02:58:26.766047</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="69101160" url="https://mikanani.me/Download/20250524/8dae4557a6abad34fb55474e29a988c46985436b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/ec2113e6d702dea0717c7ccec1babb79ba9f0593</link>
 			<title>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-22T21:00:31.22</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="344992000" url="https://mikanani.me/Download/20250522/7053de3f669c973e500c867baec23f1b3b7c5d0c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  忍者与杀手的两人生活 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/dbed3363cf842e221e5e2f7c4ba7a52a454de262</link>
-			<title>[ANi]  忍者与杀手的两人生活 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  忍者与杀手的两人生活 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][303.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dbed3363cf842e221e5e2f7c4ba7a52a454de262</link>
-				<contentLength>318242816</contentLength>
-				<pubDate>2025-05-22T20:30:59.012375</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="318242816" url="https://mikanani.me/Download/20250522/dbed3363cf842e221e5e2f7c4ba7a52a454de262.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
