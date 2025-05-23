@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dc6aa0d48c2e1b18d5d876ef7b62ff1b9d57b704</link>
-			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)[429.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc6aa0d48c2e1b18d5d876ef7b62ff1b9d57b704</link>
-				<contentLength>449943968</contentLength>
-				<pubDate>2025-05-16T09:02:11.203257</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="449943968" url="https://mikanani.me/Download/20250516/dc6aa0d48c2e1b18d5d876ef7b62ff1b9d57b704.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ba44b95b90a8f0675eb96b85c78450ba77036669</link>
 			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -7227,6 +7215,18 @@
 				<pubDate>2025-05-23T15:24:38.661</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="381450976" url="https://mikanani.me/Download/20250523/6884d21665497566a6ef7de8c7dddad77a3fc319.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/cdf163f25c096facd92903a03ebe9ddcd87f9eca</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语][393.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cdf163f25c096facd92903a03ebe9ddcd87f9eca</link>
+				<contentLength>412824384</contentLength>
+				<pubDate>2025-05-23T16:49:23.84815</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="412824384" url="https://mikanani.me/Download/20250523/cdf163f25c096facd92903a03ebe9ddcd87f9eca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

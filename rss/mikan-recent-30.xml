@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">メダリスト (JPBD Vol.1 Re-encode) 金牌得主 舞冰的祈愿 Medalist</guid>
-			<link>https://mikanani.me/Home/Episode/7d5ddeec56a165ca14ac9f606c2b1791710c548a</link>
-			<title>メダリスト (JPBD Vol.1 Re-encode) 金牌得主 舞冰的祈愿 Medalist</title>
-			<description>メダリスト (JPBD Vol.1 Re-encode) 金牌得主 舞冰的祈愿 Medalist[13.6 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7d5ddeec56a165ca14ac9f606c2b1791710c548a</link>
-				<contentLength>14602889216</contentLength>
-				<pubDate>2025-04-23T08:44:57.032411</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14602889216" url="https://mikanani.me/Download/20250423/7d5ddeec56a165ca14ac9f606c2b1791710c548a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 33 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/893afdbd0e5917491f11d0f198e778861aa001e9</link>
 			<title>[黒ネズミたち] 天命大主宰 / The Destiny Ruler - 33 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -30099,6 +30087,18 @@
 				<pubDate>2025-05-23T15:24:38.661</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="381450976" url="https://mikanani.me/Download/20250523/6884d21665497566a6ef7de8c7dddad77a3fc319.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/cdf163f25c096facd92903a03ebe9ddcd87f9eca</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语][393.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cdf163f25c096facd92903a03ebe9ddcd87f9eca</link>
+				<contentLength>412824384</contentLength>
+				<pubDate>2025-05-23T16:49:23.84815</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="412824384" url="https://mikanani.me/Download/20250523/cdf163f25c096facd92903a03ebe9ddcd87f9eca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

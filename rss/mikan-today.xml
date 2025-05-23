@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语]</guid>
+			<link>https://mikanani.me/Home/Episode/cdf163f25c096facd92903a03ebe9ddcd87f9eca</link>
+			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语]</title>
+			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[07][1080p][HEVC][内封双语][393.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cdf163f25c096facd92903a03ebe9ddcd87f9eca</link>
+				<contentLength>412824384</contentLength>
+				<pubDate>2025-05-23T16:49:23.84815</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="412824384" url="https://mikanani.me/Download/20250523/cdf163f25c096facd92903a03ebe9ddcd87f9eca.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/75fd7f9e236c0d45bdcaa45c79f93006cb45a608</link>
 			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-21T23:30:42.060864</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="400451168" url="https://mikanani.me/Download/20250521/5272d3ca124a994ee0a1667a4f98e5a50f107ef3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">记忆缝线 / Your Forma - 08 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/76c786bbcd6b8a2c8ce92f668540438ea6eff963</link>
-			<title>记忆缝线 / Your Forma - 08 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
-			<description>记忆缝线 / Your Forma - 08 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语][322.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/76c786bbcd6b8a2c8ce92f668540438ea6eff963</link>
-				<contentLength>338071392</contentLength>
-				<pubDate>2025-05-21T23:19:50.413</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="338071392" url="https://mikanani.me/Download/20250521/76c786bbcd6b8a2c8ce92f668540438ea6eff963.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
