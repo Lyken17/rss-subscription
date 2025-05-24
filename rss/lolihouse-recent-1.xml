@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5095aee4b0f60653653ac1bdbb1c96618f2b16a9</link>
-			<title>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
-			<description>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][558.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5095aee4b0f60653653ac1bdbb1c96618f2b16a9</link>
-				<contentLength>585619200</contentLength>
-				<pubDate>2025-05-23T15:38:57.913</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="585619200" url="https://mikanani.me/Download/20250523/5095aee4b0f60653653ac1bdbb1c96618f2b16a9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/600a01d24e2c5fedc39333292b248cbeb5e5344c</link>
 			<title>[LoliHouse] 防风少年 / WIND BREAKER - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -87,6 +75,18 @@
 				<pubDate>2025-05-24T22:32:32.664</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="802391296" url="https://mikanani.me/Download/20250524/065681735c97649ea5ca912d0564a3cf67436336.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 真·侍传 剑勇传说 / Shin Samurai-den YAIBA  - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：风雷剑传奇 / 九龙珠 / 城市风云儿 / 反斗剑神)</guid>
+			<link>https://mikanani.me/Home/Episode/e890b92866fbde6fac16b412eb5317bf2d5ed9a3</link>
+			<title>[LoliHouse] 真·侍传 剑勇传说 / Shin Samurai-den YAIBA  - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：风雷剑传奇 / 九龙珠 / 城市风云儿 / 反斗剑神)</title>
+			<description>[LoliHouse] 真·侍传 剑勇传说 / Shin Samurai-den YAIBA  - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：风雷剑传奇 / 九龙珠 / 城市风云儿 / 反斗剑神)[737.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e890b92866fbde6fac16b412eb5317bf2d5ed9a3</link>
+				<contentLength>773586944</contentLength>
+				<pubDate>2025-05-24T23:20:49.036</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="773586944" url="https://mikanani.me/Download/20250524/e890b92866fbde6fac16b412eb5317bf2d5ed9a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
