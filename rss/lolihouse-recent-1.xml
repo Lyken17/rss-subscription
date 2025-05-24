@@ -76,5 +76,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250524/22728a5779adeacb356f7c8bb06b337688cca0af.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组&amp;LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [01-25 修正合集][WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/68ebf1641e69a5b5c9eddbe75fc918ccda5ebf88</link>
+			<title>[北宇治字幕组&amp;LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [01-25 修正合集][WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][Fin]</title>
+			<description>[北宇治字幕组&amp;LoliHouse] 地。-关于地球的运动- / Chi. Chikyuu no Undou ni Tsuite [01-25 修正合集][WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][Fin][4.98 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68ebf1641e69a5b5c9eddbe75fc918ccda5ebf88</link>
+				<contentLength>5347234304</contentLength>
+				<pubDate>2025-05-24T12:29:54.387</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5347234304" url="https://mikanani.me/Download/20250524/68ebf1641e69a5b5c9eddbe75fc918ccda5ebf88.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
