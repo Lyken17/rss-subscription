@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP08 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</guid>
+			<link>https://mikanani.me/Home/Episode/8d68ff96d7c09059180c5b0b2fb9fb766456095b</link>
+			<title>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP08 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</title>
+			<description>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP08 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}[748.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d68ff96d7c09059180c5b0b2fb9fb766456095b</link>
+				<contentLength>784974464</contentLength>
+				<pubDate>2025-05-25T04:25:40.331</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="784974464" url="https://mikanani.me/Download/20250525/8d68ff96d7c09059180c5b0b2fb9fb766456095b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[轻之国度字幕组][战队大失格][18][GB][720P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/aaf5046d262d784d791678ae02e3eee4f32b8f74</link>
 			<title>[轻之国度字幕组][战队大失格][18][GB][720P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-24T12:17:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="14280766464" url="https://mikanani.me/Download/20250524/12f9f6dfa5b8946c68802b47af6f002832c39930.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 阳光马达棒球场！ / Ballpark de Tsukamaete! - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/306d89d326cd5b8463a956f15c9b1e143099d6f0</link>
-			<title>[黒ネズミたち] 阳光马达棒球场！ / Ballpark de Tsukamaete! - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 阳光马达棒球场！ / Ballpark de Tsukamaete! - 08 (ABEMA 1920x1080 AVC AAC MP4)[717.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/306d89d326cd5b8463a956f15c9b1e143099d6f0</link>
-				<contentLength>752772736</contentLength>
-				<pubDate>2025-05-24T11:36:39.359931</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="752772736" url="https://mikanani.me/Download/20250524/306d89d326cd5b8463a956f15c9b1e143099d6f0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
