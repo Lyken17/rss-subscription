@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/dbe7cc6ac8b279008a0574dc2350265bbbd68f1e</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 08 (ABEMA 1920x1080 AVC AAC MP4)[330.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dbe7cc6ac8b279008a0574dc2350265bbbd68f1e</link>
+				<contentLength>346973792</contentLength>
+				<pubDate>2025-05-25T07:12:39.63029</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346973792" url="https://mikanani.me/Download/20250525/dbe7cc6ac8b279008a0574dc2350265bbbd68f1e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP08 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</guid>
 			<link>https://mikanani.me/Home/Episode/8d68ff96d7c09059180c5b0b2fb9fb766456095b</link>
 			<title>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP08 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-24T12:20:08.633</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="431614848" url="https://mikanani.me/Download/20250524/6bce65e44db8948055f8aa900018c792a45515f9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[VCB-Studio] 天穗之咲稻姬 / Tensui no Sakuna-hime / 天穂のサクナヒメ 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/12f9f6dfa5b8946c68802b47af6f002832c39930</link>
-			<title>[VCB-Studio] 天穗之咲稻姬 / Tensui no Sakuna-hime / 天穂のサクナヒメ 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[VCB-Studio] 天穗之咲稻姬 / Tensui no Sakuna-hime / 天穂のサクナヒメ 10-bit 1080p HEVC BDRip [Fin][13.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/12f9f6dfa5b8946c68802b47af6f002832c39930</link>
-				<contentLength>14280766464</contentLength>
-				<pubDate>2025-05-24T12:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14280766464" url="https://mikanani.me/Download/20250524/12f9f6dfa5b8946c68802b47af6f002832c39930.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
