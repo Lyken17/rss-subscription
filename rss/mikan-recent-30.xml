@@ -29884,5 +29884,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="484546976" url="https://mikanani.me/Download/20250524/989aecc98dde135a64b867628799c5c283c9c8ee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</guid>
+			<link>https://mikanani.me/Home/Episode/79f8f06b4754e3950eb76ca9900e4e6c4827c278</link>
+			<title>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</title>
+			<description>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[105.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79f8f06b4754e3950eb76ca9900e4e6c4827c278</link>
+				<contentLength>113601888256</contentLength>
+				<pubDate>2025-05-24T18:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="113601888256" url="https://mikanani.me/Download/20250524/79f8f06b4754e3950eb76ca9900e4e6c4827c278.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

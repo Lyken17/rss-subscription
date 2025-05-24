@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</guid>
+			<link>https://mikanani.me/Home/Episode/79f8f06b4754e3950eb76ca9900e4e6c4827c278</link>
+			<title>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</title>
+			<description>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[105.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79f8f06b4754e3950eb76ca9900e4e6c4827c278</link>
+				<contentLength>113601888256</contentLength>
+				<pubDate>2025-05-24T18:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="113601888256" url="https://mikanani.me/Download/20250524/79f8f06b4754e3950eb76ca9900e4e6c4827c278.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</guid>
 			<link>https://mikanani.me/Home/Episode/c9f08c67c18bc41649040a1636d3d04ae169e8bd</link>
 			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-23T00:06:09.381086</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747634688" url="https://mikanani.me/Download/20250523/73c335717c0dd383bad6754d78f0cd18eaf86c0b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">摇滚乃是淑女的爱好 / Rock wa Lady no Tashinami deshite - 08 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/d670dd62a9336a6bf2ec9aae9e39068fa7add675</link>
-			<title>摇滚乃是淑女的爱好 / Rock wa Lady no Tashinami deshite - 08 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
-			<description>摇滚乃是淑女的爱好 / Rock wa Lady no Tashinami deshite - 08 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][366.84 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d670dd62a9336a6bf2ec9aae9e39068fa7add675</link>
-				<contentLength>384659616</contentLength>
-				<pubDate>2025-05-23T00:04:54.173</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="384659616" url="https://mikanani.me/Download/20250523/d670dd62a9336a6bf2ec9aae9e39068fa7add675.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
