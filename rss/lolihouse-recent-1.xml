@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1b0777aead1c19c0cf31fae317a9638ca8419148</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][348.98 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1b0777aead1c19c0cf31fae317a9638ca8419148</link>
-				<contentLength>365932064</contentLength>
-				<pubDate>2025-05-23T00:20:40.732</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="365932064" url="https://mikanani.me/Download/20250523/1b0777aead1c19c0cf31fae317a9638ca8419148.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/175e0b5cceec1d368abac73301b687e2a9f66983</link>
 			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -75,6 +63,18 @@
 				<pubDate>2025-05-24T02:07:09.58</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="553941760" url="https://mikanani.me/Download/20250524/548a652eafc07835927caa73ad051cdba2f79837.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 18 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/22728a5779adeacb356f7c8bb06b337688cca0af</link>
+			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 18 [WebRip 1080p HEVC-10bit AAC][英语内封字幕]</title>
+			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 18 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/22728a5779adeacb356f7c8bb06b337688cca0af</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2025-05-24T08:59:04.545</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250524/22728a5779adeacb356f7c8bb06b337688cca0af.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
