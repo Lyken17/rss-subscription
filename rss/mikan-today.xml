@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][16][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/f5d301789c54a9362b09d037a34ad2d4dfc09105</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][16][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][16][简体内嵌](检索:Q娃)[288.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5d301789c54a9362b09d037a34ad2d4dfc09105</link>
+				<contentLength>302723904</contentLength>
+				<pubDate>2025-05-25T11:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302723904" url="https://mikanani.me/Download/20250525/f5d301789c54a9362b09d037a34ad2d4dfc09105.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">凸变英雄X / TO BE HERO X - 08 [1080P][Bilibili][WEB-DL][AAC AVC][中文版&amp;日语版]</guid>
 			<link>https://mikanani.me/Home/Episode/ee76095bbe414d239e964b6a5c8fafb24c209dc2</link>
 			<title>凸变英雄X / TO BE HERO X - 08 [1080P][Bilibili][WEB-DL][AAC AVC][中文版&amp;日语版]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-24T21:01:04.141049</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358508128" url="https://mikanani.me/Download/20250524/777e8324aa4c185157ccdc34cbb5ebbca875e4d7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 持续狩猎史莱姆三百年，不知不觉就练到 LV MAX 第二季 / Slime Taoshite 300-nen: Sono Ni - 08 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0309b4035e35793c1b6f2b903c133bd7d57ac271</link>
-			<title>[黒ネズミたち] 持续狩猎史莱姆三百年，不知不觉就练到 LV MAX 第二季 / Slime Taoshite 300-nen: Sono Ni - 08 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 持续狩猎史莱姆三百年，不知不觉就练到 LV MAX 第二季 / Slime Taoshite 300-nen: Sono Ni - 08 (Baha 1920x1080 AVC AAC MP4)[341.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0309b4035e35793c1b6f2b903c133bd7d57ac271</link>
-				<contentLength>357774144</contentLength>
-				<pubDate>2025-05-24T21:00:39.918725</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="357774144" url="https://mikanani.me/Download/20250524/0309b4035e35793c1b6f2b903c133bd7d57ac271.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

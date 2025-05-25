@@ -1504,5 +1504,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20250525/d8cd4ca5eb16f2e158880d8fc69d1214129b40c5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][16][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/f5d301789c54a9362b09d037a34ad2d4dfc09105</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][16][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][16][简体内嵌](检索:Q娃)[288.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5d301789c54a9362b09d037a34ad2d4dfc09105</link>
+				<contentLength>302723904</contentLength>
+				<pubDate>2025-05-25T11:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302723904" url="https://mikanani.me/Download/20250525/f5d301789c54a9362b09d037a34ad2d4dfc09105.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
