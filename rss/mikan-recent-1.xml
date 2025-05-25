@@ -1708,5 +1708,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747634688" url="https://mikanani.me/Download/20250525/8e18de30dac019558945af93ff507f54617aa6f8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 魔神创造传 / Mashin Souzouden Wataru - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/08b86bb72c01736a8e4a4ada2fe5c85308b0ed71</link>
+			<title>[黒ネズミたち] 魔神创造传 / Mashin Souzouden Wataru - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 魔神创造传 / Mashin Souzouden Wataru - 20 (ABEMA 1920x1080 AVC AAC MP4)[718.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/08b86bb72c01736a8e4a4ada2fe5c85308b0ed71</link>
+				<contentLength>752982400</contentLength>
+				<pubDate>2025-05-25T20:51:20.853615</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752982400" url="https://mikanani.me/Download/20250525/08b86bb72c01736a8e4a4ada2fe5c85308b0ed71.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
