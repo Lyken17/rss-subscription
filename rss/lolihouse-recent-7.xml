@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/a0f38d527e41da0b8e410ce3c3cc373c0ceacef3</link>
-			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][413.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a0f38d527e41da0b8e410ce3c3cc373c0ceacef3</link>
-				<contentLength>433250624</contentLength>
-				<pubDate>2025-05-18T16:10:27.117</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="433250624" url="https://mikanani.me/Download/20250518/a0f38d527e41da0b8e410ce3c3cc373c0ceacef3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/66b6b9f6d24cbb389a1b84b686d8f7f22896414f</link>
 			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -459,6 +447,18 @@
 				<pubDate>2025-05-25T15:59:23.623</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="80541120" url="https://mikanani.me/Download/20250525/3e737d687a390d5bd25d78a50f3c66533a44775f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b26a55e760e9542239a2d692d0cd4589ba2297db</link>
+			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][657.89 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b26a55e760e9542239a2d692d0cd4589ba2297db</link>
+				<contentLength>689847680</contentLength>
+				<pubDate>2025-05-25T23:42:09.71</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="689847680" url="https://mikanani.me/Download/20250525/b26a55e760e9542239a2d692d0cd4589ba2297db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
