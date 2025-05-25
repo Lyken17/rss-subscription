@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</guid>
+			<link>https://mikanani.me/Home/Episode/8d6b9bdf823e10b5ccd01c1e3ae87690c24b5408</link>
+			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</title>
+			<description>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)[122.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d6b9bdf823e10b5ccd01c1e3ae87690c24b5408</link>
+				<contentLength>131533373440</contentLength>
+				<pubDate>2025-05-26T01:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131533373440" url="https://mikanani.me/Download/20250526/8d6b9bdf823e10b5ccd01c1e3ae87690c24b5408.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌Production】★04月新番★[前桥魔女 / Maebashi Witches][05][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/d3dcdef1048fef4eead45d0d36803b7a13e570b4</link>
 			<title>【喵萌Production】★04月新番★[前桥魔女 / Maebashi Witches][05][1080p][简日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-25T02:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="713031680" url="https://mikanani.me/Download/20250525/e602a39db9b46817ae8acc0e0138d1e3333de660.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第75集 金融公司社长杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/6ca7da01b5ff5ad1b4e041ad9eaac28884633abd</link>
-			<title>[银色子弹字幕组][名侦探柯南][第75集 金融公司社长杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P]</title>
-			<description>[银色子弹字幕组][名侦探柯南][第75集 金融公司社长杀人事件][WEBRIP][简日双语MP4/繁日双语MP4/简繁日多语MKV][1080P][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6ca7da01b5ff5ad1b4e041ad9eaac28884633abd</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-05-25T02:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250525/6ca7da01b5ff5ad1b4e041ad9eaac28884633abd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
