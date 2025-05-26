@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 32 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/43f45d390ab54bfcddbeafe22aa28d10f3454d5a</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 32 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 32 (ABEMA 1920x1080 AVC AAC MP4)[43.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/43f45d390ab54bfcddbeafe22aa28d10f3454d5a</link>
+				<contentLength>45927628</contentLength>
+				<pubDate>2025-05-27T02:35:36.434262</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="45927628" url="https://mikanani.me/Download/20250527/43f45d390ab54bfcddbeafe22aa28d10f3454d5a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] #COMPASS2.0 战斗天赋解析系统 / #Compass 2.0: Sentou Setsuri Kaiseki System - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a5a32ca5acc4112ef31e7ab05f082272b88e3e3c</link>
 			<title>[黒ネズミたち] #COMPASS2.0 战斗天赋解析系统 / #Compass 2.0: Sentou Setsuri Kaiseki System - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-26T00:20:46.746519</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="168086736" url="https://mikanani.me/Download/20250526/ca62ba594984befde18ff7a067012b88ef6bf74d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 08 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0477a65532689de97a857c1cfc0dcd41351f2247</link>
-			<title>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 08 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 08 (Baha 1920x1080 AVC AAC MP4)[159.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0477a65532689de97a857c1cfc0dcd41351f2247</link>
-				<contentLength>167562448</contentLength>
-				<pubDate>2025-05-26T00:20:24.772946</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="167562448" url="https://mikanani.me/Download/20250526/0477a65532689de97a857c1cfc0dcd41351f2247.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
