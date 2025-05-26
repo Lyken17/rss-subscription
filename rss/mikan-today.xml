@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1481]花轮家开放日&amp;花轮的朋友回去了[2025.05.25][BIG5][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/855d8ffbe3325b0a5d2e690e7e2e2dbf1e4969ef</link>
+			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1481]花轮家开放日&amp;花轮的朋友回去了[2025.05.25][BIG5][1080P][MP4]</title>
+			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1481]花轮家开放日&amp;花轮的朋友回去了[2025.05.25][BIG5][1080P][MP4][265.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/855d8ffbe3325b0a5d2e690e7e2e2dbf1e4969ef</link>
+				<contentLength>278501792</contentLength>
+				<pubDate>2025-05-26T17:40:22.652</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="278501792" url="https://mikanani.me/Download/20250526/855d8ffbe3325b0a5d2e690e7e2e2dbf1e4969ef.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1481]花轮家开放日&amp;花轮的朋友回去了[2025.05.25][GB][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/be1b6ed679dc8a71de6ae1a31b3a5eb70e3a1d3e</link>
 			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1481]花轮家开放日&amp;花轮的朋友回去了[2025.05.25][GB][1080P][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-25T16:48:01.233</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250525/040fbdf2395a72ebc4904e73b472dc96ddcf7620.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">魔女与使魔 / Witch Watch - 08 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/22b60de3000cdc85ac70d6df37bbdf46262299ce</link>
-			<title>魔女与使魔 / Witch Watch - 08 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
-			<description>魔女与使魔 / Witch Watch - 08 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][367.98 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/22b60de3000cdc85ac70d6df37bbdf46262299ce</link>
-				<contentLength>385855008</contentLength>
-				<pubDate>2025-05-25T16:40:54.624</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385855008" url="https://mikanani.me/Download/20250525/22b60de3000cdc85ac70d6df37bbdf46262299ce.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
