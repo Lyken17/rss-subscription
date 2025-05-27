@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/216547e6e7652f408e834b57c7dbdaae3b068ca2</link>
-			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 04 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/216547e6e7652f408e834b57c7dbdaae3b068ca2</link>
-				<contentLength>346868928</contentLength>
-				<pubDate>2025-04-27T07:13:05.025401</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20250427/216547e6e7652f408e834b57c7dbdaae3b068ca2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 12 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ac042d06cfb44e74f0fd27979705dbeaf5378561</link>
 			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 12 (CR 1920x1080 AVC AAC MKV)</title>
@@ -147,18 +135,6 @@
 				<pubDate>2025-04-27T07:43:05.364</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="279372096" url="https://mikanani.me/Download/20250427/0f4126e27a4290adc2121409c7401658677add69.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/93c0e589db0dd270d7e1edb999b4618784fb775d</link>
-			<title>[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 04 (ABEMA 1920x1080 AVC AAC MP4)[81.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/93c0e589db0dd270d7e1edb999b4618784fb775d</link>
-				<contentLength>85039512</contentLength>
-				<pubDate>2025-04-27T07:17:57.332857</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="85039512" url="https://mikanani.me/Download/20250427/93c0e589db0dd270d7e1edb999b4618784fb775d.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 乡下大叔成为剑圣 - 04 [Bili WEB-DL AVC 8bit AAC MP4][CHS&amp;JP]</guid>
@@ -30171,6 +30147,18 @@
 				<pubDate>2025-05-27T09:43:47.396352</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="379269952" url="https://mikanani.me/Download/20250527/bc626481bdbfb0e16dce30718156901c6f4c52e0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 宫河家的空腹 / Miyakawa-ke no Kuufuku / 宫河家の空腹 10-bit 1080p HEVC BDRip [S1 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/21cb8a0a5bb7867a377495d7193bf31086dd4397</link>
+			<title>[VCB-Studio] 宫河家的空腹 / Miyakawa-ke no Kuufuku / 宫河家の空腹 10-bit 1080p HEVC BDRip [S1 Fin]</title>
+			<description>[VCB-Studio] 宫河家的空腹 / Miyakawa-ke no Kuufuku / 宫河家の空腹 10-bit 1080p HEVC BDRip [S1 Fin][1.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/21cb8a0a5bb7867a377495d7193bf31086dd4397</link>
+				<contentLength>2040109440</contentLength>
+				<pubDate>2025-05-27T14:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20250527/21cb8a0a5bb7867a377495d7193bf31086dd4397.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

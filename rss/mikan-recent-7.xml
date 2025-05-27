@@ -7336,5 +7336,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="379269952" url="https://mikanani.me/Download/20250527/bc626481bdbfb0e16dce30718156901c6f4c52e0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 宫河家的空腹 / Miyakawa-ke no Kuufuku / 宫河家の空腹 10-bit 1080p HEVC BDRip [S1 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/21cb8a0a5bb7867a377495d7193bf31086dd4397</link>
+			<title>[VCB-Studio] 宫河家的空腹 / Miyakawa-ke no Kuufuku / 宫河家の空腹 10-bit 1080p HEVC BDRip [S1 Fin]</title>
+			<description>[VCB-Studio] 宫河家的空腹 / Miyakawa-ke no Kuufuku / 宫河家の空腹 10-bit 1080p HEVC BDRip [S1 Fin][1.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/21cb8a0a5bb7867a377495d7193bf31086dd4397</link>
+				<contentLength>2040109440</contentLength>
+				<pubDate>2025-05-27T14:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20250527/21cb8a0a5bb7867a377495d7193bf31086dd4397.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
