@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/77b6e7377f8ccfbe703288f2313004f181b69a6b</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][简日双语][招募翻译时轴][487.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77b6e7377f8ccfbe703288f2313004f181b69a6b</link>
+				<contentLength>510939616</contentLength>
+				<pubDate>2025-05-28T15:29:23.399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="510939616" url="https://mikanani.me/Download/20250528/77b6e7377f8ccfbe703288f2313004f181b69a6b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][08][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/6a8f83d8a5eb4f30610cd76be8d07dcf6f9db599</link>
 			<title>【悠哈璃羽字幕社】[小市民系列 第二季_Shoushimin Series S2][08][1080p][CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-26T23:01:31.755932</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350853536" url="https://mikanani.me/Download/20250526/7635ef89cd0b3c1b1d454dc994d480e196a40e7a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 09 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a9f61067d08f12057f89c46533118fd74331e904</link>
-			<title>[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 09 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 09 (B-Global 1920x1080 HEVC AAC MKV)[283.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a9f61067d08f12057f89c46533118fd74331e904</link>
-				<contentLength>297376160</contentLength>
-				<pubDate>2025-05-26T23:01:30.840924</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="297376160" url="https://mikanani.me/Download/20250526/a9f61067d08f12057f89c46533118fd74331e904.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

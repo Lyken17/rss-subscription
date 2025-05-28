@@ -6856,5 +6856,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="173434464" url="https://mikanani.me/Download/20250528/595ae4a9d44ac0479d7baa206268cd1aef099f54.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/77b6e7377f8ccfbe703288f2313004f181b69a6b</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][简日双语][招募翻译时轴][487.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77b6e7377f8ccfbe703288f2313004f181b69a6b</link>
+				<contentLength>510939616</contentLength>
+				<pubDate>2025-05-28T15:29:23.399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="510939616" url="https://mikanani.me/Download/20250528/77b6e7377f8ccfbe703288f2313004f181b69a6b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
