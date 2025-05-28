@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP09 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
+			<link>https://mikanani.me/Home/Episode/65fa93906789ee428a83c30d0148c40f4e0613de</link>
+			<title>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP09 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
+			<description>[TV版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP09 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}[2.95 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/65fa93906789ee428a83c30d0148c40f4e0613de</link>
+				<contentLength>3167538432</contentLength>
+				<pubDate>2025-05-29T07:01:58.45</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3167538432" url="https://mikanani.me/Download/20250529/65fa93906789ee428a83c30d0148c40f4e0613de.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][繁日双语][招募翻译时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/fafa1a07e8a09fb7b85209f2f6ef9c81f6b4b587</link>
 			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][09][1080p][繁日双语][招募翻译时轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-27T21:31:06.754473</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309015360" url="https://mikanani.me/Download/20250527/069857c1fa3dc18ae0583919634aa98790913c22.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[864][2025.05.24][AVC][1080P][GB_JP]</guid>
-			<link>https://mikanani.me/Home/Episode/68ee93b9f00f6efc7fabd155c6b3fbbd916315bc</link>
-			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[864][2025.05.24][AVC][1080P][GB_JP]</title>
-			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[864][2025.05.24][AVC][1080P][GB_JP][497.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/68ee93b9f00f6efc7fabd155c6b3fbbd916315bc</link>
-				<contentLength>522159392</contentLength>
-				<pubDate>2025-05-27T21:11:34.981</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="522159392" url="https://mikanani.me/Download/20250527/68ee93b9f00f6efc7fabd155c6b3fbbd916315bc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
