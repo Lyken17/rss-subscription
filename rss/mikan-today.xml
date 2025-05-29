@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
+			<title>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</title>
+			<description>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin][32.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
+				<contentLength>34574487552</contentLength>
+				<pubDate>2025-05-29T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="34574487552" url="https://mikanani.me/Download/20250529/2ce0c334f32e55645578a57a7d44a820960aa9d5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[mono女孩_Mono][06][1080p][CHT]</guid>
 			<link>https://mikanani.me/Home/Episode/6948985e72c8d4a6de4e08d404f271b32cf31400</link>
 			<title>【悠哈璃羽字幕社】[mono女孩_Mono][06][1080p][CHT]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-28T00:31:51.826687</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250528/9524ebaa34b83ff227f78655016436d723c50189.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[天月搬运组] 机动战士高达 GQuuuuuuX / Kidou Senshi Gundam GQuuuuuuX - 08 (AMZN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0d0c136f2165f19de13f4d0153f3843f8cffdd7c</link>
-			<title>[天月搬运组] 机动战士高达 GQuuuuuuX / Kidou Senshi Gundam GQuuuuuuX - 08 (AMZN 1920x1080 AVC AAC MKV)</title>
-			<description>[天月搬运组] 机动战士高达 GQuuuuuuX / Kidou Senshi Gundam GQuuuuuuX - 08 (AMZN 1920x1080 AVC AAC MKV)[1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0d0c136f2165f19de13f4d0153f3843f8cffdd7c</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-05-28T00:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250528/0d0c136f2165f19de13f4d0153f3843f8cffdd7c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -1024,5 +1024,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="260350928" url="https://mikanani.me/Download/20250529/f61886418dde30f9e36f5004a0abea576b98e129.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
+			<title>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</title>
+			<description>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin][32.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
+				<contentLength>34574487552</contentLength>
+				<pubDate>2025-05-29T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="34574487552" url="https://mikanani.me/Download/20250529/2ce0c334f32e55645578a57a7d44a820960aa9d5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

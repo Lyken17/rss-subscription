@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/42acb4270e5c3356d3f2a5ce6698458d396ce2ba</link>
-			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)[376.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/42acb4270e5c3356d3f2a5ce6698458d396ce2ba</link>
-				<contentLength>395208288</contentLength>
-				<pubDate>2025-04-29T09:02:01.258971</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="395208288" url="https://mikanani.me/Download/20250429/42acb4270e5c3356d3f2a5ce6698458d396ce2ba.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f68265109581e41384acda2409040cade04ebfce</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -29583,6 +29571,18 @@
 				<pubDate>2025-05-29T15:06:31.148</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="260350928" url="https://mikanani.me/Download/20250529/f61886418dde30f9e36f5004a0abea576b98e129.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
+			<title>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</title>
+			<description>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin][32.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
+				<contentLength>34574487552</contentLength>
+				<pubDate>2025-05-29T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="34574487552" url="https://mikanani.me/Download/20250529/2ce0c334f32e55645578a57a7d44a820960aa9d5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
