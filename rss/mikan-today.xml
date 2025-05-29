@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/690f3ff7bb2bf4579eddc06c4d62bdcc090168f7</link>
+			<title>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][292MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/690f3ff7bb2bf4579eddc06c4d62bdcc090168f7</link>
+				<contentLength>306184192</contentLength>
+				<pubDate>2025-05-30T03:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="306184192" url="https://mikanani.me/Download/20250530/690f3ff7bb2bf4579eddc06c4d62bdcc090168f7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 22 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a973b5ddae6ea82ce7dbcfe085ffdee971337d18</link>
 			<title>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 22 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-28T22:00:34.272718</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="109051904" url="https://mikanani.me/Download/20250528/01eec66081abd3c4ee0d7e4b1a4a52f6cd0bd977.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 08 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1ba6aa6db1f2acd9d6410607c94bdc61197fb6a4</link>
-			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 08 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 08 (ABEMA 1280x720 AVC AAC MP4)[368.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1ba6aa6db1f2acd9d6410607c94bdc61197fb6a4</link>
-				<contentLength>385875968</contentLength>
-				<pubDate>2025-05-28T21:35:11.98291</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385875968" url="https://mikanani.me/Download/20250528/1ba6aa6db1f2acd9d6410607c94bdc61197fb6a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
