@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">剧场版 火鸟：凤凰篇.1986.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/9d3be0d50d12ab9aecfc54bcdc0e632d5b253a5b</link>
+			<title>剧场版 火鸟：凤凰篇.1986.DVD720P.日语中字</title>
+			<description>剧场版 火鸟：凤凰篇.1986.DVD720P.日语中字[951.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9d3be0d50d12ab9aecfc54bcdc0e632d5b253a5b</link>
+				<contentLength>997405504</contentLength>
+				<pubDate>2025-05-29T18:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="997405504" url="https://mikanani.me/Download/20250529/9d3be0d50d12ab9aecfc54bcdc0e632d5b253a5b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/2ce0c334f32e55645578a57a7d44a820960aa9d5</link>
 			<title>[VCB-Studio] 魔王学院的不适任者 二期 / Maou Gakuin no Futekigousha S2 10-bit 1080p HEVC BDRip [Part1 Rev + Part2 Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-05-28T00:57:01.973141</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="251972816" url="https://mikanani.me/Download/20250528/f3a2501aaf62e2350e5019cbe81aa1d30f206d81.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 阳光马达棒球场！ / Ballpark de Tsukamaete! - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9524ebaa34b83ff227f78655016436d723c50189</link>
-			<title>[黒ネズミたち] 阳光马达棒球场！ / Ballpark de Tsukamaete! - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 阳光马达棒球场！ / Ballpark de Tsukamaete! - 09 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9524ebaa34b83ff227f78655016436d723c50189</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-05-28T00:31:51.826687</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250528/9524ebaa34b83ff227f78655016436d723c50189.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
