@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a53512c4a16d37ec8f01671e10449e094351f66f</link>
+			<title>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][647.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a53512c4a16d37ec8f01671e10449e094351f66f</link>
+				<contentLength>678848128</contentLength>
+				<pubDate>2025-05-30T03:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="678848128" url="https://mikanani.me/Download/20250530/a53512c4a16d37ec8f01671e10449e094351f66f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/690f3ff7bb2bf4579eddc06c4d62bdcc090168f7</link>
 			<title>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-28T22:00:43.853103</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="109471336" url="https://mikanani.me/Download/20250528/913529373f32bbe69d46fd97ecbe9ea4cce6f9fb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 全力兔 第二季 / Zenryoku Usagi (2023) 2nd Season - 20 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/01eec66081abd3c4ee0d7e4b1a4a52f6cd0bd977</link>
-			<title>[黒ネズミたち] 全力兔 第二季 / Zenryoku Usagi (2023) 2nd Season - 20 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 全力兔 第二季 / Zenryoku Usagi (2023) 2nd Season - 20 (Baha 1920x1080 AVC AAC MP4)[104.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/01eec66081abd3c4ee0d7e4b1a4a52f6cd0bd977</link>
-				<contentLength>109051904</contentLength>
-				<pubDate>2025-05-28T22:00:34.272718</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="109051904" url="https://mikanani.me/Download/20250528/01eec66081abd3c4ee0d7e4b1a4a52f6cd0bd977.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
