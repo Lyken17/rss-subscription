@@ -856,5 +856,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="583910016" url="https://mikanani.me/Download/20250530/cbc7b2dd696419ffc1f8b243f1c1140c7f58b816.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Thunderbolt Fantasy 东离剑游纪 最终章 / Thunderbolt Fantasy: Touriken Yuuki - Saishuushou - Thunderbolt Fantasy Sword Seekers -The Finale- (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/01fb25151461a6658bd3900641d222b78ee79fb0</link>
+			<title>[黒ネズミたち] Thunderbolt Fantasy 东离剑游纪 最终章 / Thunderbolt Fantasy: Touriken Yuuki - Saishuushou - Thunderbolt Fantasy Sword Seekers -The Finale- (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] Thunderbolt Fantasy 东离剑游纪 最终章 / Thunderbolt Fantasy: Touriken Yuuki - Saishuushou - Thunderbolt Fantasy Sword Seekers -The Finale- (CR 1920x1080 AVC AAC MKV)[5.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/01fb25151461a6658bd3900641d222b78ee79fb0</link>
+				<contentLength>5476083200</contentLength>
+				<pubDate>2025-05-30T13:03:24.161621</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5476083200" url="https://mikanani.me/Download/20250530/01fb25151461a6658bd3900641d222b78ee79fb0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

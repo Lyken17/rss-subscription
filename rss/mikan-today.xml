@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Thunderbolt Fantasy 东离剑游纪 最终章 / Thunderbolt Fantasy: Touriken Yuuki - Saishuushou - Thunderbolt Fantasy Sword Seekers -The Finale- (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/01fb25151461a6658bd3900641d222b78ee79fb0</link>
+			<title>[黒ネズミたち] Thunderbolt Fantasy 东离剑游纪 最终章 / Thunderbolt Fantasy: Touriken Yuuki - Saishuushou - Thunderbolt Fantasy Sword Seekers -The Finale- (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] Thunderbolt Fantasy 东离剑游纪 最终章 / Thunderbolt Fantasy: Touriken Yuuki - Saishuushou - Thunderbolt Fantasy Sword Seekers -The Finale- (CR 1920x1080 AVC AAC MKV)[5.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/01fb25151461a6658bd3900641d222b78ee79fb0</link>
+				<contentLength>5476083200</contentLength>
+				<pubDate>2025-05-30T13:03:24.161621</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5476083200" url="https://mikanani.me/Download/20250530/01fb25151461a6658bd3900641d222b78ee79fb0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">灵笼 第二季 / INCARNATION S2 - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简体中文]</guid>
 			<link>https://mikanani.me/Home/Episode/cbc7b2dd696419ffc1f8b243f1c1140c7f58b816</link>
 			<title>灵笼 第二季 / INCARNATION S2 - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简体中文]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-28T22:59:03.074388</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="392167424" url="https://mikanani.me/Download/20250528/6928e3e1646817eb6694ee1d26387ff3c61f861a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 三岁开始做王者 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru [08] [1080p] [简日内嵌] [2025年4月番]</guid>
-			<link>https://mikanani.me/Home/Episode/3971221c54660464a165120329e338f161f4fa34</link>
-			<title>[猎户压制部] 三岁开始做王者 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru [08] [1080p] [简日内嵌] [2025年4月番]</title>
-			<description>[猎户压制部] 三岁开始做王者 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru [08] [1080p] [简日内嵌] [2025年4月番][374.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3971221c54660464a165120329e338f161f4fa34</link>
-				<contentLength>392481984</contentLength>
-				<pubDate>2025-05-28T22:58:56.230332</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="392481984" url="https://mikanani.me/Download/20250528/3971221c54660464a165120329e338f161f4fa34.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
