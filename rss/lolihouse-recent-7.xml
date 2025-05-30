@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5095aee4b0f60653653ac1bdbb1c96618f2b16a9</link>
-			<title>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
-			<description>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 04 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][558.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5095aee4b0f60653653ac1bdbb1c96618f2b16a9</link>
-				<contentLength>585619200</contentLength>
-				<pubDate>2025-05-23T15:38:57.913</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="585619200" url="https://mikanani.me/Download/20250523/5095aee4b0f60653653ac1bdbb1c96618f2b16a9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/600a01d24e2c5fedc39333292b248cbeb5e5344c</link>
 			<title>[LoliHouse] 防风少年 / WIND BREAKER - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -435,6 +423,18 @@
 				<pubDate>2025-05-30T06:33:42.034</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="226167360" url="https://mikanani.me/Download/20250530/f56e926c4d07f37d80a5206a1cea9b20344df513.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/92c1090da3c4039c99a6a5adce237fb48638c6b2</link>
+			<title>[LoliHouse] 防风少年 / WIND BREAKER - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 防风少年 / WIND BREAKER - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][616.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92c1090da3c4039c99a6a5adce237fb48638c6b2</link>
+				<contentLength>646048640</contentLength>
+				<pubDate>2025-05-30T23:24:45.41</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="646048640" url="https://mikanani.me/Download/20250530/92c1090da3c4039c99a6a5adce237fb48638c6b2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
