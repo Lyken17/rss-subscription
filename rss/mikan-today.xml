@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 我们无法一起学习 / Bokutachi wa Benkyou ga Dekinai 10-bit 1080p HEVC BDRip [S1-S2 + OVAs Reseed v2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/d662c24e7f72747f740dcc32766133340e0110ff</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 我们无法一起学习 / Bokutachi wa Benkyou ga Dekinai 10-bit 1080p HEVC BDRip [S1-S2 + OVAs Reseed v2 Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 我们无法一起学习 / Bokutachi wa Benkyou ga Dekinai 10-bit 1080p HEVC BDRip [S1-S2 + OVAs Reseed v2 Fin][35.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d662c24e7f72747f740dcc32766133340e0110ff</link>
+				<contentLength>38010462208</contentLength>
+				<pubDate>2025-05-30T19:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="38010462208" url="https://mikanani.me/Download/20250530/d662c24e7f72747f740dcc32766133340e0110ff.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/6c3004366cafc36a948fdd8aab0b66c6d2037988</link>
 			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-05-28T23:16:46.512621</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250528/e5b75769fe257fb2295cad17c20278266273aa89.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 记忆缝线 YOUR FORMA / Your Forma - 09 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3f07972d007558dc91d88ba2fedb27eea6f34c02</link>
-			<title>[黒ネズミたち] 记忆缝线 YOUR FORMA / Your Forma - 09 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 记忆缝线 YOUR FORMA / Your Forma - 09 (Baha 1920x1080 AVC AAC MP4)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3f07972d007558dc91d88ba2fedb27eea6f34c02</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-05-28T23:16:25.807127</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250528/3f07972d007558dc91d88ba2fedb27eea6f34c02.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

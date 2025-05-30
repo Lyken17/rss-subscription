@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 灵笼S2 / Ling Long 2nd Season - 01 (B-Global Donghua 1920x818 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7dd1cd38b67544b28897e056e62e89d1fd4d47fb</link>
-			<title>[黒ネズミたち] 灵笼S2 / Ling Long 2nd Season - 01 (B-Global Donghua 1920x818 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 灵笼S2 / Ling Long 2nd Season - 01 (B-Global Donghua 1920x818 HEVC AAC MKV)[602.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7dd1cd38b67544b28897e056e62e89d1fd4d47fb</link>
-				<contentLength>631347584</contentLength>
-				<pubDate>2025-05-23T11:02:44.711559</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="631347584" url="https://mikanani.me/Download/20250523/7dd1cd38b67544b28897e056e62e89d1fd4d47fb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/bee69f96997e94b1e420b05f0269f4b3357be132</link>
-			<title>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君子无疾 / Everything is Fine with the Emperor - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)[550.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bee69f96997e94b1e420b05f0269f4b3357be132</link>
-				<contentLength>576821632</contentLength>
-				<pubDate>2025-05-23T11:01:45.742013</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="576821632" url="https://mikanani.me/Download/20250523/bee69f96997e94b1e420b05f0269f4b3357be132.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 防风少年 第二季 / Wind Breaker Season 2 - 08 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a61807c9b776ce6020bf4de75b5df896ef5e1db6</link>
 			<title>[黒ネズミたち] 防风少年 第二季 / Wind Breaker Season 2 - 08 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -6819,6 +6795,18 @@
 				<pubDate>2025-05-30T16:05:33.68111</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749731840" url="https://mikanani.me/Download/20250530/6c3004366cafc36a948fdd8aab0b66c6d2037988.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 我们无法一起学习 / Bokutachi wa Benkyou ga Dekinai 10-bit 1080p HEVC BDRip [S1-S2 + OVAs Reseed v2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/d662c24e7f72747f740dcc32766133340e0110ff</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 我们无法一起学习 / Bokutachi wa Benkyou ga Dekinai 10-bit 1080p HEVC BDRip [S1-S2 + OVAs Reseed v2 Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 我们无法一起学习 / Bokutachi wa Benkyou ga Dekinai 10-bit 1080p HEVC BDRip [S1-S2 + OVAs Reseed v2 Fin][35.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d662c24e7f72747f740dcc32766133340e0110ff</link>
+				<contentLength>38010462208</contentLength>
+				<pubDate>2025-05-30T19:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="38010462208" url="https://mikanani.me/Download/20250530/d662c24e7f72747f740dcc32766133340e0110ff.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
