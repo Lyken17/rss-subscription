@@ -6820,5 +6820,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="771751936" url="https://mikanani.me/Download/20250530/6bbe0f205e4f314e82e5cdd3a9b173b8e56958d5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">灵笼 第二季 / INCARNATION S2 - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/cbc7b2dd696419ffc1f8b243f1c1140c7f58b816</link>
+			<title>灵笼 第二季 / INCARNATION S2 - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简体中文]</title>
+			<description>灵笼 第二季 / INCARNATION S2 - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简体中文][556.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cbc7b2dd696419ffc1f8b243f1c1140c7f58b816</link>
+				<contentLength>583910016</contentLength>
+				<pubDate>2025-05-30T11:10:37.435</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="583910016" url="https://mikanani.me/Download/20250530/cbc7b2dd696419ffc1f8b243f1c1140c7f58b816.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
