@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 名侦探柯南：百万美元的五棱星 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封]</guid>
-			<link>https://mikanani.me/Home/Episode/6fe401eff0f27dd46da4ca49b7f639e1bbcc2f28</link>
-			<title>[沸班亚马制作组] 名侦探柯南：百万美元的五棱星 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封]</title>
-			<description>[沸班亚马制作组] 名侦探柯南：百万美元的五棱星 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封][7.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6fe401eff0f27dd46da4ca49b7f639e1bbcc2f28</link>
-				<contentLength>7730940928</contentLength>
-				<pubDate>2025-05-30T08:48:04.59149</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7730940928" url="https://mikanani.me/Download/20250530/6fe401eff0f27dd46da4ca49b7f639e1bbcc2f28.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 03 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/57d8b97b39d3486f26db06748ecb2ef04905badb</link>
 			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 03 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -771,6 +759,18 @@
 				<pubDate>2025-05-31T16:16:16.869</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="401698976" url="https://mikanani.me/Download/20250531/70751c03f5c95232ede9122a6f7c17b01b2ecb8e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 01 (CR 1920x816 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/526db2caa5fc84ee37897a3a638a62af25456415</link>
+			<title>[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 01 (CR 1920x816 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 01 (CR 1920x816 AVC AAC MKV)[1.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/526db2caa5fc84ee37897a3a638a62af25456415</link>
+				<contentLength>1717986944</contentLength>
+				<pubDate>2025-05-31T16:50:29.334206</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250531/526db2caa5fc84ee37897a3a638a62af25456415.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
