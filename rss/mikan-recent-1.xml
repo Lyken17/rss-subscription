@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="7730940928" url="https://mikanani.me/Download/20250530/6fe401eff0f27dd46da4ca49b7f639e1bbcc2f28.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 名侦探柯南：百万美元的五棱星 [BDRip 1080p HEVC-10bit OPUS][日语内封]</guid>
-			<link>https://mikanani.me/Home/Episode/4bb4b70c72d96f2ace288a2b4cd9ab7f8737c9e2</link>
-			<title>[沸班亚马制作组] 名侦探柯南：百万美元的五棱星 [BDRip 1080p HEVC-10bit OPUS][日语内封]</title>
-			<description>[沸班亚马制作组] 名侦探柯南：百万美元的五棱星 [BDRip 1080p HEVC-10bit OPUS][日语内封][2.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4bb4b70c72d96f2ace288a2b4cd9ab7f8737c9e2</link>
-				<contentLength>2791728640</contentLength>
-				<pubDate>2025-05-30T08:07:39.900382</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20250530/4bb4b70c72d96f2ace288a2b4cd9ab7f8737c9e2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 03 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/57d8b97b39d3486f26db06748ecb2ef04905badb</link>
 			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 03 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -771,6 +759,18 @@
 				<pubDate>2025-05-31T11:33:17.452488</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="490943296" url="https://mikanani.me/Download/20250531/b221798cb76c2e80513ca4c04075ebfad9ae590c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</guid>
+			<link>https://mikanani.me/Home/Episode/70751c03f5c95232ede9122a6f7c17b01b2ecb8e</link>
+			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</title>
+			<description>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)[383.09 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/70751c03f5c95232ede9122a6f7c17b01b2ecb8e</link>
+				<contentLength>401698976</contentLength>
+				<pubDate>2025-05-31T16:16:16.869</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="401698976" url="https://mikanani.me/Download/20250531/70751c03f5c95232ede9122a6f7c17b01b2ecb8e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
