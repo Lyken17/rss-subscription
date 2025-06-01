@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="691808512" url="https://mikanani.me/Download/20250601/d9a5549d910df1c44aa392dbcf2a2403b608cadf.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 07 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fd7c059f91efae1c15e606e5612cf26e7d748c55</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 07 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 07 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][641.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd7c059f91efae1c15e606e5612cf26e7d748c55</link>
+				<contentLength>672955136</contentLength>
+				<pubDate>2025-06-01T22:12:45.334</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="672955136" url="https://mikanani.me/Download/20250601/fd7c059f91efae1c15e606e5612cf26e7d748c55.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
