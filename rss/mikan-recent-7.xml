@@ -7336,5 +7336,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3908420352" url="https://mikanani.me/Download/20250602/64fb9fabe31ea931c472b0183e58d9e60759d899.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/756a592a1bee50bc8d44f7c0b23418afe695d093</link>
+			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][繁日内嵌]</title>
+			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][繁日内嵌][292.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/756a592a1bee50bc8d44f7c0b23418afe695d093</link>
+				<contentLength>306561664</contentLength>
+				<pubDate>2025-06-02T01:26:52.672</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="306561664" url="https://mikanani.me/Download/20250602/756a592a1bee50bc8d44f7c0b23418afe695d093.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e4ff37d14491aa497f72db34bd1178927d1ec83d</link>
+			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][简日内嵌]</title>
+			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][简日内嵌][292.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e4ff37d14491aa497f72db34bd1178927d1ec83d</link>
+				<contentLength>306320512</contentLength>
+				<pubDate>2025-06-02T01:26:45.059</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="306320512" url="https://mikanani.me/Download/20250602/e4ff37d14491aa497f72db34bd1178927d1ec83d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
