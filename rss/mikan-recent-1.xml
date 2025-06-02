@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [08][WebRip][AVC_EAC3][简日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/21c097c9b77b48669f2be7624de4118f55748329</link>
-			<title>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [08][WebRip][AVC_EAC3][简日内封]</title>
-			<description>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [08][WebRip][AVC_EAC3][简日内封][922.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21c097c9b77b48669f2be7624de4118f55748329</link>
-				<contentLength>967416192</contentLength>
-				<pubDate>2025-06-01T11:03:55.515765</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="967416192" url="https://mikanani.me/Download/20250601/21c097c9b77b48669f2be7624de4118f55748329.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 赛马娘 Pretty Derby 巅峰之路 / Uma Musume Pretty Derby - ROAD TO THE TOP 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/a7b9efb602a7dd2caf773d8deb6c0dd59c17b56b</link>
 			<title>[VCB-Studio] 赛马娘 Pretty Derby 巅峰之路 / Uma Musume Pretty Derby - ROAD TO THE TOP 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
@@ -1695,6 +1683,18 @@
 				<pubDate>2025-06-02T17:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="787061120" url="https://mikanani.me/Download/20250602/167ee235edd9768f4fd6c87000408c1fc20db94d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f</link>
+			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][591.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f</link>
+				<contentLength>619855232</contentLength>
+				<pubDate>2025-06-02T18:50:50.515</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="619855232" url="https://mikanani.me/Download/20250602/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

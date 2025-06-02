@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f</link>
+			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][591.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f</link>
+				<contentLength>619855232</contentLength>
+				<pubDate>2025-06-02T18:50:50.515</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="619855232" url="https://mikanani.me/Download/20250602/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ce0f921ed91086247eb91256f4886aafbd874939</link>
 			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-01T21:32:56.579382</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747005568" url="https://mikanani.me/Download/20250601/11b5dfeb7721ba4e30890d511ed33836fa1e6a71.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 09 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
-			<link>https://mikanani.me/Home/Episode/d9a5549d910df1c44aa392dbcf2a2403b608cadf</link>
-			<title>[LoliHouse] Princess-Session Orchestra - 09 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
-			<description>[LoliHouse] Princess-Session Orchestra - 09 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[659.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d9a5549d910df1c44aa392dbcf2a2403b608cadf</link>
-				<contentLength>691808512</contentLength>
-				<pubDate>2025-06-01T21:07:53.87</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="691808512" url="https://mikanani.me/Download/20250601/d9a5549d910df1c44aa392dbcf2a2403b608cadf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
