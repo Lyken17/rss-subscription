@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 地狱少女阎魔爱 Jigoku Shōjo S1-S4 [Bilibili WEB-DL 1080P AVC 8bit AAC][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/83a9c2fb56ca7013ccb60f281c642dc04691a493</link>
+			<title>[Prejudice-Studio] 地狱少女阎魔爱 Jigoku Shōjo S1-S4 [Bilibili WEB-DL 1080P AVC 8bit AAC][CHS]</title>
+			<description>[Prejudice-Studio] 地狱少女阎魔爱 Jigoku Shōjo S1-S4 [Bilibili WEB-DL 1080P AVC 8bit AAC][CHS][81.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/83a9c2fb56ca7013ccb60f281c642dc04691a493</link>
+				<contentLength>86973087744</contentLength>
+				<pubDate>2025-06-02T15:11:34.202648</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="86973087744" url="https://mikanani.me/Download/20250602/83a9c2fb56ca7013ccb60f281c642dc04691a493.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/881a43e9a1b11ff2db22c05edc9eb424859bd55f</link>
 			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-01T20:01:58.284851</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250601/397928f68fa67f343efdc218903b88e4d4f444b7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 虽然我是白豚贵族，但因为我有前世的记忆，所以我在养育弱小的弟弟 / Shirohiyo - 08 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/271196994261ea3c2c7bce39ec3258adf9059d41</link>
-			<title>[黒ネズミたち] 虽然我是白豚贵族，但因为我有前世的记忆，所以我在养育弱小的弟弟 / Shirohiyo - 08 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 虽然我是白豚贵族，但因为我有前世的记忆，所以我在养育弱小的弟弟 / Shirohiyo - 08 (B-Global 1920x1080 HEVC AAC MKV)[345.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/271196994261ea3c2c7bce39ec3258adf9059d41</link>
-				<contentLength>362178144</contentLength>
-				<pubDate>2025-06-01T20:01:27.26181</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="362178144" url="https://mikanani.me/Download/20250601/271196994261ea3c2c7bce39ec3258adf9059d41.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
