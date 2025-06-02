@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[865][2025.05.31][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/d14c777d6c0a0fdf747adeb1a83fff5d6d2e49a2</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[865][2025.05.31][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[865][2025.05.31][AVC][1080P][GB_JP][545.51 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d14c777d6c0a0fdf747adeb1a83fff5d6d2e49a2</link>
+				<contentLength>572008704</contentLength>
+				<pubDate>2025-06-02T19:32:30.465</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="572008704" url="https://mikanani.me/Download/20250602/d14c777d6c0a0fdf747adeb1a83fff5d6d2e49a2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c5cfdc26bd012184ae1e13491ca315fd0bcccf6f</link>
 			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-01T21:33:08.980999</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="783286272" url="https://mikanani.me/Download/20250601/870b3855b56bd4883ba0590a5b4a0152a1caf661.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ / Kanchigai no Atelier Meister - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/11b5dfeb7721ba4e30890d511ed33836fa1e6a71</link>
-			<title>[黒ネズミたち] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ / Kanchigai no Atelier Meister - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ / Kanchigai no Atelier Meister - 09 (ABEMA 1920x1080 AVC AAC MP4)[712.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/11b5dfeb7721ba4e30890d511ed33836fa1e6a71</link>
-				<contentLength>747005568</contentLength>
-				<pubDate>2025-06-01T21:32:56.579382</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747005568" url="https://mikanani.me/Download/20250601/11b5dfeb7721ba4e30890d511ed33836fa1e6a71.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
