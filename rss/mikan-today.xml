@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ce0f921ed91086247eb91256f4886aafbd874939</link>
+			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][368.55 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce0f921ed91086247eb91256f4886aafbd874939</link>
+				<contentLength>386452672</contentLength>
+				<pubDate>2025-06-02T17:59:31.228</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386452672" url="https://mikanani.me/Download/20250602/ce0f921ed91086247eb91256f4886aafbd874939.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">OVA 火鸟：宇宙篇.1987.DVD720P.日语中字</guid>
+			<link>https://mikanani.me/Home/Episode/167ee235edd9768f4fd6c87000408c1fc20db94d</link>
+			<title>OVA 火鸟：宇宙篇.1987.DVD720P.日语中字</title>
+			<description>OVA 火鸟：宇宙篇.1987.DVD720P.日语中字[750.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/167ee235edd9768f4fd6c87000408c1fc20db94d</link>
+				<contentLength>787061120</contentLength>
+				<pubDate>2025-06-02T17:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="787061120" url="https://mikanani.me/Download/20250602/167ee235edd9768f4fd6c87000408c1fc20db94d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[星空字幕组][星合之空 / Hoshiai no Sora][01-12 精校合集][BDRip][1080P][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/3804b5255ed881a4e59db34b85156effff6cc7ca</link>
 			<title>[星空字幕组][星合之空 / Hoshiai no Sora][01-12 精校合集][BDRip][1080P][繁日双语]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-06-01T21:07:53.87</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="691808512" url="https://mikanani.me/Download/20250601/d9a5549d910df1c44aa392dbcf2a2403b608cadf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔神创造传 / Mashin Souzouden Wataru - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/cea1d84e72b35b79845e0121846e7b27526b04ce</link>
-			<title>[黒ネズミたち] 魔神创造传 / Mashin Souzouden Wataru - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔神创造传 / Mashin Souzouden Wataru - 21 (ABEMA 1920x1080 AVC AAC MP4)[717.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cea1d84e72b35b79845e0121846e7b27526b04ce</link>
-				<contentLength>752458112</contentLength>
-				<pubDate>2025-06-01T20:54:08.836375</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="752458112" url="https://mikanani.me/Download/20250601/cea1d84e72b35b79845e0121846e7b27526b04ce.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/119dd7125d652a37e755acdc43b3ce8830f8c184</link>
-			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 09 (ABEMA 1920x1080 AVC AAC MP4)[728.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/119dd7125d652a37e755acdc43b3ce8830f8c184</link>
-				<contentLength>763782784</contentLength>
-				<pubDate>2025-06-01T20:35:55.747606</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="763782784" url="https://mikanani.me/Download/20250601/119dd7125d652a37e755acdc43b3ce8830f8c184.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
