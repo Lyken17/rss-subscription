@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 30 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/edfc1d0d998083b1d25a3fce471c92a7a5f71ea4</link>
+			<title>[Skymoon-Raws] Chiikawa - 30 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Chiikawa - 30 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][14.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/edfc1d0d998083b1d25a3fce471c92a7a5f71ea4</link>
+				<contentLength>14994637</contentLength>
+				<pubDate>2025-06-04T03:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14994637" url="https://mikanani.me/Download/20250604/edfc1d0d998083b1d25a3fce471c92a7a5f71ea4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 29 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/30fac3b43a09b5689ad187eaf2e6eb26bee9a236</link>
+			<title>[Skymoon-Raws] Chiikawa - 29 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Chiikawa - 29 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][17.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/30fac3b43a09b5689ad187eaf2e6eb26bee9a236</link>
+				<contentLength>18350080</contentLength>
+				<pubDate>2025-06-04T03:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18350080" url="https://mikanani.me/Download/20250604/30fac3b43a09b5689ad187eaf2e6eb26bee9a236.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b555b7bc6fc65fd66ae89e6bbcc959da778d60e5</link>
 			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2025-06-03T00:57:53.370644</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20250603/4837752d9a091471e460203c02924c8a7502bec2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 20 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/b5e06c36c27018910665babcf7a296c478892768</link>
-			<title>[Skymoon-Raws] Chiikawa - 20 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 20 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][16.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b5e06c36c27018910665babcf7a296c478892768</link>
-				<contentLength>17301504</contentLength>
-				<pubDate>2025-06-03T00:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17301504" url="https://mikanani.me/Download/20250603/b5e06c36c27018910665babcf7a296c478892768.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/19c7af1576c76104a812ca5366203e2fb660bbe5</link>
-			<title>[Skymoon-Raws] Chiikawa - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][18.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/19c7af1576c76104a812ca5366203e2fb660bbe5</link>
-				<contentLength>19188940</contentLength>
-				<pubDate>2025-06-03T00:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="19188940" url="https://mikanani.me/Download/20250603/19c7af1576c76104a812ca5366203e2fb660bbe5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
