@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</guid>
+			<link>https://mikanani.me/Home/Episode/f7dc17ec5ef865183ee35d62bc85510c9d4a71bc</link>
+			<title>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</title>
+			<description>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年][270.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7dc17ec5ef865183ee35d62bc85510c9d4a71bc</link>
+				<contentLength>283220384</contentLength>
+				<pubDate>2025-06-04T04:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="283220384" url="https://mikanani.me/Download/20250604/f7dc17ec5ef865183ee35d62bc85510c9d4a71bc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 30 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/edfc1d0d998083b1d25a3fce471c92a7a5f71ea4</link>
 			<title>[Skymoon-Raws] Chiikawa - 30 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-03T01:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="515479968" url="https://mikanani.me/Download/20250603/6c575d5e8da358a39592da67c474a7429eb0c122.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ / Kanchigai no Atelier Meister - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4837752d9a091471e460203c02924c8a7502bec2</link>
-			<title>[黒ネズミたち] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ / Kanchigai no Atelier Meister - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ / Kanchigai no Atelier Meister - 03 (ABEMA 1920x1080 AVC AAC MP4)[712.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4837752d9a091471e460203c02924c8a7502bec2</link>
-				<contentLength>747320128</contentLength>
-				<pubDate>2025-06-03T00:57:53.370644</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20250603/4837752d9a091471e460203c02924c8a7502bec2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
