@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">九龙大众浪漫 / Kowloon Generic Romance - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/fc440fa4e5517edaf28d801274cd1b2e7010c5f8</link>
+			<title>九龙大众浪漫 / Kowloon Generic Romance - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
+			<description>九龙大众浪漫 / Kowloon Generic Romance - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][252.98 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fc440fa4e5517edaf28d801274cd1b2e7010c5f8</link>
+				<contentLength>265268752</contentLength>
+				<pubDate>2025-06-03T20:02:20.416</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="265268752" url="https://mikanani.me/Download/20250603/fc440fa4e5517edaf28d801274cd1b2e7010c5f8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c400bc6bc30630165fa252b24f8f2ee02fd307d4</link>
 			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-02T21:03:48.187</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="325090016" url="https://mikanani.me/Download/20250602/d1a2a18c7b2add971074bb3983f1f08f2bc32447.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][吞噬星空][Swallowed Star][2021][174][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/c7e4d3a7d8b26fdc86128fcb062e4eb1a1bf2e51</link>
-			<title>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][174][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][174][AVC][GB][1080P][437.92 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c7e4d3a7d8b26fdc86128fcb062e4eb1a1bf2e51</link>
-				<contentLength>459192416</contentLength>
-				<pubDate>2025-06-02T21:02:34.087</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="459192416" url="https://mikanani.me/Download/20250602/c7e4d3a7d8b26fdc86128fcb062e4eb1a1bf2e51.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

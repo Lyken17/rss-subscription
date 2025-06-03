@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/09440d0ba2d415b0e9d9f6f1aa3798bdf136ee11</link>
-			<title>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][简繁日内封]</title>
-			<description>[MingY] 小市民系列 第二季 / Shoushimin Series S2 [19][1080p][简繁日内封][181.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/09440d0ba2d415b0e9d9f6f1aa3798bdf136ee11</link>
-				<contentLength>190379456</contentLength>
-				<pubDate>2025-06-02T12:04:25.608</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="190379456" url="https://mikanani.me/Download/20250602/09440d0ba2d415b0e9d9f6f1aa3798bdf136ee11.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1131 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7df67554387b7e00aaa87063b8be8356938a5c88</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1131 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1131 (B-Global 3840x2160 HEVC AAC MKV)[1,021.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7df67554387b7e00aaa87063b8be8356938a5c88</link>
-				<contentLength>1070700928</contentLength>
-				<pubDate>2025-06-02T12:04:23.185102</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1070700928" url="https://mikanani.me/Download/20250602/7df67554387b7e00aaa87063b8be8356938a5c88.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/881a43e9a1b11ff2db22c05edc9eb424859bd55f</link>
 			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 34 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1419,6 +1395,18 @@
 				<pubDate>2025-06-03T17:32:56.401</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="462558336" url="https://mikanani.me/Download/20250603/82bd831cd00d6774650739d39e864a8ae2962327.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">九龙大众浪漫 / Kowloon Generic Romance - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/fc440fa4e5517edaf28d801274cd1b2e7010c5f8</link>
+			<title>九龙大众浪漫 / Kowloon Generic Romance - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
+			<description>九龙大众浪漫 / Kowloon Generic Romance - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][252.98 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fc440fa4e5517edaf28d801274cd1b2e7010c5f8</link>
+				<contentLength>265268752</contentLength>
+				<pubDate>2025-06-03T20:02:20.416</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="265268752" url="https://mikanani.me/Download/20250603/fc440fa4e5517edaf28d801274cd1b2e7010c5f8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
