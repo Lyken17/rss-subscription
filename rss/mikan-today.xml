@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</guid>
+			<link>https://mikanani.me/Home/Episode/60e8c1fc0a32cc708393787a32daeb5cffd21222</link>
+			<title>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</title>
+			<description>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年][261.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/60e8c1fc0a32cc708393787a32daeb5cffd21222</link>
+				<contentLength>274517184</contentLength>
+				<pubDate>2025-06-04T06:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="274517184" url="https://mikanani.me/Download/20250604/60e8c1fc0a32cc708393787a32daeb5cffd21222.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</guid>
 			<link>https://mikanani.me/Home/Episode/f7dc17ec5ef865183ee35d62bc85510c9d4a71bc</link>
 			<title>六四位元字幕组★直至魔女消逝 Aru Majo ga Shinu Made★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-03T01:21:00.565641</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250603/665c356103adee0bd86209937758be68a8ccb47c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 正义使者-我的英雄学院之非法英雄 / Vigilante -Boku no Hero Academia ILLEGALS- - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/6c575d5e8da358a39592da67c474a7429eb0c122</link>
-			<title>[Skymoon-Raws] 正义使者-我的英雄学院之非法英雄 / Vigilante -Boku no Hero Academia ILLEGALS- - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 正义使者-我的英雄学院之非法英雄 / Vigilante -Boku no Hero Academia ILLEGALS- - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][491.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6c575d5e8da358a39592da67c474a7429eb0c122</link>
-				<contentLength>515479968</contentLength>
-				<pubDate>2025-06-03T01:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="515479968" url="https://mikanani.me/Download/20250603/6c575d5e8da358a39592da67c474a7429eb0c122.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
