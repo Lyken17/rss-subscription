@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">幽游白书 / YuYu Hakusho [001-112][1080P][Bilibili][WEB-DL][AAC AVC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/a6e44a184ba5c0c363f96e6642ff62a687874315</link>
+			<title>幽游白书 / YuYu Hakusho [001-112][1080P][Bilibili][WEB-DL][AAC AVC][简体中文]</title>
+			<description>幽游白书 / YuYu Hakusho [001-112][1080P][Bilibili][WEB-DL][AAC AVC][简体中文][114.09 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a6e44a184ba5c0c363f96e6642ff62a687874315</link>
+				<contentLength>122503200768</contentLength>
+				<pubDate>2025-06-04T16:24:03.056</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="122503200768" url="https://mikanani.me/Download/20250604/a6e44a184ba5c0c363f96e6642ff62a687874315.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d91bd95df0e7796cb94a02cb20617f4fbcf9d4df</link>
 			<title>[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-03T07:38:32.22135</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="472802912" url="https://mikanani.me/Download/20250603/dc39327dda011f6e0f7869829bc8c9c19b3e7d8d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/58d1bed7b8332005af829c703f966058806fc7e3</link>
-			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][466.96 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58d1bed7b8332005af829c703f966058806fc7e3</link>
-				<contentLength>489643040</contentLength>
-				<pubDate>2025-06-03T03:33:39.019</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="489643040" url="https://mikanani.me/Download/20250603/58d1bed7b8332005af829c703f966058806fc7e3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
