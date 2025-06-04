@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][10][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/b8e654094be3a061a7b2d7d9ac71827b9cc197fb</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][10][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][10][1080p][简日双语][招募翻译时轴][362.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8e654094be3a061a7b2d7d9ac71827b9cc197fb</link>
+				<contentLength>380087840</contentLength>
+				<pubDate>2025-06-04T13:49:42.663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="380087840" url="https://mikanani.me/Download/20250604/b8e654094be3a061a7b2d7d9ac71827b9cc197fb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][角色经济观察(Character Business Journal)]学习樱桃小丸子的角色经济（前篇）[2025.06.01][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/7acea18da6648eeb56d13f328d980c2b8d0e3efe</link>
 			<title>[丸子家族][角色经济观察(Character Business Journal)]学习樱桃小丸子的角色经济（前篇）[2025.06.01][BIG5][1080P][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-03T02:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="984612864" url="https://mikanani.me/Download/20250603/616fa73459137a99b17568cf56a08d459c9896bc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] #COMPASS2.0 战斗天赋解析系统 / #Compass 2.0: Sentou Setsuri Kaiseki System - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/201237cc4d3646bc3f3af1ac7b91aa4f6068c79c</link>
-			<title>[黒ネズミたち] #COMPASS2.0 战斗天赋解析系统 / #Compass 2.0: Sentou Setsuri Kaiseki System - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] #COMPASS2.0 战斗天赋解析系统 / #Compass 2.0: Sentou Setsuri Kaiseki System - 09 (ABEMA 1920x1080 AVC AAC MP4)[712.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/201237cc4d3646bc3f3af1ac7b91aa4f6068c79c</link>
-				<contentLength>747320128</contentLength>
-				<pubDate>2025-06-03T01:38:44.483365</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20250603/201237cc4d3646bc3f3af1ac7b91aa4f6068c79c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
