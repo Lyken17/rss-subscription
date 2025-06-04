@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][10][1080p][繁日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/34675efb4a3793e6330dc0be9bff383a6698d7d2</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][10][1080p][繁日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][10][1080p][繁日双语][招募翻译时轴][362.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/34675efb4a3793e6330dc0be9bff383a6698d7d2</link>
+				<contentLength>380213664</contentLength>
+				<pubDate>2025-06-05T03:07:33.399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="380213664" url="https://mikanani.me/Download/20250605/34675efb4a3793e6330dc0be9bff383a6698d7d2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/705762ca8754cc6dba611f28052d37b2ad84a57d</link>
 			<title>[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-04T00:31:56.363133</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250604/711d1f3436713dafbbf03c01393e000265692261.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[千夏字幕组][小市民系列_Shoushimin Series][第14话][1080p_AVC][繁体][招募新人]</guid>
-			<link>https://mikanani.me/Home/Episode/92d7d29bafd1805dc7bf56ade941ad8764284a12</link>
-			<title>[千夏字幕组][小市民系列_Shoushimin Series][第14话][1080p_AVC][繁体][招募新人]</title>
-			<description>[千夏字幕组][小市民系列_Shoushimin Series][第14话][1080p_AVC][繁体][招募新人][349.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/92d7d29bafd1805dc7bf56ade941ad8764284a12</link>
-				<contentLength>366749952</contentLength>
-				<pubDate>2025-06-04T00:08:58.903</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="366749952" url="https://mikanani.me/Download/20250604/92d7d29bafd1805dc7bf56ade941ad8764284a12.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
