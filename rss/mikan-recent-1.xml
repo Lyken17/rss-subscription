@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</guid>
-			<link>https://mikanani.me/Home/Episode/60e8c1fc0a32cc708393787a32daeb5cffd21222</link>
-			<title>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年]</title>
-			<description>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★10★1920x1080★AVC AAC MP4★繁体中文[组庆三周年][261.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/60e8c1fc0a32cc708393787a32daeb5cffd21222</link>
-				<contentLength>274517184</contentLength>
-				<pubDate>2025-06-04T06:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="274517184" url="https://mikanani.me/Download/20250604/60e8c1fc0a32cc708393787a32daeb5cffd21222.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 09 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/988f3511b2d27da4c6ed7e2908697b56fe27b453</link>
 			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 09 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1059,6 +1047,18 @@
 				<pubDate>2025-06-05T13:05:22.826</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="602134272" url="https://mikanani.me/Download/20250605/664a8b9c457be32d9fd9d0c6b2968f18bb0cc8a4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][50][AVC][GB][1080P]【REV】</guid>
+			<link>https://mikanani.me/Home/Episode/26e507715c3e9029435f01ad1206ed3ea42d5f83</link>
+			<title>[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][50][AVC][GB][1080P]【REV】</title>
+			<description>[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][50][AVC][GB][1080P]【REV】[205.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26e507715c3e9029435f01ad1206ed3ea42d5f83</link>
+				<contentLength>215503344</contentLength>
+				<pubDate>2025-06-05T14:21:22.979</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="215503344" url="https://mikanani.me/Download/20250605/26e507715c3e9029435f01ad1206ed3ea42d5f83.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -7360,5 +7360,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="602134272" url="https://mikanani.me/Download/20250605/664a8b9c457be32d9fd9d0c6b2968f18bb0cc8a4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][50][AVC][GB][1080P]【REV】</guid>
+			<link>https://mikanani.me/Home/Episode/26e507715c3e9029435f01ad1206ed3ea42d5f83</link>
+			<title>[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][50][AVC][GB][1080P]【REV】</title>
+			<description>[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][50][AVC][GB][1080P]【REV】[205.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26e507715c3e9029435f01ad1206ed3ea42d5f83</link>
+				<contentLength>215503344</contentLength>
+				<pubDate>2025-06-05T14:21:22.979</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="215503344" url="https://mikanani.me/Download/20250605/26e507715c3e9029435f01ad1206ed3ea42d5f83.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
