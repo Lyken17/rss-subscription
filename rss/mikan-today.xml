@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 悲喜渔生（仅限港澳台地区） Negative Positive Angler [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内挂]</guid>
+			<link>https://mikanani.me/Home/Episode/894cf698decad1962671d39ff6b1dca2ef0b413d</link>
+			<title>[Prejudice-Studio] 悲喜渔生（仅限港澳台地区） Negative Positive Angler [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内挂]</title>
+			<description>[Prejudice-Studio] 悲喜渔生（仅限港澳台地区） Negative Positive Angler [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内挂][2.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/894cf698decad1962671d39ff6b1dca2ef0b413d</link>
+				<contentLength>3113851392</contentLength>
+				<pubDate>2025-06-05T16:55:04.885629</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3113851392" url="https://mikanani.me/Download/20250605/894cf698decad1962671d39ff6b1dca2ef0b413d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 07 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
 			<link>https://mikanani.me/Home/Episode/dabd7adc0a49b1ca22f346fd7267299818c14c4d</link>
 			<title>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 07 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-04T02:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16567501" url="https://mikanani.me/Download/20250604/4733cf92ac110fa53e1018bd62e4b696a27034dc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 竹轮战纪～用我的可爱来侵略地球～ / Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/02c616ae1578562e1c27b4bfcaae4ae7d39298d8</link>
-			<title>[黒ネズミたち] 竹轮战纪～用我的可爱来侵略地球～ / Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 竹轮战纪～用我的可爱来侵略地球～ / Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku - 09 (ABEMA 1920x1080 AVC AAC MP4)[75.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/02c616ae1578562e1c27b4bfcaae4ae7d39298d8</link>
-				<contentLength>78852912</contentLength>
-				<pubDate>2025-06-04T02:00:28.75384</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="78852912" url="https://mikanani.me/Download/20250604/02c616ae1578562e1c27b4bfcaae4ae7d39298d8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

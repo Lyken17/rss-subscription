@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 09 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/988f3511b2d27da4c6ed7e2908697b56fe27b453</link>
-			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 09 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 09 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][494.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/988f3511b2d27da4c6ed7e2908697b56fe27b453</link>
-				<contentLength>518940256</contentLength>
-				<pubDate>2025-06-04T09:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="518940256" url="https://mikanani.me/Download/20250604/988f3511b2d27da4c6ed7e2908697b56fe27b453.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[樱桃花字幕组] 男女之间存在纯友情吗？（不，不存在！！）Danjo no Yuujou wa Seiritsu suru - 03 [1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c7a9d91af9803f9df25faa4ab5f917a16c419661</link>
 			<title>[樱桃花字幕组] 男女之间存在纯友情吗？（不，不存在！！）Danjo no Yuujou wa Seiritsu suru - 03 [1080p][简日内嵌]</title>
@@ -1071,6 +1059,18 @@
 				<pubDate>2025-06-05T16:03:38.379</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="643972480" url="https://mikanani.me/Download/20250605/dabd7adc0a49b1ca22f346fd7267299818c14c4d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 悲喜渔生（仅限港澳台地区） Negative Positive Angler [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内挂]</guid>
+			<link>https://mikanani.me/Home/Episode/894cf698decad1962671d39ff6b1dca2ef0b413d</link>
+			<title>[Prejudice-Studio] 悲喜渔生（仅限港澳台地区） Negative Positive Angler [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内挂]</title>
+			<description>[Prejudice-Studio] 悲喜渔生（仅限港澳台地区） Negative Positive Angler [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内挂][2.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/894cf698decad1962671d39ff6b1dca2ef0b413d</link>
+				<contentLength>3113851392</contentLength>
+				<pubDate>2025-06-05T16:55:04.885629</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3113851392" url="https://mikanani.me/Download/20250605/894cf698decad1962671d39ff6b1dca2ef0b413d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
