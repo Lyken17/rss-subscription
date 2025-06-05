@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][09][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/65519cba787d25361449c3f0351b1593b2b5f02e</link>
-			<title>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][09][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][09][1080p][简日双语][268.02 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/65519cba787d25361449c3f0351b1593b2b5f02e</link>
-				<contentLength>281039328</contentLength>
-				<pubDate>2025-06-04T18:13:25.94</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="281039328" url="https://mikanani.me/Download/20250604/65519cba787d25361449c3f0351b1593b2b5f02e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 金牌得主 Medalist [01-13][Bilibili WEB-DL 1080P AVC 8bit AVC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/b13e00e0202866a3f0cda26addb8d4b4546fdd33</link>
 			<title>[Prejudice-Studio] 金牌得主 Medalist [01-13][Bilibili WEB-DL 1080P AVC 8bit AVC MP4][简日内嵌]</title>
@@ -1527,6 +1515,30 @@
 				<pubDate>2025-06-06T00:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15938355" url="https://mikanani.me/Download/20250606/c0e18ae17b6e1c6b09f26527ff39d19a0e6b94e4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 23 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0cc49f7a97bf7a6cc09188f76cfcc871485e21b3</link>
+			<title>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 23 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 23 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0cc49f7a97bf7a6cc09188f76cfcc871485e21b3</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-06-06T01:47:07.342683</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250606/0cc49f7a97bf7a6cc09188f76cfcc871485e21b3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 46 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/6b555fcdb21fbd2c1e0ee501bea7c8359d733cb4</link>
+			<title>[Skymoon-Raws] Chiikawa - 46 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Chiikawa - 46 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][20.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6b555fcdb21fbd2c1e0ee501bea7c8359d733cb4</link>
+				<contentLength>21705524</contentLength>
+				<pubDate>2025-06-06T01:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21705524" url="https://mikanani.me/Download/20250606/6b555fcdb21fbd2c1e0ee501bea7c8359d733cb4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
