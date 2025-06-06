@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 辰星降临之国的妮娜 Hoshifuru Oukoku no Nina [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/3a18a4868a528516ba441106b6f217651b9b226a</link>
+			<title>[Prejudice-Studio] 辰星降临之国的妮娜 Hoshifuru Oukoku no Nina [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 辰星降临之国的妮娜 Hoshifuru Oukoku no Nina [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][2.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a18a4868a528516ba441106b6f217651b9b226a</link>
+				<contentLength>2791728640</contentLength>
+				<pubDate>2025-06-06T13:59:30.523705</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20250606/3a18a4868a528516ba441106b6f217651b9b226a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 赛博朋克：边缘行者 / Cyberpunk Edgerunners (BDRip 1080p HEVC FLAC) (Dual-Audio Multi-Subs)</guid>
 			<link>https://mikanani.me/Home/Episode/0d18f4685dff1eaa1b71759e36fd1c1796883346</link>
 			<title>[H-Enc] 赛博朋克：边缘行者 / Cyberpunk Edgerunners (BDRip 1080p HEVC FLAC) (Dual-Audio Multi-Subs)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-05T00:45:50.817648</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="330930592" url="https://mikanani.me/Download/20250605/915279730255abfac12c37860560849ea5c8b13e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[09][1080p][内嵌简日]</guid>
-			<link>https://mikanani.me/Home/Episode/3c3fd36df4a8efe9efd93846faae1c34248c2bbf</link>
-			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[09][1080p][内嵌简日]</title>
-			<description>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[09][1080p][内嵌简日][165.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3c3fd36df4a8efe9efd93846faae1c34248c2bbf</link>
-				<contentLength>173644192</contentLength>
-				<pubDate>2025-06-05T00:39:23.888148</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="173644192" url="https://mikanani.me/Download/20250605/3c3fd36df4a8efe9efd93846faae1c34248c2bbf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

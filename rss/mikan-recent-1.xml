@@ -1108,5 +1108,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="630078848" url="https://mikanani.me/Download/20250606/75d6c5898c13c58fee223846ff15c5c894a05b36.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 辰星降临之国的妮娜 Hoshifuru Oukoku no Nina [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/3a18a4868a528516ba441106b6f217651b9b226a</link>
+			<title>[Prejudice-Studio] 辰星降临之国的妮娜 Hoshifuru Oukoku no Nina [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 辰星降临之国的妮娜 Hoshifuru Oukoku no Nina [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][2.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a18a4868a528516ba441106b6f217651b9b226a</link>
+				<contentLength>2791728640</contentLength>
+				<pubDate>2025-06-06T13:59:30.523705</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20250606/3a18a4868a528516ba441106b6f217651b9b226a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
