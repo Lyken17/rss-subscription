@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c6d302fe43b1e3d33b0ce3daf47643103da87491</link>
+			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][205.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c6d302fe43b1e3d33b0ce3daf47643103da87491</link>
+				<contentLength>215692080</contentLength>
+				<pubDate>2025-06-07T04:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="215692080" url="https://mikanani.me/Download/20250607/c6d302fe43b1e3d33b0ce3daf47643103da87491.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 名侦探柯南 黑铁的鱼影 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封]</guid>
 			<link>https://mikanani.me/Home/Episode/fa5ebafa2a45c4146743f43d79e8ecb058a23210</link>
 			<title>[沸班亚马制作组] 名侦探柯南 黑铁的鱼影 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-06T11:02:20.169555</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="468923200" url="https://mikanani.me/Download/20250606/72be3d2acadca5137098f8ac40bdbcafda6d15c3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 平凡职业造就世界最强第3季/Arifureta Shokugyou de Sekai Saikyou Season S03 | 01-16 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/e447d39e19e142592d3fefed9a26a5e117c991c7</link>
-			<title>[7³ACG] 平凡职业造就世界最强第3季/Arifureta Shokugyou de Sekai Saikyou Season S03 | 01-16 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[7³ACG] 平凡职业造就世界最强第3季/Arifureta Shokugyou de Sekai Saikyou Season S03 | 01-16 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[6.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e447d39e19e142592d3fefed9a26a5e117c991c7</link>
-				<contentLength>6549825024</contentLength>
-				<pubDate>2025-06-06T10:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6549825024" url="https://mikanani.me/Download/20250606/e447d39e19e142592d3fefed9a26a5e117c991c7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
