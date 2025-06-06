@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2ca2d763ab07d582cc3d009f6762f0b6f9270820</link>
+			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][211.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ca2d763ab07d582cc3d009f6762f0b6f9270820</link>
+				<contentLength>221585088</contentLength>
+				<pubDate>2025-06-06T07:43:50.664</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="221585088" url="https://mikanani.me/Download/20250606/2ca2d763ab07d582cc3d009f6762f0b6f9270820.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 50 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/45cfea360cc906f1a42039e77c9dad78963d1ec3</link>
 			<title>[Skymoon-Raws] Chiikawa - 50 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-04T23:29:29.769</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="543665664" url="https://mikanani.me/Download/20250604/c96df9dfe2b952ac5d68a54914cb4ab22a4965ad.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [08][WebRip][HEVC_AAC][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/1c545c450b4ea2c2d38fefdc88a7caeea5f48a0f</link>
-			<title>[北宇治字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [08][WebRip][HEVC_AAC][繁日内嵌]</title>
-			<description>[北宇治字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [08][WebRip][HEVC_AAC][繁日内嵌][518.79 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1c545c450b4ea2c2d38fefdc88a7caeea5f48a0f</link>
-				<contentLength>543990720</contentLength>
-				<pubDate>2025-06-04T23:29:23.569</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="543990720" url="https://mikanani.me/Download/20250604/1c545c450b4ea2c2d38fefdc88a7caeea5f48a0f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
