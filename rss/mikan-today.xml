@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 07 (CR 1920x816 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f28168d20b20c23acfc95222a23ab03032f127e5</link>
+			<title>[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 07 (CR 1920x816 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 07 (CR 1920x816 AVC AAC MKV)[1.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f28168d20b20c23acfc95222a23ab03032f127e5</link>
+				<contentLength>1717986944</contentLength>
+				<pubDate>2025-06-07T11:02:10.648384</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250607/f28168d20b20c23acfc95222a23ab03032f127e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 73 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b87da8772db1acc026f09b75868fd0977eb4e66f</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 73 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-06T11:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5798205952" url="https://mikanani.me/Download/20250606/bcb1c98b9a013dbb5b135c29c90d88b1fd99ec70.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 2.5次元的诱惑/2.5次元の诱惑/2.5 Jigen no Ririsa S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/642418bbf7bd20c3ad798b65303ce71d0e2fc0ad</link>
-			<title>[7³ACG] 2.5次元的诱惑/2.5次元の诱惑/2.5 Jigen no Ririsa S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[7³ACG] 2.5次元的诱惑/2.5次元の诱惑/2.5 Jigen no Ririsa S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[10.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/642418bbf7bd20c3ad798b65303ce71d0e2fc0ad</link>
-				<contentLength>11381663744</contentLength>
-				<pubDate>2025-06-06T11:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250606/642418bbf7bd20c3ad798b65303ce71d0e2fc0ad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
