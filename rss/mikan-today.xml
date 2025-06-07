@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][10][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c9da349821f99a34807cab147189ea9bba16b97b</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][10][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][10][1080p][简日双语][364.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c9da349821f99a34807cab147189ea9bba16b97b</link>
+				<contentLength>382143040</contentLength>
+				<pubDate>2025-06-08T03:35:09.572</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="382143040" url="https://mikanani.me/Download/20250608/c9da349821f99a34807cab147189ea9bba16b97b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b70741e72194ce20406ec707ac066675f6035925</link>
+			<title>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][564.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b70741e72194ce20406ec707ac066675f6035925</link>
+				<contentLength>592298624</contentLength>
+				<pubDate>2025-06-08T03:26:13.583</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="592298624" url="https://mikanani.me/Download/20250608/b70741e72194ce20406ec707ac066675f6035925.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 小市民系列 / Shoushimin Series [19][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/dd0a327647ef7cfaa6dbf98084ea160c01d62b5d</link>
 			<title>[北宇治字幕组] 小市民系列 / Shoushimin Series [19][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-06-07T11:31:13.162564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="494508448" url="https://mikanani.me/Download/20250607/11e8a273ecf507e581191df8ce2d04e41529c147.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 59 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/100751e333d650755950f760ab9b00990b4126c3</link>
-			<title>[Skymoon-Raws] Chiikawa - 59 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 59 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][14.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/100751e333d650755950f760ab9b00990b4126c3</link>
-				<contentLength>14994637</contentLength>
-				<pubDate>2025-06-07T11:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14994637" url="https://mikanani.me/Download/20250607/100751e333d650755950f760ab9b00990b4126c3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第10集 GB_CN HEVC_opus 1080p</guid>
-			<link>https://mikanani.me/Home/Episode/3d0a0ad0d45c668f143882f031b66f13b0203a46</link>
-			<title>【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第10集 GB_CN HEVC_opus 1080p</title>
-			<description>【极影字幕·毁片党】 男女之间存在友情吗？不，不存在！ 第10集 GB_CN HEVC_opus 1080p[221.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3d0a0ad0d45c668f143882f031b66f13b0203a46</link>
-				<contentLength>231840160</contentLength>
-				<pubDate>2025-06-07T11:25:03.497</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="231840160" url="https://mikanani.me/Download/20250607/3d0a0ad0d45c668f143882f031b66f13b0203a46.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

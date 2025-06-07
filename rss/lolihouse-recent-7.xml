@@ -556,5 +556,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="423268192" url="https://mikanani.me/Download/20250608/2bcdbbeb1fad2dc3e8fdfec739b23383cdc465ec.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b70741e72194ce20406ec707ac066675f6035925</link>
+			<title>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 乡下大叔成为剑圣 / Katainaka no Ossan, Kensei ni Naru - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][564.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b70741e72194ce20406ec707ac066675f6035925</link>
+				<contentLength>592298624</contentLength>
+				<pubDate>2025-06-08T03:26:13.583</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="592298624" url="https://mikanani.me/Download/20250608/b70741e72194ce20406ec707ac066675f6035925.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
