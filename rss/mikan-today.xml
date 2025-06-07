@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP10 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</guid>
+			<link>https://mikanani.me/Home/Episode/56a23b4d1872a722ad14f15094ab78d10e232361</link>
+			<title>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP10 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</title>
+			<description>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP10 [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}[816.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56a23b4d1872a722ad14f15094ab78d10e232361</link>
+				<contentLength>856550272</contentLength>
+				<pubDate>2025-06-08T05:24:36.133</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="856550272" url="https://mikanani.me/Download/20250608/56a23b4d1872a722ad14f15094ab78d10e232361.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][10][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/109f7f078a4be39cb0b065cd1965d78763b95ef8</link>
 			<title>【豌豆字幕组】[黑执事 绿之魔女篇 / Kuroshitsuji_Midori no Majo-hen][10][简体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-07T14:09:49.455175</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20250607/142f460867df30615c90674aa9373474714f4c28.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/96354c0915d01491e3cf17f73781f5998214f1fc</link>
-			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][476.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96354c0915d01491e3cf17f73781f5998214f1fc</link>
-				<contentLength>499541600</contentLength>
-				<pubDate>2025-06-07T13:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="499541600" url="https://mikanani.me/Download/20250607/96354c0915d01491e3cf17f73781f5998214f1fc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
