@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf</link>
-			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][简日双语][371.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf</link>
-				<contentLength>390038816</contentLength>
-				<pubDate>2025-05-09T04:00:08.389</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="390038816" url="https://mikanani.me/Download/20250509/046bd0ca1fa71e69623fef36d607ebe4ce23b9bf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/7e57e7a832089822c387388a1b0fa46a395264b9</link>
 			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][06][1080p][繁日双语]</title>
@@ -30831,6 +30819,18 @@
 				<pubDate>2025-06-08T10:00:05.856</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="621281280" url="https://mikanani.me/Download/20250608/9fb73d9304855cbf7544de062724b66a322de546.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/38f3a73bb35b79869420d4a4c6afaba5cc0d43da</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)[288.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38f3a73bb35b79869420d4a4c6afaba5cc0d43da</link>
+				<contentLength>302199616</contentLength>
+				<pubDate>2025-06-08T12:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302199616" url="https://mikanani.me/Download/20250608/38f3a73bb35b79869420d4a4c6afaba5cc0d43da.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

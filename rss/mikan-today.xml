@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/38f3a73bb35b79869420d4a4c6afaba5cc0d43da</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)[288.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38f3a73bb35b79869420d4a4c6afaba5cc0d43da</link>
+				<contentLength>302199616</contentLength>
+				<pubDate>2025-06-08T12:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302199616" url="https://mikanani.me/Download/20250608/38f3a73bb35b79869420d4a4c6afaba5cc0d43da.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a5ae053d0dd9aba13157f60d0d77c5187ee6776e</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-07T20:15:32.196</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="218124784" url="https://mikanani.me/Download/20250607/2d6ba16f31e410af3d527914488f0a4546175098.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [10][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/23b58f44dae6637156406586f71cc135fac8374a</link>
-			<title>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [10][1080p][繁日内嵌]</title>
-			<description>[桜都字幕组] 拜托请穿上，鹰峰同学 / Haite Kudasai, Takamine-san [10][1080p][繁日内嵌][413.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/23b58f44dae6637156406586f71cc135fac8374a</link>
-				<contentLength>433208704</contentLength>
-				<pubDate>2025-06-07T20:15:08.618</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="433208704" url="https://mikanani.me/Download/20250607/23b58f44dae6637156406586f71cc135fac8374a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

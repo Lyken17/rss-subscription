@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 名侦探柯南 黑铁的鱼影 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封]</guid>
-			<link>https://mikanani.me/Home/Episode/fa5ebafa2a45c4146743f43d79e8ecb058a23210</link>
-			<title>[沸班亚马制作组] 名侦探柯南 黑铁的鱼影 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封]</title>
-			<description>[沸班亚马制作组] 名侦探柯南 黑铁的鱼影 [BDRip AI Ultimate 2160p HEVC-10bit OPUS][日语内封][6.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fa5ebafa2a45c4146743f43d79e8ecb058a23210</link>
-				<contentLength>6549825024</contentLength>
-				<pubDate>2025-06-07T03:42:08.35101</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6549825024" url="https://mikanani.me/Download/20250607/fa5ebafa2a45c4146743f43d79e8ecb058a23210.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c6d302fe43b1e3d33b0ce3daf47643103da87491</link>
 			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 21 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1599,6 +1587,18 @@
 				<pubDate>2025-06-08T10:00:05.856</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="621281280" url="https://mikanani.me/Download/20250608/9fb73d9304855cbf7544de062724b66a322de546.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/38f3a73bb35b79869420d4a4c6afaba5cc0d43da</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][18][简体内嵌](检索:Q娃)[288.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38f3a73bb35b79869420d4a4c6afaba5cc0d43da</link>
+				<contentLength>302199616</contentLength>
+				<pubDate>2025-06-08T12:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="302199616" url="https://mikanani.me/Download/20250608/38f3a73bb35b79869420d4a4c6afaba5cc0d43da.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
