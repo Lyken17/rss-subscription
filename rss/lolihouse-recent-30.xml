@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ce5ae465dffa99077fa0f545affdbf8e4dd13f1d</link>
-			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][229.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ce5ae465dffa99077fa0f545affdbf8e4dd13f1d</link>
-				<contentLength>240648192</contentLength>
-				<pubDate>2025-05-09T08:22:48.797</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="240648192" url="https://mikanani.me/Download/20250509/ce5ae465dffa99077fa0f545affdbf8e4dd13f1d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f8b79f20548257cdbe00c2600717c07d0f18325</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 拉撒路 / LAZARUS - 05 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -1947,6 +1935,18 @@
 				<pubDate>2025-06-08T10:00:05.856</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="621281280" url="https://mikanani.me/Download/20250608/9fb73d9304855cbf7544de062724b66a322de546.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] Everyday Host - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0534349f72cec03a960bdebc3e20ce38a651aeb3</link>
+			<title>[奶²&amp;LoliHouse] Everyday Host - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] Everyday Host - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][71.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0534349f72cec03a960bdebc3e20ce38a651aeb3</link>
+				<contentLength>74595696</contentLength>
+				<pubDate>2025-06-08T16:35:53.167</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="74595696" url="https://mikanani.me/Download/20250608/0534349f72cec03a960bdebc3e20ce38a651aeb3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
