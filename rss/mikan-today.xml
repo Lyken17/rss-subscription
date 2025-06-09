@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 精灵幻想记 第二季 Seirei Gensouki 2 [01-12][Bilibili WEB-DL 1080P AVC 8bit AVC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/cb6b643800524ac8624d533f07fe7bbd68b9708c</link>
+			<title>[Prejudice-Studio] 精灵幻想记 第二季 Seirei Gensouki 2 [01-12][Bilibili WEB-DL 1080P AVC 8bit AVC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 精灵幻想记 第二季 Seirei Gensouki 2 [01-12][Bilibili WEB-DL 1080P AVC 8bit AVC MP4][简日内嵌][3.5 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb6b643800524ac8624d533f07fe7bbd68b9708c</link>
+				<contentLength>3758096384</contentLength>
+				<pubDate>2025-06-09T17:35:07.570606</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3758096384" url="https://mikanani.me/Download/20250609/cb6b643800524ac8624d533f07fe7bbd68b9708c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][心之触碰/Fureru.][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](ふれる。)</guid>
 			<link>https://mikanani.me/Home/Episode/8e88dd60130fa1c0260d801736f5357a075b19ef</link>
 			<title>[DBD-Raws][心之触碰/Fureru.][正片+特典映像][1080P][BDRip][HEVC-10bit][FLAC][MKV](ふれる。)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-08T18:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20027802" url="https://mikanani.me/Download/20250608/0afabe28ab2e2b6d7f93a2328f1527fbeff8cf9e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 75 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/3b5235d9c7522e65002a9f08bae2662ddb1363c3</link>
-			<title>[Skymoon-Raws] Chiikawa - 75 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 75 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][19.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3b5235d9c7522e65002a9f08bae2662ddb1363c3</link>
-				<contentLength>20237516</contentLength>
-				<pubDate>2025-06-08T18:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20237516" url="https://mikanani.me/Download/20250608/3b5235d9c7522e65002a9f08bae2662ddb1363c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
