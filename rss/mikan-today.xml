@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][魔王2099/Maou 2099][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Demon Lord 2099)</guid>
+			<link>https://mikanani.me/Home/Episode/70fb6677fd2e4a65f958c71c249ba8089a73dc57</link>
+			<title>[DBD-Raws][魔王2099/Maou 2099][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Demon Lord 2099)</title>
+			<description>[DBD-Raws][魔王2099/Maou 2099][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Demon Lord 2099)[15.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/70fb6677fd2e4a65f958c71c249ba8089a73dc57</link>
+				<contentLength>16106127360</contentLength>
+				<pubDate>2025-06-09T16:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16106127360" url="https://mikanani.me/Download/20250609/70fb6677fd2e4a65f958c71c249ba8089a73dc57.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 35 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/de306280e57b16014b8d2bce05728970b5e4822f</link>
 			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 35 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-08T18:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="17196646" url="https://mikanani.me/Download/20250608/862e086cc0c2c841917302b30d63456e9b00648b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 72 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/740a3648adc28c9f250194f4d0ce94e07956bcb9</link>
-			<title>[Skymoon-Raws] Chiikawa - 72 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 72 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][17.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/740a3648adc28c9f250194f4d0ce94e07956bcb9</link>
-				<contentLength>18035508</contentLength>
-				<pubDate>2025-06-08T18:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18035508" url="https://mikanani.me/Download/20250608/740a3648adc28c9f250194f4d0ce94e07956bcb9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -31756,5 +31756,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="444638176" url="https://mikanani.me/Download/20250609/b9298e700871a41afe5541fb98cf0f3f7b30ad0c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][魔王2099/Maou 2099][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Demon Lord 2099)</guid>
+			<link>https://mikanani.me/Home/Episode/70fb6677fd2e4a65f958c71c249ba8089a73dc57</link>
+			<title>[DBD-Raws][魔王2099/Maou 2099][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Demon Lord 2099)</title>
+			<description>[DBD-Raws][魔王2099/Maou 2099][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Demon Lord 2099)[15.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/70fb6677fd2e4a65f958c71c249ba8089a73dc57</link>
+				<contentLength>16106127360</contentLength>
+				<pubDate>2025-06-09T16:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16106127360" url="https://mikanani.me/Download/20250609/70fb6677fd2e4a65f958c71c249ba8089a73dc57.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
