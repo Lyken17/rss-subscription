@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 34 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/da1a0bc6e8ea30241233b448f9f28731eb25fbdf</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 34 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 34 (ABEMA 1920x1080 AVC AAC MP4)[44.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da1a0bc6e8ea30241233b448f9f28731eb25fbdf</link>
+				<contentLength>46347060</contentLength>
+				<pubDate>2025-06-10T02:35:35.086601</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="46347060" url="https://mikanani.me/Download/20250610/da1a0bc6e8ea30241233b448f9f28731eb25fbdf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c2ad2594ae79b2a88e8cf9c9b69a4667cc4df452</link>
 			<title>[黒ネズミたち] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-09T01:30:55.985</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="949202432" url="https://mikanani.me/Download/20250609/299a67ed1cdb3c0d5c53461c8ac819011f0dfd9e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组&amp;7³ACG] 群花绽放, 仿如修罗/Hana wa Saku, Shura no Gotoku S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/33ee359ee5ef98d240e65359da71098e4720a042</link>
-			<title>[桜都字幕组&amp;7³ACG] 群花绽放, 仿如修罗/Hana wa Saku, Shura no Gotoku S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
-			<description>[桜都字幕组&amp;7³ACG] 群花绽放, 仿如修罗/Hana wa Saku, Shura no Gotoku S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0[5.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/33ee359ee5ef98d240e65359da71098e4720a042</link>
-				<contentLength>5583457280</contentLength>
-				<pubDate>2025-06-09T01:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20250609/33ee359ee5ef98d240e65359da71098e4720a042.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
