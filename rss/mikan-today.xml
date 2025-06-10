@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 10 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/6fbb769c10c82aed23e26f076ba91744a45a9cae</link>
+			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 10 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 10 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6fbb769c10c82aed23e26f076ba91744a45a9cae</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-06-11T03:01:49.128222</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250611/6fbb769c10c82aed23e26f076ba91744a45a9cae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 10 [bilibili WEB-DL 1080P AVC AAC][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/feeda35a87e4673a2b773231b0148d70e242a381</link>
 			<title>[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 10 [bilibili WEB-DL 1080P AVC AAC][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-09T23:02:09.451699</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="449839104" url="https://mikanani.me/Download/20250609/e5226bf4851eb3a515591cc553ee9899895e7cec.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  正义使者 - 我的英雄学院之非法英雄 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/55daa19d6fcfe0c2d1828580d8312e79d2269b1b</link>
-			<title>[ANi]  正义使者 - 我的英雄学院之非法英雄 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  正义使者 - 我的英雄学院之非法英雄 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][545.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55daa19d6fcfe0c2d1828580d8312e79d2269b1b</link>
-				<contentLength>571683648</contentLength>
-				<pubDate>2025-06-09T23:01:53.106616</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="571683648" url="https://mikanani.me/Download/20250609/55daa19d6fcfe0c2d1828580d8312e79d2269b1b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

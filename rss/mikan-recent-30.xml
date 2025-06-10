@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
-			<title>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 药屋少女的呢喃 第二季 - 18 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕][305.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/30949415682962a5b48541415a9c313cf440a618</link>
-				<contentLength>319920544</contentLength>
-				<pubDate>2025-05-11T18:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="319920544" url="https://mikanani.me/Download/20250511/30949415682962a5b48541415a9c313cf440a618.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0177df435d52e3b1b4ec28890aaeccb0e4cd881d</link>
 			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -31755,6 +31743,18 @@
 				<pubDate>2025-06-11T01:41:30.579</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="377267168" url="https://mikanani.me/Download/20250611/ca4848b7dd40252d7319b5f5e90b5230a57e7efb.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 10 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/6fbb769c10c82aed23e26f076ba91744a45a9cae</link>
+			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 10 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 10 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6fbb769c10c82aed23e26f076ba91744a45a9cae</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-06-11T03:01:49.128222</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250611/6fbb769c10c82aed23e26f076ba91744a45a9cae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
