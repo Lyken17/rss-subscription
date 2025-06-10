@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★11★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/5b88926ff3e5cebac2184e5a9fdc83632ed78c58</link>
+			<title>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★11★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★来到棒球场捕捉我吧！ Ballpark de Tsukamaete★11★1920x1080★AVC AAC MP4★繁体中文[356MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b88926ff3e5cebac2184e5a9fdc83632ed78c58</link>
+				<contentLength>373293056</contentLength>
+				<pubDate>2025-06-11T05:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="373293056" url="https://mikanani.me/Download/20250611/5b88926ff3e5cebac2184e5a9fdc83632ed78c58.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 持续狩猎史莱姆三百年，不知不觉就练到满级 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni [10][1080p][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c0e951b4861a4f4376a56163c2a88e179e9860f9</link>
 			<title>[桜都字幕组] 持续狩猎史莱姆三百年，不知不觉就练到满级 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni [10][1080p][简体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-09T23:17:50.53749</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749417280" url="https://mikanani.me/Download/20250609/37ec009f24a64072b5ef6494b3fd7e83a81f8e18.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">夏日口袋 / Summer Pockets - 10 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/6a412c329cedf284a96eaab72e70d23cee634415</link>
-			<title>夏日口袋 / Summer Pockets - 10 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
-			<description>夏日口袋 / Summer Pockets - 10 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][309.07 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a412c329cedf284a96eaab72e70d23cee634415</link>
-				<contentLength>324083392</contentLength>
-				<pubDate>2025-06-09T23:06:46.041</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="324083392" url="https://mikanani.me/Download/20250609/6a412c329cedf284a96eaab72e70d23cee634415.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
