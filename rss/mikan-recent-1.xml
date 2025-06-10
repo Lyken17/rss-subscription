@@ -1252,5 +1252,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459276288" url="https://mikanani.me/Download/20250610/d312434142b8bc63cc104768ac3af4877d7b33ba.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 金牌得主/メダリスト/Medalist S01 | 01-13 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/90b8e954575d0959df8536e443fbbbf4466e8964</link>
+			<title>[7³ACG] 金牌得主/メダリスト/Medalist S01 | 01-13 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 金牌得主/メダリスト/Medalist S01 | 01-13 [简繁字幕] BDrip 1080p x265 OPUS 2.0[7.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/90b8e954575d0959df8536e443fbbbf4466e8964</link>
+				<contentLength>8160437760</contentLength>
+				<pubDate>2025-06-10T12:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8160437760" url="https://mikanani.me/Download/20250610/90b8e954575d0959df8536e443fbbbf4466e8964.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
