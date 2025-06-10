@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 我家的女仆有够烦！ / Uchi no Maid ga Uzasugiru! / うちのメイドがウザすぎる! 10-bit 1080p HEVC BDRip [TV + OVA Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/51d9ed3b6ecd68b9f30875f9c45948e31fd90409</link>
+			<title>[VCB-Studio] 我家的女仆有够烦！ / Uchi no Maid ga Uzasugiru! / うちのメイドがウザすぎる! 10-bit 1080p HEVC BDRip [TV + OVA Reseed Fin]</title>
+			<description>[VCB-Studio] 我家的女仆有够烦！ / Uchi no Maid ga Uzasugiru! / うちのメイドがウザすぎる! 10-bit 1080p HEVC BDRip [TV + OVA Reseed Fin][16.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/51d9ed3b6ecd68b9f30875f9c45948e31fd90409</link>
+				<contentLength>18038861824</contentLength>
+				<pubDate>2025-06-10T13:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18038861824" url="https://mikanani.me/Download/20250610/51d9ed3b6ecd68b9f30875f9c45948e31fd90409.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 90 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/15b3089cdc002df63f9ee00e291a97fd0ff79f47</link>
 			<title>[Skymoon-Raws] Chiikawa - 90 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-09T12:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12348030976" url="https://mikanani.me/Download/20250609/80f4f02d3ab68562819813f8e91e6d68ca2947bb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 无名记忆 第二季 Unnamed Memory Act.2 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/5d5b0b1fc42037bb22d85ab6893de3113b54a4af</link>
-			<title>[Prejudice-Studio] 无名记忆 第二季 Unnamed Memory Act.2 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 无名记忆 第二季 Unnamed Memory Act.2 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][2.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5d5b0b1fc42037bb22d85ab6893de3113b54a4af</link>
-				<contentLength>2684354560</contentLength>
-				<pubDate>2025-06-09T12:37:28.360153</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20250609/5d5b0b1fc42037bb22d85ab6893de3113b54a4af.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
