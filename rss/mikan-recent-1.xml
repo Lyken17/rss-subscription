@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="297334208" url="https://mikanani.me/Download/20250610/18d7b45acf9f81a20c45d3e798e20476e0069e56.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/cb2d8a808e21fcd1b5f448135950eb771e4a3694</link>
-			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 26 (B-Global Donghua 1920x1080 HEVC AAC MKV)[298.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cb2d8a808e21fcd1b5f448135950eb771e4a3694</link>
-				<contentLength>312475648</contentLength>
-				<pubDate>2025-06-10T09:01:58.248019</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="312475648" url="https://mikanani.me/Download/20250610/cb2d8a808e21fcd1b5f448135950eb771e4a3694.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/837854feb8c0cd521bca391ea3eb6633831e1d8c</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1287,6 +1275,30 @@
 				<pubDate>2025-06-11T15:15:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250611/fe3c5919566f9ece9efb8ced26e26bb8e6cd5606.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MeiYangYang] 魔女与使魔 / Witch Watch - 10 [R-ESRGAN 2160P WebRip HEVC-10bit]</guid>
+			<link>https://mikanani.me/Home/Episode/2a8b7e32d80bb066ecd3e4d4b28478678345cdff</link>
+			<title>[MeiYangYang] 魔女与使魔 / Witch Watch - 10 [R-ESRGAN 2160P WebRip HEVC-10bit]</title>
+			<description>[MeiYangYang] 魔女与使魔 / Witch Watch - 10 [R-ESRGAN 2160P WebRip HEVC-10bit][1.49 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2a8b7e32d80bb066ecd3e4d4b28478678345cdff</link>
+				<contentLength>1599875328</contentLength>
+				<pubDate>2025-06-11T16:41:25.257</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1599875328" url="https://mikanani.me/Download/20250611/2a8b7e32d80bb066ecd3e4d4b28478678345cdff.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MeiYangYang] 魔女与使魔 / Witch Watch - 07 [R-ESRGAN 2160P WebRip HEVC-10bit]</guid>
+			<link>https://mikanani.me/Home/Episode/021c486dedcf19d65973cab1fd2e2b8ff03bf87a</link>
+			<title>[MeiYangYang] 魔女与使魔 / Witch Watch - 07 [R-ESRGAN 2160P WebRip HEVC-10bit]</title>
+			<description>[MeiYangYang] 魔女与使魔 / Witch Watch - 07 [R-ESRGAN 2160P WebRip HEVC-10bit][1.45 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/021c486dedcf19d65973cab1fd2e2b8ff03bf87a</link>
+				<contentLength>1556925696</contentLength>
+				<pubDate>2025-06-11T16:40:48.63</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1556925696" url="https://mikanani.me/Download/20250611/021c486dedcf19d65973cab1fd2e2b8ff03bf87a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
