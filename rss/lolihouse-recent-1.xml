@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1105954048" url="https://mikanani.me/Download/20250611/f160e281b7b09152c3d10c511501181a70aa0e9d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bb24f95d4a1e17156ec49274ae56ae3350d342fb</link>
+			<title>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 10 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][473.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bb24f95d4a1e17156ec49274ae56ae3350d342fb</link>
+				<contentLength>496815296</contentLength>
+				<pubDate>2025-06-11T20:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="496815296" url="https://mikanani.me/Download/20250611/bb24f95d4a1e17156ec49274ae56ae3350d342fb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
