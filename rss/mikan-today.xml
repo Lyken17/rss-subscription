@@ -1180,17 +1180,5 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20447232" url="https://mikanani.me/Download/20250611/12b4764ef735f5a2e6af886ce49b56314bbdcb8b.torrent"></enclosure>
 		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 92 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/8e87346e1792059c7cf3e1852a1a4e7bef06eccc</link>
-			<title>[Skymoon-Raws] Chiikawa - 92 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 92 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][19MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8e87346e1792059c7cf3e1852a1a4e7bef06eccc</link>
-				<contentLength>19922944</contentLength>
-				<pubDate>2025-06-11T09:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="19922944" url="https://mikanani.me/Download/20250611/8e87346e1792059c7cf3e1852a1a4e7bef06eccc.torrent"></enclosure>
-		</item>
 	</channel>
 </rss>
