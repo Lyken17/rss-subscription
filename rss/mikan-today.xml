@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/72ca327f79815d5b95b3167df67d57b5de68c41d</link>
+			<title>[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 08 (ABEMA 1920x1080 AVC AAC MP4)[105.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72ca327f79815d5b95b3167df67d57b5de68c41d</link>
+				<contentLength>110205336</contentLength>
+				<pubDate>2025-06-12T22:15:37.03864</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="110205336" url="https://mikanani.me/Download/20250612/72ca327f79815d5b95b3167df67d57b5de68c41d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 无聊就完结 / Don't Give Up! - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/951c16eaf38f9de7ff1089d2ad8c1b174f0f022e</link>
 			<title>[黒ネズミたち] 无聊就完结 / Don't Give Up! - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-06-11T17:20:54.908</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="869867200" url="https://mikanani.me/Download/20250611/3d144601d5efd7d9f37f994eb83f1b475d341cec.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][机动战士高达 GQuuuuuuX][Mobile Suit Gundam GQuuuuuuX][10][WebRip][1080P][AVC 8bit][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/4b69a636754a7ab60d9b3d22b1a0f118b36ea075</link>
-			<title>[SweetSub][机动战士高达 GQuuuuuuX][Mobile Suit Gundam GQuuuuuuX][10][WebRip][1080P][AVC 8bit][简日双语]</title>
-			<description>[SweetSub][机动战士高达 GQuuuuuuX][Mobile Suit Gundam GQuuuuuuX][10][WebRip][1080P][AVC 8bit][简日双语][829.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4b69a636754a7ab60d9b3d22b1a0f118b36ea075</link>
-				<contentLength>870202752</contentLength>
-				<pubDate>2025-06-11T17:20:43.355</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="870202752" url="https://mikanani.me/Download/20250611/4b69a636754a7ab60d9b3d22b1a0f118b36ea075.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

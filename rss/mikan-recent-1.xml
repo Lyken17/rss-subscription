@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 10 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1faaca191543a3cead5894ce6d0598cd580281ff</link>
-			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 10 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 10 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][822.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1faaca191543a3cead5894ce6d0598cd580281ff</link>
-				<contentLength>862873216</contentLength>
-				<pubDate>2025-06-11T14:14:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="862873216" url="https://mikanani.me/Download/20250611/1faaca191543a3cead5894ce6d0598cd580281ff.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[DBD-Raws][一杆青空/Sorairo Utility][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](空色ユーティリティ)</guid>
 			<link>https://mikanani.me/Home/Episode/552c8ab96b982aa4e1284dbcfb0a9648a161922d</link>
 			<title>[DBD-Raws][一杆青空/Sorairo Utility][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](空色ユーティリティ)</title>
@@ -1239,6 +1227,18 @@
 				<pubDate>2025-06-12T20:37:47.119</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="373272096" url="https://mikanani.me/Download/20250612/fe43b3a147870062ddcde850467552a32199ed66.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/72ca327f79815d5b95b3167df67d57b5de68c41d</link>
+			<title>[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 过分色气的深见君 / Yatara Yarashii Fukami-kun - 08 (ABEMA 1920x1080 AVC AAC MP4)[105.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72ca327f79815d5b95b3167df67d57b5de68c41d</link>
+				<contentLength>110205336</contentLength>
+				<pubDate>2025-06-12T22:15:37.03864</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="110205336" url="https://mikanani.me/Download/20250612/72ca327f79815d5b95b3167df67d57b5de68c41d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
