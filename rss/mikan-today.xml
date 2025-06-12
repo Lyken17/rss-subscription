@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/72b2e14ead9dae3189bc8f60f4b8132c738d2340</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][699.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72b2e14ead9dae3189bc8f60f4b8132c738d2340</link>
+				<contentLength>733741056</contentLength>
+				<pubDate>2025-06-12T19:04:12.49</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="733741056" url="https://mikanani.me/Download/20250612/72b2e14ead9dae3189bc8f60f4b8132c738d2340.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP11 [简／繁] (1080p H.264 AAC SRTx2) {履いてください、鹰峰さん}</guid>
 			<link>https://mikanani.me/Home/Episode/28763ef9455d8e6ea8745e488de80afae266d556</link>
 			<title>[无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP11 [简／繁] (1080p H.264 AAC SRTx2) {履いてください、鹰峰さん}</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-06-11T12:43:59.909</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="239337472" url="https://mikanani.me/Download/20250611/5ab9dbd477130d095fbbff0bfc63c6579084b4f7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][113][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/5338295e6965a27c1c38d7a112545844432f7f0d</link>
-			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][113][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][113][AVC][GB][1080P][713.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5338295e6965a27c1c38d7a112545844432f7f0d</link>
-				<contentLength>748431616</contentLength>
-				<pubDate>2025-06-11T12:43:47.175</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="748431616" url="https://mikanani.me/Download/20250611/5338295e6965a27c1c38d7a112545844432f7f0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

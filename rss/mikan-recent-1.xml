@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[天月搬运组] 机动战士高达 GQuuuuuuX / Kidou Senshi Gundam GQuuuuuuX - 10 (AMZN 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/31efbae701bc0005a01c03403d1fe23ca35820cd</link>
-			<title>[天月搬运组] 机动战士高达 GQuuuuuuX / Kidou Senshi Gundam GQuuuuuuX - 10 (AMZN 1920x1080 AVC AAC MKV)</title>
-			<description>[天月搬运组] 机动战士高达 GQuuuuuuX / Kidou Senshi Gundam GQuuuuuuX - 10 (AMZN 1920x1080 AVC AAC MKV)[1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/31efbae701bc0005a01c03403d1fe23ca35820cd</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-06-11T11:01:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250611/31efbae701bc0005a01c03403d1fe23ca35820cd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 请穿上内衣吧，鹰峰同学 (轻微修正版) - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：拜托请穿上)</guid>
 			<link>https://mikanani.me/Home/Episode/5f9ec0986dcb496f911de8ccccdc078e1b948b6f</link>
 			<title>[LoliHouse] 请穿上内衣吧，鹰峰同学 (轻微修正版) - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：拜托请穿上)</title>
@@ -1263,6 +1251,18 @@
 				<pubDate>2025-06-12T17:20:23.265</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="612053824" url="https://mikanani.me/Download/20250612/bc6407ead0a893a402b0ea90e5ce151a9664751e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/72b2e14ead9dae3189bc8f60f4b8132c738d2340</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][699.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72b2e14ead9dae3189bc8f60f4b8132c738d2340</link>
+				<contentLength>733741056</contentLength>
+				<pubDate>2025-06-12T19:04:12.49</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="733741056" url="https://mikanani.me/Download/20250612/72b2e14ead9dae3189bc8f60f4b8132c738d2340.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
