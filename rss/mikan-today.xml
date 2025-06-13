@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d13897625731354928eaa327698d3711e38036c8</link>
+			<title>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 快藏好！玛琪娜同学!! / Kakushite! Makina-san!! - 10 (ABEMA 1920x1080 AVC AAC MP4)[364.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d13897625731354928eaa327698d3711e38036c8</link>
+				<contentLength>382415680</contentLength>
+				<pubDate>2025-06-13T09:25:24.819071</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="382415680" url="https://mikanani.me/Download/20250613/d13897625731354928eaa327698d3711e38036c8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ebead070053a55807bf04c134db39deb9ea04dc8</link>
 			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-11T23:16:34.898596</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="343618368" url="https://mikanani.me/Download/20250611/e979a04ed7574661ef679969308520aa5abfd3ce.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Your Forma /  记忆缝线 YOUR FORMA - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/4f34d0ce1de6eabcee6089bed760bbebff8d0485</link>
-			<title>[ANi] Your Forma /  记忆缝线 YOUR FORMA - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Your Forma /  记忆缝线 YOUR FORMA - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][594.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f34d0ce1de6eabcee6089bed760bbebff8d0485</link>
-				<contentLength>623378432</contentLength>
-				<pubDate>2025-06-11T23:16:09.130987</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="623378432" url="https://mikanani.me/Download/20250611/4f34d0ce1de6eabcee6089bed760bbebff8d0485.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
