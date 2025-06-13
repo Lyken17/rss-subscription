@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][93][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/4c695a3ab3024ed7863e5fec08b0fac8f2452c91</link>
-			<title>[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][93][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][师兄啊师兄][My Senior Brother is Too Steady][2023][93][GB][4K HEVC 10Bit][1.08 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4c695a3ab3024ed7863e5fec08b0fac8f2452c91</link>
-				<contentLength>1159641216</contentLength>
-				<pubDate>2025-06-12T10:54:37.484</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1159641216" url="https://mikanani.me/Download/20250612/4c695a3ab3024ed7863e5fec08b0fac8f2452c91.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 百变的七仓同学 Giji Harem [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/cef13d5ca0288b7d50edea03f621c8023313463b</link>
 			<title>[Prejudice-Studio] 百变的七仓同学 Giji Harem [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1107,6 +1095,18 @@
 				<pubDate>2025-06-13T16:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="27165667328" url="https://mikanani.me/Download/20250613/aefb194df7e956e049b4b75eb88a28998d0e0f58.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 吹响吧！上低音号 Sound! Euphonium S1-S3 + Movie [Bilibili WEB-DL AVC 8bit AAC MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/767888e257e65927e794404ab15b9d2b6f51b764</link>
+			<title>[Prejudice-Studio] 吹响吧！上低音号 Sound! Euphonium S1-S3 + Movie [Bilibili WEB-DL AVC 8bit AAC MP4]</title>
+			<description>[Prejudice-Studio] 吹响吧！上低音号 Sound! Euphonium S1-S3 + Movie [Bilibili WEB-DL AVC 8bit AAC MP4][27.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/767888e257e65927e794404ab15b9d2b6f51b764</link>
+				<contentLength>29420525568</contentLength>
+				<pubDate>2025-06-13T19:15:24.097481</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="29420525568" url="https://mikanani.me/Download/20250613/767888e257e65927e794404ab15b9d2b6f51b764.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

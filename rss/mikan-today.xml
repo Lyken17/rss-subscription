@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 吹响吧！上低音号 Sound! Euphonium S1-S3 + Movie [Bilibili WEB-DL AVC 8bit AAC MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/767888e257e65927e794404ab15b9d2b6f51b764</link>
+			<title>[Prejudice-Studio] 吹响吧！上低音号 Sound! Euphonium S1-S3 + Movie [Bilibili WEB-DL AVC 8bit AAC MP4]</title>
+			<description>[Prejudice-Studio] 吹响吧！上低音号 Sound! Euphonium S1-S3 + Movie [Bilibili WEB-DL AVC 8bit AAC MP4][27.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/767888e257e65927e794404ab15b9d2b6f51b764</link>
+				<contentLength>29420525568</contentLength>
+				<pubDate>2025-06-13T19:15:24.097481</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="29420525568" url="https://mikanani.me/Download/20250613/767888e257e65927e794404ab15b9d2b6f51b764.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/aefb194df7e956e049b4b75eb88a28998d0e0f58</link>
 			<title>[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-12T01:35:33.392769</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="378326208" url="https://mikanani.me/Download/20250612/46d27cd1b71123f1a82076f033f6e1be269b5b7c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ddf023959de6beb56724fa68015b8cac1d92d4db</link>
-			<title>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ddf023959de6beb56724fa68015b8cac1d92d4db</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-06-12T01:26:47.593874</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250612/ddf023959de6beb56724fa68015b8cac1d92d4db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
