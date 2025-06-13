@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4711c8df2a210dca773a09408627a57592d4a37e</link>
+			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][553.15 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4711c8df2a210dca773a09408627a57592d4a37e</link>
+				<contentLength>580019840</contentLength>
+				<pubDate>2025-06-13T14:03:47.245</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="580019840" url="https://mikanani.me/Download/20250613/4711c8df2a210dca773a09408627a57592d4a37e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 110 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/9b0c3da4a9ca2aab31988175e0ca8e3edabab674</link>
 			<title>[Skymoon-Raws] Chiikawa - 110 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-12T00:46:09.266361</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="294125568" url="https://mikanani.me/Download/20250612/5c5641a541b0a8391143e7bb459998016993e786.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/257c550b042529cbfd93dacb2d1fe15866c4be43</link>
-			<title>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (Baha 1920x1080 AVC AAC MP4)[325.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/257c550b042529cbfd93dacb2d1fe15866c4be43</link>
-				<contentLength>340892064</contentLength>
-				<pubDate>2025-06-12T00:46:04.273058</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="340892064" url="https://mikanani.me/Download/20250612/257c550b042529cbfd93dacb2d1fe15866c4be43.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
