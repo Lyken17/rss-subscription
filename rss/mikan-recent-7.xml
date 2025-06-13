@@ -8272,5 +8272,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="230969840" url="https://mikanani.me/Download/20250613/06b424bb63b69bffa4c110d26a42272b371b1655.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/aefb194df7e956e049b4b75eb88a28998d0e0f58</link>
+			<title>[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin]</title>
+			<description>[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin][25.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aefb194df7e956e049b4b75eb88a28998d0e0f58</link>
+				<contentLength>27165667328</contentLength>
+				<pubDate>2025-06-13T16:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="27165667328" url="https://mikanani.me/Download/20250613/aefb194df7e956e049b4b75eb88a28998d0e0f58.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

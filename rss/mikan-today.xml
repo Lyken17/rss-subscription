@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/aefb194df7e956e049b4b75eb88a28998d0e0f58</link>
+			<title>[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin]</title>
+			<description>[VCB-Studio] 熊熊勇闯异世界 / Kuma Kuma Kuma Bear / くまクマ熊ベアー 10-bit 1080p HEVC BDRip [S1-S2 Fin][25.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aefb194df7e956e049b4b75eb88a28998d0e0f58</link>
+				<contentLength>27165667328</contentLength>
+				<pubDate>2025-06-13T16:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="27165667328" url="https://mikanani.me/Download/20250613/aefb194df7e956e049b4b75eb88a28998d0e0f58.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[猎户手抄部] 地下城中的人 / Dungeon no Naka no Hito [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2024年7月番]</guid>
 			<link>https://mikanani.me/Home/Episode/b04384a7cd8d42c879559b712e72b7a50ab92d62</link>
 			<title>[猎户手抄部] 地下城中的人 / Dungeon no Naka no Hito [01-12] [BDRip] [1080p] [H265 10bit_FLAC] [繁日内嵌] [2024年7月番]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-12T01:26:47.593874</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250612/ddf023959de6beb56724fa68015b8cac1d92d4db.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [45][WebRip][HEVC_AAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/ff6571701b4c205f7647bb7537aa96629b84efd0</link>
-			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [45][WebRip][HEVC_AAC][简繁日内封]</title>
-			<description>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [45][WebRip][HEVC_AAC][简繁日内封][264.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ff6571701b4c205f7647bb7537aa96629b84efd0</link>
-				<contentLength>276981344</contentLength>
-				<pubDate>2025-06-12T01:16:52.245</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="276981344" url="https://mikanani.me/Download/20250612/ff6571701b4c205f7647bb7537aa96629b84efd0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
