@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f3f2c7619c4697b2ac249891625a336e5a590f43</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 11 (ABEMA 1920x1080 AVC AAC MP4)[330.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3f2c7619c4697b2ac249891625a336e5a590f43</link>
+				<contentLength>346764096</contentLength>
+				<pubDate>2025-06-15T07:13:04.030243</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346764096" url="https://mikanani.me/Download/20250615/f3f2c7619c4697b2ac249891625a336e5a590f43.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 120 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/6f68cf40bf2edecd3c04fc14bc35e475467bd109</link>
 			<title>[Skymoon-Raws] Chiikawa - 120 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-14T15:02:54.13</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="201441936" url="https://mikanani.me/Download/20250614/88a29c8fde0f0b91158c11295ba5838e19f91e57.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][10][1080P][简体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/6792e6677e9027e57067ba61a588c2c07ca6d914</link>
-			<title>【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][10][1080P][简体][MP4]</title>
-			<description>【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][10][1080P][简体][MP4][376.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6792e6677e9027e57067ba61a588c2c07ca6d914</link>
-				<contentLength>394621088</contentLength>
-				<pubDate>2025-06-14T14:56:22.505</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="394621088" url="https://mikanani.me/Download/20250614/6792e6677e9027e57067ba61a588c2c07ca6d914.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
