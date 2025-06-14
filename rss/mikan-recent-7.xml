@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 07 (CR 1920x816 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f28168d20b20c23acfc95222a23ab03032f127e5</link>
-			<title>[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 07 (CR 1920x816 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 王者荣耀：荣耀之章 / Wangzhe Rongyao: Rongyao Zhi Zhang - 07 (CR 1920x816 AVC AAC MKV)[1.6 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f28168d20b20c23acfc95222a23ab03032f127e5</link>
-				<contentLength>1717986944</contentLength>
-				<pubDate>2025-06-07T11:02:10.648384</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250607/f28168d20b20c23acfc95222a23ab03032f127e5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 三毛流浪记 (2006)[tmdbid=131339][01-26][Bilibili WEB-DL 720P AVC 8bit AAC MP4][简中内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/0d649b6b2cea31d504cb9988c98f50f173907a82</link>
 			<title>[Prejudice-Studio] 三毛流浪记 (2006)[tmdbid=131339][01-26][Bilibili WEB-DL 720P AVC 8bit AAC MP4][简中内嵌]</title>
@@ -7791,6 +7779,18 @@
 				<pubDate>2025-06-14T18:01:49.106849</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="527014304" url="https://mikanani.me/Download/20250614/09e7c37805f9a3abcf48eb5193bbcbf925aac97b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 鬼人幻灯抄 - 06 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9b7a5a7132327a5861ea9a6b6cd13464533f69ed</link>
+			<title>[沸班亚马制作组] 鬼人幻灯抄 - 06 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 鬼人幻灯抄 - 06 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][212.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b7a5a7132327a5861ea9a6b6cd13464533f69ed</link>
+				<contentLength>223241824</contentLength>
+				<pubDate>2025-06-14T19:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="223241824" url="https://mikanani.me/Download/20250614/9b7a5a7132327a5861ea9a6b6cd13464533f69ed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

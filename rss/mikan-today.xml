@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 鬼人幻灯抄 - 06 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9b7a5a7132327a5861ea9a6b6cd13464533f69ed</link>
+			<title>[沸班亚马制作组] 鬼人幻灯抄 - 06 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 鬼人幻灯抄 - 06 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][212.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b7a5a7132327a5861ea9a6b6cd13464533f69ed</link>
+				<contentLength>223241824</contentLength>
+				<pubDate>2025-06-14T19:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="223241824" url="https://mikanani.me/Download/20250614/9b7a5a7132327a5861ea9a6b6cd13464533f69ed.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">真·武士传 / Shin Samurai-den Yaiba [01-02][1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/c77510f186b80d19ba890cb353a5aededdf214d7</link>
 			<title>真·武士传 / Shin Samurai-den Yaiba [01-02][1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-13T00:37:13.302683</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="754030976" url="https://mikanani.me/Download/20250613/996a2f87da5b041f759b1ebf90cd5a798ee836f1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Shibuya♡Hachi Part 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f33454603b61967a79492c96de980ee84c7c434f</link>
-			<title>[黒ネズミたち] Shibuya♡Hachi Part 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Shibuya♡Hachi Part 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)[80.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f33454603b61967a79492c96de980ee84c7c434f</link>
-				<contentLength>83990936</contentLength>
-				<pubDate>2025-06-13T00:33:41.321843</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="83990936" url="https://mikanani.me/Download/20250613/f33454603b61967a79492c96de980ee84c7c434f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
