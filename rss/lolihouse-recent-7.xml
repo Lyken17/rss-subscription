@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 再见，地球 / Bye Bye, Earth - 20 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/be237cce54bf1765f3e92bb8045fce8b0601a0a0</link>
-			<title>[LoliHouse] 再见，地球 / Bye Bye, Earth - 20 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][END]</title>
-			<description>[LoliHouse] 再见，地球 / Bye Bye, Earth - 20 [WebRip 1080p HEVC-10bit AAC][英语内封字幕][END][545.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be237cce54bf1765f3e92bb8045fce8b0601a0a0</link>
-				<contentLength>571998208</contentLength>
-				<pubDate>2025-06-07T08:26:55.954</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="571998208" url="https://mikanani.me/Download/20250607/be237cce54bf1765f3e92bb8045fce8b0601a0a0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)</guid>
 			<link>https://mikanani.me/Home/Episode/0abc78c7cac720354ffc14ad43f51382c1450f66</link>
 			<title>[百冬练习组&amp;LoliHouse] 战队大失格 / Sentai Daishikkaku - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：战队大失格 第二季)</title>
@@ -555,6 +543,18 @@
 				<pubDate>2025-06-13T23:56:05.136</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="333164064" url="https://mikanani.me/Download/20250613/00b199208fdd793f068631a019de46288f90ac41.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</guid>
+			<link>https://mikanani.me/Home/Episode/c345ff6f38ec9f053a251a708a15c9af0fe10ca1</link>
+			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</title>
+			<description>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)[688.89 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c345ff6f38ec9f053a251a708a15c9af0fe10ca1</link>
+				<contentLength>722353536</contentLength>
+				<pubDate>2025-06-14T16:58:29.398</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="722353536" url="https://mikanani.me/Download/20250614/c345ff6f38ec9f053a251a708a15c9af0fe10ca1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
