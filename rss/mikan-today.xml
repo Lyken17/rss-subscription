@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [44][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/ee657414624a6bcc767afde56a63df5b08020771</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [44][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [44][1080p][简繁日内封][244.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ee657414624a6bcc767afde56a63df5b08020771</link>
+				<contentLength>256062256</contentLength>
+				<pubDate>2025-06-16T01:19:43.921715</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="256062256" url="https://mikanani.me/Download/20250616/ee657414624a6bcc767afde56a63df5b08020771.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [45][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/d54ca5e7184c9bd29876ca0a38cdbcfed83c99d5</link>
+			<title>[萌樱字幕组] 药屋少女的呢喃 [45][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组] 药屋少女的呢喃 [45][1080p][简繁日内封][224.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d54ca5e7184c9bd29876ca0a38cdbcfed83c99d5</link>
+				<contentLength>235405312</contentLength>
+				<pubDate>2025-06-16T01:19:43.918136</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="235405312" url="https://mikanani.me/Download/20250616/d54ca5e7184c9bd29876ca0a38cdbcfed83c99d5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/57bde01a7ba62051074afe99784a0ed7af020907</link>
 			<title>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2025-06-15T08:55:54.610811</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="752353280" url="https://mikanani.me/Download/20250615/b182ac8e1d23ded5fef449a45da0070045ca09a7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/eff928507a7d66cdda600172c10e09f23a4d346c</link>
-			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 11 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eff928507a7d66cdda600172c10e09f23a4d346c</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-06-15T08:49:49.258791</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250615/eff928507a7d66cdda600172c10e09f23a4d346c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/844dc6cd60e4226e684b087800a1c8fa45cc4bd4</link>
-			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[400.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/844dc6cd60e4226e684b087800a1c8fa45cc4bd4</link>
-				<contentLength>419744960</contentLength>
-				<pubDate>2025-06-15T08:46:09.70477</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="419744960" url="https://mikanani.me/Download/20250615/844dc6cd60e4226e684b087800a1c8fa45cc4bd4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
