@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/198136caef56b7a24f8554d04b43f270628987a4</link>
-			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][520.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/198136caef56b7a24f8554d04b43f270628987a4</link>
-				<contentLength>545385344</contentLength>
-				<pubDate>2025-05-16T14:19:32.557</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="545385344" url="https://mikanani.me/Download/20250516/198136caef56b7a24f8554d04b43f270628987a4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/73bfd63692d622feb9486d2f9f25516567a1df50</link>
 			<title>[LoliHouse] 防风少年 / WIND BREAKER - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2055,6 +2043,18 @@
 				<pubDate>2025-06-15T20:55:03.179</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20250615/a4829fa1a036625deaf17480a8096024ff0e30ee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 11 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/b8fd23c02e3789190efdbffd47139311c66875f4</link>
+			<title>[LoliHouse] Princess-Session Orchestra - 11 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra - 11 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[732.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8fd23c02e3789190efdbffd47139311c66875f4</link>
+				<contentLength>768385984</contentLength>
+				<pubDate>2025-06-15T22:15:38.991</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="768385984" url="https://mikanani.me/Download/20250615/b8fd23c02e3789190efdbffd47139311c66875f4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
