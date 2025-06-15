@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][10][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/104d74b0848f39b232ea4dbbbe9a0534a8419a78</link>
+			<title>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][10][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][10][1080p][繁日双语][259.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/104d74b0848f39b232ea4dbbbe9a0534a8419a78</link>
+				<contentLength>272336160</contentLength>
+				<pubDate>2025-06-16T05:47:18.715</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="272336160" url="https://mikanani.me/Download/20250616/104d74b0848f39b232ea4dbbbe9a0534a8419a78.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[无修版] 快藏好！玛琪娜同学!! - EP11 [简／繁] (1080p H.264 AAC SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</guid>
 			<link>https://mikanani.me/Home/Episode/514e58a26b95ddfd916a9ac80cf6b3044105e0ee</link>
 			<title>[无修版] 快藏好！玛琪娜同学!! - EP11 [简／繁] (1080p H.264 AAC SRTx2) {快藏好！玛琪娜同学!! | かくして！マキナさん!!}</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-15T12:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="298424736" url="https://mikanani.me/Download/20250615/648af3d3e02d6ce2a6240586fe0555261ff70abf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">凸变英雄X / TO BE HERO X - 11 [1080P][Bilibili][WEB-DL][AAC AVC][中文版&amp;日语版]</guid>
-			<link>https://mikanani.me/Home/Episode/7182151e1c0059797af86510c985ed71f26488ca</link>
-			<title>凸变英雄X / TO BE HERO X - 11 [1080P][Bilibili][WEB-DL][AAC AVC][中文版&amp;日语版]</title>
-			<description>凸变英雄X / TO BE HERO X - 11 [1080P][Bilibili][WEB-DL][AAC AVC][中文版&amp;日语版][814.47 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7182151e1c0059797af86510c985ed71f26488ca</link>
-				<contentLength>854033664</contentLength>
-				<pubDate>2025-06-15T11:45:11.387</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="854033664" url="https://mikanani.me/Download/20250615/7182151e1c0059797af86510c985ed71f26488ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
