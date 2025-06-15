@@ -1192,17 +1192,5 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250615/d963448557e4997d928b489bddbbd10c803a936e.torrent"></enclosure>
 		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 黑执事 -绿之魔女篇 / Kuroshitsuji: Midori no Majo-hen - 11 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3a5f9007964ccc09dd9ee2229da25d2c56a18f44</link>
-			<title>[黒ネズミたち] 黑执事 -绿之魔女篇 / Kuroshitsuji: Midori no Majo-hen - 11 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 黑执事 -绿之魔女篇 / Kuroshitsuji: Midori no Majo-hen - 11 (B-Global 1920x1080 HEVC AAC MKV)[353.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3a5f9007964ccc09dd9ee2229da25d2c56a18f44</link>
-				<contentLength>370147328</contentLength>
-				<pubDate>2025-06-15T00:16:22.775193</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="370147328" url="https://mikanani.me/Download/20250615/3a5f9007964ccc09dd9ee2229da25d2c56a18f44.torrent"></enclosure>
-		</item>
 	</channel>
 </rss>
