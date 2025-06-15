@@ -1696,5 +1696,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="303982176" url="https://mikanani.me/Download/20250615/895edbe6e1eaadc07852658bde5f05361eeefce5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/06b8600b578358b5578d9ffa373b4652055b38ca</link>
+			<title>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][440.91 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/06b8600b578358b5578d9ffa373b4652055b38ca</link>
+				<contentLength>462327648</contentLength>
+				<pubDate>2025-06-15T13:45:53.516</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="462327648" url="https://mikanani.me/Download/20250615/06b8600b578358b5578d9ffa373b4652055b38ca.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][10][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/e47070940cdfce8c8511faf5f75e1569c299c553</link>
+			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][10][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][10][1080p][繁日双语][540.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e47070940cdfce8c8511faf5f75e1569c299c553</link>
+				<contentLength>566430272</contentLength>
+				<pubDate>2025-06-15T13:38:18.493</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="566430272" url="https://mikanani.me/Download/20250615/e47070940cdfce8c8511faf5f75e1569c299c553.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
