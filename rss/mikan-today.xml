@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">​[整理搬运] 电脑线圈 (电脳コイル) (Dennou Coil／Coil A Circle of Children)：TV动画+小说+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.16)</guid>
+			<link>https://mikanani.me/Home/Episode/174c4a0e1cad15fb045134ed77a347c5634cbdd2</link>
+			<title>​[整理搬运] 电脑线圈 (电脳コイル) (Dennou Coil／Coil A Circle of Children)：TV动画+小说+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.16)</title>
+			<description>​[整理搬运] 电脑线圈 (电脳コイル) (Dennou Coil／Coil A Circle of Children)：TV动画+小说+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.16)[44.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/174c4a0e1cad15fb045134ed77a347c5634cbdd2</link>
+				<contentLength>48103632896</contentLength>
+				<pubDate>2025-06-16T18:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="48103632896" url="https://mikanani.me/Download/20250616/174c4a0e1cad15fb045134ed77a347c5634cbdd2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/2938ef8e9acc7e59a804b7aea48ddf92172889ef</link>
 			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida - 22 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-15T20:04:59.631</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="528304032" url="https://mikanani.me/Download/20250615/9d1851ecac90f8f0b4d17cf6f02f6eb783629749.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生为白猪贵族的我，运用前世记忆养育雏鸟般的弟弟 / Shirohiyo - 10 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/967f4a782e263a5f50f891b2ace24b599f5a59f2</link>
-			<title>[黒ネズミたち] 转生为白猪贵族的我，运用前世记忆养育雏鸟般的弟弟 / Shirohiyo - 10 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转生为白猪贵族的我，运用前世记忆养育雏鸟般的弟弟 / Shirohiyo - 10 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/967f4a782e263a5f50f891b2ace24b599f5a59f2</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-06-15T20:02:12.170073</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250615/967f4a782e263a5f50f891b2ace24b599f5a59f2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
