@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d307e2248b88c7615750c6e46a7d86b7781de11d</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 11 (ABEMA 1920x1080 AVC AAC MP4)[717.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d307e2248b88c7615750c6e46a7d86b7781de11d</link>
+				<contentLength>752563008</contentLength>
+				<pubDate>2025-06-17T17:30:57.197397</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752563008" url="https://mikanani.me/Download/20250617/d307e2248b88c7615750c6e46a7d86b7781de11d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 持续狩猎史莱姆三百年，不知不觉就练到LV MAX 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni [11][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/2507ffbcf4a7c3efeb680f36e3c2a4c6aaa6543a</link>
 			<title>[桜都字幕组] 持续狩猎史莱姆三百年，不知不觉就练到LV MAX 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni [11][1080p][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-16T13:16:53.901</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="209557920" url="https://mikanani.me/Download/20250616/710b003996553769ed030e93cb98a381b6407acc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[樱桃花字幕组] 摇滚是淑女的爱好/Rock wa Lady no Tashinami deshite - 11[1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/84d3a93ffe5a1fb16ea688b23c2a98331c8f49b4</link>
-			<title>[樱桃花字幕组] 摇滚是淑女的爱好/Rock wa Lady no Tashinami deshite - 11[1080p][简日双语]</title>
-			<description>[樱桃花字幕组] 摇滚是淑女的爱好/Rock wa Lady no Tashinami deshite - 11[1080p][简日双语][396.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/84d3a93ffe5a1fb16ea688b23c2a98331c8f49b4</link>
-				<contentLength>415865248</contentLength>
-				<pubDate>2025-06-16T13:07:24.394457</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="415865248" url="https://mikanani.me/Download/20250616/84d3a93ffe5a1fb16ea688b23c2a98331c8f49b4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
