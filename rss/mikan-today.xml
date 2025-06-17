@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/073f191e570694c60193ca068f639afec012db60</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴][446.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/073f191e570694c60193ca068f639afec012db60</link>
+				<contentLength>467989952</contentLength>
+				<pubDate>2025-06-18T04:51:56.3</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="467989952" url="https://mikanani.me/Download/20250618/073f191e570694c60193ca068f639afec012db60.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ce5c831ca5f659df66b710d52b1677e3f7b41227</link>
 			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-16T23:51:08.082</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="574525248" url="https://mikanani.me/Download/20250616/14d3a10496eb46e35a879e66cf67bcad228c8fc2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[867][2025.06.14][AVC][1080P][GB_JP]</guid>
-			<link>https://mikanani.me/Home/Episode/b374a2a4989d9287c93187b91882e5be16ce753f</link>
-			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[867][2025.06.14][AVC][1080P][GB_JP]</title>
-			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[867][2025.06.14][AVC][1080P][GB_JP][588.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b374a2a4989d9287c93187b91882e5be16ce753f</link>
-				<contentLength>617076480</contentLength>
-				<pubDate>2025-06-16T23:44:29.601</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="617076480" url="https://mikanani.me/Download/20250616/b374a2a4989d9287c93187b91882e5be16ce753f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="335858880" url="https://mikanani.me/Download/20250610/6e3ea49ccd1be1d56f2227a731e0256c86511fda.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 岁月流逝饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9ef74c473a27c77179279f55c927dd63262c8d33</link>
-			<title>[黒ネズミたち] 岁月流逝饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 岁月流逝饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 09 (ABEMA 1280x720 AVC AAC MP4)[372.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9ef74c473a27c77179279f55c927dd63262c8d33</link>
-				<contentLength>390594560</contentLength>
-				<pubDate>2025-06-10T21:04:07.728939</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="390594560" url="https://mikanani.me/Download/20250610/9ef74c473a27c77179279f55c927dd63262c8d33.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 搞笑漫画日和 GO / Gag Manga Biyori Go - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/07738a78ada96aa28e1c7811e3971bbbfdf35e89</link>
 			<title>[黒ネズミたち] 搞笑漫画日和 GO / Gag Manga Biyori Go - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -8127,6 +8115,18 @@
 				<pubDate>2025-06-18T03:01:54.708636</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250618/ce5c831ca5f659df66b710d52b1677e3f7b41227.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/073f191e570694c60193ca068f639afec012db60</link>
+			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴][446.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/073f191e570694c60193ca068f639afec012db60</link>
+				<contentLength>467989952</contentLength>
+				<pubDate>2025-06-18T04:51:56.3</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="467989952" url="https://mikanani.me/Download/20250618/073f191e570694c60193ca068f639afec012db60.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
