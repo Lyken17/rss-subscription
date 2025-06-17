@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/c66f8c6f8b7dcf186e25eb928a7a5a834ea5b439</link>
+			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)[315.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c66f8c6f8b7dcf186e25eb928a7a5a834ea5b439</link>
+				<contentLength>331140288</contentLength>
+				<pubDate>2025-06-17T09:02:13.792652</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331140288" url="https://mikanani.me/Download/20250617/c66f8c6f8b7dcf186e25eb928a7a5a834ea5b439.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 不幸职业【鉴定士】实则最强 / Fuguushoku Kanteishi ga Jitsu wa Saikyou Datta (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/8a709c33f3543812637c17b0b0d9b3575e0bef70</link>
 			<title>[H-Enc] 不幸职业【鉴定士】实则最强 / Fuguushoku Kanteishi ga Jitsu wa Saikyou Datta (BDRip 1080p HEVC FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-16T11:39:30.567881</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4724464128" url="https://mikanani.me/Download/20250616/c8e23e1cc75682a51148f0d0d067223174335d85.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 佐贺偶像是传奇 ZOMBIE LAND SAGA [01-12][AcFun WEB-DL 1080P AVC 8bit AAC][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/7e147a4083788ab6e9304e8d022402d5878ecb7a</link>
-			<title>[Prejudice-Studio] 佐贺偶像是传奇 ZOMBIE LAND SAGA [01-12][AcFun WEB-DL 1080P AVC 8bit AAC][简体内嵌]</title>
-			<description>[Prejudice-Studio] 佐贺偶像是传奇 ZOMBIE LAND SAGA [01-12][AcFun WEB-DL 1080P AVC 8bit AAC][简体内嵌][11.7 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7e147a4083788ab6e9304e8d022402d5878ecb7a</link>
-				<contentLength>12562779136</contentLength>
-				<pubDate>2025-06-16T11:38:33.559154</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="12562779136" url="https://mikanani.me/Download/20250616/7e147a4083788ab6e9304e8d022402d5878ecb7a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
