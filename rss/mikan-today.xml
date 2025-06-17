@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][03][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/968e9edd7507e3ffbf629f41f607ddb452cc3f3b</link>
+			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][03][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][03][GB][4K HEVC 10Bit][1.64 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/968e9edd7507e3ffbf629f41f607ddb452cc3f3b</link>
+				<contentLength>1760936576</contentLength>
+				<pubDate>2025-06-17T15:33:27.885</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1760936576" url="https://mikanani.me/Download/20250617/968e9edd7507e3ffbf629f41f607ddb452cc3f3b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Clarita] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ [01-12 合集][WebRip 1080p HEVC-10bit AAC][繁体内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/22a44043704baa03d51a1dcb3ff9b2d61cdbfc31</link>
 			<title>[Clarita] 使人误解的工房主～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ [01-12 合集][WebRip 1080p HEVC-10bit AAC][繁体内封字幕][Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-16T12:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="41231687680" url="https://mikanani.me/Download/20250616/020e112d721270205e5da37289d3e0b1dbfe1b72.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1133 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6815d608f5d69b4552fdf9021087840106265b7e</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1133 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1133 (B-Global 3840x2160 HEVC AAC MKV)[984.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6815d608f5d69b4552fdf9021087840106265b7e</link>
-				<contentLength>1031798784</contentLength>
-				<pubDate>2025-06-16T12:16:57.195073</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1031798784" url="https://mikanani.me/Download/20250616/6815d608f5d69b4552fdf9021087840106265b7e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
