@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 我的妹妹哪有这么可爱 (俺の妹がこんなに可爱いわけがない) (Oreimo)：TV动画 (2010年版、2013年版)+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2021.06.16)</guid>
+			<link>https://mikanani.me/Home/Episode/39bdb781f1dee1b62c57f668b7f74c4d65c9fb46</link>
+			<title>[整理搬运] 我的妹妹哪有这么可爱 (俺の妹がこんなに可爱いわけがない) (Oreimo)：TV动画 (2010年版、2013年版)+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2021.06.16)</title>
+			<description>[整理搬运] 我的妹妹哪有这么可爱 (俺の妹がこんなに可爱いわけがない) (Oreimo)：TV动画 (2010年版、2013年版)+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2021.06.16)[33.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/39bdb781f1dee1b62c57f668b7f74c4d65c9fb46</link>
+				<contentLength>35433480192</contentLength>
+				<pubDate>2025-06-18T17:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="35433480192" url="https://mikanani.me/Download/20250618/39bdb781f1dee1b62c57f668b7f74c4d65c9fb46.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 11 [AMZN WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b7cd515eec1e7f005bafd37711336578745b2c4a</link>
 			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 11 [AMZN WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-17T11:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250617/319ecd0e51301518be460b6546643fbaec57e63b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1123][x264_aac][1080p]</guid>
-			<link>https://mikanani.me/Home/Episode/126aaa2107ac13046458956a01664b73b9f73971</link>
-			<title>[OPFansMaplesnow][one_piece][1123][x264_aac][1080p]</title>
-			<description>[OPFansMaplesnow][one_piece][1123][x264_aac][1080p][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/126aaa2107ac13046458956a01664b73b9f73971</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-06-17T11:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250617/126aaa2107ac13046458956a01664b73b9f73971.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
