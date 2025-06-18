@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
+			<link>https://mikanani.me/Home/Episode/03718f99f8da63d76ae8b0eeee7af439128e6379</link>
+			<title>[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
+			<description>[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}[2.98 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/03718f99f8da63d76ae8b0eeee7af439128e6379</link>
+				<contentLength>3199750656</contentLength>
+				<pubDate>2025-06-19T06:36:08.182</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3199750656" url="https://mikanani.me/Download/20250619/03718f99f8da63d76ae8b0eeee7af439128e6379.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f74b0ac838f6e7b1775a2bea0618fd145f530b4d</link>
 			<title>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-17T22:55:25.147</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="71020056" url="https://mikanani.me/Download/20250617/7ebad9cf73accd56968d256cb2f4cb453e32031b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/94d25368363598f98a97e9079568af7e1e608d95</link>
-			<title>[黒ネズミたち] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 紫云寺家的兄弟姊妹 / Shiunji-ke no Kodomotachi - 11 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/94d25368363598f98a97e9079568af7e1e608d95</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-06-17T22:49:36.635573</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250617/94d25368363598f98a97e9079568af7e1e608d95.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
