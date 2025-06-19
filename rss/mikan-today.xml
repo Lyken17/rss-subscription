@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 09 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/a37b75a1d35a76ee34ca56e0b8ed62993a703f4e</link>
+			<title>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 09 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 09 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文][598.04 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a37b75a1d35a76ee34ca56e0b8ed62993a703f4e</link>
+				<contentLength>627090368</contentLength>
+				<pubDate>2025-06-19T16:44:31.179</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="627090368" url="https://mikanani.me/Download/20250619/a37b75a1d35a76ee34ca56e0b8ed62993a703f4e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 老夫老妻重返青春 Jiisan Baasan Wakagaeru [01-11][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/438cfe555c3c16f7216e733a05df8ce03ba48cf8</link>
 			<title>[Prejudice-Studio] 老夫老妻重返青春 Jiisan Baasan Wakagaeru [01-11][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-17T23:12:58.356</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="86130032" url="https://mikanani.me/Download/20250617/6c0c87ca25457d7d71c9f1edbb3131f655a1ea9f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 过分色气的深见君 / Yatara Yarashii Fukami-kun [07][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/831c79a0a2781ee20a9e3e3cf9d0e2ed4539eaa6</link>
-			<title>[桜都字幕组] 过分色气的深见君 / Yatara Yarashii Fukami-kun [07][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 过分色气的深见君 / Yatara Yarashii Fukami-kun [07][1080p][简体内嵌][71.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/831c79a0a2781ee20a9e3e3cf9d0e2ed4539eaa6</link>
-				<contentLength>75298240</contentLength>
-				<pubDate>2025-06-17T23:11:03.49</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="75298240" url="https://mikanani.me/Download/20250617/831c79a0a2781ee20a9e3e3cf9d0e2ed4539eaa6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
