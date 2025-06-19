@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/fe43b3a147870062ddcde850467552a32199ed66</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][355.98 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fe43b3a147870062ddcde850467552a32199ed66</link>
-				<contentLength>373272096</contentLength>
-				<pubDate>2025-06-12T20:37:47.119</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="373272096" url="https://mikanani.me/Download/20250612/fe43b3a147870062ddcde850467552a32199ed66.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] First Line (GEMNIBUS vol.1)[WebRip 1080p HEVC-10bit AAC][简繁日内封字幕] v2</guid>
 			<link>https://mikanani.me/Home/Episode/eb2ead4101b1e4af10ec257f0d5172a8d531fbbf</link>
 			<title>[SweetSub&amp;LoliHouse] First Line (GEMNIBUS vol.1)[WebRip 1080p HEVC-10bit AAC][简繁日内封字幕] v2</title>
@@ -495,6 +483,18 @@
 				<pubDate>2025-06-20T00:30:13.302</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="875665792" url="https://mikanani.me/Download/20250620/babec61f3af823b98562040275d40925215468b6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/c21ba917db256dcbc6723346e18f1a62a5eb8041</link>
+			<title>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 天才治疗师退队作为无照治疗师快乐过活 / Yami Healer - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][240.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c21ba917db256dcbc6723346e18f1a62a5eb8041</link>
+				<contentLength>252004272</contentLength>
+				<pubDate>2025-06-20T04:29:56.48</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="252004272" url="https://mikanani.me/Download/20250620/c21ba917db256dcbc6723346e18f1a62a5eb8041.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
