@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴]</guid>
-			<link>https://mikanani.me/Home/Episode/073f191e570694c60193ca068f639afec012db60</link>
-			<title>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴]</title>
-			<description>【喵萌奶茶屋】★04月新番★[直至魔女消逝 / 直到某魔女死去 / ある魔女が死ぬまで / Aru Majo ga Shinu Made][12][1080p][简日双语][招募翻译时轴][446.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/073f191e570694c60193ca068f639afec012db60</link>
-				<contentLength>467989952</contentLength>
-				<pubDate>2025-06-18T04:51:56.3</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="467989952" url="https://mikanani.me/Download/20250618/073f191e570694c60193ca068f639afec012db60.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[H-Enc] 最强阴阳师的异世界转生记 / Saikyou Onmyouji no Isekai Tenseiki (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/eba1cdae33105bea295a7636203830984bbf8a8d</link>
 			<title>[H-Enc] 最强阴阳师的异世界转生记 / Saikyou Onmyouji no Isekai Tenseiki (BDRip 1080p HEVC FLAC)</title>
@@ -939,6 +927,18 @@
 				<pubDate>2025-06-19T11:30:05.858436</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20250619/0a8e71324ada1e1e0e5b5b8c641f45e01d4bc8b1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 老夫老妻重返青春 Jiisan Baasan Wakagaeru [01-11][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/438cfe555c3c16f7216e733a05df8ce03ba48cf8</link>
+			<title>[Prejudice-Studio] 老夫老妻重返青春 Jiisan Baasan Wakagaeru [01-11][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 老夫老妻重返青春 Jiisan Baasan Wakagaeru [01-11][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][3.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/438cfe555c3c16f7216e733a05df8ce03ba48cf8</link>
+				<contentLength>3435973888</contentLength>
+				<pubDate>2025-06-19T12:40:31.21067</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20250619/438cfe555c3c16f7216e733a05df8ce03ba48cf8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
