@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 25 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e82b0e0dc5d22451ff4584fe3fc2c6acff436810</link>
+			<title>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 25 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] WIND BREAKER—防风少年— Season 2 / Wind Breaker Season 2 - 25 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e82b0e0dc5d22451ff4584fe3fc2c6acff436810</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-06-20T01:46:52.682399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250620/e82b0e0dc5d22451ff4584fe3fc2c6acff436810.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] WIND BREAKER /  WIND BREAKER—防风少年— Season 2 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/1b883ae3829370204403915a0574dcee14262531</link>
 			<title>[ANi] WIND BREAKER /  WIND BREAKER—防风少年— Season 2 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-18T16:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250618/b7cd515eec1e7f005bafd37711336578745b2c4a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/153d01353d2ae026ad94538dd94a20f0916fd3f3</link>
-			<title>[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[SweetSub&amp;LoliHouse] 机动战士高达 GQuuuuuuX / Mobile Suit Gundam GQuuuuuuX - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][930.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/153d01353d2ae026ad94538dd94a20f0916fd3f3</link>
-				<contentLength>975773376</contentLength>
-				<pubDate>2025-06-18T15:23:31.765</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="975773376" url="https://mikanani.me/Download/20250618/153d01353d2ae026ad94538dd94a20f0916fd3f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
