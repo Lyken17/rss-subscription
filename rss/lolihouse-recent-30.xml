@@ -2092,5 +2092,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="726872896" url="https://mikanani.me/Download/20250620/8651a686a91b0e33878246bd457ce8aa0c2f25f4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/babec61f3af823b98562040275d40925215468b6</link>
+			<title>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌Production&amp;LoliHouse] 前桥魔女 / Maebashi Witches - 09 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][835.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/babec61f3af823b98562040275d40925215468b6</link>
+				<contentLength>875665792</contentLength>
+				<pubDate>2025-06-20T00:30:13.302</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="875665792" url="https://mikanani.me/Download/20250620/babec61f3af823b98562040275d40925215468b6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
