@@ -724,5 +724,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="349993696" url="https://mikanani.me/Download/20250620/d3afd8e08b1345347898d8e04542e8cf3ab673ea.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">推理在晚餐后 - Nazotoki wa Dinner no Ato de - 07 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/07264c7144e73ab909a1a357f87e250be9b2c415</link>
+			<title>推理在晚餐后 - Nazotoki wa Dinner no Ato de - 07 [1080p][简日内嵌]</title>
+			<description>推理在晚餐后 - Nazotoki wa Dinner no Ato de - 07 [1080p][简日内嵌][615.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/07264c7144e73ab909a1a357f87e250be9b2c415</link>
+				<contentLength>645817984</contentLength>
+				<pubDate>2025-06-20T18:23:02.638251</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="645817984" url="https://mikanani.me/Download/20250620/07264c7144e73ab909a1a357f87e250be9b2c415.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
