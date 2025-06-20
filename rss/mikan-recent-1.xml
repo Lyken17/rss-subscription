@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
-			<link>https://mikanani.me/Home/Episode/03718f99f8da63d76ae8b0eeee7af439128e6379</link>
-			<title>[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
-			<description>[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}[2.98 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/03718f99f8da63d76ae8b0eeee7af439128e6379</link>
-				<contentLength>3199750656</contentLength>
-				<pubDate>2025-06-19T06:36:08.182</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3199750656" url="https://mikanani.me/Download/20250619/03718f99f8da63d76ae8b0eeee7af439128e6379.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Classic★Stars – 古典乐★之星 / Classic★Stars - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1b0aa6786a64a039dcf5962a99231f79709a94ac</link>
 			<title>[黒ネズミたち] Classic★Stars – 古典乐★之星 / Classic★Stars - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -675,6 +663,18 @@
 				<pubDate>2025-06-20T13:19:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="590767744" url="https://mikanani.me/Download/20250620/249c4101241a33a34938c2e38466454b67838885.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">灵笼 第二季 / INCARNATION S2 - 06 [816P][Bilibili][WEB-DL][AAC AVC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/05835d6289ae9d6bda07eaa6648190e0bc8c6c56</link>
+			<title>灵笼 第二季 / INCARNATION S2 - 06 [816P][Bilibili][WEB-DL][AAC AVC][简体中文]</title>
+			<description>灵笼 第二季 / INCARNATION S2 - 06 [816P][Bilibili][WEB-DL][AAC AVC][简体中文][625.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05835d6289ae9d6bda07eaa6648190e0bc8c6c56</link>
+				<contentLength>655968192</contentLength>
+				<pubDate>2025-06-20T14:31:25.023</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="655968192" url="https://mikanani.me/Download/20250620/05835d6289ae9d6bda07eaa6648190e0bc8c6c56.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

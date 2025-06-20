@@ -31036,5 +31036,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="590767744" url="https://mikanani.me/Download/20250620/249c4101241a33a34938c2e38466454b67838885.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">灵笼 第二季 / INCARNATION S2 - 06 [816P][Bilibili][WEB-DL][AAC AVC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/05835d6289ae9d6bda07eaa6648190e0bc8c6c56</link>
+			<title>灵笼 第二季 / INCARNATION S2 - 06 [816P][Bilibili][WEB-DL][AAC AVC][简体中文]</title>
+			<description>灵笼 第二季 / INCARNATION S2 - 06 [816P][Bilibili][WEB-DL][AAC AVC][简体中文][625.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05835d6289ae9d6bda07eaa6648190e0bc8c6c56</link>
+				<contentLength>655968192</contentLength>
+				<pubDate>2025-06-20T14:31:25.023</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="655968192" url="https://mikanani.me/Download/20250620/05835d6289ae9d6bda07eaa6648190e0bc8c6c56.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
