@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f74b0ac838f6e7b1775a2bea0618fd145f530b4d</link>
-			<title>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 终末起点 / Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f74b0ac838f6e7b1775a2bea0618fd145f530b4d</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-06-19T01:41:31.061826</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250619/f74b0ac838f6e7b1775a2bea0618fd145f530b4d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</guid>
 			<link>https://mikanani.me/Home/Episode/03718f99f8da63d76ae8b0eeee7af439128e6379</link>
 			<title>[TV版&amp;轻微修正版&amp;无修版] 请穿上内衣吧，鹰峰同学 ／ 拜托请穿上，鹰峰同学 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {履いてください、鹰峰さん}</title>
@@ -627,6 +615,18 @@
 				<pubDate>2025-06-20T09:03:21.752978</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20250620/823f7be9c2a30ab241ca2cc3efaab4fb30330cab.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 战队大失格 Sentai Dai Shikkaku [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/18e5a89d0458b3b85a29a9414280c7c97eee18ad</link>
+			<title>[Prejudice-Studio] 战队大失格 Sentai Dai Shikkaku [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 战队大失格 Sentai Dai Shikkaku [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][4.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/18e5a89d0458b3b85a29a9414280c7c97eee18ad</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2025-06-20T11:02:14.936119</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20250620/18e5a89d0458b3b85a29a9414280c7c97eee18ad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

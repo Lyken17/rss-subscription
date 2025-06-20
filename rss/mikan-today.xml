@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 战队大失格 Sentai Dai Shikkaku [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/18e5a89d0458b3b85a29a9414280c7c97eee18ad</link>
+			<title>[Prejudice-Studio] 战队大失格 Sentai Dai Shikkaku [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 战队大失格 Sentai Dai Shikkaku [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][4.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/18e5a89d0458b3b85a29a9414280c7c97eee18ad</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2025-06-20T11:02:14.936119</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20250620/18e5a89d0458b3b85a29a9414280c7c97eee18ad.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 天才治疗师退队作为无照治疗师快乐过活 Yami Healer [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/823f7be9c2a30ab241ca2cc3efaab4fb30330cab</link>
 			<title>[Prejudice-Studio] 天才治疗师退队作为无照治疗师快乐过活 Yami Healer [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-18T20:50:19.715</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="443243552" url="https://mikanani.me/Download/20250618/172fc96cedc987a3e4b966119c47fa2cb0a09eb7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 11 [bilibili WEB-DL 1080P AVC AAC][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/c14ecc273e1a16877a4aafe9cd9d50891df24f9e</link>
-			<title>[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 11 [bilibili WEB-DL 1080P AVC AAC][简日内嵌]</title>
-			<description>[HuiTaiLang] 末日后酒店 / Apocalypse Hotel - 11 [bilibili WEB-DL 1080P AVC AAC][简日内嵌][411.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c14ecc273e1a16877a4aafe9cd9d50891df24f9e</link>
-				<contentLength>431897984</contentLength>
-				<pubDate>2025-06-18T20:16:17.277</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="431897984" url="https://mikanani.me/Download/20250618/c14ecc273e1a16877a4aafe9cd9d50891df24f9e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
