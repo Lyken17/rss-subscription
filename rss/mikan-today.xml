@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d8a1b81fcf2286777ca06090363ff19cb8b17420</link>
+			<title>[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)[58.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d8a1b81fcf2286777ca06090363ff19cb8b17420</link>
+				<contentLength>61761128</contentLength>
+				<pubDate>2025-06-21T03:00:59.489818</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="61761128" url="https://mikanani.me/Download/20250621/d8a1b81fcf2286777ca06090363ff19cb8b17420.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 12 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/59a88bc6a8edaf59f7ddd9c14fc24f2edc3259ba</link>
 			<title>[黒ネズミたち] 炎炎消防队 参之章 / Enen no Shouboutai: San no Shou - 12 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-19T12:13:15.211859</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="206254896" url="https://mikanani.me/Download/20250619/46bdb5810a4e16ca8f701b36f5c910b10bb3827a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 终末起点（仅限港澳台地区）  Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MKV][繁体内封]</guid>
-			<link>https://mikanani.me/Home/Episode/0a8e71324ada1e1e0e5b5b8c641f45e01d4bc8b1</link>
-			<title>[Prejudice-Studio] 终末起点（仅限港澳台地区）  Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MKV][繁体内封]</title>
-			<description>[Prejudice-Studio] 终末起点（仅限港澳台地区）  Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MKV][繁体内封][3.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0a8e71324ada1e1e0e5b5b8c641f45e01d4bc8b1</link>
-				<contentLength>3328599552</contentLength>
-				<pubDate>2025-06-19T11:30:05.858436</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20250619/0a8e71324ada1e1e0e5b5b8c641f45e01d4bc8b1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

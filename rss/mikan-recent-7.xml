@@ -7636,5 +7636,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="724566016" url="https://mikanani.me/Download/20250621/42b0e0548748a6d4af66b30670f767ebfe5c165e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d8a1b81fcf2286777ca06090363ff19cb8b17420</link>
+			<title>[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)[58.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d8a1b81fcf2286777ca06090363ff19cb8b17420</link>
+				<contentLength>61761128</contentLength>
+				<pubDate>2025-06-21T03:00:59.489818</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="61761128" url="https://mikanani.me/Download/20250621/d8a1b81fcf2286777ca06090363ff19cb8b17420.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
