@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][11][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/162bc3caece53d14dadeb5a0ac6c789e971f5654</link>
+			<title>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][11][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey][11][1080p][繁日双语][258.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/162bc3caece53d14dadeb5a0ac6c789e971f5654</link>
+				<contentLength>270973024</contentLength>
+				<pubDate>2025-06-21T03:23:12.041</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="270973024" url="https://mikanani.me/Download/20250621/162bc3caece53d14dadeb5a0ac6c789e971f5654.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d8a1b81fcf2286777ca06090363ff19cb8b17420</link>
 			<title>[黒ネズミたち] Nui Story 2 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-19T12:40:31.21067</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20250619/438cfe555c3c16f7216e733a05df8ce03ba48cf8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 莉可丽丝：友谊是时间的窃贼 Lycoris Recoil_ Friends are thieves of time [01-06][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/46bdb5810a4e16ca8f701b36f5c910b10bb3827a</link>
-			<title>[Prejudice-Studio] 莉可丽丝：友谊是时间的窃贼 Lycoris Recoil_ Friends are thieves of time [01-06][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 莉可丽丝：友谊是时间的窃贼 Lycoris Recoil_ Friends are thieves of time [01-06][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][196.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/46bdb5810a4e16ca8f701b36f5c910b10bb3827a</link>
-				<contentLength>206254896</contentLength>
-				<pubDate>2025-06-19T12:13:15.211859</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="206254896" url="https://mikanani.me/Download/20250619/46bdb5810a4e16ca8f701b36f5c910b10bb3827a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
