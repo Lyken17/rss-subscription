@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 失忆投捕 Boukyaku Battery [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/83773927b6344c57faf85b200a93fc98bde55195</link>
+			<title>[Prejudice-Studio] 失忆投捕 Boukyaku Battery [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 失忆投捕 Boukyaku Battery [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][3.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/83773927b6344c57faf85b200a93fc98bde55195</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2025-06-21T18:42:52.204585</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20250621/83773927b6344c57faf85b200a93fc98bde55195.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">真·武士传 / Shin Samurai-den Yaiba - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/a1e718e01b9eb31f4dda17e9c42ca1024793076d</link>
 			<title>真·武士传 / Shin Samurai-den Yaiba - 03 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-20T00:40:42.501054</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="754030976" url="https://mikanani.me/Download/20250620/483cfd58d9a732433fdad485836126fbda61c46a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Shibuya♡Hachi Part 2 - 36 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1f867cc339dde72397d29b44cef1cc77520ea421</link>
-			<title>[黒ネズミたち] Shibuya♡Hachi Part 2 - 36 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Shibuya♡Hachi Part 2 - 36 (ABEMA 1920x1080 AVC AAC MP4)[80.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1f867cc339dde72397d29b44cef1cc77520ea421</link>
-				<contentLength>83990936</contentLength>
-				<pubDate>2025-06-20T00:33:33.183824</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="83990936" url="https://mikanani.me/Download/20250620/1f867cc339dde72397d29b44cef1cc77520ea421.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
