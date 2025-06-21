@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</guid>
+			<link>https://mikanani.me/Home/Episode/fd5fda4ddd3bb6c743166a96c031d1b8bfcdc2e4</link>
+			<title>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}</title>
+			<description>乡下大叔成为剑圣 / 乡下大叔成为剑圣 - EP12 END [简 / 繁] (1080p AMZN WEB-DL H.264 AAC2.0+DDP2.0 SRTx2) {片田舎のおっさん、剣圣になる | 保罗转生～到了异世界就尽情开后宫～}[1.02 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd5fda4ddd3bb6c743166a96c031d1b8bfcdc2e4</link>
+				<contentLength>1095216640</contentLength>
+				<pubDate>2025-06-22T05:49:10.83</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1095216640" url="https://mikanani.me/Download/20250622/fd5fda4ddd3bb6c743166a96c031d1b8bfcdc2e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 140 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/9e39bbad24eaf7e937229b73cfa156db867ace79</link>
 			<title>[Skymoon-Raws] Chiikawa - 140 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-21T12:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="18874368" url="https://mikanani.me/Download/20250621/f6b1c7dbc367a65c4cd1940212a7dd0b7aae7305.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 128 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/d2b2df16bb682d592f454258757d0d7d55c5a7a4</link>
-			<title>[Skymoon-Raws] Chiikawa - 128 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 128 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][19.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d2b2df16bb682d592f454258757d0d7d55c5a7a4</link>
-				<contentLength>20132660</contentLength>
-				<pubDate>2025-06-21T12:21:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20132660" url="https://mikanani.me/Download/20250621/d2b2df16bb682d592f454258757d0d7d55c5a7a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
