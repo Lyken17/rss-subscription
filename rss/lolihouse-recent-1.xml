@@ -88,5 +88,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="341363904" url="https://mikanani.me/Download/20250622/b5af50460f63e4073d6cffc60591b7aa6034b50f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 12 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/16e44bfe561755fe3c42b3319741763aa87b8094</link>
+			<title>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 12 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] Kuroshitsuji - Midori no Majo-hen / 黑执事 绿之魔女篇 - 12 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][404.47 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/16e44bfe561755fe3c42b3319741763aa87b8094</link>
+				<contentLength>424117536</contentLength>
+				<pubDate>2025-06-22T14:30:57.401</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="424117536" url="https://mikanani.me/Download/20250622/16e44bfe561755fe3c42b3319741763aa87b8094.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] Everyday Host - 12 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/197dff41bb875cc3af7007b9a333c6031b715f3d</link>
+			<title>[奶²&amp;LoliHouse] Everyday Host - 12 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] Everyday Host - 12 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][68.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/197dff41bb875cc3af7007b9a333c6031b715f3d</link>
+				<contentLength>71324136</contentLength>
+				<pubDate>2025-06-22T14:24:32.12</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="71324136" url="https://mikanani.me/Download/20250622/197dff41bb875cc3af7007b9a333c6031b715f3d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
