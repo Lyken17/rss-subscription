@@ -508,5 +508,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="71324136" url="https://mikanani.me/Download/20250622/197dff41bb875cc3af7007b9a333c6031b715f3d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/46607a70cb5bbc39c2a7f4654b38d8e9b488fb19</link>
+			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][831.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/46607a70cb5bbc39c2a7f4654b38d8e9b488fb19</link>
+				<contentLength>871565888</contentLength>
+				<pubDate>2025-06-22T18:38:22.936</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="871565888" url="https://mikanani.me/Download/20250622/46607a70cb5bbc39c2a7f4654b38d8e9b488fb19.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
