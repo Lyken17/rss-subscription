@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[奶²&amp;LoliHouse] Everyday Host - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e1fd5a51166a5eec365efdd5858d19a02dd771f4</link>
-			<title>[奶²&amp;LoliHouse] Everyday Host - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[奶²&amp;LoliHouse] Everyday Host - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][72.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e1fd5a51166a5eec365efdd5858d19a02dd771f4</link>
-				<contentLength>76021760</contentLength>
-				<pubDate>2025-06-15T16:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="76021760" url="https://mikanani.me/Download/20250615/e1fd5a51166a5eec365efdd5858d19a02dd771f4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/fc4103d0ff337666b7876a1636d897f0facd5191</link>
 			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -519,6 +507,18 @@
 				<pubDate>2025-06-22T19:49:26.303</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="486864320" url="https://mikanani.me/Download/20250622/4803cdf117145017de60b8e74c79f0f354f2073d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 12 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/908fb20293143d0ecf960754dc5ca9886fb96bf3</link>
+			<title>[LoliHouse] Princess-Session Orchestra - 12 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra - 12 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[1023.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/908fb20293143d0ecf960754dc5ca9886fb96bf3</link>
+				<contentLength>1073322368</contentLength>
+				<pubDate>2025-06-23T00:37:18.909</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073322368" url="https://mikanani.me/Download/20250623/908fb20293143d0ecf960754dc5ca9886fb96bf3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
