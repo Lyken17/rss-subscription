@@ -568,5 +568,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="736739968" url="https://mikanani.me/Download/20250623/bf8991b61b784c5fe924fa6601605a8daff8a657.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3ad869286d0e6bb0ec3ba34295c63d60d5296e3d</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 记忆缝线 / Your Forma / ユア・フォルマ - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][621.94 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3ad869286d0e6bb0ec3ba34295c63d60d5296e3d</link>
+				<contentLength>652151360</contentLength>
+				<pubDate>2025-06-23T21:58:16.194</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="652151360" url="https://mikanani.me/Download/20250623/3ad869286d0e6bb0ec3ba34295c63d60d5296e3d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
