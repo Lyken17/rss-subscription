@@ -2140,5 +2140,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="270710880" url="https://mikanani.me/Download/20250623/9e7cd1f2fad9d9a28ba0baea6098bff1eb64b5d5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 秘密的美妙公主 / Himitsu no AiPri [S2 01-12][WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7d72c92a576769029be4ea364eb8945b21656616</link>
+			<title>[LoliHouse] 秘密的美妙公主 / Himitsu no AiPri [S2 01-12][WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 秘密的美妙公主 / Himitsu no AiPri [S2 01-12][WebRip 1080p HEVC-10bit AAC][无字幕][12.8 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d72c92a576769029be4ea364eb8945b21656616</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2025-06-23T15:55:34.925</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20250623/7d72c92a576769029be4ea364eb8945b21656616.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
