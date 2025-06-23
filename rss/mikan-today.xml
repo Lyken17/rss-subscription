@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 148 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/97798ccb8f611186e65c5e335b10dc60c7ccd650</link>
+			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 148 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 148 (B-Global Donghua 1920x1080 HEVC AAC MKV)[707.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/97798ccb8f611186e65c5e335b10dc60c7ccd650</link>
+				<contentLength>742077248</contentLength>
+				<pubDate>2025-06-23T11:01:50.726833</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="742077248" url="https://mikanani.me/Download/20250623/97798ccb8f611186e65c5e335b10dc60c7ccd650.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 78 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b86b744e13877b27cbfd56f3406af9664b5bfaa1</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 78 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-06-22T19:25:01.415</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="498524480" url="https://mikanani.me/Download/20250622/aa71b2d4b58eac56831d56df5d03d0ba47c90392.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E12][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
-			<link>https://mikanani.me/Home/Episode/7fd5fb3c856007f591450074640ddf34e0e2af4f</link>
-			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E12][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
-			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E12][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[1.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7fd5fb3c856007f591450074640ddf34e0e2af4f</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-06-22T18:46:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250622/7fd5fb3c856007f591450074640ddf34e0e2af4f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
