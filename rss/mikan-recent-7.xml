@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c66f8c6f8b7dcf186e25eb928a7a5a834ea5b439</link>
-			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 28 (B-Global Donghua 1920x1080 HEVC AAC MKV)[315.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c66f8c6f8b7dcf186e25eb928a7a5a834ea5b439</link>
-				<contentLength>331140288</contentLength>
-				<pubDate>2025-06-17T09:02:13.792652</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="331140288" url="https://mikanani.me/Download/20250617/c66f8c6f8b7dcf186e25eb928a7a5a834ea5b439.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1125][1080p]</guid>
 			<link>https://mikanani.me/Home/Episode/265d97e3b8acf5d2f12761b19d21043ab28d7fd9</link>
 			<title>[OPFansMaplesnow][one_piece][1125][1080p]</title>
@@ -7299,6 +7287,18 @@
 				<pubDate>2025-06-24T15:55:25.651</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459119008" url="https://mikanani.me/Download/20250624/ed347f73f63544296b8bfbcbcf2ed28e72db2d10.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)</guid>
+			<link>https://mikanani.me/Home/Episode/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e</link>
+			<title>[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)</title>
+			<description>[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)[20.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e</link>
+				<contentLength>21689585664</contentLength>
+				<pubDate>2025-06-24T16:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21689585664" url="https://mikanani.me/Download/20250624/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

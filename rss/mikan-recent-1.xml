@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 78 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b86b744e13877b27cbfd56f3406af9664b5bfaa1</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 78 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 78 (B-Global Donghua 1920x1080 HEVC AAC MKV)[315.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b86b744e13877b27cbfd56f3406af9664b5bfaa1</link>
-				<contentLength>330406304</contentLength>
-				<pubDate>2025-06-23T09:01:45.275285</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="330406304" url="https://mikanani.me/Download/20250623/b86b744e13877b27cbfd56f3406af9664b5bfaa1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 148 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/97798ccb8f611186e65c5e335b10dc60c7ccd650</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 148 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1071,6 +1059,18 @@
 				<pubDate>2025-06-24T15:55:25.651</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459119008" url="https://mikanani.me/Download/20250624/ed347f73f63544296b8bfbcbcf2ed28e72db2d10.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)</guid>
+			<link>https://mikanani.me/Home/Episode/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e</link>
+			<title>[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)</title>
+			<description>[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)[20.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e</link>
+				<contentLength>21689585664</contentLength>
+				<pubDate>2025-06-24T16:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21689585664" url="https://mikanani.me/Download/20250624/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
