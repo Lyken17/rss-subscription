@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/9e7cd1f2fad9d9a28ba0baea6098bff1eb64b5d5</link>
-			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][258.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9e7cd1f2fad9d9a28ba0baea6098bff1eb64b5d5</link>
-				<contentLength>270710880</contentLength>
-				<pubDate>2025-06-23T13:21:42.324</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="270710880" url="https://mikanani.me/Download/20250623/9e7cd1f2fad9d9a28ba0baea6098bff1eb64b5d5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 秘密的美妙公主 / Himitsu no AiPri [S2 01-12][WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7d72c92a576769029be4ea364eb8945b21656616</link>
 			<title>[LoliHouse] 秘密的美妙公主 / Himitsu no AiPri [S2 01-12][WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -87,6 +75,18 @@
 				<pubDate>2025-06-24T15:55:25.651</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459119008" url="https://mikanani.me/Download/20250624/ed347f73f63544296b8bfbcbcf2ed28e72db2d10.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 小浣熊 卡尔卡尔团 / Araiguma Calcal-dan [01-12+Extra][WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cffce517c923b9b84e191fc4b7054e77472a3a1c</link>
+			<title>[奶²&amp;LoliHouse] 小浣熊 卡尔卡尔团 / Araiguma Calcal-dan [01-12+Extra][WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] 小浣熊 卡尔卡尔团 / Araiguma Calcal-dan [01-12+Extra][WebRip 1080p HEVC-10bit AAC][简日内封字幕][420.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cffce517c923b9b84e191fc4b7054e77472a3a1c</link>
+				<contentLength>440653568</contentLength>
+				<pubDate>2025-06-24T21:06:40.815</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="440653568" url="https://mikanani.me/Download/20250624/cffce517c923b9b84e191fc4b7054e77472a3a1c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
