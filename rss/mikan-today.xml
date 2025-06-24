@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/94966a08baa41cae1e71e5e9a6ccb91d3e010255</link>
+			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 30 (B-Global Donghua 1920x1080 HEVC AAC MKV)[347.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/94966a08baa41cae1e71e5e9a6ccb91d3e010255</link>
+				<contentLength>363960736</contentLength>
+				<pubDate>2025-06-24T09:01:52.540421</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="363960736" url="https://mikanani.me/Download/20250624/94966a08baa41cae1e71e5e9a6ccb91d3e010255.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[漫猫字幕组][4月新番][紫云寺家的兄弟姐妹][Shiunji-ke no Kodomotachi][11][1080p][MP4][简中]</guid>
 			<link>https://mikanani.me/Home/Episode/e1599e525a0edf191ab9fb8e20d3fd042667ee73</link>
 			<title>[漫猫字幕组][4月新番][紫云寺家的兄弟姐妹][Shiunji-ke no Kodomotachi][11][1080p][MP4][简中]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-23T04:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="18979226" url="https://mikanani.me/Download/20250623/0a7d9f6f8806d068b9d167a415d78763a1c0365f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 142 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/c41a26fb337d028f713916af7ebb79990a7cd54a</link>
-			<title>[Skymoon-Raws] Chiikawa - 142 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 142 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][19.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c41a26fb337d028f713916af7ebb79990a7cd54a</link>
-				<contentLength>20027802</contentLength>
-				<pubDate>2025-06-23T04:02:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20027802" url="https://mikanani.me/Download/20250623/c41a26fb337d028f713916af7ebb79990a7cd54a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
