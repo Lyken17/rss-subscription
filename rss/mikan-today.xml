@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB外判粤语]追梦飞驰 / 竞速OVERTAKE! - 09 [粤语+无字幕] (BD 1920x1080 x264 AAC Ani-One+TVB YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/26a419f86f0288a9cd46f23702b3d72e0ef4a764</link>
+			<title>[jibaketa合成&amp;二次压制][TVB外判粤语]追梦飞驰 / 竞速OVERTAKE! - 09 [粤语+无字幕] (BD 1920x1080 x264 AAC Ani-One+TVB YUE)</title>
+			<description>[jibaketa合成&amp;二次压制][TVB外判粤语]追梦飞驰 / 竞速OVERTAKE! - 09 [粤语+无字幕] (BD 1920x1080 x264 AAC Ani-One+TVB YUE)[1.08 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26a419f86f0288a9cd46f23702b3d72e0ef4a764</link>
+				<contentLength>1159641216</contentLength>
+				<pubDate>2025-06-24T13:00:19.469</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1159641216" url="https://mikanani.me/Download/20250624/26a419f86f0288a9cd46f23702b3d72e0ef4a764.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 大侠请上功 / Da Xia Qing Shang Gong - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/2ed8f11118589d4070ba1a9889eecb1e18bd0c64</link>
 			<title>[黒ネズミたち] 大侠请上功 / Da Xia Qing Shang Gong - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-23T04:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="24956108" url="https://mikanani.me/Download/20250623/79f26f8100c16991a00a2a572f1bf581152aca40.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 145 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/9af1503725be09cc97a322ed2f896f37faa0ff11</link>
-			<title>[Skymoon-Raws] Chiikawa - 145 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 145 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][25.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9af1503725be09cc97a322ed2f896f37faa0ff11</link>
-				<contentLength>26843546</contentLength>
-				<pubDate>2025-06-23T04:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="26843546" url="https://mikanani.me/Download/20250623/9af1503725be09cc97a322ed2f896f37faa0ff11.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
