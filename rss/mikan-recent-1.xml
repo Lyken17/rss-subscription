@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋  Summer Pockets - 09(1080p) [简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/f4c62fade914b77607299512e970b622f1d30b77</link>
-			<title>[樱桃花字幕组]夏日口袋  Summer Pockets - 09(1080p) [简日双语]</title>
-			<description>[樱桃花字幕组]夏日口袋  Summer Pockets - 09(1080p) [简日双语][281.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f4c62fade914b77607299512e970b622f1d30b77</link>
-				<contentLength>295279008</contentLength>
-				<pubDate>2025-06-23T18:59:46.279948</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="295279008" url="https://mikanani.me/Download/20250623/f4c62fade914b77607299512e970b622f1d30b77.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5681b47f0b806acc616ee4c2a7a3ff64ded2eb3a</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1335,6 +1323,18 @@
 				<pubDate>2025-06-25T01:41:11.216</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="338815872" url="https://mikanani.me/Download/20250625/3fb67aee8e37fa4d60d2d76d11f95d50d6498f09.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][11][1080p][繁日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/afe5e2de3b1096bcd46ee070b4ddc1077cdd862d</link>
+			<title>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][11][1080p][繁日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][11][1080p][繁日双语][招募翻译时轴][472.67 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afe5e2de3b1096bcd46ee070b4ddc1077cdd862d</link>
+				<contentLength>495630432</contentLength>
+				<pubDate>2025-06-25T02:46:02.556</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="495630432" url="https://mikanani.me/Download/20250625/afe5e2de3b1096bcd46ee070b4ddc1077cdd862d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
