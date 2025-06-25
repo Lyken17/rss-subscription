@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c76efe97cc4b48bcc38a5e0f6e78c6611b2ef216</link>
+			<title>[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 爱有点沉重的暗黑精灵从异世界紧追不放 / Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita - 12 (ABEMA 1920x1080 AVC AAC MP4)[360.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c76efe97cc4b48bcc38a5e0f6e78c6611b2ef216</link>
+				<contentLength>378221376</contentLength>
+				<pubDate>2025-06-26T01:31:10.054708</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="378221376" url="https://mikanani.me/Download/20250626/c76efe97cc4b48bcc38a5e0f6e78c6611b2ef216.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/b8bc8978ffee0ce992273242c4078a32319e9cd9</link>
 			<title>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-24T20:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20250624/3806808c6855c871cd5859202f4c31927f92fa40.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][115][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/14d8ae595bfb07d38d52373012cd0bd32cb6ba5e</link>
-			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][115][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][115][AVC][GB][1080P][504.82 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/14d8ae595bfb07d38d52373012cd0bd32cb6ba5e</link>
-				<contentLength>529342144</contentLength>
-				<pubDate>2025-06-24T20:39:26.827</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="529342144" url="https://mikanani.me/Download/20250624/14d8ae595bfb07d38d52373012cd0bd32cb6ba5e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
