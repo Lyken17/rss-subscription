@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)</guid>
-			<link>https://mikanani.me/Home/Episode/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e</link>
-			<title>[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)</title>
-			<description>[DBD-Raws][夏日重现/Summer Time Render][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](サマータイムレンダ)[20.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e</link>
-				<contentLength>21689585664</contentLength>
-				<pubDate>2025-06-24T16:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="21689585664" url="https://mikanani.me/Download/20250624/8fc21f80dfa684d8f4f5fb133178b1a46bcffa4e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][星辰变 第6季][Stellar Transformation Ⅵ][2025][17][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/a510e19380a5dd661c07e0da5fb111b7491e9a1a</link>
 			<title>[GM-Team][国漫][星辰变 第6季][Stellar Transformation Ⅵ][2025][17][HEVC][GB][4K]</title>
@@ -1275,6 +1263,30 @@
 				<pubDate>2025-06-25T23:25:00.23073</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20250625/3ea2b6b00c511e287d5ef5eba40b5c4e9302e5ce.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/b8bc8978ffee0ce992273242c4078a32319e9cd9</link>
+			<title>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封][427.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8bc8978ffee0ce992273242c4078a32319e9cd9</link>
+				<contentLength>447741952</contentLength>
+				<pubDate>2025-06-26T01:12:28.172451</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="447741952" url="https://mikanani.me/Download/20250626/b8bc8978ffee0ce992273242c4078a32319e9cd9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">Ore wa Seikan - S01E12 [简日内挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3973652b6c457e868dffa1cffbfdc828ddae7726</link>
+			<title>Ore wa Seikan - S01E12 [简日内挂字幕]</title>
+			<description>Ore wa Seikan - S01E12 [简日内挂字幕][177.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3973652b6c457e868dffa1cffbfdc828ddae7726</link>
+				<contentLength>186017376</contentLength>
+				<pubDate>2025-06-26T00:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="186017376" url="https://mikanani.me/Download/20250626/3973652b6c457e868dffa1cffbfdc828ddae7726.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

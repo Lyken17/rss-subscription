@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/b8bc8978ffee0ce992273242c4078a32319e9cd9</link>
+			<title>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语]黑执事 -绿之魔女篇-[12][Webrip][1080p][简繁日内封][427.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8bc8978ffee0ce992273242c4078a32319e9cd9</link>
+				<contentLength>447741952</contentLength>
+				<pubDate>2025-06-26T01:12:28.172451</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="447741952" url="https://mikanani.me/Download/20250626/b8bc8978ffee0ce992273242c4078a32319e9cd9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">Ore wa Seikan - S01E12 [简日内挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3973652b6c457e868dffa1cffbfdc828ddae7726</link>
+			<title>Ore wa Seikan - S01E12 [简日内挂字幕]</title>
+			<description>Ore wa Seikan - S01E12 [简日内挂字幕][177.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3973652b6c457e868dffa1cffbfdc828ddae7726</link>
+				<contentLength>186017376</contentLength>
+				<pubDate>2025-06-26T00:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="186017376" url="https://mikanani.me/Download/20250626/3973652b6c457e868dffa1cffbfdc828ddae7726.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组] 药屋少女的呢喃 [46][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/bf952eea396730caa7327b97374ff67b509bc3ad</link>
 			<title>[萌樱字幕组] 药屋少女的呢喃 [46][1080p][简繁日内封]</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2025-06-24T20:39:26.827</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="529342144" url="https://mikanani.me/Download/20250624/14d8ae595bfb07d38d52373012cd0bd32cb6ba5e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][55][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/3c36fee268daac154b5a0f2391117240b6265486</link>
-			<title>[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][55][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][一念永恒 第3季][Yi Nian Yong Heng 3th Season][2024][55][AVC][GB][1080P][219.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3c36fee268daac154b5a0f2391117240b6265486</link>
-				<contentLength>229826880</contentLength>
-				<pubDate>2025-06-24T20:39:22.314</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="229826880" url="https://mikanani.me/Download/20250624/3c36fee268daac154b5a0f2391117240b6265486.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][干物妹！小埋/Himouto! Umaru-chan][第一季+第二季(R)+OAD][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](干物妹! うまるちゃん)</guid>
-			<link>https://mikanani.me/Home/Episode/be442e54491939bdd116a7566f318dfa5407323c</link>
-			<title>[DBD-Raws][干物妹！小埋/Himouto! Umaru-chan][第一季+第二季(R)+OAD][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](干物妹! うまるちゃん)</title>
-			<description>[DBD-Raws][干物妹！小埋/Himouto! Umaru-chan][第一季+第二季(R)+OAD][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](干物妹! うまるちゃん)[13.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be442e54491939bdd116a7566f318dfa5407323c</link>
-				<contentLength>14925010944</contentLength>
-				<pubDate>2025-06-24T19:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14925010944" url="https://mikanani.me/Download/20250624/be442e54491939bdd116a7566f318dfa5407323c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
