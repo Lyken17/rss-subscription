@@ -557,18 +557,6 @@
 			<enclosure type="application/x-bittorrent" length="385561408" url="https://mikanani.me/Download/20250625/8e419ac030ce929dacd5f9efaef84baf8ed9d0bf.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 12 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d57a35db6bd01765bb18681bb8df93d53508fd72</link>
-			<title>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 12 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 机动战士高达 GQuuuuuuX - 12 [AMZN WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][1.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d57a35db6bd01765bb18681bb8df93d53508fd72</link>
-				<contentLength>1717986944</contentLength>
-				<pubDate>2025-06-25T21:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250625/d57a35db6bd01765bb18681bb8df93d53508fd72.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 12 (ABEMA 1280x720 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/689a94c9f278724811afe1d0d96c76ea9b00636f</link>
 			<title>[黒ネズミたち] LAZARUS 拉撒路 / Lazarus - 12 (ABEMA 1280x720 AVC AAC MP4)</title>
@@ -1191,6 +1179,18 @@
 				<pubDate>2025-06-24T22:25:51.864994</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="569901056" url="https://mikanani.me/Download/20250624/99251157edffdbd4563034b3aaa80245251318bd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[学院部＆不鸽] 正义使者 -我的英雄学院之非法英雄- / Vigilante：Boku no Hero Academia ILLEGALS [11] [1080p] [简日内嵌] [2025年4月番]</guid>
+			<link>https://mikanani.me/Home/Episode/a1a23315844853f4ef7cfa27d9b58b1395e418f0</link>
+			<title>[学院部＆不鸽] 正义使者 -我的英雄学院之非法英雄- / Vigilante：Boku no Hero Academia ILLEGALS [11] [1080p] [简日内嵌] [2025年4月番]</title>
+			<description>[学院部＆不鸽] 正义使者 -我的英雄学院之非法英雄- / Vigilante：Boku no Hero Academia ILLEGALS [11] [1080p] [简日内嵌] [2025年4月番][543.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a1a23315844853f4ef7cfa27d9b58b1395e418f0</link>
+				<contentLength>570005888</contentLength>
+				<pubDate>2025-06-24T22:25:46.015273</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="570005888" url="https://mikanani.me/Download/20250624/a1a23315844853f4ef7cfa27d9b58b1395e418f0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
