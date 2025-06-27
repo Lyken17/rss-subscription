@@ -1192,5 +1192,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20971520" url="https://mikanani.me/Download/20250628/8672f319dca879eafe8ab0ad7834b31197623b82.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 受到猩猩神的庇护的大小姐在王立骑士团受到宠爱 / Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f3e6df8006561cf61e9933485f133f883911e1ee</link>
+			<title>[黒ネズミたち] 受到猩猩神的庇护的大小姐在王立骑士团受到宠爱 / Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 受到猩猩神的庇护的大小姐在王立骑士团受到宠爱 / Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru - 12 (ABEMA 1920x1080 AVC AAC MP4)[711.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3e6df8006561cf61e9933485f133f883911e1ee</link>
+				<contentLength>746271552</contentLength>
+				<pubDate>2025-06-28T01:51:51.53453</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746271552" url="https://mikanani.me/Download/20250628/f3e6df8006561cf61e9933485f133f883911e1ee.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

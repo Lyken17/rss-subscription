@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 受到猩猩神的庇护的大小姐在王立骑士团受到宠爱 / Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f3e6df8006561cf61e9933485f133f883911e1ee</link>
+			<title>[黒ネズミたち] 受到猩猩神的庇护的大小姐在王立骑士团受到宠爱 / Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 受到猩猩神的庇护的大小姐在王立骑士团受到宠爱 / Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru - 12 (ABEMA 1920x1080 AVC AAC MP4)[711.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3e6df8006561cf61e9933485f133f883911e1ee</link>
+				<contentLength>746271552</contentLength>
+				<pubDate>2025-06-28T01:51:51.53453</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746271552" url="https://mikanani.me/Download/20250628/f3e6df8006561cf61e9933485f133f883911e1ee.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/df2c830f4332fd5e71fafb2e58a0740efcd3b839</link>
 			<title>[黒ネズミたち] 末日后酒店 / Apocalypse Hotel - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-26T13:07:49.575987</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="752982400" url="https://mikanani.me/Download/20250626/d6975b0d61404ea7eeb306465f129298fd1e7970.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e200cc12bb42e889c3426707bd6d60adddcbac26</link>
-			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (ABEMA 1920x1080 AVC AAC MP4)[718.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e200cc12bb42e889c3426707bd6d60adddcbac26</link>
-				<contentLength>753087296</contentLength>
-				<pubDate>2025-06-26T12:56:34.462269</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="753087296" url="https://mikanani.me/Download/20250626/e200cc12bb42e889c3426707bd6d60adddcbac26.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
