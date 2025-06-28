@@ -412,5 +412,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20250628/7c10a6627909fdfb0d035947894a03780a38e8da.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End]</guid>
+			<link>https://mikanani.me/Home/Episode/f8fe13d974dd8aa768e807ca00bfd82a96150e69</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 杂旅 / 随兴旅-That's Journey- / Zatsu Tabi: That's Journey - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End][548.47 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8fe13d974dd8aa768e807ca00bfd82a96150e69</link>
+				<contentLength>575112448</contentLength>
+				<pubDate>2025-06-28T20:39:18.543</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="575112448" url="https://mikanani.me/Download/20250628/f8fe13d974dd8aa768e807ca00bfd82a96150e69.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
