@@ -7360,5 +7360,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="11274289152" url="https://mikanani.me/Download/20250628/608407a09f505702818fdaa8ff3037965cf56d0e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 13 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1ed3ee927cc5376c698011b4f1b3624df67d48b4</link>
+			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 13 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 13 (B-Global 1920x1080 HEVC AAC MKV)[518.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ed3ee927cc5376c698011b4f1b3624df67d48b4</link>
+				<contentLength>544001216</contentLength>
+				<pubDate>2025-06-28T18:01:16.101747</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="544001216" url="https://mikanani.me/Download/20250628/1ed3ee927cc5376c698011b4f1b3624df67d48b4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

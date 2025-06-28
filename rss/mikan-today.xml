@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 13 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1ed3ee927cc5376c698011b4f1b3624df67d48b4</link>
+			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 13 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 13 (B-Global 1920x1080 HEVC AAC MKV)[518.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ed3ee927cc5376c698011b4f1b3624df67d48b4</link>
+				<contentLength>544001216</contentLength>
+				<pubDate>2025-06-28T18:01:16.101747</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="544001216" url="https://mikanani.me/Download/20250628/1ed3ee927cc5376c698011b4f1b3624df67d48b4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][心之彼端/To Heart][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](トゥハート/心之彼岸)</guid>
 			<link>https://mikanani.me/Home/Episode/608407a09f505702818fdaa8ff3037965cf56d0e</link>
 			<title>[DBD-Raws][心之彼端/To Heart][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](トゥハート/心之彼岸)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-27T01:42:04.837</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="359294560" url="https://mikanani.me/Download/20250627/f39f06ed215465a81c414eb4205018ff6c822bd2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][11][1080P][MP4][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/5509c44d39c23f3aa0a7de86a07fc6207e4abaea</link>
-			<title>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][11][1080P][MP4][繁中]</title>
-			<description>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][11][1080P][MP4][繁中][342.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5509c44d39c23f3aa0a7de86a07fc6207e4abaea</link>
-				<contentLength>359347008</contentLength>
-				<pubDate>2025-06-27T01:41:59.714</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="359347008" url="https://mikanani.me/Download/20250627/5509c44d39c23f3aa0a7de86a07fc6207e4abaea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
