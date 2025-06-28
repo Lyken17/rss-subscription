@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 测不准的阿波连同学2 / Aharen-san wa Hakarenai Season 2 - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/683422e3f0cf04e599b2eb275a6d4417bd415cd4</link>
+			<title>[黒ネズミたち] 测不准的阿波连同学2 / Aharen-san wa Hakarenai Season 2 - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 测不准的阿波连同学2 / Aharen-san wa Hakarenai Season 2 - 12 (ABEMA 1920x1080 AVC AAC MP4)[716.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/683422e3f0cf04e599b2eb275a6d4417bd415cd4</link>
+				<contentLength>751514432</contentLength>
+				<pubDate>2025-06-28T21:30:49.950855</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="751514432" url="https://mikanani.me/Download/20250628/683422e3f0cf04e599b2eb275a6d4417bd415cd4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 13 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a75b7ec215f2f0c44e3aa601c0990abc729ec7dd</link>
 			<title>[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 13 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-27T03:32:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16043213" url="https://mikanani.me/Download/20250627/cf343675a47d2d707e7e2a0d6adfcd571de092c4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 187 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/74f9656dd44ab03b5aa3f1d307d22791655be108</link>
-			<title>[Skymoon-Raws] Chiikawa - 187 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 187 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][17.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74f9656dd44ab03b5aa3f1d307d22791655be108</link>
-				<contentLength>18454938</contentLength>
-				<pubDate>2025-06-27T03:31:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18454938" url="https://mikanani.me/Download/20250627/74f9656dd44ab03b5aa3f1d307d22791655be108.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
