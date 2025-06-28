@@ -31840,5 +31840,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250629/b41f84abc83290b507d30fa4dfd628a1dd7ee3db.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e8fa96b70e55ab51b6811512858f680399fb5cb5</link>
+			<title>[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 中禅寺老师妖怪讲义录 解谜就交给老师 / Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. - 12 (ABEMA 1920x1080 AVC AAC MP4)[718.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e8fa96b70e55ab51b6811512858f680399fb5cb5</link>
+				<contentLength>753297024</contentLength>
+				<pubDate>2025-06-29T02:30:55.113115</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753297024" url="https://mikanani.me/Download/20250629/e8fa96b70e55ab51b6811512858f680399fb5cb5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
