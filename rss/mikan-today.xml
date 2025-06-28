@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][心之彼端/To Heart][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](トゥハート/心之彼岸)</guid>
+			<link>https://mikanani.me/Home/Episode/608407a09f505702818fdaa8ff3037965cf56d0e</link>
+			<title>[DBD-Raws][心之彼端/To Heart][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](トゥハート/心之彼岸)</title>
+			<description>[DBD-Raws][心之彼端/To Heart][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV](トゥハート/心之彼岸)[10.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/608407a09f505702818fdaa8ff3037965cf56d0e</link>
+				<contentLength>11274289152</contentLength>
+				<pubDate>2025-06-28T16:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11274289152" url="https://mikanani.me/Download/20250628/608407a09f505702818fdaa8ff3037965cf56d0e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 23 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/e89c548073cda1186cb84519eefa8cca0d3faed6</link>
 			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 23 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-27T01:41:59.714</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="359347008" url="https://mikanani.me/Download/20250627/5509c44d39c23f3aa0a7de86a07fc6207e4abaea.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][10][1080P][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/5f8795c199ef8f004e8afd2b98d2a69f227c8c8c</link>
-			<title>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][10][1080P][MP4][简中]</title>
-			<description>[爱恋字幕社][4月新番][岁月流逝饭菜依旧美味][Hibi wa Sugiredo Meshi Umashi][10][1080P][MP4][简中][386.68 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f8795c199ef8f004e8afd2b98d2a69f227c8c8c</link>
-				<contentLength>405463360</contentLength>
-				<pubDate>2025-06-27T01:34:18.78</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="405463360" url="https://mikanani.me/Download/20250627/5f8795c199ef8f004e8afd2b98d2a69f227c8c8c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
