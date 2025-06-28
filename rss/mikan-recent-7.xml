@@ -113,18 +113,6 @@
 			<enclosure type="application/x-bittorrent" length="505099072" url="https://mikanani.me/Download/20250621/1dfd9d1a2f7aea741dba0f36c3cb1d4fa1e165f3.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[TOC] 推理要在晚餐后 [01-12][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/df17de7f7726b659c6877859d3d9f89089c507f9</link>
-			<title>[TOC] 推理要在晚餐后 [01-12][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 推理要在晚餐后 [01-12][1080P][AVC AAC][CHT][MP4][8.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df17de7f7726b659c6877859d3d9f89089c507f9</link>
-				<contentLength>8804682752</contentLength>
-				<pubDate>2025-06-21T11:13:14.614666</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="8804682752" url="https://mikanani.me/Download/20250621/df17de7f7726b659c6877859d3d9f89089c507f9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[诸神字幕组][拉撒路][LAZARUS][11][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/c5d0c7509acd6c18f70979e66887de43173237fe</link>
 			<title>[诸神字幕组][拉撒路][LAZARUS][11][WEBRIP][简日双语字幕][1080P][CHS HEVC MP4]</title>
@@ -7371,6 +7359,18 @@
 				<pubDate>2025-06-28T18:01:16.101747</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="544001216" url="https://mikanani.me/Download/20250628/1ed3ee927cc5376c698011b4f1b3624df67d48b4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">真·武士传 / Shin Samurai-den Yaiba - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c435c3169426c648132a0c2b2cacfb938b5bac17</link>
+			<title>真·武士传 / Shin Samurai-den Yaiba - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
+			<description>真·武士传 / Shin Samurai-den Yaiba - 04 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][471.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c435c3169426c648132a0c2b2cacfb938b5bac17</link>
+				<contentLength>494277760</contentLength>
+				<pubDate>2025-06-28T19:07:30.236</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="494277760" url="https://mikanani.me/Download/20250628/c435c3169426c648132a0c2b2cacfb938b5bac17.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
