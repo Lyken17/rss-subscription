@@ -1636,5 +1636,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250629/a60e3748d9b94dfe76fff75f8941e457c3e25c17.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][95][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/06c9933b391c93afb38e1498b950f67e8b7b540b</link>
+			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][95][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][仙逆][Renegade Immortal][2023][95][AVC][GB][1080P][597.03 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/06c9933b391c93afb38e1498b950f67e8b7b540b</link>
+				<contentLength>626031360</contentLength>
+				<pubDate>2025-06-29T19:08:41.088</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="626031360" url="https://mikanani.me/Download/20250629/06c9933b391c93afb38e1498b950f67e8b7b540b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
