@@ -2008,5 +2008,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="410580416" url="https://mikanani.me/Download/20250629/99ea85d1f13fbb9d5760190b9e6b2ad23dee7cc1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d300ba06ac61e63a9352df70ee9eac04aa8a7abe</link>
+			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][557.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d300ba06ac61e63a9352df70ee9eac04aa8a7abe</link>
+				<contentLength>584266560</contentLength>
+				<pubDate>2025-06-29T19:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="584266560" url="https://mikanani.me/Download/20250629/d300ba06ac61e63a9352df70ee9eac04aa8a7abe.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
