@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/a53512c4a16d37ec8f01671e10449e094351f66f</link>
-			<title>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 夏日口袋 - 07 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][647.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a53512c4a16d37ec8f01671e10449e094351f66f</link>
-				<contentLength>678848128</contentLength>
-				<pubDate>2025-05-30T03:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="678848128" url="https://mikanani.me/Download/20250530/a53512c4a16d37ec8f01671e10449e094351f66f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 夏日口袋 - 08 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/57094ac23889419db0c1470f9142cca83432373d</link>
 			<title>[沸班亚马制作组] 夏日口袋 - 08 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -31527,6 +31515,18 @@
 				<pubDate>2025-06-29T10:17:02.032</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="372905088" url="https://mikanani.me/Download/20250629/d3657101523515f84b93bdb6a66e51d881265fd8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][21][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/19df8446ba7f89c8da41d6071a40e3f4a04265ac</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][21][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][21][简体内嵌](检索:Q娃)[285.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19df8446ba7f89c8da41d6071a40e3f4a04265ac</link>
+				<contentLength>298949024</contentLength>
+				<pubDate>2025-06-29T12:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="298949024" url="https://mikanani.me/Download/20250629/19df8446ba7f89c8da41d6071a40e3f4a04265ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

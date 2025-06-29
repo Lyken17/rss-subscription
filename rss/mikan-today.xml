@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][21][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/19df8446ba7f89c8da41d6071a40e3f4a04265ac</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][21][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][21][简体内嵌](检索:Q娃)[285.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19df8446ba7f89c8da41d6071a40e3f4a04265ac</link>
+				<contentLength>298949024</contentLength>
+				<pubDate>2025-06-29T12:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="298949024" url="https://mikanani.me/Download/20250629/19df8446ba7f89c8da41d6071a40e3f4a04265ac.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[云光字幕组] 小市民系列 Shoushimin Series  [22集全合集][简体双语][1080p]招募翻译</guid>
 			<link>https://mikanani.me/Home/Episode/539eec30757e8d3ec3e8aa86300186929efe1c3b</link>
 			<title>[云光字幕组] 小市民系列 Shoushimin Series  [22集全合集][简体双语][1080p]招募翻译</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-28T11:36:04.144</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="392618304" url="https://mikanani.me/Download/20250628/eb5274a0714299f98334763f6087613a87efdfa5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 鲲吞天下之掌门归来 / The All-devouring Whale: Homecoming - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6219eb2029e3bdb754d5e13478e51c41e9ef3edd</link>
-			<title>[黒ネズミたち] 鲲吞天下之掌门归来 / The All-devouring Whale: Homecoming - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 鲲吞天下之掌门归来 / The All-devouring Whale: Homecoming - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)[529.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6219eb2029e3bdb754d5e13478e51c41e9ef3edd</link>
-				<contentLength>555535552</contentLength>
-				<pubDate>2025-06-28T11:31:44.529576</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="555535552" url="https://mikanani.me/Download/20250628/6219eb2029e3bdb754d5e13478e51c41e9ef3edd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
