@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f3cd4edd2dfd353e55afd1a57a720edc49ac4617</link>
+			<title>[黒ネズミたち] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3cd4edd2dfd353e55afd1a57a720edc49ac4617</link>
+				<contentLength>746900672</contentLength>
+				<pubDate>2025-06-29T22:00:59.343923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20250629/f3cd4edd2dfd353e55afd1a57a720edc49ac4617.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1fd7e34e5eac9f6822f63ca0bd2836c57a261a5f</link>
 			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-28T22:30:50.188572</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="383569088" url="https://mikanani.me/Download/20250628/08d2be0846627ab6948b6ec32f9dfc8aa11d8493.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 九龙大众浪漫 / Kowloon Generic Romance - 13 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/837fb9e99c82505e97ba3ed875b6d048ba0018f1</link>
-			<title>[黒ネズミたち] 九龙大众浪漫 / Kowloon Generic Romance - 13 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 九龙大众浪漫 / Kowloon Generic Romance - 13 (B-Global 1920x1080 HEVC AAC MKV)[312.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/837fb9e99c82505e97ba3ed875b6d048ba0018f1</link>
-				<contentLength>328099424</contentLength>
-				<pubDate>2025-06-28T22:30:49.362436</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="328099424" url="https://mikanani.me/Download/20250628/837fb9e99c82505e97ba3ed875b6d048ba0018f1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
