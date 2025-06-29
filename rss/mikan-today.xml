@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][13][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c478147a9c0ab254e42c703bdac6637c302d7f87</link>
+			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][13][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][13][1080p][简日双语][469.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c478147a9c0ab254e42c703bdac6637c302d7f87</link>
+				<contentLength>492023328</contentLength>
+				<pubDate>2025-06-30T06:47:07.494</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="492023328" url="https://mikanani.me/Download/20250630/c478147a9c0ab254e42c703bdac6637c302d7f87.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 忍者与杀手二人组的日常生活 / 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi [09][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/7c8ce51f88a8408326acbd3a7366b2d26800c751</link>
 			<title>[北宇治字幕组] 忍者与杀手二人组的日常生活 / 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi [09][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T10:17:26.732</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20250629/7a8ad73220ad6a80523d50911481bd5cbcfa59ba.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[云光字幕组] 小市民系列 第二季  Shoushimin Series 2nd Season [22][END][简体双语][1080p]招募翻译</guid>
-			<link>https://mikanani.me/Home/Episode/94776f4bd1f2dfceaf11ce24858c7fdae79c23de</link>
-			<title>[云光字幕组] 小市民系列 第二季  Shoushimin Series 2nd Season [22][END][简体双语][1080p]招募翻译</title>
-			<description>[云光字幕组] 小市民系列 第二季  Shoushimin Series 2nd Season [22][END][简体双语][1080p]招募翻译[238.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/94776f4bd1f2dfceaf11ce24858c7fdae79c23de</link>
-				<contentLength>250242656</contentLength>
-				<pubDate>2025-06-29T10:17:11.576</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="250242656" url="https://mikanani.me/Download/20250629/94776f4bd1f2dfceaf11ce24858c7fdae79c23de.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
