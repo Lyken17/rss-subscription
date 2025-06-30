@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">偶像大师 灰姑娘女孩 U149 - EP01~EP13 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {偶像大师 灰姑娘女孩 U149 | THE iDOLM@STER CINDERELLA GIRLS U149}</guid>
+			<link>https://mikanani.me/Home/Episode/1a36b5fabb31f33a136ae85e332b9ff21b67ba26</link>
+			<title>偶像大师 灰姑娘女孩 U149 - EP01~EP13 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {偶像大师 灰姑娘女孩 U149 | THE iDOLM@STER CINDERELLA GIRLS U149}</title>
+			<description>偶像大师 灰姑娘女孩 U149 - EP01~EP13 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {偶像大师 灰姑娘女孩 U149 | THE iDOLM@STER CINDERELLA GIRLS U149}[19.13 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1a36b5fabb31f33a136ae85e332b9ff21b67ba26</link>
+				<contentLength>20540680192</contentLength>
+				<pubDate>2025-07-01T06:26:52.56</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20540680192" url="https://mikanani.me/Download/20250701/1a36b5fabb31f33a136ae85e332b9ff21b67ba26.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][47][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/90d197472066e8784af776273e6b67d2cf7d67fc</link>
 			<title>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][47][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T22:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="17301504" url="https://mikanani.me/Download/20250629/49a2e7813964756e03f94ecc5a4c8012083d1fde.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 204 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/321b0a07722527f447b27dfc9800605eabc69160</link>
-			<title>[Skymoon-Raws] Chiikawa - 204 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Chiikawa - 204 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][15.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/321b0a07722527f447b27dfc9800605eabc69160</link>
-				<contentLength>16462643</contentLength>
-				<pubDate>2025-06-29T22:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16462643" url="https://mikanani.me/Download/20250629/321b0a07722527f447b27dfc9800605eabc69160.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
