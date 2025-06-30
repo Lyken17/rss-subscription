@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 37 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/51bcfe9ba15c0466642abf2942ad6984408e3eb7</link>
+			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 37 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 37 (ABEMA 1920x1080 AVC AAC MP4)[45.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/51bcfe9ba15c0466642abf2942ad6984408e3eb7</link>
+				<contentLength>47290776</contentLength>
+				<pubDate>2025-07-01T01:35:27.383266</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47290776" url="https://mikanani.me/Download/20250701/51bcfe9ba15c0466642abf2942ad6984408e3eb7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4e341ee2bac6596c593cf63410c82e8f63eb8b10</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T22:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="17196646" url="https://mikanani.me/Download/20250629/5aa6a5f198e9407bb9ee822643ed2ae575c91f7b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f3cd4edd2dfd353e55afd1a57a720edc49ac4617</link>
-			<title>[黒ネズミたち] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f3cd4edd2dfd353e55afd1a57a720edc49ac4617</link>
-				<contentLength>746900672</contentLength>
-				<pubDate>2025-06-29T22:00:59.343923</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20250629/f3cd4edd2dfd353e55afd1a57a720edc49ac4617.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
