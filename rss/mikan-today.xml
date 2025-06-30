@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d</link>
+			<title>[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)[942.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d</link>
+				<contentLength>988282880</contentLength>
+				<pubDate>2025-06-30T12:04:18.832411</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="988282880" url="https://mikanani.me/Download/20250630/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 149 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/646f51382bd155247466f697fcc9d8883a904025</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 149 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T13:53:45.17</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="476074464" url="https://mikanani.me/Download/20250629/b0f30c221d536a23178605a6f4683c1d64f495a5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][37][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/2ddc1898be92ede2317a93d5b3e950576a04fad2</link>
-			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][37][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][37][AVC][GB][1080P][900.96 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2ddc1898be92ede2317a93d5b3e950576a04fad2</link>
-				<contentLength>944725056</contentLength>
-				<pubDate>2025-06-29T13:45:56.412</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="944725056" url="https://mikanani.me/Download/20250629/2ddc1898be92ede2317a93d5b3e950576a04fad2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

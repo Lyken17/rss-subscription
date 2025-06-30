@@ -32044,5 +32044,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="566755328" url="https://mikanani.me/Download/20250630/31b2ed7b14dc6f54c553ea716c129f2ebeddb198.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d</link>
+			<title>[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)[942.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d</link>
+				<contentLength>988282880</contentLength>
+				<pubDate>2025-06-30T12:04:18.832411</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="988282880" url="https://mikanani.me/Download/20250630/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
