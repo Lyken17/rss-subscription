@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][95][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/06c9933b391c93afb38e1498b950f67e8b7b540b</link>
-			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][95][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][仙逆][Renegade Immortal][2023][95][AVC][GB][1080P][597.03 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06c9933b391c93afb38e1498b950f67e8b7b540b</link>
-				<contentLength>626031360</contentLength>
-				<pubDate>2025-06-29T19:08:41.088</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="626031360" url="https://mikanani.me/Download/20250629/06c9933b391c93afb38e1498b950f67e8b7b540b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1fd7e34e5eac9f6822f63ca0bd2836c57a261a5f</link>
 			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1311,6 +1299,42 @@
 				<pubDate>2025-07-01T01:35:27.383266</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="47290776" url="https://mikanani.me/Download/20250701/51bcfe9ba15c0466642abf2942ad6984408e3eb7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][47][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/90d197472066e8784af776273e6b67d2cf7d67fc</link>
+			<title>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][47][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto][47][1080p][简日双语][396.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/90d197472066e8784af776273e6b67d2cf7d67fc</link>
+				<contentLength>415445824</contentLength>
+				<pubDate>2025-07-01T02:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="415445824" url="https://mikanani.me/Download/20250701/90d197472066e8784af776273e6b67d2cf7d67fc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][11][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/d5945af8bae6a83dea289160b3838a8de1c1eabf</link>
+			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][11][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][11][1080p][繁日双语][609.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d5945af8bae6a83dea289160b3838a8de1c1eabf</link>
+				<contentLength>639211904</contentLength>
+				<pubDate>2025-07-01T02:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="639211904" url="https://mikanani.me/Download/20250701/d5945af8bae6a83dea289160b3838a8de1c1eabf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][10][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/7d69553792fb98206aa29ec268bc89a425bb935e</link>
+			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][10][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][10][1080p][繁日双语][490.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d69553792fb98206aa29ec268bc89a425bb935e</link>
+				<contentLength>514221664</contentLength>
+				<pubDate>2025-07-01T02:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="514221664" url="https://mikanani.me/Download/20250701/7d69553792fb98206aa29ec268bc89a425bb935e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
