@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4e341ee2bac6596c593cf63410c82e8f63eb8b10</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][236.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4e341ee2bac6596c593cf63410c82e8f63eb8b10</link>
+				<contentLength>248124544</contentLength>
+				<pubDate>2025-07-01T00:59:48.294</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248124544" url="https://mikanani.me/Download/20250701/4e341ee2bac6596c593cf63410c82e8f63eb8b10.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c1659c7ca6fe887c697dc9da5588d2abab59fdec</link>
 			<title>[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T22:00:59.343923</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20250629/f3cd4edd2dfd353e55afd1a57a720edc49ac4617.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1fd7e34e5eac9f6822f63ca0bd2836c57a261a5f</link>
-			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 13 (ABEMA 1920x1080 AVC AAC MP4)[727.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1fd7e34e5eac9f6822f63ca0bd2836c57a261a5f</link>
-				<contentLength>762943872</contentLength>
-				<pubDate>2025-06-29T20:30:55.971288</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="762943872" url="https://mikanani.me/Download/20250629/1fd7e34e5eac9f6822f63ca0bd2836c57a261a5f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
