@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][12][1080p][简日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/2754800dd9e5a5c67f6a6ff0da3a8321b91cb23b</link>
+			<title>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][12][1080p][简日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][12][1080p][简日双语][招募翻译时轴][524.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2754800dd9e5a5c67f6a6ff0da3a8321b91cb23b</link>
+				<contentLength>549736960</contentLength>
+				<pubDate>2025-07-02T03:22:05.977</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="549736960" url="https://mikanani.me/Download/20250702/2754800dd9e5a5c67f6a6ff0da3a8321b91cb23b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Chiikawa - 230 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/af60f8d42d813b78ce0a2de0171338a3892f8d6b</link>
 			<title>[Skymoon-Raws] Chiikawa - 230 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-30T19:54:40.313</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1170378624" url="https://mikanani.me/Download/20250630/bb1ada40ff36edf12f7ecbc0ef370b71bf85d908.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][4K_HDR][龙珠超：超级英雄/Dragon Ball Super: Super Hero][色彩修正版/Color Corrected][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLACx3][MKV](ドラゴンボール超スーパーヒーロー 色补正版/龙珠超：超级人造人 色彩修正版)</guid>
-			<link>https://mikanani.me/Home/Episode/de35bf7e45162502af4b63a99b717bec838e8323</link>
-			<title>[DBD-Raws][4K_HDR][龙珠超：超级英雄/Dragon Ball Super: Super Hero][色彩修正版/Color Corrected][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLACx3][MKV](ドラゴンボール超スーパーヒーロー 色补正版/龙珠超：超级人造人 色彩修正版)</title>
-			<description>[DBD-Raws][4K_HDR][龙珠超：超级英雄/Dragon Ball Super: Super Hero][色彩修正版/Color Corrected][2160P][UHDBDRip][HEVC-10bit][简繁外挂][FLACx3][MKV](ドラゴンボール超スーパーヒーロー 色补正版/龙珠超：超级人造人 色彩修正版)[10.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/de35bf7e45162502af4b63a99b717bec838e8323</link>
-				<contentLength>11274289152</contentLength>
-				<pubDate>2025-06-30T19:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="11274289152" url="https://mikanani.me/Download/20250630/de35bf7e45162502af4b63a99b717bec838e8323.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
