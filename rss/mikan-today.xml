@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 少女与战车 剧场版 / Girls &amp; Panzer Movie - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/49b06685d9e6b6a77d6f7a23da01f72e95b68033</link>
+			<title>[黒ネズミたち] 少女与战车 剧场版 / Girls &amp; Panzer Movie - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 少女与战车 剧场版 / Girls &amp; Panzer Movie - 电影 (Baha 1920x1080 AVC AAC MP4)[2.7 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49b06685d9e6b6a77d6f7a23da01f72e95b68033</link>
+				<contentLength>2899102976</contentLength>
+				<pubDate>2025-07-01T13:08:10.381106</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2899102976" url="https://mikanani.me/Download/20250701/49b06685d9e6b6a77d6f7a23da01f72e95b68033.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 正义使者-我的英雄学院之非法英雄 / Vigilante -Boku no Hero Academia ILLEGALS- - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/1db10eae3cbe31be604f022dc109b41d55b09edf</link>
 			<title>[Skymoon-Raws] 正义使者-我的英雄学院之非法英雄 / Vigilante -Boku no Hero Academia ILLEGALS- - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T23:21:12.134</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="381409024" url="https://mikanani.me/Download/20250629/08e99446684955897a8a9f30edd4b04b27d22521.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][12][1080P][繁体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/897d16dd0de2f59add0c5744ff3a296481b6579d</link>
-			<title>【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][12][1080P][繁体][MP4]</title>
-			<description>【澄空学园&amp;华盟字幕社&amp;动漫国字幕组】★04月新番[Summer Pockets][12][1080P][繁体][MP4][363.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/897d16dd0de2f59add0c5744ff3a296481b6579d</link>
-				<contentLength>381314656</contentLength>
-				<pubDate>2025-06-29T23:21:02.43</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="381314656" url="https://mikanani.me/Download/20250629/897d16dd0de2f59add0c5744ff3a296481b6579d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
