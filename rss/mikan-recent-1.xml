@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1134 (B-Global 3840x2160 HEVC AAC MKV)[942.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d</link>
-				<contentLength>988282880</contentLength>
-				<pubDate>2025-06-30T12:04:18.832411</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="988282880" url="https://mikanani.me/Download/20250630/b8867bbc3f83c0a48b0971e7ecd0ee867fb8701d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][11][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/1bfa33b72cdc89dce07a604647663062d024e639</link>
 			<title>【喵萌奶茶屋】★04月新番★[末日后酒店 / Apocalypse Hotel][11][1080p][简日双语]</title>
@@ -39,18 +27,6 @@
 				<pubDate>2025-06-30T13:06:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="514326528" url="https://mikanani.me/Download/20250630/5e82a4cfca52c16a28a5f162e3826698a060650b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 勇者赫鲁库 / Helck / ヘルク 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/81dc69a079e14872def6110d692da938014c8c4c</link>
-			<title>[喵萌奶茶屋&amp;VCB-Studio] 勇者赫鲁库 / Helck / ヘルク 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[喵萌奶茶屋&amp;VCB-Studio] 勇者赫鲁库 / Helck / ヘルク 10-bit 1080p HEVC BDRip [Fin][19.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/81dc69a079e14872def6110d692da938014c8c4c</link>
-				<contentLength>21367461888</contentLength>
-				<pubDate>2025-06-30T12:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="21367461888" url="https://mikanani.me/Download/20250630/81dc69a079e14872def6110d692da938014c8c4c.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 38 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
@@ -867,6 +843,18 @@
 				<pubDate>2025-07-01T18:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="58089431040" url="https://mikanani.me/Download/20250701/d9e6af25afe63f3c1bcbb8514257ae165f210ee5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组] 摇滚是淑女的爱好/Rock wa Lady no Tashinami deshite - 13[1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/7954235068756614c443dbbac10a87002db7cdbc</link>
+			<title>[樱桃花字幕组] 摇滚是淑女的爱好/Rock wa Lady no Tashinami deshite - 13[1080p][简日双语]</title>
+			<description>[樱桃花字幕组] 摇滚是淑女的爱好/Rock wa Lady no Tashinami deshite - 13[1080p][简日双语][478.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7954235068756614c443dbbac10a87002db7cdbc</link>
+				<contentLength>501638752</contentLength>
+				<pubDate>2025-07-01T19:59:31.84439</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="501638752" url="https://mikanani.me/Download/20250701/7954235068756614c443dbbac10a87002db7cdbc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
