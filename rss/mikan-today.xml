@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2025.04.02)</guid>
+			<link>https://mikanani.me/Home/Episode/d9e6af25afe63f3c1bcbb8514257ae165f210ee5</link>
+			<title>[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2025.04.02)</title>
+			<description>[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2025.04.02)[54.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d9e6af25afe63f3c1bcbb8514257ae165f210ee5</link>
+				<contentLength>58089431040</contentLength>
+				<pubDate>2025-07-01T18:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="58089431040" url="https://mikanani.me/Download/20250701/d9e6af25afe63f3c1bcbb8514257ae165f210ee5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【百冬练习组】【战队大失格_Sentai Daishikkaku】[24][1080p AVC AAC][繁体]</guid>
 			<link>https://mikanani.me/Home/Episode/dd791494151efd73b2e8a3a4606221ba851557ca</link>
 			<title>【百冬练习组】【战队大失格_Sentai Daishikkaku】[24][1080p AVC AAC][繁体]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-30T02:17:47.804</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="424536960" url="https://mikanani.me/Download/20250630/d89fb0b3f51cc6b5d0c39bbd68b25f3c839d6447.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][4月新番][紫云寺家的兄弟姊妹][Shiunji-ke no Kodomotachi][12][1080p][MP4][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/ccbc17957ed8ee7cd82c47c87798ab1ac067a9de</link>
-			<title>[漫猫字幕组][4月新番][紫云寺家的兄弟姊妹][Shiunji-ke no Kodomotachi][12][1080p][MP4][繁中]</title>
-			<description>[漫猫字幕组][4月新番][紫云寺家的兄弟姊妹][Shiunji-ke no Kodomotachi][12][1080p][MP4][繁中][404.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ccbc17957ed8ee7cd82c47c87798ab1ac067a9de</link>
-				<contentLength>424547456</contentLength>
-				<pubDate>2025-06-30T02:17:43.7</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="424547456" url="https://mikanani.me/Download/20250630/ccbc17957ed8ee7cd82c47c87798ab1ac067a9de.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
