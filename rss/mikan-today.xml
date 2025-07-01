@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b1500aec8843875f0bbaba148095127875d147e4</link>
+			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][15.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1500aec8843875f0bbaba148095127875d147e4</link>
+				<contentLength>16428250112</contentLength>
+				<pubDate>2025-07-01T15:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16428250112" url="https://mikanani.me/Download/20250701/b1500aec8843875f0bbaba148095127875d147e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 少女与战车 最终章 第4话 / Girls &amp; Panzer: Saishuushou Part 4 - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/9642691e4438d514aefb208275495bdc70b2ccca</link>
 			<title>[黒ネズミたち] 少女与战车 最终章 第4话 / Girls &amp; Panzer: Saishuushou Part 4 - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-06-29T23:42:05.068</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="850793600" url="https://mikanani.me/Download/20250629/098b17af21c0900c23536baabe0755728789edf0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 战队大失格 [13-24][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/b605d4f5ba98c55ce066cdd9611ff367e1b67a17</link>
-			<title>[TOC] 战队大失格 [13-24][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 战队大失格 [13-24][1080P][AVC AAC][CHT][MP4][8.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b605d4f5ba98c55ce066cdd9611ff367e1b67a17</link>
-				<contentLength>9126805504</contentLength>
-				<pubDate>2025-06-29T23:26:42.830075</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9126805504" url="https://mikanani.me/Download/20250629/b605d4f5ba98c55ce066cdd9611ff367e1b67a17.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

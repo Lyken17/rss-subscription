@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][13][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/c478147a9c0ab254e42c703bdac6637c302d7f87</link>
-			<title>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][13][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[记忆缝线 / Your Forma][13][1080p][简日双语][469.23 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c478147a9c0ab254e42c703bdac6637c302d7f87</link>
-				<contentLength>492023328</contentLength>
-				<pubDate>2025-06-30T06:47:07.494</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="492023328" url="https://mikanani.me/Download/20250630/c478147a9c0ab254e42c703bdac6637c302d7f87.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/1f3cc1dc83395c1f3df95ed963ed60d1f709dbdb</link>
 			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -795,6 +783,18 @@
 				<pubDate>2025-07-01T13:37:21.89915</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20250701/9642691e4438d514aefb208275495bdc70b2ccca.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b1500aec8843875f0bbaba148095127875d147e4</link>
+			<title>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 / Aparida [01-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][15.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1500aec8843875f0bbaba148095127875d147e4</link>
+				<contentLength>16428250112</contentLength>
+				<pubDate>2025-07-01T15:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16428250112" url="https://mikanani.me/Download/20250701/b1500aec8843875f0bbaba148095127875d147e4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
