@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][12][1080p][繁日双语][招募翻译时轴]</guid>
+			<link>https://mikanani.me/Home/Episode/10e4c6e35464fe3206a9d948da18fa80bb203910</link>
+			<title>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][12][1080p][繁日双语][招募翻译时轴]</title>
+			<description>【喵萌奶茶屋】★04月新番★[时光流逝，饭菜依旧美味 / 岁月流逝饭菜依旧美味 / PA饭 / 日々は过ぎれど饭うまし / Hibi wa Sugiredo Meshi Umashi][12][1080p][繁日双语][招募翻译时轴][524.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10e4c6e35464fe3206a9d948da18fa80bb203910</link>
+				<contentLength>549663552</contentLength>
+				<pubDate>2025-07-03T03:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="549663552" url="https://mikanani.me/Download/20250703/10e4c6e35464fe3206a9d948da18fa80bb203910.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[轻之国度字幕组][mono女孩][01-12][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/dc112fea9f5b919cc03a166006c1eba1e2a805d5</link>
 			<title>[轻之国度字幕组][mono女孩][01-12][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-01T23:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="923480896" url="https://mikanani.me/Download/20250701/34d58323707cf7a4c84ad6461b506cc86624a46a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 47v1 (NetFlix 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/053099012f3c8d80d5a4224b6b13ef1500825905</link>
-			<title>[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 47v1 (NetFlix 1920x1080 AVC AAC MKV)</title>
-			<description>[天月搬运组] 药师少女的独语 (药屋少女的呢喃) / Kusuriya no Hitorigoto - 47v1 (NetFlix 1920x1080 AVC AAC MKV)[880.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/053099012f3c8d80d5a4224b6b13ef1500825905</link>
-				<contentLength>923480896</contentLength>
-				<pubDate>2025-07-01T23:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="923480896" url="https://mikanani.me/Download/20250701/053099012f3c8d80d5a4224b6b13ef1500825905.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
