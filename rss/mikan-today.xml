@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][mono女孩][01-12][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/dc112fea9f5b919cc03a166006c1eba1e2a805d5</link>
+			<title>[轻之国度字幕组][mono女孩][01-12][1080P][MP4]</title>
+			<description>[轻之国度字幕组][mono女孩][01-12][1080P][MP4][3.47 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dc112fea9f5b919cc03a166006c1eba1e2a805d5</link>
+				<contentLength>3725884160</contentLength>
+				<pubDate>2025-07-03T02:35:20.601</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3725884160" url="https://mikanani.me/Download/20250703/dc112fea9f5b919cc03a166006c1eba1e2a805d5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][mono女孩][12][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/f075f38c3e047c4992cd6f6b7f45c07fa233b9c5</link>
+			<title>[轻之国度字幕组][mono女孩][12][1080P][MP4]</title>
+			<description>[轻之国度字幕组][mono女孩][12][1080P][MP4][294.28 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f075f38c3e047c4992cd6f6b7f45c07fa233b9c5</link>
+				<contentLength>308574944</contentLength>
+				<pubDate>2025-07-03T02:31:27.824</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="308574944" url="https://mikanani.me/Download/20250703/f075f38c3e047c4992cd6f6b7f45c07fa233b9c5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/89e4e2107482698b5d1d4b18cbeadd9727ffd17a</link>
 			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-07-01T23:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="923480896" url="https://mikanani.me/Download/20250701/053099012f3c8d80d5a4224b6b13ef1500825905.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/95f5024666ecac5d7bb80a88407f0305ed131b3f</link>
-			<title>[黒ネズミたち] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 01 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/95f5024666ecac5d7bb80a88407f0305ed131b3f</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-07-01T23:15:05.970543</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250701/95f5024666ecac5d7bb80a88407f0305ed131b3f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SUK字幕组][NHK][幕后探访：知识迷宫的后方 须贺川特摄档案中心][中文字幕][HDTVrip][HEVC][10bit][1080P][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/c222cdef0fc130b98e0936ed3f894c3af92dfb19</link>
-			<title>[SUK字幕组][NHK][幕后探访：知识迷宫的后方 须贺川特摄档案中心][中文字幕][HDTVrip][HEVC][10bit][1080P][MKV]</title>
-			<description>[SUK字幕组][NHK][幕后探访：知识迷宫的后方 须贺川特摄档案中心][中文字幕][HDTVrip][HEVC][10bit][1080P][MKV][2.69 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c222cdef0fc130b98e0936ed3f894c3af92dfb19</link>
-				<contentLength>2888365568</contentLength>
-				<pubDate>2025-07-01T23:02:59.909</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2888365568" url="https://mikanani.me/Download/20250701/c222cdef0fc130b98e0936ed3f894c3af92dfb19.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
