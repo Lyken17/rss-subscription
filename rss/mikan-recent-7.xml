@@ -6244,5 +6244,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="447406400" url="https://mikanani.me/Download/20250702/2d1aed83845b158a71c00ea95bd80dc01f233cc4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)</guid>
+			<link>https://mikanani.me/Home/Episode/ecf5a7c53e9b588ec09edf0129993699eecd2022</link>
+			<title>[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)</title>
+			<description>[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)[10.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ecf5a7c53e9b588ec09edf0129993699eecd2022</link>
+				<contentLength>11596411904</contentLength>
+				<pubDate>2025-07-02T17:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11596411904" url="https://mikanani.me/Download/20250702/ecf5a7c53e9b588ec09edf0129993699eecd2022.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

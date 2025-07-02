@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)</guid>
+			<link>https://mikanani.me/Home/Episode/ecf5a7c53e9b588ec09edf0129993699eecd2022</link>
+			<title>[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)</title>
+			<description>[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)[10.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ecf5a7c53e9b588ec09edf0129993699eecd2022</link>
+				<contentLength>11596411904</contentLength>
+				<pubDate>2025-07-02T17:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11596411904" url="https://mikanani.me/Download/20250702/ecf5a7c53e9b588ec09edf0129993699eecd2022.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/4f5ad15ad88cfffa423693e779e7171012371b7e</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 末日后酒店 / Apocalypse Hotel - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-30T23:12:16.233</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="274821280" url="https://mikanani.me/Download/20250630/193b92de33612e07a8cc1be0a568f9859736e45e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[阿波连摸不清 第二季 / 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2][12][1080p][简体][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/086e72df6257dc6015f92a0c28c5019ddff79f6b</link>
-			<title>【喵萌奶茶屋】★04月新番★[阿波连摸不清 第二季 / 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2][12][1080p][简体][招募翻译]</title>
-			<description>【喵萌奶茶屋】★04月新番★[阿波连摸不清 第二季 / 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2][12][1080p][简体][招募翻译][262.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/086e72df6257dc6015f92a0c28c5019ddff79f6b</link>
-				<contentLength>275072928</contentLength>
-				<pubDate>2025-06-30T23:12:15.158</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="275072928" url="https://mikanani.me/Download/20250630/086e72df6257dc6015f92a0c28c5019ddff79f6b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
