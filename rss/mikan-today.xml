@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][潜行吧！奈亚子/Haiyore! Nyaruko-san][第一季+W+F+OVA全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](这いよれ! ニャル子さん)</guid>
+			<link>https://mikanani.me/Home/Episode/1340fad7a59834ced0068a2efe07e9abbf23eb45</link>
+			<title>[DBD-Raws][潜行吧！奈亚子/Haiyore! Nyaruko-san][第一季+W+F+OVA全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](这いよれ! ニャル子さん)</title>
+			<description>[DBD-Raws][潜行吧！奈亚子/Haiyore! Nyaruko-san][第一季+W+F+OVA全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](这いよれ! ニャル子さん)[20.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1340fad7a59834ced0068a2efe07e9abbf23eb45</link>
+				<contentLength>22333829120</contentLength>
+				<pubDate>2025-07-02T19:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22333829120" url="https://mikanani.me/Download/20250702/1340fad7a59834ced0068a2efe07e9abbf23eb45.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)</guid>
 			<link>https://mikanani.me/Home/Episode/ecf5a7c53e9b588ec09edf0129993699eecd2022</link>
 			<title>[DBD-Raws][偶像事变/Idol Jihen][01-12TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](アイドル事変)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-06-30T23:15:46.144307</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748892992" url="https://mikanani.me/Download/20250630/f73855994d8ffaceba4b464fa89d9c32bd6f7959.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[阿波连摸不清 第二季 / 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2][12][1080p][繁体][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/193b92de33612e07a8cc1be0a568f9859736e45e</link>
-			<title>【喵萌奶茶屋】★04月新番★[阿波连摸不清 第二季 / 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2][12][1080p][繁体][招募翻译]</title>
-			<description>【喵萌奶茶屋】★04月新番★[阿波连摸不清 第二季 / 测不准的阿波连同学 第二季 / Aharen-san wa Hakarenai S2][12][1080p][繁体][招募翻译][262.09 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/193b92de33612e07a8cc1be0a568f9859736e45e</link>
-				<contentLength>274821280</contentLength>
-				<pubDate>2025-06-30T23:12:16.233</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="274821280" url="https://mikanani.me/Download/20250630/193b92de33612e07a8cc1be0a568f9859736e45e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
