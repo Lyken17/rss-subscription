@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TOC] 拜托请穿上，鹰峰同学 [01-12][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/331b79efdf0b164140cd69bdc0ed603d9cd95983</link>
+			<title>[TOC] 拜托请穿上，鹰峰同学 [01-12][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] 拜托请穿上，鹰峰同学 [01-12][1080P][AVC AAC][CHT][MP4][8.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/331b79efdf0b164140cd69bdc0ed603d9cd95983</link>
+				<contentLength>9019430912</contentLength>
+				<pubDate>2025-07-04T06:25:28.252608</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20250704/331b79efdf0b164140cd69bdc0ed603d9cd95983.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/036c2bac82c721ffaed4c7d817d6e3220b6f78df</link>
 			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-07-02T20:08:21.100564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="474480640" url="https://mikanani.me/Download/20250702/80e4498815a1037acc413d2545438720defc0236.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 偶像大师 灰姑娘女孩 U149 / The IDOLM@STER Cinderella Girls: U149 - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0b35de592d387893222f6324e85e7c76d97a18c2</link>
-			<title>[黒ネズミたち] 偶像大师 灰姑娘女孩 U149 / The IDOLM@STER Cinderella Girls: U149 - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 偶像大师 灰姑娘女孩 U149 / The IDOLM@STER Cinderella Girls: U149 - 01 (Baha 1920x1080 AVC AAC MP4)[437.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0b35de592d387893222f6324e85e7c76d97a18c2</link>
-				<contentLength>458647136</contentLength>
-				<pubDate>2025-07-02T20:04:02.934371</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458647136" url="https://mikanani.me/Download/20250702/0b35de592d387893222f6324e85e7c76d97a18c2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
