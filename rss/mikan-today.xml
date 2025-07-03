@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/d47c79a1103c9826f5714bb1a20fdccef14d10b1</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d47c79a1103c9826f5714bb1a20fdccef14d10b1</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2025-07-03T18:36:03.832</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250703/d47c79a1103c9826f5714bb1a20fdccef14d10b1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][最弱技能《果实大师》～关于能无限食用技能果实（吃了就会死）这件事～/Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](外れスキル《木の実マスター》~スキルの実 (食べたら死ぬ) を无限に食べられるようになった件について~)</guid>
 			<link>https://mikanani.me/Home/Episode/df26f56aa406ea5e4294dd52d9d26d63edf48eda</link>
 			<title>[DBD-Raws][最弱技能《果实大师》～关于能无限食用技能果实（吃了就会死）这件事～/Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](外れスキル《木の実マスター》~スキルの実 (食べたら死ぬ) を无限に食べられるようになった件について~)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-02T01:00:50.211288</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725719424" url="https://mikanani.me/Download/20250702/631fe6b1eb53f341b79a9af30ae50f68138e57be.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [13][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/2f9c9dd20f2e1b61a6890e63f03bb6ca066010e4</link>
-			<title>[桜都字幕组] 魔女守护者 / Witch Watch [13][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 魔女守护者 / Witch Watch [13][1080p][繁体内嵌][552.86 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f9c9dd20f2e1b61a6890e63f03bb6ca066010e4</link>
-				<contentLength>579715712</contentLength>
-				<pubDate>2025-07-02T00:47:08.009</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="579715712" url="https://mikanani.me/Download/20250702/2f9c9dd20f2e1b61a6890e63f03bb6ca066010e4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
