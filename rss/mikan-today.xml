@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/417ea7f61b8791e7bc771444bb46b584dbcbdf29</link>
+			<title>[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)[713.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/417ea7f61b8791e7bc771444bb46b584dbcbdf29</link>
+				<contentLength>748473536</contentLength>
+				<pubDate>2025-07-03T20:30:52.68267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748473536" url="https://mikanani.me/Download/20250703/417ea7f61b8791e7bc771444bb46b584dbcbdf29.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/d47c79a1103c9826f5714bb1a20fdccef14d10b1</link>
 			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-02T01:16:37.391052</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="378011648" url="https://mikanani.me/Download/20250702/82b8d7b9b136868904dc765f72d89998c76a1799.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/631fe6b1eb53f341b79a9af30ae50f68138e57be</link>
-			<title>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 离开 A 级队伍的我，和从前的弟子往迷宫深处迈进 / A-Rank Party wo Ridatsu shita Ore wa - 24 (ABEMA 1920x1080 AVC AAC MP4)[692.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/631fe6b1eb53f341b79a9af30ae50f68138e57be</link>
-				<contentLength>725719424</contentLength>
-				<pubDate>2025-07-02T01:00:50.211288</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="725719424" url="https://mikanani.me/Download/20250702/631fe6b1eb53f341b79a9af30ae50f68138e57be.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

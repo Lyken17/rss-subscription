@@ -856,5 +856,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250703/d47c79a1103c9826f5714bb1a20fdccef14d10b1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/417ea7f61b8791e7bc771444bb46b584dbcbdf29</link>
+			<title>[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)[713.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/417ea7f61b8791e7bc771444bb46b584dbcbdf29</link>
+				<contentLength>748473536</contentLength>
+				<pubDate>2025-07-03T20:30:52.68267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748473536" url="https://mikanani.me/Download/20250703/417ea7f61b8791e7bc771444bb46b584dbcbdf29.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
