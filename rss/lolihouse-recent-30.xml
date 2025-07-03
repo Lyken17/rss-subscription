@@ -1840,5 +1840,20 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="679183616" url="https://mikanani.me/Download/20250703/b6c929fb36c45a165846a690c8f01194150b7046.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
+- 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3df924cb611161611c01fdd35aa542b28a49db70</link>
+			<title>[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
+- 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
+- 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.66 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3df924cb611161611c01fdd35aa542b28a49db70</link>
+				<contentLength>1782411392</contentLength>
+				<pubDate>2025-07-03T22:10:56.629</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1782411392" url="https://mikanani.me/Download/20250703/3df924cb611161611c01fdd35aa542b28a49db70.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
