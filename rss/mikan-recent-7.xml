@@ -6256,5 +6256,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="17501990912" url="https://mikanani.me/Download/20250703/415d00030dd552ec22b21adc94edbe95b5b3ee77.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 11 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/483f43677db6cd2a07eadb8af84952752955c303</link>
+			<title>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 11 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 11 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文][579.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/483f43677db6cd2a07eadb8af84952752955c303</link>
+				<contentLength>607324736</contentLength>
+				<pubDate>2025-07-03T16:02:33.713</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="607324736" url="https://mikanani.me/Download/20250703/483f43677db6cd2a07eadb8af84952752955c303.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

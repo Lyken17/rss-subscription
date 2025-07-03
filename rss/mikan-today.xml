@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 11 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/483f43677db6cd2a07eadb8af84952752955c303</link>
+			<title>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 11 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>鲲吞天下之掌门归来 / The All-devouring Whale:Homecoming - 11 [1080P][Bilibili][WEB-DL][AVC AAC][简体中文][579.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/483f43677db6cd2a07eadb8af84952752955c303</link>
+				<contentLength>607324736</contentLength>
+				<pubDate>2025-07-03T16:02:33.713</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="607324736" url="https://mikanani.me/Download/20250703/483f43677db6cd2a07eadb8af84952752955c303.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 12 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b6c929fb36c45a165846a690c8f01194150b7046</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 时光流逝，饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 12 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-02T00:46:21.517</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="579935936" url="https://mikanani.me/Download/20250702/8b562b5f054f781ccfa8b72a920bced9152b3344.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [13][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/5c223be3c07821ba8a2975806989da5160a9ca73</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [13][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [13][1080p][简繁内封][464.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5c223be3c07821ba8a2975806989da5160a9ca73</link>
-				<contentLength>487462016</contentLength>
-				<pubDate>2025-07-02T00:45:43.201</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="487462016" url="https://mikanani.me/Download/20250702/5c223be3c07821ba8a2975806989da5160a9ca73.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
