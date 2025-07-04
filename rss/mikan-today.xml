@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8af9692e2a4eff03775be2a3f2dd295068d58ff0</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 13 (ABEMA 1920x1080 AVC AAC MP4)[684.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8af9692e2a4eff03775be2a3f2dd295068d58ff0</link>
+				<contentLength>717645440</contentLength>
+				<pubDate>2025-07-04T16:00:45.150198</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="717645440" url="https://mikanani.me/Download/20250704/8af9692e2a4eff03775be2a3f2dd295068d58ff0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[1080P][DBD-Raws][奥林匹斯星传/Olympus Guardian][01-39TV全集][Remux][AC3][MKV](올림포스 가디언)</guid>
 			<link>https://mikanani.me/Home/Episode/a8d879a053989aeb8dc18be878094e52ee02eeff</link>
 			<title>[1080P][DBD-Raws][奥林匹斯星传/Olympus Guardian][01-39TV全集][Remux][AC3][MKV](올림포스 가디언)</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-07-02T23:07:38.037577</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="484022688" url="https://mikanani.me/Download/20250702/a901e3f111454b17a063de8b56b052dd65a55c15.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  偶像大师 灰姑娘女孩 U149 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/c0c1065d5664b714ab8845126413a679bd324747</link>
-			<title>[ANi]  偶像大师 灰姑娘女孩 U149 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  偶像大师 灰姑娘女孩 U149 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][464.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c0c1065d5664b714ab8845126413a679bd324747</link>
-				<contentLength>487378112</contentLength>
-				<pubDate>2025-07-02T23:07:08.528591</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="487378112" url="https://mikanani.me/Download/20250702/c0c1065d5664b714ab8845126413a679bd324747.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
