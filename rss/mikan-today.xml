@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 37 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e</link>
+			<title>[黒ネズミたち] Nui Story 2 - 37 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 37 (ABEMA 1920x1080 AVC AAC MP4)[58.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e</link>
+				<contentLength>61236840</contentLength>
+				<pubDate>2025-07-05T03:00:27.716056</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="61236840" url="https://mikanani.me/Download/20250705/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d13a233ba524fe8d307cc907e53f32883bd2084c</link>
 			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-07-03T21:36:50.448</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="443065312" url="https://mikanani.me/Download/20250703/40e4fdaecc1d1eb4e72d8841461aafae5ce2a754.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][222][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/5ee697fa9a014198aaf62a729cc14bf53f935acb</link>
-			<title>[GM-Team][国漫][完美世界][Perfect World][2021][222][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][完美世界][Perfect World][2021][222][AVC][GB][1080P][525.84 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5ee697fa9a014198aaf62a729cc14bf53f935acb</link>
-				<contentLength>551383232</contentLength>
-				<pubDate>2025-07-03T21:36:43.948</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="551383232" url="https://mikanani.me/Download/20250703/5ee697fa9a014198aaf62a729cc14bf53f935acb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
-			<link>https://mikanani.me/Home/Episode/d47c79a1103c9826f5714bb1a20fdccef14d10b1</link>
-			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
-			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 24 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d47c79a1103c9826f5714bb1a20fdccef14d10b1</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-07-03T18:36:03.832</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250703/d47c79a1103c9826f5714bb1a20fdccef14d10b1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/417ea7f61b8791e7bc771444bb46b584dbcbdf29</link>
 			<title>[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1338,6 +1326,18 @@
 				<pubDate>2025-07-05T01:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="910583424" url="https://mikanani.me/Download/20250705/d99bd0ec21d0c253ef79d2a86141f07d903bea02.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 37 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e</link>
+			<title>[黒ネズミたち] Nui Story 2 - 37 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 37 (ABEMA 1920x1080 AVC AAC MP4)[58.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e</link>
+				<contentLength>61236840</contentLength>
+				<pubDate>2025-07-05T03:00:27.716056</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="61236840" url="https://mikanani.me/Download/20250705/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
