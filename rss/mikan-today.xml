@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][天才麻将少女/Saki][01-25TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](咲-Saki-)</guid>
+			<link>https://mikanani.me/Home/Episode/5cdb110204d96e9d8b1533a57f0fba1543fac3b1</link>
+			<title>[DBD-Raws][天才麻将少女/Saki][01-25TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](咲-Saki-)</title>
+			<description>[DBD-Raws][天才麻将少女/Saki][01-25TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](咲-Saki-)[22.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5cdb110204d96e9d8b1533a57f0fba1543fac3b1</link>
+				<contentLength>23622320128</contentLength>
+				<pubDate>2025-07-04T19:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23622320128" url="https://mikanani.me/Download/20250704/5cdb110204d96e9d8b1533a57f0fba1543fac3b1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 25 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/0741afeba6b70858e31b5877467d7ab45e508757</link>
 			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 25 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-07-02T23:09:39.970526</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="431803584" url="https://mikanani.me/Download/20250702/43f58f7e8d15563d5537e3c057b6e7542fb69403.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  偶像大师 灰姑娘女孩 U149 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/b4d472a090e29d2c7f5ac97cb9a5a48211f5bd06</link>
-			<title>[ANi]  偶像大师 灰姑娘女孩 U149 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  偶像大师 灰姑娘女孩 U149 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][494.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b4d472a090e29d2c7f5ac97cb9a5a48211f5bd06</link>
-				<contentLength>518311104</contentLength>
-				<pubDate>2025-07-02T23:09:08.839627</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="518311104" url="https://mikanani.me/Download/20250702/b4d472a090e29d2c7f5ac97cb9a5a48211f5bd06.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
