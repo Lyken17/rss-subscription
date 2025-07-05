@@ -40,5 +40,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="428689312" url="https://mikanani.me/Download/20250705/6d529cc3b44e7da42a41eae404a9dc2c5576a235.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 13 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b158cb1c611cb657c1c7b5defc5fc407dee2a9a0</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 13 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 13 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][620.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b158cb1c611cb657c1c7b5defc5fc407dee2a9a0</link>
+				<contentLength>650914048</contentLength>
+				<pubDate>2025-07-06T03:14:47.966</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="650914048" url="https://mikanani.me/Download/20250706/b158cb1c611cb657c1c7b5defc5fc407dee2a9a0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
