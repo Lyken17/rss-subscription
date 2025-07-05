@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【幻樱字幕组】【7月新番】【更衣人偶坠入爱河/恋上换装娃娃 Sono Bisque Doll wa Koi wo Suru】【13】【BIG5_MP4】【1920X1080】</guid>
+			<link>https://mikanani.me/Home/Episode/243238c987aea162e59002754b14b73bcbe3340a</link>
+			<title>【幻樱字幕组】【7月新番】【更衣人偶坠入爱河/恋上换装娃娃 Sono Bisque Doll wa Koi wo Suru】【13】【BIG5_MP4】【1920X1080】</title>
+			<description>【幻樱字幕组】【7月新番】【更衣人偶坠入爱河/恋上换装娃娃 Sono Bisque Doll wa Koi wo Suru】【13】【BIG5_MP4】【1920X1080】[331.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/243238c987aea162e59002754b14b73bcbe3340a</link>
+				<contentLength>347865088</contentLength>
+				<pubDate>2025-07-06T04:24:29.019</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347865088" url="https://mikanani.me/Download/20250706/243238c987aea162e59002754b14b73bcbe3340a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【7月新番】【更衣人偶坠入爱河/恋上换装娃娃 Sono Bisque Doll wa Koi wo Suru】【13】【GB_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/5ad5db0d7a4825da92bbd99280bb385b597d6ee9</link>
 			<title>【幻樱字幕组】【7月新番】【更衣人偶坠入爱河/恋上换装娃娃 Sono Bisque Doll wa Koi wo Suru】【13】【GB_MP4】【1920X1080】</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-05T03:00:27.716056</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="61236840" url="https://mikanani.me/Download/20250705/f0b2b1d6644b57c94c3b1412a2789ed9ad1a4a3e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d13a233ba524fe8d307cc907e53f32883bd2084c</link>
-			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 01 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d13a233ba524fe8d307cc907e53f32883bd2084c</link>
-				<contentLength>746795840</contentLength>
-				<pubDate>2025-07-05T02:15:57.111986</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20250705/d13a233ba524fe8d307cc907e53f32883bd2084c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
