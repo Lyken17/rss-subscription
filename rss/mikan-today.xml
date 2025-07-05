@@ -5,6 +5,54 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1c10df0926ad5df5383d6d71580a28dd3fc17852</link>
+			<title>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][481.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1c10df0926ad5df5383d6d71580a28dd3fc17852</link>
+				<contentLength>504805472</contentLength>
+				<pubDate>2025-07-05T21:13:26.004</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="504805472" url="https://mikanani.me/Download/20250705/1c10df0926ad5df5383d6d71580a28dd3fc17852.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][至高指令/Big Order][01-10TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ビッグオーダー)</guid>
+			<link>https://mikanani.me/Home/Episode/7a54955c0f3b377fa72ed504e71466bdf16db247</link>
+			<title>[DBD-Raws][至高指令/Big Order][01-10TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ビッグオーダー)</title>
+			<description>[DBD-Raws][至高指令/Big Order][01-10TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ビッグオーダー)[13.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a54955c0f3b377fa72ed504e71466bdf16db247</link>
+				<contentLength>14925010944</contentLength>
+				<pubDate>2025-07-05T21:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14925010944" url="https://mikanani.me/Download/20250705/7a54955c0f3b377fa72ed504e71466bdf16db247.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi] Anne Shirley /  安妮・雪莉 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/36696af18156fa71850d86164c7ce1d976c046da</link>
+			<title>[ANi] Anne Shirley /  安妮・雪莉 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Anne Shirley /  安妮・雪莉 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][379.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/36696af18156fa71850d86164c7ce1d976c046da</link>
+				<contentLength>398249152</contentLength>
+				<pubDate>2025-07-05T20:55:55.508276</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="398249152" url="https://mikanani.me/Download/20250705/36696af18156fa71850d86164c7ce1d976c046da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 14 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/b00a9eb2cbf6bc12410f6662e1733c3f85f474e4</link>
+			<title>[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 14 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 14 (Baha 1920x1080 AVC AAC MP4)[379.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b00a9eb2cbf6bc12410f6662e1733c3f85f474e4</link>
+				<contentLength>398039456</contentLength>
+				<pubDate>2025-07-05T20:55:46.594348</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="398039456" url="https://mikanani.me/Download/20250705/b00a9eb2cbf6bc12410f6662e1733c3f85f474e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 死灵之子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/890c1cc231b85815fb1008a9b0ba3ab96f1a5eaa</link>
 			<title>[黒ネズミたち] 死灵之子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1155,54 +1203,6 @@
 				<pubDate>2025-07-04T10:53:55.362</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="573623488" url="https://mikanani.me/Download/20250704/f9210f69d31b027f4842b89e324df7205d1298e7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][32][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/8850ce772015ec77ade6b60461ea3e3a6f7dc93b</link>
-			<title>[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][32][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][32][GB][4K HEVC 10Bit][1.09 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8850ce772015ec77ade6b60461ea3e3a6f7dc93b</link>
-				<contentLength>1170378624</contentLength>
-				<pubDate>2025-07-04T10:16:54.532</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1170378624" url="https://mikanani.me/Download/20250704/8850ce772015ec77ade6b60461ea3e3a6f7dc93b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 拜托请穿上，鹰峰同学 [01-12][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/331b79efdf0b164140cd69bdc0ed603d9cd95983</link>
-			<title>[TOC] 拜托请穿上，鹰峰同学 [01-12][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 拜托请穿上，鹰峰同学 [01-12][1080P][AVC AAC][CHT][MP4][8.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/331b79efdf0b164140cd69bdc0ed603d9cd95983</link>
-				<contentLength>9019430912</contentLength>
-				<pubDate>2025-07-04T06:25:28.252608</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20250704/331b79efdf0b164140cd69bdc0ed603d9cd95983.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/036c2bac82c721ffaed4c7d817d6e3220b6f78df</link>
-			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 01 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/036c2bac82c721ffaed4c7d817d6e3220b6f78df</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-07-04T03:02:26.112798</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250704/036c2bac82c721ffaed4c7d817d6e3220b6f78df.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] The Water Magician /  水属性的魔法师 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/0a932cd91515f98f1c044653e5f600f80742f9d6</link>
-			<title>[ANi] The Water Magician /  水属性的魔法师 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] The Water Magician /  水属性的魔法师 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][347.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0a932cd91515f98f1c044653e5f600f80742f9d6</link>
-				<contentLength>364485024</contentLength>
-				<pubDate>2025-07-04T02:30:57.323572</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="364485024" url="https://mikanani.me/Download/20250704/0a932cd91515f98f1c044653e5f600f80742f9d6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

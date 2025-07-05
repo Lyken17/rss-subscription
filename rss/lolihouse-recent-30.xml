@@ -1915,5 +1915,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="474763744" url="https://mikanani.me/Download/20250705/66982e278b4cf462f60ce9649bd774fdd9e3874f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1c10df0926ad5df5383d6d71580a28dd3fc17852</link>
+			<title>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][481.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1c10df0926ad5df5383d6d71580a28dd3fc17852</link>
+				<contentLength>504805472</contentLength>
+				<pubDate>2025-07-05T21:13:26.004</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="504805472" url="https://mikanani.me/Download/20250705/1c10df0926ad5df5383d6d71580a28dd3fc17852.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
