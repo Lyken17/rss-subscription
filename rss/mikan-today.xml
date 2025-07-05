@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 01 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/639811c99392eacbc236339306d9378787c7f413</link>
+			<title>[沸班亚马制作组] 胆大党 第二季 - 01 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 胆大党 第二季 - 01 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/639811c99392eacbc236339306d9378787c7f413</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2025-07-05T18:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20250705/639811c99392eacbc236339306d9378787c7f413.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 学校没教的重要事情 / Gakkou de wa Oshiete Kurenai Taisetsu na Koto - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/20be9d0884e6aed6c6b6a97edd912c2047d6f7dc</link>
 			<title>[黒ネズミたち] 学校没教的重要事情 / Gakkou de wa Oshiete Kurenai Taisetsu na Koto - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-04T01:32:33.955505</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250704/40cf1757d8fbc4f46d46e2bbe4cdb3e9e4c14379.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 胆大党 第二季 / Dandadan 2nd Season - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f6617d1a4bf47ac5402889bc42cd0231bf97e367</link>
-			<title>[黒ネズミたち] 胆大党 第二季 / Dandadan 2nd Season - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 胆大党 第二季 / Dandadan 2nd Season - 13 (ABEMA 1920x1080 AVC AAC MP4)[725.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f6617d1a4bf47ac5402889bc42cd0231bf97e367</link>
-				<contentLength>760846720</contentLength>
-				<pubDate>2025-07-04T01:29:53.435861</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="760846720" url="https://mikanani.me/Download/20250704/f6617d1a4bf47ac5402889bc42cd0231bf97e367.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
