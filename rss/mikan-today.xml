@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 01 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/99fc6d241ebc78b856bc557569f0f1ccdf3c3e93</link>
+			<title>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 01 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 01 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)[667.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99fc6d241ebc78b856bc557569f0f1ccdf3c3e93</link>
+				<contentLength>699588928</contentLength>
+				<pubDate>2025-07-06T15:31:04.411</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="699588928" url="https://mikanani.me/Download/20250706/99fc6d241ebc78b856bc557569f0f1ccdf3c3e93.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 01 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：薰香花朵凛然绽放）</guid>
 			<link>https://mikanani.me/Home/Episode/3d3142f60c3df74c36a63ca24d3c0af5d7710028</link>
 			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 01 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：薰香花朵凛然绽放）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-05T15:22:04.836093</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250705/8dd8c9e1a3afe93724dd7de1f593cff5278f5163.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][章鱼噼的原罪][Takopii no Genzai][02][WebRip][1080P][AVC 8bit][简日双语]（检索用：章鱼哔的原罪）</guid>
-			<link>https://mikanani.me/Home/Episode/543e36dd018b2b370a308c9ba1b51ff0bb8b27ad</link>
-			<title>[SweetSub][章鱼噼的原罪][Takopii no Genzai][02][WebRip][1080P][AVC 8bit][简日双语]（检索用：章鱼哔的原罪）</title>
-			<description>[SweetSub][章鱼噼的原罪][Takopii no Genzai][02][WebRip][1080P][AVC 8bit][简日双语]（检索用：章鱼哔的原罪）[267.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/543e36dd018b2b370a308c9ba1b51ff0bb8b27ad</link>
-				<contentLength>280074656</contentLength>
-				<pubDate>2025-07-05T14:12:29.635</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="280074656" url="https://mikanani.me/Download/20250705/543e36dd018b2b370a308c9ba1b51ff0bb8b27ad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
