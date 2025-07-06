@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 07 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/d7526851e26c6a824291d6a77f0643ebe0691e33</link>
-			<title>赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 07 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语]</title>
-			<description>赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 07 [1080P][Bilibili][WEB-DL][AAC AVC][简日双语][338.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7526851e26c6a824291d6a77f0643ebe0691e33</link>
-				<contentLength>355068800</contentLength>
-				<pubDate>2025-06-06T20:27:00.714</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="355068800" url="https://mikanani.me/Download/20250606/d7526851e26c6a824291d6a77f0643ebe0691e33.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 44 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4aaf74a2e465433c428fdfd0b0ad946a71d23016</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 44 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -31206,6 +31194,30 @@
 				<pubDate>2025-07-07T03:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="636695360" url="https://mikanani.me/Download/20250707/30b76c598b20085509293d40b8cfbd6e51405436.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01-13][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/11542e9842650f091fecae01aacfd93b3872a55d</link>
+			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01-13][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01-13][1080p][繁日双语][6.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/11542e9842650f091fecae01aacfd93b3872a55d</link>
+				<contentLength>6871947776</contentLength>
+				<pubDate>2025-07-07T04:21:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6871947776" url="https://mikanani.me/Download/20250707/11542e9842650f091fecae01aacfd93b3872a55d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01-13][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/e3d877521fcc8d7caa64658253b330feabb925d8</link>
+			<title>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01-13][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[拉撒路 / LAZARUS][01-13][1080p][简日双语][6.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e3d877521fcc8d7caa64658253b330feabb925d8</link>
+				<contentLength>6871947776</contentLength>
+				<pubDate>2025-07-07T04:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6871947776" url="https://mikanani.me/Download/20250707/e3d877521fcc8d7caa64658253b330feabb925d8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
