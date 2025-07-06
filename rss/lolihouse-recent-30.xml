@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d9d43650c2092a2ace77146fcefd43ac5c9fd97b</link>
-			<title>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 摇滚乐是淑女的嗜好 / Rock wa Lady no Tashinami Deshite - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][448.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d9d43650c2092a2ace77146fcefd43ac5c9fd97b</link>
-				<contentLength>470212928</contentLength>
-				<pubDate>2025-06-06T12:15:18.526</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="470212928" url="https://mikanani.me/Download/20250606/d9d43650c2092a2ace77146fcefd43ac5c9fd97b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 防风少年 / WIND BREAKER - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/fa3869312a5f7b89938d70a96148b1bd93e15d84</link>
 			<title>[LoliHouse] 防风少年 / WIND BREAKER - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1914,6 +1902,18 @@
 				<pubDate>2025-07-06T19:06:29.332</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="75319216" url="https://mikanani.me/Download/20250706/fd853641da4cf51f6dd30769724056937b5e0c9a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c8db187a1df23214b5c0270759304605e5fc2f98</link>
+			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][688.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c8db187a1df23214b5c0270759304605e5fc2f98</link>
+				<contentLength>721850176</contentLength>
+				<pubDate>2025-07-06T20:15:41.051</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="721850176" url="https://mikanani.me/Download/20250706/c8db187a1df23214b5c0270759304605e5fc2f98.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
