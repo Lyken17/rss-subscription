@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 82 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/59033beb80e8e494911ec39e110e90dc879df5ba</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 82 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 82 (B-Global Donghua 1920x1080 HEVC AAC MKV)[335.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/59033beb80e8e494911ec39e110e90dc879df5ba</link>
+				<contentLength>352111808</contentLength>
+				<pubDate>2025-07-07T09:01:53.263504</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352111808" url="https://mikanani.me/Download/20250707/59033beb80e8e494911ec39e110e90dc879df5ba.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][01][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/8f1bb877feb04fd6fa5a02efad324ec59b0cbb37</link>
 			<title>【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][01][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-06T16:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20250706/c5887c16296d920ec4783d450aa7841eb6b91f77.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] ToiletBound Hanakokun /  地缚少年花子君 2 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2dd56117a4cb722ef607dc0cd9e6ef4e8fc64b91</link>
-			<title>[ANi] ToiletBound Hanakokun /  地缚少年花子君 2 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] ToiletBound Hanakokun /  地缚少年花子君 2 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][390.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2dd56117a4cb722ef607dc0cd9e6ef4e8fc64b91</link>
-				<contentLength>409888352</contentLength>
-				<pubDate>2025-07-06T16:31:58.521321</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="409888352" url="https://mikanani.me/Download/20250706/2dd56117a4cb722ef607dc0cd9e6ef4e8fc64b91.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
