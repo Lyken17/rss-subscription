@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">小城日常 CITY THE ANIMATION S01E01 1080p 日英双语-多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/a2a68a918d59dc8ce9d33c924a665ed12fb39c0b</link>
+			<title>小城日常 CITY THE ANIMATION S01E01 1080p 日英双语-多国字幕</title>
+			<description>小城日常 CITY THE ANIMATION S01E01 1080p 日英双语-多国字幕[938.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a2a68a918d59dc8ce9d33c924a665ed12fb39c0b</link>
+				<contentLength>983983744</contentLength>
+				<pubDate>2025-07-07T17:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="983983744" url="https://mikanani.me/Download/20250707/a2a68a918d59dc8ce9d33c924a665ed12fb39c0b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][01][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/32864910b160d44e3fcf5c7552b26684fc77a67f</link>
 			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][01][1080p][繁日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-06T19:20:37.26</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="485952064" url="https://mikanani.me/Download/20250706/828d7dab206c18478644bde5024b6e0607acb55f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 胆大党 第2季 / Dan Da Dan (2025) [13][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/7e12b8e44aee3d083529673f69da1c10d13d3d3d</link>
-			<title>[桜都字幕组] 胆大党 第2季 / Dan Da Dan (2025) [13][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 胆大党 第2季 / Dan Da Dan (2025) [13][1080p][繁体内嵌][627.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7e12b8e44aee3d083529673f69da1c10d13d3d3d</link>
-				<contentLength>658138752</contentLength>
-				<pubDate>2025-07-06T19:19:27.411</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="658138752" url="https://mikanani.me/Download/20250706/7e12b8e44aee3d083529673f69da1c10d13d3d3d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
