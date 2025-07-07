@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][终将成为你/Yagate Kimi ni Naru][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](やがて君になる)</guid>
+			<link>https://mikanani.me/Home/Episode/a71379bfa3cc065156bd44f5b0f3352de8b7a6a4</link>
+			<title>[DBD-Raws][终将成为你/Yagate Kimi ni Naru][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](やがて君になる)</title>
+			<description>[DBD-Raws][终将成为你/Yagate Kimi ni Naru][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](やがて君になる)[11.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a71379bfa3cc065156bd44f5b0f3352de8b7a6a4</link>
+				<contentLength>11918534656</contentLength>
+				<pubDate>2025-07-07T13:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11918534656" url="https://mikanani.me/Download/20250707/a71379bfa3cc065156bd44f5b0f3352de8b7a6a4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1135 (B-Global 3840x2160 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/fab23f3c8b8c429e83fd76e826bd75190e6953e4</link>
 			<title>[黒ネズミたち] 海贼王 / One Piece - 1135 (B-Global 3840x2160 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-06T17:31:10.864194</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="380213664" url="https://mikanani.me/Download/20250706/53d90e21356e70def923d0d36419d607dec4a50e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][天才麻将少女 全国篇/Saki: Zenkoku Hen][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](咲-Saki- 全国编)</guid>
-			<link>https://mikanani.me/Home/Episode/842597f55795d6d3ef22deb04d18c26891d77d28</link>
-			<title>[DBD-Raws][天才麻将少女 全国篇/Saki: Zenkoku Hen][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](咲-Saki- 全国编)</title>
-			<description>[DBD-Raws][天才麻将少女 全国篇/Saki: Zenkoku Hen][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](咲-Saki- 全国编)[13.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/842597f55795d6d3ef22deb04d18c26891d77d28</link>
-				<contentLength>14817637376</contentLength>
-				<pubDate>2025-07-06T17:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14817637376" url="https://mikanani.me/Download/20250706/842597f55795d6d3ef22deb04d18c26891d77d28.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
