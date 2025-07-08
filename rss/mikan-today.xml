@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 01 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/0cb092a88ccb03ea7e060b1296553d48647ff822</link>
+			<title>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 01 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封]</title>
+			<description>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 01 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封][358.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0cb092a88ccb03ea7e060b1296553d48647ff822</link>
+				<contentLength>375809632</contentLength>
+				<pubDate>2025-07-08T16:26:27.888855</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="375809632" url="https://mikanani.me/Download/20250708/0cb092a88ccb03ea7e060b1296553d48647ff822.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ca3ca941fe700d0aa00996473390adf7976b8f6a</link>
 			<title>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-07-07T12:04:24.666676</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1069023232" url="https://mikanani.me/Download/20250707/fab23f3c8b8c429e83fd76e826bd75190e6953e4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][01][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/ed7a642fd6cfc0587942ad1dc799aaa77a0114e1</link>
-			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][01][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][01][1080p][简日双语][212.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ed7a642fd6cfc0587942ad1dc799aaa77a0114e1</link>
-				<contentLength>223231344</contentLength>
-				<pubDate>2025-07-07T11:56:53.169</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="223231344" url="https://mikanani.me/Download/20250707/ed7a642fd6cfc0587942ad1dc799aaa77a0114e1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
