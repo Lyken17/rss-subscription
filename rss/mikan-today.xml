@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f305ea0cf3e58940477580c69a5d51c5bf5beded</link>
+			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)[380.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f305ea0cf3e58940477580c69a5d51c5bf5beded</link>
+				<contentLength>398458880</contentLength>
+				<pubDate>2025-07-08T09:01:56.816791</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="398458880" url="https://mikanani.me/Download/20250708/f305ea0cf3e58940477580c69a5d51c5bf5beded.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 48 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End]</guid>
 			<link>https://mikanani.me/Home/Episode/e9343d2a5a32dd7933d1f54343bb6d2e80872d37</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 48 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-07-07T01:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="447007936" url="https://mikanani.me/Download/20250707/0cb849fda2961d8c881a1061e132abe2ddb0d92b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 特装合体机器人 JOBRAVER / 特装合体ロボ ジョブレイバー - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/7c49bb2c81aec5dcd408f7a842b40185c6a6ea21</link>
-			<title>[黒ネズミたち] 特装合体机器人 JOBRAVER / 特装合体ロボ ジョブレイバー - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 特装合体机器人 JOBRAVER / 特装合体ロボ ジョブレイバー - 01 (ABEMA 1920x1080 AVC AAC MP4)[360.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7c49bb2c81aec5dcd408f7a842b40185c6a6ea21</link>
-				<contentLength>378116512</contentLength>
-				<pubDate>2025-07-07T00:45:41.543941</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="378116512" url="https://mikanani.me/Download/20250707/7c49bb2c81aec5dcd408f7a842b40185c6a6ea21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
