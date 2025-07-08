@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/7ad1a5e60bf67df830d31b853222d6b1d281c033</link>
+			<title>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 01 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7ad1a5e60bf67df830d31b853222d6b1d281c033</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-07-09T01:16:35.771473</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250709/7ad1a5e60bf67df830d31b853222d6b1d281c033.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[更衣人偶坠入爱河 / 恋上换装娃娃 / Sono Bisque Doll wa Koi wo Suru][13][1080p][简体]</guid>
 			<link>https://mikanani.me/Home/Episode/e95f89d1103b939033f19b80d4f195ffbf5269a2</link>
 			<title>【喵萌奶茶屋】★07月新番★[更衣人偶坠入爱河 / 恋上换装娃娃 / Sono Bisque Doll wa Koi wo Suru][13][1080p][简体]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-07-08T01:04:36.228308</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250708/6ef336c2440be70d3c6874c499001254e9c6e677.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][01][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/3bfb043611ea6dacb62e6c125b392dba831e9b13</link>
-			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][01][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][01][1080p][繁日双语][212.94 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3bfb043611ea6dacb62e6c125b392dba831e9b13</link>
-				<contentLength>223283776</contentLength>
-				<pubDate>2025-07-08T01:02:17.048</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="223283776" url="https://mikanani.me/Download/20250708/3bfb043611ea6dacb62e6c125b392dba831e9b13.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
