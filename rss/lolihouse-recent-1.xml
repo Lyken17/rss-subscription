@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ca3ca941fe700d0aa00996473390adf7976b8f6a</link>
-			<title>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][899.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ca3ca941fe700d0aa00996473390adf7976b8f6a</link>
-				<contentLength>943047296</contentLength>
-				<pubDate>2025-07-08T14:41:23.439</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="943047296" url="https://mikanani.me/Download/20250708/ca3ca941fe700d0aa00996473390adf7976b8f6a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 青春猪头少年不会梦到圣诞服女郎 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f649564a4bf554fa246055aeb640df51308e9163</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 青春猪头少年不会梦到圣诞服女郎 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -123,6 +111,21 @@
 				<pubDate>2025-07-09T21:56:34.188</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="571683648" url="https://mikanani.me/Download/20250709/9dc1c0496596098f52be3c932954df05b7cb0c63.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f2cb939c7fdd810c3a98db8d6ee1264d35664791</link>
+			<title>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][418.89 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f2cb939c7fdd810c3a98db8d6ee1264d35664791</link>
+				<contentLength>439238016</contentLength>
+				<pubDate>2025-07-09T22:59:46.216</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="439238016" url="https://mikanani.me/Download/20250709/f2cb939c7fdd810c3a98db8d6ee1264d35664791.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
