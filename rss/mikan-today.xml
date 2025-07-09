@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/04ed0e75a88368281483d6eb727d45a5b5d54190</link>
+			<title>[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][607.94 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/04ed0e75a88368281483d6eb727d45a5b5d54190</link>
+				<contentLength>637471296</contentLength>
+				<pubDate>2025-07-09T10:02:48.42</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="637471296" url="https://mikanani.me/Download/20250709/04ed0e75a88368281483d6eb727d45a5b5d54190.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[奇怪机翻组] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 01 [WebRip] [1080P HEVC-10Bit AAC-2.0] [简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/af2c7f67137ceb0e46f235c4a5886aa9442c484d</link>
 			<title>[奇怪机翻组] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 01 [WebRip] [1080P HEVC-10Bit AAC-2.0] [简繁日内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-07-08T09:01:56.816791</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="398458880" url="https://mikanani.me/Download/20250708/f305ea0cf3e58940477580c69a5d51c5bf5beded.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 48 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End]</guid>
-			<link>https://mikanani.me/Home/Episode/e9343d2a5a32dd7933d1f54343bb6d2e80872d37</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 48 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 药师少女的独语 / 药屋少女的呢喃 / Kusuriya no Hitorigoto - 48 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][End][269.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e9343d2a5a32dd7933d1f54343bb6d2e80872d37</link>
-				<contentLength>282821920</contentLength>
-				<pubDate>2025-07-08T06:58:29.975</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="282821920" url="https://mikanani.me/Download/20250708/e9343d2a5a32dd7933d1f54343bb6d2e80872d37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
