@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][我的妹妹哪有这么可爱/Ore no Imouto ga Konna ni Kawaii Wake ga Nai][01-15TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](俺の妹がこんなに可爱いわけがない/我的妹妹不可能那么可爱)</guid>
+			<link>https://mikanani.me/Home/Episode/73a67ff4b892bff50401edcc84241c4287da7468</link>
+			<title>[DBD-Raws][我的妹妹哪有这么可爱/Ore no Imouto ga Konna ni Kawaii Wake ga Nai][01-15TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](俺の妹がこんなに可爱いわけがない/我的妹妹不可能那么可爱)</title>
+			<description>[DBD-Raws][我的妹妹哪有这么可爱/Ore no Imouto ga Konna ni Kawaii Wake ga Nai][01-15TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](俺の妹がこんなに可爱いわけがない/我的妹妹不可能那么可爱)[16.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73a67ff4b892bff50401edcc84241c4287da7468</link>
+				<contentLength>17931489280</contentLength>
+				<pubDate>2025-07-09T13:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17931489280" url="https://mikanani.me/Download/20250709/73a67ff4b892bff50401edcc84241c4287da7468.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 药师少女的独语 / Kusuriya no Hitorigoto / 薬屋のひとりごと 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/f67254c5cbf4196ea29ef76f609298739ca93825</link>
 			<title>[喵萌奶茶屋&amp;VCB-Studio] 药师少女的独语 / Kusuriya no Hitorigoto / 薬屋のひとりごと 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-07-08T12:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="194196272" url="https://mikanani.me/Download/20250708/acb8b3a2e4091f801252ab279185e185f30a8dca.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 热带雨林的爆笑生活／哈雷小子 (ジャングルはいつもハレのちグゥ) (Haré+Guu)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.12)</guid>
-			<link>https://mikanani.me/Home/Episode/f0164ca85905358735957d47c63460177f54dfaf</link>
-			<title>[整理搬运] 热带雨林的爆笑生活／哈雷小子 (ジャングルはいつもハレのちグゥ) (Haré+Guu)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.12)</title>
-			<description>[整理搬运] 热带雨林的爆笑生活／哈雷小子 (ジャングルはいつもハレのちグゥ) (Haré+Guu)：TV动画+OVA+漫画+音乐+其他；日语音轨; 外挂简中字幕 (整理时间：2023.12.12)[17.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f0164ca85905358735957d47c63460177f54dfaf</link>
-				<contentLength>18575732736</contentLength>
-				<pubDate>2025-07-08T11:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18575732736" url="https://mikanani.me/Download/20250708/f0164ca85905358735957d47c63460177f54dfaf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
