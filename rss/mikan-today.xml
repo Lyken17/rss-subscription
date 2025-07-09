@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</guid>
+			<link>https://mikanani.me/Home/Episode/f9df677eaba61de03f74f715e67eef9aa6d58d01</link>
+			<title>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)</title>
+			<description>[整理搬运] 轻音少女 (けいおん !) (K-ON !)：TV动画 (2009年版、2010年版)+剧场版+漫画+演唱会+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.09)[102.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f9df677eaba61de03f74f715e67eef9aa6d58d01</link>
+				<contentLength>109521666048</contentLength>
+				<pubDate>2025-07-10T05:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="109521666048" url="https://mikanani.me/Download/20250710/f9df677eaba61de03f74f715e67eef9aa6d58d01.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 潜行吧 ! 奈亚子 (这いよれ ! ニャル子さん) (Haiyore ! Nyaruko-san)：TV动画 (第1季、第2季、F篇)+OVA+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2022.07.13)</guid>
 			<link>https://mikanani.me/Home/Episode/a5a5b34df6cb35b4de8af8032dc00ae69dcadebf</link>
 			<title>[整理搬运] 潜行吧 ! 奈亚子 (这いよれ ! ニャル子さん) (Haiyore ! Nyaruko-san)：TV动画 (第1季、第2季、F篇)+OVA+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2022.07.13)</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-07-08T23:48:49.839804</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250708/b1bf675c1f2fa531c3f551f5b318e6bf389096dc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 02 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/51930106e5aec7360e1839473a7b09cba701115d</link>
-			<title>[黒ネズミたち] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 02 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 02 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/51930106e5aec7360e1839473a7b09cba701115d</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-07-08T23:33:02.6948</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250708/51930106e5aec7360e1839473a7b09cba701115d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
