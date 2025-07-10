@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b0379cf3190c2b7a5079c1cfff13461eca82b2c5</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][930.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b0379cf3190c2b7a5079c1cfff13461eca82b2c5</link>
+				<contentLength>976171840</contentLength>
+				<pubDate>2025-07-11T06:24:46.835</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="976171840" url="https://mikanani.me/Download/20250711/b0379cf3190c2b7a5079c1cfff13461eca82b2c5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 02 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a3a11b807eab7a5a6fc47dfef621f23b1cd8c288</link>
 			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 02 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-10T01:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15784004608" url="https://mikanani.me/Download/20250710/33fd0e6e339aae016a2d54ce07053bd29c0f9b57.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  阴阳回天 Re：Birth Verse - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/86c57f902acfa68f2a4e7c50557fcf674a9aa1df</link>
-			<title>[ANi]  阴阳回天 Re：Birth Verse - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  阴阳回天 Re：Birth Verse - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][561.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86c57f902acfa68f2a4e7c50557fcf674a9aa1df</link>
-				<contentLength>588670592</contentLength>
-				<pubDate>2025-07-10T01:16:58.444258</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="588670592" url="https://mikanani.me/Download/20250710/86c57f902acfa68f2a4e7c50557fcf674a9aa1df.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
