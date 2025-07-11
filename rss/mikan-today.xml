@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] Kokkoku / 刻刻 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/3c751f7b6266d70970c7016d64b231c46f594883</link>
+			<title>[VCB-Studio] Kokkoku / 刻刻 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] Kokkoku / 刻刻 10-bit 1080p HEVC BDRip [Reseed Fin][19.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c751f7b6266d70970c7016d64b231c46f594883</link>
+				<contentLength>21045340160</contentLength>
+				<pubDate>2025-07-11T16:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21045340160" url="https://mikanani.me/Download/20250711/3c751f7b6266d70970c7016d64b231c46f594883.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][香格里拉・开拓异境～粪作猎手挑战神作～/Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su][01-25TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~)</guid>
 			<link>https://mikanani.me/Home/Episode/2e3fef05daf1c638151e302a5d17913b50c7f140</link>
 			<title>[DBD-Raws][香格里拉・开拓异境～粪作猎手挑战神作～/Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su][01-25TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-10T02:02:00.564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="427043072" url="https://mikanani.me/Download/20250710/f9c3ae932854bbd5f0bc8ed3a0e2ef6756a8695c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 13 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/01556a34d9adc107e6fe150e58b44a5a5ba3e508</link>
-			<title>[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 13 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 13 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/01556a34d9adc107e6fe150e58b44a5a5ba3e508</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-07-10T01:58:34.962219</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250710/01556a34d9adc107e6fe150e58b44a5a5ba3e508.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

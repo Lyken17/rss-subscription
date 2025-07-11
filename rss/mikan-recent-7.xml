@@ -7855,5 +7855,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="28991029248" url="https://mikanani.me/Download/20250711/2e3fef05daf1c638151e302a5d17913b50c7f140.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] Kokkoku / 刻刻 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/3c751f7b6266d70970c7016d64b231c46f594883</link>
+			<title>[VCB-Studio] Kokkoku / 刻刻 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] Kokkoku / 刻刻 10-bit 1080p HEVC BDRip [Reseed Fin][19.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c751f7b6266d70970c7016d64b231c46f594883</link>
+				<contentLength>21045340160</contentLength>
+				<pubDate>2025-07-11T16:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21045340160" url="https://mikanani.me/Download/20250711/3c751f7b6266d70970c7016d64b231c46f594883.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
