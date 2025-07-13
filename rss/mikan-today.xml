@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/055f0e590119c1e0dd8c10ecc68b9a8ec489c0e5</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (Baha 1920x1080 AVC AAC MP4)[590.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/055f0e590119c1e0dd8c10ecc68b9a8ec489c0e5</link>
+				<contentLength>619603584</contentLength>
+				<pubDate>2025-07-13T15:10:44.296886</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="619603584" url="https://mikanani.me/Download/20250713/055f0e590119c1e0dd8c10ecc68b9a8ec489c0e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 章鱼噼的原罪 / Takopii no Genzai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕](检索用：章鱼哔的原罪)</guid>
 			<link>https://mikanani.me/Home/Episode/5433a6bb900c77ab92e0abe61b218ae6a9620920</link>
 			<title>[SweetSub&amp;LoliHouse] 章鱼噼的原罪 / Takopii no Genzai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕](检索用：章鱼哔的原罪)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-12T20:22:07.853</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="868032192" url="https://mikanani.me/Download/20250712/01505d5db97be1b27e506c9aa614e7d8f423f6c5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） / Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri！（Muri ja Nakatta！？） [01][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/e8094cc22a2a00251a39e6624d55e19028fbad5d</link>
-			<title>[桜都字幕组] 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） / Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri！（Muri ja Nakatta！？） [01][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） / Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri！（Muri ja Nakatta！？） [01][1080p][简体内嵌][828.09 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8094cc22a2a00251a39e6624d55e19028fbad5d</link>
-				<contentLength>868315328</contentLength>
-				<pubDate>2025-07-12T20:21:26.98</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="868315328" url="https://mikanani.me/Download/20250712/e8094cc22a2a00251a39e6624d55e19028fbad5d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

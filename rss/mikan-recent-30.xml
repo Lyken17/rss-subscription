@@ -30949,5 +30949,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="699924480" url="https://mikanani.me/Download/20250713/0ecf6e187ed0e8369a48db2dfce9b31ab3b42e84.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/055f0e590119c1e0dd8c10ecc68b9a8ec489c0e5</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 02 (Baha 1920x1080 AVC AAC MP4)[590.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/055f0e590119c1e0dd8c10ecc68b9a8ec489c0e5</link>
+				<contentLength>619603584</contentLength>
+				<pubDate>2025-07-13T15:10:44.296886</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="619603584" url="https://mikanani.me/Download/20250713/055f0e590119c1e0dd8c10ecc68b9a8ec489c0e5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
