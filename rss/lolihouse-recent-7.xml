@@ -622,5 +622,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="717425216" url="https://mikanani.me/Download/20250713/26bd753c28534ad151ae5f9f1dca54e8816005a1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party o Tsuihou Sareta Shiro Madoushi - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/de3e54fee4392c3a415963fa4fdef41a81fbc223</link>
+			<title>[LoliHouse] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party o Tsuihou Sareta Shiro Madoushi - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party o Tsuihou Sareta Shiro Madoushi - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][477.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/de3e54fee4392c3a415963fa4fdef41a81fbc223</link>
+				<contentLength>500778912</contentLength>
+				<pubDate>2025-07-13T18:47:20.232</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="500778912" url="https://mikanani.me/Download/20250713/de3e54fee4392c3a415963fa4fdef41a81fbc223.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
