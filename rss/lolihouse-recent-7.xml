@@ -658,5 +658,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="558576448" url="https://mikanani.me/Download/20250714/378c572c399dccde92a15b7a2954cbf1f9d680eb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2842af14671d559b2c5626643cb4dd5043365fa4</link>
+			<title>[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][396.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2842af14671d559b2c5626643cb4dd5043365fa4</link>
+				<contentLength>415991072</contentLength>
+				<pubDate>2025-07-14T21:49:26.86</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="415991072" url="https://mikanani.me/Download/20250714/2842af14671d559b2c5626643cb4dd5043365fa4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
