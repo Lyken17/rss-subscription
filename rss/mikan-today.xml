@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][02][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/e6fb97f7bacb115ab38afba68ff3747e4f4cd058</link>
+			<title>【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][02][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][02][1080p][简日双语][347.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e6fb97f7bacb115ab38afba68ff3747e4f4cd058</link>
+				<contentLength>364422112</contentLength>
+				<pubDate>2025-07-15T04:15:01.929</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364422112" url="https://mikanani.me/Download/20250715/e6fb97f7bacb115ab38afba68ff3747e4f4cd058.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 39 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0b11f81b62f9b5c9f2685a2ac8790884c545c1ad</link>
 			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 39 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-14T03:51:10.06</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1005573888" url="https://mikanani.me/Download/20250714/d2142dcb97c35a92771b4aa4455669a1de3f9b45.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [01][AVC AAC][1080p][简日内嵌][招募翻校轴]</guid>
-			<link>https://mikanani.me/Home/Episode/c422204818bbbd5865de29db78cdd5042f19db7e</link>
-			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [01][AVC AAC][1080p][简日内嵌][招募翻校轴]</title>
-			<description>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [01][AVC AAC][1080p][简日内嵌][招募翻校轴][959.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c422204818bbbd5865de29db78cdd5042f19db7e</link>
-				<contentLength>1006381312</contentLength>
-				<pubDate>2025-07-14T03:51:07.883</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1006381312" url="https://mikanani.me/Download/20250714/c422204818bbbd5865de29db78cdd5042f19db7e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
