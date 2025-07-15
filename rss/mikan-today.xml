@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][07][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/6674b223b9fee68f38567b3ad0689cdd4879073b</link>
+			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][07][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][07][GB][4K HEVC 10Bit][1.45 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6674b223b9fee68f38567b3ad0689cdd4879073b</link>
+				<contentLength>1556925696</contentLength>
+				<pubDate>2025-07-15T11:50:21.543</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1556925696" url="https://mikanani.me/Download/20250715/6674b223b9fee68f38567b3ad0689cdd4879073b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/5af53ddde37e8ccd2e52d98571cd8e027931c147</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 39 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-14T09:01:37.678886</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="314048512" url="https://mikanani.me/Download/20250714/623f3c6c2ea625aff1f7630426189e2e837ff487.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 02 [WebRip][HEVC-10bit 1080p][繁日内嵌]（检索用：薰香花朵凛然绽放）</guid>
-			<link>https://mikanani.me/Home/Episode/a9d68f607736e631ce4cee3222399ee09ad93d19</link>
-			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 02 [WebRip][HEVC-10bit 1080p][繁日内嵌]（检索用：薰香花朵凛然绽放）</title>
-			<description>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 02 [WebRip][HEVC-10bit 1080p][繁日内嵌]（检索用：薰香花朵凛然绽放）[300.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a9d68f607736e631ce4cee3222399ee09ad93d19</link>
-				<contentLength>314677664</contentLength>
-				<pubDate>2025-07-14T04:19:11.18</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="314677664" url="https://mikanani.me/Download/20250714/a9d68f607736e631ce4cee3222399ee09ad93d19.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
