@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[奶²&amp;LoliHouse] Everyday Host - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e1fd5a51166a5eec365efdd5858d19a02dd771f4</link>
-			<title>[奶²&amp;LoliHouse] Everyday Host - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[奶²&amp;LoliHouse] Everyday Host - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][72.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e1fd5a51166a5eec365efdd5858d19a02dd771f4</link>
-				<contentLength>76021760</contentLength>
-				<pubDate>2025-06-15T16:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="76021760" url="https://mikanani.me/Download/20250615/e1fd5a51166a5eec365efdd5858d19a02dd771f4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/fc4103d0ff337666b7876a1636d897f0facd5191</link>
 			<title>[LoliHouse] 我是星际国家的恶德领主！ / Ore wa Seikan Kokka no Akutoku Ryoushu! - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2067,6 +2055,30 @@
 				<pubDate>2025-07-15T23:14:33.24</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="381608256" url="https://mikanani.me/Download/20250715/89872d7f972876b2e5146e7d820fd8fa0bfd83dd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 13 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1327fbf9ea47f3274b2e75c1afa8bd77e7ed49c5</link>
+			<title>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 13 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</title>
+			<description>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 13 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕][830.55 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1327fbf9ea47f3274b2e75c1afa8bd77e7ed49c5</link>
+				<contentLength>870894784</contentLength>
+				<pubDate>2025-07-15T23:22:48.543</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="870894784" url="https://mikanani.me/Download/20250715/1327fbf9ea47f3274b2e75c1afa8bd77e7ed49c5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 12 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0233ac09f13bafce61bbe88b579f92a9071f6a1a</link>
+			<title>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 12 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</title>
+			<description>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 12 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕][852.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0233ac09f13bafce61bbe88b579f92a9071f6a1a</link>
+				<contentLength>894120768</contentLength>
+				<pubDate>2025-07-15T23:21:44.986</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="894120768" url="https://mikanani.me/Download/20250715/0233ac09f13bafce61bbe88b579f92a9071f6a1a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
