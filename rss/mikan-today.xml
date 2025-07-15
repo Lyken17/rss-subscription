@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简体内嵌][H264 8bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/465dd1bc69473378626c106d7bbd35dfe376f580</link>
+			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简体内嵌][H264 8bit 1080P]</title>
+			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简体内嵌][H264 8bit 1080P][389.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/465dd1bc69473378626c106d7bbd35dfe376f580</link>
+				<contentLength>408315488</contentLength>
+				<pubDate>2025-07-16T04:34:58.291443</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="408315488" url="https://mikanani.me/Download/20250716/465dd1bc69473378626c106d7bbd35dfe376f580.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简繁内封][H265 10bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/4061923bc47d9860d1b71ba644e2cea95df694d1</link>
 			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简繁内封][H265 10bit 1080P]</title>
@@ -1182,18 +1194,6 @@
 				<pubDate>2025-07-15T13:47:43.944</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="365208544" url="https://mikanani.me/Download/20250715/21c2a10de186da31d05ae95fa1d9ccd8a3b8d639.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][14][HEVC][x265 10bit][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/fb420585439674bdff0c570553320754ca8a5f7d</link>
-			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][14][HEVC][x265 10bit][1080p][简日双语]</title>
-			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋][14][HEVC][x265 10bit][1080p][简日双语][371.55 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fb420585439674bdff0c570553320754ca8a5f7d</link>
-				<contentLength>389598400</contentLength>
-				<pubDate>2025-07-15T13:44:27.601</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="389598400" url="https://mikanani.me/Download/20250715/fb420585439674bdff0c570553320754ca8a5f7d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
