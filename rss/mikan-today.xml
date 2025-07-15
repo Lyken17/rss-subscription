@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 02 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/339bec5dbab14a762c282d8bb5a240d577dbda07</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 02 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 02 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/339bec5dbab14a762c282d8bb5a240d577dbda07</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-07-16T02:32:14.712084</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250716/339bec5dbab14a762c282d8bb5a240d577dbda07.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][02][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/50e3adb72c7837203832bb6a835d1c116abcff6d</link>
 			<title>【喵萌奶茶屋】★07月新番★[青春猪头少年不会梦到圣诞服女郎 / 青春ブタ野郎はサンタクロースの梦を见ない / Seishun Buta Yarou wa Santa Claus no Yume wo Minai][02][1080p][繁日双语]</title>
@@ -1182,18 +1194,6 @@
 				<pubDate>2025-07-15T13:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7086695936" url="https://mikanani.me/Download/20250715/a55c2593b36e3b00f9c545713769435ee8076f35.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第02集 GB_CN HEVC_opus 1080p</guid>
-			<link>https://mikanani.me/Home/Episode/e807e422f9ed9aaeb585b95a0cc33ffabfbda408</link>
-			<title>【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第02集 GB_CN HEVC_opus 1080p</title>
-			<description>【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第02集 GB_CN HEVC_opus 1080p[228.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e807e422f9ed9aaeb585b95a0cc33ffabfbda408</link>
-				<contentLength>239494752</contentLength>
-				<pubDate>2025-07-15T13:28:35.065</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="239494752" url="https://mikanani.me/Download/20250715/e807e422f9ed9aaeb585b95a0cc33ffabfbda408.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
