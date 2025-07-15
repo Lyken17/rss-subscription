@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简繁内封][H265 10bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/4061923bc47d9860d1b71ba644e2cea95df694d1</link>
+			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简繁内封][H265 10bit 1080P]</title>
+			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 15 - [简繁内封][H265 10bit 1080P][484.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4061923bc47d9860d1b71ba644e2cea95df694d1</link>
+				<contentLength>508244800</contentLength>
+				<pubDate>2025-07-16T04:09:13.26288</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="508244800" url="https://mikanani.me/Download/20250716/4061923bc47d9860d1b71ba644e2cea95df694d1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 02 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/339bec5dbab14a762c282d8bb5a240d577dbda07</link>
 			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 02 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1182,18 +1194,6 @@
 				<pubDate>2025-07-15T13:44:27.601</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389598400" url="https://mikanani.me/Download/20250715/fb420585439674bdff0c570553320754ca8a5f7d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 鬼人幻灯抄 - 01-13 [AMZN WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/a55c2593b36e3b00f9c545713769435ee8076f35</link>
-			<title>[沸班亚马制作组] 鬼人幻灯抄 - 01-13 [AMZN WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 鬼人幻灯抄 - 01-13 [AMZN WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][6.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a55c2593b36e3b00f9c545713769435ee8076f35</link>
-				<contentLength>7086695936</contentLength>
-				<pubDate>2025-07-15T13:31:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7086695936" url="https://mikanani.me/Download/20250715/a55c2593b36e3b00f9c545713769435ee8076f35.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
