@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][14][简繁外挂]</guid>
+			<link>https://mikanani.me/Home/Episode/9154a9bf3004eb1ddc6ee77e1b24e5813516ef22</link>
+			<title>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][14][简繁外挂]</title>
+			<description>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][14][简繁外挂][727MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9154a9bf3004eb1ddc6ee77e1b24e5813516ef22</link>
+				<contentLength>762314752</contentLength>
+				<pubDate>2025-07-16T21:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="762314752" url="https://mikanani.me/Download/20250716/9154a9bf3004eb1ddc6ee77e1b24e5813516ef22.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][14][繁]</guid>
+			<link>https://mikanani.me/Home/Episode/c91da23a2aa9fd9bc1e6006cb5085ffabd84ed01</link>
+			<title>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][14][繁]</title>
+			<description>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][14][繁][391.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c91da23a2aa9fd9bc1e6006cb5085ffabd84ed01</link>
+				<contentLength>410936928</contentLength>
+				<pubDate>2025-07-16T21:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="410936928" url="https://mikanani.me/Download/20250716/c91da23a2aa9fd9bc1e6006cb5085ffabd84ed01.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 15 (ABEMA 1280x720 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/56b93e8dfbbfd858a4bb5f30b4aebd037d3690ce</link>
 			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 15 (ABEMA 1280x720 AVC AAC MP4)</title>
@@ -1170,30 +1194,6 @@
 				<pubDate>2025-07-15T17:30:56.692565</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="753297024" url="https://mikanani.me/Download/20250715/8fee40b5598f53fccc4e3261decf517d7c66dea4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1125][x264_aac][1080p]典藏版</guid>
-			<link>https://mikanani.me/Home/Episode/c4f226c65c73b82e525b4f8a3622646761c85b2f</link>
-			<title>[OPFansMaplesnow][one_piece][1125][x264_aac][1080p]典藏版</title>
-			<description>[OPFansMaplesnow][one_piece][1125][x264_aac][1080p]典藏版[1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c4f226c65c73b82e525b4f8a3622646761c85b2f</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-07-15T17:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250715/c4f226c65c73b82e525b4f8a3622646761c85b2f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1126][x264_aac][1080p]典藏版</guid>
-			<link>https://mikanani.me/Home/Episode/bcec57155edfd3e68e4c3da15cbfc0b8232624f9</link>
-			<title>[OPFansMaplesnow][one_piece][1126][x264_aac][1080p]典藏版</title>
-			<description>[OPFansMaplesnow][one_piece][1126][x264_aac][1080p]典藏版[1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bcec57155edfd3e68e4c3da15cbfc0b8232624f9</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-07-15T17:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250715/bcec57155edfd3e68e4c3da15cbfc0b8232624f9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
