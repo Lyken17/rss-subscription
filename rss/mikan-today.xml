@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 15 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/56b93e8dfbbfd858a4bb5f30b4aebd037d3690ce</link>
+			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 15 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 15 (ABEMA 1280x720 AVC AAC MP4)[367.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56b93e8dfbbfd858a4bb5f30b4aebd037d3690ce</link>
+				<contentLength>385771104</contentLength>
+				<pubDate>2025-07-16T21:30:40.197355</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385771104" url="https://mikanani.me/Download/20250716/56b93e8dfbbfd858a4bb5f30b4aebd037d3690ce.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">盾之勇者成名录 第四季 / Tate no Yuusha no Nariagari S4  - 02 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/635c789f234a182f11b3ba420bc2c6103d6be497</link>
+			<title>盾之勇者成名录 第四季 / Tate no Yuusha no Nariagari S4  - 02 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
+			<description>盾之勇者成名录 第四季 / Tate no Yuusha no Nariagari S4  - 02 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语][379.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/635c789f234a182f11b3ba420bc2c6103d6be497</link>
+				<contentLength>398448384</contentLength>
+				<pubDate>2025-07-16T20:56:48.934</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="398448384" url="https://mikanani.me/Download/20250716/635c789f234a182f11b3ba420bc2c6103d6be497.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 02 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/70aa617c3e7b861e9dd58d6e1f57ea9eeb3428e8</link>
 			<title>[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 02 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1170,30 +1194,6 @@
 				<pubDate>2025-07-15T17:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250715/bcec57155edfd3e68e4c3da15cbfc0b8232624f9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1135][1080p]</guid>
-			<link>https://mikanani.me/Home/Episode/640d624efaef3446c2dc9831dec0e487ae2252ac</link>
-			<title>[OPFansMaplesnow][one_piece][1135][1080p]</title>
-			<description>[OPFansMaplesnow][one_piece][1135][1080p][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/640d624efaef3446c2dc9831dec0e487ae2252ac</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-07-15T16:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250715/640d624efaef3446c2dc9831dec0e487ae2252ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1134][1080p]</guid>
-			<link>https://mikanani.me/Home/Episode/13a543d5dc02767384b5901a07ac745c810305cc</link>
-			<title>[OPFansMaplesnow][one_piece][1134][1080p]</title>
-			<description>[OPFansMaplesnow][one_piece][1134][1080p][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/13a543d5dc02767384b5901a07ac745c810305cc</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-07-15T16:49:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250715/13a543d5dc02767384b5901a07ac745c810305cc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
