@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M24 绯色的子弹 / Meitantei Conan: Hiiro no Dangan / 名探侦コナン 绯色の弾丸 10-bit 1080p HEVC BDRip [MOVIE Reseed]</guid>
+			<link>https://mikanani.me/Home/Episode/29c80725b36cc9b219c674c259e74a8e6371060a</link>
+			<title>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M24 绯色的子弹 / Meitantei Conan: Hiiro no Dangan / 名探侦コナン 绯色の弾丸 10-bit 1080p HEVC BDRip [MOVIE Reseed]</title>
+			<description>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M24 绯色的子弹 / Meitantei Conan: Hiiro no Dangan / 名探侦コナン 绯色の弾丸 10-bit 1080p HEVC BDRip [MOVIE Reseed][12.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/29c80725b36cc9b219c674c259e74a8e6371060a</link>
+				<contentLength>13851269120</contentLength>
+				<pubDate>2025-07-16T12:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13851269120" url="https://mikanani.me/Download/20250716/29c80725b36cc9b219c674c259e74a8e6371060a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6af981403b3d95b8f0db9380083c0c64d9f36dbf</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1182,18 +1194,6 @@
 				<pubDate>2025-07-15T13:48:01.455</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="292038912" url="https://mikanani.me/Download/20250715/1c5ae9cb31751887a9a0483121a1b6f391af62b1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [47][WebRip][HEVC_AAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/9e25d558d763954267e6279c26c783d532b19012</link>
-			<title>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [47][WebRip][HEVC_AAC][简繁日内封]</title>
-			<description>[北宇治字幕组] 药屋少女的呢喃 / 药屋少女的独语 / Kusuriya no Hitorigoto [47][WebRip][HEVC_AAC][简繁日内封][300.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9e25d558d763954267e6279c26c783d532b19012</link>
-				<contentLength>314656672</contentLength>
-				<pubDate>2025-07-15T13:47:56.305</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="314656672" url="https://mikanani.me/Download/20250715/9e25d558d763954267e6279c26c783d532b19012.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

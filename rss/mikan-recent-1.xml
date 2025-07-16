@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][02][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/122b0dd8139f5a5a6a93506d20197f7c103178f1</link>
-			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][02][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][02][1080p][简日双语][507.03 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/122b0dd8139f5a5a6a93506d20197f7c103178f1</link>
-				<contentLength>531659488</contentLength>
-				<pubDate>2025-07-15T04:46:05.631</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="531659488" url="https://mikanani.me/Download/20250715/122b0dd8139f5a5a6a93506d20197f7c103178f1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b4f14fb6a36725f2de13a8cedf70b633ee2c79ac</link>
 			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1350,6 +1338,18 @@
 				<pubDate>2025-07-16T08:42:52.06</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="333950496" url="https://mikanani.me/Download/20250716/cc80d609e1ee9c54cc81797dbf3a07067ac240d1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M24 绯色的子弹 / Meitantei Conan: Hiiro no Dangan / 名探侦コナン 绯色の弾丸 10-bit 1080p HEVC BDRip [MOVIE Reseed]</guid>
+			<link>https://mikanani.me/Home/Episode/29c80725b36cc9b219c674c259e74a8e6371060a</link>
+			<title>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M24 绯色的子弹 / Meitantei Conan: Hiiro no Dangan / 名探侦コナン 绯色の弾丸 10-bit 1080p HEVC BDRip [MOVIE Reseed]</title>
+			<description>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M24 绯色的子弹 / Meitantei Conan: Hiiro no Dangan / 名探侦コナン 绯色の弾丸 10-bit 1080p HEVC BDRip [MOVIE Reseed][12.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/29c80725b36cc9b219c674c259e74a8e6371060a</link>
+				<contentLength>13851269120</contentLength>
+				<pubDate>2025-07-16T12:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13851269120" url="https://mikanani.me/Download/20250716/29c80725b36cc9b219c674c259e74a8e6371060a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
