@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[03][1080p][WebRip][AVC_AAC][CHS][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/b19f26cf89c62c3930805d50c9f67e4865a34a6b</link>
+			<title>[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[03][1080p][WebRip][AVC_AAC][CHS][简体内嵌]</title>
+			<description>[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[03][1080p][WebRip][AVC_AAC][CHS][简体内嵌][576.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b19f26cf89c62c3930805d50c9f67e4865a34a6b</link>
+				<contentLength>604504064</contentLength>
+				<pubDate>2025-07-17T10:30:42.060104</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="604504064" url="https://mikanani.me/Download/20250717/b19f26cf89c62c3930805d50c9f67e4865a34a6b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 新 吊带袜天使 / New Panty &amp; Stocking with Garterbelt - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/40eda567c1328245a6902c25eeb6db10adc830b9</link>
 			<title>[黒ネズミたち] 新 吊带袜天使 / New Panty &amp; Stocking with Garterbelt - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1245,18 +1257,6 @@
 				<pubDate>2025-07-15T22:38:49.952</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="830063232" url="https://mikanani.me/Download/20250715/0e563efc7533ada6726bab89024b45a20e93afa5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [15][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/96958ee642a96c03c87577b857d1d52570e0a24f</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [15][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [15][1080p][简繁内封][599.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96958ee642a96c03c87577b857d1d52570e0a24f</link>
-				<contentLength>628684224</contentLength>
-				<pubDate>2025-07-15T22:37:56.755</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="628684224" url="https://mikanani.me/Download/20250715/96958ee642a96c03c87577b857d1d52570e0a24f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
