@@ -931,5 +931,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="525797952" url="https://mikanani.me/Download/20250717/f09fa85cdaa7db06f08b0a527163aa52f67917bc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [02][1080p][简繁日内封]（坏女孩 / 坏女孩）</guid>
+			<link>https://mikanani.me/Home/Episode/fe1064e21920775939c72d07ed40e25d232e8098</link>
+			<title>[MingY] 不良少女 / Bad Girl [02][1080p][简繁日内封]（坏女孩 / 坏女孩）</title>
+			<description>[MingY] 不良少女 / Bad Girl [02][1080p][简繁日内封]（坏女孩 / 坏女孩）[258.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fe1064e21920775939c72d07ed40e25d232e8098</link>
+				<contentLength>270868160</contentLength>
+				<pubDate>2025-07-17T14:46:33.923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="270868160" url="https://mikanani.me/Download/20250717/fe1064e21920775939c72d07ed40e25d232e8098.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [02][1080p][繁日内嵌]（坏女孩）</guid>
+			<link>https://mikanani.me/Home/Episode/a49d2d37c81d1016e92d2c117ea339e42963ec31</link>
+			<title>[MingY] 不良少女 / Bad Girl [02][1080p][繁日内嵌]（坏女孩）</title>
+			<description>[MingY] 不良少女 / Bad Girl [02][1080p][繁日内嵌]（坏女孩）[297.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a49d2d37c81d1016e92d2c117ea339e42963ec31</link>
+				<contentLength>312244960</contentLength>
+				<pubDate>2025-07-17T14:46:22.746</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="312244960" url="https://mikanani.me/Download/20250717/a49d2d37c81d1016e92d2c117ea339e42963ec31.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [02][1080p][简日内嵌]（坏女孩）</guid>
+			<link>https://mikanani.me/Home/Episode/f7a250b8924ced1799aaaf3bd8b2f801d3a6620c</link>
+			<title>[MingY] 不良少女 / Bad Girl [02][1080p][简日内嵌]（坏女孩）</title>
+			<description>[MingY] 不良少女 / Bad Girl [02][1080p][简日内嵌]（坏女孩）[297.73 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7a250b8924ced1799aaaf3bd8b2f801d3a6620c</link>
+				<contentLength>312192544</contentLength>
+				<pubDate>2025-07-17T14:46:10.512</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="312192544" url="https://mikanani.me/Download/20250717/f7a250b8924ced1799aaaf3bd8b2f801d3a6620c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
