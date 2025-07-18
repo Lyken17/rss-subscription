@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][03][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/187cd0f01628b35178a1bbb48803ee5f9a313971</link>
+			<title>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][03][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][03][1080p][简日双语][406.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/187cd0f01628b35178a1bbb48803ee5f9a313971</link>
+				<contentLength>426099328</contentLength>
+				<pubDate>2025-07-19T04:44:37.91</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="426099328" url="https://mikanani.me/Download/20250719/187cd0f01628b35178a1bbb48803ee5f9a313971.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 39 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a396637875f550f0ef6d9072cd8d92f33f1fd8a9</link>
 			<title>[黒ネズミたち] Nui Story 2 - 39 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1206,21 +1218,6 @@
 				<pubDate>2025-07-17T22:57:19.432</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="811629312" url="https://mikanani.me/Download/20250717/12cacddb412beb6600312884a87017bab8a3703c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
-- 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/23e05dc94800939e6b9fd8c6eadaf59ec674bd5c</link>
-			<title>[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
-- 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
-- 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][876.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/23e05dc94800939e6b9fd8c6eadaf59ec674bd5c</link>
-				<contentLength>919485824</contentLength>
-				<pubDate>2025-07-17T22:55:54.709</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="919485824" url="https://mikanani.me/Download/20250717/23e05dc94800939e6b9fd8c6eadaf59ec674bd5c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
