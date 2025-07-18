@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 机动战士高达 水星的魔女 / Mobile Suit Gundam: The Witch from Mercury 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/b75765c1a8fa863603db2e4a3bfabb878337aa12</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 机动战士高达 水星的魔女 / Mobile Suit Gundam: The Witch from Mercury 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 机动战士高达 水星的魔女 / Mobile Suit Gundam: The Witch from Mercury 10-bit 1080p HEVC BDRip [S1-S2 Reseed Fin][44.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b75765c1a8fa863603db2e4a3bfabb878337aa12</link>
+				<contentLength>48211009536</contentLength>
+				<pubDate>2025-07-18T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="48211009536" url="https://mikanani.me/Download/20250718/b75765c1a8fa863603db2e4a3bfabb878337aa12.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 灵笼S2 / Ling Long 2nd Season - 10 (B-Global Donghua 1920x818 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c6179f7af6c8e6f2086fa2266fbd3fbf3f5ded49</link>
 			<title>[黒ネズミたち] 灵笼S2 / Ling Long 2nd Season - 10 (B-Global Donghua 1920x818 HEVC AAC MKV)</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-07-17T01:01:43.237152</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="457913152" url="https://mikanani.me/Download/20250717/96f8530f202aa48d89a03cd3bc69d23fd3d2db06.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 帝乃三姐妹原来很好搞定。 / Mikadono Sanshimai wa Angai, Choroi. - 03 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d7e6b651a00ffc3d84cc3d1c1767161af4d0630d</link>
-			<title>[黒ネズミたち] 帝乃三姐妹原来很好搞定。 / Mikadono Sanshimai wa Angai, Choroi. - 03 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 帝乃三姐妹原来很好搞定。 / Mikadono Sanshimai wa Angai, Choroi. - 03 (B-Global 1920x1080 HEVC AAC MKV)[477.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7e6b651a00ffc3d84cc3d1c1767161af4d0630d</link>
-				<contentLength>501114464</contentLength>
-				<pubDate>2025-07-17T01:01:28.140633</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="501114464" url="https://mikanani.me/Download/20250717/d7e6b651a00ffc3d84cc3d1c1767161af4d0630d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
