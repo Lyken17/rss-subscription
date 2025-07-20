@@ -184,5 +184,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="563295040" url="https://mikanani.me/Download/20250720/39b6ce5f91539c12c70e0dd2bae594fe339b9508.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] Everyday Host - 16 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/eb0c11288440197534a7dfc18979e9f26520e84f</link>
+			<title>[奶²&amp;LoliHouse] Everyday Host - 16 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] Everyday Host - 16 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][67.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eb0c11288440197534a7dfc18979e9f26520e84f</link>
+				<contentLength>71271712</contentLength>
+				<pubDate>2025-07-20T22:05:03.803</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="71271712" url="https://mikanani.me/Download/20250720/eb0c11288440197534a7dfc18979e9f26520e84f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
