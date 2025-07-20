@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 16 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/411e33391242c1a56eb9134ec0b919ed23cf57be</link>
+			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 16 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 16 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/411e33391242c1a56eb9134ec0b919ed23cf57be</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-07-20T11:08:38.508091</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250720/411e33391242c1a56eb9134ec0b919ed23cf57be.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 24 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0e8454d00c31c21920a44e605fc1bbac02602d12</link>
 			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 24 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-19T18:01:55.482245</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="485910112" url="https://mikanani.me/Download/20250719/651a5933ed83d1f9359f76f1188a2d1166c12bc3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[欢迎来到颠沛流离食堂！/ Tsuihousha Shokudou e Youkoso!][03][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/4b5d25d1e8b1089c5eb84d5b08e2d42567200fed</link>
-			<title>【喵萌奶茶屋】★07月新番★[欢迎来到颠沛流离食堂！/ Tsuihousha Shokudou e Youkoso!][03][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[欢迎来到颠沛流离食堂！/ Tsuihousha Shokudou e Youkoso!][03][1080p][简日双语][470.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4b5d25d1e8b1089c5eb84d5b08e2d42567200fed</link>
-				<contentLength>493040448</contentLength>
-				<pubDate>2025-07-19T17:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="493040448" url="https://mikanani.me/Download/20250719/4b5d25d1e8b1089c5eb84d5b08e2d42567200fed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
