@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="788843712" url="https://mikanani.me/Download/20250719/5cd0708602dac69e834bb3a79d505aa56f37a3a2.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP01 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
-			<link>https://mikanani.me/Home/Episode/c11dddeb7ac4ae91051ef227b63d268858d6bc9d</link>
-			<title>[修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP01 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
-			<description>[修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP01 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[535.73 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c11dddeb7ac4ae91051ef227b63d268858d6bc9d</link>
-				<contentLength>561753600</contentLength>
-				<pubDate>2025-07-19T06:42:39.679</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="561753600" url="https://mikanani.me/Download/20250719/c11dddeb7ac4ae91051ef227b63d268858d6bc9d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]坏女孩 Bad Girl - 02 [1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/8bc18e4cdf2ff0acfa66b0def10936cca072f5db</link>
 			<title>[樱桃花字幕组]坏女孩 Bad Girl - 02 [1080p][简日内嵌]</title>
@@ -1803,6 +1791,18 @@
 				<pubDate>2025-07-20T13:27:59.828</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="64781024" url="https://mikanani.me/Download/20250720/6aedda41368b7b99052edcd56898776fe58a782a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</guid>
+			<link>https://mikanani.me/Home/Episode/eb6b12f14e1ef536ce5d4a4d7dbbf481a7d69930</link>
+			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</title>
+			<description>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)[122.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eb6b12f14e1ef536ce5d4a4d7dbbf481a7d69930</link>
+				<contentLength>131533373440</contentLength>
+				<pubDate>2025-07-20T14:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131533373440" url="https://mikanani.me/Download/20250720/eb6b12f14e1ef536ce5d4a4d7dbbf481a7d69930.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

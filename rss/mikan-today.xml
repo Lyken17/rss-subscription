@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</guid>
+			<link>https://mikanani.me/Home/Episode/eb6b12f14e1ef536ce5d4a4d7dbbf481a7d69930</link>
+			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</title>
+			<description>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)[122.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eb6b12f14e1ef536ce5d4a4d7dbbf481a7d69930</link>
+				<contentLength>131533373440</contentLength>
+				<pubDate>2025-07-20T14:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131533373440" url="https://mikanani.me/Download/20250720/eb6b12f14e1ef536ce5d4a4d7dbbf481a7d69930.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]科学×冒险绝境求生手册 / Kagaku x Bouken Survival! - 02 [粤语+无字幕][WEB 1920x1080 AVC AAC SRT YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/345962257114217118b97d230e413049936ca1c1</link>
 			<title>[jibaketa合成&amp;二次压制][TVB粤语]科学×冒险绝境求生手册 / Kagaku x Bouken Survival! - 02 [粤语+无字幕][WEB 1920x1080 AVC AAC SRT YUE]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-07-19T22:01:10.985154</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="385456544" url="https://mikanani.me/Download/20250719/703da1d7c532dbf3ccb2440bc4270519b0ee0134.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 气绝勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 03 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/face44f476756e8fce575b3804fbe56a5571c66b</link>
-			<title>[黒ネズミたち] 气绝勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 03 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 气绝勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 03 (Baha 1920x1080 AVC AAC MP4)[366.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/face44f476756e8fce575b3804fbe56a5571c66b</link>
-				<contentLength>384512832</contentLength>
-				<pubDate>2025-07-19T22:00:56.63474</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="384512832" url="https://mikanani.me/Download/20250719/face44f476756e8fce575b3804fbe56a5571c66b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
