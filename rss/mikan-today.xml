@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/6027838710f488d95ded86ae1aa515959963d18b</link>
+			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)[235.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6027838710f488d95ded86ae1aa515959963d18b</link>
+				<contentLength>247044512</contentLength>
+				<pubDate>2025-07-21T03:49:11.970349</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="247044512" url="https://mikanani.me/Download/20250721/6027838710f488d95ded86ae1aa515959963d18b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/4b9c44e7afdde558e505502f8767def3c68cad1a</link>
 			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-20T16:31:03.951697</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="412195232" url="https://mikanani.me/Download/20250720/7d160ff9ffa25b74a46549b2519b482df174d95d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ef0fc8157f437593c4d20c968a9957f263681a46</link>
-			<title>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][480MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ef0fc8157f437593c4d20c968a9957f263681a46</link>
-				<contentLength>503316480</contentLength>
-				<pubDate>2025-07-20T16:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="503316480" url="https://mikanani.me/Download/20250720/ef0fc8157f437593c4d20c968a9957f263681a46.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
