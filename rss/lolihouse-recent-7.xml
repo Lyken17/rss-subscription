@@ -688,5 +688,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="763929536" url="https://mikanani.me/Download/20250719/fc5aabcef3866a205e422ed6bbfa37b48ff889c0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9ed023141c0c13379226bd68ce351d92254ddc7d</link>
+			<title>[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][403.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ed023141c0c13379226bd68ce351d92254ddc7d</link>
+				<contentLength>423131872</contentLength>
+				<pubDate>2025-07-20T07:59:53.452</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="423131872" url="https://mikanani.me/Download/20250720/9ed023141c0c13379226bd68ce351d92254ddc7d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
