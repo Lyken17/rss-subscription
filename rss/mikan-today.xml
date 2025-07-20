@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/4b9c44e7afdde558e505502f8767def3c68cad1a</link>
+			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语][198.65 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b9c44e7afdde558e505502f8767def3c68cad1a</link>
+				<contentLength>208299616</contentLength>
+				<pubDate>2025-07-21T02:36:20.784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="208299616" url="https://mikanani.me/Download/20250721/4b9c44e7afdde558e505502f8767def3c68cad1a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 特装合体机器人 JOBRAVER / 特装合体ロボ ジョブレイバー - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/185c9b1bc08bba3b89135a9c5c12cc5275a26c74</link>
 			<title>[黒ネズミたち] 特装合体机器人 JOBRAVER / 特装合体ロボ ジョブレイバー - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-20T16:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="503316480" url="https://mikanani.me/Download/20250720/ef0fc8157f437593c4d20c968a9957f263681a46.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E16][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
-			<link>https://mikanani.me/Home/Episode/24b41f41bfce33fef1188bdfdb1875b7863cc77b</link>
-			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E16][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
-			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E16][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[402.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/24b41f41bfce33fef1188bdfdb1875b7863cc77b</link>
-				<contentLength>421737280</contentLength>
-				<pubDate>2025-07-20T15:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="421737280" url="https://mikanani.me/Download/20250720/24b41f41bfce33fef1188bdfdb1875b7863cc77b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

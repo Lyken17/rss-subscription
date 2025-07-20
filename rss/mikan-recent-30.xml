@@ -33181,5 +33181,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="744069504" url="https://mikanani.me/Download/20250721/8a465d7f01470b2d16bfc285ec4d34d905cf0e8f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/4b9c44e7afdde558e505502f8767def3c68cad1a</link>
+			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][03][1080p][简日双语][198.65 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b9c44e7afdde558e505502f8767def3c68cad1a</link>
+				<contentLength>208299616</contentLength>
+				<pubDate>2025-07-21T02:36:20.784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="208299616" url="https://mikanani.me/Download/20250721/4b9c44e7afdde558e505502f8767def3c68cad1a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
