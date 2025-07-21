@@ -172,5 +172,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="401405376" url="https://mikanani.me/Download/20250721/cbc1214d5d687b0655b82bf815e23db2300e40aa.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f7810fab635128d8c6e2f5e94602789e3225872f</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][601.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f7810fab635128d8c6e2f5e94602789e3225872f</link>
+				<contentLength>630624064</contentLength>
+				<pubDate>2025-07-21T23:13:45.206</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="630624064" url="https://mikanani.me/Download/20250721/f7810fab635128d8c6e2f5e94602789e3225872f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
