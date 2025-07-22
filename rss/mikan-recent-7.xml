@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][Muv-Luv Alternative][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](マブラヴ オルタネイティヴ)</guid>
-			<link>https://mikanani.me/Home/Episode/25db10b85f568c1df2554f148ffc426dd1c8f4f3</link>
-			<title>[DBD-Raws][Muv-Luv Alternative][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](マブラヴ オルタネイティヴ)</title>
-			<description>[DBD-Raws][Muv-Luv Alternative][01-24TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](マブラヴ オルタネイティヴ)[22.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25db10b85f568c1df2554f148ffc426dd1c8f4f3</link>
-				<contentLength>24266565632</contentLength>
-				<pubDate>2025-07-15T19:01:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="24266565632" url="https://mikanani.me/Download/20250715/25db10b85f568c1df2554f148ffc426dd1c8f4f3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 活尸猫之夜 / Nyaight of the Living Cat - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/79ff89a80d8beb6502944dfbd73b23860f77293e</link>
 			<title>[黒ネズミたち] 活尸猫之夜 / Nyaight of the Living Cat - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -8262,6 +8250,30 @@
 				<pubDate>2025-07-23T01:21:48.05569</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309015360" url="https://mikanani.me/Download/20250723/9734f0b0a7cd763daf21239e40ddb1fdbd1a6d5d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/221b6c53a1d59773a32264560b20b3a14fef434f</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 03 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/221b6c53a1d59773a32264560b20b3a14fef434f</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-07-23T02:46:32.819603</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250723/221b6c53a1d59773a32264560b20b3a14fef434f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">租借女友 第四季 / 出租女友 第四季 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</guid>
+			<link>https://mikanani.me/Home/Episode/7befad5ba1273f293d84b6e459854c5e2eefca99</link>
+			<title>租借女友 第四季 / 出租女友 第四季 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</title>
+			<description>租借女友 第四季 / 出租女友 第四季 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}[1.43 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7befad5ba1273f293d84b6e459854c5e2eefca99</link>
+				<contentLength>1535450752</contentLength>
+				<pubDate>2025-07-23T02:29:25.041</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250723/7befad5ba1273f293d84b6e459854c5e2eefca99.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
