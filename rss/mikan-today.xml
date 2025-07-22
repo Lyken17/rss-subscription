@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 38 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/845f0f6a3825112eede8ca0182abaa96a1e8344e</link>
+			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 38 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 38 (B-Global Donghua 1920x1080 HEVC AAC MKV)[342.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/845f0f6a3825112eede8ca0182abaa96a1e8344e</link>
+				<contentLength>359137280</contentLength>
+				<pubDate>2025-07-22T09:02:44.753062</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="359137280" url="https://mikanani.me/Download/20250722/845f0f6a3825112eede8ca0182abaa96a1e8344e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 03 - [繁日内嵌][H264 8bit 1080P](检索：游乐场少女的异文化交流)</guid>
 			<link>https://mikanani.me/Home/Episode/6a055c29892719ecea28fd2da7355a05478533c7</link>
 			<title>[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 03 - [繁日内嵌][H264 8bit 1080P](检索：游乐场少女的异文化交流)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-21T00:35:59.921</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="222906288" url="https://mikanani.me/Download/20250721/cc8e91e544aada04fb0d9e34b1ed48ba5315efe6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][34][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/781713e9822783a0fad3a7ec5b99398b55114198</link>
-			<title>[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][34][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][沧元图 第2季][The Demon Hunter Ⅱ][2024][34][GB][4K HEVC 10Bit][1.18 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/781713e9822783a0fad3a7ec5b99398b55114198</link>
-				<contentLength>1267015296</contentLength>
-				<pubDate>2025-07-21T00:35:45.298</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20250721/781713e9822783a0fad3a7ec5b99398b55114198.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
