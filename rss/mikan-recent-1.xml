@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="466039616" url="https://mikanani.me/Download/20250721/7207d2e715d5224df3c0cc05f6c69d69e088205e.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA篇+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</guid>
-			<link>https://mikanani.me/Home/Episode/4a3c934f021508af3cf1b62916ed842e3960963b</link>
-			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA篇+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</title>
-			<description>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA篇+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)[142.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a3c934f021508af3cf1b62916ed842e3960963b</link>
-				<contentLength>153330335744</contentLength>
-				<pubDate>2025-07-21T19:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="153330335744" url="https://mikanani.me/Download/20250721/4a3c934f021508af3cf1b62916ed842e3960963b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cbc1214d5d687b0655b82bf815e23db2300e40aa</link>
 			<title>[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1542,6 +1530,18 @@
 				<pubDate>2025-07-23T02:29:25.041</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250723/7befad5ba1273f293d84b6e459854c5e2eefca99.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">灵笼 第二季 / INCARNATION S2 - 10 [816P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/63198750265d7127a5ff67c9c0029284ec1caaf8</link>
+			<title>灵笼 第二季 / INCARNATION S2 - 10 [816P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>灵笼 第二季 / INCARNATION S2 - 10 [816P][Bilibili][WEB-DL][AVC AAC][简体中文][748.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63198750265d7127a5ff67c9c0029284ec1caaf8</link>
+				<contentLength>784439680</contentLength>
+				<pubDate>2025-07-23T03:56:25.882</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="784439680" url="https://mikanani.me/Download/20250723/63198750265d7127a5ff67c9c0029284ec1caaf8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

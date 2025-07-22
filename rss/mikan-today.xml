@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">灵笼 第二季 / INCARNATION S2 - 10 [816P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/63198750265d7127a5ff67c9c0029284ec1caaf8</link>
+			<title>灵笼 第二季 / INCARNATION S2 - 10 [816P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>灵笼 第二季 / INCARNATION S2 - 10 [816P][Bilibili][WEB-DL][AVC AAC][简体中文][748.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63198750265d7127a5ff67c9c0029284ec1caaf8</link>
+				<contentLength>784439680</contentLength>
+				<pubDate>2025-07-23T03:56:25.882</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="784439680" url="https://mikanani.me/Download/20250723/63198750265d7127a5ff67c9c0029284ec1caaf8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 03 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/221b6c53a1d59773a32264560b20b3a14fef434f</link>
 			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 03 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-07-21T23:13:45.206</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="630624064" url="https://mikanani.me/Download/20250721/f7810fab635128d8c6e2f5e94602789e3225872f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Clevatess－魔兽之王与婴儿与尸之勇者－ / Clevatess: Majuu no Ou to Akago to Kabane no Yuusha - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4ddd03365e11dfe38336e52e8f6d348db78e57a8</link>
-			<title>[黒ネズミたち] Clevatess－魔兽之王与婴儿与尸之勇者－ / Clevatess: Majuu no Ou to Akago to Kabane no Yuusha - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Clevatess－魔兽之王与婴儿与尸之勇者－ / Clevatess: Majuu no Ou to Akago to Kabane no Yuusha - 03 (ABEMA 1920x1080 AVC AAC MP4)[712.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4ddd03365e11dfe38336e52e8f6d348db78e57a8</link>
-				<contentLength>747110400</contentLength>
-				<pubDate>2025-07-21T23:02:53.853997</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20250721/4ddd03365e11dfe38336e52e8f6d348db78e57a8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
