@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6027838710f488d95ded86ae1aa515959963d18b</link>
-			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)[235.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6027838710f488d95ded86ae1aa515959963d18b</link>
-				<contentLength>247044512</contentLength>
-				<pubDate>2025-07-21T03:49:11.970349</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="247044512" url="https://mikanani.me/Download/20250721/6027838710f488d95ded86ae1aa515959963d18b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 86 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c1b536f7316885c93950543a86080e716cfbdeaf</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 86 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1047,6 +1035,30 @@
 				<pubDate>2025-07-22T10:28:40.766186</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="696988480" url="https://mikanani.me/Download/20250722/d1731432fe9e4a12f759f9bd3c03f7cc345b89d2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第03集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/84faceae6056a26daaac3ac878dbc1f0ac4e3968</link>
+			<title>【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第03集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第03集 GB_CN HEVC_opus 1080p[260 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/84faceae6056a26daaac3ac878dbc1f0ac4e3968</link>
+				<contentLength>272629760</contentLength>
+				<pubDate>2025-07-22T12:06:00.08</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="272629760" url="https://mikanani.me/Download/20250722/84faceae6056a26daaac3ac878dbc1f0ac4e3968.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 坂本日常 SAKAMOTO DAYS - 13 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/16706a90ff18d1c16b716af41b80ab54f31b64c3</link>
+			<title>[Prejudice-Studio] 坂本日常 SAKAMOTO DAYS - 13 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 坂本日常 SAKAMOTO DAYS - 13 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简日内嵌][1.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/16706a90ff18d1c16b716af41b80ab54f31b64c3</link>
+				<contentLength>2040109440</contentLength>
+				<pubDate>2025-07-22T11:40:47.877789</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20250722/16706a90ff18d1c16b716af41b80ab54f31b64c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
