@@ -1039,5 +1039,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="461394400" url="https://mikanani.me/Download/20250723/2d6ba56eb1b54a9dd255435018e7a1d590a591cb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/5da2cd25e3c83802402a46c748f641daf6141de2</link>
+			<title>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★04★1920x1080★AVC AAC MP4★繁体中文[429.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5da2cd25e3c83802402a46c748f641daf6141de2</link>
+				<contentLength>450363392</contentLength>
+				<pubDate>2025-07-23T17:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="450363392" url="https://mikanani.me/Download/20250723/5da2cd25e3c83802402a46c748f641daf6141de2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
