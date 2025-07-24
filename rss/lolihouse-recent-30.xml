@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 13 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ed347f73f63544296b8bfbcbcf2ed28e72db2d10</link>
-			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 13 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 13 (江户篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][437.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ed347f73f63544296b8bfbcbcf2ed28e72db2d10</link>
-				<contentLength>459119008</contentLength>
-				<pubDate>2025-06-24T15:55:25.651</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="459119008" url="https://mikanani.me/Download/20250624/ed347f73f63544296b8bfbcbcf2ed28e72db2d10.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[奶²&amp;LoliHouse] 小浣熊 卡尔卡尔团 / Araiguma Calcal-dan [01-12+Extra][WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cffce517c923b9b84e191fc4b7054e77472a3a1c</link>
 			<title>[奶²&amp;LoliHouse] 小浣熊 卡尔卡尔团 / Araiguma Calcal-dan [01-12+Extra][WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
@@ -2253,6 +2241,18 @@
 				<pubDate>2025-07-24T22:52:08.923</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="499122176" url="https://mikanani.me/Download/20250724/65f52aa83e78f8838b53441a6196f6427799832a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 美男高校地球防卫部 时髦! / Binan Koukou Chikyuu Bouei-bu Haikara! - 03 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/086694018b91ad1e5b7085864b890102f6f2f880</link>
+			<title>[奶²&amp;LoliHouse] 美男高校地球防卫部 时髦! / Binan Koukou Chikyuu Bouei-bu Haikara! - 03 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] 美男高校地球防卫部 时髦! / Binan Koukou Chikyuu Bouei-bu Haikara! - 03 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][611 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/086694018b91ad1e5b7085864b890102f6f2f880</link>
+				<contentLength>640679936</contentLength>
+				<pubDate>2025-07-24T23:34:00.339</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="640679936" url="https://mikanani.me/Download/20250724/086694018b91ad1e5b7085864b890102f6f2f880.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
