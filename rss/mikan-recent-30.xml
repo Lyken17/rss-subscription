@@ -31462,5 +31462,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20830590976" url="https://mikanani.me/Download/20250724/9b2f4b42d72ad47f1d1ed84f018961a2eaf9d9f6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][罗密欧的蓝天/Romeo no Aoi Sora][01-33TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLAC][MKV](ロミオの青い空)</guid>
+			<link>https://mikanani.me/Home/Episode/37718ef132d0b4ee81323972bbbbbbea2ebe833b</link>
+			<title>[DBD-Raws][罗密欧的蓝天/Romeo no Aoi Sora][01-33TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLAC][MKV](ロミオの青い空)</title>
+			<description>[DBD-Raws][罗密欧的蓝天/Romeo no Aoi Sora][01-33TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLAC][MKV](ロミオの青い空)[31.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37718ef132d0b4ee81323972bbbbbbea2ebe833b</link>
+				<contentLength>33500745728</contentLength>
+				<pubDate>2025-07-24T14:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33500745728" url="https://mikanani.me/Download/20250724/37718ef132d0b4ee81323972bbbbbbea2ebe833b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
