@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[03][1080p][WebRip][AVC_AAC][CHS][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b19f26cf89c62c3930805d50c9f67e4865a34a6b</link>
-			<title>[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[03][1080p][WebRip][AVC_AAC][CHS][简体内嵌]</title>
-			<description>[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[03][1080p][WebRip][AVC_AAC][CHS][简体内嵌][576.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b19f26cf89c62c3930805d50c9f67e4865a34a6b</link>
-				<contentLength>604504064</contentLength>
-				<pubDate>2025-07-17T10:30:42.060104</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="604504064" url="https://mikanani.me/Download/20250717/b19f26cf89c62c3930805d50c9f67e4865a34a6b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c4afda9b3d493d219f0462104d8f9e5214d952e8</link>
 			<title>[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 03 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -7722,6 +7710,18 @@
 				<pubDate>2025-07-24T14:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="33500745728" url="https://mikanani.me/Download/20250724/37718ef132d0b4ee81323972bbbbbbea2ebe833b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/1bd63726eecfaf69c2ed5a0a8765d088de85d101</link>
+			<title>[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][15.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1bd63726eecfaf69c2ed5a0a8765d088de85d101</link>
+				<contentLength>17072494592</contentLength>
+				<pubDate>2025-07-24T19:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17072494592" url="https://mikanani.me/Download/20250724/1bd63726eecfaf69c2ed5a0a8765d088de85d101.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

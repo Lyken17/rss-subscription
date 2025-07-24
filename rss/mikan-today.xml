@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/1bd63726eecfaf69c2ed5a0a8765d088de85d101</link>
+			<title>[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][15.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1bd63726eecfaf69c2ed5a0a8765d088de85d101</link>
+				<contentLength>17072494592</contentLength>
+				<pubDate>2025-07-24T19:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17072494592" url="https://mikanani.me/Download/20250724/1bd63726eecfaf69c2ed5a0a8765d088de85d101.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][罗密欧的蓝天/Romeo no Aoi Sora][01-33TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLAC][MKV](ロミオの青い空)</guid>
 			<link>https://mikanani.me/Home/Episode/37718ef132d0b4ee81323972bbbbbbea2ebe833b</link>
 			<title>[DBD-Raws][罗密欧的蓝天/Romeo no Aoi Sora][01-33TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLAC][MKV](ロミオの青い空)</title>
@@ -1233,18 +1245,6 @@
 				<pubDate>2025-07-22T23:30:57.290717</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20250722/4086f29bdf4dbfb39390ef490006f6b2e0830bac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 恋上换装娃娃 Season 2 / Sono Bisque Doll wa Koi wo Suru Season 2 - 15 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/58fd547e16d4b6e2378e1d9eab1d6cc9647727ac</link>
-			<title>[黒ネズミたち] 恋上换装娃娃 Season 2 / Sono Bisque Doll wa Koi wo Suru Season 2 - 15 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 恋上换装娃娃 Season 2 / Sono Bisque Doll wa Koi wo Suru Season 2 - 15 (ABEMA 1280x720 AVC AAC MP4)[368.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58fd547e16d4b6e2378e1d9eab1d6cc9647727ac</link>
-				<contentLength>385875968</contentLength>
-				<pubDate>2025-07-22T23:01:38.688963</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385875968" url="https://mikanani.me/Download/20250722/58fd547e16d4b6e2378e1d9eab1d6cc9647727ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
