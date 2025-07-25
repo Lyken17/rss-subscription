@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP02 [简／繁] (1080p&amp;720i H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/b443ae9a7f7950b43941bd630e1ecb126bebc648</link>
+			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP02 [简／繁] (1080p&amp;720i H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP02 [简／繁] (1080p&amp;720i H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[2.61 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b443ae9a7f7950b43941bd630e1ecb126bebc648</link>
+				<contentLength>2802466048</contentLength>
+				<pubDate>2025-07-26T07:06:55.485</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2802466048" url="https://mikanani.me/Download/20250726/b443ae9a7f7950b43941bd630e1ecb126bebc648.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [03][AVC AAC][1080p][繁日内嵌][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/c37c0cda52ca63c97665304415008d42a5c2bdc8</link>
 			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [03][AVC AAC][1080p][繁日内嵌][招募翻校轴]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-25T01:54:30.865</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="265604304" url="https://mikanani.me/Download/20250725/c52f2682aabf2209558220dafdb56861b0e0a334.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋字幕社&amp;猫恋汉化组][7月新番][拔作岛][Nukitashi The Animation][01][1080P][GB][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/9ff16a40759751ef9a14f8e53a43b432683fdf4f</link>
-			<title>[爱恋字幕社&amp;猫恋汉化组][7月新番][拔作岛][Nukitashi The Animation][01][1080P][GB][MP4][简中]</title>
-			<description>[爱恋字幕社&amp;猫恋汉化组][7月新番][拔作岛][Nukitashi The Animation][01][1080P][GB][MP4][简中][253.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9ff16a40759751ef9a14f8e53a43b432683fdf4f</link>
-				<contentLength>265709152</contentLength>
-				<pubDate>2025-07-25T01:52:01.472</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="265709152" url="https://mikanani.me/Download/20250725/9ff16a40759751ef9a14f8e53a43b432683fdf4f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
