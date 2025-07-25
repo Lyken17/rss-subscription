@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][Fate / stay night Heaven's Feel/命运之夜 天之杯][01-03合集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/0723d437a843e2f6877849a628572a51dbc661a7</link>
+			<title>[DBD-Raws][Fate / stay night Heaven's Feel/命运之夜 天之杯][01-03合集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV]</title>
+			<description>[DBD-Raws][Fate / stay night Heaven's Feel/命运之夜 天之杯][01-03合集+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV][18.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0723d437a843e2f6877849a628572a51dbc661a7</link>
+				<contentLength>19971598336</contentLength>
+				<pubDate>2025-07-25T19:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19971598336" url="https://mikanani.me/Download/20250725/0723d437a843e2f6877849a628572a51dbc661a7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 小城日常 / City the Animation [03][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/231e7e5a6d11f1c4644e2f5848b90b8da859a688</link>
 			<title>[桜都字幕组] 小城日常 / City the Animation [03][1080p][简繁内封]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-24T21:01:09.456347</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="722888320" url="https://mikanani.me/Download/20250724/ba253abd35ea40792b038e65e5a82430db056a25.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 去唱卡拉OK吧 / Karaoke Iko! - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/78e1b73cfcf966df2b0fb5ca23ba00b0226265ad</link>
-			<title>[黒ネズミたち] 去唱卡拉OK吧 / Karaoke Iko! - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 去唱卡拉OK吧 / Karaoke Iko! - 01 (B-Global 1920x1080 HEVC AAC MKV)[397.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/78e1b73cfcf966df2b0fb5ca23ba00b0226265ad</link>
-				<contentLength>416704096</contentLength>
-				<pubDate>2025-07-24T20:32:48.909875</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="416704096" url="https://mikanani.me/Download/20250724/78e1b73cfcf966df2b0fb5ca23ba00b0226265ad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
