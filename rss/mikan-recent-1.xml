@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/1bd63726eecfaf69c2ed5a0a8765d088de85d101</link>
-			<title>[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][Fate / Apocrypha/命运：外典][01-25TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][15.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1bd63726eecfaf69c2ed5a0a8765d088de85d101</link>
-				<contentLength>17072494592</contentLength>
-				<pubDate>2025-07-24T19:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17072494592" url="https://mikanani.me/Download/20250724/1bd63726eecfaf69c2ed5a0a8765d088de85d101.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 去唱卡拉OK吧 / Karaoke Iko! - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/78e1b73cfcf966df2b0fb5ca23ba00b0226265ad</link>
 			<title>[黒ネズミたち] 去唱卡拉OK吧 / Karaoke Iko! - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1863,6 +1851,18 @@
 				<pubDate>2025-07-26T01:31:06.799602</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389860544" url="https://mikanani.me/Download/20250726/961cf8fccc4aea66e9500f355dee1525667a0ca9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 40 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/00ab12dff7c4871d2c9084fa74bd336d432ebae5</link>
+			<title>[黒ネズミたち] Nui Story 2 - 40 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 40 (ABEMA 1920x1080 AVC AAC MP4)[61.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/00ab12dff7c4871d2c9084fa74bd336d432ebae5</link>
+				<contentLength>64697140</contentLength>
+				<pubDate>2025-07-26T03:01:32.73434</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="64697140" url="https://mikanani.me/Download/20250726/00ab12dff7c4871d2c9084fa74bd336d432ebae5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

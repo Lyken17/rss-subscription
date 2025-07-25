@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 40 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/00ab12dff7c4871d2c9084fa74bd336d432ebae5</link>
+			<title>[黒ネズミたち] Nui Story 2 - 40 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 40 (ABEMA 1920x1080 AVC AAC MP4)[61.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/00ab12dff7c4871d2c9084fa74bd336d432ebae5</link>
+				<contentLength>64697140</contentLength>
+				<pubDate>2025-07-26T03:01:32.73434</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="64697140" url="https://mikanani.me/Download/20250726/00ab12dff7c4871d2c9084fa74bd336d432ebae5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治代餐部] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 13 - [繁日内嵌][H264 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/ec2f6114a7443a88a6ebd9ab02677a9358a7c9f2</link>
 			<title>[三明治代餐部] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan - 13 - [繁日内嵌][H264 8bit 1080P]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-25T01:02:51.890245</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20250725/a58e54b3a3656fd3a0dcbf1f2e7e1ae6699b4cfa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 神椿市建设中。 / Kamitsubaki-shi Kensetsuchuu. - 03 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/302d43a38b1bccdffd6191b6bb655f8b99aee6e3</link>
-			<title>[黒ネズミたち] 神椿市建设中。 / Kamitsubaki-shi Kensetsuchuu. - 03 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 神椿市建设中。 / Kamitsubaki-shi Kensetsuchuu. - 03 (Baha 1920x1080 AVC AAC MP4)[398.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/302d43a38b1bccdffd6191b6bb655f8b99aee6e3</link>
-				<contentLength>417542976</contentLength>
-				<pubDate>2025-07-25T01:00:54.516522</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="417542976" url="https://mikanani.me/Download/20250725/302d43a38b1bccdffd6191b6bb655f8b99aee6e3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
