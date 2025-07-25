@@ -7768,5 +7768,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="394086304" url="https://mikanani.me/Download/20250725/06c009cb3a467f2917837130886c4f036a489b83.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン 10-bit 1080p HEVC BDRip [S1 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/73243ea814f8d944ebe68144a2f722856b907faa</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン 10-bit 1080p HEVC BDRip [S1 Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン 10-bit 1080p HEVC BDRip [S1 Fin][50.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73243ea814f8d944ebe68144a2f722856b907faa</link>
+				<contentLength>53901840384</contentLength>
+				<pubDate>2025-07-25T12:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="53901840384" url="https://mikanani.me/Download/20250725/73243ea814f8d944ebe68144a2f722856b907faa.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
