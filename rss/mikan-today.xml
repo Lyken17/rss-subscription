@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] BLOODY ESCAPE：地狱的逃走剧 / Bloody Escape: Jigoku no Tousou Geki - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/98b6f8ef9513b9683f63df038acbffda0f12f409</link>
+			<title>[黒ネズミたち] BLOODY ESCAPE：地狱的逃走剧 / Bloody Escape: Jigoku no Tousou Geki - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] BLOODY ESCAPE：地狱的逃走剧 / Bloody Escape: Jigoku no Tousou Geki - 电影 (Baha 1920x1080 AVC AAC MP4)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/98b6f8ef9513b9683f63df038acbffda0f12f409</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-07-25T13:49:44.589506</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250725/98b6f8ef9513b9683f63df038acbffda0f12f409.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/5ff43ee4fcb069c940054a443c96c4a29eaaed69</link>
 			<title>[黒ネズミたち] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-24T08:57:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20250724/06e9abfe452110bd912376aa95fdfe14b6e3043a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">新 吊带袜天使 New PANTY and STOCKING with GARTERBELT S01E03 1080p 日英双语-多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/b265fe07497b94e5b581341cfbaaa8745d564165</link>
-			<title>新 吊带袜天使 New PANTY and STOCKING with GARTERBELT S01E03 1080p 日英双语-多国字幕</title>
-			<description>新 吊带袜天使 New PANTY and STOCKING with GARTERBELT S01E03 1080p 日英双语-多国字幕[781.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b265fe07497b94e5b581341cfbaaa8745d564165</link>
-				<contentLength>819671872</contentLength>
-				<pubDate>2025-07-24T04:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="819671872" url="https://mikanani.me/Download/20250724/b265fe07497b94e5b581341cfbaaa8745d564165.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

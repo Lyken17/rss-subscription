@@ -1216,5 +1216,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250725/01152bb32af270c137a8dd89493bae8970549999.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] BLOODY ESCAPE：地狱的逃走剧 / Bloody Escape: Jigoku no Tousou Geki - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/98b6f8ef9513b9683f63df038acbffda0f12f409</link>
+			<title>[黒ネズミたち] BLOODY ESCAPE：地狱的逃走剧 / Bloody Escape: Jigoku no Tousou Geki - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] BLOODY ESCAPE：地狱的逃走剧 / Bloody Escape: Jigoku no Tousou Geki - 电影 (Baha 1920x1080 AVC AAC MP4)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/98b6f8ef9513b9683f63df038acbffda0f12f409</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-07-25T13:49:44.589506</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250725/98b6f8ef9513b9683f63df038acbffda0f12f409.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
