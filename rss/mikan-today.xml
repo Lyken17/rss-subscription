@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][Fate Grand Order 神圣圆桌领域卡美洛/Fate / Grand Order Shinsei Entaku Ryouiki Camelot][01-02合集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Fate / Grand Order -神圣円卓领域キャメロット-)</guid>
+			<link>https://mikanani.me/Home/Episode/199a2f28b2bd9f6fd543503bb272d87c51354d41</link>
+			<title>[DBD-Raws][Fate Grand Order 神圣圆桌领域卡美洛/Fate / Grand Order Shinsei Entaku Ryouiki Camelot][01-02合集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Fate / Grand Order -神圣円卓领域キャメロット-)</title>
+			<description>[DBD-Raws][Fate Grand Order 神圣圆桌领域卡美洛/Fate / Grand Order Shinsei Entaku Ryouiki Camelot][01-02合集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](Fate / Grand Order -神圣円卓领域キャメロット-)[10.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/199a2f28b2bd9f6fd543503bb272d87c51354d41</link>
+				<contentLength>10952166400</contentLength>
+				<pubDate>2025-07-26T13:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10952166400" url="https://mikanani.me/Download/20250726/199a2f28b2bd9f6fd543503bb272d87c51354d41.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 渡同学的××濒临崩坏 [04][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/73d6539ec4596cc5ac23152e4975beb8ca207dee</link>
 			<title>[TOC] 渡同学的××濒临崩坏 [04][1080P][AVC AAC][CHT][MP4]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-25T07:06:51.727329</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="601777792" url="https://mikanani.me/Download/20250725/e84d73a62650589c2a6eb8f3e70aa2c536afdd04.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] KamitsubakiShi Kensetsuchū /  神椿市建设中。 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3f05653cb871768294076c492fa8f0e678b649d2</link>
-			<title>[ANi] KamitsubakiShi Kensetsuchū /  神椿市建设中。 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] KamitsubakiShi Kensetsuchū /  神椿市建设中。 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][398.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3f05653cb871768294076c492fa8f0e678b649d2</link>
-				<contentLength>417962400</contentLength>
-				<pubDate>2025-07-25T07:06:49.894151</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="417962400" url="https://mikanani.me/Download/20250725/3f05653cb871768294076c492fa8f0e678b649d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
