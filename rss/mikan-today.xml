@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ca50628a6f4f843a669701b5df3ee2256de9eb9b</link>
+			<title>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][369.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ca50628a6f4f843a669701b5df3ee2256de9eb9b</link>
+				<contentLength>387679520</contentLength>
+				<pubDate>2025-07-26T17:15:31.981</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="387679520" url="https://mikanani.me/Download/20250726/ca50628a6f4f843a669701b5df3ee2256de9eb9b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][16][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/e78bd031a5b3ddc9b8f6a7c045e72cc2ea10a55f</link>
 			<title>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][16][1080p][简日双语]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-25T11:05:49.667315</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250725/4d9e599f5f79ea05de2c7e3cdad6a1068a8c401d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 11 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d021e8ba0e29e10f165d4600ec02013514fbb1bc</link>
-			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 11 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 11 (B-Global Donghua 1920x820 HEVC AAC MKV)[438.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d021e8ba0e29e10f165d4600ec02013514fbb1bc</link>
-				<contentLength>460010304</contentLength>
-				<pubDate>2025-07-25T11:02:56.672748</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="460010304" url="https://mikanani.me/Download/20250725/d021e8ba0e29e10f165d4600ec02013514fbb1bc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
