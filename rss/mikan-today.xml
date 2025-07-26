@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">Bad Girl 不良少女 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
+			<link>https://mikanani.me/Home/Episode/9fc636c2158e83eb288f92432598de3284b722be</link>
+			<title>Bad Girl 不良少女 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
+			<description>Bad Girl 不良少女 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}[569.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9fc636c2158e83eb288f92432598de3284b722be</link>
+				<contentLength>597310848</contentLength>
+				<pubDate>2025-07-27T03:09:33.421</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="597310848" url="https://mikanani.me/Download/20250727/9fc636c2158e83eb288f92432598de3284b722be.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 青春猪头少年不会梦到圣诞服女郎 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/1432a848087810103fdbc2555b0087ad8f3395a4</link>
 			<title>[Skymoon-Raws] 青春猪头少年不会梦到圣诞服女郎 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-26T14:48:15.32</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="537762176" url="https://mikanani.me/Download/20250726/0d98cb804d3a7af6ae99e97f25e5d7f9ac5c1ce0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 美食广场里的女高中生们在说啥 / Food Court de, Mata Ashita [03][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/62b1cce971a889bc066bcef881986d1f4e225a34</link>
-			<title>[桜都字幕组] 美食广场里的女高中生们在说啥 / Food Court de, Mata Ashita [03][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 美食广场里的女高中生们在说啥 / Food Court de, Mata Ashita [03][1080p][简体内嵌][244.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/62b1cce971a889bc066bcef881986d1f4e225a34</link>
-				<contentLength>256439744</contentLength>
-				<pubDate>2025-07-26T14:47:45.937</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="256439744" url="https://mikanani.me/Download/20250726/62b1cce971a889bc066bcef881986d1f4e225a34.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

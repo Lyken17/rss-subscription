@@ -8809,5 +8809,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="402338624" url="https://mikanani.me/Download/20250727/f02dab0888bec78070454926a4de826e7a0a67b4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">Bad Girl 不良少女 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
+			<link>https://mikanani.me/Home/Episode/9fc636c2158e83eb288f92432598de3284b722be</link>
+			<title>Bad Girl 不良少女 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
+			<description>Bad Girl 不良少女 - EP04 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}[569.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9fc636c2158e83eb288f92432598de3284b722be</link>
+				<contentLength>597310848</contentLength>
+				<pubDate>2025-07-27T03:09:33.421</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="597310848" url="https://mikanani.me/Download/20250727/9fc636c2158e83eb288f92432598de3284b722be.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
