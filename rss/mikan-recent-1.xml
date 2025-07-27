@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ca50628a6f4f843a669701b5df3ee2256de9eb9b</link>
-			<title>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][369.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ca50628a6f4f843a669701b5df3ee2256de9eb9b</link>
-				<contentLength>387679520</contentLength>
-				<pubDate>2025-07-26T17:15:31.981</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="387679520" url="https://mikanani.me/Download/20250726/ca50628a6f4f843a669701b5df3ee2256de9eb9b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">真·武士传 / Shin Samurai-den Yaiba - 08 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/027ff44c6bf2c9bb0d4ae6d11cb436fd9f9b1e1e</link>
 			<title>真·武士传 / Shin Samurai-den Yaiba - 08 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
@@ -2595,6 +2583,30 @@
 				<pubDate>2025-07-27T23:25:22.986016</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751933824" url="https://mikanani.me/Download/20250727/e81a98f3d41b5db5693c85a61c8d1b939fa40db1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 丑男真战士 / Busamen Gachi Fighte - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/01bbda664c4454e3b2699e9fe37a4888082baf8a</link>
+			<title>[Skymoon-Raws] 丑男真战士 / Busamen Gachi Fighte - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 丑男真战士 / Busamen Gachi Fighte - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][326.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/01bbda664c4454e3b2699e9fe37a4888082baf8a</link>
+				<contentLength>342464928</contentLength>
+				<pubDate>2025-07-28T00:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="342464928" url="https://mikanani.me/Download/20250728/01bbda664c4454e3b2699e9fe37a4888082baf8a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/23b7fce9c160dab09db15ecb56efde53ec875c9c</link>
+			<title>[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 04 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23b7fce9c160dab09db15ecb56efde53ec875c9c</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-07-28T00:35:48.796281</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250728/23b7fce9c160dab09db15ecb56efde53ec875c9c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
