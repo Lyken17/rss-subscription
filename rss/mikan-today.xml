@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4baa62551b354b2abc601a02886d1dd70cdd6205</link>
+			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 03 (CR 1920x1080 AVC AAC MKV)[234.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4baa62551b354b2abc601a02886d1dd70cdd6205</link>
+				<contentLength>246310496</contentLength>
+				<pubDate>2025-07-28T03:48:42.162705</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="246310496" url="https://mikanani.me/Download/20250728/4baa62551b354b2abc601a02886d1dd70cdd6205.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[神椿观测站&amp;LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f99709dca9c60ba52204af0f411478b12faf433e</link>
 			<title>[神椿观测站&amp;LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-27T14:35:25.57893</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250727/c8bceb32464e51fce1ade8507624a227a8a9a382.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c5fbe1ed25cf4109365f2a799ff992807b023721</link>
-			<title>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][455.45 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c5fbe1ed25cf4109365f2a799ff992807b023721</link>
-				<contentLength>477573952</contentLength>
-				<pubDate>2025-07-27T14:00:28.743</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="477573952" url="https://mikanani.me/Download/20250727/c5fbe1ed25cf4109365f2a799ff992807b023721.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
