@@ -184,5 +184,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="441869920" url="https://mikanani.me/Download/20250727/23f011c642a757ed67d93ccfd88310ecf7215448.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[神椿观测站&amp;LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f99709dca9c60ba52204af0f411478b12faf433e</link>
+			<title>[神椿观测站&amp;LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[神椿观测站&amp;LoliHouse] 神椿市建设中。 / Kamitsubaki City Under Construction / 神椿市建设中。 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][499.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f99709dca9c60ba52204af0f411478b12faf433e</link>
+				<contentLength>523449152</contentLength>
+				<pubDate>2025-07-28T01:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="523449152" url="https://mikanani.me/Download/20250728/f99709dca9c60ba52204af0f411478b12faf433e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
