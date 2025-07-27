@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/c8bceb32464e51fce1ade8507624a227a8a9a382</link>
+			<title>[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][4.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c8bceb32464e51fce1ade8507624a227a8a9a382</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-07-27T14:35:25.57893</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250727/c8bceb32464e51fce1ade8507624a227a8a9a382.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c5fbe1ed25cf4109365f2a799ff992807b023721</link>
 			<title>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-26T22:23:45.355</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="366949184" url="https://mikanani.me/Download/20250726/5bded1bcd4e8ac778b7cf49bda834f490bf13438.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 欢迎光临流放者食堂！/ Tsuihousha Shokudou e Youkoso! [03] [1080p] [繁日内嵌] [2025年7月番]</guid>
-			<link>https://mikanani.me/Home/Episode/496212348888c9e31a9dce8c5a62e2ebd58cf4c7</link>
-			<title>[猎户压制部] 欢迎光临流放者食堂！/ Tsuihousha Shokudou e Youkoso! [03] [1080p] [繁日内嵌] [2025年7月番]</title>
-			<description>[猎户压制部] 欢迎光临流放者食堂！/ Tsuihousha Shokudou e Youkoso! [03] [1080p] [繁日内嵌] [2025年7月番][436.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/496212348888c9e31a9dce8c5a62e2ebd58cf4c7</link>
-				<contentLength>457284000</contentLength>
-				<pubDate>2025-07-26T22:09:30.723588</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="457284000" url="https://mikanani.me/Download/20250726/496212348888c9e31a9dce8c5a62e2ebd58cf4c7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

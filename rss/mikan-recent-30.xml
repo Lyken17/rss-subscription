@@ -32962,5 +32962,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20250727/7ca2c4ce93852fcc73d2ce3e4dc40951758d7f99.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/c8bceb32464e51fce1ade8507624a227a8a9a382</link>
+			<title>[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][4.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c8bceb32464e51fce1ade8507624a227a8a9a382</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-07-27T14:35:25.57893</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250727/c8bceb32464e51fce1ade8507624a227a8a9a382.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

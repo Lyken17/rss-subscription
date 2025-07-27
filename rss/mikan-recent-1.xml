@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP02 [简／繁] (1080p&amp;720i H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
-			<link>https://mikanani.me/Home/Episode/b443ae9a7f7950b43941bd630e1ecb126bebc648</link>
-			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP02 [简／繁] (1080p&amp;720i H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
-			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP02 [简／繁] (1080p&amp;720i H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[2.61 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b443ae9a7f7950b43941bd630e1ecb126bebc648</link>
-				<contentLength>2802466048</contentLength>
-				<pubDate>2025-07-26T07:06:55.485</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2802466048" url="https://mikanani.me/Download/20250726/b443ae9a7f7950b43941bd630e1ecb126bebc648.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 87 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/35be0da3fbc470eb42518ae983eba8f759522ba3</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 87 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1827,6 +1815,18 @@
 				<pubDate>2025-07-27T13:49:58.706542</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20250727/7ca2c4ce93852fcc73d2ce3e4dc40951758d7f99.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/c8bceb32464e51fce1ade8507624a227a8a9a382</link>
+			<title>[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 百千家的妖怪王子 Momochi-san Chi no Ayakashi Ouji [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][4.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c8bceb32464e51fce1ade8507624a227a8a9a382</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-07-27T14:35:25.57893</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20250727/c8bceb32464e51fce1ade8507624a227a8a9a382.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
