@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 16 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/411e33391242c1a56eb9134ec0b919ed23cf57be</link>
-			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 16 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 16 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/411e33391242c1a56eb9134ec0b919ed23cf57be</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-07-20T11:08:38.508091</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250720/411e33391242c1a56eb9134ec0b919ed23cf57be.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][24][简繁外挂](检索:Q娃)</guid>
 			<link>https://mikanani.me/Home/Episode/b1bbebeb6fe941ca2831cf15abf6b51f7fd2b593</link>
 			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][24][简繁外挂](检索:Q娃)</title>
@@ -8268,6 +8256,18 @@
 				<pubDate>2025-07-27T17:23:00.82</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="412090368" url="https://mikanani.me/Download/20250727/e8bcefd52c16d49b1de13367b8c69be9564a2b1e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0</link>
+			<title>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)[764.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0</link>
+				<contentLength>802013824</contentLength>
+				<pubDate>2025-07-27T19:08:12.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="802013824" url="https://mikanani.me/Download/20250727/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

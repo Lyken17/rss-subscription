@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0</link>
+			<title>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)[764.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0</link>
+				<contentLength>802013824</contentLength>
+				<pubDate>2025-07-27T19:08:12.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="802013824" url="https://mikanani.me/Download/20250727/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 噗妮露是可爱史莱姆 第二季 / Puniru wa Kawaii Slime 2nd Season - 16 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/9fff0b3f67244bcf92991a79536f428cb9d2c686</link>
 			<title>[黒ネズミたち] 噗妮露是可爱史莱姆 第二季 / Puniru wa Kawaii Slime 2nd Season - 16 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-26T23:03:00.666579</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745432704" url="https://mikanani.me/Download/20250726/f263cef0681d6d0e0853eae80f2154e1e5636847.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 怪兽8号 第二季 / Kaijuu 8-gou 2nd Season - 14 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/441ffa57ea773833ecb94b1539189cd9b6a0380a</link>
-			<title>[黒ネズミたち] 怪兽8号 第二季 / Kaijuu 8-gou 2nd Season - 14 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 怪兽8号 第二季 / Kaijuu 8-gou 2nd Season - 14 (B-Global 1920x1080 HEVC AAC MKV)[379.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/441ffa57ea773833ecb94b1539189cd9b6a0380a</link>
-				<contentLength>398144320</contentLength>
-				<pubDate>2025-07-26T23:02:23.155026</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="398144320" url="https://mikanani.me/Download/20250726/441ffa57ea773833ecb94b1539189cd9b6a0380a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
