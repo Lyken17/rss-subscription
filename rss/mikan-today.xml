@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/359549acc24de3ac3ef75410ef0608638fc7af0a</link>
+			<title>六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★04★1920x1080★AVC AAC MP4★繁体中文[285.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/359549acc24de3ac3ef75410ef0608638fc7af0a</link>
+				<contentLength>299368448</contentLength>
+				<pubDate>2025-07-28T11:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="299368448" url="https://mikanani.me/Download/20250728/359549acc24de3ac3ef75410ef0608638fc7af0a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 16 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d4ebdf396bb6700e5bb9b93f5da84de9ddff1d82</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 超自然武装当哒当 / 胆大党 / Dandadan - 16 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-07-27T17:31:12.706153</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="366896736" url="https://mikanani.me/Download/20250727/4a31b782091d2c6078eebc51bf846fd5599c257b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e8bcefd52c16d49b1de13367b8c69be9564a2b1e</link>
-			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][393 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8bcefd52c16d49b1de13367b8c69be9564a2b1e</link>
-				<contentLength>412090368</contentLength>
-				<pubDate>2025-07-27T17:23:00.82</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="412090368" url="https://mikanani.me/Download/20250727/e8bcefd52c16d49b1de13367b8c69be9564a2b1e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
