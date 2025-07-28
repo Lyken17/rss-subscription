@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/14ef8b7670159adb32bc5902c2987fa2fe318a56</link>
-			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][443.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/14ef8b7670159adb32bc5902c2987fa2fe318a56</link>
-				<contentLength>464970048</contentLength>
-				<pubDate>2025-07-27T19:31:45.961</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="464970048" url="https://mikanani.me/Download/20250727/14ef8b7670159adb32bc5902c2987fa2fe318a56.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 16 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
 			<link>https://mikanani.me/Home/Episode/e1c56b9bb9bc6f17d35f53e5692ed77ea2977ddd</link>
 			<title>[LoliHouse] Princess-Session Orchestra - 16 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
@@ -123,6 +111,18 @@
 				<pubDate>2025-07-28T21:32:25.368</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="567080384" url="https://mikanani.me/Download/20250728/5d39f1d3734602654f2969cc79d090f2bb604a8c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
+			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][675.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
+				<contentLength>708680064</contentLength>
+				<pubDate>2025-07-29T03:24:19.145572</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="708680064" url="https://mikanani.me/Download/20250729/220d4aee2060075833d3343af5f059ee229da2f2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

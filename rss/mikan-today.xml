@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
+			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][675.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
+				<contentLength>708680064</contentLength>
+				<pubDate>2025-07-29T03:24:19.145572</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="708680064" url="https://mikanani.me/Download/20250729/220d4aee2060075833d3343af5f059ee229da2f2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 41 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/b09667f0efee81d06df176a8ad48cf546625ce67</link>
 			<title>[黒ネズミたち] 转生成猫咪的大叔 / Neko ni Tensei shita Ojisan - 41 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-28T00:03:43.74934</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="743545216" url="https://mikanani.me/Download/20250728/300866ee0b0fb434942f3de3ed7c4c8953112463.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/23f011c642a757ed67d93ccfd88310ecf7215448</link>
-			<title>[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][421.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/23f011c642a757ed67d93ccfd88310ecf7215448</link>
-				<contentLength>441869920</contentLength>
-				<pubDate>2025-07-27T23:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="441869920" url="https://mikanani.me/Download/20250727/23f011c642a757ed67d93ccfd88310ecf7215448.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

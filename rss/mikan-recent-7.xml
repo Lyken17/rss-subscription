@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="466039616" url="https://mikanani.me/Download/20250721/7207d2e715d5224df3c0cc05f6c69d69e088205e.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA篇+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</guid>
-			<link>https://mikanani.me/Home/Episode/4a3c934f021508af3cf1b62916ed842e3960963b</link>
-			<title>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA篇+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)</title>
-			<description>[整理搬运] 新世纪福音战士 (新世纪エヴァンゲリオン) (Neon Genesis Evangelion)：TV动画+新老剧场版+ONA篇+CD+漫画+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2024.10.31)[142.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a3c934f021508af3cf1b62916ed842e3960963b</link>
-				<contentLength>153330335744</contentLength>
-				<pubDate>2025-07-21T19:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="153330335744" url="https://mikanani.me/Download/20250721/4a3c934f021508af3cf1b62916ed842e3960963b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cbc1214d5d687b0655b82bf815e23db2300e40aa</link>
 			<title>[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -8484,6 +8472,18 @@
 				<pubDate>2025-07-29T02:34:48.569</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250729/22e5a76662ae2c19d9e0f97476538dd87a4b22fc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
+			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][675.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
+				<contentLength>708680064</contentLength>
+				<pubDate>2025-07-29T03:24:19.145572</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="708680064" url="https://mikanani.me/Download/20250729/220d4aee2060075833d3343af5f059ee229da2f2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
