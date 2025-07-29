@@ -88,5 +88,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="708680064" url="https://mikanani.me/Download/20250729/220d4aee2060075833d3343af5f059ee229da2f2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 15 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/635fd8a64aa507849fe7df7742858ecd3e8f559b</link>
+			<title>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 15 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</title>
+			<description>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 15 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕][981.15 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/635fd8a64aa507849fe7df7742858ecd3e8f559b</link>
+				<contentLength>1028810368</contentLength>
+				<pubDate>2025-07-29T10:43:06.868</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1028810368" url="https://mikanani.me/Download/20250729/635fd8a64aa507849fe7df7742858ecd3e8f559b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
