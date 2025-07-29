@@ -8041,5 +8041,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4123168512" url="https://mikanani.me/Download/20250729/c0a94c0c84174f2d5d62defce9016e630a218795.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[拉撒路_LAZARUS][10][x264 1080p][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/809e1dcc64eea5048216ea0269b1ec85f6f1328f</link>
+			<title>【悠哈璃羽字幕社】[拉撒路_LAZARUS][10][x264 1080p][CHT]</title>
+			<description>【悠哈璃羽字幕社】[拉撒路_LAZARUS][10][x264 1080p][CHT][503.28 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/809e1dcc64eea5048216ea0269b1ec85f6f1328f</link>
+				<contentLength>527727328</contentLength>
+				<pubDate>2025-07-29T15:33:10.11</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="527727328" url="https://mikanani.me/Download/20250729/809e1dcc64eea5048216ea0269b1ec85f6f1328f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[拉撒路_LAZARUS][10][x264 1080p][CHS]</guid>
+			<link>https://mikanani.me/Home/Episode/c268807a59598ff1eec4b6dae334a1f2497579a5</link>
+			<title>【悠哈璃羽字幕社】[拉撒路_LAZARUS][10][x264 1080p][CHS]</title>
+			<description>【悠哈璃羽字幕社】[拉撒路_LAZARUS][10][x264 1080p][CHS][502.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c268807a59598ff1eec4b6dae334a1f2497579a5</link>
+				<contentLength>526930400</contentLength>
+				<pubDate>2025-07-29T15:32:42.304</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="526930400" url="https://mikanani.me/Download/20250729/c268807a59598ff1eec4b6dae334a1f2497579a5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
