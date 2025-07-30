@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
-			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][675.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/220d4aee2060075833d3343af5f059ee229da2f2</link>
-				<contentLength>708680064</contentLength>
-				<pubDate>2025-07-29T03:24:19.145572</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="708680064" url="https://mikanani.me/Download/20250729/220d4aee2060075833d3343af5f059ee229da2f2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 15 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/635fd8a64aa507849fe7df7742858ecd3e8f559b</link>
 			<title>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 15 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</title>
@@ -102,6 +90,18 @@
 				<pubDate>2025-07-30T09:01:26.569</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="406344160" url="https://mikanani.me/Download/20250730/0ae41855c218698e1cefdf54ddfb3a3a5f43751c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 美男高校地球防卫部 时髦! / Binan Koukou Chikyuu Bouei-bu Haikara! - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a01ba93e8cb0674c060529a62017c2e1afc2369b</link>
+			<title>[奶²&amp;LoliHouse] 美男高校地球防卫部 时髦! / Binan Koukou Chikyuu Bouei-bu Haikara! - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] 美男高校地球防卫部 时髦! / Binan Koukou Chikyuu Bouei-bu Haikara! - 04 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][589.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a01ba93e8cb0674c060529a62017c2e1afc2369b</link>
+				<contentLength>617820992</contentLength>
+				<pubDate>2025-07-30T11:30:49.147</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="617820992" url="https://mikanani.me/Download/20250730/a01ba93e8cb0674c060529a62017c2e1afc2369b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
