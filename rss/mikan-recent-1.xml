@@ -1207,5 +1207,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="385456544" url="https://mikanani.me/Download/20250730/f5c101374352330ff4d514ca6df17948e9a425a3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][04][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/6a3ed12d081ec36ad8957a447c6f1364ca435bf2</link>
+			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][04][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][04][1080p][繁日双语][468.92 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a3ed12d081ec36ad8957a447c6f1364ca435bf2</link>
+				<contentLength>491698272</contentLength>
+				<pubDate>2025-07-30T16:23:34.391</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="491698272" url="https://mikanani.me/Download/20250730/6a3ed12d081ec36ad8957a447c6f1364ca435bf2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][04][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/6a3ed12d081ec36ad8957a447c6f1364ca435bf2</link>
+			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][04][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][04][1080p][繁日双语][468.92 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a3ed12d081ec36ad8957a447c6f1364ca435bf2</link>
+				<contentLength>491698272</contentLength>
+				<pubDate>2025-07-30T16:23:34.391</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="491698272" url="https://mikanani.me/Download/20250730/6a3ed12d081ec36ad8957a447c6f1364ca435bf2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]夏日口袋  Summer Pockets - 16(1080p) [简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/83a22c914a5036e4fbba9e199c3bc6b3034e9328</link>
 			<title>[樱桃花字幕组]夏日口袋  Summer Pockets - 16(1080p) [简日双语]</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-07-29T08:56:07.325</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4445291008" url="https://mikanani.me/Download/20250729/4d771373cfd32dc75bc4217ec55c1cee7c4651bb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] mono女孩 / Mono [01-12Fin][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/878851f33cf4d787ce91c32cad79db4482b9478a</link>
-			<title>[桜都字幕组] mono女孩 / Mono [01-12Fin][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] mono女孩 / Mono [01-12Fin][1080p][简体内嵌][4.14 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/878851f33cf4d787ce91c32cad79db4482b9478a</link>
-				<contentLength>4445291008</contentLength>
-				<pubDate>2025-07-29T08:55:26.881</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4445291008" url="https://mikanani.me/Download/20250729/878851f33cf4d787ce91c32cad79db4482b9478a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
