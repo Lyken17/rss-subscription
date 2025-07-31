@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 04 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3dc96e0345d6586db98a023840f89d103e061847</link>
+			<title>[沸班亚马制作组] 胆大党 第二季 - 04 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 胆大党 第二季 - 04 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3dc96e0345d6586db98a023840f89d103e061847</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2025-07-31T13:55:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250731/3dc96e0345d6586db98a023840f89d103e061847.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [04][1080p][简繁日内封]（坏女孩 / 坏女孩）</guid>
 			<link>https://mikanani.me/Home/Episode/7fd80e1b7512b8c193c9d76952a04e2d5c392d2c</link>
 			<title>[MingY] 不良少女 / Bad Girl [04][1080p][简繁日内封]（坏女孩 / 坏女孩）</title>
@@ -1221,18 +1233,6 @@
 				<pubDate>2025-07-30T06:37:42.201436</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="554067584" url="https://mikanani.me/Download/20250730/2c610ff65a886b9ad610a25055fab67d29f05d0b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">租借女友 第四季 / 出租女友 第四季 - EP05 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</guid>
-			<link>https://mikanani.me/Home/Episode/e3bf89f455b8114c0b49b0ce1308281e4dfbe101</link>
-			<title>租借女友 第四季 / 出租女友 第四季 - EP05 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</title>
-			<description>租借女友 第四季 / 出租女友 第四季 - EP05 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}[1.43 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e3bf89f455b8114c0b49b0ce1308281e4dfbe101</link>
-				<contentLength>1535450752</contentLength>
-				<pubDate>2025-07-30T02:06:55.935</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250730/e3bf89f455b8114c0b49b0ce1308281e4dfbe101.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
