@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="1159641216" url="https://mikanani.me/Download/20250731/1b8f1971b7d1ecf6e24c9fea723ca3ab804d99cd.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/31215d629a6f14ace978bc317ea0c98aa34e5d05</link>
-			<title>[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][842.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/31215d629a6f14ace978bc317ea0c98aa34e5d05</link>
-				<contentLength>883247040</contentLength>
-				<pubDate>2025-07-31T08:01:55.927</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="883247040" url="https://mikanani.me/Download/20250731/31215d629a6f14ace978bc317ea0c98aa34e5d05.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 03 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ab6d3ccb67e82575d162f93cfcdd5c4345408bea</link>
 			<title>[沸班亚马制作组] 胆大党 第二季 - 03 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1071,6 +1059,18 @@
 				<pubDate>2025-08-01T12:54:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16428250112" url="https://mikanani.me/Download/20250801/f2eedf4bbaa601a5f493eb402269e64b642adae3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">灵笼 第二季 / Ling Cage S2 - 12 [816P][Bilibili][WEB-DL][AVC AAC][简体中文]</guid>
+			<link>https://mikanani.me/Home/Episode/fd9d8f9c123d879fab34a0da71e2737dbd9c397e</link>
+			<title>灵笼 第二季 / Ling Cage S2 - 12 [816P][Bilibili][WEB-DL][AVC AAC][简体中文]</title>
+			<description>灵笼 第二季 / Ling Cage S2 - 12 [816P][Bilibili][WEB-DL][AVC AAC][简体中文][1.05 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd9d8f9c123d879fab34a0da71e2737dbd9c397e</link>
+				<contentLength>1127428864</contentLength>
+				<pubDate>2025-08-01T15:00:54.808</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1127428864" url="https://mikanani.me/Download/20250801/fd9d8f9c123d879fab34a0da71e2737dbd9c397e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
