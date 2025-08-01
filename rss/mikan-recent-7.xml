@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン 10-bit 1080p HEVC BDRip [S1 Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/73243ea814f8d944ebe68144a2f722856b907faa</link>
-			<title>[喵萌奶茶屋&amp;VCB-Studio] 葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン 10-bit 1080p HEVC BDRip [S1 Fin]</title>
-			<description>[喵萌奶茶屋&amp;VCB-Studio] 葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン 10-bit 1080p HEVC BDRip [S1 Fin][50.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/73243ea814f8d944ebe68144a2f722856b907faa</link>
-				<contentLength>53901840384</contentLength>
-				<pubDate>2025-07-25T12:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="53901840384" url="https://mikanani.me/Download/20250725/73243ea814f8d944ebe68144a2f722856b907faa.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/5ff43ee4fcb069c940054a443c96c4a29eaaed69</link>
 			<title>[黒ネズミたち] 欢迎来到驹田蒸馏所 / Komada Jouryuujo e Youkoso - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -8172,6 +8160,42 @@
 				<pubDate>2025-08-01T19:06:40.26</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="579139008" url="https://mikanani.me/Download/20250801/4990376329f16de0be89a3cf742f510e6c036f5d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/938025063a845cf42bb5d594ca73dc5d7dcebb2c</link>
+			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封]</title>
+			<description>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封][433.45 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/938025063a845cf42bb5d594ca73dc5d7dcebb2c</link>
+				<contentLength>454505280</contentLength>
+				<pubDate>2025-08-01T19:50:20.509</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="454505280" url="https://mikanani.me/Download/20250801/938025063a845cf42bb5d594ca73dc5d7dcebb2c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/42c07e744b7c616cd141965f075d413a4c77bf48</link>
+			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][繁体内嵌][448.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42c07e744b7c616cd141965f075d413a4c77bf48</link>
+				<contentLength>470600896</contentLength>
+				<pubDate>2025-08-01T19:49:28.521</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="470600896" url="https://mikanani.me/Download/20250801/42c07e744b7c616cd141965f075d413a4c77bf48.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/9aeb2dfe43711fda9f69b368c561446720772e8b</link>
+			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简体内嵌][448.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9aeb2dfe43711fda9f69b368c561446720772e8b</link>
+				<contentLength>470548480</contentLength>
+				<pubDate>2025-08-01T19:48:18.905</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="470548480" url="https://mikanani.me/Download/20250801/9aeb2dfe43711fda9f69b368c561446720772e8b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
