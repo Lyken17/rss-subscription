@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 41 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/b043745fd69bdf6f14e9c8ccf1f153468d5086b7</link>
+			<title>[黒ネズミたち] Nui Story 2 - 41 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 41 (ABEMA 1920x1080 AVC AAC MP4)[54.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b043745fd69bdf6f14e9c8ccf1f153468d5086b7</link>
+				<contentLength>57042536</contentLength>
+				<pubDate>2025-08-02T03:02:52.303814</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="57042536" url="https://mikanani.me/Download/20250802/b043745fd69bdf6f14e9c8ccf1f153468d5086b7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c2f984d306010b9aabaaf2899058fedc446055de</link>
 			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-31T22:03:13.6492</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747215232" url="https://mikanani.me/Download/20250731/75bb2a566d9abad49e498efac1455f211610f77c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Ｄｒ．ＳＴＯＮＥ 石纪元 第四季 / Dr. Stone: Science Future - 16 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/21de96d8e1ac61b549074086aa6c19e80b5bc35d</link>
-			<title>[黒ネズミたち] Ｄｒ．ＳＴＯＮＥ 石纪元 第四季 / Dr. Stone: Science Future - 16 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] Ｄｒ．ＳＴＯＮＥ 石纪元 第四季 / Dr. Stone: Science Future - 16 (B-Global 1920x1080 HEVC AAC MKV)[520.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21de96d8e1ac61b549074086aa6c19e80b5bc35d</link>
-				<contentLength>545993536</contentLength>
-				<pubDate>2025-07-31T22:02:05.133115</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="545993536" url="https://mikanani.me/Download/20250731/21de96d8e1ac61b549074086aa6c19e80b5bc35d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
