@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][05][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/caced7316111d719bd215d72d0ed9b62a5f6913b</link>
+			<title>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][05][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][05][1080p][简日双语][410.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/caced7316111d719bd215d72d0ed9b62a5f6913b</link>
+				<contentLength>430146848</contentLength>
+				<pubDate>2025-08-02T05:07:29.513</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="430146848" url="https://mikanani.me/Download/20250802/caced7316111d719bd215d72d0ed9b62a5f6913b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 41 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/b043745fd69bdf6f14e9c8ccf1f153468d5086b7</link>
 			<title>[黒ネズミたち] Nui Story 2 - 41 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-07-31T22:04:39.377939</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="949380736" url="https://mikanani.me/Download/20250731/65733cf60557a0b9798ac0e3460a262a930ff589.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 歌声是法式千层酥 / Utagoe wa Mille-Feuille - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/75bb2a566d9abad49e498efac1455f211610f77c</link>
-			<title>[黒ネズミたち] 歌声是法式千层酥 / Utagoe wa Mille-Feuille - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 歌声是法式千层酥 / Utagoe wa Mille-Feuille - 03 (ABEMA 1920x1080 AVC AAC MP4)[712.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/75bb2a566d9abad49e498efac1455f211610f77c</link>
-				<contentLength>747215232</contentLength>
-				<pubDate>2025-07-31T22:03:13.6492</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747215232" url="https://mikanani.me/Download/20250731/75bb2a566d9abad49e498efac1455f211610f77c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
