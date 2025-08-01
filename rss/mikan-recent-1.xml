@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 04 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3dc96e0345d6586db98a023840f89d103e061847</link>
-			<title>[沸班亚马制作组] 胆大党 第二季 - 04 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 胆大党 第二季 - 04 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3dc96e0345d6586db98a023840f89d103e061847</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-07-31T13:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250731/3dc96e0345d6586db98a023840f89d103e061847.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 04v2 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/0e448579691f953d347ff5b796f2424008b634aa</link>
 			<title>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 04v2 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封]</title>
@@ -1071,6 +1059,30 @@
 				<pubDate>2025-08-01T19:48:18.905</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="470548480" url="https://mikanani.me/Download/20250801/9aeb2dfe43711fda9f69b368c561446720772e8b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/bf763d84095736f34345075c2f6f8fe7cf3a475c</link>
+			<title>[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4][719.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bf763d84095736f34345075c2f6f8fe7cf3a475c</link>
+				<contentLength>754555264</contentLength>
+				<pubDate>2025-08-01T21:52:09.776923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754555264" url="https://mikanani.me/Download/20250801/bf763d84095736f34345075c2f6f8fe7cf3a475c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/bf763d84095736f34345075c2f6f8fe7cf3a475c</link>
+			<title>[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4]</title>
+			<description>[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4][719.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bf763d84095736f34345075c2f6f8fe7cf3a475c</link>
+				<contentLength>754555264</contentLength>
+				<pubDate>2025-08-01T21:52:09.776923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754555264" url="https://mikanani.me/Download/20250801/bf763d84095736f34345075c2f6f8fe7cf3a475c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
