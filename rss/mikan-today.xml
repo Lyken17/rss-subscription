@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[05][1080p][WebRip][AVC_AAC][CHS][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/1cdfde8435e38d0ac54e9b96d9a87dc5e9baad4a</link>
+			<title>[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[05][1080p][WebRip][AVC_AAC][CHS][简体内嵌]</title>
+			<description>[S1百综字幕组] 死灵子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show[05][1080p][WebRip][AVC_AAC][CHS][简体内嵌][459.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1cdfde8435e38d0ac54e9b96d9a87dc5e9baad4a</link>
+				<contentLength>482240096</contentLength>
+				<pubDate>2025-08-02T19:12:28.779026</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="482240096" url="https://mikanani.me/Download/20250802/1cdfde8435e38d0ac54e9b96d9a87dc5e9baad4a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 为丑女献上花束。 / Busu ni Hanataba wo. - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/65ef42f872e0cf6076e3c5d5333d3cfca61301ef</link>
 			<title>[LoliHouse] 为丑女献上花束。 / Busu ni Hanataba wo. - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-01T02:31:03.297752</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="321912832" url="https://mikanani.me/Download/20250801/99162a8a65dbdb545746b9e16d189770db8b2768.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[轻之国度字幕组][Silent Witch 沉默魔女的秘密/沉默魔女][04][GB][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/5fdc1c7a1da3598cf22a94acfb90efb4cc0b8b8c</link>
-			<title>[轻之国度字幕组][Silent Witch 沉默魔女的秘密/沉默魔女][04][GB][1080P][MP4]</title>
-			<description>[轻之国度字幕组][Silent Witch 沉默魔女的秘密/沉默魔女][04][GB][1080P][MP4][682.86 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5fdc1c7a1da3598cf22a94acfb90efb4cc0b8b8c</link>
-				<contentLength>716030592</contentLength>
-				<pubDate>2025-08-01T02:11:01.859</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="716030592" url="https://mikanani.me/Download/20250801/5fdc1c7a1da3598cf22a94acfb90efb4cc0b8b8c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
