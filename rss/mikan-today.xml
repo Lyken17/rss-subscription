@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">Bad Girl 不良少女 - EP05 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
+			<link>https://mikanani.me/Home/Episode/4e86774df29bd11a8c78e310c07ba3721693a2f4</link>
+			<title>Bad Girl 不良少女 - EP05 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
+			<description>Bad Girl 不良少女 - EP05 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}[523.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4e86774df29bd11a8c78e310c07ba3721693a2f4</link>
+				<contentLength>549254592</contentLength>
+				<pubDate>2025-08-03T05:43:08.892</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="549254592" url="https://mikanani.me/Download/20250803/4e86774df29bd11a8c78e310c07ba3721693a2f4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 05 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
 			<link>https://mikanani.me/Home/Episode/ca55e1a3f11c01a5fceba81071e5655eb6bf7717</link>
 			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 05 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-02T13:31:58.299</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="450080288" url="https://mikanani.me/Download/20250802/2826e0282d623dfc2c75b2c03f09d13a76cb352d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][7月新番][我怎么可能成为你的恋人，不行不行][Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri][04][720p][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/6cf14b2318fa0821db89256306efb47012e84c61</link>
-			<title>[漫猫字幕组][7月新番][我怎么可能成为你的恋人，不行不行][Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri][04][720p][MP4][简中]</title>
-			<description>[漫猫字幕组][7月新番][我怎么可能成为你的恋人，不行不行][Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri][04][720p][MP4][简中][222.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6cf14b2318fa0821db89256306efb47012e84c61</link>
-				<contentLength>233161360</contentLength>
-				<pubDate>2025-08-02T13:31:51.8</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="233161360" url="https://mikanani.me/Download/20250802/6cf14b2318fa0821db89256306efb47012e84c61.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
