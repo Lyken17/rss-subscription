@@ -589,5 +589,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="738124096" url="https://mikanani.me/Download/20250802/2d22bf89aa6c89dddea2ff86ffa49fe641922b48.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 明天，美食广场见。 / Food Court de, Mata Ashita. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e709d16c34816e2ad1695ff5daa5806020015d65</link>
+			<title>[LoliHouse] 明天，美食广场见。 / Food Court de, Mata Ashita. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 明天，美食广场见。 / Food Court de, Mata Ashita. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][275.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e709d16c34816e2ad1695ff5daa5806020015d65</link>
+				<contentLength>288368896</contentLength>
+				<pubDate>2025-08-03T02:26:42.391</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="288368896" url="https://mikanani.me/Download/20250803/e709d16c34816e2ad1695ff5daa5806020015d65.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
