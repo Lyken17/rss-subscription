@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP03 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/0413229579b2b4d18c2aa58f6b0c6033cdd202ed</link>
+			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP03 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP03 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[3.47 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0413229579b2b4d18c2aa58f6b0c6033cdd202ed</link>
+				<contentLength>3725884160</contentLength>
+				<pubDate>2025-08-05T04:50:06.593</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3725884160" url="https://mikanani.me/Download/20250805/0413229579b2b4d18c2aa58f6b0c6033cdd202ed.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/eab472eac1f5d5274a8b5966c2c00981b37cde4d</link>
 			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-04T00:52:41.405556</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20250804/37c9a78ebb271fbc3fd20c97130abcab3b4343cf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青春猪头少年不会梦到娇怜外出妹 / aobuta odekake (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e9b48a4e414d9cbcc0445843f6da67c600f36b03</link>
-			<title>[黒ネズミたち] 青春猪头少年不会梦到娇怜外出妹 / aobuta odekake (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 青春猪头少年不会梦到娇怜外出妹 / aobuta odekake (CR 1920x1080 AVC AAC MKV)[2.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e9b48a4e414d9cbcc0445843f6da67c600f36b03</link>
-				<contentLength>2147483648</contentLength>
-				<pubDate>2025-08-04T00:52:22.391211</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20250804/e9b48a4e414d9cbcc0445843f6da67c600f36b03.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
