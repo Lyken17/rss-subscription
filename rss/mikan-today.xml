@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 真・武士传 YAIBA / Shin Samurai-den YAIBA - 15v3 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/421ceb4755765fc7526051f0d3867806f2b601a6</link>
+			<title>[Skymoon-Raws] 真・武士传 YAIBA / Shin Samurai-den YAIBA - 15v3 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 真・武士传 YAIBA / Shin Samurai-den YAIBA - 15v3 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][443.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/421ceb4755765fc7526051f0d3867806f2b601a6</link>
+				<contentLength>465043456</contentLength>
+				<pubDate>2025-08-06T03:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="465043456" url="https://mikanani.me/Download/20250806/421ceb4755765fc7526051f0d3867806f2b601a6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">「夏日纯臻字幕组」Summer Pockets（夏日口袋）[18][1080p][HEVC][内封双语]</guid>
 			<link>https://mikanani.me/Home/Episode/a21449e7c25a0cf76a5341d1fa64abc529fd65c1</link>
 			<title>「夏日纯臻字幕组」Summer Pockets（夏日口袋）[18][1080p][HEVC][内封双语]</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-08-05T03:28:53.416</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="656607808" url="https://mikanani.me/Download/20250805/eab472eac1f5d5274a8b5966c2c00981b37cde4d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][AVC AAC][1080p][繁日内嵌][招募翻校轴]</guid>
-			<link>https://mikanani.me/Home/Episode/c2403aab6f5501ff1e54d1d997e4fc7f28829700</link>
-			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][AVC AAC][1080p][繁日内嵌][招募翻校轴]</title>
-			<description>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][AVC AAC][1080p][繁日内嵌][招募翻校轴][648.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c2403aab6f5501ff1e54d1d997e4fc7f28829700</link>
-				<contentLength>679781312</contentLength>
-				<pubDate>2025-08-05T03:28:51.057</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="679781312" url="https://mikanani.me/Download/20250805/c2403aab6f5501ff1e54d1d997e4fc7f28829700.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
