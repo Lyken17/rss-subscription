@@ -34903,5 +34903,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350769632" url="https://mikanani.me/Download/20250806/b2b1022a9b5d32bb3dc18fa149ce5b670cce57ae.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ee7a4a7cec72abeeffbdae78a68d13c81a35e1b1</link>
+			<title>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Fin][15.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ee7a4a7cec72abeeffbdae78a68d13c81a35e1b1</link>
+				<contentLength>16428250112</contentLength>
+				<pubDate>2025-08-06T12:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16428250112" url="https://mikanani.me/Download/20250806/ee7a4a7cec72abeeffbdae78a68d13c81a35e1b1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

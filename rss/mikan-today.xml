@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ee7a4a7cec72abeeffbdae78a68d13c81a35e1b1</link>
+			<title>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Fin][15.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ee7a4a7cec72abeeffbdae78a68d13c81a35e1b1</link>
+				<contentLength>16428250112</contentLength>
+				<pubDate>2025-08-06T12:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16428250112" url="https://mikanani.me/Download/20250806/ee7a4a7cec72abeeffbdae78a68d13c81a35e1b1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [05][1080p][简繁日内封]（坏女孩 / 坏女孩）</guid>
 			<link>https://mikanani.me/Home/Episode/1760c1864fa3b6a16cc3869a69f78884430a92fb</link>
 			<title>[MingY] 不良少女 / Bad Girl [05][1080p][简繁日内封]（坏女孩 / 坏女孩）</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-08-05T09:04:27.890502</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="17609365504" url="https://mikanani.me/Download/20250805/fc277e774605529799389b36396e1e1da33401c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d8c02369a693ed68b25e0b9c57d2f7d4dc018f02</link>
-			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 42 (B-Global Donghua 1920x1080 HEVC AAC MKV)[350.04 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8c02369a693ed68b25e0b9c57d2f7d4dc018f02</link>
-				<contentLength>367043552</contentLength>
-				<pubDate>2025-08-05T09:02:04.976</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="367043552" url="https://mikanani.me/Download/20250805/d8c02369a693ed68b25e0b9c57d2f7d4dc018f02.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
