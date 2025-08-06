@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★06★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/ae4b5d7a7c61fdbbdcf1780ad5cda78bb2907548</link>
+			<title>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★06★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★06★1920x1080★AVC AAC MP4★繁体中文[375.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae4b5d7a7c61fdbbdcf1780ad5cda78bb2907548</link>
+				<contentLength>393845152</contentLength>
+				<pubDate>2025-08-06T07:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="393845152" url="https://mikanani.me/Download/20250806/ae4b5d7a7c61fdbbdcf1780ad5cda78bb2907548.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 真・武士传 YAIBA / Shin Samurai-den YAIBA - 15v3 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/421ceb4755765fc7526051f0d3867806f2b601a6</link>
 			<title>[Skymoon-Raws] 真・武士传 YAIBA / Shin Samurai-den YAIBA - 15v3 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-08-05T04:50:06.593</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3725884160" url="https://mikanani.me/Download/20250805/0413229579b2b4d18c2aa58f6b0c6033cdd202ed.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
-			<link>https://mikanani.me/Home/Episode/eab472eac1f5d5274a8b5966c2c00981b37cde4d</link>
-			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
-			<description>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [04][HEVC AAC][1080p][简繁日内封][招募翻校轴][626.19 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eab472eac1f5d5274a8b5966c2c00981b37cde4d</link>
-				<contentLength>656607808</contentLength>
-				<pubDate>2025-08-05T03:28:53.416</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="656607808" url="https://mikanani.me/Download/20250805/eab472eac1f5d5274a8b5966c2c00981b37cde4d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
