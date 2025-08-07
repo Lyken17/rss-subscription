@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]我独自升级 / Ore Dake Level Up na Ken - S1 [粤日双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRT Ani-One CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/7a8e9d3cdfec11cb48728e972c54ae43da59b5b0</link>
+			<title>[jibaketa合成][代理商粤语]我独自升级 / Ore Dake Level Up na Ken - S1 [粤日双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRT Ani-One CHT)</title>
+			<description>[jibaketa合成][代理商粤语]我独自升级 / Ore Dake Level Up na Ken - S1 [粤日双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRT Ani-One CHT)[16.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a8e9d3cdfec11cb48728e972c54ae43da59b5b0</link>
+				<contentLength>17501990912</contentLength>
+				<pubDate>2025-08-07T10:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17501990912" url="https://mikanani.me/Download/20250807/7a8e9d3cdfec11cb48728e972c54ae43da59b5b0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/37bba219cb6adbf255fca58c9fc1d70c443c813b</link>
 			<title>[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1221,18 +1233,6 @@
 				<pubDate>2025-08-05T22:50:44.18253</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389755712" url="https://mikanani.me/Download/20250805/e10b9022ac67b8815b0b6f98793de76319a7c70b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 05 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/b57e289a8c70a4ea823e797377b0ca9b80df692f</link>
-			<title>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 05 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封]</title>
-			<description>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 05 [WebRip 1080P HEVC 8bit AAC MKV][简繁内封][344.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b57e289a8c70a4ea823e797377b0ca9b80df692f</link>
-				<contentLength>361129568</contentLength>
-				<pubDate>2025-08-05T22:50:33.845553</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="361129568" url="https://mikanani.me/Download/20250805/b57e289a8c70a4ea823e797377b0ca9b80df692f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
