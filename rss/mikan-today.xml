@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd</link>
+			<title>[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][601.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd</link>
+				<contentLength>630403904</contentLength>
+				<pubDate>2025-08-07T19:09:25.950784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="630403904" url="https://mikanani.me/Download/20250807/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][诛仙 第3季][Jade Dynasty Ⅲ][2025][11][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/5b7cd040c5b00586a92c23b7ac13dea82bc34ed7</link>
 			<title>[GM-Team][国漫][诛仙 第3季][Jade Dynasty Ⅲ][2025][11][HEVC][GB][4K]</title>
@@ -1209,18 +1221,6 @@
 				<pubDate>2025-08-06T01:54:04.043</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="570173696" url="https://mikanani.me/Download/20250806/d27840e2c6ab9fd2f9b406d16f4a836a08a99412.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ae84e2088e94bdcc5014e7e05cd56b396b905be0</link>
-			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 05 (Baha 1920x1080 AVC AAC MP4)[436.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ae84e2088e94bdcc5014e7e05cd56b396b905be0</link>
-				<contentLength>458091392</contentLength>
-				<pubDate>2025-08-06T01:31:39.429</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458091392" url="https://mikanani.me/Download/20250806/ae84e2088e94bdcc5014e7e05cd56b396b905be0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

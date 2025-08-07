@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][121][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/4ccf01b75dadc254a8a055714d0ebe4b3f55fb76</link>
-			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][121][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][121][AVC][GB][1080P][515.23 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4ccf01b75dadc254a8a055714d0ebe4b3f55fb76</link>
-				<contentLength>540257792</contentLength>
-				<pubDate>2025-08-06T10:56:32.449</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="540257792" url="https://mikanani.me/Download/20250806/4ccf01b75dadc254a8a055714d0ebe4b3f55fb76.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][神国之上][Over the Divine Realms][2025][10][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/c49783d7a46893c4fd07684ba8c9da63dbaed7a0</link>
-			<title>[GM-Team][国漫][神国之上][Over the Divine Realms][2025][10][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][神国之上][Over the Divine Realms][2025][10][HEVC][GB][4K][633.45 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c49783d7a46893c4fd07684ba8c9da63dbaed7a0</link>
-				<contentLength>664220480</contentLength>
-				<pubDate>2025-08-06T10:51:52.541</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="664220480" url="https://mikanani.me/Download/20250806/c49783d7a46893c4fd07684ba8c9da63dbaed7a0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][神国之上][Over the Divine Realms][2025][09][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/4a3d672409424f28cb01388f292e2f9ba6b3e2a5</link>
-			<title>[GM-Team][国漫][神国之上][Over the Divine Realms][2025][09][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][神国之上][Over the Divine Realms][2025][09][HEVC][GB][4K][734.16 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a3d672409424f28cb01388f292e2f9ba6b3e2a5</link>
-				<contentLength>769822528</contentLength>
-				<pubDate>2025-08-06T10:51:47.254</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="769822528" url="https://mikanani.me/Download/20250806/4a3d672409424f28cb01388f292e2f9ba6b3e2a5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [05][1080p][简繁日内封]（坏女孩 / 坏女孩）</guid>
 			<link>https://mikanani.me/Home/Episode/1760c1864fa3b6a16cc3869a69f78884430a92fb</link>
 			<title>[MingY] 不良少女 / Bad Girl [05][1080p][简繁日内封]（坏女孩 / 坏女孩）</title>
@@ -1101,6 +1065,18 @@
 				<pubDate>2025-08-07T17:42:42.177</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="436721408" url="https://mikanani.me/Download/20250807/eab01b29d23b285fd204984cd2506b6b340743d0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd</link>
+			<title>[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][601.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd</link>
+				<contentLength>630403904</contentLength>
+				<pubDate>2025-08-07T19:09:25.950784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="630403904" url="https://mikanani.me/Download/20250807/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
