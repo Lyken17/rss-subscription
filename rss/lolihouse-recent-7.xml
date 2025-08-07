@@ -613,5 +613,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="670302208" url="https://mikanani.me/Download/20250806/3e7d06f3a3ac6f55f797268e9726c3b1a8663f34.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/37bba219cb6adbf255fca58c9fc1d70c443c813b</link>
+			<title>[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][703.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37bba219cb6adbf255fca58c9fc1d70c443c813b</link>
+				<contentLength>737505472</contentLength>
+				<pubDate>2025-08-07T08:35:30.121</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="737505472" url="https://mikanani.me/Download/20250807/37bba219cb6adbf255fca58c9fc1d70c443c813b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
