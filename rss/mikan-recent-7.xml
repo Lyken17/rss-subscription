@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/938025063a845cf42bb5d594ca73dc5d7dcebb2c</link>
-			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封]</title>
-			<description>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封][433.45 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/938025063a845cf42bb5d594ca73dc5d7dcebb2c</link>
-				<contentLength>454505280</contentLength>
-				<pubDate>2025-08-01T19:50:20.509</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="454505280" url="https://mikanani.me/Download/20250801/938025063a845cf42bb5d594ca73dc5d7dcebb2c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/42c07e744b7c616cd141965f075d413a4c77bf48</link>
-			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][繁体内嵌][448.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/42c07e744b7c616cd141965f075d413a4c77bf48</link>
-				<contentLength>470600896</contentLength>
-				<pubDate>2025-08-01T19:49:28.521</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="470600896" url="https://mikanani.me/Download/20250801/42c07e744b7c616cd141965f075d413a4c77bf48.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/9aeb2dfe43711fda9f69b368c561446720772e8b</link>
-			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简体内嵌][448.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9aeb2dfe43711fda9f69b368c561446720772e8b</link>
-				<contentLength>470548480</contentLength>
-				<pubDate>2025-08-01T19:48:18.905</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="470548480" url="https://mikanani.me/Download/20250801/9aeb2dfe43711fda9f69b368c561446720772e8b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/bf763d84095736f34345075c2f6f8fe7cf3a475c</link>
 			<title>[TOC] NYAIGHT OF THE LIVING CAT 活尸猫之夜 [04][1080P][AVC AAC][CHT][MP4]</title>
@@ -8772,6 +8736,18 @@
 				<pubDate>2025-08-09T03:03:14.287193</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="53582232" url="https://mikanani.me/Download/20250809/1e2aa8e9f145016291c5e19a299747ae86fb561c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][Silent Witch 沉默魔女的秘密/沉默魔女][05][GB][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/65757c2fdd12a1afbe146992d71b6a097157ca59</link>
+			<title>[轻之国度字幕组][Silent Witch 沉默魔女的秘密/沉默魔女][05][GB][1080P][MP4]</title>
+			<description>[轻之国度字幕组][Silent Witch 沉默魔女的秘密/沉默魔女][05][GB][1080P][MP4][293.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/65757c2fdd12a1afbe146992d71b6a097157ca59</link>
+				<contentLength>307893376</contentLength>
+				<pubDate>2025-08-09T03:48:48.039</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="307893376" url="https://mikanani.me/Download/20250809/65757c2fdd12a1afbe146992d71b6a097157ca59.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
