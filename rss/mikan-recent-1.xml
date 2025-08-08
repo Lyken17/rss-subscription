@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd</link>
-			<title>[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 琉璃的宝石 Ruri no Houseki - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][601.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd</link>
-				<contentLength>630403904</contentLength>
-				<pubDate>2025-08-07T19:09:25.950784</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="630403904" url="https://mikanani.me/Download/20250807/87ce66db98ddcaaa4206bb9d88ca89dc222c04bd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1ec0494d310a69f0d1d35c08dd8ba9cedf2b410e</link>
 			<title>[黒ネズミたち] 鲲吞天下之掌门归来（日配版） / The All-devouring Whale: Homecoming (Japanese Audio) - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1719,6 +1707,18 @@
 				<pubDate>2025-08-09T01:30:58.79433</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="273154048" url="https://mikanani.me/Download/20250809/26f20068302dc2723c659dded5345617889edd04.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 42 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1e2aa8e9f145016291c5e19a299747ae86fb561c</link>
+			<title>[黒ネズミたち] Nui Story 2 - 42 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 42 (ABEMA 1920x1080 AVC AAC MP4)[51.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1e2aa8e9f145016291c5e19a299747ae86fb561c</link>
+				<contentLength>53582232</contentLength>
+				<pubDate>2025-08-09T03:03:14.287193</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="53582232" url="https://mikanani.me/Download/20250809/1e2aa8e9f145016291c5e19a299747ae86fb561c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

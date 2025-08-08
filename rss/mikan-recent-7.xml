@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][112][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/6ff633920abd4b549ac54e055dda241e4b897698</link>
-			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][112][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][112][AVC][GB][1080P][559.95 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6ff633920abd4b549ac54e055dda241e4b897698</link>
-				<contentLength>587150144</contentLength>
-				<pubDate>2025-08-01T19:06:46.36</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="587150144" url="https://mikanani.me/Download/20250801/6ff633920abd4b549ac54e055dda241e4b897698.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][111][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/4990376329f16de0be89a3cf742f510e6c036f5d</link>
-			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][111][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][111][AVC][GB][1080P][552.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4990376329f16de0be89a3cf742f510e6c036f5d</link>
-				<contentLength>579139008</contentLength>
-				<pubDate>2025-08-01T19:06:40.26</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="579139008" url="https://mikanani.me/Download/20250801/4990376329f16de0be89a3cf742f510e6c036f5d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/938025063a845cf42bb5d594ca73dc5d7dcebb2c</link>
 			<title>[桜都字幕组] Summer Pockets / Summer Pockets [17][1080p][简繁内封]</title>
@@ -8784,6 +8760,18 @@
 				<pubDate>2025-08-09T01:30:58.79433</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="273154048" url="https://mikanani.me/Download/20250809/26f20068302dc2723c659dded5345617889edd04.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 42 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1e2aa8e9f145016291c5e19a299747ae86fb561c</link>
+			<title>[黒ネズミたち] Nui Story 2 - 42 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 42 (ABEMA 1920x1080 AVC AAC MP4)[51.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1e2aa8e9f145016291c5e19a299747ae86fb561c</link>
+				<contentLength>53582232</contentLength>
+				<pubDate>2025-08-09T03:03:14.287193</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="53582232" url="https://mikanani.me/Download/20250809/1e2aa8e9f145016291c5e19a299747ae86fb561c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
