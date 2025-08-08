@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26</link>
+			<title>[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin]</title>
+			<description>[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin][28.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26</link>
+				<contentLength>30064771072</contentLength>
+				<pubDate>2025-08-08T12:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="30064771072" url="https://mikanani.me/Download/20250808/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 04 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/9f3184293b0a99f8303a0cf5c89c8b684dc91b86</link>
 			<title>[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 04 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-07T14:40:07.501</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="635741120" url="https://mikanani.me/Download/20250807/2bab0f1cfc84f106bab24fb823079782ca4ce13a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[动漫国字幕组&amp;澄空学园&amp;VCB-Studio] 魔法科高校的劣等生 S3 / Mahouka Koukou no Rettousei S3 / 魔法科高校の劣等生 S3 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/30d308c62b8a5c0bd34e8a08582e1b4ba6bde617</link>
-			<title>[动漫国字幕组&amp;澄空学园&amp;VCB-Studio] 魔法科高校的劣等生 S3 / Mahouka Koukou no Rettousei S3 / 魔法科高校の劣等生 S3 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[动漫国字幕组&amp;澄空学园&amp;VCB-Studio] 魔法科高校的劣等生 S3 / Mahouka Koukou no Rettousei S3 / 魔法科高校の劣等生 S3 10-bit 1080p HEVC BDRip [Fin][19.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/30d308c62b8a5c0bd34e8a08582e1b4ba6bde617</link>
-				<contentLength>20401094656</contentLength>
-				<pubDate>2025-08-07T12:54:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20401094656" url="https://mikanani.me/Download/20250807/30d308c62b8a5c0bd34e8a08582e1b4ba6bde617.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

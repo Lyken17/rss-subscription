@@ -8173,5 +8173,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="630414400" url="https://mikanani.me/Download/20250808/b9b06fb0cb50da4f38760ceae7cab0f4a8593bdb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26</link>
+			<title>[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin]</title>
+			<description>[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin][28.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26</link>
+				<contentLength>30064771072</contentLength>
+				<pubDate>2025-08-08T12:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="30064771072" url="https://mikanani.me/Download/20250808/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
