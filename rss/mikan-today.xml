@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[风之圣殿&amp;DBD-Raws][美妙频道 第一季/Kiratto Pri Chan S1][01-51TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キラッとプリ☆チャン S1)</guid>
+			<link>https://mikanani.me/Home/Episode/7c23b789736edc81521d0f4d2045bdaf051b1fc9</link>
+			<title>[风之圣殿&amp;DBD-Raws][美妙频道 第一季/Kiratto Pri Chan S1][01-51TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キラッとプリ☆チャン S1)</title>
+			<description>[风之圣殿&amp;DBD-Raws][美妙频道 第一季/Kiratto Pri Chan S1][01-51TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キラッとプリ☆チャン S1)[48.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7c23b789736edc81521d0f4d2045bdaf051b1fc9</link>
+				<contentLength>52291227648</contentLength>
+				<pubDate>2025-08-08T17:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="52291227648" url="https://mikanani.me/Download/20250808/7c23b789736edc81521d0f4d2045bdaf051b1fc9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 明天，美食广场见。 / Food Court de, Mata Ashita [05][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/9d7c44dc2c1a5bd1d810fe935febad04c1f2f808</link>
 			<title>[桜都字幕组] 明天，美食广场见。 / Food Court de, Mata Ashita [05][1080p][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-07T15:05:48.738</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1331439872" url="https://mikanani.me/Download/20250807/cb8a3e8e7e9a3d7504a00b3d87e66d9c25237392.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][云深不知梦][Eclipse of Illusion][2025][05][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/1099e5d87cda7fbf1c397a8fc95d5b5cdbed6e09</link>
-			<title>[GM-Team][国漫][云深不知梦][Eclipse of Illusion][2025][05][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][云深不知梦][Eclipse of Illusion][2025][05][GB][4K HEVC 10Bit][1.18 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1099e5d87cda7fbf1c397a8fc95d5b5cdbed6e09</link>
-				<contentLength>1267015296</contentLength>
-				<pubDate>2025-08-07T15:05:42.213</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20250807/1099e5d87cda7fbf1c397a8fc95d5b5cdbed6e09.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
