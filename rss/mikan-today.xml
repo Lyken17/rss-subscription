@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/bcf72239d2e93faa461cd70776600846632117e4</link>
+			<title>[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin][16.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bcf72239d2e93faa461cd70776600846632117e4</link>
+				<contentLength>17716740096</contentLength>
+				<pubDate>2025-08-09T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20250809/bcf72239d2e93faa461cd70776600846632117e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 诡秘之主 小丑篇 / Lord of Mysteries - 08 (CR 2538x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ae95aca1f1db17fa831f27efd50770432c7e5d3d</link>
 			<title>[黒ネズミたち] 诡秘之主 小丑篇 / Lord of Mysteries - 08 (CR 2538x1080 AVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-08T01:06:26.242291</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="567489344" url="https://mikanani.me/Download/20250808/b306f5adcfa76e4ef0860b918adf950dc837b4e9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 神椿市建设中。 Kamitsubaki-shi Kensetsuchuu - 00 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/4f3d9d3b9e533f24cd06dae3e656b307306d78da</link>
-			<title>[Prejudice-Studio] 神椿市建设中。 Kamitsubaki-shi Kensetsuchuu - 00 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 神椿市建设中。 Kamitsubaki-shi Kensetsuchuu - 00 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][365.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f3d9d3b9e533f24cd06dae3e656b307306d78da</link>
-				<contentLength>382730240</contentLength>
-				<pubDate>2025-08-08T01:06:13.030922</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="382730240" url="https://mikanani.me/Download/20250808/4f3d9d3b9e533f24cd06dae3e656b307306d78da.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

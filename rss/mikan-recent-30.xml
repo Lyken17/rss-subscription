@@ -34690,5 +34690,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386609984" url="https://mikanani.me/Download/20250809/1462a385dc1909d3798b35171106867a1f5211f4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/bcf72239d2e93faa461cd70776600846632117e4</link>
+			<title>[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin][16.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bcf72239d2e93faa461cd70776600846632117e4</link>
+				<contentLength>17716740096</contentLength>
+				<pubDate>2025-08-09T12:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20250809/bcf72239d2e93faa461cd70776600846632117e4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
