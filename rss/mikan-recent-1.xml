@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26</link>
-			<title>[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin]</title>
-			<description>[千夏字幕组&amp;VCB-Studio] 致不灭的你 / Fumetsu no Anata e / 不灭のあなたへ 10-bit 1080p HEVC BDRip [S2 Fin][28.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26</link>
-				<contentLength>30064771072</contentLength>
-				<pubDate>2025-08-08T12:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="30064771072" url="https://mikanani.me/Download/20250808/75dc9ce6c0443e87fd7a2924f742d5d98ca9cb26.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 明天，美食广场见。 / Food Court de, Mata Ashita [05][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/9d7c44dc2c1a5bd1d810fe935febad04c1f2f808</link>
 			<title>[桜都字幕组] 明天，美食广场见。 / Food Court de, Mata Ashita [05][1080p][繁体内嵌]</title>
@@ -1227,6 +1215,18 @@
 				<pubDate>2025-08-09T19:17:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="472593216" url="https://mikanani.me/Download/20250809/917012b43f94de34f78cc272086519e6de18273a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【白恋&amp;冷番补完字幕组】[钢之魂][狮虎兽神][Juushin Liger][BDRIP][960x720][01-43 Fin][内封简繁中字]</guid>
+			<link>https://mikanani.me/Home/Episode/7082637c4429aecb71bfd5d5a495ff42c974543d</link>
+			<title>【白恋&amp;冷番补完字幕组】[钢之魂][狮虎兽神][Juushin Liger][BDRIP][960x720][01-43 Fin][内封简繁中字]</title>
+			<description>【白恋&amp;冷番补完字幕组】[钢之魂][狮虎兽神][Juushin Liger][BDRIP][960x720][01-43 Fin][内封简繁中字][19.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7082637c4429aecb71bfd5d5a495ff42c974543d</link>
+				<contentLength>21367461888</contentLength>
+				<pubDate>2025-08-09T21:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21367461888" url="https://mikanani.me/Download/20250809/7082637c4429aecb71bfd5d5a495ff42c974543d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

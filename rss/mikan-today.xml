@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【白恋&amp;冷番补完字幕组】[钢之魂][狮虎兽神][Juushin Liger][BDRIP][960x720][01-43 Fin][内封简繁中字]</guid>
+			<link>https://mikanani.me/Home/Episode/7082637c4429aecb71bfd5d5a495ff42c974543d</link>
+			<title>【白恋&amp;冷番补完字幕组】[钢之魂][狮虎兽神][Juushin Liger][BDRIP][960x720][01-43 Fin][内封简繁中字]</title>
+			<description>【白恋&amp;冷番补完字幕组】[钢之魂][狮虎兽神][Juushin Liger][BDRIP][960x720][01-43 Fin][内封简繁中字][19.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7082637c4429aecb71bfd5d5a495ff42c974543d</link>
+				<contentLength>21367461888</contentLength>
+				<pubDate>2025-08-09T21:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21367461888" url="https://mikanani.me/Download/20250809/7082637c4429aecb71bfd5d5a495ff42c974543d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 死灵之子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/3f5169037c877c6e1e9205d4005788e31d29184e</link>
 			<title>[黒ネズミたち] 死灵之子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-08T14:04:26.967</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="260256560" url="https://mikanani.me/Download/20250808/dafae0cb6834614110ea5009a2d6c4363dc225a8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 美食广场里的女高中生们在说啥 / Food Court de, Mata Ashita [05][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/8c29d2eb62b12afd1c3c70eb5865e161be26126a</link>
-			<title>[桜都字幕组] 美食广场里的女高中生们在说啥 / Food Court de, Mata Ashita [05][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 美食广场里的女高中生们在说啥 / Food Court de, Mata Ashita [05][1080p][简繁内封][334.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8c29d2eb62b12afd1c3c70eb5865e161be26126a</link>
-				<contentLength>351073728</contentLength>
-				<pubDate>2025-08-08T13:59:13.556</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="351073728" url="https://mikanani.me/Download/20250808/8c29d2eb62b12afd1c3c70eb5865e161be26126a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
