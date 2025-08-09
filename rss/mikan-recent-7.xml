@@ -8389,5 +8389,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250809/8b8739ab5023f75cd6dbdc10273733459d1a451e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][06][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/096483894b505b4572e3b952fe206f55c645277b</link>
+			<title>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][06][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][06][1080p][简日双语][437.26 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/096483894b505b4572e3b952fe206f55c645277b</link>
+				<contentLength>458500352</contentLength>
+				<pubDate>2025-08-09T14:46:53.768</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="458500352" url="https://mikanani.me/Download/20250809/096483894b505b4572e3b952fe206f55c645277b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
