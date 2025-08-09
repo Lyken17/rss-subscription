@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 19 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/a7512ae7dce3649879ca2f7a4c55d7a10072d615</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 19 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 19 (ABEMA 1920x1080 AVC AAC MP4)[330.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a7512ae7dce3649879ca2f7a4c55d7a10072d615</link>
+				<contentLength>346973792</contentLength>
+				<pubDate>2025-08-10T07:14:40.710483</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346973792" url="https://mikanani.me/Download/20250810/a7512ae7dce3649879ca2f7a4c55d7a10072d615.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">Bad Girl 不良少女 - EP06 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
 			<link>https://mikanani.me/Home/Episode/cd0cb101e4f84a9ec7921a0aa40ba04988addfea</link>
 			<title>Bad Girl 不良少女 - EP06 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-08-09T09:58:19.108523</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="156028112" url="https://mikanani.me/Download/20250809/d36beb95f5854c9efbd155d6d81e69650b4bcd8f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 噗尼轮轮 噗尼3 / Punirunes: Puni 3 - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1462a385dc1909d3798b35171106867a1f5211f4</link>
-			<title>[黒ネズミたち] 噗尼轮轮 噗尼3 / Punirunes: Puni 3 - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 噗尼轮轮 噗尼3 / Punirunes: Puni 3 - 06 (ABEMA 1920x1080 AVC AAC MP4)[368.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1462a385dc1909d3798b35171106867a1f5211f4</link>
-				<contentLength>386609984</contentLength>
-				<pubDate>2025-08-09T09:48:30.810885</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="386609984" url="https://mikanani.me/Download/20250809/1462a385dc1909d3798b35171106867a1f5211f4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
