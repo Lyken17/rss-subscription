@@ -9373,5 +9373,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="754764992" url="https://mikanani.me/Download/20250811/94581e665e680075bdb2d07cd609bb08d4a27944.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</guid>
+			<link>https://mikanani.me/Home/Episode/dacc1e9265bb537df17a1be32b82df94d9dc88d1</link>
+			<title>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</title>
+			<description>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}[1.39 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dacc1e9265bb537df17a1be32b82df94d9dc88d1</link>
+				<contentLength>1492501120</contentLength>
+				<pubDate>2025-08-11T02:23:59.054</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250811/dacc1e9265bb537df17a1be32b82df94d9dc88d1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
