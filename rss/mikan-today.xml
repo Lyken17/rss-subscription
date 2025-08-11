@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][通灵王 2001/Shaman King 2001][01-64TV全集][美版/USA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](シャーマンキング 2001)</guid>
+			<link>https://mikanani.me/Home/Episode/3768e98895f27afe6d361d7b5db9a51c35f1a7e5</link>
+			<title>[DBD-Raws][通灵王 2001/Shaman King 2001][01-64TV全集][美版/USA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](シャーマンキング 2001)</title>
+			<description>[DBD-Raws][通灵王 2001/Shaman King 2001][01-64TV全集][美版/USA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](シャーマンキング 2001)[35.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3768e98895f27afe6d361d7b5db9a51c35f1a7e5</link>
+				<contentLength>37903085568</contentLength>
+				<pubDate>2025-08-11T19:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="37903085568" url="https://mikanani.me/Download/20250811/3768e98895f27afe6d361d7b5db9a51c35f1a7e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 与游戏中心的少女异文化交流的故事 Game Center Shoujo to Ibunka Kouryuu - 06 [WebRip 1080P AVC 8bit AAC MP4][繁英内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/2b6e0f6992df298976d1d3431ce919eb6fdcba19</link>
 			<title>[Prejudice-Studio] 与游戏中心的少女异文化交流的故事 Game Center Shoujo to Ibunka Kouryuu - 06 [WebRip 1080P AVC 8bit AAC MP4][繁英内嵌]</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-10T19:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459066560" url="https://mikanani.me/Download/20250810/082225348733196171d7f73e2e625ee2b00b1975.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ed5575b8e39109cbb290de6cae62095a5dc27495</link>
-			<title>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔女与使魔 / 魔女守护者 / Witch Watch / ウィッチウォッチ - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][474.99 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ed5575b8e39109cbb290de6cae62095a5dc27495</link>
-				<contentLength>498063104</contentLength>
-				<pubDate>2025-08-10T19:44:18.934</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="498063104" url="https://mikanani.me/Download/20250810/ed5575b8e39109cbb290de6cae62095a5dc27495.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
