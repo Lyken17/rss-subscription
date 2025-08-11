@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语][碧蓝之海][第二季][04][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/61f573f25e06fc2423b2d90441b734da4ed5f1cd</link>
+			<title>[萌樱字幕组][简日双语][碧蓝之海][第二季][04][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语][碧蓝之海][第二季][04][Webrip][1080p][简繁日内封][283.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/61f573f25e06fc2423b2d90441b734da4ed5f1cd</link>
+				<contentLength>297061568</contentLength>
+				<pubDate>2025-08-11T15:51:23.461359</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="297061568" url="https://mikanani.me/Download/20250811/61f573f25e06fc2423b2d90441b734da4ed5f1cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]天官赐福 / Heaven Official's Blessing - 01 [粤日国三语+内封繁体中文字幕](WEB 1920x1080 x264 AACx3 SRTx2+PGS Ani-One CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/1c184c71fda80ad3fd5adbe3f2e4c36b73d0ebbd</link>
 			<title>[jibaketa合成&amp;音频压制][代理商粤语]天官赐福 / Heaven Official's Blessing - 01 [粤日国三语+内封繁体中文字幕](WEB 1920x1080 x264 AACx3 SRTx2+PGS Ani-One CHT)</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-10T19:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20250810/2e7994959298715940bd14748c4a9c67f7aa7f2c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1029 警校篇 狂野警察物语 CASE. 松田阵平][HDTV][1080P][简体MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/789605354ab1721c18e6416ba62653f783bfd17b</link>
-			<title>[APTX4869][CONAN][名侦探柯南 1029 警校篇 狂野警察物语 CASE. 松田阵平][HDTV][1080P][简体MP4]</title>
-			<description>[APTX4869][CONAN][名侦探柯南 1029 警校篇 狂野警察物语 CASE. 松田阵平][HDTV][1080P][简体MP4][235.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/789605354ab1721c18e6416ba62653f783bfd17b</link>
-				<contentLength>246939648</contentLength>
-				<pubDate>2025-08-10T19:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="246939648" url="https://mikanani.me/Download/20250810/789605354ab1721c18e6416ba62653f783bfd17b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

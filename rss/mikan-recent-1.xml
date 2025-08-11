@@ -125,18 +125,6 @@
 			<enclosure type="application/x-bittorrent" length="258998272" url="https://mikanani.me/Download/20250810/3b94fed836a8d637e412fc16a743dec7737a1c9a.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Minimini Minini - 32 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2dd8389704fced5012aae6640677738813f99e59</link>
-			<title>[黒ネズミたち] Minimini Minini - 32 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Minimini Minini - 32 (ABEMA 1920x1080 AVC AAC MP4)[43.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2dd8389704fced5012aae6640677738813f99e59</link>
-				<contentLength>45508200</contentLength>
-				<pubDate>2025-08-10T07:24:38.38976</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="45508200" url="https://mikanani.me/Download/20250810/2dd8389704fced5012aae6640677738813f99e59.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 青春猪头少年不会梦到圣诞服女郎 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/6a0b90788cbdb42d1d9e18301ef680cd1a36ec0b</link>
 			<title>[Skymoon-Raws] 青春猪头少年不会梦到圣诞服女郎 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -2043,6 +2031,18 @@
 				<pubDate>2025-08-11T13:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="28561532928" url="https://mikanani.me/Download/20250811/f197530f1c922279061450b047ef33ed57896242.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语][碧蓝之海][第二季][04][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/61f573f25e06fc2423b2d90441b734da4ed5f1cd</link>
+			<title>[萌樱字幕组][简日双语][碧蓝之海][第二季][04][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语][碧蓝之海][第二季][04][Webrip][1080p][简繁日内封][283.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/61f573f25e06fc2423b2d90441b734da4ed5f1cd</link>
+				<contentLength>297061568</contentLength>
+				<pubDate>2025-08-11T15:51:23.461359</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="297061568" url="https://mikanani.me/Download/20250811/61f573f25e06fc2423b2d90441b734da4ed5f1cd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
