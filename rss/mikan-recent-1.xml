@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="980104000" url="https://mikanani.me/Download/20250811/55f9cb1540651b02b75e760d3ff8ea88762268eb.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1139 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e1663bf7a07d639f98c21dd5006074e8d4fac423</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1139 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1139 (B-Global 3840x2160 HEVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e1663bf7a07d639f98c21dd5006074e8d4fac423</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-08-11T10:05:53.138148</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250811/e1663bf7a07d639f98c21dd5006074e8d4fac423.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 战斗员派遣中！ / Sentouin, Hakenshimasu! / 戦闘员、派遣します！ 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/221ae35cb3f70e71ba850f17a99da1361746cdd8</link>
 			<title>[VCB-Studio] 战斗员派遣中！ / Sentouin, Hakenshimasu! / 戦闘员、派遣します！ 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1251,6 +1239,30 @@
 				<pubDate>2025-08-12T16:45:46.883</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="511201760" url="https://mikanani.me/Download/20250812/755d75c94993a01ebb9c9ce66c2957f818da77bc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 疑似后宫 / 模拟后宫体验 / Giji Harem / 疑似ハーレム 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/a02b92df8e1d5b4322f3d366126f9cba4aaf9248</link>
+			<title>[VCB-Studio] 疑似后宫 / 模拟后宫体验 / Giji Harem / 疑似ハーレム 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 疑似后宫 / 模拟后宫体验 / Giji Harem / 疑似ハーレム 10-bit 1080p HEVC BDRip [Fin][19.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a02b92df8e1d5b4322f3d366126f9cba4aaf9248</link>
+				<contentLength>20723216384</contentLength>
+				<pubDate>2025-08-12T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20723216384" url="https://mikanani.me/Download/20250812/a02b92df8e1d5b4322f3d366126f9cba4aaf9248.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9288f6db27eb87c9e56c0445365124bd79de9eca</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 18 (ABEMA 1920x1080 AVC AAC MP4)[718.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9288f6db27eb87c9e56c0445365124bd79de9eca</link>
+				<contentLength>753401856</contentLength>
+				<pubDate>2025-08-12T17:33:08.045861</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753401856" url="https://mikanani.me/Download/20250812/9288f6db27eb87c9e56c0445365124bd79de9eca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
