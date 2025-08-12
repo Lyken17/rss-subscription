@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★07★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/c010fd35c8d410487ff6f2335f24596ae3c823ee</link>
+			<title>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★07★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★07★1920x1080★AVC AAC MP4★繁体中文[505.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c010fd35c8d410487ff6f2335f24596ae3c823ee</link>
+				<contentLength>529635744</contentLength>
+				<pubDate>2025-08-13T02:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="529635744" url="https://mikanani.me/Download/20250813/c010fd35c8d410487ff6f2335f24596ae3c823ee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/bf533773719094aaec1dd90bd5fe4c3e8dca0c6a</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 06 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bf533773719094aaec1dd90bd5fe4c3e8dca0c6a</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-08-13T02:36:50.146204</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250813/bf533773719094aaec1dd90bd5fe4c3e8dca0c6a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d596c9608d8ea468e41fb5597affc238d3dc3174</link>
 			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1182,30 +1206,6 @@
 				<pubDate>2025-08-12T00:31:02.10622</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="383254528" url="https://mikanani.me/Download/20250812/904647bb9008637b3796b882b84f611d9218635c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Sakamoto Days - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9d5f139b479c13341046d0d0a5035bf6d0ab88c0</link>
-			<title>[黒ネズミたち] Sakamoto Days - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Sakamoto Days - 16 (ABEMA 1920x1080 AVC AAC MP4)[704.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9d5f139b479c13341046d0d0a5035bf6d0ab88c0</link>
-				<contentLength>738302336</contentLength>
-				<pubDate>2025-08-12T00:04:40.431597</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="738302336" url="https://mikanani.me/Download/20250812/9d5f139b479c13341046d0d0a5035bf6d0ab88c0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 外星人姆姆 / Uchuujin MuuMuu - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e48136dc0107c35e3e4b8a2a8b06370a61552c17</link>
-			<title>[黒ネズミたち] 外星人姆姆 / Uchuujin MuuMuu - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 外星人姆姆 / Uchuujin MuuMuu - 18 (ABEMA 1920x1080 AVC AAC MP4)[713.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e48136dc0107c35e3e4b8a2a8b06370a61552c17</link>
-				<contentLength>747634688</contentLength>
-				<pubDate>2025-08-12T00:04:38.429884</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747634688" url="https://mikanani.me/Download/20250812/e48136dc0107c35e3e4b8a2a8b06370a61552c17.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
