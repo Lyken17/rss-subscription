@@ -1723,5 +1723,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="266967456" url="https://mikanani.me/Download/20250812/c8845f654d6db06ef8db996a8e055b3e2654ff99.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0063da3e054720f987897ac8b3461e817f434947</link>
+			<title>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 06 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0063da3e054720f987897ac8b3461e817f434947</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-08-13T01:05:59.335614</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250813/0063da3e054720f987897ac8b3461e817f434947.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d6eea62b9dcb38ea1e5384473a6bafc8cc947bfa</link>
+			<title>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 05 (ABEMA 1920x1080 AVC AAC MP4)[713.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d6eea62b9dcb38ea1e5384473a6bafc8cc947bfa</link>
+				<contentLength>747949248</contentLength>
+				<pubDate>2025-08-13T01:03:00.930132</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747949248" url="https://mikanani.me/Download/20250813/d6eea62b9dcb38ea1e5384473a6bafc8cc947bfa.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
