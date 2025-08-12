@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 92 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5906d8fee5629cb9055e21aa6984ce1b823caebd</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 92 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 92 (B-Global Donghua 1920x1080 HEVC AAC MKV)[320.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5906d8fee5629cb9055e21aa6984ce1b823caebd</link>
-				<contentLength>336173472</contentLength>
-				<pubDate>2025-08-11T09:02:30.559163</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="336173472" url="https://mikanani.me/Download/20250811/5906d8fee5629cb9055e21aa6984ce1b823caebd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/55f9cb1540651b02b75e760d3ff8ea88762268eb</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1251,6 +1239,18 @@
 				<pubDate>2025-08-12T15:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="404121184" url="https://mikanani.me/Download/20250812/2553cf69f49627a3a3ca23100550f0da9f3374f3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][06][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/755d75c94993a01ebb9c9ce66c2957f818da77bc</link>
+			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][06][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][06][1080p][繁日双语][487.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/755d75c94993a01ebb9c9ce66c2957f818da77bc</link>
+				<contentLength>511201760</contentLength>
+				<pubDate>2025-08-12T16:45:46.883</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="511201760" url="https://mikanani.me/Download/20250812/755d75c94993a01ebb9c9ce66c2957f818da77bc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][06][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/755d75c94993a01ebb9c9ce66c2957f818da77bc</link>
+			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][06][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][06][1080p][繁日双语][487.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/755d75c94993a01ebb9c9ce66c2957f818da77bc</link>
+				<contentLength>511201760</contentLength>
+				<pubDate>2025-08-12T16:45:46.883</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="511201760" url="https://mikanani.me/Download/20250812/755d75c94993a01ebb9c9ce66c2957f818da77bc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黑白字幕组]强者的新传说 / Tsuyokute New Saga [03] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c4c132daeeeca521da490952b3b1b3536d25da59</link>
 			<title>[黑白字幕组]强者的新传说 / Tsuyokute New Saga [03] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-11T11:42:49.447</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="9771051008" url="https://mikanani.me/Download/20250811/6d9400a4366f4f9d3d9eb046503e31bad0ca5a8d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/55f9cb1540651b02b75e760d3ff8ea88762268eb</link>
-			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)[934.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55f9cb1540651b02b75e760d3ff8ea88762268eb</link>
-				<contentLength>980104000</contentLength>
-				<pubDate>2025-08-11T11:04:24.9782</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="980104000" url="https://mikanani.me/Download/20250811/55f9cb1540651b02b75e760d3ff8ea88762268eb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
