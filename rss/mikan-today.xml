@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][03][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/d214a5a829785d27de285514d3cf0627acc0e613</link>
+			<title>[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][03][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][03][GB][4K HEVC 10Bit][1.56 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d214a5a829785d27de285514d3cf0627acc0e613</link>
+				<contentLength>1675037184</contentLength>
+				<pubDate>2025-08-15T11:24:30.583</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1675037184" url="https://mikanani.me/Download/20250815/d214a5a829785d27de285514d3cf0627acc0e613.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 14 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7f88717c5ee57a103b839319bb51955611e9a959</link>
 			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 14 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-14T01:01:51.995942</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="541904064" url="https://mikanani.me/Download/20250814/996d52d91dcbbb3284ea41b70c43bc00cbb8b99b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 黑化吧！圣女大人 / Kizu darake Seijo yori Houfuku wo Komete - 06 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/5579095d0f65ae00c44adddcff9e86f48677d55b</link>
-			<title>[黒ネズミたち] 黑化吧！圣女大人 / Kizu darake Seijo yori Houfuku wo Komete - 06 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 黑化吧！圣女大人 / Kizu darake Seijo yori Houfuku wo Komete - 06 (Baha 1920x1080 AVC AAC MP4)[516.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5579095d0f65ae00c44adddcff9e86f48677d55b</link>
-				<contentLength>541694336</contentLength>
-				<pubDate>2025-08-14T01:01:47.438687</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="541694336" url="https://mikanani.me/Download/20250814/5579095d0f65ae00c44adddcff9e86f48677d55b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
