@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 43 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/22a43e9b369c38e39a6f2062babfc3d370bdda79</link>
+			<title>[黒ネズミたち] Nui Story 2 - 43 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 43 (ABEMA 1920x1080 AVC AAC MP4)[54.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/22a43e9b369c38e39a6f2062babfc3d370bdda79</link>
+				<contentLength>57566824</contentLength>
+				<pubDate>2025-08-16T03:03:20.922619</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="57566824" url="https://mikanani.me/Download/20250816/22a43e9b369c38e39a6f2062babfc3d370bdda79.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/b255efc5c38a54b816bcad12f8ab6ec0d69cbe76</link>
 			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-14T22:01:16.505046</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="400660896" url="https://mikanani.me/Download/20250814/f2dccd324cdd4a2a935ecc163411c9f802cfd8fc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/7140d1e935229de31998ab01871dcc8d82c91fe1</link>
-			<title>[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 07 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 07 (Baha 1920x1080 AVC AAC MP4)[381.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7140d1e935229de31998ab01871dcc8d82c91fe1</link>
-				<contentLength>399822016</contentLength>
-				<pubDate>2025-08-14T22:01:10.757985</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="399822016" url="https://mikanani.me/Download/20250814/7140d1e935229de31998ab01871dcc8d82c91fe1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
