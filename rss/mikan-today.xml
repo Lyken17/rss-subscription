@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 07 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0fdb348d8296a800a1cfb586aee6bcf2a0b9598a</link>
+			<title>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 07 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 07 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0fdb348d8296a800a1cfb586aee6bcf2a0b9598a</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-08-15T15:35:31.345048</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250815/0fdb348d8296a800a1cfb586aee6bcf2a0b9598a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub&amp;VCB-Studio] WIXOSS DIVA(A)LIVE 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/d281e61abf1844f4c3648d42953c493649c35d41</link>
 			<title>[SweetSub&amp;VCB-Studio] WIXOSS DIVA(A)LIVE 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-14T01:16:43.698873</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="533200896" url="https://mikanani.me/Download/20250814/30162c2e980e8bd8fcf9047fdaec32f295a4f83f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  阴阳回天 Re：Birth Verse - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/83cc47118751f03bb341e4bf8969067dbfdbacc3</link>
-			<title>[ANi]  阴阳回天 Re：Birth Verse - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  阴阳回天 Re：Birth Verse - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][508.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/83cc47118751f03bb341e4bf8969067dbfdbacc3</link>
-				<contentLength>533410624</contentLength>
-				<pubDate>2025-08-14T01:16:20.115416</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="533410624" url="https://mikanani.me/Download/20250814/83cc47118751f03bb341e4bf8969067dbfdbacc3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
