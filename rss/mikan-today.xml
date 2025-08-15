@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP05 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/aaca15c5efd29d8fd407771fd4c033949f3ebb9c</link>
+			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP05 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP05 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[2.49 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aaca15c5efd29d8fd407771fd4c033949f3ebb9c</link>
+				<contentLength>2673617152</contentLength>
+				<pubDate>2025-08-16T05:04:42.111</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2673617152" url="https://mikanani.me/Download/20250816/aaca15c5efd29d8fd407771fd4c033949f3ebb9c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[芝士动物朋友] 中年上班族转生恶役 / Akuyaku Reijou Tensei Ojisan / 悪役令嬢転生おじさん [11][BDRip 1080p HEVC OPUS][简繁日内封]（大叔 大小姐 反派千金）</guid>
 			<link>https://mikanani.me/Home/Episode/5bb624612529c15f9332f12ac09a0064d1ffabf0</link>
 			<title>[芝士动物朋友] 中年上班族转生恶役 / Akuyaku Reijou Tensei Ojisan / 悪役令嬢転生おじさん [11][BDRip 1080p HEVC OPUS][简繁日内封]（大叔 大小姐 反派千金）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-14T22:02:50.292605</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="926102336" url="https://mikanani.me/Download/20250814/e53e7377b570c9dd06c0dca661984618facc1353.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/29b3b63d5c53aeeb2c7c4d6680c8d4bfe85de6e2</link>
-			<title>[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][536.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/29b3b63d5c53aeeb2c7c4d6680c8d4bfe85de6e2</link>
-				<contentLength>562665856</contentLength>
-				<pubDate>2025-08-14T22:01:50.833512</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="562665856" url="https://mikanani.me/Download/20250814/29b3b63d5c53aeeb2c7c4d6680c8d4bfe85de6e2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
