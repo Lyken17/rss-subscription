@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/0b9412f686711186228d36c496598a3c16696990</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 20 (ABEMA 1920x1080 AVC AAC MP4)[330.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0b9412f686711186228d36c496598a3c16696990</link>
+				<contentLength>346973792</contentLength>
+				<pubDate>2025-08-17T07:15:23.079441</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346973792" url="https://mikanani.me/Download/20250817/0b9412f686711186228d36c496598a3c16696990.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [06][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/f8a3e015162e91a53e1aace916b666758cca2891</link>
 			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [06][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-16T09:48:14.20732</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386295392" url="https://mikanani.me/Download/20250816/4f0921e8ae227509b06ce93c04e2a454cb588957.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 93 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/34af3b403da9a806cab29ae3d47cc02548add0d0</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 93 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 93 (B-Global Donghua 1920x1080 HEVC AAC MKV)[276.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/34af3b403da9a806cab29ae3d47cc02548add0d0</link>
-				<contentLength>289721536</contentLength>
-				<pubDate>2025-08-16T09:01:51.535736</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="289721536" url="https://mikanani.me/Download/20250816/34af3b403da9a806cab29ae3d47cc02548add0d0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
