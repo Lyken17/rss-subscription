@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 37 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/3867411a894afb3fc5b7b92bf1b9c6fcca3a1983</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 37 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 37 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.03 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3867411a894afb3fc5b7b92bf1b9c6fcca3a1983</link>
+				<contentLength>1105954048</contentLength>
+				<pubDate>2025-08-16T20:45:15.171</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1105954048" url="https://mikanani.me/Download/20250816/3867411a894afb3fc5b7b92bf1b9c6fcca3a1983.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e</link>
 			<title>[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-15T00:31:14.331196</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="405484352" url="https://mikanani.me/Download/20250815/bf1d3ee737ecc9c061eb0ad49042205155e6b0ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 07 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/c305302a578f35919290f0baa54c4dfec629d8fc</link>
-			<title>[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 07 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌]</title>
-			<description>[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 07 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌][1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c305302a578f35919290f0baa54c4dfec629d8fc</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-08-15T00:17:25.285629</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250815/c305302a578f35919290f0baa54c4dfec629d8fc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

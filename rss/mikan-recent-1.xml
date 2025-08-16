@@ -952,5 +952,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="754764992" url="https://mikanani.me/Download/20250816/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 37 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/3867411a894afb3fc5b7b92bf1b9c6fcca3a1983</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 37 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 37 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.03 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3867411a894afb3fc5b7b92bf1b9c6fcca3a1983</link>
+				<contentLength>1105954048</contentLength>
+				<pubDate>2025-08-16T20:45:15.171</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1105954048" url="https://mikanani.me/Download/20250816/3867411a894afb3fc5b7b92bf1b9c6fcca3a1983.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
