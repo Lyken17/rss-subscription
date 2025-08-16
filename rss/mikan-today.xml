@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 06v2 (WebRip AV1 简繁内封 Aliciä)</guid>
+			<link>https://mikanani.me/Home/Episode/59ab4e63eb8a4b05dbf7c2cc8df7fd78aa567d9f</link>
+			<title>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 06v2 (WebRip AV1 简繁内封 Aliciä)</title>
+			<description>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 06v2 (WebRip AV1 简繁内封 Aliciä)[829.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/59ab4e63eb8a4b05dbf7c2cc8df7fd78aa567d9f</link>
+				<contentLength>869709888</contentLength>
+				<pubDate>2025-08-17T03:05:34.924</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="869709888" url="https://mikanani.me/Download/20250817/59ab4e63eb8a4b05dbf7c2cc8df7fd78aa567d9f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 光逝去的夏天 [07][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/46b075f0232b7f85bbab2e3598c2d1e6d3e7b7d2</link>
 			<title>[TOC] 光逝去的夏天 [07][1080P][AVC AAC][CHT][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-16T02:06:16.949469</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="446378816" url="https://mikanani.me/Download/20250816/e66d4c1431c75bab948da11ea8a8634b75c4f1ce.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 07 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7dfb7d2086414fae0c17c256ba703cfb63a49825</link>
-			<title>[沸班亚马制作组] 胆大党 第二季 - 07 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 胆大党 第二季 - 07 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][1.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7dfb7d2086414fae0c17c256ba703cfb63a49825</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2025-08-16T01:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250816/7dfb7d2086414fae0c17c256ba703cfb63a49825.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
