@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/af3c966e3403cbab2be80eac1d04a7c4449a4cf1</link>
+			<title>[沸班亚马制作组] 胆大党 第二季 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 胆大党 第二季 - 07 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][342.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af3c966e3403cbab2be80eac1d04a7c4449a4cf1</link>
+				<contentLength>359032416</contentLength>
+				<pubDate>2025-08-16T13:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="359032416" url="https://mikanani.me/Download/20250816/af3c966e3403cbab2be80eac1d04a7c4449a4cf1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 诡秘之主 小丑篇 / Lord of Mysteries - 09 (CR 2538x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a6219b2f1ae51f5f8c7ed3a6c66b82cc91ff0c93</link>
 			<title>[黒ネズミたち] 诡秘之主 小丑篇 / Lord of Mysteries - 09 (CR 2538x1080 AVC AAC MKV)</title>
@@ -1191,30 +1203,6 @@
 				<pubDate>2025-08-14T23:34:02.64425</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="744908416" url="https://mikanani.me/Download/20250814/c5d641624ac5e23aeeb757ab83fd7e9b5bda1354.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party wo Tsuihou Sareta Shiro Madoushi - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/98bfbbb5de385ad8159e678a96b4ab84077e5fec</link>
-			<title>[黒ネズミたち] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party wo Tsuihou Sareta Shiro Madoushi - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party wo Tsuihou Sareta Shiro Madoushi - 06 (ABEMA 1920x1080 AVC AAC MP4)[712.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/98bfbbb5de385ad8159e678a96b4ab84077e5fec</link>
-				<contentLength>746586112</contentLength>
-				<pubDate>2025-08-14T23:33:06.36314</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20250814/98bfbbb5de385ad8159e678a96b4ab84077e5fec.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[明天，美食广场见。/Food Court de, Mata Ashita.][03][1080p HEVC][CHT][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/e17135705009ced760bca996c16085f00443aa32</link>
-			<title>【悠哈璃羽字幕社】[明天，美食广场见。/Food Court de, Mata Ashita.][03][1080p HEVC][CHT][繁体内嵌]</title>
-			<description>【悠哈璃羽字幕社】[明天，美食广场见。/Food Court de, Mata Ashita.][03][1080p HEVC][CHT][繁体内嵌][239.27 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e17135705009ced760bca996c16085f00443aa32</link>
-				<contentLength>250892784</contentLength>
-				<pubDate>2025-08-14T23:17:00.347</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="250892784" url="https://mikanani.me/Download/20250814/e17135705009ced760bca996c16085f00443aa32.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
