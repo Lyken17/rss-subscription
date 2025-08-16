@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][03][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/d214a5a829785d27de285514d3cf0627acc0e613</link>
-			<title>[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][03][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][03][GB][4K HEVC 10Bit][1.56 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d214a5a829785d27de285514d3cf0627acc0e613</link>
-				<contentLength>1675037184</contentLength>
-				<pubDate>2025-08-15T11:24:30.583</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1675037184" url="https://mikanani.me/Download/20250815/d214a5a829785d27de285514d3cf0627acc0e613.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;VCB-Studio] WIXOSS DIVA(A)LIVE 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/d281e61abf1844f4c3648d42953c493649c35d41</link>
 			<title>[SweetSub&amp;VCB-Studio] WIXOSS DIVA(A)LIVE 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -951,6 +939,18 @@
 				<pubDate>2025-08-16T18:27:58.059</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250816/9e614dde934614300db31f7ac2844960cb9f9b3c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e</link>
+			<title>[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)[719.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e</link>
+				<contentLength>754764992</contentLength>
+				<pubDate>2025-08-16T20:33:31.637682</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754764992" url="https://mikanani.me/Download/20250816/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

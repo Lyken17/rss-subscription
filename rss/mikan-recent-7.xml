@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/bcf72239d2e93faa461cd70776600846632117e4</link>
-			<title>[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[VCB-Studio] 精灵来日 / 欢迎来到日本，妖精小姐。 / Nihon e Youkoso Elf-san. / 日本へようこそエルフさん。 10-bit 1080p HEVC BDRip [Fin][16.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bcf72239d2e93faa461cd70776600846632117e4</link>
-				<contentLength>17716740096</contentLength>
-				<pubDate>2025-08-09T12:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20250809/bcf72239d2e93faa461cd70776600846632117e4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 05 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
 			<link>https://mikanani.me/Home/Episode/8b8739ab5023f75cd6dbdc10273733459d1a451e</link>
 			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 05 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
@@ -7908,6 +7896,18 @@
 				<pubDate>2025-08-16T18:27:58.059</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1449551488" url="https://mikanani.me/Download/20250816/9e614dde934614300db31f7ac2844960cb9f9b3c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e</link>
+			<title>[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show - 07 (ABEMA 1920x1080 AVC AAC MP4)[719.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e</link>
+				<contentLength>754764992</contentLength>
+				<pubDate>2025-08-16T20:33:31.637682</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754764992" url="https://mikanani.me/Download/20250816/9e44ccef4f6ee0680602d9a97cf1fa0f28f7951e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
