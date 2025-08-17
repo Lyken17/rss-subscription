@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/5fb33bc38ea7163827e1dfcb61788804b39a4ee3</link>
+			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 06 (CR 1920x1080 AVC AAC MKV)[210.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5fb33bc38ea7163827e1dfcb61788804b39a4ee3</link>
+				<contentLength>220934960</contentLength>
+				<pubDate>2025-08-18T03:47:32.577236</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="220934960" url="https://mikanani.me/Download/20250818/5fb33bc38ea7163827e1dfcb61788804b39a4ee3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 07 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：薰香花朵凛然绽放）</guid>
 			<link>https://mikanani.me/Home/Episode/aac4cec5c7977c8edab1edb5cef2f05581cdca39</link>
 			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 07 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：薰香花朵凛然绽放）</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-17T17:49:08.006</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250817/f5ddd29dde90477ddcbafa930e16828ecebfdc16.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 07 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/93a348d8366c872d8d76ec7844ffe16e96557129</link>
-			<title>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 07 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</title>
-			<description>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 07 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)[610.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/93a348d8366c872d8d76ec7844ffe16e96557129</link>
-				<contentLength>640564608</contentLength>
-				<pubDate>2025-08-17T17:43:12.545</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="640564608" url="https://mikanani.me/Download/20250817/93a348d8366c872d8d76ec7844ffe16e96557129.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
