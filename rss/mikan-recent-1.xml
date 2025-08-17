@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 19 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9664ad2da10ea52274b33cadda55189aeef04566</link>
-			<title>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 19 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 真･武士传YAIBA / Shin Samurai-den Yaiba - 19 (B-Global 1920x1080 HEVC AAC MKV)[435.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9664ad2da10ea52274b33cadda55189aeef04566</link>
-				<contentLength>456969408</contentLength>
-				<pubDate>2025-08-16T18:01:59.55797</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="456969408" url="https://mikanani.me/Download/20250816/9664ad2da10ea52274b33cadda55189aeef04566.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[DBD-Raws][复仇者/Revenger][01-12TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](リベンジャー)</guid>
 			<link>https://mikanani.me/Home/Episode/1325296d6d31f48bc849e98de3886615b930c405</link>
 			<title>[DBD-Raws][复仇者/Revenger][01-12TV全集+特典映像][美版/USA.Ver][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](リベンジャー)</title>
@@ -2847,6 +2835,18 @@
 				<pubDate>2025-08-18T00:35:28.415764</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="825439040" url="https://mikanani.me/Download/20250818/23da57519f048bf5acdaea5ca1dcc018d4bb1b10.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/be8bee04d5ee5aec7e6142ec9cc8c80403e316d4</link>
+			<title>[Skymoon-Raws] Gachiakuta - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Gachiakuta - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][321.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/be8bee04d5ee5aec7e6142ec9cc8c80403e316d4</link>
+				<contentLength>336802624</contentLength>
+				<pubDate>2025-08-18T01:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="336802624" url="https://mikanani.me/Download/20250818/be8bee04d5ee5aec7e6142ec9cc8c80403e316d4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
