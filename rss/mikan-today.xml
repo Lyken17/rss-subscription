@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 28 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/52d055053433ad0191467f5ad1291e08d54f2661</link>
+			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 28 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 28 (CR 1920x1080 AVC AAC MKV)[928.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/52d055053433ad0191467f5ad1291e08d54f2661</link>
+				<contentLength>973602816</contentLength>
+				<pubDate>2025-08-17T14:35:14.596563</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="973602816" url="https://mikanani.me/Download/20250817/52d055053433ad0191467f5ad1291e08d54f2661.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第1171集 成为管家的理由（前篇）][WEBRIP][简繁日多语MKV][PGS][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/5aa8646c830e7ac441d34f0b4470d65b27c58456</link>
 			<title>[银色子弹字幕组][名侦探柯南][第1171集 成为管家的理由（前篇）][WEBRIP][简繁日多语MKV][PGS][1080P]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-16T22:33:16.185872</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250816/90e9c654f2cdd6151e129299b1098e981a2c36e2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 9-nine- 支配者的王冠 / 9-nine- Shihaisha no Oukan - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d138a48068298b5de7a64f0d05a8d3f1e14121f3</link>
-			<title>[黒ネズミたち] 9-nine- 支配者的王冠 / 9-nine- Shihaisha no Oukan - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 9-nine- 支配者的王冠 / 9-nine- Shihaisha no Oukan - 08 (ABEMA 1920x1080 AVC AAC MP4)[711.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d138a48068298b5de7a64f0d05a8d3f1e14121f3</link>
-				<contentLength>746271552</contentLength>
-				<pubDate>2025-08-16T22:03:54.888051</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746271552" url="https://mikanani.me/Download/20250816/d138a48068298b5de7a64f0d05a8d3f1e14121f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

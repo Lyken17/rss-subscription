@@ -1600,5 +1600,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="291923552" url="https://mikanani.me/Download/20250817/556e45a736ccdb34ba21a2f624507f93bb3fa4d8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 28 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/52d055053433ad0191467f5ad1291e08d54f2661</link>
+			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 28 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 28 (CR 1920x1080 AVC AAC MKV)[928.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/52d055053433ad0191467f5ad1291e08d54f2661</link>
+				<contentLength>973602816</contentLength>
+				<pubDate>2025-08-17T14:35:14.596563</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="973602816" url="https://mikanani.me/Download/20250817/52d055053433ad0191467f5ad1291e08d54f2661.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
