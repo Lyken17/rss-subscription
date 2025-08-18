@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][07][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/fdcfbb852e2336a1c8a32c677fa9b4a643a82994</link>
+			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][07][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][07][1080p][简日双语][286.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fdcfbb852e2336a1c8a32c677fa9b4a643a82994</link>
+				<contentLength>300742080</contentLength>
+				<pubDate>2025-08-18T12:41:30.395</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="300742080" url="https://mikanani.me/Download/20250818/fdcfbb852e2336a1c8a32c677fa9b4a643a82994.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/19a1830bd55fb8df612d3c88d187fecc16b4e482</link>
 			<title>[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-08-17T19:30:14.995</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="312087680" url="https://mikanani.me/Download/20250817/f29bcdae0f3e1c3050405b8de6dcfc292ab8134f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 不良少女 / Bad Girl [06][1080p][繁日内嵌]（坏女孩）</guid>
-			<link>https://mikanani.me/Home/Episode/f4e916a1dc79c1c102887e4cd2a3b9a0fb9d2242</link>
-			<title>[MingY] 不良少女 / Bad Girl [06][1080p][繁日内嵌]（坏女孩）</title>
-			<description>[MingY] 不良少女 / Bad Girl [06][1080p][繁日内嵌]（坏女孩）[329.04 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f4e916a1dc79c1c102887e4cd2a3b9a0fb9d2242</link>
-				<contentLength>345023456</contentLength>
-				<pubDate>2025-08-17T19:30:04.661</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="345023456" url="https://mikanani.me/Download/20250817/f4e916a1dc79c1c102887e4cd2a3b9a0fb9d2242.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
