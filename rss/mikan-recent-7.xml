@@ -7933,5 +7933,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7194070016" url="https://mikanani.me/Download/20250819/e90e1a2287a93e4ea937027c07d428e6bd43b5d5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][Sola/天空][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/509227fa3e8d0eeb130f477849dfdfadd300d416</link>
+			<title>[DBD-Raws][Sola/天空][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV]</title>
+			<description>[DBD-Raws][Sola/天空][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV][7.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/509227fa3e8d0eeb130f477849dfdfadd300d416</link>
+				<contentLength>8053063680</contentLength>
+				<pubDate>2025-08-19T15:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8053063680" url="https://mikanani.me/Download/20250819/509227fa3e8d0eeb130f477849dfdfadd300d416.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
