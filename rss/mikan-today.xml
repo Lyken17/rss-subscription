@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][亚人酱有话要说/Demi-chan wa Kataritai][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](亜人ちゃんは语りたい)</guid>
+			<link>https://mikanani.me/Home/Episode/e26ad5569eecff2b009f2f9cea4ed16394e04218</link>
+			<title>[DBD-Raws][亚人酱有话要说/Demi-chan wa Kataritai][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](亜人ちゃんは语りたい)</title>
+			<description>[DBD-Raws][亚人酱有话要说/Demi-chan wa Kataritai][01-13TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV](亜人ちゃんは语りたい)[17.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e26ad5569eecff2b009f2f9cea4ed16394e04218</link>
+				<contentLength>18253611008</contentLength>
+				<pubDate>2025-08-19T16:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18253611008" url="https://mikanani.me/Download/20250819/e26ad5569eecff2b009f2f9cea4ed16394e04218.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][Sola/天空][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/509227fa3e8d0eeb130f477849dfdfadd300d416</link>
 			<title>[DBD-Raws][Sola/天空][01-13TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLACx2][MKV]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-18T09:39:35.686559</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="646342272" url="https://mikanani.me/Download/20250818/33dbc7d006ca76b09bf91a96fc10d33047e96e9d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1140 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/12608d5e330c38d9222f1fd18e0e4019cc881c94</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1140 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1140 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/12608d5e330c38d9222f1fd18e0e4019cc881c94</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-08-18T09:34:49.4092</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250818/12608d5e330c38d9222f1fd18e0e4019cc881c94.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
