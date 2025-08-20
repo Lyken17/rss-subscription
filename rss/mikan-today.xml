@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">租借女友 第四季 / 出租女友 第四季 - EP08 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</guid>
+			<link>https://mikanani.me/Home/Episode/8fb798fc0f1e22eacd9a6bca8712194e799f89f2</link>
+			<title>租借女友 第四季 / 出租女友 第四季 - EP08 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</title>
+			<description>租借女友 第四季 / 出租女友 第四季 - EP08 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}[1.44 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8fb798fc0f1e22eacd9a6bca8712194e799f89f2</link>
+				<contentLength>1546188288</contentLength>
+				<pubDate>2025-08-20T18:22:58.475</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1546188288" url="https://mikanani.me/Download/20250820/8fb798fc0f1e22eacd9a6bca8712194e799f89f2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 06.5 总集篇 - [繁日内嵌][H264 1080P](检索：游乐场少女的异文化交流)</guid>
 			<link>https://mikanani.me/Home/Episode/92baafa099afa6da1b263ba35dbe63195c18909a</link>
 			<title>[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 06.5 总集篇 - [繁日内嵌][H264 1080P](检索：游乐场少女的异文化交流)</title>
@@ -1182,18 +1194,6 @@
 				<pubDate>2025-08-19T01:50:14.489</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3350074368" url="https://mikanani.me/Download/20250819/a472fcd1f84b0ebc880cb82a90228d74c96d7c6d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">碧蓝之海2 - EP07 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {GRAND BLUE | 碧蓝之海 | ぐらんぶる}</guid>
-			<link>https://mikanani.me/Home/Episode/5e29ee41c7d3752c98e8f5c730394107b5176d39</link>
-			<title>碧蓝之海2 - EP07 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {GRAND BLUE | 碧蓝之海 | ぐらんぶる}</title>
-			<description>碧蓝之海2 - EP07 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {GRAND BLUE | 碧蓝之海 | ぐらんぶる}[1.43 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5e29ee41c7d3752c98e8f5c730394107b5176d39</link>
-				<contentLength>1535450752</contentLength>
-				<pubDate>2025-08-19T01:46:19.836</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250819/5e29ee41c7d3752c98e8f5c730394107b5176d39.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
