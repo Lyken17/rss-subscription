@@ -89,18 +89,6 @@
 			<enclosure type="application/x-bittorrent" length="310724512" url="https://mikanani.me/Download/20250820/0e3881902b37347181d9e60f5c43f51cff7ce999.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][夏目友人帐 柒/Natsume Yuujinchou Shichi][01-12TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁日外挂][FLAC][MKV](夏目友人帐 漆)</guid>
-			<link>https://mikanani.me/Home/Episode/56014383aa3f9d7552fa265e5d04240c6b227d4e</link>
-			<title>[DBD-Raws][夏目友人帐 柒/Natsume Yuujinchou Shichi][01-12TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁日外挂][FLAC][MKV](夏目友人帐 漆)</title>
-			<description>[DBD-Raws][夏目友人帐 柒/Natsume Yuujinchou Shichi][01-12TV全集+SP+特典映像][1080P][BDRip][HEVC-10bit][简繁日外挂][FLAC][MKV](夏目友人帐 漆)[15.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/56014383aa3f9d7552fa265e5d04240c6b227d4e</link>
-				<contentLength>16320875520</contentLength>
-				<pubDate>2025-08-20T13:54:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16320875520" url="https://mikanani.me/Download/20250820/56014383aa3f9d7552fa265e5d04240c6b227d4e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1136][1080p]周日版</guid>
 			<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
 			<title>[OPFansMaplesnow][one_piece][1136][1080p]周日版</title>
@@ -1194,6 +1182,18 @@
 				<pubDate>2025-08-19T01:30:54.720275</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="762000192" url="https://mikanani.me/Download/20250819/5661ba24aa06f024d7cfc58bedc81fdaf402241b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[晚街与灯][水属性的魔法师_Mizuzokusei no Mahoutsukai][06_封锁地下城][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封]</guid>
+			<link>https://mikanani.me/Home/Episode/77a067f83b8e92a3de803c10a9dc8c6c7461c7e7</link>
+			<title>[晚街与灯][水属性的魔法师_Mizuzokusei no Mahoutsukai][06_封锁地下城][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封]</title>
+			<description>[晚街与灯][水属性的魔法师_Mizuzokusei no Mahoutsukai][06_封锁地下城][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封][1.46 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77a067f83b8e92a3de803c10a9dc8c6c7461c7e7</link>
+				<contentLength>1567663104</contentLength>
+				<pubDate>2025-08-19T01:10:59.233</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1567663104" url="https://mikanani.me/Download/20250819/77a067f83b8e92a3de803c10a9dc8c6c7461c7e7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
