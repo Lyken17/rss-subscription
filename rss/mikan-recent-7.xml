@@ -7825,5 +7825,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="722647104" url="https://mikanani.me/Download/20250820/67837d32f8cab29046e77bcb5cd83b41c8333db8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1136][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
+			<title>[OPFansMaplesnow][one_piece][1136][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1136][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-08-20T11:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250820/d3c44024b4787dacab37e1a351b78454a4d3c6fd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

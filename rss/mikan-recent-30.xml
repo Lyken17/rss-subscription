@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6027838710f488d95ded86ae1aa515959963d18b</link>
-			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 02 (CR 1920x1080 AVC AAC MKV)[235.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6027838710f488d95ded86ae1aa515959963d18b</link>
-				<contentLength>247044512</contentLength>
-				<pubDate>2025-07-21T03:49:11.970349</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="247044512" url="https://mikanani.me/Download/20250721/6027838710f488d95ded86ae1aa515959963d18b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 86 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c1b536f7316885c93950543a86080e716cfbdeaf</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 86 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -33810,6 +33798,18 @@
 				<pubDate>2025-08-20T10:59:20.657</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="722647104" url="https://mikanani.me/Download/20250820/67837d32f8cab29046e77bcb5cd83b41c8333db8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1136][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
+			<title>[OPFansMaplesnow][one_piece][1136][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1136][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-08-20T11:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250820/d3c44024b4787dacab37e1a351b78454a4d3c6fd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

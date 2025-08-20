@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1136][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
+			<title>[OPFansMaplesnow][one_piece][1136][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1136][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3c44024b4787dacab37e1a351b78454a4d3c6fd</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-08-20T11:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250820/d3c44024b4787dacab37e1a351b78454a4d3c6fd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/509c50b45195cc623c5a80d2727d954ad84e66b1</link>
 			<title>[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1182,18 +1194,6 @@
 				<pubDate>2025-08-19T00:31:34.664644</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="377801920" url="https://mikanani.me/Download/20250819/606b3a24b85d89fd654c9ca745cd73c5465bf8cc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我们不可能成为恋人！绝对不行。（※似乎可行？） / Watanare - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/873fd4866fe773025e2124eec2f9fbb5534e642c</link>
-			<title>[黒ネズミたち] 我们不可能成为恋人！绝对不行。（※似乎可行？） / Watanare - 07 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 我们不可能成为恋人！绝对不行。（※似乎可行？） / Watanare - 07 (Baha 1920x1080 AVC AAC MP4)[397.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/873fd4866fe773025e2124eec2f9fbb5534e642c</link>
-				<contentLength>416284672</contentLength>
-				<pubDate>2025-08-19T00:31:23.364688</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="416284672" url="https://mikanani.me/Download/20250819/873fd4866fe773025e2124eec2f9fbb5534e642c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
