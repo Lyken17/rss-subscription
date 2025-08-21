@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/8f864adb8750f9b497883dd58888b032b4bdcde7</link>
+			<title>[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
+			<description>[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin][19.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f864adb8750f9b497883dd58888b032b4bdcde7</link>
+				<contentLength>20508469248</contentLength>
+				<pubDate>2025-08-21T13:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20508469248" url="https://mikanani.me/Download/20250821/8f864adb8750f9b497883dd58888b032b4bdcde7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f2c37d877e2daff1f976793bb7971222ce90c87</link>
 			<title>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1224,18 +1236,6 @@
 				<pubDate>2025-08-19T22:31:21.433225</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="351902112" url="https://mikanani.me/Download/20250819/5eeac2eec8c8768d372acb750d9e4742f648271a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Mattaku Saikin no Tantei Tokitara /  最近的侦探真没用 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3618fe516169e5e5c93f49050fe4d5ae154e2fe8</link>
-			<title>[ANi] Mattaku Saikin no Tantei Tokitara /  最近的侦探真没用 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Mattaku Saikin no Tantei Tokitara /  最近的侦探真没用 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][450.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3618fe516169e5e5c93f49050fe4d5ae154e2fe8</link>
-				<contentLength>472698048</contentLength>
-				<pubDate>2025-08-19T22:31:07.583978</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="472698048" url="https://mikanani.me/Download/20250819/3618fe516169e5e5c93f49050fe4d5ae154e2fe8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
