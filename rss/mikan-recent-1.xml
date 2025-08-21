@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 07 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0a803b4f276ced696c5a9c9c6b6cb6ad8fc35f6a</link>
-			<title>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 07 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 07 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0a803b4f276ced696c5a9c9c6b6cb6ad8fc35f6a</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-08-20T07:11:19.469421</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250820/0a803b4f276ced696c5a9c9c6b6cb6ad8fc35f6a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 07 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c6608058fa825efc6d49bffd5e290b7fb5dd0d93</link>
 			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 07 (CR 1920x1080 AVC AAC MKV)</title>
@@ -873,6 +861,18 @@
 				<pubDate>2025-08-21T13:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20508469248" url="https://mikanani.me/Download/20250821/8f864adb8750f9b497883dd58888b032b4bdcde7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][夏目友人帐 第一季+第二季/Natsume Yuujinchou S1+S2][TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](夏目友人帐 S1+S2)</guid>
+			<link>https://mikanani.me/Home/Episode/ab261beded209ec01a4ff76a503bdfa47a4313ec</link>
+			<title>[DBD-Raws][夏目友人帐 第一季+第二季/Natsume Yuujinchou S1+S2][TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](夏目友人帐 S1+S2)</title>
+			<description>[DBD-Raws][夏目友人帐 第一季+第二季/Natsume Yuujinchou S1+S2][TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](夏目友人帐 S1+S2)[12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab261beded209ec01a4ff76a503bdfa47a4313ec</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2025-08-21T15:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20250821/ab261beded209ec01a4ff76a503bdfa47a4313ec.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

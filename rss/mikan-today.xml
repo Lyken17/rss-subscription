@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][夏目友人帐 第一季+第二季/Natsume Yuujinchou S1+S2][TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](夏目友人帐 S1+S2)</guid>
+			<link>https://mikanani.me/Home/Episode/ab261beded209ec01a4ff76a503bdfa47a4313ec</link>
+			<title>[DBD-Raws][夏目友人帐 第一季+第二季/Natsume Yuujinchou S1+S2][TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](夏目友人帐 S1+S2)</title>
+			<description>[DBD-Raws][夏目友人帐 第一季+第二季/Natsume Yuujinchou S1+S2][TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](夏目友人帐 S1+S2)[12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab261beded209ec01a4ff76a503bdfa47a4313ec</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2025-08-21T15:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20250821/ab261beded209ec01a4ff76a503bdfa47a4313ec.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/8f864adb8750f9b497883dd58888b032b4bdcde7</link>
 			<title>[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
@@ -1224,18 +1236,6 @@
 				<pubDate>2025-08-19T22:35:33.061</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="337851200" url="https://mikanani.me/Download/20250819/859993857b3d3f1291a7d54096d23afaac4e9bb8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 这届侦探真不行 / Mattaku Saikin no Tantei to Kitara - 08 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5eeac2eec8c8768d372acb750d9e4742f648271a</link>
-			<title>[黒ネズミたち] 这届侦探真不行 / Mattaku Saikin no Tantei to Kitara - 08 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 这届侦探真不行 / Mattaku Saikin no Tantei to Kitara - 08 (B-Global 1920x1080 HEVC AAC MKV)[335.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5eeac2eec8c8768d372acb750d9e4742f648271a</link>
-				<contentLength>351902112</contentLength>
-				<pubDate>2025-08-19T22:31:21.433225</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="351902112" url="https://mikanani.me/Download/20250819/5eeac2eec8c8768d372acb750d9e4742f648271a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
