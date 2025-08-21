@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5f2c37d877e2daff1f976793bb7971222ce90c87</link>
+			<title>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][609.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f2c37d877e2daff1f976793bb7971222ce90c87</link>
+				<contentLength>638981248</contentLength>
+				<pubDate>2025-08-21T07:30:25.974</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="638981248" url="https://mikanani.me/Download/20250821/5f2c37d877e2daff1f976793bb7971222ce90c87.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">新 吊带袜天使 New PANTY and STOCKING with GARTERBELT S01E07 1080p 日英双语-多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/f968c77ff9e8e274ad86ce524d3b547ea539ae0f</link>
 			<title>新 吊带袜天使 New PANTY and STOCKING with GARTERBELT S01E07 1080p 日英双语-多国字幕</title>
@@ -1224,18 +1236,6 @@
 				<pubDate>2025-08-19T22:31:07.583978</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="472698048" url="https://mikanani.me/Download/20250819/3618fe516169e5e5c93f49050fe4d5ae154e2fe8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 杜鹃婚约 第二季 / Kakkou no Iinazuke Season 2 - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d56b7ab9da2ecf1cd17c145b46d25494ba279df8</link>
-			<title>[黒ネズミたち] 杜鹃婚约 第二季 / Kakkou no Iinazuke Season 2 - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 杜鹃婚约 第二季 / Kakkou no Iinazuke Season 2 - 07 (ABEMA 1920x1080 AVC AAC MP4)[711.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d56b7ab9da2ecf1cd17c145b46d25494ba279df8</link>
-				<contentLength>746481280</contentLength>
-				<pubDate>2025-08-19T22:30:55.19505</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746481280" url="https://mikanani.me/Download/20250819/d56b7ab9da2ecf1cd17c145b46d25494ba279df8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
