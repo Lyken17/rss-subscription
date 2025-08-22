@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第一季 - 01-12 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ab483d7521e7bc2c91daadd4d166b34d5dd23e6b</link>
+			<title>[沸班亚马制作组] 胆大党 第一季 - 01-12 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 胆大党 第一季 - 01-12 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][17.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab483d7521e7bc2c91daadd4d166b34d5dd23e6b</link>
+				<contentLength>18253611008</contentLength>
+				<pubDate>2025-08-22T07:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18253611008" url="https://mikanani.me/Download/20250822/ab483d7521e7bc2c91daadd4d166b34d5dd23e6b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] The Water Magician /  水属性的魔法师 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8f899d51c57e12e359342a6efe7ad2e5693c6bf1</link>
 			<title>[ANi] The Water Magician /  水属性的魔法师 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-21T00:00:58.459618</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="321283680" url="https://mikanani.me/Download/20250821/37b353398b5ef929888c36bcf2585b4c5bd88b19.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 外星人姆姆 / Uchuujin MuuMuu - 20 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3fd94cc010891502a829c031371dbccfb28492a3</link>
-			<title>[黒ネズミたち] 外星人姆姆 / Uchuujin MuuMuu - 20 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 外星人姆姆 / Uchuujin MuuMuu - 20 (Baha 1920x1080 AVC AAC MP4)[305.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3fd94cc010891502a829c031371dbccfb28492a3</link>
-				<contentLength>320759392</contentLength>
-				<pubDate>2025-08-21T00:00:54.190415</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="320759392" url="https://mikanani.me/Download/20250821/3fd94cc010891502a829c031371dbccfb28492a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
