@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第一季 - 01-12 [BDRip 1080p HEVC-10bit OPUS]</guid>
+			<link>https://mikanani.me/Home/Episode/37103adf5c4bc272cf06835836886b0c0722f153</link>
+			<title>[沸班亚马制作组] 胆大党 第一季 - 01-12 [BDRip 1080p HEVC-10bit OPUS]</title>
+			<description>[沸班亚马制作组] 胆大党 第一季 - 01-12 [BDRip 1080p HEVC-10bit OPUS][7.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37103adf5c4bc272cf06835836886b0c0722f153</link>
+				<contentLength>8160437760</contentLength>
+				<pubDate>2025-08-22T11:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8160437760" url="https://mikanani.me/Download/20250822/37103adf5c4bc272cf06835836886b0c0722f153.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 15 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d574989ad4710fe7af49dba51542e3f22d30d08b</link>
 			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 15 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-21T01:01:21.095273</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="489894720" url="https://mikanani.me/Download/20250821/4252f7aa1129001a915e8ef47a02e894ad757b00.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  帝乃三姊妹意外地容易相处。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/cbca10eecfa364e6f80ad9d41fa3e3f1c6095456</link>
-			<title>[ANi]  帝乃三姊妹意外地容易相处。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  帝乃三姊妹意外地容易相处。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][462.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cbca10eecfa364e6f80ad9d41fa3e3f1c6095456</link>
-				<contentLength>485071264</contentLength>
-				<pubDate>2025-08-21T01:01:08.586877</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="485071264" url="https://mikanani.me/Download/20250821/cbca10eecfa364e6f80ad9d41fa3e3f1c6095456.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
