@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP06 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/4af2b82a48283b0dc1dc2bcb09971f6642a6d83f</link>
+			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP06 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP06 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[1.49 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4af2b82a48283b0dc1dc2bcb09971f6642a6d83f</link>
+				<contentLength>1599875328</contentLength>
+				<pubDate>2025-08-23T05:53:17.5</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1599875328" url="https://mikanani.me/Download/20250823/4af2b82a48283b0dc1dc2bcb09971f6642a6d83f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][08][WEBrip][1080P][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/a90fdafe274de1f57ea82ad5a7e73217be8193a5</link>
 			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][08][WEBrip][1080P][简体内嵌]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-21T22:01:55.461447</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="271581184" url="https://mikanani.me/Download/20250821/23a61da52ccfe90ca714f2dcd81bda16e4118f22.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 08 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b3003d83ead1ee3951e4a6957974521980cbf96e</link>
-			<title>[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 08 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 08 (Baha 1920x1080 AVC AAC MP4)[298.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3003d83ead1ee3951e4a6957974521980cbf96e</link>
-				<contentLength>312790208</contentLength>
-				<pubDate>2025-08-21T22:01:42.519726</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="312790208" url="https://mikanani.me/Download/20250821/b3003d83ead1ee3951e4a6957974521980cbf96e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
