@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][08][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a90fdafe274de1f57ea82ad5a7e73217be8193a5</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][08][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][08][WEBrip][1080P][简体内嵌][405.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a90fdafe274de1f57ea82ad5a7e73217be8193a5</link>
+				<contentLength>425512128</contentLength>
+				<pubDate>2025-08-23T04:12:51.767049</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="425512128" url="https://mikanani.me/Download/20250823/a90fdafe274de1f57ea82ad5a7e73217be8193a5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 44 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/faf37ca41873ac51502bf5c11d734abebf74e911</link>
 			<title>[黒ネズミたち] Nui Story 2 - 44 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-21T22:01:42.519726</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="312790208" url="https://mikanani.me/Download/20250821/b3003d83ead1ee3951e4a6957974521980cbf96e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/6683abcd97bec2d392a318016f15237804796d5f</link>
-			<title>[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Dr STONE S04 /  Dr.STONE 新石纪 第四季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][605.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6683abcd97bec2d392a318016f15237804796d5f</link>
-				<contentLength>634493312</contentLength>
-				<pubDate>2025-08-21T22:01:39.981889</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="634493312" url="https://mikanani.me/Download/20250821/6683abcd97bec2d392a318016f15237804796d5f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
