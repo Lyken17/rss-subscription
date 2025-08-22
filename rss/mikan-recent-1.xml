@@ -1072,5 +1072,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250822/f2d60aa2e18cf2207034dba72a702010539e0c76.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][招募热心ACGN爱好者]</guid>
+			<link>https://mikanani.me/Home/Episode/a8e7b51b795e4f12c2be829683316cfd027aec1e</link>
+			<title>[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][招募热心ACGN爱好者]</title>
+			<description>[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][招募热心ACGN爱好者][211.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a8e7b51b795e4f12c2be829683316cfd027aec1e</link>
+				<contentLength>221459248</contentLength>
+				<pubDate>2025-08-22T19:09:44.476452</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="221459248" url="https://mikanani.me/Download/20250822/a8e7b51b795e4f12c2be829683316cfd027aec1e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
