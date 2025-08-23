@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/509619685d33072fd978e0cd225c1abe85991b50</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 21 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/509619685d33072fd978e0cd225c1abe85991b50</link>
+				<contentLength>346868928</contentLength>
+				<pubDate>2025-08-24T07:12:30.713599</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20250824/509619685d33072fd978e0cd225c1abe85991b50.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 05 - [繁日内嵌][H264 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/72db018b684f71e5d2674e6a168503174caaa3a8</link>
 			<title>[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 05 - [繁日内嵌][H264 8bit 1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-23T09:01:20.964065</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="752143552" url="https://mikanani.me/Download/20250823/16c64e481998732edcf54b46d5132903efd4f54d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e8cd286904cd74566fd426f3ecb3d6a8cecdfc6d</link>
-			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 07 (ABEMA 1920x1080 AVC AAC MP4)[729.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8cd286904cd74566fd426f3ecb3d6a8cecdfc6d</link>
-				<contentLength>764936192</contentLength>
-				<pubDate>2025-08-23T09:00:44.390196</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="764936192" url="https://mikanani.me/Download/20250823/e8cd286904cd74566fd426f3ecb3d6a8cecdfc6d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
