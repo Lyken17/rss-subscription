@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 07 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/9b2801da4a1f8e3023ea267564edec9f581c7ae8</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 07 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 07 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[1.14 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b2801da4a1f8e3023ea267564edec9f581c7ae8</link>
+				<contentLength>1224065664</contentLength>
+				<pubDate>2025-08-23T13:38:40.749</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1224065664" url="https://mikanani.me/Download/20250823/9b2801da4a1f8e3023ea267564edec9f581c7ae8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第一季 - 01-12 [BDRip AI Ultimate 2160p HEVC-10bit OPUS]</guid>
 			<link>https://mikanani.me/Home/Episode/f1d28fdfc3d1527be3f09673e52f5e1be2c2f16c</link>
 			<title>[沸班亚马制作组] 胆大党 第一季 - 01-12 [BDRip AI Ultimate 2160p HEVC-10bit OPUS]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-22T00:25:46.832</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="502278400" url="https://mikanani.me/Download/20250822/3600db7e231f5314a93e945289fdd8a381fa4674.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 08 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌][招募热心ACGN爱好者]</guid>
-			<link>https://mikanani.me/Home/Episode/df3c9e74a822c12433041cdd27244bc20124e99e</link>
-			<title>[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 08 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌][招募热心ACGN爱好者]</title>
-			<description>[Prejudice-Studio] 胆大党 第二季 Dan Da Dan S2 - 08 [Bilibili WEB-DL 2160P AVC 8bit AAC MP4][简体内嵌][招募热心ACGN爱好者][1.6 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df3c9e74a822c12433041cdd27244bc20124e99e</link>
-				<contentLength>1717986944</contentLength>
-				<pubDate>2025-08-22T00:08:13.472998</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20250822/df3c9e74a822c12433041cdd27244bc20124e99e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
