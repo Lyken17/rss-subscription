@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 07 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/d9918a83edb4eeba5c0156d7122040e25a5f4f24</link>
+			<title>[Skymoon-Raws] Gachiakuta - 07 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Gachiakuta - 07 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][370.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d9918a83edb4eeba5c0156d7122040e25a5f4f24</link>
+				<contentLength>388811968</contentLength>
+				<pubDate>2025-08-25T01:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="388811968" url="https://mikanani.me/Download/20250825/d9918a83edb4eeba5c0156d7122040e25a5f4f24.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 丑男真战士 / Busamen Gachi Fighte - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/eadfb443caa10f21bfe558c775aca84835fd363e</link>
 			<title>[Skymoon-Raws] 丑男真战士 / Busamen Gachi Fighte - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-24T16:32:26.951604</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371825056" url="https://mikanani.me/Download/20250824/bb9626e6887eade13d38d5a203564b712a954d44.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Witch Watch /  WITCH WATCH 魔女守护者 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/14b38e682e17bf4da8fe90731c7af9b7626f301e</link>
-			<title>[ANi] Witch Watch /  WITCH WATCH 魔女守护者 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Witch Watch /  WITCH WATCH 魔女守护者 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][409.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/14b38e682e17bf4da8fe90731c7af9b7626f301e</link>
-				<contentLength>429287008</contentLength>
-				<pubDate>2025-08-24T16:31:45.289024</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="429287008" url="https://mikanani.me/Download/20250824/14b38e682e17bf4da8fe90731c7af9b7626f301e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
