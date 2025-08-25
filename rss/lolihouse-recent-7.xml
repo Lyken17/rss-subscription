@@ -577,5 +577,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="440496288" url="https://mikanani.me/Download/20250825/e13fe348aa56f9d6690436a8cb3391306fc5b06e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4554d90da52ae26760fb292ba51c413e9b36b6e8</link>
+			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][829.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4554d90da52ae26760fb292ba51c413e9b36b6e8</link>
+				<contentLength>869940608</contentLength>
+				<pubDate>2025-08-25T23:54:51.734</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="869940608" url="https://mikanani.me/Download/20250825/4554d90da52ae26760fb292ba51c413e9b36b6e8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
