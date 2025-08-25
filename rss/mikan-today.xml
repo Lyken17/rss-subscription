@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][08][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/705e80609133ba9417d304621cb5addebb3ab137</link>
+			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][08][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][08][1080p][简日双语][258.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/705e80609133ba9417d304621cb5addebb3ab137</link>
+				<contentLength>270658432</contentLength>
+				<pubDate>2025-08-26T05:13:38.464</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="270658432" url="https://mikanani.me/Download/20250826/705e80609133ba9417d304621cb5addebb3ab137.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[漫猫字幕组][7月新番][碧蓝之海第二季][Grand Blue S2][07][1080p][MP4][简中]</guid>
 			<link>https://mikanani.me/Home/Episode/95339223f1a5e5fcfaed57bf48305a0e37de3291</link>
 			<title>[漫猫字幕组][7月新番][碧蓝之海第二季][Grand Blue S2][07][1080p][MP4][简中]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-25T03:42:33.882</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="679949120" url="https://mikanani.me/Download/20250825/223fa52b3372444f5731215b08ca593448f6f253.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 珈百璃的堕落／废天使加百列 (ガヴリールドロップアウト) (Gavuriru Doroppuauto／Gabriel Dropout)：TV动画+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.13)</guid>
-			<link>https://mikanani.me/Home/Episode/ea8843338d16dbb04630191df4236334f2fb4eb2</link>
-			<title>[整理搬运] 珈百璃的堕落／废天使加百列 (ガヴリールドロップアウト) (Gavuriru Doroppuauto／Gabriel Dropout)：TV动画+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.13)</title>
-			<description>[整理搬运] 珈百璃的堕落／废天使加百列 (ガヴリールドロップアウト) (Gavuriru Doroppuauto／Gabriel Dropout)：TV动画+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2024.10.13)[17.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ea8843338d16dbb04630191df4236334f2fb4eb2</link>
-				<contentLength>18683107328</contentLength>
-				<pubDate>2025-08-25T03:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18683107328" url="https://mikanani.me/Download/20250825/ea8843338d16dbb04630191df4236334f2fb4eb2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
