@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第08集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/0d41b0a6f46bef50dc995f7b80a05c3e343864a1</link>
+			<title>【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第08集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】碧蓝之海2 Grand Blue Dreaming! S2 第08集 GB_CN HEVC_opus 1080p[193.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0d41b0a6f46bef50dc995f7b80a05c3e343864a1</link>
+				<contentLength>203297920</contentLength>
+				<pubDate>2025-08-26T18:24:51.699</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="203297920" url="https://mikanani.me/Download/20250826/0d41b0a6f46bef50dc995f7b80a05c3e343864a1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c0dd917708c39c1d083f20e4ba1d53e5645a4973</link>
 			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-25T11:01:59.980627</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="743650112" url="https://mikanani.me/Download/20250825/fead54156e9fcb29716c9a6c5a6494aa187cdcf2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][08][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/99a7c14c349ed2fb04a5fe0148f470804fc278fb</link>
-			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][08][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][08][1080p][繁日双语][476.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/99a7c14c349ed2fb04a5fe0148f470804fc278fb</link>
-				<contentLength>499426272</contentLength>
-				<pubDate>2025-08-25T10:50:30.053</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="499426272" url="https://mikanani.me/Download/20250825/99a7c14c349ed2fb04a5fe0148f470804fc278fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
