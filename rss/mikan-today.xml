@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE]</guid>
+			<link>https://mikanani.me/Home/Episode/80455baaa040e622566e3c9f68a6b92b5ac2cb4b</link>
+			<title>[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE]</title>
+			<description>[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE][17.96 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/80455baaa040e622566e3c9f68a6b92b5ac2cb4b</link>
+				<contentLength>19284402176</contentLength>
+				<pubDate>2025-08-26T14:31:28.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19284402176" url="https://mikanani.me/Download/20250826/80455baaa040e622566e3c9f68a6b92b5ac2cb4b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f1fd0e60da1aa0de5481de247ed1c2dc2323eb0d</link>
 			<title>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-25T07:53:21.77849</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="667083072" url="https://mikanani.me/Download/20250825/13e6643aa7d20db68c598241896f5ca5cbb20bb5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【FSD粉羽社】你与偶像光之美少女\You and idol Precure\キミとアイドルプリキュア [28][1080P][中日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/8b6ed1ed2b4966f1a5bddb9cd75ce17fa2c1b67c</link>
-			<title>【FSD粉羽社】你与偶像光之美少女\You and idol Precure\キミとアイドルプリキュア [28][1080P][中日双语]</title>
-			<description>【FSD粉羽社】你与偶像光之美少女\You and idol Precure\キミとアイドルプリキュア [28][1080P][中日双语][609.79 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8b6ed1ed2b4966f1a5bddb9cd75ce17fa2c1b67c</link>
-				<contentLength>639411136</contentLength>
-				<pubDate>2025-08-25T07:52:21.587273</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="639411136" url="https://mikanani.me/Download/20250825/8b6ed1ed2b4966f1a5bddb9cd75ce17fa2c1b67c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][07][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/67e56820fc330cca5f86ea9d2552e47e5ce85da2</link>
-			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][07][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][07][1080p][简日双语][199.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/67e56820fc330cca5f86ea9d2552e47e5ce85da2</link>
-				<contentLength>209599856</contentLength>
-				<pubDate>2025-08-19T07:11:44.146</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="209599856" url="https://mikanani.me/Download/20250819/67e56820fc330cca5f86ea9d2552e47e5ce85da2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 46 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/e97a65d0b70d4db373fe9450ea3667c2633d9da3</link>
 			<title>[黒ネズミたち] 我的师兄太强了 / My Senior Brother is Too Strong - 46 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -7764,6 +7752,18 @@
 				<pubDate>2025-08-26T11:32:58.921</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751493440" url="https://mikanani.me/Download/20250826/1144f0913799eb4b9e383d86301491149d4ed290.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE]</guid>
+			<link>https://mikanani.me/Home/Episode/80455baaa040e622566e3c9f68a6b92b5ac2cb4b</link>
+			<title>[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE]</title>
+			<description>[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE][17.96 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/80455baaa040e622566e3c9f68a6b92b5ac2cb4b</link>
+				<contentLength>19284402176</contentLength>
+				<pubDate>2025-08-26T14:31:28.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19284402176" url="https://mikanani.me/Download/20250826/80455baaa040e622566e3c9f68a6b92b5ac2cb4b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

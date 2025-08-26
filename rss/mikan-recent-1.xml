@@ -1252,5 +1252,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751493440" url="https://mikanani.me/Download/20250826/1144f0913799eb4b9e383d86301491149d4ed290.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE]</guid>
+			<link>https://mikanani.me/Home/Episode/80455baaa040e622566e3c9f68a6b92b5ac2cb4b</link>
+			<title>[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE]</title>
+			<description>[VCB-Studio] 魔法未来 2014 LIVE / Hatsune Miku Magical Mirai 2014 / マジカルミライ 2014 10-bit 1080p HEVC BDRip [LIVE][17.96 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/80455baaa040e622566e3c9f68a6b92b5ac2cb4b</link>
+				<contentLength>19284402176</contentLength>
+				<pubDate>2025-08-26T14:31:28.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19284402176" url="https://mikanani.me/Download/20250826/80455baaa040e622566e3c9f68a6b92b5ac2cb4b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
