@@ -136,5 +136,32 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="417521984" url="https://mikanani.me/Download/20250826/0190fd110b1bfa750fcc1bd6b6444a43b2b508a6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c82b0246f776161a83dd045b2fa1ff167f4e8450</link>
+			<title>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][313.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c82b0246f776161a83dd045b2fa1ff167f4e8450</link>
+				<contentLength>328707616</contentLength>
+				<pubDate>2025-08-26T22:05:02.488</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="328707616" url="https://mikanani.me/Download/20250826/c82b0246f776161a83dd045b2fa1ff167f4e8450.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 20 (幕末篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c23e96f0b63d59c39f3c2b9a69898c53f1a73c94</link>
+			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 20 (幕末篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 20 (幕末篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][404.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c23e96f0b63d59c39f3c2b9a69898c53f1a73c94</link>
+				<contentLength>424211904</contentLength>
+				<pubDate>2025-08-26T21:50:01.678</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="424211904" url="https://mikanani.me/Download/20250826/c23e96f0b63d59c39f3c2b9a69898c53f1a73c94.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
