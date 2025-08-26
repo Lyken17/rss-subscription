@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 20 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c0dd917708c39c1d083f20e4ba1d53e5645a4973</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 20 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 20 (ABEMA 1920x1080 AVC AAC MP4)[718.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0dd917708c39c1d083f20e4ba1d53e5645a4973</link>
+				<contentLength>753821312</contentLength>
+				<pubDate>2025-08-26T17:30:40.248885</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753821312" url="https://mikanani.me/Download/20250826/c0dd917708c39c1d083f20e4ba1d53e5645a4973.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] Nukitashi The Animation / 住在拔作岛上的贫乳该如何是好？ - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]v2</guid>
 			<link>https://mikanani.me/Home/Episode/0190fd110b1bfa750fcc1bd6b6444a43b2b508a6</link>
 			<title>[LoliHouse] Nukitashi The Animation / 住在拔作岛上的贫乳该如何是好？ - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]v2</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-08-25T10:50:30.053</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="499426272" url="https://mikanani.me/Download/20250825/99a7c14c349ed2fb04a5fe0148f470804fc278fb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][08][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/72d13bd0e42805e46cf45cdb29dc11c4e29526ee</link>
-			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][08][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][08][1080p][简日双语][476.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/72d13bd0e42805e46cf45cdb29dc11c4e29526ee</link>
-				<contentLength>499436736</contentLength>
-				<pubDate>2025-08-25T10:14:59.788</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="499436736" url="https://mikanani.me/Download/20250825/72d13bd0e42805e46cf45cdb29dc11c4e29526ee.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
