@@ -8356,5 +8356,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="462631744" url="https://mikanani.me/Download/20250827/4e901fd02a3f1891bde9510337aa5e2a624e5630.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 08 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/89cf919c093480f0a5a4799ddbb931b6dfb7c09c</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 08 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 08 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89cf919c093480f0a5a4799ddbb931b6dfb7c09c</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-08-27T02:32:22.474027</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250827/89cf919c093480f0a5a4799ddbb931b6dfb7c09c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

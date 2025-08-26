@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0</link>
-			<title>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)</title>
-			<description>[jibaketa合成&amp;音频压制][代理商粤语]Dr.STONE 新石纪 / 石纪元 第四季 - 04 (WEB 1920x1080 AVC AACx2 PGS+SRT Ani-One CHT)[764.86 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0</link>
-				<contentLength>802013824</contentLength>
-				<pubDate>2025-07-27T19:08:12.58</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="802013824" url="https://mikanani.me/Download/20250727/a9dfe051ca6b7021dc2c01c2f4d51b8bd61de9d0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 17 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/8e4003dbf2e28bf55d54fb764876e89da6753c49</link>
 			<title>[黒ネズミたち] WITCH WATCH 魔女守护者 / Witch Watch - 17 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -34638,6 +34626,18 @@
 				<pubDate>2025-08-27T01:30:43.937612</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="462631744" url="https://mikanani.me/Download/20250827/4e901fd02a3f1891bde9510337aa5e2a624e5630.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 08 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/89cf919c093480f0a5a4799ddbb931b6dfb7c09c</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 08 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 08 (CR 1920x1080 AVC AAC MKV)[1.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89cf919c093480f0a5a4799ddbb931b6dfb7c09c</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-08-27T02:32:22.474027</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250827/89cf919c093480f0a5a4799ddbb931b6dfb7c09c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
