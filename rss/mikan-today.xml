@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 21 - [简繁内封][H265 10bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/fceedc5bc16ffbb693176aceacea61cd3b155d0a</link>
+			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 21 - [简繁内封][H265 10bit 1080P]</title>
+			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 21 - [简繁内封][H265 10bit 1080P][522.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fceedc5bc16ffbb693176aceacea61cd3b155d0a</link>
+				<contentLength>547566400</contentLength>
+				<pubDate>2025-08-27T07:09:59.054983</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547566400" url="https://mikanani.me/Download/20250827/fceedc5bc16ffbb693176aceacea61cd3b155d0a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [08][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/2c8dd929a125c26f5001a0cc6695ea46cc01e1cb</link>
 			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [08][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-08-26T00:31:43.111475</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="322961408" url="https://mikanani.me/Download/20250826/d248ebe70601123701e273944e82b28328ce0b0a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  我们不可能成为恋人！绝对不行。（※似乎可行？） - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e825ff9b25c22f106c71daa072e60a897c6e1451</link>
-			<title>[ANi]  我们不可能成为恋人！绝对不行。（※似乎可行？） - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  我们不可能成为恋人！绝对不行。（※似乎可行？） - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][358.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e825ff9b25c22f106c71daa072e60a897c6e1451</link>
-				<contentLength>376124224</contentLength>
-				<pubDate>2025-08-26T00:31:40.275397</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="376124224" url="https://mikanani.me/Download/20250826/e825ff9b25c22f106c71daa072e60a897c6e1451.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
