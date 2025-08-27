@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5f8f1b48bc8d68e9c20e63850eb6c48436da494b</link>
+			<title>[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][677.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f8f1b48bc8d68e9c20e63850eb6c48436da494b</link>
+				<contentLength>710441728</contentLength>
+				<pubDate>2025-08-27T21:17:56.143</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="710441728" url="https://mikanani.me/Download/20250827/5f8f1b48bc8d68e9c20e63850eb6c48436da494b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/fcda79a36d42158970d6f6e05285f28431cfd731</link>
 			<title>[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-08-26T17:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16213501952" url="https://mikanani.me/Download/20250826/01dac3bb738ca060020e7e2eb34eeea494bd14eb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][命运石之门/Steins;Gate][01-24TV全集+SP+剧场版+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](シュタインズ・ゲート)</guid>
-			<link>https://mikanani.me/Home/Episode/b9b5d657f154934a901c097f17f906e4de1da11d</link>
-			<title>[DBD-Raws][命运石之门/Steins;Gate][01-24TV全集+SP+剧场版+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](シュタインズ・ゲート)</title>
-			<description>[DBD-Raws][命运石之门/Steins;Gate][01-24TV全集+SP+剧场版+特典映像][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](シュタインズ・ゲート)[19.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b9b5d657f154934a901c097f17f906e4de1da11d</link>
-				<contentLength>20830590976</contentLength>
-				<pubDate>2025-08-26T16:58:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20830590976" url="https://mikanani.me/Download/20250826/b9b5d657f154934a901c097f17f906e4de1da11d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
