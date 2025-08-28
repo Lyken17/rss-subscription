@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 08 [WebRip 1080P HEVC 8bit AAC MKV][简繁日内封].mkv</guid>
+			<link>https://mikanani.me/Home/Episode/3ffd251a9d512bc7c28698e4b41181b933580acf</link>
+			<title>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 08 [WebRip 1080P HEVC 8bit AAC MKV][简繁日内封].mkv</title>
+			<description>[Prejudice-Studio] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) Watashi ga Koibito ni Nareru Wake Nai jan - 08 [WebRip 1080P HEVC 8bit AAC MKV][简繁日内封].mkv[307.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3ffd251a9d512bc7c28698e4b41181b933580acf</link>
+				<contentLength>322646848</contentLength>
+				<pubDate>2025-08-28T16:06:48.963913</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="322646848" url="https://mikanani.me/Download/20250828/3ffd251a9d512bc7c28698e4b41181b933580acf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 地狱老师 2025年版 / Jigoku Sensei Nube 2025 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0a1e931bf5de0f3c7daf005b4a8a6d63288b48d1</link>
 			<title>[LoliHouse] 地狱老师 2025年版 / Jigoku Sensei Nube 2025 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-08-26T22:40:36.447</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391905280" url="https://mikanani.me/Download/20250826/d795548465d11285270df314df89c52c750f128a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 新石纪 第四季 科学与未来 / Dr.STONE：Science Future [15] [1080p] [繁日内嵌] [2025年7月番]</guid>
-			<link>https://mikanani.me/Home/Episode/1fafde5b435e0a0bdbc040dfa5867b6ff9392353</link>
-			<title>[猎户压制部] 新石纪 第四季 科学与未来 / Dr.STONE：Science Future [15] [1080p] [繁日内嵌] [2025年7月番]</title>
-			<description>[猎户压制部] 新石纪 第四季 科学与未来 / Dr.STONE：Science Future [15] [1080p] [繁日内嵌] [2025年7月番][719.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1fafde5b435e0a0bdbc040dfa5867b6ff9392353</link>
-				<contentLength>754555264</contentLength>
-				<pubDate>2025-08-26T22:38:18.181112</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="754555264" url="https://mikanani.me/Download/20250826/1fafde5b435e0a0bdbc040dfa5867b6ff9392353.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
