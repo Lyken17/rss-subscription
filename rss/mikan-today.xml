@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/58a59d4296ba38f3c7893c792ecd3dbb14cd9bad</link>
+			<title>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][527.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/58a59d4296ba38f3c7893c792ecd3dbb14cd9bad</link>
+				<contentLength>552610048</contentLength>
+				<pubDate>2025-08-28T08:28:41.42</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="552610048" url="https://mikanani.me/Download/20250828/58a59d4296ba38f3c7893c792ecd3dbb14cd9bad.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 74 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/f8250d16ae43fd6615633b024c7a97542852c40c</link>
 			<title>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 74 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-08-26T22:30:52.308185</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20250826/c6482a870a2c1f67602e7d3db8880088158de8ce.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP06 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
-			<link>https://mikanani.me/Home/Episode/65bc3582b33a09e90d8720d2f344498007c7d387</link>
-			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP06 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
-			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP06 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[2.45 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/65bc3582b33a09e90d8720d2f344498007c7d387</link>
-				<contentLength>2630667520</contentLength>
-				<pubDate>2025-08-26T22:11:10.52</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2630667520" url="https://mikanani.me/Download/20250826/65bc3582b33a09e90d8720d2f344498007c7d387.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
