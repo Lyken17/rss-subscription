@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 第二季 / DAN DA DAN S2 - 21 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/490c7832463943041369ff341346431d6545ee75</link>
+			<title>[Skymoon-Raws] 胆大党 第二季 / DAN DA DAN S2 - 21 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 胆大党 第二季 / DAN DA DAN S2 - 21 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC][427.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/490c7832463943041369ff341346431d6545ee75</link>
+				<contentLength>448580800</contentLength>
+				<pubDate>2025-08-29T03:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="448580800" url="https://mikanani.me/Download/20250829/490c7832463943041369ff341346431d6545ee75.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4fadaf31fc431d4c01879d02a2341ae07d0de963</link>
 			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-08-27T23:38:27.614093</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749312384" url="https://mikanani.me/Download/20250827/1ac4669d06281ef47bd066eef3f3d2ea586fc3ce.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][诛仙 第3季][Jade Dynasty Ⅲ][2025][14][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/86913137d6e17598450a2ee7699ce9e9eb0cd063</link>
-			<title>[GM-Team][国漫][诛仙 第3季][Jade Dynasty Ⅲ][2025][14][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][诛仙 第3季][Jade Dynasty Ⅲ][2025][14][HEVC][GB][4K][679.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86913137d6e17598450a2ee7699ce9e9eb0cd063</link>
-				<contentLength>712622720</contentLength>
-				<pubDate>2025-08-27T23:35:18.392</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="712622720" url="https://mikanani.me/Download/20250827/86913137d6e17598450a2ee7699ce9e9eb0cd063.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
