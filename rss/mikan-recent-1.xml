@@ -1144,5 +1144,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="467455168" url="https://mikanani.me/Download/20250829/24bafa8a03e069f11ce0eca121dc5ef4e7a6d2d6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][116][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/013bfd212ddecaa08d1a7c5fd7941ad1355f4eb2</link>
+			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][116][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][116][AVC][GB][1080P][507.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/013bfd212ddecaa08d1a7c5fd7941ad1355f4eb2</link>
+				<contentLength>532571744</contentLength>
+				<pubDate>2025-08-29T20:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="532571744" url="https://mikanani.me/Download/20250829/013bfd212ddecaa08d1a7c5fd7941ad1355f4eb2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][05][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/2bb1815e28d38cbbf4de757c84e4725629cd989d</link>
+			<title>[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][05][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][神墓 第3季][Tomb of Fallen Gods Ⅲ][2025][05][GB][4K HEVC 10Bit][1.11 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2bb1815e28d38cbbf4de757c84e4725629cd989d</link>
+				<contentLength>1191853440</contentLength>
+				<pubDate>2025-08-29T20:07:33.141</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1191853440" url="https://mikanani.me/Download/20250829/2bb1815e28d38cbbf4de757c84e4725629cd989d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
