@@ -7843,5 +7843,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1191853440" url="https://mikanani.me/Download/20250829/2bb1815e28d38cbbf4de757c84e4725629cd989d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][水果篮子 2001/幻影天使/Fruits Basket][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](フルーツバスケット)</guid>
+			<link>https://mikanani.me/Home/Episode/d82d0d21441e76b1be04a61f74183d9c14b3a3a7</link>
+			<title>[DBD-Raws][水果篮子 2001/幻影天使/Fruits Basket][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](フルーツバスケット)</title>
+			<description>[DBD-Raws][水果篮子 2001/幻影天使/Fruits Basket][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](フルーツバスケット)[14.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d82d0d21441e76b1be04a61f74183d9c14b3a3a7</link>
+				<contentLength>15461881856</contentLength>
+				<pubDate>2025-08-29T21:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20250829/d82d0d21441e76b1be04a61f74183d9c14b3a3a7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
