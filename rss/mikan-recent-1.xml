@@ -1012,5 +1012,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250829/10964dc2bf78e6a5f38ee04acb2db803c764df1f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 16 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a56b549ae39c980f88a54cbc99c33bee742b3a91</link>
+			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 16 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 16 (B-Global Donghua 1920x820 HEVC AAC MKV)[530.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a56b549ae39c980f88a54cbc99c33bee742b3a91</link>
+				<contentLength>555955008</contentLength>
+				<pubDate>2025-08-29T11:02:57.260937</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="555955008" url="https://mikanani.me/Download/20250829/a56b549ae39c980f88a54cbc99c33bee742b3a91.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9ffa9e0c2d617e0d1d29379c49abae3e09e495c6</link>
+			<title>[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)[338.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ffa9e0c2d617e0d1d29379c49abae3e09e495c6</link>
+				<contentLength>354942976</contentLength>
+				<pubDate>2025-08-29T11:01:51.849399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="354942976" url="https://mikanani.me/Download/20250829/9ffa9e0c2d617e0d1d29379c49abae3e09e495c6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
