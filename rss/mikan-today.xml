@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 45 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/3faf8e2a2f821d8aa71bb401cab53562138686b1</link>
+			<title>[黒ネズミたち] Nui Story 2 - 45 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 45 (ABEMA 1920x1080 AVC AAC MP4)[59.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3faf8e2a2f821d8aa71bb401cab53562138686b1</link>
+				<contentLength>62704844</contentLength>
+				<pubDate>2025-08-30T03:00:23.647849</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="62704844" url="https://mikanani.me/Download/20250830/3faf8e2a2f821d8aa71bb401cab53562138686b1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/154cd42bc60903f6de87ad37484c0e2e11a5aee2</link>
 			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-28T22:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20250828/53009ce9a3a1986e2ca7665cfa45a0424bfa8e67.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 坏女孩 / Bad Girl [08][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/83c7b54476147a056a1792a38f2fa65dc420f57c</link>
-			<title>[桜都字幕组] 坏女孩 / Bad Girl [08][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 坏女孩 / Bad Girl [08][1080p][简繁内封][274.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/83c7b54476147a056a1792a38f2fa65dc420f57c</link>
-				<contentLength>287456640</contentLength>
-				<pubDate>2025-08-28T22:19:10.911</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="287456640" url="https://mikanani.me/Download/20250828/83c7b54476147a056a1792a38f2fa65dc420f57c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
