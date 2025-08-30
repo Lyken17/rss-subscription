@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][水果篮子 2001/幻影天使/Fruits Basket][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](フルーツバスケット)</guid>
-			<link>https://mikanani.me/Home/Episode/d82d0d21441e76b1be04a61f74183d9c14b3a3a7</link>
-			<title>[DBD-Raws][水果篮子 2001/幻影天使/Fruits Basket][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](フルーツバスケット)</title>
-			<description>[DBD-Raws][水果篮子 2001/幻影天使/Fruits Basket][01-26TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](フルーツバスケット)[14.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d82d0d21441e76b1be04a61f74183d9c14b3a3a7</link>
-				<contentLength>15461881856</contentLength>
-				<pubDate>2025-08-29T21:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20250829/d82d0d21441e76b1be04a61f74183d9c14b3a3a7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 明日方舟：焰烬曙明 / Arknights: Rise from Ember - 25 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/596c5fc5e3c8a9d2701b13ff2171a8b5b9f22be6</link>
 			<title>[黒ネズミたち] 明日方舟：焰烬曙明 / Arknights: Rise from Ember - 25 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1887,6 +1875,18 @@
 				<pubDate>2025-08-31T03:31:39.027</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="199040704" url="https://mikanani.me/Download/20250831/0ef4f5e476cb1cd62105399fb5b81a2371772bb2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
+			<link>https://mikanani.me/Home/Episode/33c490b1ea8f40095fced4bbb11cde59ba125b7a</link>
+			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
+			<description>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）[290.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33c490b1ea8f40095fced4bbb11cde59ba125b7a</link>
+				<contentLength>304254816</contentLength>
+				<pubDate>2025-08-31T05:34:35.183</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="304254816" url="https://mikanani.me/Download/20250831/33c490b1ea8f40095fced4bbb11cde59ba125b7a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

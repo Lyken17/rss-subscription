@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
+			<link>https://mikanani.me/Home/Episode/33c490b1ea8f40095fced4bbb11cde59ba125b7a</link>
+			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
+			<description>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）[290.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33c490b1ea8f40095fced4bbb11cde59ba125b7a</link>
+				<contentLength>304254816</contentLength>
+				<pubDate>2025-08-31T05:34:35.183</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="304254816" url="https://mikanani.me/Download/20250831/33c490b1ea8f40095fced4bbb11cde59ba125b7a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">Bad Girl 不良少女 - EP09 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
 			<link>https://mikanani.me/Home/Episode/334aa5303ad3a7c18c0743ddc23223d8d481458c</link>
 			<title>Bad Girl 不良少女 - EP09 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-30T11:06:40.092753</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="204052896" url="https://mikanani.me/Download/20250830/fceb66b00ac84f6a698d2a72832a2f9cb17bed0e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 41 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
-			<link>https://mikanani.me/Home/Episode/cbf945a56ab772bed00d4e25b4fdccc5620dd2d9</link>
-			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 41 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
-			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 41 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.17 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cbf945a56ab772bed00d4e25b4fdccc5620dd2d9</link>
-				<contentLength>1256277888</contentLength>
-				<pubDate>2025-08-30T11:03:39.995</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1256277888" url="https://mikanani.me/Download/20250830/cbf945a56ab772bed00d4e25b4fdccc5620dd2d9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
