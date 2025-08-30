@@ -475,5 +475,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="382782656" url="https://mikanani.me/Download/20250830/8b2990aad4e5b73294ef2d05fb7d035681724663.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/279f5f4406858194594f27c0812225a129ab0fb4</link>
+			<title>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][353.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/279f5f4406858194594f27c0812225a129ab0fb4</link>
+				<contentLength>370252192</contentLength>
+				<pubDate>2025-08-30T16:34:07.981</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="370252192" url="https://mikanani.me/Download/20250830/279f5f4406858194594f27c0812225a129ab0fb4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

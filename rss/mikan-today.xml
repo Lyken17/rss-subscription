@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/279f5f4406858194594f27c0812225a129ab0fb4</link>
+			<title>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][353.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/279f5f4406858194594f27c0812225a129ab0fb4</link>
+				<contentLength>370252192</contentLength>
+				<pubDate>2025-08-30T16:34:07.981</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="370252192" url="https://mikanani.me/Download/20250830/279f5f4406858194594f27c0812225a129ab0fb4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA篇+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</guid>
 			<link>https://mikanani.me/Home/Episode/598476a3198ec2271468f0512d7d0195532345c7</link>
 			<title>[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA篇+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-29T01:01:18.993657</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="642252800" url="https://mikanani.me/Download/20250829/40a4d9919a7fbc6ebaf7515ce92bce85c7da7bfe.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 神椿市建设中。 / Kamitsubaki-shi Kensetsuchuu. - 08 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d7c257664b5bbb00b33750f74cedac2eeb4fb069</link>
-			<title>[黒ネズミたち] 神椿市建设中。 / Kamitsubaki-shi Kensetsuchuu. - 08 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 神椿市建设中。 / Kamitsubaki-shi Kensetsuchuu. - 08 (Baha 1920x1080 AVC AAC MP4)[612.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7c257664b5bbb00b33750f74cedac2eeb4fb069</link>
-				<contentLength>641728512</contentLength>
-				<pubDate>2025-08-29T01:01:12.689537</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="641728512" url="https://mikanani.me/Download/20250829/d7c257664b5bbb00b33750f74cedac2eeb4fb069.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
