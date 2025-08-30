@@ -7903,5 +7903,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="986280128" url="https://mikanani.me/Download/20250830/0d91ce18895c6ada23b3456370449d4ea4e38dc0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)</guid>
+			<link>https://mikanani.me/Home/Episode/da97b6645b2423286ecc792453ee524d5cbd518e</link>
+			<title>[DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)</title>
+			<description>[DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)[31.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da97b6645b2423286ecc792453ee524d5cbd518e</link>
+				<contentLength>33715492864</contentLength>
+				<pubDate>2025-08-30T13:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33715492864" url="https://mikanani.me/Download/20250830/da97b6645b2423286ecc792453ee524d5cbd518e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

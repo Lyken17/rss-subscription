@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)</guid>
+			<link>https://mikanani.me/Home/Episode/da97b6645b2423286ecc792453ee524d5cbd518e</link>
+			<title>[DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)</title>
+			<description>[DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)[31.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da97b6645b2423286ecc792453ee524d5cbd518e</link>
+				<contentLength>33715492864</contentLength>
+				<pubDate>2025-08-30T13:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="33715492864" url="https://mikanani.me/Download/20250830/da97b6645b2423286ecc792453ee524d5cbd518e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][06][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/0d91ce18895c6ada23b3456370449d4ea4e38dc0</link>
 			<title>[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][06][AVC][GB][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-29T00:31:03.770803</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="398144320" url="https://mikanani.me/Download/20250829/d0dc9533de5da0e4bfa90f1e809eec97a8aeedc9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 胆大党 第二季 / Dandadan 2nd Season - 21 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6c49ac6b9ac651d7e72adb70334f6f7957dcb0ae</link>
-			<title>[黒ネズミたち] 胆大党 第二季 / Dandadan 2nd Season - 21 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 胆大党 第二季 / Dandadan 2nd Season - 21 (CR 1920x1080 AVC AAC MKV)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6c49ac6b9ac651d7e72adb70334f6f7957dcb0ae</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-08-29T00:08:43.63471</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250829/6c49ac6b9ac651d7e72adb70334f6f7957dcb0ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
