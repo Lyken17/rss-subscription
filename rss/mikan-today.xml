@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/62d1b40d939ff728c006038eda240cd6e072e861</link>
+			<title>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][558.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62d1b40d939ff728c006038eda240cd6e072e861</link>
+				<contentLength>585315136</contentLength>
+				<pubDate>2025-08-30T18:02:24.339292</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="585315136" url="https://mikanani.me/Download/20250830/62d1b40d939ff728c006038eda240cd6e072e861.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/279f5f4406858194594f27c0812225a129ab0fb4</link>
 			<title>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-29T01:30:44.60238</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="718379392" url="https://mikanani.me/Download/20250829/a97f715aaa028be94f92448c23dab04995c23cb2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] KamitsubakiShi Kensetsuchū /  神椿市建设中。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/40a4d9919a7fbc6ebaf7515ce92bce85c7da7bfe</link>
-			<title>[ANi] KamitsubakiShi Kensetsuchū /  神椿市建设中。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] KamitsubakiShi Kensetsuchū /  神椿市建设中。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][612.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/40a4d9919a7fbc6ebaf7515ce92bce85c7da7bfe</link>
-				<contentLength>642252800</contentLength>
-				<pubDate>2025-08-29T01:01:18.993657</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="642252800" url="https://mikanani.me/Download/20250829/40a4d9919a7fbc6ebaf7515ce92bce85c7da7bfe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
