@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/dceadd5fd5ad7c46daf8f5796590dd8b8dda1d27</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 22 (ABEMA 1920x1080 AVC AAC MP4)[330.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dceadd5fd5ad7c46daf8f5796590dd8b8dda1d27</link>
+				<contentLength>346764096</contentLength>
+				<pubDate>2025-08-31T07:12:30.083807</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346764096" url="https://mikanani.me/Download/20250831/dceadd5fd5ad7c46daf8f5796590dd8b8dda1d27.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
 			<link>https://mikanani.me/Home/Episode/33c490b1ea8f40095fced4bbb11cde59ba125b7a</link>
 			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 09 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-08-30T11:07:19.542851</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="49283072" url="https://mikanani.me/Download/20250830/a2c3732f173f646fb8b5f8f1583f8d55b1fab2c2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 诡秘之主 神秘学课堂 / Old Neil’s Mysticism Class - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/fceb66b00ac84f6a698d2a72832a2f9cb17bed0e</link>
-			<title>[黒ネズミたち] 诡秘之主 神秘学课堂 / Old Neil’s Mysticism Class - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 诡秘之主 神秘学课堂 / Old Neil’s Mysticism Class - 08 (CR 1920x1080 AVC AAC MKV)[194.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fceb66b00ac84f6a698d2a72832a2f9cb17bed0e</link>
-				<contentLength>204052896</contentLength>
-				<pubDate>2025-08-30T11:06:40.092753</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="204052896" url="https://mikanani.me/Download/20250830/fceb66b00ac84f6a698d2a72832a2f9cb17bed0e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
