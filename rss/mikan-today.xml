@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/af5a5bcc20540be45560e1534281ab88d6ba5f67</link>
+			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 08 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 08 (CR 1920x1080 AVC AAC MKV)[228.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af5a5bcc20540be45560e1534281ab88d6ba5f67</link>
+				<contentLength>239075328</contentLength>
+				<pubDate>2025-09-01T03:46:43.166215</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="239075328" url="https://mikanani.me/Download/20250901/af5a5bcc20540be45560e1534281ab88d6ba5f67.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/68218d2ec57bf8b2f598fbd3465cad184ad85050</link>
 			<title>[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-31T13:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250831/26419bf3539388daa93fb34fc08936f3ccd4484a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][30][繁体内嵌](检索:Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/84929bfb479c2ddc9503734a1d2795ac955c3e18</link>
-			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][30][繁体内嵌](检索:Q娃)</title>
-			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][30][繁体内嵌](检索:Q娃)[341.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/84929bfb479c2ddc9503734a1d2795ac955c3e18</link>
-				<contentLength>357774144</contentLength>
-				<pubDate>2025-08-31T13:34:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="357774144" url="https://mikanani.me/Download/20250831/84929bfb479c2ddc9503734a1d2795ac955c3e18.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
