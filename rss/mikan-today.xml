@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 09 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/68218d2ec57bf8b2f598fbd3465cad184ad85050</link>
+			<title>[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 09 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 杀手旅店 / Hotel Inhumans - 09 (CR 1920x1080 AVC AAC MKV)[884.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68218d2ec57bf8b2f598fbd3465cad184ad85050</link>
+				<contentLength>927465472</contentLength>
+				<pubDate>2025-09-01T03:08:03.596483</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="927465472" url="https://mikanani.me/Download/20250901/68218d2ec57bf8b2f598fbd3465cad184ad85050.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 07v2 (WebRip AV1 简繁内封 Aliciä)</guid>
 			<link>https://mikanani.me/Home/Episode/d164c19e635868ee8ace386d49780f741e172ae1</link>
 			<title>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 07v2 (WebRip AV1 简繁内封 Aliciä)</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-31T13:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="357774144" url="https://mikanani.me/Download/20250831/84929bfb479c2ddc9503734a1d2795ac955c3e18.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden][331-357TV][BOX5][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV](NARUTO -ナルト- 疾风伝)</guid>
-			<link>https://mikanani.me/Home/Episode/8e65de444e9d3fb118f3596ca14ebc9c329a6cbb</link>
-			<title>[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden][331-357TV][BOX5][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV](NARUTO -ナルト- 疾风伝)</title>
-			<description>[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden][331-357TV][BOX5][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV](NARUTO -ナルト- 疾风伝)[16.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8e65de444e9d3fb118f3596ca14ebc9c329a6cbb</link>
-				<contentLength>17931489280</contentLength>
-				<pubDate>2025-08-31T13:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17931489280" url="https://mikanani.me/Download/20250831/8e65de444e9d3fb118f3596ca14ebc9c329a6cbb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
