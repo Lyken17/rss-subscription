@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★08★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/ec63af0fb91fa62bf0cda51115433c95fdb295ba</link>
+			<title>六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★08★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★08★1920x1080★AVC AAC MP4★繁体中文[243.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ec63af0fb91fa62bf0cda51115433c95fdb295ba</link>
+				<contentLength>255537968</contentLength>
+				<pubDate>2025-09-01T05:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20250901/ec63af0fb91fa62bf0cda51115433c95fdb295ba.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/af5a5bcc20540be45560e1534281ab88d6ba5f67</link>
 			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-31T13:44:21.089</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390447744" url="https://mikanani.me/Download/20250831/189c5c4f9db5161c42df25333d1adc41ec96c109.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][30][简繁外挂](检索:Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/26419bf3539388daa93fb34fc08936f3ccd4484a</link>
-			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][30][简繁外挂](检索:Q娃)</title>
-			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][1080p][30][简繁外挂](检索:Q娃)[1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/26419bf3539388daa93fb34fc08936f3ccd4484a</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-08-31T13:39:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250831/26419bf3539388daa93fb34fc08936f3ccd4484a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
