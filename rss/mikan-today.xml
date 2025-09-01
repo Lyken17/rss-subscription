@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/68e32f9be0760ff2657d837d0d30411a418460d3</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][918.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68e32f9be0760ff2657d837d0d30411a418460d3</link>
+				<contentLength>962729088</contentLength>
+				<pubDate>2025-09-01T18:50:11.303</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="962729088" url="https://mikanani.me/Download/20250901/68e32f9be0760ff2657d837d0d30411a418460d3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]科学×冒险绝境求生手册 / Kagaku x Bouken Survival! - 08 [粤语+无字幕][WEB 1920x1080 AVC AAC SRT YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/fac30ecd5fd8ed55ac312b3b1814c9797e6d6f5f</link>
 			<title>[jibaketa合成&amp;二次压制][TVB粤语]科学×冒险绝境求生手册 / Kagaku x Bouken Survival! - 08 [粤语+无字幕][WEB 1920x1080 AVC AAC SRT YUE]</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-08-31T20:30:47.005069</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="755289280" url="https://mikanani.me/Download/20250831/833c6b9035090842de40355f8f3c8580a335292f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/59efa27db269f9f3956212087cd9dd5636dad075</link>
-			<title>[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 噗妮露是可爱史莱姆 / Puniru wa Kawaii Slime - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][404.79 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/59efa27db269f9f3956212087cd9dd5636dad075</link>
-				<contentLength>424453088</contentLength>
-				<pubDate>2025-08-31T20:00:51.872</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="424453088" url="https://mikanani.me/Download/20250831/59efa27db269f9f3956212087cd9dd5636dad075.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

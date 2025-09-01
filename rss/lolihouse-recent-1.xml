@@ -5,21 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 保龄球少女！ / Turkey!
- - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2f2c09834416e7983c422ea24512f05db0af707a</link>
-			<title>[LoliHouse] 保龄球少女！ / Turkey!
- - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 保龄球少女！ / Turkey!
- - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][651.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f2c09834416e7983c422ea24512f05db0af707a</link>
-				<contentLength>683577152</contentLength>
-				<pubDate>2025-08-31T10:47:24.416</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="683577152" url="https://mikanani.me/Download/20250831/2f2c09834416e7983c422ea24512f05db0af707a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/42b0fc990233ef2404f99abbadb968bca1b884d9</link>
 			<title>[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -102,6 +87,18 @@
 				<pubDate>2025-09-01T11:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="853121408" url="https://mikanani.me/Download/20250901/219da87593700f27d6f3616e5077cae374e40d4d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/68e32f9be0760ff2657d837d0d30411a418460d3</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][918.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68e32f9be0760ff2657d837d0d30411a418460d3</link>
+				<contentLength>962729088</contentLength>
+				<pubDate>2025-09-01T18:50:11.303</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="962729088" url="https://mikanani.me/Download/20250901/68e32f9be0760ff2657d837d0d30411a418460d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
