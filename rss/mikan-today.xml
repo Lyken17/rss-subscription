@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</guid>
+			<link>https://mikanani.me/Home/Episode/e37a8626f47f7e8a6b692969fef65183be943273</link>
+			<title>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</title>
+			<description>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}[1.38 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e37a8626f47f7e8a6b692969fef65183be943273</link>
+				<contentLength>1481763712</contentLength>
+				<pubDate>2025-09-02T17:51:39.872</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1481763712" url="https://mikanani.me/Download/20250902/e37a8626f47f7e8a6b692969fef65183be943273.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden][386-412TV][BOX7][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV](NARUTO -ナルト- 疾风伝)</guid>
 			<link>https://mikanani.me/Home/Episode/1aeabc87579a3b3f35a6574dca1706e648b2748e</link>
 			<title>[DBD-Raws][火影忍者 疾风传/Naruto Shippuuden][386-412TV][BOX7][美版/USA.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV](NARUTO -ナルト- 疾风伝)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-09-01T14:19:25.773</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250901/9b4a14450d8eda727226e407f1c10d075d015aca.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 09 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/faca14f135a9c564acccb44e9a317015beedf861</link>
-			<title>[沸班亚马制作组] 胆大党 第二季 - 09 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 胆大党 第二季 - 09 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][462.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/faca14f135a9c564acccb44e9a317015beedf861</link>
-				<contentLength>485385824</contentLength>
-				<pubDate>2025-09-01T14:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="485385824" url="https://mikanani.me/Download/20250901/faca14f135a9c564acccb44e9a317015beedf861.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

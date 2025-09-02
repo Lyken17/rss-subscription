@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[爱恋字幕社][4月新番][夏日口袋][Summer Pockets][19][1080P][MP4][BIG5][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/95c25500875bc88810938fe7cda69a219ced212b</link>
-			<title>[爱恋字幕社][4月新番][夏日口袋][Summer Pockets][19][1080P][MP4][BIG5][繁中]</title>
-			<description>[爱恋字幕社][4月新番][夏日口袋][Summer Pockets][19][1080P][MP4][BIG5][繁中][230.23 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/95c25500875bc88810938fe7cda69a219ced212b</link>
-				<contentLength>241413648</contentLength>
-				<pubDate>2025-09-01T09:38:34.112</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="241413648" url="https://mikanani.me/Download/20250901/95c25500875bc88810938fe7cda69a219ced212b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋字幕社][4月新番][夏日口袋][Summer Pockets][19][1080P][MP4][GB][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/780d7bd34bbbb383bf62d0f4ce93a2ad861b8069</link>
-			<title>[爱恋字幕社][4月新番][夏日口袋][Summer Pockets][19][1080P][MP4][GB][简中]</title>
-			<description>[爱恋字幕社][4月新番][夏日口袋][Summer Pockets][19][1080P][MP4][GB][简中][230.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/780d7bd34bbbb383bf62d0f4ce93a2ad861b8069</link>
-				<contentLength>241382192</contentLength>
-				<pubDate>2025-09-01T09:38:06.103</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="241382192" url="https://mikanani.me/Download/20250901/780d7bd34bbbb383bf62d0f4ce93a2ad861b8069.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 158 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/07cf189e7fe055e77f891d015ae70697255fbd93</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 158 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1323,6 +1299,18 @@
 				<pubDate>2025-09-02T16:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="29635274752" url="https://mikanani.me/Download/20250902/1aeabc87579a3b3f35a6574dca1706e648b2748e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</guid>
+			<link>https://mikanani.me/Home/Episode/e37a8626f47f7e8a6b692969fef65183be943273</link>
+			<title>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</title>
+			<description>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP08 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}[1.38 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e37a8626f47f7e8a6b692969fef65183be943273</link>
+				<contentLength>1481763712</contentLength>
+				<pubDate>2025-09-02T17:51:39.872</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1481763712" url="https://mikanani.me/Download/20250902/e37a8626f47f7e8a6b692969fef65183be943273.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
