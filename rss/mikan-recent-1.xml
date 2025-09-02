@@ -41,18 +41,6 @@
 			<enclosure type="application/x-bittorrent" length="471859200" url="https://mikanani.me/Download/20250901/b4e726d47898b17fe9677b5c444652641c3b6fb9.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][09][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/43d55939c1c051645f105d4e4dbe84b3bea69f79</link>
-			<title>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][09][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[琉璃的宝石 / Ruri no Houseki][09][1080p][简日双语][586.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/43d55939c1c051645f105d4e4dbe84b3bea69f79</link>
-				<contentLength>615063232</contentLength>
-				<pubDate>2025-09-01T17:13:02.655</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="615063232" url="https://mikanani.me/Download/20250901/43d55939c1c051645f105d4e4dbe84b3bea69f79.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]科学×冒险绝境求生手册 / Kagaku x Bouken Survival! - 08 [粤语+无字幕][WEB 1920x1080 AVC AAC SRT YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/fac30ecd5fd8ed55ac312b3b1814c9797e6d6f5f</link>
 			<title>[jibaketa合成&amp;二次压制][TVB粤语]科学×冒险绝境求生手册 / Kagaku x Bouken Survival! - 08 [粤语+无字幕][WEB 1920x1080 AVC AAC SRT YUE]</title>
@@ -1590,6 +1578,30 @@
 				<pubDate>2025-09-02T23:23:17.466</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="704674560" url="https://mikanani.me/Download/20250902/90427adb29d75742d08e62a07ad83cf89d0abcea.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/701eb69daf88006c83cffabef3f2f1e6b92e9aa0</link>
+			<title>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 08 (ABEMA 1920x1080 AVC AAC MP4)[713.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/701eb69daf88006c83cffabef3f2f1e6b92e9aa0</link>
+				<contentLength>748263808</contentLength>
+				<pubDate>2025-09-03T01:07:01.374699</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748263808" url="https://mikanani.me/Download/20250903/701eb69daf88006c83cffabef3f2f1e6b92e9aa0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 09 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a6f2a3956adf9fce1373ea33951f08f14e1a5d9d</link>
+			<title>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 09 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 09 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a6f2a3956adf9fce1373ea33951f08f14e1a5d9d</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-09-03T01:02:19.724972</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250903/a6f2a3956adf9fce1373ea33951f08f14e1a5d9d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

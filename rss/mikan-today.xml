@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/701eb69daf88006c83cffabef3f2f1e6b92e9aa0</link>
+			<title>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 08 (ABEMA 1920x1080 AVC AAC MP4)[713.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/701eb69daf88006c83cffabef3f2f1e6b92e9aa0</link>
+				<contentLength>748263808</contentLength>
+				<pubDate>2025-09-03T01:07:01.374699</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748263808" url="https://mikanani.me/Download/20250903/701eb69daf88006c83cffabef3f2f1e6b92e9aa0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 09 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a6f2a3956adf9fce1373ea33951f08f14e1a5d9d</link>
+			<title>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 09 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 阿松 第四季 / Osomatsu-san 4th Season - 09 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a6f2a3956adf9fce1373ea33951f08f14e1a5d9d</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-09-03T01:02:19.724972</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250903/a6f2a3956adf9fce1373ea33951f08f14e1a5d9d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 死灵之子的宇宙恐怖秀 [10][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/cba7838036d72e6f405316ec57cf19007583d446</link>
 			<title>[TOC] 死灵之子的宇宙恐怖秀 [10][1080P][AVC AAC][CHT][MP4]</title>
@@ -1194,30 +1218,6 @@
 				<pubDate>2025-09-01T23:02:25.83837</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="320235104" url="https://mikanani.me/Download/20250901/3313c4d1e8cef0ec4e5804938f6ea20842a87744.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Summer Pockets - 22 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/19894f5b071bcf2180a8440139e9cb45efdb5271</link>
-			<title>[黒ネズミたち] Summer Pockets - 22 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] Summer Pockets - 22 (CR 1920x1080 AVC AAC MKV)[747.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/19894f5b071bcf2180a8440139e9cb45efdb5271</link>
-				<contentLength>783391104</contentLength>
-				<pubDate>2025-09-01T23:02:03.976074</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="783391104" url="https://mikanani.me/Download/20250901/19894f5b071bcf2180a8440139e9cb45efdb5271.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 夏日口袋 Summer Pockets - 22 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/f9651686e32d0b361fab88445fe5ab21df2c5a5a</link>
-			<title>[Prejudice-Studio] 夏日口袋 Summer Pockets - 22 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 夏日口袋 Summer Pockets - 22 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][294.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f9651686e32d0b361fab88445fe5ab21df2c5a5a</link>
-				<contentLength>308386208</contentLength>
-				<pubDate>2025-09-01T23:01:52.252329</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="308386208" url="https://mikanani.me/Download/20250901/f9651686e32d0b361fab88445fe5ab21df2c5a5a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
