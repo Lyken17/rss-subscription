@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Rev][DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)</guid>
-			<link>https://mikanani.me/Home/Episode/410a843b1ea4f00f2bfff7a7656a286344e7c900</link>
-			<title>[Rev][DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)</title>
-			<description>[Rev][DBD-Raws][王者天下 第一季/Kingdom S1][01-38TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](キングダム S1)[31.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/410a843b1ea4f00f2bfff7a7656a286344e7c900</link>
-				<contentLength>33715492864</contentLength>
-				<pubDate>2025-09-02T13:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="33715492864" url="https://mikanani.me/Download/20250902/410a843b1ea4f00f2bfff7a7656a286344e7c900.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][代理商粤语]天官赐福 / Heaven Official's Blessing - 05 [粤日国三语+内封繁体中文字幕](WEB 1920x1080 x264 AACx3 SRTx2+PGS CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/6d9c73120b90a382941d35f4c576ec2096972422</link>
 			<title>[jibaketa合成&amp;音频压制][代理商粤语]天官赐福 / Heaven Official's Blessing - 05 [粤日国三语+内封繁体中文字幕](WEB 1920x1080 x264 AACx3 SRTx2+PGS CHT)</title>
@@ -942,6 +930,18 @@
 				<pubDate>2025-09-03T20:47:59.055</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250903/e3e38bf3dbfd8db3c37dd5995b9fcc9adef5037c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 22 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d7ca1f6d8ac70bb64d38765e0dc475f618d7233b</link>
+			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 22 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 22 (ABEMA 1280x720 AVC AAC MP4)[367.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d7ca1f6d8ac70bb64d38765e0dc475f618d7233b</link>
+				<contentLength>385771104</contentLength>
+				<pubDate>2025-09-03T21:30:30.533853</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385771104" url="https://mikanani.me/Download/20250903/d7ca1f6d8ac70bb64d38765e0dc475f618d7233b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

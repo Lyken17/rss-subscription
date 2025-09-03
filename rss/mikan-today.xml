@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 凸变英雄X / To Be Hero X - 22 (ABEMA 1280x720 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d7ca1f6d8ac70bb64d38765e0dc475f618d7233b</link>
+			<title>[黒ネズミたち] 凸变英雄X / To Be Hero X - 22 (ABEMA 1280x720 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 凸变英雄X / To Be Hero X - 22 (ABEMA 1280x720 AVC AAC MP4)[367.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d7ca1f6d8ac70bb64d38765e0dc475f618d7233b</link>
+				<contentLength>385771104</contentLength>
+				<pubDate>2025-09-03T21:30:30.533853</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="385771104" url="https://mikanani.me/Download/20250903/d7ca1f6d8ac70bb64d38765e0dc475f618d7233b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] Nukitashi The Animation / 住在拔作岛上的贫乳该如何是好？ - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]v2</guid>
 			<link>https://mikanani.me/Home/Episode/4958b7f80fe2595c03a9a01872f41d78cf86e8fd</link>
 			<title>[LoliHouse] Nukitashi The Animation / 住在拔作岛上的贫乳该如何是好？ - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]v2</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-09-02T01:27:33.401</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="335827424" url="https://mikanani.me/Download/20250902/d13acb87ffaf5cb0306d5c71a634ae2a1a4925ef.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][7月新番][更衣人偶坠入爱河][Sono Kisekae Ningyou wa Koi wo Suru][20][1080P][MP4][GB&amp;JP][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/7956d7a4ac98826e25d8c389b25ad2ed92f5c22c</link>
-			<title>[漫猫字幕组][7月新番][更衣人偶坠入爱河][Sono Kisekae Ningyou wa Koi wo Suru][20][1080P][MP4][GB&amp;JP][简日双语]</title>
-			<description>[漫猫字幕组][7月新番][更衣人偶坠入爱河][Sono Kisekae Ningyou wa Koi wo Suru][20][1080P][MP4][GB&amp;JP][简日双语][320.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7956d7a4ac98826e25d8c389b25ad2ed92f5c22c</link>
-				<contentLength>335691136</contentLength>
-				<pubDate>2025-09-02T01:27:28.113</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="335691136" url="https://mikanani.me/Download/20250902/7956d7a4ac98826e25d8c389b25ad2ed92f5c22c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
