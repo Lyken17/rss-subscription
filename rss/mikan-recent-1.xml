@@ -871,5 +871,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="445351200" url="https://mikanani.me/Download/20250903/2a1bc6b1c8231be3fcda9742aa02b0443d9545ee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][Bang Dream!][01-13TV全集+OVA+特典][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](バンドリ！)</guid>
+			<link>https://mikanani.me/Home/Episode/adc16047f3c55aeb7b723b04a81ff8e7f6331716</link>
+			<title>[DBD-Raws][Bang Dream!][01-13TV全集+OVA+特典][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](バンドリ！)</title>
+			<description>[DBD-Raws][Bang Dream!][01-13TV全集+OVA+特典][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](バンドリ！)[21.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/adc16047f3c55aeb7b723b04a81ff8e7f6331716</link>
+				<contentLength>22548578304</contentLength>
+				<pubDate>2025-09-03T13:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22548578304" url="https://mikanani.me/Download/20250903/adc16047f3c55aeb7b723b04a81ff8e7f6331716.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

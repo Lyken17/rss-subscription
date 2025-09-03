@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][Bang Dream!][01-13TV全集+OVA+特典][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](バンドリ！)</guid>
+			<link>https://mikanani.me/Home/Episode/adc16047f3c55aeb7b723b04a81ff8e7f6331716</link>
+			<title>[DBD-Raws][Bang Dream!][01-13TV全集+OVA+特典][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](バンドリ！)</title>
+			<description>[DBD-Raws][Bang Dream!][01-13TV全集+OVA+特典][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](バンドリ！)[21.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/adc16047f3c55aeb7b723b04a81ff8e7f6331716</link>
+				<contentLength>22548578304</contentLength>
+				<pubDate>2025-09-03T13:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22548578304" url="https://mikanani.me/Download/20250903/adc16047f3c55aeb7b723b04a81ff8e7f6331716.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★10★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/a3370afa1a82a1d93f55b61c48fe58b4f878e1f6</link>
 			<title>六四位元字幕组★死灵之子的宇宙恐怖秀 Necronomico no Cosmic Horror Show★10★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-09-01T23:49:51.025</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="617139392" url="https://mikanani.me/Download/20250901/93582a8e6446fc9b632ec8b07f21b9407bb960af.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 04v2 (WebRip AV1 简繁内封 Aliciä)</guid>
-			<link>https://mikanani.me/Home/Episode/b3f97c8d7c6c041202eea99bc24d63c443465fbe</link>
-			<title>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 04v2 (WebRip AV1 简繁内封 Aliciä)</title>
-			<description>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 04v2 (WebRip AV1 简繁内封 Aliciä)[678.64 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3f97c8d7c6c041202eea99bc24d63c443465fbe</link>
-				<contentLength>711605632</contentLength>
-				<pubDate>2025-09-01T23:49:41.361</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="711605632" url="https://mikanani.me/Download/20250901/b3f97c8d7c6c041202eea99bc24d63c443465fbe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
