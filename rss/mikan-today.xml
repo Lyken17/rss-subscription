@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[时雨初空] 一弦定音！繁中 BDRip FLAC HEVC MKV 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/1896df3bd99a7318830c3d3f63d9de878e8856b3</link>
+			<title>[时雨初空] 一弦定音！繁中 BDRip FLAC HEVC MKV 1080p</title>
+			<description>[时雨初空] 一弦定音！繁中 BDRip FLAC HEVC MKV 1080p[9.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1896df3bd99a7318830c3d3f63d9de878e8856b3</link>
+				<contentLength>10200547328</contentLength>
+				<pubDate>2025-09-03T10:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10200547328" url="https://mikanani.me/Download/20250903/1896df3bd99a7318830c3d3f63d9de878e8856b3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 22 - [简体内嵌][H264 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/79c3b825aff42e9a9c90fa03374415f902112626</link>
 			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 22 - [简体内嵌][H264 8bit 1080P]</title>
@@ -1206,18 +1218,6 @@
 				<pubDate>2025-09-01T23:36:24.235666</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="635646784" url="https://mikanani.me/Download/20250901/2772e7b9d5f1adbb1d4d406ca834236c220d2701.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Gachiakuta - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f43012b2f5e5148d3ab40e55d7bfd1ff52d40362</link>
-			<title>[黒ネズミたち] Gachiakuta - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Gachiakuta - 08 (ABEMA 1920x1080 AVC AAC MP4)[711.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f43012b2f5e5148d3ab40e55d7bfd1ff52d40362</link>
-				<contentLength>746481280</contentLength>
-				<pubDate>2025-09-01T23:34:38.956336</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746481280" url="https://mikanani.me/Download/20250901/f43012b2f5e5148d3ab40e55d7bfd1ff52d40362.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
