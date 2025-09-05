@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP08 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/a66722552022baa9d621dc2bce1b1c7c7aaf9031</link>
+			<title>[无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP08 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP08 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[472.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a66722552022baa9d621dc2bce1b1c7c7aaf9031</link>
+				<contentLength>495536032</contentLength>
+				<pubDate>2025-09-06T03:15:36.458</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="495536032" url="https://mikanani.me/Download/20250906/a66722552022baa9d621dc2bce1b1c7c7aaf9031.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 46 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4e6beed3e8063aa5e35ee4c5e8e07b888dee748e</link>
 			<title>[黒ネズミたち] Nui Story 2 - 46 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-09-04T22:02:17.845638</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="547042112" url="https://mikanani.me/Download/20250904/7fa410084658fd9fa301e26e40ff89dde5e040a9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 10 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2e6791bfe6ab4492d458834a422dd88ef51882a1</link>
-			<title>[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 10 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 欢迎光临流放者食堂！ / Tsuihousha Shokudou e Youkoso! - 10 (B-Global 1920x1080 HEVC AAC MKV)[301.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2e6791bfe6ab4492d458834a422dd88ef51882a1</link>
-				<contentLength>315831104</contentLength>
-				<pubDate>2025-09-04T22:02:15.404913</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="315831104" url="https://mikanani.me/Download/20250904/2e6791bfe6ab4492d458834a422dd88ef51882a1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
