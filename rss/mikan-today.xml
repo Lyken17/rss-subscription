@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][10][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/b2c7abdc7b25a54ce781ffd3ae0a13e34e912466</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][10][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][10][WEBrip][1080P][简体内嵌][331.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b2c7abdc7b25a54ce781ffd3ae0a13e34e912466</link>
+				<contentLength>347917504</contentLength>
+				<pubDate>2025-09-06T05:12:37.113951</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347917504" url="https://mikanani.me/Download/20250906/b2c7abdc7b25a54ce781ffd3ae0a13e34e912466.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP08 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
 			<link>https://mikanani.me/Home/Episode/a66722552022baa9d621dc2bce1b1c7c7aaf9031</link>
 			<title>[无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP08 [简／繁] (1080p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-09-04T22:02:18.563222</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371510464" url="https://mikanani.me/Download/20250904/5e2361833be2677b65dd0c57a509f1b77e409374.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Ｄｒ．ＳＴＯＮＥ 石纪元 第四季 / Dr. Stone: Science Future - 21 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7fa410084658fd9fa301e26e40ff89dde5e040a9</link>
-			<title>[黒ネズミたち] Ｄｒ．ＳＴＯＮＥ 石纪元 第四季 / Dr. Stone: Science Future - 21 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] Ｄｒ．ＳＴＯＮＥ 石纪元 第四季 / Dr. Stone: Science Future - 21 (B-Global 1920x1080 HEVC AAC MKV)[521.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7fa410084658fd9fa301e26e40ff89dde5e040a9</link>
-				<contentLength>547042112</contentLength>
-				<pubDate>2025-09-04T22:02:17.845638</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="547042112" url="https://mikanani.me/Download/20250904/7fa410084658fd9fa301e26e40ff89dde5e040a9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
