@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][10][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/d12f5a85ef4fddbb6d8e38a48df350d4272eb983</link>
+			<title>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][10][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[和雨和你 / 雨天遇见狸 / Ame to Kimi to][10][1080p][简日双语][199.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d12f5a85ef4fddbb6d8e38a48df350d4272eb983</link>
+				<contentLength>209683744</contentLength>
+				<pubDate>2025-09-08T04:17:23.193</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="209683744" url="https://mikanani.me/Download/20250908/d12f5a85ef4fddbb6d8e38a48df350d4272eb983.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [09][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/91b0fb7f8efe52fe4f9feee405a1976ca3bdfbc6</link>
 			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [09][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-09-07T12:26:06.691</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="477343264" url="https://mikanani.me/Download/20250907/6178e6f37d719bd8b9b56493368c55c8e5d4a5e7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[星空字幕组][彻夜之歌 第二季 / Yofukashi no Uta S2][10][简日双语][1080P][WEBrip][MP4]（急招校对、后期）</guid>
-			<link>https://mikanani.me/Home/Episode/db3979636bfd20226b7b7c312eb2b7ac2e9f9745</link>
-			<title>[星空字幕组][彻夜之歌 第二季 / Yofukashi no Uta S2][10][简日双语][1080P][WEBrip][MP4]（急招校对、后期）</title>
-			<description>[星空字幕组][彻夜之歌 第二季 / Yofukashi no Uta S2][10][简日双语][1080P][WEBrip][MP4]（急招校对、后期）[455.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/db3979636bfd20226b7b7c312eb2b7ac2e9f9745</link>
-				<contentLength>477406176</contentLength>
-				<pubDate>2025-09-07T12:25:59.895</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="477406176" url="https://mikanani.me/Download/20250907/db3979636bfd20226b7b7c312eb2b7ac2e9f9745.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
