@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 10 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
+			<link>https://mikanani.me/Home/Episode/47f281f9574f8d171dd6f12fb892dd40b600754b</link>
+			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 10 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
+			<description>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 10 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）[354.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/47f281f9574f8d171dd6f12fb892dd40b600754b</link>
+				<contentLength>371573376</contentLength>
+				<pubDate>2025-09-07T16:12:03.341</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="371573376" url="https://mikanani.me/Download/20250907/47f281f9574f8d171dd6f12fb892dd40b600754b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 薰香花朵凛然绽放 [09][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/5f94d3673afd3f00711561cec58f30b1c5b19809</link>
 			<title>[TOC] 薰香花朵凛然绽放 [09][1080P][AVC AAC][CHT][MP4]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-06T18:02:14.637197</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="485700416" url="https://mikanani.me/Download/20250906/4de5ea088a3f49b053641bb9ae16eab580e1886e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/817cf9626e2a039580ef47791b80933edc4678e1</link>
-			<title>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][560.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/817cf9626e2a039580ef47791b80933edc4678e1</link>
-				<contentLength>587412288</contentLength>
-				<pubDate>2025-09-06T18:01:28.053114</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="587412288" url="https://mikanani.me/Download/20250906/817cf9626e2a039580ef47791b80933edc4678e1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
