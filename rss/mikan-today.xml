@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)</guid>
+			<link>https://mikanani.me/Home/Episode/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0</link>
+			<title>[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)</title>
+			<description>[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)[7.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0</link>
+				<contentLength>8482560512</contentLength>
+				<pubDate>2025-09-08T14:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20250908/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 48 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/5e286491c19e1934688663aec2521c41be8536d0</link>
 			<title>[ANi] Neko ni Tensei Shita Ojisan /  转生成猫咪的大叔 - 48 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-09-07T17:02:35.112331</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1052350848" url="https://mikanani.me/Download/20250907/6cbbdf0ecbcb6cdc548ce1264ba1327fa45dab98.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] ToiletBound Hanakokun /  地缚少年花子君 2 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7ef71da8add1fc02ce55ea0f021d4f00ef332492</link>
-			<title>[ANi] ToiletBound Hanakokun /  地缚少年花子君 2 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] ToiletBound Hanakokun /  地缚少年花子君 2 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][414.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7ef71da8add1fc02ce55ea0f021d4f00ef332492</link>
-				<contentLength>434110464</contentLength>
-				<pubDate>2025-09-07T16:31:27.954489</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="434110464" url="https://mikanani.me/Download/20250907/7ef71da8add1fc02ce55ea0f021d4f00ef332492.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

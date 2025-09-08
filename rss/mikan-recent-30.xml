@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 05 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5d7c496677ac132b0e1d75d2836e7ca083d62c86</link>
-			<title>[沸班亚马制作组] 胆大党 第二季 - 05 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 胆大党 第二季 - 05 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][1.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5d7c496677ac132b0e1d75d2836e7ca083d62c86</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-08-09T07:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20250809/5d7c496677ac132b0e1d75d2836e7ca083d62c86.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/719342e0145e4d3217a0d92c6dc2e78c2ec5ccf0</link>
 			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -33291,6 +33279,18 @@
 				<pubDate>2025-09-08T13:50:16.452769</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="33135002" url="https://mikanani.me/Download/20250908/3aa559b4476832442614b73f9349159361feb993.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)</guid>
+			<link>https://mikanani.me/Home/Episode/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0</link>
+			<title>[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)</title>
+			<description>[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)[7.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0</link>
+				<contentLength>8482560512</contentLength>
+				<pubDate>2025-09-08T14:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20250908/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

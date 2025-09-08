@@ -7141,5 +7141,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="33135002" url="https://mikanani.me/Download/20250908/3aa559b4476832442614b73f9349159361feb993.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)</guid>
+			<link>https://mikanani.me/Home/Episode/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0</link>
+			<title>[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)</title>
+			<description>[DBD-Raws][卫宫家今天的饭/Emiya-san Chi no Kyou no Gohan][01-13TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](卫宫さんちの今日のごはん)[7.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0</link>
+				<contentLength>8482560512</contentLength>
+				<pubDate>2025-09-08T14:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20250908/c2fbe1b8dd642853106dc3a577ccd8b59c8aa1e0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
