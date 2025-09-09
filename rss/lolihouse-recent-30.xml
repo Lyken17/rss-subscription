@@ -2320,5 +2320,32 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="517367392" url="https://mikanani.me/Download/20250909/fc43e0e84b3e25ca533c3d8ff6659503220ba5db.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/51a8399a3bfe1a5c51c888916694fcab67997d89</link>
+			<title>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][399.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/51a8399a3bfe1a5c51c888916694fcab67997d89</link>
+				<contentLength>418801248</contentLength>
+				<pubDate>2025-09-09T22:42:28.433</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="418801248" url="https://mikanani.me/Download/20250909/51a8399a3bfe1a5c51c888916694fcab67997d89.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8e3401e37242e36ee7c8f640078eaa85d36787b6</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][974.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e3401e37242e36ee7c8f640078eaa85d36787b6</link>
+				<contentLength>1021396928</contentLength>
+				<pubDate>2025-09-09T22:17:27.791</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1021396928" url="https://mikanani.me/Download/20250909/8e3401e37242e36ee7c8f640078eaa85d36787b6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
