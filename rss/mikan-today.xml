@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e4b8a8c5fe3de0767fff83fa8bfdc4b4dbd14a3e</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 21 (ABEMA 1920x1080 AVC AAC MP4)[718.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e4b8a8c5fe3de0767fff83fa8bfdc4b4dbd14a3e</link>
+				<contentLength>753506688</contentLength>
+				<pubDate>2025-09-09T17:31:54.388758</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753506688" url="https://mikanani.me/Download/20250909/e4b8a8c5fe3de0767fff83fa8bfdc4b4dbd14a3e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【7月新番】【Silent Witch 沉默魔女的秘密 Silent Witch - Chinmoku no Majo no Kakushigoto】【09.5】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/69b5d55bfc92ae83b7a2432bda05c806bd54af27</link>
 			<title>【幻樱字幕组】【7月新番】【Silent Witch 沉默魔女的秘密 Silent Witch - Chinmoku no Majo no Kakushigoto】【09.5】【BIG5_MP4】【1920X1080】</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-08T02:23:29.613</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250908/7ef4e65744cfe366498aae87e4c018f9dce571c7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">Bad Girl 不良少女 - EP10 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
-			<link>https://mikanani.me/Home/Episode/00cf1111f3bd3bbe202c3baa59dfb4b99f9c81c3</link>
-			<title>Bad Girl 不良少女 - EP10 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
-			<description>Bad Girl 不良少女 - EP10 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}[552.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/00cf1111f3bd3bbe202c3baa59dfb4b99f9c81c3</link>
-				<contentLength>579233408</contentLength>
-				<pubDate>2025-09-08T02:23:14.842</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="579233408" url="https://mikanani.me/Download/20250908/00cf1111f3bd3bbe202c3baa59dfb4b99f9c81c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
