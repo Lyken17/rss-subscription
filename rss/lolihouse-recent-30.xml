@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 怪兽8号 / Kaijuu 8-gou - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：怪兽8号 第二季)</guid>
-			<link>https://mikanani.me/Home/Episode/d422a1df13c67807b0b9f0666c0b8b120860d5db</link>
-			<title>[LoliHouse] 怪兽8号 / Kaijuu 8-gou - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：怪兽8号 第二季)</title>
-			<description>[LoliHouse] 怪兽8号 / Kaijuu 8-gou - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：怪兽8号 第二季)[1.12 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d422a1df13c67807b0b9f0666c0b8b120860d5db</link>
-				<contentLength>1202590848</contentLength>
-				<pubDate>2025-08-10T14:00:52.255</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1202590848" url="https://mikanani.me/Download/20250810/d422a1df13c67807b0b9f0666c0b8b120860d5db.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b14d4befdf15e152457e0918302ab6de01327654</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -2319,6 +2307,18 @@
 				<pubDate>2025-09-09T18:51:21.109</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="330060256" url="https://mikanani.me/Download/20250909/b7bff205196659f9c17aa6cd1e5eafd6e36a89d6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界默示录麦诺格拉～从毁灭文明开始征服世界～ / Isekai Mokushiroku Mynoghra - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fc43e0e84b3e25ca533c3d8ff6659503220ba5db</link>
+			<title>[LoliHouse] 异世界默示录麦诺格拉～从毁灭文明开始征服世界～ / Isekai Mokushiroku Mynoghra - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界默示录麦诺格拉～从毁灭文明开始征服世界～ / Isekai Mokushiroku Mynoghra - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][493.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fc43e0e84b3e25ca533c3d8ff6659503220ba5db</link>
+				<contentLength>517367392</contentLength>
+				<pubDate>2025-09-09T21:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="517367392" url="https://mikanani.me/Download/20250909/fc43e0e84b3e25ca533c3d8ff6659503220ba5db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
