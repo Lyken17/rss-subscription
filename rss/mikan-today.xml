@@ -1207,17 +1207,5 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435578464" url="https://mikanani.me/Download/20250909/06e80cfb2034db8fb94052e08b2444300333d7cb.torrent"></enclosure>
 		</item>
-		<item>
-			<guid isPermaLink="false">碧蓝之海2 - EP10 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {GRAND BLUE | 碧蓝之海 | ぐらんぶる}</guid>
-			<link>https://mikanani.me/Home/Episode/15f692d02b709981d77b2110a59112a7eeb9dcd7</link>
-			<title>碧蓝之海2 - EP10 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {GRAND BLUE | 碧蓝之海 | ぐらんぶる}</title>
-			<description>碧蓝之海2 - EP10 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {GRAND BLUE | 碧蓝之海 | ぐらんぶる}[1.43 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/15f692d02b709981d77b2110a59112a7eeb9dcd7</link>
-				<contentLength>1535450752</contentLength>
-				<pubDate>2025-09-09T02:50:24.121</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250909/15f692d02b709981d77b2110a59112a7eeb9dcd7.torrent"></enclosure>
-		</item>
 	</channel>
 </rss>
