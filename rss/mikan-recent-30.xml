@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/55f9cb1540651b02b75e760d3ff8ea88762268eb</link>
-			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 155 (B-Global Donghua 1920x1080 HEVC AAC MKV)[934.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55f9cb1540651b02b75e760d3ff8ea88762268eb</link>
-				<contentLength>980104000</contentLength>
-				<pubDate>2025-08-11T11:04:24.9782</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="980104000" url="https://mikanani.me/Download/20250811/55f9cb1540651b02b75e760d3ff8ea88762268eb.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 战斗员派遣中！ / Sentouin, Hakenshimasu! / 戦闘员、派遣します！ 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/221ae35cb3f70e71ba850f17a99da1361746cdd8</link>
 			<title>[VCB-Studio] 战斗员派遣中！ / Sentouin, Hakenshimasu! / 戦闘员、派遣します！ 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -32070,6 +32058,18 @@
 				<pubDate>2025-09-10T17:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20250910/edb9eb43e9f477d3464afd1eb582fbfd7d1ac393.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">租借女友 第四季 / 出租女友 第四季 - EP11 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</guid>
+			<link>https://mikanani.me/Home/Episode/939b993cdb723056a74c90fa41ee30e3a9105eb5</link>
+			<title>租借女友 第四季 / 出租女友 第四季 - EP11 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}</title>
+			<description>租借女友 第四季 / 出租女友 第四季 - EP11 [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {彼女、お借りします}[1.43 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/939b993cdb723056a74c90fa41ee30e3a9105eb5</link>
+				<contentLength>1535450752</contentLength>
+				<pubDate>2025-09-10T18:16:58.588</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1535450752" url="https://mikanani.me/Download/20250910/939b993cdb723056a74c90fa41ee30e3a9105eb5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
