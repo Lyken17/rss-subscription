@@ -1396,5 +1396,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="500695040" url="https://mikanani.me/Download/20250911/8aefaaf263979dd310243b8ab9dd3c54fd1d4b0e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 为你著迷 / Muchuu sa, Kimi ni. - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1aed46640e78b83d9555d4ee8883b998defdf5bd</link>
+			<title>[黒ネズミたち] 为你著迷 / Muchuu sa, Kimi ni. - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 为你著迷 / Muchuu sa, Kimi ni. - 04 (CR 1920x1080 AVC AAC MKV)[845.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1aed46640e78b83d9555d4ee8883b998defdf5bd</link>
+				<contentLength>886780736</contentLength>
+				<pubDate>2025-09-11T21:01:57.388349</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="886780736" url="https://mikanani.me/Download/20250911/1aed46640e78b83d9555d4ee8883b998defdf5bd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 阴阳回天 Re:Birth Verse / Onmyou Kaiten Re:Birth - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a</link>
+			<title>[黒ネズミたち] 阴阳回天 Re:Birth Verse / Onmyou Kaiten Re:Birth - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 阴阳回天 Re:Birth Verse / Onmyou Kaiten Re:Birth - 11 (ABEMA 1920x1080 AVC AAC MP4)[689.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a</link>
+				<contentLength>723097984</contentLength>
+				<pubDate>2025-09-11T21:00:41.283545</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="723097984" url="https://mikanani.me/Download/20250911/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
