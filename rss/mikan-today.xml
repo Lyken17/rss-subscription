@@ -1049,18 +1049,6 @@
 			<enclosure type="application/x-bittorrent" length="146887884800" url="https://mikanani.me/Download/20250910/20e4668e93b77e5b2fc49b77e18548501ff5f56d.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA篇+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</guid>
-			<link>https://mikanani.me/Home/Episode/edb9eb43e9f477d3464afd1eb582fbfd7d1ac393</link>
-			<title>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA篇+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</title>
-			<description>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA篇+漫画+CD+其他；华日, 华日英, 日语音轨; 外挂简中字幕 (整理时间：2023.05.02)[149.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/edb9eb43e9f477d3464afd1eb582fbfd7d1ac393</link>
-				<contentLength>160953892864</contentLength>
-				<pubDate>2025-09-10T17:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20250910/edb9eb43e9f477d3464afd1eb582fbfd7d1ac393.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[猎户压制部] 欢迎光临流放者食堂！/ Tsuihousha Shokudou e Youkoso! [09] [1080p] [繁日内嵌] [2025年7月番]</guid>
 			<link>https://mikanani.me/Home/Episode/de4c09e76f1a9bf0c7e4a45ee652ba0a3d5b08ba</link>
 			<title>[猎户压制部] 欢迎光临流放者食堂！/ Tsuihousha Shokudou e Youkoso! [09] [1080p] [繁日内嵌] [2025年7月番]</title>
@@ -1215,6 +1203,18 @@
 				<pubDate>2025-09-10T02:32:23.186377</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250910/73703eb0d4984689bdf9fc45101d6f0f94447620.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/05c789b2ad7b946751c6c6c738b4b8590e3d386e</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 10 (ABEMA 1920x1080 AVC AAC MP4)[687.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05c789b2ad7b946751c6c6c738b4b8590e3d386e</link>
+				<contentLength>720476544</contentLength>
+				<pubDate>2025-09-10T02:00:42.521573</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="720476544" url="https://mikanani.me/Download/20250910/05c789b2ad7b946751c6c6c738b4b8590e3d386e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
