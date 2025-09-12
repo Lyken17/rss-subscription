@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][牙狼 Vanishing Line/Garo: Vanishing Line][01-24TV全集+特典映像][1080P(附4K下载地址)][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](牙狼[GARO] -VANISHING LINE-)</guid>
+			<link>https://mikanani.me/Home/Episode/19491a573741406a8aa27361c6090c1c70575fcd</link>
+			<title>[DBD-Raws][牙狼 Vanishing Line/Garo: Vanishing Line][01-24TV全集+特典映像][1080P(附4K下载地址)][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](牙狼[GARO] -VANISHING LINE-)</title>
+			<description>[DBD-Raws][牙狼 Vanishing Line/Garo: Vanishing Line][01-24TV全集+特典映像][1080P(附4K下载地址)][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](牙狼[GARO] -VANISHING LINE-)[20.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19491a573741406a8aa27361c6090c1c70575fcd</link>
+				<contentLength>22011707392</contentLength>
+				<pubDate>2025-09-12T22:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22011707392" url="https://mikanani.me/Download/20250912/19491a573741406a8aa27361c6090c1c70575fcd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</guid>
 			<link>https://mikanani.me/Home/Episode/40cabf88347efa8aada44940607fcc0d82c62d1a</link>
 			<title>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</title>
@@ -1197,18 +1209,6 @@
 				<pubDate>2025-09-11T01:27:36.870825</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250911/3248f47c250ed3ea10eeb30daae1636adfaf4e2e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][117][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/248242e6891593d6ec20c404b9453c000e58b7b2</link>
-			<title>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][117][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][斗罗大陆Ⅱ 绝世唐门][Soul Land Ⅱ：The Peerless Tang Clan][2023][117][AVC][GB][1080P][378.92 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/248242e6891593d6ec20c404b9453c000e58b7b2</link>
-				<contentLength>397326432</contentLength>
-				<pubDate>2025-09-11T01:26:21.909</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397326432" url="https://mikanani.me/Download/20250911/248242e6891593d6ec20c404b9453c000e58b7b2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

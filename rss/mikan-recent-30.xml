@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="25232932864" url="https://mikanani.me/Download/20250813/11be1ace7914a1bbcb91774f89b83e907c643744.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋][18][HEVC][x265 10bit][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/1eb11a39a16de5b3f5eb26bb6924eb9f83a20d00</link>
-			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋][18][HEVC][x265 10bit][1080p][简日双语]</title>
-			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋][18][HEVC][x265 10bit][1080p][简日双语][360.82 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1eb11a39a16de5b3f5eb26bb6924eb9f83a20d00</link>
-				<contentLength>378347200</contentLength>
-				<pubDate>2025-08-13T13:55:55.449</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="378347200" url="https://mikanani.me/Download/20250813/1eb11a39a16de5b3f5eb26bb6924eb9f83a20d00.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[DBD-Raws][出包王女Darkness/To Love-Ru Trouble Darkness][OVA][01-10全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](To LOVEる -とらぶる- ダークネス)</guid>
 			<link>https://mikanani.me/Home/Episode/bbef51f207385089fd67cea4363c725a97b42a94</link>
 			<title>[DBD-Raws][出包王女Darkness/To Love-Ru Trouble Darkness][OVA][01-10全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](To LOVEる -とらぶる- ダークネス)</title>
@@ -32133,6 +32121,18 @@
 				<pubDate>2025-09-12T20:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="42842300416" url="https://mikanani.me/Download/20250912/40cabf88347efa8aada44940607fcc0d82c62d1a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][牙狼 Vanishing Line/Garo: Vanishing Line][01-24TV全集+特典映像][1080P(附4K下载地址)][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](牙狼[GARO] -VANISHING LINE-)</guid>
+			<link>https://mikanani.me/Home/Episode/19491a573741406a8aa27361c6090c1c70575fcd</link>
+			<title>[DBD-Raws][牙狼 Vanishing Line/Garo: Vanishing Line][01-24TV全集+特典映像][1080P(附4K下载地址)][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](牙狼[GARO] -VANISHING LINE-)</title>
+			<description>[DBD-Raws][牙狼 Vanishing Line/Garo: Vanishing Line][01-24TV全集+特典映像][1080P(附4K下载地址)][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](牙狼[GARO] -VANISHING LINE-)[20.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19491a573741406a8aa27361c6090c1c70575fcd</link>
+				<contentLength>22011707392</contentLength>
+				<pubDate>2025-09-12T22:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22011707392" url="https://mikanani.me/Download/20250912/19491a573741406a8aa27361c6090c1c70575fcd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
