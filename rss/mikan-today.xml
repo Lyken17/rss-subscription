@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</guid>
+			<link>https://mikanani.me/Home/Episode/40cabf88347efa8aada44940607fcc0d82c62d1a</link>
+			<title>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</title>
+			<description>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)[39.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40cabf88347efa8aada44940607fcc0d82c62d1a</link>
+				<contentLength>42842300416</contentLength>
+				<pubDate>2025-09-12T20:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="42842300416" url="https://mikanani.me/Download/20250912/40cabf88347efa8aada44940607fcc0d82c62d1a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 06 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/701a7e5bf4faaf760942a1c8a4caabaa9e5eca09</link>
 			<title>[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 06 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1197,18 +1209,6 @@
 				<pubDate>2025-09-11T01:26:21.909</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="397326432" url="https://mikanani.me/Download/20250911/248242e6891593d6ec20c404b9453c000e58b7b2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 23 - [简体内嵌][H264 8bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/c0016e28f1f2c739b0af65f815f8212ed726b14f</link>
-			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 23 - [简体内嵌][H264 8bit 1080P]</title>
-			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 23 - [简体内嵌][H264 8bit 1080P][382.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c0016e28f1f2c739b0af65f815f8212ed726b14f</link>
-				<contentLength>401394880</contentLength>
-				<pubDate>2025-09-11T01:24:35.277759</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401394880" url="https://mikanani.me/Download/20250911/c0016e28f1f2c739b0af65f815f8212ed726b14f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
