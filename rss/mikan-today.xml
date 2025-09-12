@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP09 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/9a1e4343d802f9ddc9306e12faa26cc5992d6dbb</link>
+			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP09 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP09 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[1.65 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a1e4343d802f9ddc9306e12faa26cc5992d6dbb</link>
+				<contentLength>1771673984</contentLength>
+				<pubDate>2025-09-13T04:25:16.961</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1771673984" url="https://mikanani.me/Download/20250913/9a1e4343d802f9ddc9306e12faa26cc5992d6dbb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
 			<title>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1209,18 +1221,6 @@
 				<pubDate>2025-09-11T21:01:57.388349</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="886780736" url="https://mikanani.me/Download/20250911/1aed46640e78b83d9555d4ee8883b998defdf5bd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 阴阳回天 Re:Birth Verse / Onmyou Kaiten Re:Birth - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a</link>
-			<title>[黒ネズミたち] 阴阳回天 Re:Birth Verse / Onmyou Kaiten Re:Birth - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 阴阳回天 Re:Birth Verse / Onmyou Kaiten Re:Birth - 11 (ABEMA 1920x1080 AVC AAC MP4)[689.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a</link>
-				<contentLength>723097984</contentLength>
-				<pubDate>2025-09-11T21:00:41.283545</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="723097984" url="https://mikanani.me/Download/20250911/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
