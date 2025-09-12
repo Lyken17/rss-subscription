@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 胆大党 第二季 / DAN DA DAN S2 - 23 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/2423c61029b7114f3bbab2df0d863d79f8fdf780</link>
+			<title>[Skymoon-Raws] 胆大党 第二季 / DAN DA DAN S2 - 23 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 胆大党 第二季 / DAN DA DAN S2 - 23 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC][436.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2423c61029b7114f3bbab2df0d863d79f8fdf780</link>
+				<contentLength>457493696</contentLength>
+				<pubDate>2025-09-12T10:07:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="457493696" url="https://mikanani.me/Download/20250912/2423c61029b7114f3bbab2df0d863d79f8fdf780.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ac52b3b2a54dda84c52e73928eb78e5e55e42914</link>
 			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1197,18 +1209,6 @@
 				<pubDate>2025-09-11T01:01:51.912795</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="476263232" url="https://mikanani.me/Download/20250911/2af328edd330154fd5e37541d113303d0529dfcf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 帝乃三姐妹原来很好搞定。 / Mikadono Sanshimai wa Angai, Choroi. - 11 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dcd84056cf9619853d6db4ef23a2faff2d33e267</link>
-			<title>[黒ネズミたち] 帝乃三姐妹原来很好搞定。 / Mikadono Sanshimai wa Angai, Choroi. - 11 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 帝乃三姐妹原来很好搞定。 / Mikadono Sanshimai wa Angai, Choroi. - 11 (B-Global 1920x1080 HEVC AAC MKV)[382.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dcd84056cf9619853d6db4ef23a2faff2d33e267</link>
-				<contentLength>401185184</contentLength>
-				<pubDate>2025-09-11T01:01:27.99534</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401185184" url="https://mikanani.me/Download/20250911/dcd84056cf9619853d6db4ef23a2faff2d33e267.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
