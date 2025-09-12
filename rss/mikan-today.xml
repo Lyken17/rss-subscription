@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+			<title>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)[56.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+				<contentLength>59559116</contentLength>
+				<pubDate>2025-09-13T03:00:22.835573</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="59559116" url="https://mikanani.me/Download/20250913/7003dda9bbd4c6705a741cdb90405402dbdd24ac.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4a8cbbf2d83eb247cf12a86f945132fb24912dfc</link>
 			<title>[黒ネズミたち] 强者的新传说 / Tsuyokute New Saga - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1209,18 +1221,6 @@
 				<pubDate>2025-09-11T21:00:41.283545</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="723097984" url="https://mikanani.me/Download/20250911/74dbe68a35c04c919a26f4bbdd0e3b59ef76f92a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Captivated by You /  为你著迷 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2c11135a3a6d5012468bda47731e6d86b1fde221</link>
-			<title>[ANi] Captivated by You /  为你著迷 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Captivated by You /  为你著迷 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][325.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2c11135a3a6d5012468bda47731e6d86b1fde221</link>
-				<contentLength>341626048</contentLength>
-				<pubDate>2025-09-11T20:31:54.549645</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="341626048" url="https://mikanani.me/Download/20250911/2c11135a3a6d5012468bda47731e6d86b1fde221.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

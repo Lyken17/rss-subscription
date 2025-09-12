@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/00832fae840f50db55bdbcec1a6b518cc82413c2</link>
-			<title>[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][简繁日内封]</title>
-			<description>[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][简繁日内封][82.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/00832fae840f50db55bdbcec1a6b518cc82413c2</link>
-				<contentLength>86161488</contentLength>
-				<pubDate>2025-09-11T19:01:06.529</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="86161488" url="https://mikanani.me/Download/20250911/00832fae840f50db55bdbcec1a6b518cc82413c2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/69470a1603690d8951e73f264e9bc874b406dbd2</link>
-			<title>[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][繁日内嵌]</title>
-			<description>[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][繁日内嵌][83.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/69470a1603690d8951e73f264e9bc874b406dbd2</link>
-				<contentLength>87094720</contentLength>
-				<pubDate>2025-09-11T19:00:51.038</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="87094720" url="https://mikanani.me/Download/20250911/69470a1603690d8951e73f264e9bc874b406dbd2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/0721dd6b4feb8b0b2cbf61d4869ae735e81cad5c</link>
-			<title>[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][简日内嵌]</title>
-			<description>[桜都字幕组] 定孕成婚 / Deki Chau Made Kon [08][1080p][简日内嵌][82.99 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0721dd6b4feb8b0b2cbf61d4869ae735e81cad5c</link>
-				<contentLength>87021320</contentLength>
-				<pubDate>2025-09-11T19:00:03.367</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="87021320" url="https://mikanani.me/Download/20250911/0721dd6b4feb8b0b2cbf61d4869ae735e81cad5c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Captivated by You /  为你著迷 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/2c11135a3a6d5012468bda47731e6d86b1fde221</link>
 			<title>[ANi] Captivated by You /  为你著迷 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1365,6 +1329,18 @@
 				<pubDate>2025-09-13T01:31:13.470462</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="266548016" url="https://mikanani.me/Download/20250913/38139f4244c2ada6046a3b0015fcf0160c3615b7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+			<title>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)[56.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+				<contentLength>59559116</contentLength>
+				<pubDate>2025-09-13T03:00:22.835573</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="59559116" url="https://mikanani.me/Download/20250913/7003dda9bbd4c6705a741cdb90405402dbdd24ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

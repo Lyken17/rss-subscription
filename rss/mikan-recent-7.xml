@@ -7837,5 +7837,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="266548016" url="https://mikanani.me/Download/20250913/38139f4244c2ada6046a3b0015fcf0160c3615b7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+			<title>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)[56.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+				<contentLength>59559116</contentLength>
+				<pubDate>2025-09-13T03:00:22.835573</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="59559116" url="https://mikanani.me/Download/20250913/7003dda9bbd4c6705a741cdb90405402dbdd24ac.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

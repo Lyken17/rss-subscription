@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][罪恶装备 奋战：两位裁决者/Guilty Gear Strive Dual Rulers][01-08TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/0024339b56600bff446a5d6deb96572e6ffb553d</link>
-			<title>[DBD-Raws][罪恶装备 奋战：两位裁决者/Guilty Gear Strive Dual Rulers][01-08TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
-			<description>[DBD-Raws][罪恶装备 奋战：两位裁决者/Guilty Gear Strive Dual Rulers][01-08TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV][8.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0024339b56600bff446a5d6deb96572e6ffb553d</link>
-				<contentLength>9126805504</contentLength>
-				<pubDate>2025-08-13T18:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9126805504" url="https://mikanani.me/Download/20250813/0024339b56600bff446a5d6deb96572e6ffb553d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 06 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f82de457a9c27429f48c39e74f1c843c07600795</link>
 			<title>[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 06 (CR 1920x1080 AVC AAC MKV)</title>
@@ -32385,6 +32373,18 @@
 				<pubDate>2025-09-13T01:31:13.470462</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="266548016" url="https://mikanani.me/Download/20250913/38139f4244c2ada6046a3b0015fcf0160c3615b7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+			<title>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 47 (ABEMA 1920x1080 AVC AAC MP4)[56.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7003dda9bbd4c6705a741cdb90405402dbdd24ac</link>
+				<contentLength>59559116</contentLength>
+				<pubDate>2025-09-13T03:00:22.835573</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="59559116" url="https://mikanani.me/Download/20250913/7003dda9bbd4c6705a741cdb90405402dbdd24ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
