@@ -505,5 +505,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="452020128" url="https://mikanani.me/Download/20250913/d7c128876c1c0fbde0a88caee5e4d2f92965f722.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 电锯人 总集篇 / Chainsaw Man - The Compilation [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]](检索用：链锯人)</guid>
+			<link>https://mikanani.me/Home/Episode/ee3f4b05d6bf845fd0d4901fb010b11aa0c8b020</link>
+			<title>[LoliHouse] 电锯人 总集篇 / Chainsaw Man - The Compilation [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]](检索用：链锯人)</title>
+			<description>[LoliHouse] 电锯人 总集篇 / Chainsaw Man - The Compilation [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]](检索用：链锯人)[2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ee3f4b05d6bf845fd0d4901fb010b11aa0c8b020</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2025-09-13T21:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20250913/ee3f4b05d6bf845fd0d4901fb010b11aa0c8b020.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
