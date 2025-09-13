@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][10][WEBrip][1080P][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b2c7abdc7b25a54ce781ffd3ae0a13e34e912466</link>
-			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][10][WEBrip][1080P][简体内嵌]</title>
-			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][10][WEBrip][1080P][简体内嵌][331.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b2c7abdc7b25a54ce781ffd3ae0a13e34e912466</link>
-				<contentLength>347917504</contentLength>
-				<pubDate>2025-09-06T05:12:37.113951</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="347917504" url="https://mikanani.me/Download/20250906/b2c7abdc7b25a54ce781ffd3ae0a13e34e912466.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 99 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c8f546a359d9a4c77dad6ff45b06a1e524185b61</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 99 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -7452,6 +7440,18 @@
 				<pubDate>2025-09-13T11:20:08.889</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="257026944" url="https://mikanani.me/Download/20250913/cb6cb0e29bd6da00a08f3a669db17a814c5e11c4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[神国之上][第16集][4K].Over.the.Divine.Realms</guid>
+			<link>https://mikanani.me/Home/Episode/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e</link>
+			<title>[神国之上][第16集][4K].Over.the.Divine.Realms</title>
+			<description>[神国之上][第16集][4K].Over.the.Divine.Realms[1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2025-09-13T12:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250913/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

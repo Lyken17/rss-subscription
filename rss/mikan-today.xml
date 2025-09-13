@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[神国之上][第16集][4K].Over.the.Divine.Realms</guid>
+			<link>https://mikanani.me/Home/Episode/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e</link>
+			<title>[神国之上][第16集][4K].Over.the.Divine.Realms</title>
+			<description>[神国之上][第16集][4K].Over.the.Divine.Realms[1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2025-09-13T12:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250913/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 45 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/735e4fb219a5c0a89dfd0feecd160e6dde5fe721</link>
 			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 45 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
@@ -1209,18 +1221,6 @@
 				<pubDate>2025-09-11T22:02:55.218003</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="758435008" url="https://mikanani.me/Download/20250911/7b0e21baa0080d3b701629fd5ed088de481353d3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Dr.STONE 新石纪 第四季 / Dr.STONE SCIENCE FUTURE Part 2 - 22 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e472a317f867e85724a40f80cd72170e5700e824</link>
-			<title>[黒ネズミたち] Dr.STONE 新石纪 第四季 / Dr.STONE SCIENCE FUTURE Part 2 - 22 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Dr.STONE 新石纪 第四季 / Dr.STONE SCIENCE FUTURE Part 2 - 22 (Baha 1920x1080 AVC AAC MP4)[723.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e472a317f867e85724a40f80cd72170e5700e824</link>
-				<contentLength>758225280</contentLength>
-				<pubDate>2025-09-11T22:02:42.630021</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="758225280" url="https://mikanani.me/Download/20250911/e472a317f867e85724a40f80cd72170e5700e824.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
