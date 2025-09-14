@@ -481,5 +481,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="741878016" url="https://mikanani.me/Download/20250914/3a5890c39c9d53108474e3210d915fc1657a19d7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e283674f509ad13ceb1e6a17ca699a234907c47f</link>
+			<title>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.01 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e283674f509ad13ceb1e6a17ca699a234907c47f</link>
+				<contentLength>1084479232</contentLength>
+				<pubDate>2025-09-14T14:31:25.286</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1084479232" url="https://mikanani.me/Download/20250914/e283674f509ad13ceb1e6a17ca699a234907c47f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
