@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[XK SPIRITS][假面骑士ZEZTZ / KAMEN RIDER ZEZTZ][02][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）</guid>
+			<link>https://mikanani.me/Home/Episode/d01434965d55c57037fde4cdf7f975ef4bde5968</link>
+			<title>[XK SPIRITS][假面骑士ZEZTZ / KAMEN RIDER ZEZTZ][02][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）</title>
+			<description>[XK SPIRITS][假面骑士ZEZTZ / KAMEN RIDER ZEZTZ][02][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）[700.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d01434965d55c57037fde4cdf7f975ef4bde5968</link>
+				<contentLength>734307264</contentLength>
+				<pubDate>2025-09-14T11:12:20.081</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="734307264" url="https://mikanani.me/Download/20250914/d01434965d55c57037fde4cdf7f975ef4bde5968.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[星空字幕组][奥美迦奥特曼 / ULTRAMAN OMEGA][10][简日双语][1080P][TVrip][MP4]（急招校对、后期）</guid>
 			<link>https://mikanani.me/Home/Episode/365bf8d4b027bd5a8c527aeb65d6454ac499782a</link>
 			<title>[星空字幕组][奥美迦奥特曼 / ULTRAMAN OMEGA][10][简日双语][1080P][TVrip][MP4]（急招校对、后期）</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-13T17:25:15.076</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1054018112" url="https://mikanani.me/Download/20250913/cd5049f85fc2053b672d5b7e2b252d20e7f6e523.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[神国之上][第16集][4K].Over.the.Divine.Realms</guid>
-			<link>https://mikanani.me/Home/Episode/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e</link>
-			<title>[神国之上][第16集][4K].Over.the.Divine.Realms</title>
-			<description>[神国之上][第16集][4K].Over.the.Divine.Realms[1.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2025-09-13T12:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20250913/d3e1dd7cf01e4464fcd041554d39979ea74b9a2e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
