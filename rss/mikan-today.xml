@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][106][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/3f17b8f9404806153c78dcffeda49406d9d37d82</link>
+			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][106][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][仙逆][Renegade Immortal][2023][106][AVC][GB][1080P][485.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f17b8f9404806153c78dcffeda49406d9d37d82</link>
+				<contentLength>508873920</contentLength>
+				<pubDate>2025-09-14T18:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="508873920" url="https://mikanani.me/Download/20250914/3f17b8f9404806153c78dcffeda49406d9d37d82.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 噗妮露是可爱史莱姆 第二季 / Puniru wa Kawaii Slime 2nd Season - 23 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/58ff00350c1c5b3e24dbc106f90224dc60fbdad0</link>
 			<title>[黒ネズミたち] 噗妮露是可爱史莱姆 第二季 / Puniru wa Kawaii Slime 2nd Season - 23 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-14T00:01:10.225591</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="241067616" url="https://mikanani.me/Download/20250914/19a7508030452713a150b24af0674916991aca97.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Bad Girl 不良少女 / Bad Girl - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9ba6f0ddf7217a518c785d8f401e8afbd1c0b15a</link>
-			<title>[黒ネズミたち] Bad Girl 不良少女 / Bad Girl - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Bad Girl 不良少女 / Bad Girl - 11 (ABEMA 1920x1080 AVC AAC MP4)[712.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9ba6f0ddf7217a518c785d8f401e8afbd1c0b15a</link>
-				<contentLength>746586112</contentLength>
-				<pubDate>2025-09-14T00:00:46.865291</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20250914/9ba6f0ddf7217a518c785d8f401e8afbd1c0b15a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
