@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="610638208" url="https://mikanani.me/Download/20250915/b90fe269afc76a9fa6f57e44d039c78b5950d347.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4d3863f6bbf586552827a6e8df204bd06ef1503c</link>
+			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][692.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4d3863f6bbf586552827a6e8df204bd06ef1503c</link>
+				<contentLength>725824320</contentLength>
+				<pubDate>2025-09-16T01:47:58.403</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725824320" url="https://mikanani.me/Download/20250916/4d3863f6bbf586552827a6e8df204bd06ef1503c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
