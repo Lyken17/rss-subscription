@@ -589,5 +589,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="458636672" url="https://mikanani.me/Download/20250915/e96d9d3b1d36580b62e896bfe70b7c60736bb1ff.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ae4fc668e14a5867df6839db723ff0adca66015c</link>
+			<title>[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][386.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae4fc668e14a5867df6839db723ff0adca66015c</link>
+				<contentLength>405578720</contentLength>
+				<pubDate>2025-09-15T21:02:35.322</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="405578720" url="https://mikanani.me/Download/20250915/ae4fc668e14a5867df6839db723ff0adca66015c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
