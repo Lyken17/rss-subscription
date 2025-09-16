@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4aef08b108c06b53b54623e833ff75cfc0d425c4</link>
+			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)[624.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4aef08b108c06b53b54623e833ff75cfc0d425c4</link>
+				<contentLength>654940544</contentLength>
+				<pubDate>2025-09-16T10:01:52.461319</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="654940544" url="https://mikanani.me/Download/20250916/4aef08b108c06b53b54623e833ff75cfc0d425c4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/afe204d629179f56f7b0eae34a7b4e127870c3af</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-15T11:53:59.031</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="530548000" url="https://mikanani.me/Download/20250915/eebbbfcd9d5024358fd4941152aa82595f829d90.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch: Chinmoku no Majo no Kakushigoto - 10 [WebRip][HEVC-10bit 1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/5d36db20df9d84039dec8dd239a74383cbcbacd0</link>
-			<title>[❀拨雪寻春❀] 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch: Chinmoku no Majo no Kakushigoto - 10 [WebRip][HEVC-10bit 1080p][简繁日内封]</title>
-			<description>[❀拨雪寻春❀] 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch: Chinmoku no Majo no Kakushigoto - 10 [WebRip][HEVC-10bit 1080p][简繁日内封][431.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5d36db20df9d84039dec8dd239a74383cbcbacd0</link>
-				<contentLength>452617824</contentLength>
-				<pubDate>2025-09-15T11:38:46.544</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="452617824" url="https://mikanani.me/Download/20250915/5d36db20df9d84039dec8dd239a74383cbcbacd0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
