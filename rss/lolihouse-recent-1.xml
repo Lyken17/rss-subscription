@@ -100,5 +100,20 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="68818040" url="https://mikanani.me/Download/20250916/d5eee99c1468bac63c5984df66c9043b8c679b06.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/33d09ae30fe34c558029eebc53e3aed4e67512cb</link>
+			<title>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
+ - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][439.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33d09ae30fe34c558029eebc53e3aed4e67512cb</link>
+				<contentLength>460566048</contentLength>
+				<pubDate>2025-09-16T22:23:59.249</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="460566048" url="https://mikanani.me/Download/20250916/33d09ae30fe34c558029eebc53e3aed4e67512cb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
