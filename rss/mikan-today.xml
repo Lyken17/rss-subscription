@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP09 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</guid>
+			<link>https://mikanani.me/Home/Episode/15312722766b5b7d9369d76fc28508d2d343f4e1</link>
+			<title>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP09 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}</title>
+			<description>[全遮版&amp;修正版&amp;无修版] NUKITASHI住在拔作岛上的我该如何是好？ - EP09 [简／繁] (1080p&amp;720p H.264 AAC SRTx2) {住在拔作岛上的我该如何是好？ | ぬきたし THE ANIMATION}[2.62 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/15312722766b5b7d9369d76fc28508d2d343f4e1</link>
+				<contentLength>2813203456</contentLength>
+				<pubDate>2025-09-16T19:06:17.493</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2813203456" url="https://mikanani.me/Download/20250916/15312722766b5b7d9369d76fc28508d2d343f4e1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/375276750e4838d5cc6f5c39c6ca208e46d62a71</link>
 			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-15T17:30:05.895</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="616342464" url="https://mikanani.me/Download/20250915/a44a167f48fca5c3d4de0c7ff2986a0bd254bdb6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08v2 (WebRip AV1 简繁内封 Aliciä)</guid>
-			<link>https://mikanani.me/Home/Episode/234add3350fa72073a60812254ec42f5392543e0</link>
-			<title>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08v2 (WebRip AV1 简繁内封 Aliciä)</title>
-			<description>[幸花压制] 花开凛凛满薰香 / 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08v2 (WebRip AV1 简繁内封 Aliciä)[743.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/234add3350fa72073a60812254ec42f5392543e0</link>
-				<contentLength>779742080</contentLength>
-				<pubDate>2025-09-15T17:29:07.879</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="779742080" url="https://mikanani.me/Download/20250915/234add3350fa72073a60812254ec42f5392543e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
