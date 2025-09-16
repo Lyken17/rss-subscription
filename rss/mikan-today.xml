@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/375276750e4838d5cc6f5c39c6ca208e46d62a71</link>
+			<title>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 真・武士传YAIBA / Shin Samurai-den Yaiba - 22 (ABEMA 1920x1080 AVC AAC MP4)[719.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/375276750e4838d5cc6f5c39c6ca208e46d62a71</link>
+				<contentLength>753926144</contentLength>
+				<pubDate>2025-09-16T17:30:28.233698</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753926144" url="https://mikanani.me/Download/20250916/375276750e4838d5cc6f5c39c6ca208e46d62a71.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★07月新番[9-nine- 支配者的王冠][11][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/ce6fe221839bc3978cd7de579daf55ca3ce63a4c</link>
 			<title>【澄空学园&amp;动漫国字幕组】★07月新番[9-nine- 支配者的王冠][11][1080P][简体][MP4]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-15T17:29:07.879</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="779742080" url="https://mikanani.me/Download/20250915/234add3350fa72073a60812254ec42f5392543e0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][7月新番][我怎么可能成为你的恋人，不行不行][Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri][10][1080p][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/88a4eb3551509559f953c65bfe9abecd9f396d2b</link>
-			<title>[漫猫字幕组][7月新番][我怎么可能成为你的恋人，不行不行][Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri][10][1080p][MP4][简中]</title>
-			<description>[漫猫字幕组][7月新番][我怎么可能成为你的恋人，不行不行][Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri][10][1080p][MP4][简中][402.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/88a4eb3551509559f953c65bfe9abecd9f396d2b</link>
-				<contentLength>421674368</contentLength>
-				<pubDate>2025-09-15T15:15:04.869</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="421674368" url="https://mikanani.me/Download/20250915/88a4eb3551509559f953c65bfe9abecd9f396d2b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
