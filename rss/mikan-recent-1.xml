@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4aef08b108c06b53b54623e833ff75cfc0d425c4</link>
-			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)[624.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4aef08b108c06b53b54623e833ff75cfc0d425c4</link>
-				<contentLength>654940544</contentLength>
-				<pubDate>2025-09-16T10:01:52.461319</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="654940544" url="https://mikanani.me/Download/20250916/4aef08b108c06b53b54623e833ff75cfc0d425c4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 48 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/cabddd8c3ea1e5c3ea3830c1ff05dc899e651e04</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 48 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -918,6 +906,18 @@
 				<pubDate>2025-09-17T13:30:23.283783</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1016489600" url="https://mikanani.me/Download/20250917/4b0bf6d811f8f24cd7f96681b3c3c2c016ee1393.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</guid>
+			<link>https://mikanani.me/Home/Episode/6cbd1311276d76e24b4524e58cd604443cf20516</link>
+			<title>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</title>
+			<description>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}[1.39 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6cbd1311276d76e24b4524e58cd604443cf20516</link>
+				<contentLength>1492501120</contentLength>
+				<pubDate>2025-09-17T17:48:15.931</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20250917/6cbd1311276d76e24b4524e58cd604443cf20516.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
