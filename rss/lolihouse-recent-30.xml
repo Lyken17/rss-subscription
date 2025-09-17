@@ -2185,5 +2185,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="847731776" url="https://mikanani.me/Download/20250917/c86edd05176a11783552017549b3627af29d8bd1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/0d3fd4e776966f94c103faddf8bc72a975939be3</link>
+			<title>[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 最近的侦探真没用 / Mattaku Saikin no Tantei to Kitara - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][574.45 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0d3fd4e776966f94c103faddf8bc72a975939be3</link>
+				<contentLength>602354496</contentLength>
+				<pubDate>2025-09-18T00:09:15.934</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="602354496" url="https://mikanani.me/Download/20250918/0d3fd4e776966f94c103faddf8bc72a975939be3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
