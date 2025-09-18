@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/41172ec2a221cb1f01cf193704c0152a10f021b2</link>
+			<title>[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
+			<description>[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END][334.69 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/41172ec2a221cb1f01cf193704c0152a10f021b2</link>
+				<contentLength>350947904</contentLength>
+				<pubDate>2025-09-18T16:08:00.603</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="350947904" url="https://mikanani.me/Download/20250918/41172ec2a221cb1f01cf193704c0152a10f021b2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0169281a6b9b2db80c37f7c424b92e8cec6e44e1</link>
 			<title>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1248,18 +1260,6 @@
 				<pubDate>2025-09-16T22:01:29.867093</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="482030400" url="https://mikanani.me/Download/20250916/890ae596daf3662a4f7e4f947adedb1a0fb28e92.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 杜鹃的婚约 第二季 / Kakkou no Iinazuke Season 2 - 11 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9b72fa31d4fae586dee3dac2e89240e294f0d912</link>
-			<title>[黒ネズミたち] 杜鹃的婚约 第二季 / Kakkou no Iinazuke Season 2 - 11 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 杜鹃的婚约 第二季 / Kakkou no Iinazuke Season 2 - 11 (B-Global 1920x1080 HEVC AAC MKV)[436.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b72fa31d4fae586dee3dac2e89240e294f0d912</link>
-				<contentLength>457913152</contentLength>
-				<pubDate>2025-09-16T22:01:15.608447</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="457913152" url="https://mikanani.me/Download/20250916/9b72fa31d4fae586dee3dac2e89240e294f0d912.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 18 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/49ac3b5b85fa4bafdc44ac09d0d05a367c945cbf</link>
-			<title>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 18 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕]</title>
-			<description>[LoliHouse] 坂本日常 / SAKAMOTO DAYS - 18 [WebRip 1080p HEVC-10bit AACx2][简繁内封字幕][903.93 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49ac3b5b85fa4bafdc44ac09d0d05a367c945cbf</link>
-				<contentLength>947839296</contentLength>
-				<pubDate>2025-08-19T07:26:24.891</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="947839296" url="https://mikanani.me/Download/20250819/49ac3b5b85fa4bafdc44ac09d0d05a367c945cbf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第二季 / Grand Blue S2
  - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/18c386778e4f325846c8843195926fb3eee757ec</link>
@@ -2112,6 +2100,18 @@
 				<pubDate>2025-09-18T14:26:22.667</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="614989824" url="https://mikanani.me/Download/20250918/0169281a6b9b2db80c37f7c424b92e8cec6e44e1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/41172ec2a221cb1f01cf193704c0152a10f021b2</link>
+			<title>[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
+			<description>[LoliHouse] 强者的新传说 / Tsuyokute New Saga - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END][334.69 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/41172ec2a221cb1f01cf193704c0152a10f021b2</link>
+				<contentLength>350947904</contentLength>
+				<pubDate>2025-09-18T16:08:00.603</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="350947904" url="https://mikanani.me/Download/20250918/41172ec2a221cb1f01cf193704c0152a10f021b2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
