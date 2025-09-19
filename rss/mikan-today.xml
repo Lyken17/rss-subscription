@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 46 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/302cc8d13c58a37c17656f235e304df6ecab3360</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 46 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 46 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.06 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/302cc8d13c58a37c17656f235e304df6ecab3360</link>
+				<contentLength>1138166272</contentLength>
+				<pubDate>2025-09-19T17:58:16.021</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250919/302cc8d13c58a37c17656f235e304df6ecab3360.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dainanaoji S2 - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f8d5f44ac20eda70c38cd78be5aab93bec0ff675</link>
 			<title>[LoliHouse] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dainanaoji S2 - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-17T23:31:54.033749</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1052455744" url="https://mikanani.me/Download/20250917/8870d38c958704a8a2b19b42498db1d5ae700495.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 23 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/15d46b77a45a97188dcad270e0c042895bdeebb2</link>
-			<title>[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 23 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 23 (B-Global 1920x1080 HEVC AAC MKV)[693.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/15d46b77a45a97188dcad270e0c042895bdeebb2</link>
-				<contentLength>726977728</contentLength>
-				<pubDate>2025-09-17T23:31:42.722364</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="726977728" url="https://mikanani.me/Download/20250917/15d46b77a45a97188dcad270e0c042895bdeebb2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
