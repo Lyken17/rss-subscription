@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][23][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/326881ad909580add6461465a80c3a25d9843830</link>
+			<title>[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][23][1080P][MP4]</title>
+			<description>[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][23][1080P][MP4][323.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/326881ad909580add6461465a80c3a25d9843830</link>
+				<contentLength>339067520</contentLength>
+				<pubDate>2025-09-19T20:49:48.437</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339067520" url="https://mikanani.me/Download/20250919/326881ad909580add6461465a80c3a25d9843830.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 歌声是千层派 Utagoe wa Mille-Feuille - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/6d08142967077011f998adb779b70efab8f7b2fe</link>
 			<title>[Prejudice-Studio] 歌声是千层派 Utagoe wa Mille-Feuille - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-09-18T00:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="933337472" url="https://mikanani.me/Download/20250918/253f406c778107c89531737ed41f2e23e1ae5ff4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 23 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d2668100030fa2c3262e7317d7e3e50804c1b667</link>
-			<title>[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 23 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转生为第七王子，随心所欲的魔法学习之路 第二季 / Dai Nana Ouji 2 - 23 (CR 1920x1080 AVC AAC MKV)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d2668100030fa2c3262e7317d7e3e50804c1b667</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-09-18T00:32:10.769715</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250918/d2668100030fa2c3262e7317d7e3e50804c1b667.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

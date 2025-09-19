@@ -988,5 +988,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="21378199552" url="https://mikanani.me/Download/20250919/610c7c7db716fa95aaaf0a1b0f35d482736b6580.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][23][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/326881ad909580add6461465a80c3a25d9843830</link>
+			<title>[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][23][1080P][MP4]</title>
+			<description>[轻之国度字幕组][噗妮露是可爱史莱姆/可爱史莱姆噗尼露][23][1080P][MP4][323.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/326881ad909580add6461465a80c3a25d9843830</link>
+				<contentLength>339067520</contentLength>
+				<pubDate>2025-09-19T20:49:48.437</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339067520" url="https://mikanani.me/Download/20250919/326881ad909580add6461465a80c3a25d9843830.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
