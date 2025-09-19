@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 剧场版 GIVEN 被赠与的未来：去海边 / Given Movie 3: Umi e (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/553deac7e0646f635f10fac2251908524cbaa20a</link>
+			<title>[黒ネズミたち] 剧场版 GIVEN 被赠与的未来：去海边 / Given Movie 3: Umi e (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 剧场版 GIVEN 被赠与的未来：去海边 / Given Movie 3: Umi e (Baha 1920x1080 AVC AAC MP4)[991.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/553deac7e0646f635f10fac2251908524cbaa20a</link>
+				<contentLength>1039243648</contentLength>
+				<pubDate>2025-09-19T14:04:18.807806</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1039243648" url="https://mikanani.me/Download/20250919/553deac7e0646f635f10fac2251908524cbaa20a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 大室家-亲爱的朋友 / Oomuro-ke: Dear Friends - 电影 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/c8ebd4b65cdfd0ef5b21f55742e49a8ee004b63d</link>
 			<title>[黒ネズミたち] 大室家-亲爱的朋友 / Oomuro-ke: Dear Friends - 电影 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1215,21 +1227,6 @@
 				<pubDate>2025-09-17T23:30:42.479712</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747529856" url="https://mikanani.me/Download/20250917/a7192f4173d09dd17d4b72bf374f65737d108f4e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
-- 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/c86edd05176a11783552017549b3627af29d8bd1</link>
-			<title>[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
-- 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] Clevatess -魔兽之王与赤子与尸之勇者- / Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
-- 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][808.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c86edd05176a11783552017549b3627af29d8bd1</link>
-				<contentLength>847731776</contentLength>
-				<pubDate>2025-09-17T22:52:32.097</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="847731776" url="https://mikanani.me/Download/20250917/c86edd05176a11783552017549b3627af29d8bd1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
