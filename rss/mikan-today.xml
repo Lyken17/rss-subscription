@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e50cbd2f26fd01cd3876476dd03d4a56d997b656</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 25 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e50cbd2f26fd01cd3876476dd03d4a56d997b656</link>
+				<contentLength>346868928</contentLength>
+				<pubDate>2025-09-21T07:12:26.875866</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20250921/e50cbd2f26fd01cd3876476dd03d4a56d997b656.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">Bad Girl 不良少女 - EP12 END [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</guid>
 			<link>https://mikanani.me/Home/Episode/3e9f39d0b5ddd70f439cdd0fcc0654bef5fb1a26</link>
 			<title>Bad Girl 不良少女 - EP12 END [简 / 繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ばっどがーる}</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-20T13:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="921488576" url="https://mikanani.me/Download/20250920/5f0fdf175d37af5c75eb594cee3dff28c0ef4336.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">神国之上[全17集][4K].Over.the.Divine.Realms</guid>
-			<link>https://mikanani.me/Home/Episode/42a0788eca6d9a569b91f7e33ee70d70cec56a25</link>
-			<title>神国之上[全17集][4K].Over.the.Divine.Realms</title>
-			<description>神国之上[全17集][4K].Over.the.Divine.Realms[15.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/42a0788eca6d9a569b91f7e33ee70d70cec56a25</link>
-				<contentLength>16642998272</contentLength>
-				<pubDate>2025-09-20T13:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16642998272" url="https://mikanani.me/Download/20250920/42a0788eca6d9a569b91f7e33ee70d70cec56a25.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
