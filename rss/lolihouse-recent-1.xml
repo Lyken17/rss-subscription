@@ -112,5 +112,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="957140160" url="https://mikanani.me/Download/20250921/bdb67026f6420b6a68e5920c8e707d67e87c7a15.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/5146cfede6fb4c8cad4a37642715ee5a98ccc957</link>
+			<title>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 气绝勇者与暗杀公主 / 失神勇者与暗杀公主 / Kizetsu Yuusha to Ansatsu Hime - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][562.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5146cfede6fb4c8cad4a37642715ee5a98ccc957</link>
+				<contentLength>589509440</contentLength>
+				<pubDate>2025-09-21T01:24:45.336</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="589509440" url="https://mikanani.me/Download/20250921/5146cfede6fb4c8cad4a37642715ee5a98ccc957.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
