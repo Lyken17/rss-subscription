@@ -7405,5 +7405,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="475487264" url="https://mikanani.me/Download/20250920/6cb1df331ac4a8dc5e5ef96aa07e02a3f6d4edfc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[梦蓝字幕组]New Doraemon 哆啦A梦新番[879-2][SP][AVC][1080P][GB_JP][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/06c4fc874cfd1b677c5e66db23180153ed53c32e</link>
+			<title>[梦蓝字幕组]New Doraemon 哆啦A梦新番[879-2][SP][AVC][1080P][GB_JP][MP4]</title>
+			<description>[梦蓝字幕组]New Doraemon 哆啦A梦新番[879-2][SP][AVC][1080P][GB_JP][MP4][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/06c4fc874cfd1b677c5e66db23180153ed53c32e</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-09-20T14:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20250920/06c4fc874cfd1b677c5e66db23180153ed53c32e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 47 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/5901ae33e9214d9d8b2e59e2fd4acdf139da650f</link>
+			<title>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 47 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE]</title>
+			<description>[jibaketa合成&amp;压制][TVB粤语]星光魔法/美妙魔法/Waccha Primagi - 47 [粤语+无字幕][BD 1920x1080 x264 AAC TVB YUE][1.25 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5901ae33e9214d9d8b2e59e2fd4acdf139da650f</link>
+				<contentLength>1342177280</contentLength>
+				<pubDate>2025-09-20T14:14:52.779</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1342177280" url="https://mikanani.me/Download/20250920/5901ae33e9214d9d8b2e59e2fd4acdf139da650f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
