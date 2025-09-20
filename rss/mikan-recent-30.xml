@@ -31468,5 +31468,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1342177280" url="https://mikanani.me/Download/20250920/5901ae33e9214d9d8b2e59e2fd4acdf139da650f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][HEVC][GB_JP][MP4]V5</guid>
+			<link>https://mikanani.me/Home/Episode/6dd95834d06cc092b33bd21423f9db8cf46c950a</link>
+			<title>[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][HEVC][GB_JP][MP4]V5</title>
+			<description>[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][HEVC][GB_JP][MP4]V5[12.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6dd95834d06cc092b33bd21423f9db8cf46c950a</link>
+				<contentLength>13207024640</contentLength>
+				<pubDate>2025-09-20T14:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13207024640" url="https://mikanani.me/Download/20250920/6dd95834d06cc092b33bd21423f9db8cf46c950a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][AVC][GB_JP][MP4]V5</guid>
+			<link>https://mikanani.me/Home/Episode/de811cae7227350e19f8aa6d4582a616db9957b1</link>
+			<title>[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][AVC][GB_JP][MP4]V5</title>
+			<description>[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][AVC][GB_JP][MP4]V5[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/de811cae7227350e19f8aa6d4582a616db9957b1</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-09-20T14:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250920/de811cae7227350e19f8aa6d4582a616db9957b1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
