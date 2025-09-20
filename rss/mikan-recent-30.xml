@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5f2c37d877e2daff1f976793bb7971222ce90c87</link>
-			<title>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黑化吧！圣女大人 / 伤だらけ圣女より报复をこめて / Kizu darake Seijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][609.38 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f2c37d877e2daff1f976793bb7971222ce90c87</link>
-				<contentLength>638981248</contentLength>
-				<pubDate>2025-08-21T07:30:25.974</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="638981248" url="https://mikanani.me/Download/20250821/5f2c37d877e2daff1f976793bb7971222ce90c87.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/8f864adb8750f9b497883dd58888b032b4bdcde7</link>
 			<title>[VCB-Studio] 你的颜色 / Kimi no Iro / きみの色 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
@@ -31491,6 +31479,18 @@
 				<pubDate>2025-09-20T14:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250920/de811cae7227350e19f8aa6d4582a616db9957b1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/f3a6efa8f7919ceadb8884215d57399fda7e3acf</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV][308.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3a6efa8f7919ceadb8884215d57399fda7e3acf</link>
+				<contentLength>323695424</contentLength>
+				<pubDate>2025-09-20T15:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="323695424" url="https://mikanani.me/Download/20250920/f3a6efa8f7919ceadb8884215d57399fda7e3acf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

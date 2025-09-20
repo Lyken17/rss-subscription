@@ -1024,5 +1024,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20250920/de811cae7227350e19f8aa6d4582a616db9957b1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/f3a6efa8f7919ceadb8884215d57399fda7e3acf</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV][308.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3a6efa8f7919ceadb8884215d57399fda7e3acf</link>
+				<contentLength>323695424</contentLength>
+				<pubDate>2025-09-20T15:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="323695424" url="https://mikanani.me/Download/20250920/f3a6efa8f7919ceadb8884215d57399fda7e3acf.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

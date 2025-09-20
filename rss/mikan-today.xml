@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/f3a6efa8f7919ceadb8884215d57399fda7e3acf</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1038 警校篇 狂野警察物语 CASE. 伊达航][BDRIP][1080P][MKV][308.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3a6efa8f7919ceadb8884215d57399fda7e3acf</link>
+				<contentLength>323695424</contentLength>
+				<pubDate>2025-09-20T15:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="323695424" url="https://mikanani.me/Download/20250920/f3a6efa8f7919ceadb8884215d57399fda7e3acf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][HEVC][GB_JP][MP4]V5</guid>
 			<link>https://mikanani.me/Home/Episode/6dd95834d06cc092b33bd21423f9db8cf46c950a</link>
 			<title>[梦蓝字幕组][Doraemon The Movie Nobita's Art World Tales][电影哆啦A梦 大雄的绘画奇遇记][1080P][BDRIP][HEVC][GB_JP][MP4]V5</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-19T01:01:15.902133</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="822712704" url="https://mikanani.me/Download/20250919/12ecc2ba860b65609342eec43d175c9a5f2c5fb4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我们不可能成为恋人！绝对不行。（※似乎可行？） / Watanare - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/cb11e61c9e7bd06c84798ad93a278404b7c5eb01</link>
-			<title>[黒ネズミたち] 我们不可能成为恋人！绝对不行。（※似乎可行？） / Watanare - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 我们不可能成为恋人！绝对不行。（※似乎可行？） / Watanare - 11 (ABEMA 1920x1080 AVC AAC MP4)[713.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cb11e61c9e7bd06c84798ad93a278404b7c5eb01</link>
-				<contentLength>747949248</contentLength>
-				<pubDate>2025-09-19T01:00:36.264675</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747949248" url="https://mikanani.me/Download/20250919/cb11e61c9e7bd06c84798ad93a278404b7c5eb01.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
