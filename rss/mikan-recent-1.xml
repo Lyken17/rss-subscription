@@ -1552,5 +1552,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301151040" url="https://mikanani.me/Download/20250921/d8699c6a2a49419946a1486d7c65133449fe3b63.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 12 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
+			<link>https://mikanani.me/Home/Episode/6a695e98e3c8fbbe5d77b02f260fad33e36ffb0d</link>
+			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 12 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
+			<description>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 12 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）[356.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a695e98e3c8fbbe5d77b02f260fad33e36ffb0d</link>
+				<contentLength>373397920</contentLength>
+				<pubDate>2025-09-21T15:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="373397920" url="https://mikanani.me/Download/20250921/6a695e98e3c8fbbe5d77b02f260fad33e36ffb0d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

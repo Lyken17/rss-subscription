@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 12 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</guid>
+			<link>https://mikanani.me/Home/Episode/6a695e98e3c8fbbe5d77b02f260fad33e36ffb0d</link>
+			<title>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 12 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）</title>
+			<description>[❀拨雪寻春❀] 花开凛凛满薰香 / 薫る花は凛と咲く / Kaoru Hana wa Rin to Saku - 12 [WebRip][HEVC-10bit 1080p][简日内嵌]（检索用：薰香花朵凛然绽放）[356.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a695e98e3c8fbbe5d77b02f260fad33e36ffb0d</link>
+				<contentLength>373397920</contentLength>
+				<pubDate>2025-09-21T15:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="373397920" url="https://mikanani.me/Download/20250921/6a695e98e3c8fbbe5d77b02f260fad33e36ffb0d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">枕刀歌.第一季[全12集][4K].A.Song.of.Sword.as.Pillow</guid>
 			<link>https://mikanani.me/Home/Episode/5668eb3168325a8d6b20995e9b0c4788ee179e7f</link>
 			<title>枕刀歌.第一季[全12集][4K].A.Song.of.Sword.as.Pillow</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-20T20:56:46.136942</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="348232096" url="https://mikanani.me/Download/20250920/d322f0384a3982942e590ba8d19f31746f1790c4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 23 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e470832f562e054d2569396b1eb6030d0059c18b</link>
-			<title>[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 23 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 安妮・雪莉 / Anne Shirley - 23 (Baha 1920x1080 AVC AAC MP4)[331.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e470832f562e054d2569396b1eb6030d0059c18b</link>
-				<contentLength>347917504</contentLength>
-				<pubDate>2025-09-20T20:55:58.853955</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="347917504" url="https://mikanani.me/Download/20250920/e470832f562e054d2569396b1eb6030d0059c18b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
