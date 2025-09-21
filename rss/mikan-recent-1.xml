@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[ANi] Ultraman Omega /  超人力霸王奥米加 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/02f47abafba9030b01ffc3214d6a92c61ea67d66</link>
-			<title>[ANi] Ultraman Omega /  超人力霸王奥米加 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Ultraman Omega /  超人力霸王奥米加 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][722.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/02f47abafba9030b01ffc3214d6a92c61ea67d66</link>
-				<contentLength>758015616</contentLength>
-				<pubDate>2025-09-20T10:21:48.388792</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="758015616" url="https://mikanani.me/Download/20250920/02f47abafba9030b01ffc3214d6a92c61ea67d66.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">凡人修仙传：外海风云[第161集][1080P].A.Mortal's.Journey</guid>
 			<link>https://mikanani.me/Home/Episode/5f0fdf175d37af5c75eb594cee3dff28c0ef4336</link>
 			<title>凡人修仙传：外海风云[第161集][1080P].A.Mortal's.Journey</title>
@@ -1659,6 +1647,18 @@
 				<pubDate>2025-09-21T17:31:11.182871</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="384617664" url="https://mikanani.me/Download/20250921/5bcf77a7daa5c05170e703a165587155e79bf789.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][24][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/855a1a0cb20d4406225edd84495195880883a2df</link>
+			<title>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][24][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][24][1080p][简日双语][601.11 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/855a1a0cb20d4406225edd84495195880883a2df</link>
+				<contentLength>630309504</contentLength>
+				<pubDate>2025-09-21T18:20:32.96</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="630309504" url="https://mikanani.me/Download/20250921/855a1a0cb20d4406225edd84495195880883a2df.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

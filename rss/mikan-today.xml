@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][24][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/855a1a0cb20d4406225edd84495195880883a2df</link>
+			<title>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][24][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][24][1080p][简日双语][601.11 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/855a1a0cb20d4406225edd84495195880883a2df</link>
+				<contentLength>630309504</contentLength>
+				<pubDate>2025-09-21T18:20:32.96</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="630309504" url="https://mikanani.me/Download/20250921/855a1a0cb20d4406225edd84495195880883a2df.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 噗妮露是可爱史莱姆 第二季 / Puniru wa Kawaii Slime 2nd Season - 24 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/23a6a54eecd3caf403bb5016db9541584692c087</link>
 			<title>[黒ネズミたち] 噗妮露是可爱史莱姆 第二季 / Puniru wa Kawaii Slime 2nd Season - 24 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1203,30 +1215,6 @@
 				<pubDate>2025-09-20T23:00:43.258098</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="758330176" url="https://mikanani.me/Download/20250920/cc8001fe79172c0e14339e2bf79ba8be4e20f22e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 怪兽8号 第二季 / Kaijuu 8-gou 2nd Season - 22 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/be4ce5d43d4a7bfee5f3c6fa8d40bfef83807f40</link>
-			<title>[黒ネズミたち] 怪兽8号 第二季 / Kaijuu 8-gou 2nd Season - 22 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 怪兽8号 第二季 / Kaijuu 8-gou 2nd Season - 22 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be4ce5d43d4a7bfee5f3c6fa8d40bfef83807f40</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-09-20T22:32:09.706335</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250920/be4ce5d43d4a7bfee5f3c6fa8d40bfef83807f40.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Fermats Cuisine /  费马的料理 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/a52749fade44c9a01001d0b5af8f5a456d563be2</link>
-			<title>[ANi] Fermats Cuisine /  费马的料理 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Fermats Cuisine /  费马的料理 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][378.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a52749fade44c9a01001d0b5af8f5a456d563be2</link>
-				<contentLength>397305440</contentLength>
-				<pubDate>2025-09-20T22:31:46.11951</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397305440" url="https://mikanani.me/Download/20250920/a52749fade44c9a01001d0b5af8f5a456d563be2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
