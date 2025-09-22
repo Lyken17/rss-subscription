@@ -113,18 +113,6 @@
 			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20250921/e50810ee2618b97b5d3e036117cb28e3a56a2aa7.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[DBD-Raws][彩虹小马：友谊的魔法 第二季/小马宝莉 友谊大魔法 第二季/My Little Pony Friendship Is Magic Season 2][01-26TV全集][德版/Ger.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/6d0664c9bb9df7201c262b5ed5c699452d901215</link>
-			<title>[DBD-Raws][彩虹小马：友谊的魔法 第二季/小马宝莉 友谊大魔法 第二季/My Little Pony Friendship Is Magic Season 2][01-26TV全集][德版/Ger.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV]</title>
-			<description>[DBD-Raws][彩虹小马：友谊的魔法 第二季/小马宝莉 友谊大魔法 第二季/My Little Pony Friendship Is Magic Season 2][01-26TV全集][德版/Ger.Ver][1080P][BDRip][HEVC-10bit][FLACx2][MKV][29.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6d0664c9bb9df7201c262b5ed5c699452d901215</link>
-				<contentLength>31353262080</contentLength>
-				<pubDate>2025-09-21T19:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="31353262080" url="https://mikanani.me/Download/20250921/6d0664c9bb9df7201c262b5ed5c699452d901215.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 禁止出入的鼹鼠 Dekin no Mogura The Earthbound Mole [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/2077f253da1be5d2754ef3a7c449287ff1dd68f1</link>
 			<title>[Prejudice-Studio] 禁止出入的鼹鼠 Dekin no Mogura The Earthbound Mole [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -2307,6 +2295,18 @@
 				<pubDate>2025-09-23T01:14:32.404</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="314866400" url="https://mikanani.me/Download/20250923/a6e18cf56763b2c34bd729c5cfee4f729311293c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 不忍！加密忍者咲耶 叁之卷 / Shinobanai! Crypto Ninja Sakuya: San no Maki - 37 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1dca6c5f8ca76879e16c5222a0a6f87b108f7a12</link>
+			<title>[黒ネズミたち] 不忍！加密忍者咲耶 叁之卷 / Shinobanai! Crypto Ninja Sakuya: San no Maki - 37 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 不忍！加密忍者咲耶 叁之卷 / Shinobanai! Crypto Ninja Sakuya: San no Maki - 37 (ABEMA 1920x1080 AVC AAC MP4)[106.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1dca6c5f8ca76879e16c5222a0a6f87b108f7a12</link>
+				<contentLength>111358768</contentLength>
+				<pubDate>2025-09-23T02:35:22.534457</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="111358768" url="https://mikanani.me/Download/20250923/1dca6c5f8ca76879e16c5222a0a6f87b108f7a12.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
