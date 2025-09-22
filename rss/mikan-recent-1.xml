@@ -1816,5 +1816,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1567663104" url="https://mikanani.me/Download/20250922/10e9d37707209ce186d796baa34bfafdd3983de5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[时雨初空] Hand Shakers／握手者 BDRip FLAC HEVC MKV 1080p （仅繁中</guid>
+			<link>https://mikanani.me/Home/Episode/b7309909e50ef6d18b7509cc3898b2915ff79635</link>
+			<title>[时雨初空] Hand Shakers／握手者 BDRip FLAC HEVC MKV 1080p （仅繁中</title>
+			<description>[时雨初空] Hand Shakers／握手者 BDRip FLAC HEVC MKV 1080p （仅繁中[10.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b7309909e50ef6d18b7509cc3898b2915ff79635</link>
+				<contentLength>11059540992</contentLength>
+				<pubDate>2025-09-22T17:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11059540992" url="https://mikanani.me/Download/20250922/b7309909e50ef6d18b7509cc3898b2915ff79635.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
