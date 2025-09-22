@@ -220,5 +220,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="378923904" url="https://mikanani.me/Download/20250922/d3739ed1e6e9dc6b0bc0b43c7d2292c8e59e256a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界默示录麦诺格拉～从毁灭文明开始征服世界～ / Isekai Mokushiroku Mynoghra - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/72b98aecb40a10b3d4a3014568270fd471831af2</link>
+			<title>[LoliHouse] 异世界默示录麦诺格拉～从毁灭文明开始征服世界～ / Isekai Mokushiroku Mynoghra - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界默示录麦诺格拉～从毁灭文明开始征服世界～ / Isekai Mokushiroku Mynoghra - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][490.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72b98aecb40a10b3d4a3014568270fd471831af2</link>
+				<contentLength>513823200</contentLength>
+				<pubDate>2025-09-22T19:18:08.089</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="513823200" url="https://mikanani.me/Download/20250922/72b98aecb40a10b3d4a3014568270fd471831af2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
