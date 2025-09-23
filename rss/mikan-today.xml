@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/7d573003ffa653fffe66586b4796a47310ab01da</link>
+			<title>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[158.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d573003ffa653fffe66586b4796a47310ab01da</link>
+				<contentLength>165675008</contentLength>
+				<pubDate>2025-09-23T12:00:55.793806</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="165675008" url="https://mikanani.me/Download/20250923/7d573003ffa653fffe66586b4796a47310ab01da.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 49 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/41220badf655acb6145cd1be7e077ea474ef319f</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 49 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-22T01:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20250922/c8326ef9a6534e607d1c2877d8802d16ee7a889b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/c025bfa4d001b415af58acd469ef469add471202</link>
-			<title>[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 肥宅勇者 / Busamen Gachi Fighter - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][485.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c025bfa4d001b415af58acd469ef469add471202</link>
-				<contentLength>508936832</contentLength>
-				<pubDate>2025-09-22T01:33:24.588</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="508936832" url="https://mikanani.me/Download/20250922/c025bfa4d001b415af58acd469ef469add471202.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
