@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/afe204d629179f56f7b0eae34a7b4e127870c3af</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][460.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/afe204d629179f56f7b0eae34a7b4e127870c3af</link>
-				<contentLength>482649056</contentLength>
-				<pubDate>2025-09-16T08:25:24.883</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="482649056" url="https://mikanani.me/Download/20250916/afe204d629179f56f7b0eae34a7b4e127870c3af.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4aef08b108c06b53b54623e833ff75cfc0d425c4</link>
 			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 11 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
@@ -7320,6 +7308,18 @@
 				<pubDate>2025-09-23T12:45:10.992</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1750199168" url="https://mikanani.me/Download/20250923/fb082348a98eb13293f59f83b319fa860e6774f7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][代理商粤语]葬送的芙莉莲 / Sousou no Frieren - Vol.5 [粤日双语+内封繁体中文字幕](BD 1920x1080 x264 AACx2 PGS+SRTx2 MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/fd905406096dc547a189e9acb6016fa65f17bf88</link>
+			<title>[jibaketa合成&amp;压制][代理商粤语]葬送的芙莉莲 / Sousou no Frieren - Vol.5 [粤日双语+内封繁体中文字幕](BD 1920x1080 x264 AACx2 PGS+SRTx2 MUSE CHT)</title>
+			<description>[jibaketa合成&amp;压制][代理商粤语]葬送的芙莉莲 / Sousou no Frieren - Vol.5 [粤日双语+内封繁体中文字幕](BD 1920x1080 x264 AACx2 PGS+SRTx2 MUSE CHT)[5.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd905406096dc547a189e9acb6016fa65f17bf88</link>
+				<contentLength>5690831872</contentLength>
+				<pubDate>2025-09-23T17:17:32.876</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5690831872" url="https://mikanani.me/Download/20250923/fd905406096dc547a189e9acb6016fa65f17bf88.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

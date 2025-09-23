@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;压制][代理商粤语]葬送的芙莉莲 / Sousou no Frieren - Vol.5 [粤日双语+内封繁体中文字幕](BD 1920x1080 x264 AACx2 PGS+SRTx2 MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/fd905406096dc547a189e9acb6016fa65f17bf88</link>
+			<title>[jibaketa合成&amp;压制][代理商粤语]葬送的芙莉莲 / Sousou no Frieren - Vol.5 [粤日双语+内封繁体中文字幕](BD 1920x1080 x264 AACx2 PGS+SRTx2 MUSE CHT)</title>
+			<description>[jibaketa合成&amp;压制][代理商粤语]葬送的芙莉莲 / Sousou no Frieren - Vol.5 [粤日双语+内封繁体中文字幕](BD 1920x1080 x264 AACx2 PGS+SRTx2 MUSE CHT)[5.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd905406096dc547a189e9acb6016fa65f17bf88</link>
+				<contentLength>5690831872</contentLength>
+				<pubDate>2025-09-23T17:17:32.876</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5690831872" url="https://mikanani.me/Download/20250923/fd905406096dc547a189e9acb6016fa65f17bf88.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][17][GB][1080P HEVC]</guid>
 			<link>https://mikanani.me/Home/Episode/1f00c94707d496e04ef8ac8802ea455215e5fcd6</link>
 			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][17][GB][1080P HEVC]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-22T03:46:34.806185</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="173329616" url="https://mikanani.me/Download/20250922/5507befe75cec041064fa7a21454a5eefd9a8e43.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★11★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/89f6828603c9646a6ea5981769bde50644d62860</link>
-			<title>六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★11★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★游乐场少女的异文化交流 Game Center Shoujo to Ibunka Kouryuu★11★1920x1080★AVC AAC MP4★繁体中文[312MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/89f6828603c9646a6ea5981769bde50644d62860</link>
-				<contentLength>327155712</contentLength>
-				<pubDate>2025-09-22T03:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="327155712" url="https://mikanani.me/Download/20250922/89f6828603c9646a6ea5981769bde50644d62860.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
