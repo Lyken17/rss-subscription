@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]坏女孩 Bad Girl - 10 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/d07cbfb50226cf5f65736a97a5eeeef3298b8290</link>
+			<title>[樱桃花字幕组]坏女孩 Bad Girl - 10 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]坏女孩 Bad Girl - 10 [1080p][简日内嵌][324.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d07cbfb50226cf5f65736a97a5eeeef3298b8290</link>
+				<contentLength>340053184</contentLength>
+				<pubDate>2025-09-24T00:20:15.322612</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="340053184" url="https://mikanani.me/Download/20250924/d07cbfb50226cf5f65736a97a5eeeef3298b8290.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/23a23705d66194d321f24088a99750450b7dee16</link>
+			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 11 (ABEMA 1920x1080 AVC AAC MP4)[728.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23a23705d66194d321f24088a99750450b7dee16</link>
+				<contentLength>764202176</contentLength>
+				<pubDate>2025-09-24T00:02:04.758717</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="764202176" url="https://mikanani.me/Download/20250924/23a23705d66194d321f24088a99750450b7dee16.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[冷番补完字幕组][秋叶原电脑组][アキハバラ电脳组][Akihabara Dennou-gumi][1998-1999][TV+Movie][1080p][内封简繁中字]</guid>
 			<link>https://mikanani.me/Home/Episode/c986fb968f218a4c37aeeb97e0c23a840c154b4a</link>
 			<title>[冷番补完字幕组][秋叶原电脑组][アキハバラ电脳组][Akihabara Dennou-gumi][1998-1999][TV+Movie][1080p][内封简繁中字]</title>
@@ -1182,30 +1206,6 @@
 				<pubDate>2025-09-22T21:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="456025696" url="https://mikanani.me/Download/20250922/1338a769114e31a7def424255ab7ca28bce4217e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][10][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/4e61aea15f78f29ec2f118d6e3762a32102c1890</link>
-			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][10][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][10][1080p][繁日双语][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4e61aea15f78f29ec2f118d6e3762a32102c1890</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-09-22T21:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250922/4e61aea15f78f29ec2f118d6e3762a32102c1890.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][10][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/9aeec1901e8626c7d2f6e9f389663c5354748f5f</link>
-			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][10][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][10][1080p][简日双语][1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9aeec1901e8626c7d2f6e9f389663c5354748f5f</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-09-22T21:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20250922/9aeec1901e8626c7d2f6e9f389663c5354748f5f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
