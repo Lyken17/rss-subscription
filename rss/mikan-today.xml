@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 12 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8c5873b284bc885ee2c754e63957c2182838fd57</link>
+			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 12 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 保龄球少女！ / Turkey! - 12 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8c5873b284bc885ee2c754e63957c2182838fd57</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2025-09-24T02:32:07.795853</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250924/8c5873b284bc885ee2c754e63957c2182838fd57.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 保龄球少女！ / Turkey! - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/caa69bc32075d791ec37024b0216453e0cf8add8</link>
 			<title>[黒ネズミたち] 保龄球少女！ / Turkey! - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-09-22T22:30:38.569366</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747424960" url="https://mikanani.me/Download/20250922/fdf92cd91ec9802a82b30356e83e06d2c3a1422e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][49][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/4c683dfb4458aacb5d660b182b962d8b196a88df</link>
-			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][49][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][49][AVC][GB][1080P][819.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4c683dfb4458aacb5d660b182b962d8b196a88df</link>
-				<contentLength>859129792</contentLength>
-				<pubDate>2025-09-22T22:22:42.915</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="859129792" url="https://mikanani.me/Download/20250922/4c683dfb4458aacb5d660b182b962d8b196a88df.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
