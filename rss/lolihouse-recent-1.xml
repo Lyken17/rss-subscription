@@ -67,5 +67,20 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="562256960" url="https://mikanani.me/Download/20250924/8a60e052c50432100eeabb17b7108d8682493220.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 保龄球少女！ / Turkey!
+ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/1d74fdb8adba3d5564d15ef95c92e4072f495b81</link>
+			<title>[LoliHouse] 保龄球少女！ / Turkey!
+ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 保龄球少女！ / Turkey!
+ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][605.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1d74fdb8adba3d5564d15ef95c92e4072f495b81</link>
+				<contentLength>634745024</contentLength>
+				<pubDate>2025-09-24T22:02:52.678</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="634745024" url="https://mikanani.me/Download/20250924/1d74fdb8adba3d5564d15ef95c92e4072f495b81.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
