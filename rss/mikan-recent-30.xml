@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 07 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/d9918a83edb4eeba5c0156d7122040e25a5f4f24</link>
-			<title>[Skymoon-Raws] Gachiakuta - 07 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Gachiakuta - 07 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][370.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d9918a83edb4eeba5c0156d7122040e25a5f4f24</link>
-				<contentLength>388811968</contentLength>
-				<pubDate>2025-08-25T01:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="388811968" url="https://mikanani.me/Download/20250825/d9918a83edb4eeba5c0156d7122040e25a5f4f24.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 07 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b99eee6f11395197e6863eb6ac79a4450d0a8675</link>
 			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 07 (CR 1920x1080 AVC AAC MKV)</title>
@@ -31374,6 +31362,42 @@
 				<pubDate>2025-09-24T02:32:07.795853</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250924/8c5873b284bc885ee2c754e63957c2182838fd57.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/b4720649eb458ea0a25b882874d7b771b7df8fa8</link>
+			<title>[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌][493.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b4720649eb458ea0a25b882874d7b771b7df8fa8</link>
+				<contentLength>517199616</contentLength>
+				<pubDate>2025-09-24T09:42:12.788</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="517199616" url="https://mikanani.me/Download/20250924/b4720649eb458ea0a25b882874d7b771b7df8fa8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/09ba2967c5e7947d0940bf7c7a8fe17703dfe382</link>
+			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简体内嵌][493.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/09ba2967c5e7947d0940bf7c7a8fe17703dfe382</link>
+				<contentLength>517493216</contentLength>
+				<pubDate>2025-09-24T09:41:44.183</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="517493216" url="https://mikanani.me/Download/20250924/09ba2967c5e7947d0940bf7c7a8fe17703dfe382.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/66e5aef62d4daf797af0db74b7a6543fdbae1aa1</link>
+			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简繁内封]</title>
+			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简繁内封][395.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/66e5aef62d4daf797af0db74b7a6543fdbae1aa1</link>
+				<contentLength>414984448</contentLength>
+				<pubDate>2025-09-24T09:41:00.192</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="414984448" url="https://mikanani.me/Download/20250924/66e5aef62d4daf797af0db74b7a6543fdbae1aa1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
