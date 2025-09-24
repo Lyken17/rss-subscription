@@ -7069,5 +7069,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="414984448" url="https://mikanani.me/Download/20250924/66e5aef62d4daf797af0db74b7a6543fdbae1aa1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
+			<title>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin][10.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
+				<contentLength>11381663744</contentLength>
+				<pubDate>2025-09-24T12:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250924/89d8c0edb6ed1b298011096eb1c14da85bc774ea.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

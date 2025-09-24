@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
+			<title>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin][10.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
+				<contentLength>11381663744</contentLength>
+				<pubDate>2025-09-24T12:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250924/89d8c0edb6ed1b298011096eb1c14da85bc774ea.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/b4720649eb458ea0a25b882874d7b771b7df8fa8</link>
 			<title>[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌]</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-09-22T23:01:07.867896</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="286890400" url="https://mikanani.me/Download/20250922/9044b85dd6dca703fb069f6aa9ede2134b980e31.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Clevatess－魔兽之王与婴儿与尸之勇者－ / Clevatess: Majuu no Ou to Akago to Kabane no Yuusha - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a835965958cda686728c949a58d3c101c4686cd7</link>
-			<title>[黒ネズミたち] Clevatess－魔兽之王与婴儿与尸之勇者－ / Clevatess: Majuu no Ou to Akago to Kabane no Yuusha - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Clevatess－魔兽之王与婴儿与尸之勇者－ / Clevatess: Majuu no Ou to Akago to Kabane no Yuusha - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a835965958cda686728c949a58d3c101c4686cd7</link>
-				<contentLength>746795840</contentLength>
-				<pubDate>2025-09-22T23:00:47.124058</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20250922/a835965958cda686728c949a58d3c101c4686cd7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

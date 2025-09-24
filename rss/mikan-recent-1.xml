@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b97b7251244fadd706e0fe157c5f002b509cb023</link>
-			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][930MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b97b7251244fadd706e0fe157c5f002b509cb023</link>
-				<contentLength>975175680</contentLength>
-				<pubDate>2025-09-23T03:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="975175680" url="https://mikanani.me/Download/20250923/b97b7251244fadd706e0fe157c5f002b509cb023.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub][Bâan 家 —成年的分界线—][Bâan -The Boundaries of Adulthood-][WebRip][1080P][AVC 8bit][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/b0cb6518b6b4d25c66b588bfe600d67dacf6e5c3</link>
 			<title>[SweetSub][Bâan 家 —成年的分界线—][Bâan -The Boundaries of Adulthood-][WebRip][1080P][AVC 8bit][繁日双语]</title>
@@ -690,6 +678,18 @@
 				<pubDate>2025-09-24T09:41:00.192</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="414984448" url="https://mikanani.me/Download/20250924/66e5aef62d4daf797af0db74b7a6543fdbae1aa1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
+			<title>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin][10.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
+				<contentLength>11381663744</contentLength>
+				<pubDate>2025-09-24T12:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250924/89d8c0edb6ed1b298011096eb1c14da85bc774ea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
