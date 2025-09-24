@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 24 - [简体内嵌][H264 8bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/29bd29ecc0d7082d2df4ef4e734f1cf82a1330c9</link>
-			<title>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 24 - [简体内嵌][H264 8bit 1080P]</title>
-			<description>[秋里乐叶galgame部] 夏日口袋 / Summer Pockets / サマーポケッツ - 24 - [简体内嵌][H264 8bit 1080P][367.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/29bd29ecc0d7082d2df4ef4e734f1cf82a1330c9</link>
-				<contentLength>385456544</contentLength>
-				<pubDate>2025-09-17T05:27:14.116948</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385456544" url="https://mikanani.me/Download/20250917/29bd29ecc0d7082d2df4ef4e734f1cf82a1330c9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]彻夜之歌 第二季 Yofukashi no Uta Season 2 - 11 [1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/0010dcb4b4f51dd714a5edde04a700ee7de9cdd9</link>
 			<title>[樱桃花字幕组]彻夜之歌 第二季 Yofukashi no Uta Season 2 - 11 [1080p][简日内嵌]</title>
@@ -7068,6 +7056,18 @@
 				<pubDate>2025-09-24T12:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="11381663744" url="https://mikanani.me/Download/20250924/89d8c0edb6ed1b298011096eb1c14da85bc774ea.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 杜鹃的婚约 第二季 / Kakkou no Iinazuke S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索：A Couple of Cuckoos 杜鹃婚约)</guid>
+			<link>https://mikanani.me/Home/Episode/52966afc8a82dfd3015cd0e6d76e8e20cfebbc1f</link>
+			<title>[LoliHouse] 杜鹃的婚约 第二季 / Kakkou no Iinazuke S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索：A Couple of Cuckoos 杜鹃婚约)</title>
+			<description>[LoliHouse] 杜鹃的婚约 第二季 / Kakkou no Iinazuke S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索：A Couple of Cuckoos 杜鹃婚约)[6.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/52966afc8a82dfd3015cd0e6d76e8e20cfebbc1f</link>
+				<contentLength>6764573696</contentLength>
+				<pubDate>2025-09-24T13:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6764573696" url="https://mikanani.me/Download/20250924/52966afc8a82dfd3015cd0e6d76e8e20cfebbc1f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

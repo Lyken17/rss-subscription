@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 杜鹃的婚约 第二季 / Kakkou no Iinazuke S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索：A Couple of Cuckoos 杜鹃婚约)</guid>
+			<link>https://mikanani.me/Home/Episode/52966afc8a82dfd3015cd0e6d76e8e20cfebbc1f</link>
+			<title>[LoliHouse] 杜鹃的婚约 第二季 / Kakkou no Iinazuke S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索：A Couple of Cuckoos 杜鹃婚约)</title>
+			<description>[LoliHouse] 杜鹃的婚约 第二季 / Kakkou no Iinazuke S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索：A Couple of Cuckoos 杜鹃婚约)[6.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/52966afc8a82dfd3015cd0e6d76e8e20cfebbc1f</link>
+				<contentLength>6764573696</contentLength>
+				<pubDate>2025-09-24T13:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6764573696" url="https://mikanani.me/Download/20250924/52966afc8a82dfd3015cd0e6d76e8e20cfebbc1f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
 			<title>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1194,18 +1206,6 @@
 				<pubDate>2025-09-22T23:01:17.011143</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="354733248" url="https://mikanani.me/Download/20250922/1cebff59873c0ea4bfad4e2a6bd3885fb3e74019.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 23 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9044b85dd6dca703fb069f6aa9ede2134b980e31</link>
-			<title>[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 23 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 鬼人幻灯抄 / Kijin Gentoushou - 23 (B-Global 1920x1080 HEVC AAC MKV)[273.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9044b85dd6dca703fb069f6aa9ede2134b980e31</link>
-				<contentLength>286890400</contentLength>
-				<pubDate>2025-09-22T23:01:07.867896</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="286890400" url="https://mikanani.me/Download/20250922/9044b85dd6dca703fb069f6aa9ede2134b980e31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
