@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">大唐乘风录[第01-03集][4K].Wind.Driver.in.Tang.Dynasty</guid>
+			<link>https://mikanani.me/Home/Episode/bf711d67c5c1e97cacaaf242a1470611722568cd</link>
+			<title>大唐乘风录[第01-03集][4K].Wind.Driver.in.Tang.Dynasty</title>
+			<description>大唐乘风录[第01-03集][4K].Wind.Driver.in.Tang.Dynasty[2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bf711d67c5c1e97cacaaf242a1470611722568cd</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2025-09-25T14:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20250925/bf711d67c5c1e97cacaaf242a1470611722568cd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 黑执事 绿魔女篇 Kuroshitsuji Midori no Majo Hen - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/cd22d464123a926c7456c97426eda9c65c6f8122</link>
 			<title>[Prejudice-Studio] 黑执事 绿魔女篇 Kuroshitsuji Midori no Majo Hen - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1197,18 +1209,6 @@
 				<pubDate>2025-09-23T12:00:55.793806</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="165675008" url="https://mikanani.me/Download/20250923/7d573003ffa653fffe66586b4796a47310ab01da.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 49 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/41220badf655acb6145cd1be7e077ea474ef319f</link>
-			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 49 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 49 (B-Global Donghua 1920x1080 HEVC AAC MKV)[584.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/41220badf655acb6145cd1be7e077ea474ef319f</link>
-				<contentLength>612892672</contentLength>
-				<pubDate>2025-09-23T11:02:43.777985</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="612892672" url="https://mikanani.me/Download/20250923/41220badf655acb6145cd1be7e077ea474ef319f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -631,5 +631,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="492631488" url="https://mikanani.me/Download/20250925/d76612375567548635bc4a7f8abf7bcfa8159d8a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">大唐乘风录[第01-03集][4K].Wind.Driver.in.Tang.Dynasty</guid>
+			<link>https://mikanani.me/Home/Episode/bf711d67c5c1e97cacaaf242a1470611722568cd</link>
+			<title>大唐乘风录[第01-03集][4K].Wind.Driver.in.Tang.Dynasty</title>
+			<description>大唐乘风录[第01-03集][4K].Wind.Driver.in.Tang.Dynasty[2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bf711d67c5c1e97cacaaf242a1470611722568cd</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2025-09-25T14:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20250925/bf711d67c5c1e97cacaaf242a1470611722568cd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
