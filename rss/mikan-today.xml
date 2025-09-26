@@ -5,6 +5,54 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][110-111][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/a04b8b89407196a4f187efdbe8fe4cd430f2fe2e</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][110-111][简体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][110-111][简体][1080P][MP4][1.02 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a04b8b89407196a4f187efdbe8fe4cd430f2fe2e</link>
+				<contentLength>1095216640</contentLength>
+				<pubDate>2025-09-26T11:28:32.864</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1095216640" url="https://mikanani.me/Download/20250926/a04b8b89407196a4f187efdbe8fe4cd430f2fe2e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][110-111][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/5062b3619f04104359d8f45458cd2fe0c1dedd95</link>
+			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][110-111][繁体][1080P][MP4]</title>
+			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 超级电压][110-111][繁体][1080P][MP4][1.02 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5062b3619f04104359d8f45458cd2fe0c1dedd95</link>
+				<contentLength>1095216640</contentLength>
+				<pubDate>2025-09-26T11:27:48.712</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1095216640" url="https://mikanani.me/Download/20250926/5062b3619f04104359d8f45458cd2fe0c1dedd95.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/836970c939ac5a679f3542e25fbe3d448e98c9a0</link>
+			<title>[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[431.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/836970c939ac5a679f3542e25fbe3d448e98c9a0</link>
+				<contentLength>452460544</contentLength>
+				<pubDate>2025-09-26T11:05:47.412621</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="452460544" url="https://mikanani.me/Download/20250926/836970c939ac5a679f3542e25fbe3d448e98c9a0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f55afa1b9e95f1a71390dee7899b2c06f9fcad72</link>
+			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 20 (B-Global Donghua 1920x1080 HEVC AAC MKV)[700.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f55afa1b9e95f1a71390dee7899b2c06f9fcad72</link>
+				<contentLength>734003200</contentLength>
+				<pubDate>2025-09-26T11:03:24.969375</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="734003200" url="https://mikanani.me/Download/20250926/f55afa1b9e95f1a71390dee7899b2c06f9fcad72.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8ad664f04c2bc3c6313dd28abb03149b008062a0</link>
 			<title>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1134,54 +1182,6 @@
 				<pubDate>2025-09-24T21:01:33.160849</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="352321536" url="https://mikanani.me/Download/20250924/cb600cdbb3840475991299d01b7bb159a3ef7b73.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 无职英雄 ～技能什么的毫无用处～ / Mushoku Eiyuu - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/af84106777dd50abb492b771bf0d578acb58ed53</link>
-			<title>[黒ネズミたち] 无职英雄 ～技能什么的毫无用处～ / Mushoku Eiyuu - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 无职英雄 ～技能什么的毫无用处～ / Mushoku Eiyuu - 01 (B-Global 1920x1080 HEVC AAC MKV)[301.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/af84106777dd50abb492b771bf0d578acb58ed53</link>
-				<contentLength>315726240</contentLength>
-				<pubDate>2025-09-24T21:01:23.628752</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="315726240" url="https://mikanani.me/Download/20250924/af84106777dd50abb492b771bf0d578acb58ed53.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/251235618cbef9a2671acba3b7a5acb9e0d4d1b8</link>
-			<title>[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 盾之勇者成名录 Season 4 / Tate no Yuusha no Nariagari Season 4 - 12 (CR 1920x1080 AVC AAC MKV)[958.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/251235618cbef9a2671acba3b7a5acb9e0d4d1b8</link>
-				<contentLength>1004745536</contentLength>
-				<pubDate>2025-09-24T20:34:17.945233</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1004745536" url="https://mikanani.me/Download/20250924/251235618cbef9a2671acba3b7a5acb9e0d4d1b8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 琉璃的宝石 / Ruri no Houseki - 12 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/13a5e4f389c714b8d5fb51970da2354d18e778bd</link>
-			<title>[黒ネズミたち] 琉璃的宝石 / Ruri no Houseki - 12 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 琉璃的宝石 / Ruri no Houseki - 12 (ABEMA 1280x720 AVC AAC MP4)[368.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/13a5e4f389c714b8d5fb51970da2354d18e778bd</link>
-				<contentLength>385875968</contentLength>
-				<pubDate>2025-09-24T20:30:43.40543</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385875968" url="https://mikanani.me/Download/20250924/13a5e4f389c714b8d5fb51970da2354d18e778bd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Tate no Yuusha no Nariagari /  盾之勇者成名录 Season 4 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/321acd64e6012fe1ce0296813bd0d7edd24e602f</link>
-			<title>[ANi] Tate no Yuusha no Nariagari /  盾之勇者成名录 Season 4 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Tate no Yuusha no Nariagari /  盾之勇者成名录 Season 4 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][517.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/321acd64e6012fe1ce0296813bd0d7edd24e602f</link>
-				<contentLength>542113792</contentLength>
-				<pubDate>2025-09-24T20:01:52.123214</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="542113792" url="https://mikanani.me/Download/20250924/321acd64e6012fe1ce0296813bd0d7edd24e602f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
