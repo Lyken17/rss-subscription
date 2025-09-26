@@ -952,5 +952,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6979321856" url="https://mikanani.me/Download/20250926/6b6c633bd8d91f09a5d3d09f8105a9d236453b17.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LastLight] よふかしのうた Season2 | 彻夜之歌 第二季 | Yofukashi no Uta Season 2 (WebRip 1080p AV1 繁体官字 Aliciä)</guid>
+			<link>https://mikanani.me/Home/Episode/1406145323e59c22d9b9cf94daae77a0b5360439</link>
+			<title>[LastLight] よふかしのうた Season2 | 彻夜之歌 第二季 | Yofukashi no Uta Season 2 (WebRip 1080p AV1 繁体官字 Aliciä)</title>
+			<description>[LastLight] よふかしのうた Season2 | 彻夜之歌 第二季 | Yofukashi no Uta Season 2 (WebRip 1080p AV1 繁体官字 Aliciä)[5.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1406145323e59c22d9b9cf94daae77a0b5360439</link>
+				<contentLength>5884105216</contentLength>
+				<pubDate>2025-09-26T18:19:31.032</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5884105216" url="https://mikanani.me/Download/20250926/1406145323e59c22d9b9cf94daae77a0b5360439.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
