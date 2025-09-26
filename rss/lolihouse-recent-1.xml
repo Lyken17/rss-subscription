@@ -148,5 +148,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="810706560" url="https://mikanani.me/Download/20250925/5f37bfafe4c83f645ff1252c3cafcf541cabac92.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8ad664f04c2bc3c6313dd28abb03149b008062a0</link>
+			<title>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Mizuzokusei no Mahoutsukai / 水属性的魔法师 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][384.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ad664f04c2bc3c6313dd28abb03149b008062a0</link>
+				<contentLength>403649344</contentLength>
+				<pubDate>2025-09-26T10:53:29.408</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="403649344" url="https://mikanani.me/Download/20250926/8ad664f04c2bc3c6313dd28abb03149b008062a0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
