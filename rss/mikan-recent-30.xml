@@ -30547,5 +30547,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="734003200" url="https://mikanani.me/Download/20250926/f55afa1b9e95f1a71390dee7899b2c06f9fcad72.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 少女编号 / Girlish Number / ガーリッシュ ナンバー 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5b56277bf62f0190fe666a1fa90837ca959e7b18</link>
+			<title>[VCB-Studio] 少女编号 / Girlish Number / ガーリッシュ ナンバー 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] 少女编号 / Girlish Number / ガーリッシュ ナンバー 10-bit 1080p HEVC BDRip [Reseed Fin][12.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b56277bf62f0190fe666a1fa90837ca959e7b18</link>
+				<contentLength>13636520960</contentLength>
+				<pubDate>2025-09-26T12:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13636520960" url="https://mikanani.me/Download/20250926/5b56277bf62f0190fe666a1fa90837ca959e7b18.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
