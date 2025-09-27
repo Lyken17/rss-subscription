@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 11 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/87c154532d88b5b632a8925352b239e511bc549a</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 11 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 11 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[1.19 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/87c154532d88b5b632a8925352b239e511bc549a</link>
+				<contentLength>1277752832</contentLength>
+				<pubDate>2025-09-27T16:30:06.172</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1277752832" url="https://mikanani.me/Download/20250927/87c154532d88b5b632a8925352b239e511bc549a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">仙宠[全18集][4K].Celestial.Bonds</guid>
 			<link>https://mikanani.me/Home/Episode/900ea40655029312812dfbe17b6a5d6a2f6b7e99</link>
 			<title>仙宠[全18集][4K].Celestial.Bonds</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-09-25T23:01:22.708669</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20250925/e624354fa688f524e48acba5ef97451b6d26fee2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Dr.STONE 新石纪 第四季 / Dr.STONE SCIENCE FUTURE Part 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/7cf7ee198e28f1d3accdd6f51eeaa5412547568b</link>
-			<title>[黒ネズミたち] Dr.STONE 新石纪 第四季 / Dr.STONE SCIENCE FUTURE Part 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Dr.STONE 新石纪 第四季 / Dr.STONE SCIENCE FUTURE Part 2 - 24 (ABEMA 1920x1080 AVC AAC MP4)[723.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7cf7ee198e28f1d3accdd6f51eeaa5412547568b</link>
-				<contentLength>758330176</contentLength>
-				<pubDate>2025-09-25T22:31:24.663882</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="758330176" url="https://mikanani.me/Download/20250925/7cf7ee198e28f1d3accdd6f51eeaa5412547568b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

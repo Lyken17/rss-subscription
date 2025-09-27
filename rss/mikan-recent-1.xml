@@ -880,5 +880,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="823729856" url="https://mikanani.me/Download/20250927/9a443df2d4d2b8242b6abca3b056603dac73bfcf.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 11 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/87c154532d88b5b632a8925352b239e511bc549a</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 11 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]超人 / 超人力霸王奥米加 / 奥美迦奥特曼 / Ultraman Omega - 11 [粤语+无字幕] (WEB 1920x1080 AVC AAC YUE)[1.19 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/87c154532d88b5b632a8925352b239e511bc549a</link>
+				<contentLength>1277752832</contentLength>
+				<pubDate>2025-09-27T16:30:06.172</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1277752832" url="https://mikanani.me/Download/20250927/87c154532d88b5b632a8925352b239e511bc549a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
