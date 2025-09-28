@@ -41,30 +41,6 @@
 			<enclosure type="application/x-bittorrent" length="767557632" url="https://mikanani.me/Download/20250921/56365050e377748b8a25fcda4a47070f0a621b5a.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Minimini Minini - 38 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/39131df09594dbd5352195d1115da848808010e2</link>
-			<title>[黒ネズミたち] Minimini Minini - 38 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Minimini Minini - 38 (ABEMA 1920x1080 AVC AAC MP4)[80.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/39131df09594dbd5352195d1115da848808010e2</link>
-				<contentLength>83990936</contentLength>
-				<pubDate>2025-09-21T07:22:21.353984</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="83990936" url="https://mikanani.me/Download/20250921/39131df09594dbd5352195d1115da848808010e2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d2522770eb06e1d5d824a880dab33e02a21d3fe1</link>
-			<title>[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 25 (ABEMA 1920x1080 AVC AAC MP4)[81.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d2522770eb06e1d5d824a880dab33e02a21d3fe1</link>
-				<contentLength>84934656</contentLength>
-				<pubDate>2025-09-21T07:17:21.176067</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="84934656" url="https://mikanani.me/Download/20250921/d2522770eb06e1d5d824a880dab33e02a21d3fe1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 33 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/95d9556721d6e2eca88431ab5bc913739568cf73</link>
 			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 33 (CR 1920x1080 AVC AAC MKV)</title>
@@ -6669,6 +6645,18 @@
 				<pubDate>2025-09-28T14:34:19.201</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350507488" url="https://mikanani.me/Download/20250928/c6910deb986404ef128037cb9e32e788b892d8f3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">(枪版)Chainsaw Man The Movie Reze Arc 2025 1080p HDTS x264-RGB</guid>
+			<link>https://mikanani.me/Home/Episode/18b335ff62988e8f7246f8ecb71e8224cf3aa7d9</link>
+			<title>(枪版)Chainsaw Man The Movie Reze Arc 2025 1080p HDTS x264-RGB</title>
+			<description>(枪版)Chainsaw Man The Movie Reze Arc 2025 1080p HDTS x264-RGB[6.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/18b335ff62988e8f7246f8ecb71e8224cf3aa7d9</link>
+				<contentLength>6871947776</contentLength>
+				<pubDate>2025-09-28T16:06:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6871947776" url="https://mikanani.me/Download/20250928/18b335ff62988e8f7246f8ecb71e8224cf3aa7d9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
