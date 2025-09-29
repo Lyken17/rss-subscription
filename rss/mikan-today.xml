@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 03 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/58647749bebeda0196de130d18629eaada4b94f4</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 03 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 03 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)[1.03 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/58647749bebeda0196de130d18629eaada4b94f4</link>
+				<contentLength>1105954048</contentLength>
+				<pubDate>2025-09-29T11:28:10.004</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1105954048" url="https://mikanani.me/Download/20250929/58647749bebeda0196de130d18629eaada4b94f4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 162 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/68b169f0bc37c04e097883d16d519453450ebac8</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 162 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-09-28T08:31:33.536327</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="767557632" url="https://mikanani.me/Download/20250928/14bfbb5fafd33dbec8e92072ccd07fa05bf9e158.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[樱桃花字幕组]彻夜之歌 第二季 Yofukashi no Uta Season 2 - 11 [1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/0010dcb4b4f51dd714a5edde04a700ee7de9cdd9</link>
-			<title>[樱桃花字幕组]彻夜之歌 第二季 Yofukashi no Uta Season 2 - 11 [1080p][简日内嵌]</title>
-			<description>[樱桃花字幕组]彻夜之歌 第二季 Yofukashi no Uta Season 2 - 11 [1080p][简日内嵌][332.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0010dcb4b4f51dd714a5edde04a700ee7de9cdd9</link>
-				<contentLength>348651520</contentLength>
-				<pubDate>2025-09-28T07:28:14.645184</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="348651520" url="https://mikanani.me/Download/20250928/0010dcb4b4f51dd714a5edde04a700ee7de9cdd9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
