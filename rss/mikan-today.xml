@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 怪兽8号 / Kaijuu 8-gou [13-23+保科的假期 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索用：怪兽8号 第二季)</guid>
+			<link>https://mikanani.me/Home/Episode/4893702d5672b4329cb99d5af3294024ac662819</link>
+			<title>[LoliHouse] 怪兽8号 / Kaijuu 8-gou [13-23+保科的假期 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索用：怪兽8号 第二季)</title>
+			<description>[LoliHouse] 怪兽8号 / Kaijuu 8-gou [13-23+保科的假期 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin](检索用：怪兽8号 第二季)[9.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4893702d5672b4329cb99d5af3294024ac662819</link>
+				<contentLength>10630043648</contentLength>
+				<pubDate>2025-09-29T22:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10630043648" url="https://mikanani.me/Download/20250929/4893702d5672b4329cb99d5af3294024ac662819.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[猎户压制部] 新石纪 第四季 科学与未来 / Dr.STONE：Science Future [24] [1080p] [繁日内嵌] [2025年7月番]</guid>
 			<link>https://mikanani.me/Home/Episode/0e93827ddb0cf6525e05d83465dfd9ce6f9fabc1</link>
 			<title>[猎户压制部] 新石纪 第四季 科学与未来 / Dr.STONE：Science Future [24] [1080p] [繁日内嵌] [2025年7月番]</title>
@@ -1227,18 +1239,6 @@
 				<pubDate>2025-09-28T13:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301255872" url="https://mikanani.me/Download/20250928/5b331aee1c5c47e27b0aed9b69a2873ea975d4d0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto [11][WebRip][HEVC_AAC][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/102c96e062e6ba951cf4659b417a300fba754815</link>
-			<title>[绿茶字幕组] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto [11][WebRip][HEVC_AAC][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto [11][WebRip][HEVC_AAC][1080p][繁日内嵌][537.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/102c96e062e6ba951cf4659b417a300fba754815</link>
-				<contentLength>563819328</contentLength>
-				<pubDate>2025-09-28T11:35:15.355</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="563819328" url="https://mikanani.me/Download/20250928/102c96e062e6ba951cf4659b417a300fba754815.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
