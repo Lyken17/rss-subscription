@@ -442,5 +442,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4724464128" url="https://mikanani.me/Download/20250928/b47ca5baab6811ed78411fc334be6d08ae0c049b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/e44a2880a672dccd773522a51b3cfe4e9afc5a11</link>
+			<title>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 光死去的夏天 / 光逝去的夏天 / Hikaru ga Shinda Natsu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][1.09 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e44a2880a672dccd773522a51b3cfe4e9afc5a11</link>
+				<contentLength>1170378624</contentLength>
+				<pubDate>2025-09-29T21:14:02.245</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1170378624" url="https://mikanani.me/Download/20250929/e44a2880a672dccd773522a51b3cfe4e9afc5a11.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/d9df565f3cfdfdd25eb5bf438e86625d1b43d3bb</link>
+			<title>[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 杀手旅店 / HOTEL INHUMANS - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][689.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d9df565f3cfdfdd25eb5bf438e86625d1b43d3bb</link>
+				<contentLength>723223808</contentLength>
+				<pubDate>2025-09-29T20:49:42.839</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="723223808" url="https://mikanani.me/Download/20250929/d9df565f3cfdfdd25eb5bf438e86625d1b43d3bb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
