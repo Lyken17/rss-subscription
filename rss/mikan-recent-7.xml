@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b97b7251244fadd706e0fe157c5f002b509cb023</link>
-			<title>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[SweetSub&amp;LoliHouse] 小城日常 / CITY THE ANIMATION - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][930MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b97b7251244fadd706e0fe157c5f002b509cb023</link>
-				<contentLength>975175680</contentLength>
-				<pubDate>2025-09-23T03:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="975175680" url="https://mikanani.me/Download/20250923/b97b7251244fadd706e0fe157c5f002b509cb023.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub][Bâan 家 —成年的分界线—][Bâan -The Boundaries of Adulthood-][WebRip][1080P][AVC 8bit][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/b0cb6518b6b4d25c66b588bfe600d67dacf6e5c3</link>
 			<title>[SweetSub][Bâan 家 —成年的分界线—][Bâan -The Boundaries of Adulthood-][WebRip][1080P][AVC 8bit][繁日双语]</title>
@@ -5409,6 +5397,18 @@
 				<pubDate>2025-09-30T11:00:23.698195</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390804288" url="https://mikanani.me/Download/20250930/7c5b0e3da8ea6920ea4e11d8aeeb31baf26546e9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b1336c7c711a804049d576e8ca16b1d544381609</link>
+			<title>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[135.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1336c7c711a804049d576e8ca16b1d544381609</link>
+				<contentLength>141767472</contentLength>
+				<pubDate>2025-09-30T12:00:53.749628</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="141767472" url="https://mikanani.me/Download/20250930/b1336c7c711a804049d576e8ca16b1d544381609.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

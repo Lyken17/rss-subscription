@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/74947445f586bab8e97bd3ff1b79a4fa387b1d43</link>
-			<title>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 暗芝居 第十五季 / Yami Shibai 15 - 12 (CR 1920x1080 AVC AAC MKV)[232.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74947445f586bab8e97bd3ff1b79a4fa387b1d43</link>
-				<contentLength>243689056</contentLength>
-				<pubDate>2025-09-29T03:46:31.397118</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="243689056" url="https://mikanani.me/Download/20250929/74947445f586bab8e97bd3ff1b79a4fa387b1d43.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 12 - [繁日内嵌][H264 8bit 1080P](检索：游乐场少女的异文化交流)</guid>
 			<link>https://mikanani.me/Home/Episode/1f2373051407ca81c03d1d9d9ea7dfd802cd85af</link>
 			<title>[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu - 12 - [繁日内嵌][H264 8bit 1080P](检索：游乐场少女的异文化交流)</title>
@@ -747,6 +735,18 @@
 				<pubDate>2025-09-30T11:00:23.698195</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390804288" url="https://mikanani.me/Download/20250930/7c5b0e3da8ea6920ea4e11d8aeeb31baf26546e9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b1336c7c711a804049d576e8ca16b1d544381609</link>
+			<title>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[135.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1336c7c711a804049d576e8ca16b1d544381609</link>
+				<contentLength>141767472</contentLength>
+				<pubDate>2025-09-30T12:00:53.749628</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="141767472" url="https://mikanani.me/Download/20250930/b1336c7c711a804049d576e8ca16b1d544381609.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

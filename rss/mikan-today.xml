@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b1336c7c711a804049d576e8ca16b1d544381609</link>
+			<title>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)[135.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1336c7c711a804049d576e8ca16b1d544381609</link>
+				<contentLength>141767472</contentLength>
+				<pubDate>2025-09-30T12:00:53.749628</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="141767472" url="https://mikanani.me/Download/20250930/b1336c7c711a804049d576e8ca16b1d544381609.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 50 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a9eeeebd35c961fcd1bbfa9cee00d325c78c0ee0</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 50 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-28T21:32:12.734897</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="408734912" url="https://mikanani.me/Download/20250928/8c032ba251f6f0f75111abe06773608514fd8266.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  异世界默示录麦诺格拉～从毁灭文明开始征服世界～ - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2b985a594de1160a87d91d709f1471845e864a3e</link>
-			<title>[ANi]  异世界默示录麦诺格拉～从毁灭文明开始征服世界～ - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  异世界默示录麦诺格拉～从毁灭文明开始征服世界～ - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][309.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2b985a594de1160a87d91d709f1471845e864a3e</link>
-				<contentLength>324009984</contentLength>
-				<pubDate>2025-09-28T21:31:38.006869</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="324009984" url="https://mikanani.me/Download/20250928/2b985a594de1160a87d91d709f1471845e864a3e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
