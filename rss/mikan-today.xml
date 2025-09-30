@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/249bc30843710cf713a180d6a52edd1570a5ef30</link>
+			<title>[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][14.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/249bc30843710cf713a180d6a52edd1570a5ef30</link>
+				<contentLength>15569256448</contentLength>
+				<pubDate>2025-10-01T02:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15569256448" url="https://mikanani.me/Download/20251001/249bc30843710cf713a180d6a52edd1570a5ef30.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/758918de42770ad5b99aff4d92eaa2081e6fb892</link>
 			<title>[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1191,30 +1203,6 @@
 				<pubDate>2025-09-29T03:17:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="302409312" url="https://mikanani.me/Download/20250929/772bf3e5bdba39f91eb3041e730bde1d33ace76e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 游乐场少女的异文化交流 [01-12][1080P][AVC AAC][CHT-EN][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f57c72e072886e9aefa5cecf538035d87a9eef07</link>
-			<title>[TOC] 游乐场少女的异文化交流 [01-12][1080P][AVC AAC][CHT-EN][MP4]</title>
-			<description>[TOC] 游乐场少女的异文化交流 [01-12][1080P][AVC AAC][CHT-EN][MP4][8.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f57c72e072886e9aefa5cecf538035d87a9eef07</link>
-				<contentLength>9019430912</contentLength>
-				<pubDate>2025-09-29T01:48:40.698379</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20250929/f57c72e072886e9aefa5cecf538035d87a9eef07.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 游乐场少女的异文化交流 [01-12][1080P][AVC AAC][CHT-EN][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f57c72e072886e9aefa5cecf538035d87a9eef07</link>
-			<title>[TOC] 游乐场少女的异文化交流 [01-12][1080P][AVC AAC][CHT-EN][MP4]</title>
-			<description>[TOC] 游乐场少女的异文化交流 [01-12][1080P][AVC AAC][CHT-EN][MP4][8.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f57c72e072886e9aefa5cecf538035d87a9eef07</link>
-				<contentLength>9019430912</contentLength>
-				<pubDate>2025-09-29T01:48:40.698379</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20250929/f57c72e072886e9aefa5cecf538035d87a9eef07.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

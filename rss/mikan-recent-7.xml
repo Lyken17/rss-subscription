@@ -5710,5 +5710,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="291399264" url="https://mikanani.me/Download/20250930/2f246a51fc2eef9876a9274151f64ddb7e2eec12.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/249bc30843710cf713a180d6a52edd1570a5ef30</link>
+			<title>[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 胆大党 第二季 - 01-12 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][14.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/249bc30843710cf713a180d6a52edd1570a5ef30</link>
+				<contentLength>15569256448</contentLength>
+				<pubDate>2025-10-01T02:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15569256448" url="https://mikanani.me/Download/20251001/249bc30843710cf713a180d6a52edd1570a5ef30.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
