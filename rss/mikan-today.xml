@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 13 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/7e624246879a70dcc9880b728a0aa24301ad9890</link>
+			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 13 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 13 (B-Global Donghua 1920x800 HEVC AAC MKV)[345.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7e624246879a70dcc9880b728a0aa24301ad9890</link>
+				<contentLength>362283008</contentLength>
+				<pubDate>2025-09-30T10:01:23.147116</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="362283008" url="https://mikanani.me/Download/20250930/7e624246879a70dcc9880b728a0aa24301ad9890.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][上半部分][WEBrip][1080P][简体内嵌]（全集修正）</guid>
 			<link>https://mikanani.me/Home/Episode/50e19334f9210fec16ed294463f7e8126d539bdf</link>
 			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][上半部分][WEBrip][1080P][简体内嵌]（全集修正）</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-28T21:31:17.457199</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="408420352" url="https://mikanani.me/Download/20250928/05f80c7792c51caba6415c7e7f4d7430eebf862f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 对我垂涎欲滴的非人少女 Watashi wo Tabetai Hitodenashi - 01 [WebRip 1080P AVC 8bit AAC MP4][繁体内嵌][请看bt站简介]</guid>
-			<link>https://mikanani.me/Home/Episode/47d4f24179a944aa489663b06c6493ff43e99522</link>
-			<title>[Prejudice-Studio] 对我垂涎欲滴的非人少女 Watashi wo Tabetai Hitodenashi - 01 [WebRip 1080P AVC 8bit AAC MP4][繁体内嵌][请看bt站简介]</title>
-			<description>[Prejudice-Studio] 对我垂涎欲滴的非人少女 Watashi wo Tabetai Hitodenashi - 01 [WebRip 1080P AVC 8bit AAC MP4][繁体内嵌][请看bt站简介][252.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/47d4f24179a944aa489663b06c6493ff43e99522</link>
-				<contentLength>264346016</contentLength>
-				<pubDate>2025-09-28T20:32:52.241391</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="264346016" url="https://mikanani.me/Download/20250928/47d4f24179a944aa489663b06c6493ff43e99522.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
