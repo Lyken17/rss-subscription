@@ -5,21 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 保龄球少女！ / Turkey!
- - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2f2c09834416e7983c422ea24512f05db0af707a</link>
-			<title>[LoliHouse] 保龄球少女！ / Turkey!
- - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 保龄球少女！ / Turkey!
- - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][651.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f2c09834416e7983c422ea24512f05db0af707a</link>
-				<contentLength>683577152</contentLength>
-				<pubDate>2025-08-31T10:47:24.416</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="683577152" url="https://mikanani.me/Download/20250831/2f2c09834416e7983c422ea24512f05db0af707a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/42b0fc990233ef2404f99abbadb968bca1b884d9</link>
 			<title>[LoliHouse] 9-nine- 支配者的王冠 / 9-nine- Ruler's Crown - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2319,6 +2304,18 @@
 				<pubDate>2025-09-30T18:04:37.832</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="408745408" url="https://mikanani.me/Download/20250930/9078d923eaf3bb1fc00adc3d6870b36b2ef7e573.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/693cfdd9f5fe585bf3c0d2e29bbe76f4e9ebb321</link>
+			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][320.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/693cfdd9f5fe585bf3c0d2e29bbe76f4e9ebb321</link>
+				<contentLength>336152480</contentLength>
+				<pubDate>2025-09-30T18:21:46.557</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="336152480" url="https://mikanani.me/Download/20250930/693cfdd9f5fe585bf3c0d2e29bbe76f4e9ebb321.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

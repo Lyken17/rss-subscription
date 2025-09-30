@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/693cfdd9f5fe585bf3c0d2e29bbe76f4e9ebb321</link>
+			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][320.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/693cfdd9f5fe585bf3c0d2e29bbe76f4e9ebb321</link>
+				<contentLength>336152480</contentLength>
+				<pubDate>2025-09-30T18:21:46.557</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="336152480" url="https://mikanani.me/Download/20250930/693cfdd9f5fe585bf3c0d2e29bbe76f4e9ebb321.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0a4b6a0bc2f2a8be254dfee65e8fab2d601645ef</link>
 			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-09-28T23:31:58.177</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="591281536" url="https://mikanani.me/Download/20250928/c566d875117270578e65e370231d71e33815dbff.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">1963_2000动画资源</guid>
-			<link>https://mikanani.me/Home/Episode/a6b8fb5f06f3d527244350892c99d7ee7e2541de</link>
-			<title>1963_2000动画资源</title>
-			<description>1963_2000动画资源[11.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a6b8fb5f06f3d527244350892c99d7ee7e2541de</link>
-				<contentLength>11848909</contentLength>
-				<pubDate>2025-09-28T23:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="11848909" url="https://mikanani.me/Download/20250928/a6b8fb5f06f3d527244350892c99d7ee7e2541de.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
