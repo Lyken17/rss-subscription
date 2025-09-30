@@ -418,5 +418,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="967175040" url="https://mikanani.me/Download/20250930/423d8716908e7852cbf42e00fab230a1f91b497f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 24 (明治篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/e8e9ac397a365bf334990774455dca204f5ba1f5</link>
+			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 24 (明治篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 24 (明治篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][277.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e8e9ac397a365bf334990774455dca204f5ba1f5</link>
+				<contentLength>290843520</contentLength>
+				<pubDate>2025-09-30T13:49:30.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="290843520" url="https://mikanani.me/Download/20250930/e8e9ac397a365bf334990774455dca204f5ba1f5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
