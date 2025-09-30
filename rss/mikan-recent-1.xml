@@ -856,5 +856,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="189582544" url="https://mikanani.me/Download/20250930/5746a22aee23d3d4e67db9bea53e901a120e735a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6f0db428fe64ecf00ebc1b19b92fc43798938f2a</link>
+			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 12 (ABEMA 1920x1080 AVC AAC MP4)[721.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6f0db428fe64ecf00ebc1b19b92fc43798938f2a</link>
+				<contentLength>756757312</contentLength>
+				<pubDate>2025-10-01T00:03:14.269865</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="756757312" url="https://mikanani.me/Download/20251001/6f0db428fe64ecf00ebc1b19b92fc43798938f2a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6f0db428fe64ecf00ebc1b19b92fc43798938f2a</link>
+			<title>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 水属性的魔法师 / Mizu Zokusei no Mahou Tsukai - 12 (ABEMA 1920x1080 AVC AAC MP4)[721.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6f0db428fe64ecf00ebc1b19b92fc43798938f2a</link>
+				<contentLength>756757312</contentLength>
+				<pubDate>2025-10-01T00:03:14.269865</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="756757312" url="https://mikanani.me/Download/20251001/6f0db428fe64ecf00ebc1b19b92fc43798938f2a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  涅库罗诺美子的宇宙恐怖秀 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/a79cc9cb98c843ae58414024443bb57411450539</link>
 			<title>[ANi]  涅库罗诺美子的宇宙恐怖秀 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-09-29T00:07:13.656661</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20250929/fbc62dab2250925edfbe4d326e664b7b1373b100.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 小城日常 / City the Animation [12][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/702ec3cc625c9e14c5204950852c3a63cfc6a628</link>
-			<title>[桜都字幕组] 小城日常 / City the Animation [12][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 小城日常 / City the Animation [12][1080p][简体内嵌][516.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/702ec3cc625c9e14c5204950852c3a63cfc6a628</link>
-				<contentLength>541191040</contentLength>
-				<pubDate>2025-09-29T00:05:24.135</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="541191040" url="https://mikanani.me/Download/20250929/702ec3cc625c9e14c5204950852c3a63cfc6a628.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
