@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 13 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7e624246879a70dcc9880b728a0aa24301ad9890</link>
-			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 13 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 13 (B-Global Donghua 1920x800 HEVC AAC MKV)[345.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7e624246879a70dcc9880b728a0aa24301ad9890</link>
-				<contentLength>362283008</contentLength>
-				<pubDate>2025-09-30T10:01:23.147116</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="362283008" url="https://mikanani.me/Download/20250930/7e624246879a70dcc9880b728a0aa24301ad9890.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 50 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a9eeeebd35c961fcd1bbfa9cee00d325c78c0ee0</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 50 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -867,6 +855,18 @@
 				<pubDate>2025-10-01T16:30:30.564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="544116544" url="https://mikanani.me/Download/20251001/e92d01338b9c2058f3669f9947ef9a69315fed59.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/a3215cba78848f1a8c993ad7546ec8ea1140b19a</link>
+			<title>[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4]</title>
+			<description>[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4][2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3215cba78848f1a8c993ad7546ec8ea1140b19a</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2025-10-01T18:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20251001/a3215cba78848f1a8c993ad7546ec8ea1140b19a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

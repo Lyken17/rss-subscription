@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b4720649eb458ea0a25b882874d7b771b7df8fa8</link>
-			<title>[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 魔女守护者 / Witch Watch [24][1080p][繁体内嵌][493.24 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b4720649eb458ea0a25b882874d7b771b7df8fa8</link>
-				<contentLength>517199616</contentLength>
-				<pubDate>2025-09-24T09:42:12.788</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="517199616" url="https://mikanani.me/Download/20250924/b4720649eb458ea0a25b882874d7b771b7df8fa8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/09ba2967c5e7947d0940bf7c7a8fe17703dfe382</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简体内嵌][493.52 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/09ba2967c5e7947d0940bf7c7a8fe17703dfe382</link>
-				<contentLength>517493216</contentLength>
-				<pubDate>2025-09-24T09:41:44.183</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="517493216" url="https://mikanani.me/Download/20250924/09ba2967c5e7947d0940bf7c7a8fe17703dfe382.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/66e5aef62d4daf797af0db74b7a6543fdbae1aa1</link>
-			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [24][1080p][简繁内封][395.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/66e5aef62d4daf797af0db74b7a6543fdbae1aa1</link>
-				<contentLength>414984448</contentLength>
-				<pubDate>2025-09-24T09:41:00.192</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="414984448" url="https://mikanani.me/Download/20250924/66e5aef62d4daf797af0db74b7a6543fdbae1aa1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/89d8c0edb6ed1b298011096eb1c14da85bc774ea</link>
 			<title>[星空字幕组&amp;VCB-Studio] 剧场版 五等分的新娘 / Eiga Go-Toubun no Hanayome / 映画 五等分の花嫁 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -5586,6 +5550,18 @@
 				<pubDate>2025-10-01T16:30:30.564</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="544116544" url="https://mikanani.me/Download/20251001/e92d01338b9c2058f3669f9947ef9a69315fed59.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/a3215cba78848f1a8c993ad7546ec8ea1140b19a</link>
+			<title>[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4]</title>
+			<description>[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4][2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3215cba78848f1a8c993ad7546ec8ea1140b19a</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2025-10-01T18:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20251001/a3215cba78848f1a8c993ad7546ec8ea1140b19a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

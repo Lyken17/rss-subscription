@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/a3215cba78848f1a8c993ad7546ec8ea1140b19a</link>
+			<title>[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4]</title>
+			<description>[c.c动漫][7月新番][异世界默示录麦诺格拉～从毁灭文明开始征服世界～][01-13][合集][BIG5][720P][MP4][2.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3215cba78848f1a8c993ad7546ec8ea1140b19a</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2025-10-01T18:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20251001/a3215cba78848f1a8c993ad7546ec8ea1140b19a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] Nukitashi The Animation / 住在拔作岛上的贫乳该如何是好？ - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/e92d01338b9c2058f3669f9947ef9a69315fed59</link>
 			<title>[LoliHouse] Nukitashi The Animation / 住在拔作岛上的贫乳该如何是好？ - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-09-29T23:01:13.686255</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="308491072" url="https://mikanani.me/Download/20250929/21847435b82785ade810e207b798cb032ef6ee22.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 胆大党 第二季 - 01-12 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5057c28f2c500f0fdab19825b134e239a7af9c64</link>
-			<title>[沸班亚马制作组] 胆大党 第二季 - 01-12 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 胆大党 第二季 - 01-12 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][18.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5057c28f2c500f0fdab19825b134e239a7af9c64</link>
-				<contentLength>19756849152</contentLength>
-				<pubDate>2025-09-29T22:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="19756849152" url="https://mikanani.me/Download/20250929/5057c28f2c500f0fdab19825b134e239a7af9c64.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
