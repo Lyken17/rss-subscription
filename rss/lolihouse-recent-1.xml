@@ -40,5 +40,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="466878464" url="https://mikanani.me/Download/20251001/b3eb8e66a805dc5191c45af34de14419e84e5534.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Let's Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e26e51e4a27120820db1a741c201598a79e61e40</link>
+			<title>[LoliHouse] Let's Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Let's Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][461.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e26e51e4a27120820db1a741c201598a79e61e40</link>
+				<contentLength>483812960</contentLength>
+				<pubDate>2025-10-02T23:07:34.178</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="483812960" url="https://mikanani.me/Download/20251002/e26e51e4a27120820db1a741c201598a79e61e40.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
