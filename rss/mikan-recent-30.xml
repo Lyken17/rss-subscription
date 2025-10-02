@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/74842281d4efa5deb0a488262d050b509c03d172</link>
-			<title>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 非人哉 第三季 / Non-human 3rd Season - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[132.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74842281d4efa5deb0a488262d050b509c03d172</link>
-				<contentLength>138621744</contentLength>
-				<pubDate>2025-09-02T12:00:54.422887</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="138621744" url="https://mikanani.me/Download/20250902/74842281d4efa5deb0a488262d050b509c03d172.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][14][GB][1080P HEVC]</guid>
 			<link>https://mikanani.me/Home/Episode/8513170a23138f24faa89a7800803baa7e91133b</link>
 			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][14][GB][1080P HEVC]</title>
@@ -28740,6 +28728,18 @@
 				<pubDate>2025-10-02T19:00:48.886795</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="87136664" url="https://mikanani.me/Download/20251002/ef07de7e7f98037248b1e1c655e8d4e9a6cfc5f5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
+			<title>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
+			<description>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语][3.63 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
+				<contentLength>3897682944</contentLength>
+				<pubDate>2025-10-02T19:42:55.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3897682944" url="https://mikanani.me/Download/20251002/c19654cb5bc21d5bd87279622e7f3e901a766c72.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

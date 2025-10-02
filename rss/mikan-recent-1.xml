@@ -928,5 +928,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="87136664" url="https://mikanani.me/Download/20251002/ef07de7e7f98037248b1e1c655e8d4e9a6cfc5f5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
+			<title>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
+			<description>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语][3.63 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
+				<contentLength>3897682944</contentLength>
+				<pubDate>2025-10-02T19:42:55.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3897682944" url="https://mikanani.me/Download/20251002/c19654cb5bc21d5bd87279622e7f3e901a766c72.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

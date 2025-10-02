@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
+			<title>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
+			<description>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语][3.63 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
+				<contentLength>3897682944</contentLength>
+				<pubDate>2025-10-02T19:42:55.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3897682944" url="https://mikanani.me/Download/20251002/c19654cb5bc21d5bd87279622e7f3e901a766c72.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1861be2b2635b4facfae588d985d0afaba6d80ff</link>
 			<title>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 01 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2025-10-01T02:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20251001/758918de42770ad5b99aff4d92eaa2081e6fb892.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/58854c9b749184e1d6919aa874926eee810f3be8</link>
-			<title>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 01 (CR 1920x1080 AVC AAC MKV)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58854c9b749184e1d6919aa874926eee810f3be8</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-10-01T01:38:27.469363</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251001/58854c9b749184e1d6919aa874926eee810f3be8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
