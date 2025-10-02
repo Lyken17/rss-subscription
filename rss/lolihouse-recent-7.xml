@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f1ac00d4605eb14fe2b38adad2075ec17ffe62bf</link>
-			<title>[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][493.77 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f1ac00d4605eb14fe2b38adad2075ec17ffe62bf</link>
-				<contentLength>517755360</contentLength>
-				<pubDate>2025-09-25T18:37:46.229</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="517755360" url="https://mikanani.me/Download/20250925/f1ac00d4605eb14fe2b38adad2075ec17ffe62bf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 阴阳回天 Re:Birth / Onmyo Kaiten Re:Birth Verse [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/2d5a693b2fed8515960531ef25e34729b1d661fc</link>
 			<title>[LoliHouse] 阴阳回天 Re:Birth / Onmyo Kaiten Re:Birth Verse [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -483,6 +471,18 @@
 				<pubDate>2025-10-03T01:16:07.239</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="60901296" url="https://mikanani.me/Download/20251003/94b2c6289a65d2c5d2dd585fe9cf9bb75cb93d52.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 永远的黄昏 / Towa no Yuugure - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bc17177e2799d4def832695d5731eef72a031cd5</link>
+			<title>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][438.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bc17177e2799d4def832695d5731eef72a031cd5</link>
+				<contentLength>459832032</contentLength>
+				<pubDate>2025-10-03T02:28:00.215</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="459832032" url="https://mikanani.me/Download/20251003/bc17177e2799d4def832695d5731eef72a031cd5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
