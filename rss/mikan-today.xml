@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] 五等分的新娘＊ / Go-Toubun no Hanayome SP2 / 五等分の花嫁＊ 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ff08f25148cc88f27530adc631a6af23b5a3e13e</link>
+			<title>[星空字幕组&amp;VCB-Studio] 五等分的新娘＊ / Go-Toubun no Hanayome SP2 / 五等分の花嫁＊ 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[星空字幕组&amp;VCB-Studio] 五等分的新娘＊ / Go-Toubun no Hanayome SP2 / 五等分の花嫁＊ 10-bit 1080p HEVC BDRip [Fin][7.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ff08f25148cc88f27530adc631a6af23b5a3e13e</link>
+				<contentLength>8267811840</contentLength>
+				<pubDate>2025-10-03T15:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8267811840" url="https://mikanani.me/Download/20251003/ff08f25148cc88f27530adc631a6af23b5a3e13e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Billion Meta Lab] 三连全中 Turkey! [09][1080P][HEVC-10bit][简繁日内封][检索：保龄球少女]</guid>
 			<link>https://mikanani.me/Home/Episode/3273c039b31f5ad06509b293efd8523cab3a8a3c</link>
 			<title>[Billion Meta Lab] 三连全中 Turkey! [09][1080P][HEVC-10bit][简繁日内封][检索：保龄球少女]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-01T23:01:34.874834</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="299578176" url="https://mikanani.me/Download/20251001/b6c99b63d061c409f618f63eab300bf3d9032b29.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2e5afb92f0bf34ca7fa9a8c8ff59e42282ff11ca</link>
-			<title>[黒ネズミたち] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 01 (Baha 1920x1080 AVC AAC MP4)[285.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2e5afb92f0bf34ca7fa9a8c8ff59e42282ff11ca</link>
-				<contentLength>299053888</contentLength>
-				<pubDate>2025-10-01T23:00:37.870741</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="299053888" url="https://mikanani.me/Download/20251001/2e5afb92f0bf34ca7fa9a8c8ff59e42282ff11ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
