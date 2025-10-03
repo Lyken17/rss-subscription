@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</guid>
-			<link>https://mikanani.me/Home/Episode/d8d5b241be22b87eac0059d6e33a115ed5289d9d</link>
-			<title>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}</title>
-			<description>与游戏中心的少女异文化交流的故事 ｜ 游乐场少女的异文化交流 - EP12 END [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {ゲーセン少女と异文化交流}[1.39 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8d5b241be22b87eac0059d6e33a115ed5289d9d</link>
-				<contentLength>1492501120</contentLength>
-				<pubDate>2025-10-02T04:11:00.095</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1492501120" url="https://mikanani.me/Download/20251002/d8d5b241be22b87eac0059d6e33a115ed5289d9d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 09 - [简繁日内封][H265 10bit 1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/ceb15f6e4470041557d5d38f91585055e27ca093</link>
-			<title>[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 09 - [简繁日内封][H265 10bit 1080P]</title>
-			<description>[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 09 - [简繁日内封][H265 10bit 1080P][469.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ceb15f6e4470041557d5d38f91585055e27ca093</link>
-				<contentLength>492620992</contentLength>
-				<pubDate>2025-10-02T04:00:09.600286</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="492620992" url="https://mikanani.me/Download/20251002/ceb15f6e4470041557d5d38f91585055e27ca093.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 09 - [繁日内嵌][H264 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/9ffdec0b0a94f4c2ef3b8bc2613527e56bea6223</link>
 			<title>[三明治摆烂组] 强者的新传说 / Tsuyokute New Saga / 强くてニューサーガ - 09 - [繁日内嵌][H264 8bit 1080P]</title>
@@ -759,6 +735,18 @@
 				<pubDate>2025-10-03T11:03:04.217117</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="669096320" url="https://mikanani.me/Download/20251003/6892fe6c28d1cb4aba7c175bf8f9f5407b7980fd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1142][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/410a3eef893698db61c451fe4e2463425a7ac051</link>
+			<title>[OPFansMaplesnow][one_piece][1142][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1142][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/410a3eef893698db61c451fe4e2463425a7ac051</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-10-03T11:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251003/410a3eef893698db61c451fe4e2463425a7ac051.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

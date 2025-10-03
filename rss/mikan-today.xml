@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1142][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/410a3eef893698db61c451fe4e2463425a7ac051</link>
+			<title>[OPFansMaplesnow][one_piece][1142][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1142][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/410a3eef893698db61c451fe4e2463425a7ac051</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-10-03T11:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251003/410a3eef893698db61c451fe4e2463425a7ac051.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/9dc677893e98c17cf052711f5d6ebdd05d08f23b</link>
 			<title>[黒ネズミたち] 百妖谱 洛阳篇 / Fairies Albums 5 - 12 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-10-01T20:30:29.860519</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="385771104" url="https://mikanani.me/Download/20251001/304c87ea2c1763c39ec8a39d8e8aefc4b222f471.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 租借女友 / Kanojo, Okarishimasu [37-48 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/4a65c1cf68e49a2ec2a6a28c762a5cc8d129842c</link>
-			<title>[LoliHouse] 租借女友 / Kanojo, Okarishimasu [37-48 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 租借女友 / Kanojo, Okarishimasu [37-48 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][6.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a65c1cf68e49a2ec2a6a28c762a5cc8d129842c</link>
-				<contentLength>7301444608</contentLength>
-				<pubDate>2025-10-01T20:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7301444608" url="https://mikanani.me/Download/20251001/4a65c1cf68e49a2ec2a6a28c762a5cc8d129842c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
