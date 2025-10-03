@@ -52,5 +52,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459832032" url="https://mikanani.me/Download/20251003/bc17177e2799d4def832695d5731eef72a031cd5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/867540955512a35c5481488cd41b24516abffeb2</link>
+			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][233.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/867540955512a35c5481488cd41b24516abffeb2</link>
+				<contentLength>245230464</contentLength>
+				<pubDate>2025-10-03T12:33:12.549</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="245230464" url="https://mikanani.me/Download/20251003/867540955512a35c5481488cd41b24516abffeb2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
