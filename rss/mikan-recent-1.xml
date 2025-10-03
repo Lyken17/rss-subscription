@@ -916,5 +916,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="224290400" url="https://mikanani.me/Download/20251003/909b9c03482ff8ab2c64d1bd71f880e56c3b20d9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/a614248268d799fecde8b52a929da511ede6f962</link>
+			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][繁日双语][574MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a614248268d799fecde8b52a929da511ede6f962</link>
+				<contentLength>601882624</contentLength>
+				<pubDate>2025-10-03T20:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="601882624" url="https://mikanani.me/Download/20251003/a614248268d799fecde8b52a929da511ede6f962.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/e0c11760440528629de8f187245976eb7cd7c4ca</link>
+			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][简日双语][574.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e0c11760440528629de8f187245976eb7cd7c4ca</link>
+				<contentLength>602406912</contentLength>
+				<pubDate>2025-10-03T20:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="602406912" url="https://mikanani.me/Download/20251003/e0c11760440528629de8f187245976eb7cd7c4ca.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

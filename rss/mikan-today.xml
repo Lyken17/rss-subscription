@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/a614248268d799fecde8b52a929da511ede6f962</link>
+			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][繁日双语][574MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a614248268d799fecde8b52a929da511ede6f962</link>
+				<contentLength>601882624</contentLength>
+				<pubDate>2025-10-03T20:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="601882624" url="https://mikanani.me/Download/20251003/a614248268d799fecde8b52a929da511ede6f962.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/e0c11760440528629de8f187245976eb7cd7c4ca</link>
+			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][13][1080p][简日双语][574.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e0c11760440528629de8f187245976eb7cd7c4ca</link>
+				<contentLength>602406912</contentLength>
+				<pubDate>2025-10-03T20:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="602406912" url="https://mikanani.me/Download/20251003/e0c11760440528629de8f187245976eb7cd7c4ca.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][12][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/465bfbb2980244b5f7dacdedbcdecea099e75e6c</link>
 			<title>【喵萌奶茶屋】★07月新番★[New PANTY and STOCKING with GARTERBELT][12][1080p][繁日双语]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-10-02T01:19:17.541835</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="634807936" url="https://mikanani.me/Download/20251002/d8e612d9c85af1ee826fb298f8abfe54c883fc2d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/fc316b0da40c90e0700a187c663a57591fcbbd75</link>
-			<title>[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 01 (Baha 1920x1080 AVC AAC MP4)[350.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fc316b0da40c90e0700a187c663a57591fcbbd75</link>
-				<contentLength>367525888</contentLength>
-				<pubDate>2025-10-02T01:16:25.346374</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="367525888" url="https://mikanani.me/Download/20251002/fc316b0da40c90e0700a187c663a57591fcbbd75.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f917cfd33f6023631695e71b5e3b676fba037b60</link>
-			<title>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][351.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f917cfd33f6023631695e71b5e3b676fba037b60</link>
-				<contentLength>368469600</contentLength>
-				<pubDate>2025-10-02T01:16:24.626129</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="368469600" url="https://mikanani.me/Download/20251002/f917cfd33f6023631695e71b5e3b676fba037b60.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
