@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ebabf2275535916f5d7bd2491759c8805cd1c590</link>
+			<title>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ebabf2275535916f5d7bd2491759c8805cd1c590</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-10-03T10:02:23.430489</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251003/ebabf2275535916f5d7bd2491759c8805cd1c590.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1030&amp;1031 空白的一年][HDTV][1080P][简体MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/e16090a462a102d8ee6ac843e316d20e9647f646</link>
 			<title>[APTX4869][CONAN][名侦探柯南 1030&amp;1031 空白的一年][HDTV][1080P][简体MP4]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-10-01T20:01:58.378289</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="304925888" url="https://mikanani.me/Download/20251001/1e95678e01bd4e7520ef019b9d419b8e8bbb8630.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 10 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/bdd06144f025412d6b4bdda275f7f406e279f70d</link>
-			<title>薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 10 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
-			<description>薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku - 10 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语][290.84 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bdd06144f025412d6b4bdda275f7f406e279f70d</link>
-				<contentLength>304967840</contentLength>
-				<pubDate>2025-10-01T20:01:50.738</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="304967840" url="https://mikanani.me/Download/20251001/bdd06144f025412d6b4bdda275f7f406e279f70d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
