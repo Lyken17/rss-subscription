@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">朋友的妹妹只喜欢烦我 ｜ 朋友的妹妹只缠著我 - EP01 [简／繁] (1080p H.264 AAC SRTx2) {友达の妹が俺にだけウザい}</guid>
+			<link>https://mikanani.me/Home/Episode/4bfaa98f4e74cf3060e7567ef8932db510a036f2</link>
+			<title>朋友的妹妹只喜欢烦我 ｜ 朋友的妹妹只缠著我 - EP01 [简／繁] (1080p H.264 AAC SRTx2) {友达の妹が俺にだけウザい}</title>
+			<description>朋友的妹妹只喜欢烦我 ｜ 朋友的妹妹只缠著我 - EP01 [简／繁] (1080p H.264 AAC SRTx2) {友达の妹が俺にだけウザい}[266.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4bfaa98f4e74cf3060e7567ef8932db510a036f2</link>
+				<contentLength>279812512</contentLength>
+				<pubDate>2025-10-04T06:24:59.338</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="279812512" url="https://mikanani.me/Download/20251004/4bfaa98f4e74cf3060e7567ef8932db510a036f2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/ff832d5636340f65082e086a016e0517538643c6</link>
 			<title>[H-Enc] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi (BDRip 1080p HEVC FLAC)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-10-02T23:30:09.292</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301885024" url="https://mikanani.me/Download/20251002/7346944e3ef096ef827c7682f7c69e40e70b2f75.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 元祖 小邦多利 元祖！バンドリちゃん - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8a157407010cd73803ebe9f659c64b00d8411ceb</link>
-			<title>[Prejudice-Studio] 元祖 小邦多利 元祖！バンドリちゃん - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
-			<description>[Prejudice-Studio] 元祖 小邦多利 元祖！バンドリちゃん - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][29.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8a157407010cd73803ebe9f659c64b00d8411ceb</link>
-				<contentLength>30723276</contentLength>
-				<pubDate>2025-10-02T23:26:33.003035</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="30723276" url="https://mikanani.me/Download/20251002/8a157407010cd73803ebe9f659c64b00d8411ceb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
