@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 27 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/bd81bc49ef3b959bc39a3e0cac174863d30b3981</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 27 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 27 (ABEMA 1920x1080 AVC AAC MP4)[331.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd81bc49ef3b959bc39a3e0cac174863d30b3981</link>
+				<contentLength>347078656</contentLength>
+				<pubDate>2025-10-05T07:12:43.939206</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347078656" url="https://mikanani.me/Download/20251005/bd81bc49ef3b959bc39a3e0cac174863d30b3981.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][01][简体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/0b54477b7811c3f89404e5ff06c0340cde62101f</link>
 			<title>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][01][简体][1080P][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-10-04T03:00:23.821672</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="68996304" url="https://mikanani.me/Download/20251004/64170fe1b2204f651ce0b69773a563f594441f12.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最后可以再拜托您一件事吗？ / Saihito - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f565e084cd384d383c642f3b71a61d97d9ecc8ca</link>
-			<title>[黒ネズミたち] 最后可以再拜托您一件事吗？ / Saihito - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 最后可以再拜托您一件事吗？ / Saihito - 01 (CR 1920x1080 AVC AAC MKV)[772.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f565e084cd384d383c642f3b71a61d97d9ecc8ca</link>
-				<contentLength>809710400</contentLength>
-				<pubDate>2025-10-04T02:55:53.780084</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="809710400" url="https://mikanani.me/Download/20251004/f565e084cd384d383c642f3b71a61d97d9ecc8ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
