@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 我的英雄学院 FINAL SEASON / Boku no Hero Academia: Final Season - 160 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/637459b06c428d58a0d05331dc04be6b7353557f</link>
+			<title>[黒ネズミたち] 我的英雄学院 FINAL SEASON / Boku no Hero Academia: Final Season - 160 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 我的英雄学院 FINAL SEASON / Boku no Hero Academia: Final Season - 160 (ABEMA 1920x1080 AVC AAC MP4)[716.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/637459b06c428d58a0d05331dc04be6b7353557f</link>
+				<contentLength>751199872</contentLength>
+				<pubDate>2025-10-04T20:58:37.479509</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="751199872" url="https://mikanani.me/Download/20251004/637459b06c428d58a0d05331dc04be6b7353557f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 婚戒物语 第二季 / Kekkon Yubiwa Monogatari II - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/28103d954fce0ef3bc8a5e8aa0951edf5f1d1598</link>
 			<title>[黒ネズミたち] 婚戒物语 第二季 / Kekkon Yubiwa Monogatari II - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-10-03T11:03:04.217117</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="669096320" url="https://mikanani.me/Download/20251003/6892fe6c28d1cb4aba7c175bf8f9f5407b7980fd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ebabf2275535916f5d7bd2491759c8805cd1c590</link>
-			<title>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ebabf2275535916f5d7bd2491759c8805cd1c590</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-10-03T10:02:23.430489</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251003/ebabf2275535916f5d7bd2491759c8805cd1c590.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
