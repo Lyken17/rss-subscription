@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 最强肉盾的迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku / 最强タンクの迷宫攻略 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/38a91eb2103b5e3886ea118d056ff84b64dfd96f</link>
+			<title>[VCB-Studio] 最强肉盾的迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku / 最强タンクの迷宫攻略 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 最强肉盾的迷宫攻略 / Saikyou Tank no Meikyuu Kouryaku / 最强タンクの迷宫攻略 10-bit 1080p HEVC BDRip [Fin][12.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38a91eb2103b5e3886ea118d056ff84b64dfd96f</link>
+				<contentLength>13099650048</contentLength>
+				<pubDate>2025-10-04T14:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13099650048" url="https://mikanani.me/Download/20251004/38a91eb2103b5e3886ea118d056ff84b64dfd96f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能“无限扭蛋”获得等级9999的伙伴 / Mugen Gacha - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/045579a8b5ae634cdcf97c9374dabeb0a5c30831</link>
 			<title>[LoliHouse] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能“无限扭蛋”获得等级9999的伙伴 / Mugen Gacha - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1215,18 +1227,6 @@
 				<pubDate>2025-10-03T01:16:20.894439</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="341940640" url="https://mikanani.me/Download/20251003/02876eaa2808bd71ea65b5fc3a41f809285bff7b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/07b3a3dda2f98d13fb2186920b6f7d5e3d9429a3</link>
-			<title>[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 01 (Baha 1920x1080 AVC AAC MP4)[325.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07b3a3dda2f98d13fb2186920b6f7d5e3d9429a3</link>
-				<contentLength>341626048</contentLength>
-				<pubDate>2025-10-03T01:16:14.157465</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="341626048" url="https://mikanani.me/Download/20251003/07b3a3dda2f98d13fb2186920b6f7d5e3d9429a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
