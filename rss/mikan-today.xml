@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][13][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/0c9b85f7beb1a053cd6e91b95e8a706dd578612f</link>
+			<title>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][13][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][13][1080p][简日双语][468.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c9b85f7beb1a053cd6e91b95e8a706dd578612f</link>
+				<contentLength>491750688</contentLength>
+				<pubDate>2025-10-07T04:33:28.057</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="491750688" url="https://mikanani.me/Download/20251007/0c9b85f7beb1a053cd6e91b95e8a706dd578612f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/a58c5ec491d83ae3cf949ee170aeb78d20c752ef</link>
 			<title>[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-05T23:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="357144992" url="https://mikanani.me/Download/20251005/154cee6b4d937ec7e3860b3b01dff728a1013b60.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 转生后的我成了英雄爸爸和精灵妈妈的女儿（仅限港澳台） Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/b09418b00178090b79ab07ddd289c183a6a9e06b</link>
-			<title>[Prejudice-Studio] 转生后的我成了英雄爸爸和精灵妈妈的女儿（仅限港澳台） Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封]</title>
-			<description>[Prejudice-Studio] 转生后的我成了英雄爸爸和精灵妈妈的女儿（仅限港澳台） Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封][328.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b09418b00178090b79ab07ddd289c183a6a9e06b</link>
-				<contentLength>344562080</contentLength>
-				<pubDate>2025-10-05T23:51:58.761532</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="344562080" url="https://mikanani.me/Download/20251005/b09418b00178090b79ab07ddd289c183a6a9e06b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
