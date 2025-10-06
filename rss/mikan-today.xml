@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a58c5ec491d83ae3cf949ee170aeb78d20c752ef</link>
+			<title>[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌][522.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a58c5ec491d83ae3cf949ee170aeb78d20c752ef</link>
+				<contentLength>547671232</contentLength>
+				<pubDate>2025-10-07T04:19:56.590237</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547671232" url="https://mikanani.me/Download/20251007/a58c5ec491d83ae3cf949ee170aeb78d20c752ef.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[芝士动物朋友] 青春笨蛋少年不做圣诞服女郎的梦 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai / 青春ブタ野郎はサンタクロースの梦を见ない [1-13][CR-WebRip 1080p HEVC AAC SRT][简繁内封]【Viu官译】（系列 猪头 不会 梦到 大学生篇）</guid>
 			<link>https://mikanani.me/Home/Episode/955e5a54bef5580bb6350f0d2a5bc30018579b7c</link>
 			<title>[芝士动物朋友] 青春笨蛋少年不做圣诞服女郎的梦 / Seishun Buta Yarou wa Santa Claus no Yume wo Minai / 青春ブタ野郎はサンタクロースの梦を见ない [1-13][CR-WebRip 1080p HEVC AAC SRT][简繁内封]【Viu官译】（系列 猪头 不会 梦到 大学生篇）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-05T23:51:58.761532</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="344562080" url="https://mikanani.me/Download/20251005/b09418b00178090b79ab07ddd289c183a6a9e06b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 无敌的我是英雄爸爸和精灵妈妈的女儿 Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/f1b09b1a2f013dab92c2cf7c641a0d52b10bf1bd</link>
-			<title>[Prejudice-Studio] 无敌的我是英雄爸爸和精灵妈妈的女儿 Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 无敌的我是英雄爸爸和精灵妈妈的女儿 Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][339.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f1b09b1a2f013dab92c2cf7c641a0d52b10bf1bd</link>
-				<contentLength>355467264</contentLength>
-				<pubDate>2025-10-05T23:47:05.861356</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="355467264" url="https://mikanani.me/Download/20251005/f1b09b1a2f013dab92c2cf7c641a0d52b10bf1bd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

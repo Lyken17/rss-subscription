@@ -6700,5 +6700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3650722304" url="https://mikanani.me/Download/20251007/955e5a54bef5580bb6350f0d2a5bc30018579b7c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a58c5ec491d83ae3cf949ee170aeb78d20c752ef</link>
+			<title>[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]末世二轮之旅 Touring After the Apocalypse - 1 [1080p][简日内嵌][522.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a58c5ec491d83ae3cf949ee170aeb78d20c752ef</link>
+				<contentLength>547671232</contentLength>
+				<pubDate>2025-10-07T04:19:56.590237</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547671232" url="https://mikanani.me/Download/20251007/a58c5ec491d83ae3cf949ee170aeb78d20c752ef.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
