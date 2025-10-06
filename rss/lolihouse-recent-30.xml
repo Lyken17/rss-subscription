@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/9b1c12e2c153027adafb58388562328542d67210</link>
-			<title>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 彻夜之歌 第二季 / Yofukashi no Uta S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][404.32 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b1c12e2c153027adafb58388562328542d67210</link>
-				<contentLength>423960256</contentLength>
-				<pubDate>2025-09-06T00:18:24.215</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="423960256" url="https://mikanani.me/Download/20250906/9b1c12e2c153027adafb58388562328542d67210.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f654e1b8fccb923b510832d09699d85dc45078b4</link>
 			<title>[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2283,6 +2271,18 @@
 				<pubDate>2025-10-05T23:25:01.18</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="800168320" url="https://mikanani.me/Download/20251005/34392b47bf42fc2d161005a3fd141db8525432e6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ef552f72a2b1e02adbd81eb2fffe76519cb9621c</link>
+			<title>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][434.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ef552f72a2b1e02adbd81eb2fffe76519cb9621c</link>
+				<contentLength>455931328</contentLength>
+				<pubDate>2025-10-06T07:53:38.622</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="455931328" url="https://mikanani.me/Download/20251006/ef552f72a2b1e02adbd81eb2fffe76519cb9621c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
