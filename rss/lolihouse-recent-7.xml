@@ -544,5 +544,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="14495514624" url="https://mikanani.me/Download/20251006/96738433a35a6d5a252e7fc5c747990e63bb8571.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 末世二轮之旅 /  / Shuumatsu Touring - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3a1fe4659e1bc15f072c5dbdb79efd74fe44ba70</link>
+			<title>[LoliHouse] 末世二轮之旅 /  / Shuumatsu Touring - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 末世二轮之旅 /  / Shuumatsu Touring - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][884.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a1fe4659e1bc15f072c5dbdb79efd74fe44ba70</link>
+				<contentLength>927738112</contentLength>
+				<pubDate>2025-10-06T22:07:10.7</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="927738112" url="https://mikanani.me/Download/20251006/3a1fe4659e1bc15f072c5dbdb79efd74fe44ba70.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
