@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 紫云寺家的兄弟姐妹 / Shiunji-ke no Kodomotachi (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/2231ef03d2d6944638d1816a29d804bf53ec4e8c</link>
+			<title>[H-Enc] 紫云寺家的兄弟姐妹 / Shiunji-ke no Kodomotachi (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 紫云寺家的兄弟姐妹 / Shiunji-ke no Kodomotachi (BDRip 1080p HEVC FLAC)[14.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2231ef03d2d6944638d1816a29d804bf53ec4e8c</link>
+				<contentLength>15461881856</contentLength>
+				<pubDate>2025-10-07T06:01:24.766737</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15461881856" url="https://mikanani.me/Download/20251007/2231ef03d2d6944638d1816a29d804bf53ec4e8c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][13][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/0c9b85f7beb1a053cd6e91b95e8a706dd578612f</link>
 			<title>【喵萌奶茶屋】★07月新番★[Silent Witch 沉默魔女的秘密 / サイレント・ウィッチ 沈黙の魔女の隠しごと / Silent Witch - Chinmoku no Majo no Kakushigoto][13][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-06T00:01:53.406673</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="431174464" url="https://mikanani.me/Download/20251006/6018aa0bf41c034b2b338fdc0af025b18c7a32dd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/154cee6b4d937ec7e3860b3b01dff728a1013b60</link>
-			<title>[Skymoon-Raws] Gachiakuta - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Gachiakuta - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][340.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/154cee6b4d937ec7e3860b3b01dff728a1013b60</link>
-				<contentLength>357144992</contentLength>
-				<pubDate>2025-10-05T23:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="357144992" url="https://mikanani.me/Download/20251005/154cee6b4d937ec7e3860b3b01dff728a1013b60.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
