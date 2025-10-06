@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 04 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/da4b3e5b503f0af6d62f8edcfc2234a5acd38264</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 04 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 04 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)[992.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da4b3e5b503f0af6d62f8edcfc2234a5acd38264</link>
+				<contentLength>1040323712</contentLength>
+				<pubDate>2025-10-06T15:29:49.712</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1040323712" url="https://mikanani.me/Download/20251006/da4b3e5b503f0af6d62f8edcfc2234a5acd38264.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Ao no Orchestra S02 /  蓝色管弦乐 第二季 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/5467273ffe2a7862396d17fdbbc2504b94b15323</link>
 			<title>[ANi] Ao no Orchestra S02 /  蓝色管弦乐 第二季 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1167,30 +1179,6 @@
 				<pubDate>2025-10-05T15:35:12.563845</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="10844792832" url="https://mikanani.me/Download/20251005/fd230f4e324c482c159967c99485d466fdc67b7e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 薰香花朵凛然绽放 [01-13][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/d124e98c3d316cf10bf70b574373484a1bda652e</link>
-			<title>[TOC] 薰香花朵凛然绽放 [01-13][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 薰香花朵凛然绽放 [01-13][1080P][AVC AAC][CHT][MP4][9.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d124e98c3d316cf10bf70b574373484a1bda652e</link>
-				<contentLength>9985799168</contentLength>
-				<pubDate>2025-10-05T15:14:32.471638</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9985799168" url="https://mikanani.me/Download/20251005/d124e98c3d316cf10bf70b574373484a1bda652e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[TOC] 薰香花朵凛然绽放 [01-13][1080P][AVC AAC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/d124e98c3d316cf10bf70b574373484a1bda652e</link>
-			<title>[TOC] 薰香花朵凛然绽放 [01-13][1080P][AVC AAC][CHT][MP4]</title>
-			<description>[TOC] 薰香花朵凛然绽放 [01-13][1080P][AVC AAC][CHT][MP4][9.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d124e98c3d316cf10bf70b574373484a1bda652e</link>
-				<contentLength>9985799168</contentLength>
-				<pubDate>2025-10-05T15:14:32.471638</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9985799168" url="https://mikanani.me/Download/20251005/d124e98c3d316cf10bf70b574373484a1bda652e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
