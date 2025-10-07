@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 盾之勇者成名录 第四季（仅限港澳台地区） Tate no Yuusha no Nariagari S4 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/d393f037d60ed41442fa091b454e09bcc5debe7b</link>
+			<title>[Prejudice-Studio] 盾之勇者成名录 第四季（仅限港澳台地区） Tate no Yuusha no Nariagari S4 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封]</title>
+			<description>[Prejudice-Studio] 盾之勇者成名录 第四季（仅限港澳台地区） Tate no Yuusha no Nariagari S4 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封][4.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d393f037d60ed41442fa091b454e09bcc5debe7b</link>
+				<contentLength>4509715456</contentLength>
+				<pubDate>2025-10-07T17:17:44.552057</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4509715456" url="https://mikanani.me/Download/20251007/d393f037d60ed41442fa091b454e09bcc5debe7b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【动漫国字幕组】★04月新番[赛马娘芦毛灰姑娘][14][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/fcf5b77ce6aa020427dc24e0377b8c6ac96803a5</link>
 			<title>【动漫国字幕组】★04月新番[赛马娘芦毛灰姑娘][14][1080P][简体][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-06T01:06:55.152928</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="166409008" url="https://mikanani.me/Download/20251006/b6935a8d2db08bf7ff8df25ad2c70987d610d0d7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e77e63503478a7aab8ede4f04ea5c38861738377</link>
-			<title>[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (B-Global 1920x1080 HEVC AAC MKV)[122.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e77e63503478a7aab8ede4f04ea5c38861738377</link>
-				<contentLength>128869992</contentLength>
-				<pubDate>2025-10-06T01:05:40.59019</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="128869992" url="https://mikanani.me/Download/20251006/e77e63503478a7aab8ede4f04ea5c38861738377.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
