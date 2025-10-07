@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 间谍过家家 第三季 - 01 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4c7ab29b4b5446baffc76fd0538f3cd88579f364</link>
+			<title>[沸班亚马制作组] 间谍过家家 第三季 - 01 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 间谍过家家 第三季 - 01 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][585.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4c7ab29b4b5446baffc76fd0538f3cd88579f364</link>
+				<contentLength>613626688</contentLength>
+				<pubDate>2025-10-08T06:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="613626688" url="https://mikanani.me/Download/20251008/4c7ab29b4b5446baffc76fd0538f3cd88579f364.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 01 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/7b1c365c8596787572d5fd6ff68db0bf203663b7</link>
 			<title>明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 01 [1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-07T00:01:15.02338</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="763782784" url="https://mikanani.me/Download/20251007/8140eb851fbca3aef13abbdc3b6a3994cdf548ca.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 3年Z组银八老师 / 3-nen Z-gumi Ginpachi-sensei - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c2ea7d84eee2036d03ea66aba48aeec063099075</link>
-			<title>[黒ネズミたち] 3年Z组银八老师 / 3-nen Z-gumi Ginpachi-sensei - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 3年Z组银八老师 / 3-nen Z-gumi Ginpachi-sensei - 01 (B-Global 1920x1080 HEVC AAC MKV)[377.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c2ea7d84eee2036d03ea66aba48aeec063099075</link>
-				<contentLength>395627712</contentLength>
-				<pubDate>2025-10-07T00:01:12.164929</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="395627712" url="https://mikanani.me/Download/20251007/c2ea7d84eee2036d03ea66aba48aeec063099075.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
