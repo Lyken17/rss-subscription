@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&amp;「给他们好看！」 - 01 [BILIBILI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3e1cac721bb9efcc3c3315d190aa850548077d45</link>
+			<title>[沸班亚马制作组] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&amp;「给他们好看！」 - 01 [BILIBILI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&amp;「给他们好看！」 - 01 [BILIBILI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][428.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3e1cac721bb9efcc3c3315d190aa850548077d45</link>
+				<contentLength>449629376</contentLength>
+				<pubDate>2025-10-07T08:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="449629376" url="https://mikanani.me/Download/20251007/3e1cac721bb9efcc3c3315d190aa850548077d45.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 紫云寺家的兄弟姐妹 / Shiunji-ke no Kodomotachi (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/2231ef03d2d6944638d1816a29d804bf53ec4e8c</link>
 			<title>[H-Enc] 紫云寺家的兄弟姐妹 / Shiunji-ke no Kodomotachi (BDRip 1080p HEVC FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-06T00:02:00.529768</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="431489024" url="https://mikanani.me/Download/20251006/bf39bab7bf34f65e2706f6b7e0801012e90cbe8b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/6018aa0bf41c034b2b338fdc0af025b18c7a32dd</link>
-			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 04 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 04 (Baha 1920x1080 AVC AAC MP4)[411.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6018aa0bf41c034b2b338fdc0af025b18c7a32dd</link>
-				<contentLength>431174464</contentLength>
-				<pubDate>2025-10-06T00:01:53.406673</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="431174464" url="https://mikanani.me/Download/20251006/6018aa0bf41c034b2b338fdc0af025b18c7a32dd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
