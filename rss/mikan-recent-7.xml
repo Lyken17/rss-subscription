@@ -6352,5 +6352,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309015360" url="https://mikanani.me/Download/20251007/396ee99495043f1e18c6797f624589307268fc4e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 51 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/2473435e4b2c263eb0f36ebc570b1f50e9b36fca</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 51 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 51 (B-Global Donghua 1920x1080 HEVC AAC MKV)[629.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2473435e4b2c263eb0f36ebc570b1f50e9b36fca</link>
+				<contentLength>659554304</contentLength>
+				<pubDate>2025-10-07T11:02:40.628651</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="659554304" url="https://mikanani.me/Download/20251007/2473435e4b2c263eb0f36ebc570b1f50e9b36fca.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

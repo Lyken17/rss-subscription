@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 51 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/2473435e4b2c263eb0f36ebc570b1f50e9b36fca</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 51 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 51 (B-Global Donghua 1920x1080 HEVC AAC MKV)[629.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2473435e4b2c263eb0f36ebc570b1f50e9b36fca</link>
+				<contentLength>659554304</contentLength>
+				<pubDate>2025-10-07T11:02:40.628651</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="659554304" url="https://mikanani.me/Download/20251007/2473435e4b2c263eb0f36ebc570b1f50e9b36fca.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 樱花大战 OVA / Sakura Taisen OVA / サクラ大戦 OVA 10-bit 1080p HEVC BDRip [OVAs Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/aeae277725acac64ad042ca83991f8f4fad1e359</link>
 			<title>[VCB-Studio] 樱花大战 OVA / Sakura Taisen OVA / サクラ大戦 OVA 10-bit 1080p HEVC BDRip [OVAs Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-06T00:29:37.705</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="18983755776" url="https://mikanani.me/Download/20251006/b119718c372025167a2b095eef06c8bae2b0d2b4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[晚街与灯][水属性的魔法师_Mizuzokusei no Mahoutsukai][WebRip][1080P_AVC_AAC][MP4][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/4f493c313594be0d34016369f472ecd4a6a81ac8</link>
-			<title>[晚街与灯][水属性的魔法师_Mizuzokusei no Mahoutsukai][WebRip][1080P_AVC_AAC][MP4][繁日内嵌]</title>
-			<description>[晚街与灯][水属性的魔法师_Mizuzokusei no Mahoutsukai][WebRip][1080P_AVC_AAC][MP4][繁日内嵌][2.85 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f493c313594be0d34016369f472ecd4a6a81ac8</link>
-				<contentLength>3060164096</contentLength>
-				<pubDate>2025-10-06T00:29:28.209</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3060164096" url="https://mikanani.me/Download/20251006/4f493c313594be0d34016369f472ecd4a6a81ac8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
