@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="969723072" url="https://mikanani.me/Download/20251007/fc5d78dee161cb57ec82359938800eb50841308a.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[豪盛文化][御兽王者上部][13DISC/VCDBIN/5.64GB]</guid>
-			<link>https://mikanani.me/Home/Episode/a87858bed2c82eb554596b4e721b09f0b1fc4d3c</link>
-			<title>[豪盛文化][御兽王者上部][13DISC/VCDBIN/5.64GB]</title>
-			<description>[豪盛文化][御兽王者上部][13DISC/VCDBIN/5.64GB][5.64 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a87858bed2c82eb554596b4e721b09f0b1fc4d3c</link>
-				<contentLength>6055903744</contentLength>
-				<pubDate>2025-10-07T13:35:37.773</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6055903744" url="https://mikanani.me/Download/20251007/a87858bed2c82eb554596b4e721b09f0b1fc4d3c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【动漫国字幕组】★04月新番[赛马娘芦毛灰姑娘][14][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/fcf5b77ce6aa020427dc24e0377b8c6ac96803a5</link>
 			<title>【动漫国字幕组】★04月新番[赛马娘芦毛灰姑娘][14][1080P][简体][MP4]</title>
@@ -1047,6 +1035,18 @@
 				<pubDate>2025-10-08T21:00:34.483301</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20251008/f14b65417e0557791d5dd1416281962ace14f794.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9ce42c8227b6ee14117c950b7589e2bf23c294d4</link>
+			<title>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)[591.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ce42c8227b6ee14117c950b7589e2bf23c294d4</link>
+				<contentLength>620547264</contentLength>
+				<pubDate>2025-10-08T21:55:34.755309</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="620547264" url="https://mikanani.me/Download/20251008/9ce42c8227b6ee14117c950b7589e2bf23c294d4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

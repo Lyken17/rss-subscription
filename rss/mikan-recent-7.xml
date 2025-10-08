@@ -6724,5 +6724,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20251008/f14b65417e0557791d5dd1416281962ace14f794.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9ce42c8227b6ee14117c950b7589e2bf23c294d4</link>
+			<title>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)[591.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ce42c8227b6ee14117c950b7589e2bf23c294d4</link>
+				<contentLength>620547264</contentLength>
+				<pubDate>2025-10-08T21:55:34.755309</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="620547264" url="https://mikanani.me/Download/20251008/9ce42c8227b6ee14117c950b7589e2bf23c294d4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
