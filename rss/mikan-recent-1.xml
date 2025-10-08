@@ -976,5 +976,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="400933504" url="https://mikanani.me/Download/20251008/8a379e30421c1c637d4eb997b328d55d5a820871.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 樱花大战 活动写真 / Sakura Taisen: Katsudou Shashin / サクラ大戦 活动写真 10-bit 1080p HEVC BDRip [MOVIE]</guid>
+			<link>https://mikanani.me/Home/Episode/4692a32bbf68376059d5f0eead9f4ed25fee10fc</link>
+			<title>[VCB-Studio] 樱花大战 活动写真 / Sakura Taisen: Katsudou Shashin / サクラ大戦 活动写真 10-bit 1080p HEVC BDRip [MOVIE]</title>
+			<description>[VCB-Studio] 樱花大战 活动写真 / Sakura Taisen: Katsudou Shashin / サクラ大戦 活动写真 10-bit 1080p HEVC BDRip [MOVIE][12.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4692a32bbf68376059d5f0eead9f4ed25fee10fc</link>
+				<contentLength>12884901888</contentLength>
+				<pubDate>2025-10-08T11:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12884901888" url="https://mikanani.me/Download/20251008/4692a32bbf68376059d5f0eead9f4ed25fee10fc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
