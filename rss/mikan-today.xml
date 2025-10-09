@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 不动声色的柏田与喜形于色的太田 / Kashiwada Ohta - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5d9c591f59ac80426230d666f4c72578864bbcc1</link>
+			<title>[黒ネズミたち] 不动声色的柏田与喜形于色的太田 / Kashiwada Ohta - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 不动声色的柏田与喜形于色的太田 / Kashiwada Ohta - 01 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5d9c591f59ac80426230d666f4c72578864bbcc1</link>
+				<contentLength>746795840</contentLength>
+				<pubDate>2025-10-09T21:00:39.185029</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20251009/5d9c591f59ac80426230d666f4c72578864bbcc1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/2bdfa9e7c720a92daacf3a083f9bbbef7dec9963</link>
 			<title>[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-10-08T01:36:15.733907</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="302514176" url="https://mikanani.me/Download/20251008/eb7693c4c603f193c09d630b24d2d5fe9cc71bfe.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/071e0458981eb89f6aa16aff6bc946fc7e8b4209</link>
-			<title>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 02 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 02 (Baha 1920x1080 AVC AAC MP4)[288.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/071e0458981eb89f6aa16aff6bc946fc7e8b4209</link>
-				<contentLength>302304448</contentLength>
-				<pubDate>2025-10-08T01:36:06.197811</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="302304448" url="https://mikanani.me/Download/20251008/071e0458981eb89f6aa16aff6bc946fc7e8b4209.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
