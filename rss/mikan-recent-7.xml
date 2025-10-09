@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
-			<title>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
-			<description>琉璃的宝石 / Ruri no Houseki [02-09][1080P][Bilibili][WEB-DL][AVC AAC][简日双语][3.63 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c19654cb5bc21d5bd87279622e7f3e901a766c72</link>
-				<contentLength>3897682944</contentLength>
-				<pubDate>2025-10-02T19:42:55.58</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3897682944" url="https://mikanani.me/Download/20251002/c19654cb5bc21d5bd87279622e7f3e901a766c72.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] My Awkward Senpai /  不中用的前辈。 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/4e865e1ffaa272d16723899d97a1267d8463a498</link>
 			<title>[ANi] My Awkward Senpai /  不中用的前辈。 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -7155,6 +7143,18 @@
 				<pubDate>2025-10-10T01:18:37.252076</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="333866592" url="https://mikanani.me/Download/20251010/c363281a18221d52cb6e2511ee171ac2bb753360.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f1fb92646a04cf7f189355c69f9446545967a0ed</link>
+			<title>[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][505.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1fb92646a04cf7f189355c69f9446545967a0ed</link>
+				<contentLength>530327808</contentLength>
+				<pubDate>2025-10-10T03:53:47.112</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="530327808" url="https://mikanani.me/Download/20251010/f1fb92646a04cf7f189355c69f9446545967a0ed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
