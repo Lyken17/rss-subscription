@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕社】笨蛋测验召唤兽1 第02集 GB_CN HEVC_opus 1080p 翻新版</guid>
+			<link>https://mikanani.me/Home/Episode/9d2bce95798ba777fece83757764fdf0df76c099</link>
+			<title>【极影字幕社】笨蛋测验召唤兽1 第02集 GB_CN HEVC_opus 1080p 翻新版</title>
+			<description>【极影字幕社】笨蛋测验召唤兽1 第02集 GB_CN HEVC_opus 1080p 翻新版[253.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9d2bce95798ba777fece83757764fdf0df76c099</link>
+				<contentLength>265772080</contentLength>
+				<pubDate>2025-10-09T17:42:53.717</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="265772080" url="https://mikanani.me/Download/20251009/9d2bce95798ba777fece83757764fdf0df76c099.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">神在囧途[第07集][4K].Eat.Around.the.Mortal.World</guid>
 			<link>https://mikanani.me/Home/Episode/4d57609c1f7945410a6300c6a8af3ca7440bc693</link>
 			<title>神在囧途[第07集][4K].Eat.Around.the.Mortal.World</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-10-07T23:31:26.915599</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435473600" url="https://mikanani.me/Download/20251007/d8e556827b5f92f0cf141dae275d471cb728c40a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 拥有超常技能的奇幻世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi 2 - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2007515aa3a72e40fc17880396500d85651cc7f1</link>
-			<title>[黒ネズミたち] 拥有超常技能的奇幻世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi 2 - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 拥有超常技能的奇幻世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi 2 - 01 (B-Global 1920x1080 HEVC AAC MKV)[387.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2007515aa3a72e40fc17880396500d85651cc7f1</link>
-				<contentLength>405903776</contentLength>
-				<pubDate>2025-10-07T23:31:14.794115</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="405903776" url="https://mikanani.me/Download/20251007/2007515aa3a72e40fc17880396500d85651cc7f1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
