@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4ec0b51f4d0376b7271c26073463ff465b864bb4</link>
+			<title>[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (ABEMA 1920x1080 AVC AAC MP4)[361.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4ec0b51f4d0376b7271c26073463ff465b864bb4</link>
+				<contentLength>378535936</contentLength>
+				<pubDate>2025-10-11T02:43:26.472978</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="378535936" url="https://mikanani.me/Download/20251011/4ec0b51f4d0376b7271c26073463ff465b864bb4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/32192c3d83f9db286c898a360cacc9b5652ed6aa</link>
 			<title>[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-09T23:08:18.19915</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="650955968" url="https://mikanani.me/Download/20251009/e5edfcc896093a22d383c0578785c3421c803b87.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/477b9f1da1f45c9fed0871f9150e12f0c898d5e0</link>
-			<title>[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 02 (ABEMA 1920x1080 AVC AAC MP4)[710.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/477b9f1da1f45c9fed0871f9150e12f0c898d5e0</link>
-				<contentLength>744698688</contentLength>
-				<pubDate>2025-10-09T23:00:39.20011</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="744698688" url="https://mikanani.me/Download/20251009/477b9f1da1f45c9fed0871f9150e12f0c898d5e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
