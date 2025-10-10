@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1030&amp;1031 空白的一年][HDTV][1080P][简体MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e16090a462a102d8ee6ac843e316d20e9647f646</link>
-			<title>[APTX4869][CONAN][名侦探柯南 1030&amp;1031 空白的一年][HDTV][1080P][简体MP4]</title>
-			<description>[APTX4869][CONAN][名侦探柯南 1030&amp;1031 空白的一年][HDTV][1080P][简体MP4][346.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e16090a462a102d8ee6ac843e316d20e9647f646</link>
-				<contentLength>363121856</contentLength>
-				<pubDate>2025-10-03T07:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="363121856" url="https://mikanani.me/Download/20251003/e16090a462a102d8ee6ac843e316d20e9647f646.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ebabf2275535916f5d7bd2491759c8805cd1c590</link>
 			<title>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 14 (CR 1920x1080 AVC AAC MKV)</title>
@@ -6831,6 +6819,42 @@
 				<pubDate>2025-10-10T15:00:08.027334</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="602522240" url="https://mikanani.me/Download/20251010/430c28bc6517df2720f1c039d94671869ac3eb37.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [25][1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/aa9e7ae0804763d4aadaf90df2bbcc0250cd28a5</link>
+			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [25][1080p][简繁内封]</title>
+			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [25][1080p][简繁内封][465.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aa9e7ae0804763d4aadaf90df2bbcc0250cd28a5</link>
+				<contentLength>487954848</contentLength>
+				<pubDate>2025-10-10T15:29:48.038</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="487954848" url="https://mikanani.me/Download/20251010/aa9e7ae0804763d4aadaf90df2bbcc0250cd28a5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女守护者 / Witch Watch [25][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/12e6e37f13ef8833fc39d9286a52738484f8fea4</link>
+			<title>[桜都字幕组] 魔女守护者 / Witch Watch [25][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] 魔女守护者 / Witch Watch [25][1080p][繁体内嵌][552.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12e6e37f13ef8833fc39d9286a52738484f8fea4</link>
+				<contentLength>579694784</contentLength>
+				<pubDate>2025-10-10T15:29:07.206</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="579694784" url="https://mikanani.me/Download/20251010/12e6e37f13ef8833fc39d9286a52738484f8fea4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔女与使魔 / Witch Watch [25][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/d1fb4312d161b6d1aa39963d7a8eccd41a3599f3</link>
+			<title>[桜都字幕组] 魔女与使魔 / Witch Watch [25][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 魔女与使魔 / Witch Watch [25][1080p][简体内嵌][552.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d1fb4312d161b6d1aa39963d7a8eccd41a3599f3</link>
+				<contentLength>579684288</contentLength>
+				<pubDate>2025-10-10T15:28:45.9</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="579684288" url="https://mikanani.me/Download/20251010/d1fb4312d161b6d1aa39963d7a8eccd41a3599f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
