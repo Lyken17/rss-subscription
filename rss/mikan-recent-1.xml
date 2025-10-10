@@ -1108,5 +1108,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="610166400" url="https://mikanani.me/Download/20251010/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/96b6e9709323d687d830ceee679fe7cceb783278</link>
+			<title>[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin][16.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/96b6e9709323d687d830ceee679fe7cceb783278</link>
+				<contentLength>17824114688</contentLength>
+				<pubDate>2025-10-10T12:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17824114688" url="https://mikanani.me/Download/20251010/96b6e9709323d687d830ceee679fe7cceb783278.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][02][1080p HEVC][CHT][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/8805933f3ef20eb6117131384a0cc8d0433b9ae7</link>
+			<title>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][02][1080p HEVC][CHT][繁体内嵌]</title>
+			<description>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][02][1080p HEVC][CHT][繁体内嵌][39.39 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8805933f3ef20eb6117131384a0cc8d0433b9ae7</link>
+				<contentLength>41303408</contentLength>
+				<pubDate>2025-10-10T12:19:24.494</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="41303408" url="https://mikanani.me/Download/20251010/8805933f3ef20eb6117131384a0cc8d0433b9ae7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][02][1080p HEVC][CHS][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/24b87288b7dd1885f701c6eea0baace8527b0f7b</link>
+			<title>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][02][1080p HEVC][CHS][简体内嵌]</title>
+			<description>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][02][1080p HEVC][CHS][简体内嵌][39.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/24b87288b7dd1885f701c6eea0baace8527b0f7b</link>
+				<contentLength>41114664</contentLength>
+				<pubDate>2025-10-10T12:19:07.229</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="41114664" url="https://mikanani.me/Download/20251010/24b87288b7dd1885f701c6eea0baace8527b0f7b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
