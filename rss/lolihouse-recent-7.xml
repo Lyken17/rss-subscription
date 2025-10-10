@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 永远的黄昏 / Towa no Yuugure - 00 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7346944e3ef096ef827c7682f7c69e40e70b2f75</link>
-			<title>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 00 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 00 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][287.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7346944e3ef096ef827c7682f7c69e40e70b2f75</link>
-				<contentLength>301885024</contentLength>
-				<pubDate>2025-10-02T23:30:09.292</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="301885024" url="https://mikanani.me/Download/20251002/7346944e3ef096ef827c7682f7c69e40e70b2f75.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/94b2c6289a65d2c5d2dd585fe9cf9bb75cb93d52</link>
-			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][58.08 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/94b2c6289a65d2c5d2dd585fe9cf9bb75cb93d52</link>
-				<contentLength>60901296</contentLength>
-				<pubDate>2025-10-03T01:16:07.239</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="60901296" url="https://mikanani.me/Download/20251003/94b2c6289a65d2c5d2dd585fe9cf9bb75cb93d52.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 永远的黄昏 / Towa no Yuugure - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/bc17177e2799d4def832695d5731eef72a031cd5</link>
 			<title>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -579,6 +555,18 @@
 				<pubDate>2025-10-10T03:53:47.112</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="530327808" url="https://mikanani.me/Download/20251010/f1fb92646a04cf7f189355c69f9446545967a0ed.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/36c62f16069e596507719d04da5c5ce5b889b196</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][465.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/36c62f16069e596507719d04da5c5ce5b889b196</link>
+				<contentLength>488584000</contentLength>
+				<pubDate>2025-10-10T09:17:32.984</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="488584000" url="https://mikanani.me/Download/20251010/36c62f16069e596507719d04da5c5ce5b889b196.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

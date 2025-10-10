@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/36c62f16069e596507719d04da5c5ce5b889b196</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][465.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/36c62f16069e596507719d04da5c5ce5b889b196</link>
+				<contentLength>488584000</contentLength>
+				<pubDate>2025-10-10T09:17:32.984</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="488584000" url="https://mikanani.me/Download/20251010/36c62f16069e596507719d04da5c5ce5b889b196.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f1fb92646a04cf7f189355c69f9446545967a0ed</link>
 			<title>[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-09T00:01:12.989359</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="585210240" url="https://mikanani.me/Download/20251009/aaeba8ddeb2a9091552962c1a5bd41eb388aeac2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e7915eea3eda0e4632040589faa614ed0cabad52</link>
-			<title>[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 01 (B-Global 1920x1080 HEVC AAC MKV)[428.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e7915eea3eda0e4632040589faa614ed0cabad52</link>
-				<contentLength>449209952</contentLength>
-				<pubDate>2025-10-09T00:01:10.044033</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="449209952" url="https://mikanani.me/Download/20251009/e7915eea3eda0e4632040589faa614ed0cabad52.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
