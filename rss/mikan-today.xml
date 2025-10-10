@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12</link>
+			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)[581.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12</link>
+				<contentLength>610166400</contentLength>
+				<pubDate>2025-10-10T11:02:35.700328</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="610166400" url="https://mikanani.me/Download/20251010/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 15 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7157c96ccd14856dcac40ac864738e5d1659b010</link>
 			<title>[黒ネズミたち] 龙族II 悼亡者之瞳 / Dragon Raja Season 2 - 15 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-09T01:05:19.175418</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="110205336" url="https://mikanani.me/Download/20251009/40f3f06c1940589bfd187a2d68cdc9f76a03d97b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  龙族II 悼亡者之瞳 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/3fdd20a8760d98e7b128e09bb1539ce61f1b8e3c</link>
-			<title>[ANi]  龙族II 悼亡者之瞳 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  龙族II 悼亡者之瞳 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][902.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3fdd20a8760d98e7b128e09bb1539ce61f1b8e3c</link>
-				<contentLength>946130112</contentLength>
-				<pubDate>2025-10-09T01:01:48.952814</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="946130112" url="https://mikanani.me/Download/20251009/3fdd20a8760d98e7b128e09bb1539ce61f1b8e3c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

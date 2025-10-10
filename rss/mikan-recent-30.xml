@@ -28213,5 +28213,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="712633216" url="https://mikanani.me/Download/20251010/e4b7bd85ad1ca0af7b76b535b000f78eed87981f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12</link>
+			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)[581.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12</link>
+				<contentLength>610166400</contentLength>
+				<pubDate>2025-10-10T11:02:35.700328</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="610166400" url="https://mikanani.me/Download/20251010/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
