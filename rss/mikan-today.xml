@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/430c28bc6517df2720f1c039d94671869ac3eb37</link>
+			<title>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌]</title>
+			<description>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌][574.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/430c28bc6517df2720f1c039d94671869ac3eb37</link>
+				<contentLength>602522240</contentLength>
+				<pubDate>2025-10-10T15:00:08.027334</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="602522240" url="https://mikanani.me/Download/20251010/430c28bc6517df2720f1c039d94671869ac3eb37.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/96b6e9709323d687d830ceee679fe7cceb783278</link>
 			<title>[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-09T02:20:57.082454</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251009/7ddadad2f57e333163d9bca742da7d3c971fb450.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/67ec96519f51792ea31f870aba60c8ad970203d3</link>
-			<title>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][315.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/67ec96519f51792ea31f870aba60c8ad970203d3</link>
-				<contentLength>331035456</contentLength>
-				<pubDate>2025-10-09T01:41:17.304351</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="331035456" url="https://mikanani.me/Download/20251009/67ec96519f51792ea31f870aba60c8ad970203d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

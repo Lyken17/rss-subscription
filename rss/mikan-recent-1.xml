@@ -1108,5 +1108,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="41114664" url="https://mikanani.me/Download/20251010/24b87288b7dd1885f701c6eea0baace8527b0f7b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/430c28bc6517df2720f1c039d94671869ac3eb37</link>
+			<title>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌]</title>
+			<description>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌][574.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/430c28bc6517df2720f1c039d94671869ac3eb37</link>
+				<contentLength>602522240</contentLength>
+				<pubDate>2025-10-10T15:00:08.027334</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="602522240" url="https://mikanani.me/Download/20251010/430c28bc6517df2720f1c039d94671869ac3eb37.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
