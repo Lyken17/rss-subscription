@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 09.5 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e12fbd4305d4ba72431f5333e5e620184bf06011</link>
+			<title>[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 09.5 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 沉默魔女 沉默魔女的秘密 Silent Witch - 09.5 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][375.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e12fbd4305d4ba72431f5333e5e620184bf06011</link>
+				<contentLength>393320864</contentLength>
+				<pubDate>2025-10-10T19:03:57.499329</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="393320864" url="https://mikanani.me/Download/20251010/e12fbd4305d4ba72431f5333e5e620184bf06011.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8ffb6866c2ace4c60bf733a75b204887d0ae0ddb</link>
 			<title>[ANi]  卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-09T09:27:30.877</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="438000672" url="https://mikanani.me/Download/20251009/d32888e83dc64387330f8025cd8bc841dcd27cdc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春&amp;MingYSub❀] 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi - 01 [WebRip][HEVC-10bit 1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/d8b5993c06b78b125e9ce86d8df1f57b4e2880c1</link>
-			<title>[❀拨雪寻春&amp;MingYSub❀] 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi - 01 [WebRip][HEVC-10bit 1080p][简日内嵌]</title>
-			<description>[❀拨雪寻春&amp;MingYSub❀] 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi - 01 [WebRip][HEVC-10bit 1080p][简日内嵌][417.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8b5993c06b78b125e9ce86d8df1f57b4e2880c1</link>
-				<contentLength>438011168</contentLength>
-				<pubDate>2025-10-09T09:27:14.825</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="438011168" url="https://mikanani.me/Download/20251009/d8b5993c06b78b125e9ce86d8df1f57b4e2880c1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
