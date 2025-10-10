@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][14v3][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/e286c2777db2111eecf0c6b575f1163469b50c82</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][14v3][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][14v3][WEBrip][1080P][简体内嵌][359.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e286c2777db2111eecf0c6b575f1163469b50c82</link>
+				<contentLength>376543648</contentLength>
+				<pubDate>2025-10-11T03:51:12.607318</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="376543648" url="https://mikanani.me/Download/20251011/e286c2777db2111eecf0c6b575f1163469b50c82.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4ec0b51f4d0376b7271c26073463ff465b864bb4</link>
 			<title>[黒ネズミたち] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-09T23:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="860042048" url="https://mikanani.me/Download/20251009/297d8f7ef218fad10735123acdd740f1152eb6da.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[学院部＆不鸽] 我的英雄学院 最终季 / Boku no Hero Academia Final Season [01] [1080p] [繁日内嵌] [2025年10月番] [招募时轴]</guid>
-			<link>https://mikanani.me/Home/Episode/e5edfcc896093a22d383c0578785c3421c803b87</link>
-			<title>[学院部＆不鸽] 我的英雄学院 最终季 / Boku no Hero Academia Final Season [01] [1080p] [繁日内嵌] [2025年10月番] [招募时轴]</title>
-			<description>[学院部＆不鸽] 我的英雄学院 最终季 / Boku no Hero Academia Final Season [01] [1080p] [繁日内嵌] [2025年10月番] [招募时轴][620.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e5edfcc896093a22d383c0578785c3421c803b87</link>
-				<contentLength>650955968</contentLength>
-				<pubDate>2025-10-09T23:08:18.19915</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="650955968" url="https://mikanani.me/Download/20251009/e5edfcc896093a22d383c0578785c3421c803b87.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
