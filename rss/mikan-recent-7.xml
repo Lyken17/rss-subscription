@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1142][1080p]周日版</guid>
-			<link>https://mikanani.me/Home/Episode/410a3eef893698db61c451fe4e2463425a7ac051</link>
-			<title>[OPFansMaplesnow][one_piece][1142][1080p]周日版</title>
-			<description>[OPFansMaplesnow][one_piece][1142][1080p]周日版[1.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/410a3eef893698db61c451fe4e2463425a7ac051</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2025-10-03T11:48:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251003/410a3eef893698db61c451fe4e2463425a7ac051.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][01][1080p HEVC][CHT][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/54b81dd3088945a01667d1b36ecd97ed5f1b72bc</link>
 			<title>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][01][1080p HEVC][CHT][繁体内嵌]</title>
@@ -39,18 +27,6 @@
 				<pubDate>2025-10-03T12:40:41.638</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="47175436" url="https://mikanani.me/Download/20251003/421da0df83ed8a4ea7b81ed70aa75f7da261c738.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/867540955512a35c5481488cd41b24516abffeb2</link>
-			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][233.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/867540955512a35c5481488cd41b24516abffeb2</link>
-				<contentLength>245230464</contentLength>
-				<pubDate>2025-10-03T12:33:12.549</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="245230464" url="https://mikanani.me/Download/20251003/867540955512a35c5481488cd41b24516abffeb2.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[Billion Meta Lab] 三连全中 Turkey! [09][1080P][HEVC-10bit][简繁日内封][检索：保龄球少女]</guid>
@@ -6879,6 +6855,18 @@
 				<pubDate>2025-10-10T19:03:57.499329</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="393320864" url="https://mikanani.me/Download/20251010/e12fbd4305d4ba72431f5333e5e620184bf06011.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 歌声是千层派 Utagoe wa Mille-Feuille - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/57d6c163964bed10dd4ea5db30e9ae968dd58940</link>
+			<title>[Prejudice-Studio] 歌声是千层派 Utagoe wa Mille-Feuille - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
+			<description>[Prejudice-Studio] 歌声是千层派 Utagoe wa Mille-Feuille - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][232.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/57d6c163964bed10dd4ea5db30e9ae968dd58940</link>
+				<contentLength>243898784</contentLength>
+				<pubDate>2025-10-10T20:02:33.190109</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="243898784" url="https://mikanani.me/Download/20251010/57d6c163964bed10dd4ea5db30e9ae968dd58940.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
