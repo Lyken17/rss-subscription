@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 08 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c911afa0cd8fc3c3e0b9dd5711159e7e5a66e6dd</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 08 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 忍者与杀手的两人生活 / Ninja to Koroshiya no Futarigurashi - 08 [WebRip 1080p HEVC-10bit AAC ASSx2][简繁日内封字幕][474.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c911afa0cd8fc3c3e0b9dd5711159e7e5a66e6dd</link>
+				<contentLength>497622720</contentLength>
+				<pubDate>2025-10-11T18:15:45.109</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="497622720" url="https://mikanani.me/Download/20251011/c911afa0cd8fc3c3e0b9dd5711159e7e5a66e6dd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[盲僧自购][豪盛文化发行][果宝特攻第一部][4DISC][DVDISO]</guid>
 			<link>https://mikanani.me/Home/Episode/2085cced591f0815f02ad35fdd330ec89c33e139</link>
 			<title>[盲僧自购][豪盛文化发行][果宝特攻第一部][4DISC][DVDISO]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-10-10T18:01:34.889603</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="423834432" url="https://mikanani.me/Download/20251010/8ffb6866c2ace4c60bf733a75b204887d0ae0ddb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 12 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1b451b0172b12ad0f07a5bedc3dad30f73420a90</link>
-			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 12 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第四季「DELUXE 决胜篇」 / Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen - 12 (Baha 1920x1080 AVC AAC MP4)[403.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1b451b0172b12ad0f07a5bedc3dad30f73420a90</link>
-				<contentLength>423310144</contentLength>
-				<pubDate>2025-10-10T18:01:25.710687</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="423310144" url="https://mikanani.me/Download/20251010/1b451b0172b12ad0f07a5bedc3dad30f73420a90.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
