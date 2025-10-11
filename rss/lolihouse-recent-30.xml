@@ -2365,5 +2365,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="216740656" url="https://mikanani.me/Download/20251011/c7b8c6f463679a1f907e95b40b188c7d5a14febf.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f2340bae48a4c7eae1421190d603d4c889d490b7</link>
+			<title>[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][179.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f2340bae48a4c7eae1421190d603d4c889d490b7</link>
+				<contentLength>187904816</contentLength>
+				<pubDate>2025-10-11T12:38:17.846</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="187904816" url="https://mikanani.me/Download/20251011/f2340bae48a4c7eae1421190d603d4c889d490b7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
