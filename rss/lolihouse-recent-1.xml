@@ -148,5 +148,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="552882688" url="https://mikanani.me/Download/20251012/d24bb0eb7d59de805f9dc8622f5450c0a3ec654b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 26 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/5c1196060134e35b899ed6d017efbf977ee7141b</link>
+			<title>[LoliHouse] Princess-Session Orchestra - 26 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra - 26 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[840.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5c1196060134e35b899ed6d017efbf977ee7141b</link>
+				<contentLength>880824832</contentLength>
+				<pubDate>2025-10-13T00:20:12.184</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="880824832" url="https://mikanani.me/Download/20251013/5c1196060134e35b899ed6d017efbf977ee7141b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
