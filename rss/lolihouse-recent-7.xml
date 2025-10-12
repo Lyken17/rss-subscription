@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cd76f29b33087255d8b8e77895bc6b8779d0a154</link>
-			<title>[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][717.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cd76f29b33087255d8b8e77895bc6b8779d0a154</link>
-				<contentLength>752678336</contentLength>
-				<pubDate>2025-10-05T22:34:16.601</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="752678336" url="https://mikanani.me/Download/20251005/cd76f29b33087255d8b8e77895bc6b8779d0a154.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/711f520981a2ccbba23f832c202121a4e5bfd038</link>
 			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -663,6 +651,18 @@
 				<pubDate>2025-10-13T00:20:12.184</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="880824832" url="https://mikanani.me/Download/20251013/5c1196060134e35b899ed6d017efbf977ee7141b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c7a23e605d9d79f5691ec86753c324af1366763e</link>
+			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][706.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c7a23e605d9d79f5691ec86753c324af1366763e</link>
+				<contentLength>740315648</contentLength>
+				<pubDate>2025-10-13T06:38:43.014</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="740315648" url="https://mikanani.me/Download/20251013/c7a23e605d9d79f5691ec86753c324af1366763e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
