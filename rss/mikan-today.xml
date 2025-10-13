@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [15][WebRip][HEVC_AAC][简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/2cbbb64bfb44224327deb618ca08faa7f4c65fac</link>
+			<title>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [15][WebRip][HEVC_AAC][简日内封]</title>
+			<description>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [15][WebRip][HEVC_AAC][简日内封][469.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2cbbb64bfb44224327deb618ca08faa7f4c65fac</link>
+				<contentLength>492620992</contentLength>
+				<pubDate>2025-10-13T18:41:48.291207</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="492620992" url="https://mikanani.me/Download/20251013/2cbbb64bfb44224327deb618ca08faa7f4c65fac.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我 / 友达の妹が俺にだけウザい / IMOUZA - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/bdaaffea9751502665498c99dc0360fa86e58925</link>
 			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我 / 友达の妹が俺にだけウザい / IMOUZA - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-12T14:55:36.351</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="540771584" url="https://mikanani.me/Download/20251012/cc5c18f667f6ef6ce1cbe754fc63abbe02525dc8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][02][1080p][简日字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5f52b411da3eae25dd7c62af29568fd46c5a0ecc</link>
-			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][02][1080p][简日字幕]</title>
-			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][02][1080p][简日字幕][516.04 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f52b411da3eae25dd7c62af29568fd46c5a0ecc</link>
-				<contentLength>541107136</contentLength>
-				<pubDate>2025-10-12T14:54:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="541107136" url="https://mikanani.me/Download/20251012/5f52b411da3eae25dd7c62af29568fd46c5a0ecc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
