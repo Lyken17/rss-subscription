@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【GB_MP4】【1920X1080】</guid>
+			<link>https://mikanani.me/Home/Episode/614a45c0eef35b47919c7ec5c09a75300a3bb8c8</link>
+			<title>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【GB_MP4】【1920X1080】</title>
+			<description>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【GB_MP4】【1920X1080】[340.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/614a45c0eef35b47919c7ec5c09a75300a3bb8c8</link>
+				<contentLength>357459552</contentLength>
+				<pubDate>2025-10-14T04:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="357459552" url="https://mikanani.me/Download/20251014/614a45c0eef35b47919c7ec5c09a75300a3bb8c8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【BIG5_MP4】【1920X1080】</guid>
+			<link>https://mikanani.me/Home/Episode/c5c07a0c0a106503c368340f7c1dd79a531520b2</link>
+			<title>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【BIG5_MP4】【1920X1080】</title>
+			<description>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【BIG5_MP4】【1920X1080】[340.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5c07a0c0a106503c368340f7c1dd79a531520b2</link>
+				<contentLength>357144992</contentLength>
+				<pubDate>2025-10-14T04:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="357144992" url="https://mikanani.me/Download/20251014/c5c07a0c0a106503c368340f7c1dd79a531520b2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【BIG5_MP4】【1280X720】</guid>
 			<link>https://mikanani.me/Home/Episode/ddc94e5bc4c9c09b826eb9448d5e9123b4f6c500</link>
 			<title>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【BIG5_MP4】【1280X720】</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-10-13T00:19:23.019</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391475360" url="https://mikanani.me/Download/20251013/1d0f0af9bd09f78cd73f09e767ba3adc2385f699.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][10月新番][机械女仆．玛莉][Mechanical Marie][01][1080p][MP4][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/7771742c47bc150e32bacf95bfd79d7567a4aec4</link>
-			<title>[漫猫字幕组][10月新番][机械女仆．玛莉][Mechanical Marie][01][1080p][MP4][繁中]</title>
-			<description>[漫猫字幕组][10月新番][机械女仆．玛莉][Mechanical Marie][01][1080p][MP4][繁中][373.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7771742c47bc150e32bacf95bfd79d7567a4aec4</link>
-				<contentLength>391475360</contentLength>
-				<pubDate>2025-10-13T00:18:52.441</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="391475360" url="https://mikanani.me/Download/20251013/7771742c47bc150e32bacf95bfd79d7567a4aec4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][10月新番][机械女仆·玛丽][Mechanical Marie][01][720p][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/1009ce3e0d7578ce3b9cd65b92a813d93dd063c6</link>
-			<title>[漫猫字幕组][10月新番][机械女仆·玛丽][Mechanical Marie][01][720p][MP4][简中]</title>
-			<description>[漫猫字幕组][10月新番][机械女仆·玛丽][Mechanical Marie][01][720p][MP4][简中][168.42 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1009ce3e0d7578ce3b9cd65b92a813d93dd063c6</link>
-				<contentLength>176601168</contentLength>
-				<pubDate>2025-10-13T00:18:18.733</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="176601168" url="https://mikanani.me/Download/20251013/1009ce3e0d7578ce3b9cd65b92a813d93dd063c6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
