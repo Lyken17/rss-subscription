@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4daf8ca8b574ed629aa1f42c6bf2ca71e4c50e06</link>
-			<title>[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][784.01 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4daf8ca8b574ed629aa1f42c6bf2ca71e4c50e06</link>
-				<contentLength>822094080</contentLength>
-				<pubDate>2025-10-12T11:49:46.228</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="822094080" url="https://mikanani.me/Download/20251012/4daf8ca8b574ed629aa1f42c6bf2ca71e4c50e06.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0e95f6b794f7c4adacb2e17670a7bb88475ac22d</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 14 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -135,6 +123,18 @@
 				<pubDate>2025-10-13T17:39:23.684</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="362849248" url="https://mikanani.me/Download/20251013/bdaaffea9751502665498c99dc0360fa86e58925.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a684f0d10ab9c850db147412e0161b7d48c70406</link>
+			<title>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][468.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a684f0d10ab9c850db147412e0161b7d48c70406</link>
+				<contentLength>491488544</contentLength>
+				<pubDate>2025-10-13T20:26:35.451</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="491488544" url="https://mikanani.me/Download/20251013/a684f0d10ab9c850db147412e0161b7d48c70406.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
