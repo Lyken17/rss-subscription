@@ -29,30 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="572249856" url="https://mikanani.me/Download/20250914/237fda0691f03e727999755c2fed28a0fa65afe1.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 小城日常 / City the Animation [10][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/1a41534663769832386805073c04b40b40ee7341</link>
-			<title>[桜都字幕组] 小城日常 / City the Animation [10][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 小城日常 / City the Animation [10][1080p][繁体内嵌][668.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1a41534663769832386805073c04b40b40ee7341</link>
-				<contentLength>701046464</contentLength>
-				<pubDate>2025-09-14T03:36:00.228</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="701046464" url="https://mikanani.me/Download/20250914/1a41534663769832386805073c04b40b40ee7341.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 小城日常 / City the Animation [10][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/018a05898ea2b708eec1ba421c15d94a774d018a</link>
-			<title>[桜都字幕组] 小城日常 / City the Animation [10][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 小城日常 / City the Animation [10][1080p][简体内嵌][668.79 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/018a05898ea2b708eec1ba421c15d94a774d018a</link>
-				<contentLength>701277120</contentLength>
-				<pubDate>2025-09-14T03:34:58.625</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="701277120" url="https://mikanani.me/Download/20250914/018a05898ea2b708eec1ba421c15d94a774d018a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/55a2398032dc16bc7380975826f2f1be6ee1def0</link>
 			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -29010,6 +28986,18 @@
 				<pubDate>2025-10-14T10:01:40.2638</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="487482976" url="https://mikanani.me/Download/20251014/f0f17054821cc6a69e9dfec9a3b53789067fcaaf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/475144a859d6186e17336f8c749ab4efe3befd08</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)[768.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/475144a859d6186e17336f8c749ab4efe3befd08</link>
+				<contentLength>805411200</contentLength>
+				<pubDate>2025-10-14T11:02:34.973163</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="805411200" url="https://mikanani.me/Download/20251014/475144a859d6186e17336f8c749ab4efe3befd08.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
