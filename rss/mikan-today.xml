@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/323f25480affe8a9118fa8ca3c372c48dcf81f2d</link>
+			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文[433.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/323f25480affe8a9118fa8ca3c372c48dcf81f2d</link>
+				<contentLength>454956160</contentLength>
+				<pubDate>2025-10-15T04:23:15.244</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="454956160" url="https://mikanani.me/Download/20251015/323f25480affe8a9118fa8ca3c372c48dcf81f2d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/e98457326d5d7b95d08aad24921d11ee490b6dc4</link>
 			<title>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-13T23:30:37.880084</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746061824" url="https://mikanani.me/Download/20251013/2541921dcc5c88ae9afd37fa8a77c63d72f104c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 弹珠汽水瓶里的千岁同学 / Chitose Kun wa Ramunebin no Naka [01][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/7e9169db18a190927b9e28d912d88a00094fd68e</link>
-			<title>[绿茶字幕组] 弹珠汽水瓶里的千岁同学 / Chitose Kun wa Ramunebin no Naka [01][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 弹珠汽水瓶里的千岁同学 / Chitose Kun wa Ramunebin no Naka [01][WebRip][1080p][繁日内嵌][451.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7e9169db18a190927b9e28d912d88a00094fd68e</link>
-				<contentLength>473547392</contentLength>
-				<pubDate>2025-10-13T23:24:24.083</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="473547392" url="https://mikanani.me/Download/20251013/7e9169db18a190927b9e28d912d88a00094fd68e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
