@@ -2515,5 +2515,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391727008" url="https://mikanani.me/Download/20251014/c067b8ef0649d79d366ea6beac62b2517ac13dc4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 01 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9182a9ce6813eb87baf972ff8ac968d0ed22d3f9</link>
+			<title>[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 01 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 01 [WebRip 1080p HEVC-10bit AAC][无字幕][364.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9182a9ce6813eb87baf972ff8ac968d0ed22d3f9</link>
+				<contentLength>382625376</contentLength>
+				<pubDate>2025-10-14T21:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="382625376" url="https://mikanani.me/Download/20251014/9182a9ce6813eb87baf972ff8ac968d0ed22d3f9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
