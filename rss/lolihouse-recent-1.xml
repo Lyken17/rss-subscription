@@ -112,5 +112,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="790647296" url="https://mikanani.me/Download/20251014/9fd6cb87e318d5f71d829a643160b070bbb2dce8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 39 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c067b8ef0649d79d366ea6beac62b2517ac13dc4</link>
+			<title>[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 39 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[动漫国字幕组&amp;LoliHouse] Spy x Family / 间谍过家家 - 39 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][373.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c067b8ef0649d79d366ea6beac62b2517ac13dc4</link>
+				<contentLength>391727008</contentLength>
+				<pubDate>2025-10-14T20:50:07.39</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="391727008" url="https://mikanani.me/Download/20251014/c067b8ef0649d79d366ea6beac62b2517ac13dc4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
