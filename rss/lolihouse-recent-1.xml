@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="382625376" url="https://mikanani.me/Download/20251014/9182a9ce6813eb87baf972ff8ac968d0ed22d3f9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 3年Z班银八老师 / Gintama - 3-nen Z-gumi Ginpachi-sensei  - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/707c55e4366b180b303fd2bd7b9ab7339c362c5a</link>
+			<title>[LoliHouse] 3年Z班银八老师 / Gintama - 3-nen Z-gumi Ginpachi-sensei  - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 3年Z班银八老师 / Gintama - 3-nen Z-gumi Ginpachi-sensei  - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][369.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/707c55e4366b180b303fd2bd7b9ab7339c362c5a</link>
+				<contentLength>387826304</contentLength>
+				<pubDate>2025-10-14T23:19:40.473</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="387826304" url="https://mikanani.me/Download/20251014/707c55e4366b180b303fd2bd7b9ab7339c362c5a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
