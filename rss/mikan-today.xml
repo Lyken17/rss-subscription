@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/2c959268fd5f16981fb5fb2104a8f131f605b6e4</link>
+			<title>[Skymoon-Raws] Gachiakuta - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] Gachiakuta - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][373.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2c959268fd5f16981fb5fb2104a8f131f605b6e4</link>
+				<contentLength>392062560</contentLength>
+				<pubDate>2025-10-15T02:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="392062560" url="https://mikanani.me/Download/20251015/2c959268fd5f16981fb5fb2104a8f131f605b6e4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 79 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/8722a73aaa20264535e5503a71bcadb6dc6adc72</link>
 			<title>[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 79 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-13T23:24:06.481</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="473274784" url="https://mikanani.me/Download/20251013/ff4fc1bbda4b0da40d5db487360e41dae8afd9ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 弹珠汽水瓶里的千岁同学 / Chitose Kun wa Ramunebin no Naka [01][WebRip][1080p][繁简日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/c55f6ce6d2417460edbed1377fb49dee14503416</link>
-			<title>[绿茶字幕组] 弹珠汽水瓶里的千岁同学 / Chitose Kun wa Ramunebin no Naka [01][WebRip][1080p][繁简日内封]</title>
-			<description>[绿茶字幕组] 弹珠汽水瓶里的千岁同学 / Chitose Kun wa Ramunebin no Naka [01][WebRip][1080p][繁简日内封][430.78 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c55f6ce6d2417460edbed1377fb49dee14503416</link>
-				<contentLength>451705568</contentLength>
-				<pubDate>2025-10-13T23:23:42.479</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="451705568" url="https://mikanani.me/Download/20251013/c55f6ce6d2417460edbed1377fb49dee14503416.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
