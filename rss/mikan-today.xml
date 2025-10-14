@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b6d8a210a5375e07671fe5162aea28f05ebe094c</link>
+			<title>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][983.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b6d8a210a5375e07671fe5162aea28f05ebe094c</link>
+				<contentLength>1031274496</contentLength>
+				<pubDate>2025-10-14T09:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1031274496" url="https://mikanani.me/Download/20251014/b6d8a210a5375e07671fe5162aea28f05ebe094c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【GB_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/614a45c0eef35b47919c7ec5c09a75300a3bb8c8</link>
 			<title>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【25】【GB_MP4】【1920X1080】</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-13T00:20:12.184</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="880824832" url="https://mikanani.me/Download/20251013/5c1196060134e35b899ed6d017efbf977ee7141b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][10月新番][机械女仆·玛丽][Mechanical Marie][01][1080p][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/1d0f0af9bd09f78cd73f09e767ba3adc2385f699</link>
-			<title>[漫猫字幕组][10月新番][机械女仆·玛丽][Mechanical Marie][01][1080p][MP4][简中]</title>
-			<description>[漫猫字幕组][10月新番][机械女仆·玛丽][Mechanical Marie][01][1080p][MP4][简中][373.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1d0f0af9bd09f78cd73f09e767ba3adc2385f699</link>
-				<contentLength>391475360</contentLength>
-				<pubDate>2025-10-13T00:19:23.019</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="391475360" url="https://mikanani.me/Download/20251013/1d0f0af9bd09f78cd73f09e767ba3adc2385f699.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
