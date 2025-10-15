@@ -688,5 +688,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="515794528" url="https://mikanani.me/Download/20251015/32ef5eb1f6fdfb64e873d7f1ee72879dff57f51d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ccf8dc9d025d2935d4fb7b525acf8db43542c31f</link>
+			<title>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][495.45 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ccf8dc9d025d2935d4fb7b525acf8db43542c31f</link>
+				<contentLength>519516992</contentLength>
+				<pubDate>2025-10-15T12:36:05.049</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="519516992" url="https://mikanani.me/Download/20251015/ccf8dc9d025d2935d4fb7b525acf8db43542c31f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
