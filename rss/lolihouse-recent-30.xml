@@ -2467,5 +2467,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="522358624" url="https://mikanani.me/Download/20251015/2cc236e762316fd5a56b7a124c977bb501c0de87.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0b1381cd70971b7d8dd03dab5fea54a101050688</link>
+			<title>[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][444.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0b1381cd70971b7d8dd03dab5fea54a101050688</link>
+				<contentLength>465955712</contentLength>
+				<pubDate>2025-10-15T23:10:25.886</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="465955712" url="https://mikanani.me/Download/20251015/0b1381cd70971b7d8dd03dab5fea54a101050688.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
