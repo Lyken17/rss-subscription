@@ -892,5 +892,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="19542102016" url="https://mikanani.me/Download/20251015/cda1d1e56faa15359d63b6e81adbee16b39e78dc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[盲僧自购][豪盛文化发行][果宝特攻第二部][BOX8][1DISC/DVDISO/4GB]</guid>
+			<link>https://mikanani.me/Home/Episode/e7da6f54f9e7a8ace9275d13e62de7eccf117014</link>
+			<title>[盲僧自购][豪盛文化发行][果宝特攻第二部][BOX8][1DISC/DVDISO/4GB]</title>
+			<description>[盲僧自购][豪盛文化发行][果宝特攻第二部][BOX8][1DISC/DVDISO/4GB][34 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e7da6f54f9e7a8ace9275d13e62de7eccf117014</link>
+				<contentLength>36507222016</contentLength>
+				<pubDate>2025-10-15T14:55:43.855</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="36507222016" url="https://mikanani.me/Download/20251015/e7da6f54f9e7a8ace9275d13e62de7eccf117014.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[盲僧自购][豪盛文化发行][果宝特攻第二部][BOX11][1DISC/DVDISO/4GB]</guid>
+			<link>https://mikanani.me/Home/Episode/d8384ef7e98c3bb1290e8487039763f6123afd6f</link>
+			<title>[盲僧自购][豪盛文化发行][果宝特攻第二部][BOX11][1DISC/DVDISO/4GB]</title>
+			<description>[盲僧自购][豪盛文化发行][果宝特攻第二部][BOX11][1DISC/DVDISO/4GB][27.93 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d8384ef7e98c3bb1290e8487039763f6123afd6f</link>
+				<contentLength>29989609472</contentLength>
+				<pubDate>2025-10-15T14:52:03.14</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="29989609472" url="https://mikanani.me/Download/20251015/d8384ef7e98c3bb1290e8487039763f6123afd6f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
