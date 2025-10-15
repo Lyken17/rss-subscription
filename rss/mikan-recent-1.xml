@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="529090464" url="https://mikanani.me/Download/20251014/3c20ea511960aabc487fe257af7d5d5e7a31a882.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 15 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f0f17054821cc6a69e9dfec9a3b53789067fcaaf</link>
-			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 15 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 15 (B-Global Donghua 1920x800 HEVC AAC MKV)[464.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f0f17054821cc6a69e9dfec9a3b53789067fcaaf</link>
-				<contentLength>487482976</contentLength>
-				<pubDate>2025-10-14T10:01:40.2638</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="487482976" url="https://mikanani.me/Download/20251014/f0f17054821cc6a69e9dfec9a3b53789067fcaaf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/475144a859d6186e17336f8c749ab4efe3befd08</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -963,6 +951,18 @@
 				<pubDate>2025-10-15T16:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20251015/3bc3e35fe7389dc3ca87aa30839022edb0941857.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2]</guid>
+			<link>https://mikanani.me/Home/Episode/3878691f52f3b7a8df55fa8ea6d80f57019b130f</link>
+			<title>[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2]</title>
+			<description>[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3878691f52f3b7a8df55fa8ea6d80f57019b130f</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-10-15T18:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251015/3878691f52f3b7a8df55fa8ea6d80f57019b130f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

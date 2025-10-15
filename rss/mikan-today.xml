@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2]</guid>
+			<link>https://mikanani.me/Home/Episode/3878691f52f3b7a8df55fa8ea6d80f57019b130f</link>
+			<title>[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2]</title>
+			<description>[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3878691f52f3b7a8df55fa8ea6d80f57019b130f</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-10-15T18:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251015/3878691f52f3b7a8df55fa8ea6d80f57019b130f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero's [01][SubsPlease][1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/048f31d4abd06cd7a7f13498782196d9d0c168c2</link>
 			<title>[绿茶字幕组] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero's [01][SubsPlease][1080p][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-14T00:31:09.896142</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="668781760" url="https://mikanani.me/Download/20251014/272aba5040c1a4da5c60e598b0853179fc1a7150.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 差点在迷宫深处被信任的伙伴杀掉，但靠著天赐技能「无限扭蛋」获得等级 9999 的伙伴，我要向前队友和世界展开复仇＆「给他们好看！」 / Mugen Gacha - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/49629b1fe686815b343727d3c26ca8fbe8e18b69</link>
-			<title>[黒ネズミたち] 差点在迷宫深处被信任的伙伴杀掉，但靠著天赐技能「无限扭蛋」获得等级 9999 的伙伴，我要向前队友和世界展开复仇＆「给他们好看！」 / Mugen Gacha - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 差点在迷宫深处被信任的伙伴杀掉，但靠著天赐技能「无限扭蛋」获得等级 9999 的伙伴，我要向前队友和世界展开复仇＆「给他们好看！」 / Mugen Gacha - 02 (ABEMA 1920x1080 AVC AAC MP4)[717.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/49629b1fe686815b343727d3c26ca8fbe8e18b69</link>
-				<contentLength>752563008</contentLength>
-				<pubDate>2025-10-14T00:30:52.040534</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="752563008" url="https://mikanani.me/Download/20251014/49629b1fe686815b343727d3c26ca8fbe8e18b69.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
