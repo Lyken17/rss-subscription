@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/323f25480affe8a9118fa8ca3c372c48dcf81f2d</link>
-			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文[433.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/323f25480affe8a9118fa8ca3c372c48dcf81f2d</link>
-				<contentLength>454956160</contentLength>
-				<pubDate>2025-10-15T04:23:15.244</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="454956160" url="https://mikanani.me/Download/20251015/323f25480affe8a9118fa8ca3c372c48dcf81f2d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4b678cf85cd475c7051746398d3729ac54f18247</link>
 			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 02 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1287,6 +1275,18 @@
 				<pubDate>2025-10-16T11:35:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12455405568" url="https://mikanani.me/Download/20251016/c5e48a15272c3d75a6c9e43e35b9b3a60954921f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 奇巧计程车 / ODDTAXI / オッドタクシー 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ce562750e28d3fd398047b65e3fc448a5a1b5a92</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 奇巧计程车 / ODDTAXI / オッドタクシー 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 奇巧计程车 / ODDTAXI / オッドタクシー 10-bit 1080p HEVC BDRip [Reseed Fin][16.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce562750e28d3fd398047b65e3fc448a5a1b5a92</link>
+				<contentLength>17716740096</contentLength>
+				<pubDate>2025-10-16T12:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20251016/ce562750e28d3fd398047b65e3fc448a5a1b5a92.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

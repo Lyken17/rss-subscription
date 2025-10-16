@@ -7732,5 +7732,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12455405568" url="https://mikanani.me/Download/20251016/c5e48a15272c3d75a6c9e43e35b9b3a60954921f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 奇巧计程车 / ODDTAXI / オッドタクシー 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ce562750e28d3fd398047b65e3fc448a5a1b5a92</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 奇巧计程车 / ODDTAXI / オッドタクシー 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 奇巧计程车 / ODDTAXI / オッドタクシー 10-bit 1080p HEVC BDRip [Reseed Fin][16.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce562750e28d3fd398047b65e3fc448a5a1b5a92</link>
+				<contentLength>17716740096</contentLength>
+				<pubDate>2025-10-16T12:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20251016/ce562750e28d3fd398047b65e3fc448a5a1b5a92.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
