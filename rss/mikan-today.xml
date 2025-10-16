@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku [11-12][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/f085aa4a5c5fdde01249ab7008f59cb5f15349f6</link>
+			<title>薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku [11-12][1080P][Bilibili][WEB-DL][AVC AAC][简日双语]</title>
+			<description>薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku [11-12][1080P][Bilibili][WEB-DL][AVC AAC][简日双语][558.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f085aa4a5c5fdde01249ab7008f59cb5f15349f6</link>
+				<contentLength>585294144</contentLength>
+				<pubDate>2025-10-16T08:19:53.745</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="585294144" url="https://mikanani.me/Download/20251016/f085aa4a5c5fdde01249ab7008f59cb5f15349f6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][168][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/58135a8f13fa2a989634c579b146af07de1a678b</link>
 			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][168][HEVC][GB][4K]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-15T03:46:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="404960064" url="https://mikanani.me/Download/20251015/e98457326d5d7b95d08aad24921d11ee490b6dc4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/2c959268fd5f16981fb5fb2104a8f131f605b6e4</link>
-			<title>[Skymoon-Raws] Gachiakuta - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] Gachiakuta - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][373.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2c959268fd5f16981fb5fb2104a8f131f605b6e4</link>
-				<contentLength>392062560</contentLength>
-				<pubDate>2025-10-15T02:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="392062560" url="https://mikanani.me/Download/20251015/2c959268fd5f16981fb5fb2104a8f131f605b6e4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
