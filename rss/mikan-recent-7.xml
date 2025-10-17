@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12</link>
-			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 22 (B-Global Donghua 1920x820 HEVC AAC MKV)[581.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12</link>
-				<contentLength>610166400</contentLength>
-				<pubDate>2025-10-10T11:02:35.700328</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="610166400" url="https://mikanani.me/Download/20251010/847239dbb2a36696e9ab4ec2b2d712bcc62c1f12.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/96b6e9709323d687d830ceee679fe7cceb783278</link>
 			<title>[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -7719,6 +7707,18 @@
 				<pubDate>2025-10-17T17:45:46.413328</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="453823680" url="https://mikanani.me/Download/20251017/ec86ac0529924b441bed3f002886242939138e1e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / watatabe - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/770b625a9edc7657e1588f9e999db42eac2ab74a</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / watatabe - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / watatabe - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][439.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/770b625a9edc7657e1588f9e999db42eac2ab74a</link>
+				<contentLength>461300032</contentLength>
+				<pubDate>2025-10-17T18:56:21.355</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="461300032" url="https://mikanani.me/Download/20251017/770b625a9edc7657e1588f9e999db42eac2ab74a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
