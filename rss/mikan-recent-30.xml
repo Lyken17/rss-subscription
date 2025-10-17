@@ -28132,5 +28132,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251017/5ede8e889f0a2e58422750b7091b49f94d120439.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">神在囧途[第09集][4K].Eat.Around.the.Mortal</guid>
+			<link>https://mikanani.me/Home/Episode/476bced5e469044cafa03f47df2f5add76e7ae2f</link>
+			<title>神在囧途[第09集][4K].Eat.Around.the.Mortal</title>
+			<description>神在囧途[第09集][4K].Eat.Around.the.Mortal[492.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/476bced5e469044cafa03f47df2f5add76e7ae2f</link>
+				<contentLength>516213952</contentLength>
+				<pubDate>2025-10-17T14:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="516213952" url="https://mikanani.me/Download/20251017/476bced5e469044cafa03f47df2f5add76e7ae2f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
