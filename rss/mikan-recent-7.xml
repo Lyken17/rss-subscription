@@ -7612,5 +7612,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="639736192" url="https://mikanani.me/Download/20251017/7ebeab8b4eb5487398fff060925a3883f8c641ee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 剧场版 奇巧计程车: 扑朔谜林 / Eiga Odd Taxi: In the Woods 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5ede8e889f0a2e58422750b7091b49f94d120439</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 剧场版 奇巧计程车: 扑朔谜林 / Eiga Odd Taxi: In the Woods 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 剧场版 奇巧计程车: 扑朔谜林 / Eiga Odd Taxi: In the Woods 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin][4.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ede8e889f0a2e58422750b7091b49f94d120439</link>
+				<contentLength>4617090048</contentLength>
+				<pubDate>2025-10-17T12:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251017/5ede8e889f0a2e58422750b7091b49f94d120439.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

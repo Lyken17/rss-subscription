@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 剧场版 奇巧计程车: 扑朔谜林 / Eiga Odd Taxi: In the Woods 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/5ede8e889f0a2e58422750b7091b49f94d120439</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 剧场版 奇巧计程车: 扑朔谜林 / Eiga Odd Taxi: In the Woods 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 剧场版 奇巧计程车: 扑朔谜林 / Eiga Odd Taxi: In the Woods 10-bit 1080p HEVC BDRip [MOVIE Reseed Fin][4.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ede8e889f0a2e58422750b7091b49f94d120439</link>
+				<contentLength>4617090048</contentLength>
+				<pubDate>2025-10-17T12:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251017/5ede8e889f0a2e58422750b7091b49f94d120439.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [02][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/f5af3ecdae79e56b45f7aa3b4ef0a9cd3c0d0ccf</link>
 			<title>[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [02][1080p][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-16T03:02:55.055</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="444428448" url="https://mikanani.me/Download/20251016/e53547844bbe1e4e9aa07f8841c6bfebd54fa137.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][235][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/41e53966e1e5dcf993aae0edc2efb87380c09527</link>
-			<title>[GM-Team][国漫][完美世界][Perfect World][2021][235][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][完美世界][Perfect World][2021][235][AVC][GB][1080P][454.76 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/41e53966e1e5dcf993aae0edc2efb87380c09527</link>
-				<contentLength>476850432</contentLength>
-				<pubDate>2025-10-16T03:02:48.457</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="476850432" url="https://mikanani.me/Download/20251016/41e53966e1e5dcf993aae0edc2efb87380c09527.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
