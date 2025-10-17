@@ -664,5 +664,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="461300032" url="https://mikanani.me/Download/20251017/770b625a9edc7657e1588f9e999db42eac2ab74a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 绝妙舞步 / Wandance - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/714911af3401ca6cc2705f5c20455c710aa9fd5e</link>
+			<title>[LoliHouse] 绝妙舞步 / Wandance - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 绝妙舞步 / Wandance - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][537.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/714911af3401ca6cc2705f5c20455c710aa9fd5e</link>
+				<contentLength>563399872</contentLength>
+				<pubDate>2025-10-17T20:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="563399872" url="https://mikanani.me/Download/20251017/714911af3401ca6cc2705f5c20455c710aa9fd5e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
