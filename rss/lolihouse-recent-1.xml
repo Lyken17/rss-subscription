@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 永远的黄昏 / Towa no Yuugure - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/0b9e4976d874cc45a128eb2aa85e0de769351c5e</link>
-			<title>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][399.29 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0b9e4976d874cc45a128eb2aa85e0de769351c5e</link>
-				<contentLength>418685920</contentLength>
-				<pubDate>2025-10-17T11:26:44.603</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="418685920" url="https://mikanani.me/Download/20251017/0b9e4976d874cc45a128eb2aa85e0de769351c5e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / watatabe - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/770b625a9edc7657e1588f9e999db42eac2ab74a</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / watatabe - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -63,6 +51,18 @@
 				<pubDate>2025-10-18T02:33:31.16</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496070816" url="https://mikanani.me/Download/20251018/cdc3ecb86e4bf6ec55878a30062c6f80e09e2bba.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cc9ff6b5d9a45ae7786d51efba8be637bc03352c</link>
+			<title>[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][655.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cc9ff6b5d9a45ae7786d51efba8be637bc03352c</link>
+				<contentLength>687341568</contentLength>
+				<pubDate>2025-10-18T19:43:13.018</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="687341568" url="https://mikanani.me/Download/20251018/cc9ff6b5d9a45ae7786d51efba8be637bc03352c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

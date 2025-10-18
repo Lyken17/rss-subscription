@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c7b8c6f463679a1f907e95b40b188c7d5a14febf</link>
-			<title>[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][206.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c7b8c6f463679a1f907e95b40b188c7d5a14febf</link>
-				<contentLength>216740656</contentLength>
-				<pubDate>2025-10-11T12:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="216740656" url="https://mikanani.me/Download/20251011/c7b8c6f463679a1f907e95b40b188c7d5a14febf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f2340bae48a4c7eae1421190d603d4c889d490b7</link>
 			<title>[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -627,6 +615,18 @@
 				<pubDate>2025-10-18T02:33:31.16</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496070816" url="https://mikanani.me/Download/20251018/cdc3ecb86e4bf6ec55878a30062c6f80e09e2bba.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cc9ff6b5d9a45ae7786d51efba8be637bc03352c</link>
+			<title>[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][655.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cc9ff6b5d9a45ae7786d51efba8be637bc03352c</link>
+				<contentLength>687341568</contentLength>
+				<pubDate>2025-10-18T19:43:13.018</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="687341568" url="https://mikanani.me/Download/20251018/cc9ff6b5d9a45ae7786d51efba8be637bc03352c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
