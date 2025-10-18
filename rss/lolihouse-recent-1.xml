@@ -64,5 +64,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="687341568" url="https://mikanani.me/Download/20251018/cc9ff6b5d9a45ae7786d51efba8be637bc03352c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/10030c9ca34df04435943342a46d03b6f430105f</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][5.64 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/10030c9ca34df04435943342a46d03b6f430105f</link>
+				<contentLength>6055903744</contentLength>
+				<pubDate>2025-10-18T23:55:04.67</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6055903744" url="https://mikanani.me/Download/20251018/10030c9ca34df04435943342a46d03b6f430105f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
