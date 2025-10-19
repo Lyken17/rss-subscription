@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cc9ff6b5d9a45ae7786d51efba8be637bc03352c</link>
-			<title>[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] SANDA 变身圣诞老人 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][655.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cc9ff6b5d9a45ae7786d51efba8be637bc03352c</link>
-				<contentLength>687341568</contentLength>
-				<pubDate>2025-10-18T19:43:13.018</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="687341568" url="https://mikanani.me/Download/20251018/cc9ff6b5d9a45ae7786d51efba8be637bc03352c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/10030c9ca34df04435943342a46d03b6f430105f</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
@@ -183,6 +171,18 @@
 				<pubDate>2025-10-19T21:35:44.842</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="796236160" url="https://mikanani.me/Download/20251019/2f6a390df9a77d4654d1ce030a543a4af53c41da.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/099f014d41635a1c6ded1bed6e0ea5fd7344e7e3</link>
+			<title>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][287.91 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/099f014d41635a1c6ded1bed6e0ea5fd7344e7e3</link>
+				<contentLength>301895520</contentLength>
+				<pubDate>2025-10-20T03:30:59.389</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="301895520" url="https://mikanani.me/Download/20251020/099f014d41635a1c6ded1bed6e0ea5fd7344e7e3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
