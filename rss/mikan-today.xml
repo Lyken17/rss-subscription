@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1146][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/e155ce80d91d316a4b3b4e543d27ef6a8f38411f</link>
+			<title>[Skymoon-Raws][One Piece 海贼王][1146][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
+			<description>[Skymoon-Raws][One Piece 海贼王][1146][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][496.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e155ce80d91d316a4b3b4e543d27ef6a8f38411f</link>
+				<contentLength>520932544</contentLength>
+				<pubDate>2025-10-21T03:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="520932544" url="https://mikanani.me/Download/20251021/e155ce80d91d316a4b3b4e543d27ef6a8f38411f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/9b445701d51e631c6210b14860c12e8c3e6c167c</link>
 			<title>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-20T00:30:42.211118</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747739520" url="https://mikanani.me/Download/20251020/3d69689e4cb9d2cfe610e633e40142a9b06e506f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1146 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6320deccd6de375187ba1094f930a39dd2a1a926</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1146 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1146 (CR 1920x1080 AVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6320deccd6de375187ba1094f930a39dd2a1a926</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2025-10-20T00:28:35.58245</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20251020/6320deccd6de375187ba1094f930a39dd2a1a926.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
