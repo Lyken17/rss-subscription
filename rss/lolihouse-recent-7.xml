@@ -700,5 +700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="512564928" url="https://mikanani.me/Download/20251020/a1be22c5edecea903d7d660042caf8dd3dfd0fb8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欢迎来到颠沛流离食堂！/ Tsuihousha Shokudou e Youkoso! [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/76e99946df908b974f60881c0ecaa59de148fe3f</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 欢迎来到颠沛流离食堂！/ Tsuihousha Shokudou e Youkoso! [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 欢迎来到颠沛流离食堂！/ Tsuihousha Shokudou e Youkoso! [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][5.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/76e99946df908b974f60881c0ecaa59de148fe3f</link>
+				<contentLength>5905580032</contentLength>
+				<pubDate>2025-10-20T20:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5905580032" url="https://mikanani.me/Download/20251020/76e99946df908b974f60881c0ecaa59de148fe3f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
