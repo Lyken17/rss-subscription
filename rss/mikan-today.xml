@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 Tondemo Skill de Isekai Hourou Meshi S2 - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/80fe92e222ca81759583a5a00e7ee1956f139133</link>
+			<title>[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 Tondemo Skill de Isekai Hourou Meshi S2 - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
+			<description>[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 Tondemo Skill de Isekai Hourou Meshi S2 - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][380.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/80fe92e222ca81759583a5a00e7ee1956f139133</link>
+				<contentLength>399088032</contentLength>
+				<pubDate>2025-10-22T12:12:31.282989</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="399088032" url="https://mikanani.me/Download/20251022/80fe92e222ca81759583a5a00e7ee1956f139133.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 直至魔女消逝/ある魔女が死ぬまで/Aru Majo ga Shinu Made S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/25eed7a2b01abd25e077c1720c27eacfe03ea77c</link>
 			<title>[7³ACG] 直至魔女消逝/ある魔女が死ぬまで/Aru Majo ga Shinu Made S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-20T23:31:01.637462</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="290979840" url="https://mikanani.me/Download/20251020/cd08b6d4a7e90fb8368a7acdbeb72b7344a6ada1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Gachiakuta - 15 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0d29f8271353d3631778d5b5dc639246bf90ef77</link>
-			<title>[黒ネズミたち] Gachiakuta - 15 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Gachiakuta - 15 (ABEMA 1920x1080 AVC AAC MP4)[711.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0d29f8271353d3631778d5b5dc639246bf90ef77</link>
-				<contentLength>745747264</contentLength>
-				<pubDate>2025-10-20T23:30:31.1109</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="745747264" url="https://mikanani.me/Download/20251020/0d29f8271353d3631778d5b5dc639246bf90ef77.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
