@@ -28078,5 +28078,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="399088032" url="https://mikanani.me/Download/20251022/80fe92e222ca81759583a5a00e7ee1956f139133.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">大唐乘风录[第06集][4K].Wind.Driver.in.Tang.Dynasty</guid>
+			<link>https://mikanani.me/Home/Episode/c672432e2da595bcfffbff4b70c33cb73bca18f1</link>
+			<title>大唐乘风录[第06集][4K].Wind.Driver.in.Tang.Dynasty</title>
+			<description>大唐乘风录[第06集][4K].Wind.Driver.in.Tang.Dynasty[913.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c672432e2da595bcfffbff4b70c33cb73bca18f1</link>
+				<contentLength>957874176</contentLength>
+				<pubDate>2025-10-22T12:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="957874176" url="https://mikanani.me/Download/20251022/c672432e2da595bcfffbff4b70c33cb73bca18f1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
