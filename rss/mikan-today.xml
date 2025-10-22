@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★02★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/093dec9054ba61f50ddef3d88b042543b43caa7f</link>
+			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★02★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★02★1920x1080★AVC AAC MP4★繁体中文[358.59 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/093dec9054ba61f50ddef3d88b042543b43caa7f</link>
+				<contentLength>376008864</contentLength>
+				<pubDate>2025-10-22T14:22:32.471</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="376008864" url="https://mikanani.me/Download/20251022/093dec9054ba61f50ddef3d88b042543b43caa7f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">大唐乘风录[第06集][4K].Wind.Driver.in.Tang.Dynasty</guid>
 			<link>https://mikanani.me/Home/Episode/c672432e2da595bcfffbff4b70c33cb73bca18f1</link>
 			<title>大唐乘风录[第06集][4K].Wind.Driver.in.Tang.Dynasty</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-20T23:31:26.66459</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="354104128" url="https://mikanani.me/Download/20251020/7663a2047d5296e511604654430143b36c2d49f9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3f2967c869c18fefa02c3c63f558cc4ad53807ea</link>
-			<title>[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 04 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 04 (Baha 1920x1080 AVC AAC MP4)[337.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3f2967c869c18fefa02c3c63f558cc4ad53807ea</link>
-				<contentLength>353474976</contentLength>
-				<pubDate>2025-10-20T23:31:20.68573</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="353474976" url="https://mikanani.me/Download/20251020/3f2967c869c18fefa02c3c63f558cc4ad53807ea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
