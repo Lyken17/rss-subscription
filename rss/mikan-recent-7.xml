@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2]</guid>
-			<link>https://mikanani.me/Home/Episode/3878691f52f3b7a8df55fa8ea6d80f57019b130f</link>
-			<title>[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2]</title>
-			<description>[GM-Team][云深不知梦][Eclipse of Illusion][2025][08][4K HEVC 10Bit][Multi-Subs][V2][1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3878691f52f3b7a8df55fa8ea6d80f57019b130f</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-10-15T18:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251015/3878691f52f3b7a8df55fa8ea6d80f57019b130f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi]  从前从前有只猫！世界喵童话 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/8f065913dc4d11bd3601b51d4832968557817067</link>
 			<title>[ANi]  从前从前有只猫！世界喵童话 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -8223,6 +8211,18 @@
 				<pubDate>2025-10-23T00:25:10.895</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="439290432" url="https://mikanani.me/Download/20251023/597ba8bbaec6a29e0b25fee8b76b2a778d059b65.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f91c423a75bbeddb4a20448011865d2e932d5ebe</link>
+			<title>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f91c423a75bbeddb4a20448011865d2e932d5ebe</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-10-23T01:43:34.892559</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251023/f91c423a75bbeddb4a20448011865d2e932d5ebe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -1612,5 +1612,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="439290432" url="https://mikanani.me/Download/20251023/597ba8bbaec6a29e0b25fee8b76b2a778d059b65.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f91c423a75bbeddb4a20448011865d2e932d5ebe</link>
+			<title>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f91c423a75bbeddb4a20448011865d2e932d5ebe</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-10-23T01:43:34.892559</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251023/f91c423a75bbeddb4a20448011865d2e932d5ebe.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

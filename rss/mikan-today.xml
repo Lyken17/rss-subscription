@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f91c423a75bbeddb4a20448011865d2e932d5ebe</link>
+			<title>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 03 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f91c423a75bbeddb4a20448011865d2e932d5ebe</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-10-23T01:43:34.892559</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251023/f91c423a75bbeddb4a20448011865d2e932d5ebe.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/f61b60004816845a101f98071647b1200eceb216</link>
 			<title>[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 04 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-22T00:06:05.038</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="476955264" url="https://mikanani.me/Download/20251022/b5c84687747fc177152a7f110b5eb3d3d98aec9d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 更衣人偶坠入爱河 / Sono Bisque Doll wa Koi wo Suru - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cd24fef0bbfb0a0f852dd18113dfd10b986191f0</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 更衣人偶坠入爱河 / Sono Bisque Doll wa Koi wo Suru - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 更衣人偶坠入爱河 / Sono Bisque Doll wa Koi wo Suru - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][521.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cd24fef0bbfb0a0f852dd18113dfd10b986191f0</link>
-				<contentLength>546758976</contentLength>
-				<pubDate>2025-10-22T00:04:52.089</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="546758976" url="https://mikanani.me/Download/20251022/cd24fef0bbfb0a0f852dd18113dfd10b986191f0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
