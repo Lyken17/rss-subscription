@@ -28102,5 +28102,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="376008864" url="https://mikanani.me/Download/20251022/093dec9054ba61f50ddef3d88b042543b43caa7f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][02][1080P][BIG5][MP4][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/9f30e781189e14c61b8fd1d8436d78c1b4eb56b4</link>
+			<title>[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][02][1080P][BIG5][MP4][繁中]</title>
+			<description>[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][02][1080P][BIG5][MP4][繁中][196.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f30e781189e14c61b8fd1d8436d78c1b4eb56b4</link>
+				<contentLength>206087120</contentLength>
+				<pubDate>2025-10-22T15:05:15.956</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="206087120" url="https://mikanani.me/Download/20251022/9f30e781189e14c61b8fd1d8436d78c1b4eb56b4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][02][1080P][GB][MP4][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/167dac033d6cb9fa8a9f587f17b8c769140ab162</link>
+			<title>[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][02][1080P][GB][MP4][简中]</title>
+			<description>[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][02][1080P][GB][MP4][简中][196.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/167dac033d6cb9fa8a9f587f17b8c769140ab162</link>
+				<contentLength>206108096</contentLength>
+				<pubDate>2025-10-22T15:05:01.04</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="206108096" url="https://mikanani.me/Download/20251022/167dac033d6cb9fa8a9f587f17b8c769140ab162.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
