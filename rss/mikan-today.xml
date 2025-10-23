@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/0fe4b390ea62a25bd29be30cc14b7c95ae1c4d66</link>
+			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][04][1080p][简日双语][439.52 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0fe4b390ea62a25bd29be30cc14b7c95ae1c4d66</link>
+				<contentLength>460870112</contentLength>
+				<pubDate>2025-10-24T04:20:32.663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="460870112" url="https://mikanani.me/Download/20251024/0fe4b390ea62a25bd29be30cc14b7c95ae1c4d66.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/f16f07a2d2b4a38684c87c5ad7fb3c34d59da6a9</link>
 			<title>[黒ネズミたち] 魔法药水救救我 / Potion, Wagami wo Tasukeru - 04 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-10-23T00:01:07.716555</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="450573120" url="https://mikanani.me/Download/20251023/ff9062e102878ef727a22a66c5b971ed52b03f8e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 03 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2ae515290a1d6aa61e089a29749d9d5e01f983b3</link>
-			<title>[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 03 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 03 (B-Global 1920x1080 HEVC AAC MKV)[335.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2ae515290a1d6aa61e089a29749d9d5e01f983b3</link>
-				<contentLength>351692384</contentLength>
-				<pubDate>2025-10-23T00:00:52.681413</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="351692384" url="https://mikanani.me/Download/20251023/2ae515290a1d6aa61e089a29749d9d5e01f983b3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
