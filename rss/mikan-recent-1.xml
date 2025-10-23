@@ -1120,5 +1120,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="261934288" url="https://mikanani.me/Download/20251023/d6ef6fd54c1ec0d506427cd22a78e3ecc130e1ef.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
+			<title>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-10-23T14:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20251023/e8a901bea24871ce99ea8a782973e34b9ffbe9a7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

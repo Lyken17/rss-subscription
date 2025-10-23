@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
+			<title>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
+				<contentLength>4294967296</contentLength>
+				<pubDate>2025-10-23T14:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20251023/e8a901bea24871ce99ea8a782973e34b9ffbe9a7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 弹珠汽水瓶里的千岁同学 /Chitose Kun wa Ramunebin no Naka [02][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/93542f08b34c2f6bc9dbbda7810481f5a05b4729</link>
 			<title>[绿茶字幕组] 弹珠汽水瓶里的千岁同学 /Chitose Kun wa Ramunebin no Naka [02][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-22T01:56:39.498154</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="287309824" url="https://mikanani.me/Download/20251022/c4f43effef990c738a5203c8c2a8b422019a9db4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 2200 年猫之国日本 / 2200-nen Neko no Kuni Nippon - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0068a600bf097a094c38dfcea3778c294133f5b5</link>
-			<title>[黒ネズミたち] 2200 年猫之国日本 / 2200-nen Neko no Kuni Nippon - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 2200 年猫之国日本 / 2200-nen Neko no Kuni Nippon - 04 (ABEMA 1920x1080 AVC AAC MP4)[75.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0068a600bf097a094c38dfcea3778c294133f5b5</link>
-				<contentLength>78748056</contentLength>
-				<pubDate>2025-10-22T01:05:17.936458</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="78748056" url="https://mikanani.me/Download/20251022/0068a600bf097a094c38dfcea3778c294133f5b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
