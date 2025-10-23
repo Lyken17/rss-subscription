@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版</guid>
+			<link>https://mikanani.me/Home/Episode/837f700e2cebae7fb4db91afc3a65b3936388ad8</link>
+			<title>【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版</title>
+			<description>【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版[206.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/837f700e2cebae7fb4db91afc3a65b3936388ad8</link>
+				<contentLength>216310736</contentLength>
+				<pubDate>2025-10-23T14:42:12.805</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="216310736" url="https://mikanani.me/Download/20251023/837f700e2cebae7fb4db91afc3a65b3936388ad8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
 			<title>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-22T01:57:07.17277</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="287100096" url="https://mikanani.me/Download/20251022/b99c1e14b4223d05f0575d32eee71d4355a497a9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Yanokuns Ordinary Days /  矢野同学的普通日常 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/c4f43effef990c738a5203c8c2a8b422019a9db4</link>
-			<title>[ANi] Yanokuns Ordinary Days /  矢野同学的普通日常 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Yanokuns Ordinary Days /  矢野同学的普通日常 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][274.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c4f43effef990c738a5203c8c2a8b422019a9db4</link>
-				<contentLength>287309824</contentLength>
-				<pubDate>2025-10-22T01:56:39.498154</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="287309824" url="https://mikanani.me/Download/20251022/c4f43effef990c738a5203c8c2a8b422019a9db4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

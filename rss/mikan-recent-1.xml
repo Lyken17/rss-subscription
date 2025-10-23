@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 03 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/458ed81b3437a065afe1bb7ed9743c11925629be</link>
-			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 03 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 03 (Baha 1920x1080 AVC AAC MP4)[575.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/458ed81b3437a065afe1bb7ed9743c11925629be</link>
-				<contentLength>603560320</contentLength>
-				<pubDate>2025-10-22T08:02:32.781002</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="603560320" url="https://mikanani.me/Download/20251022/458ed81b3437a065afe1bb7ed9743c11925629be.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f47de6308bd46304058a83aba408a04877675bea</link>
-			<title>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][576.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f47de6308bd46304058a83aba408a04877675bea</link>
-				<contentLength>604084608</contentLength>
-				<pubDate>2025-10-22T08:01:33.464598</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="604084608" url="https://mikanani.me/Download/20251022/f47de6308bd46304058a83aba408a04877675bea.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[7³ACG] 直至魔女消逝/ある魔女が死ぬまで/Aru Majo ga Shinu Made S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/25eed7a2b01abd25e077c1720c27eacfe03ea77c</link>
 			<title>[7³ACG] 直至魔女消逝/ある魔女が死ぬまで/Aru Majo ga Shinu Made S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1131,6 +1107,18 @@
 				<pubDate>2025-10-23T14:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20251023/e8a901bea24871ce99ea8a782973e34b9ffbe9a7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版</guid>
+			<link>https://mikanani.me/Home/Episode/837f700e2cebae7fb4db91afc3a65b3936388ad8</link>
+			<title>【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版</title>
+			<description>【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版[206.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/837f700e2cebae7fb4db91afc3a65b3936388ad8</link>
+				<contentLength>216310736</contentLength>
+				<pubDate>2025-10-23T14:42:12.805</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="216310736" url="https://mikanani.me/Download/20251023/837f700e2cebae7fb4db91afc3a65b3936388ad8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
