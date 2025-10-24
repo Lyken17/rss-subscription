@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
-			<title>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[7³ACG] 随兴旅 That's Journey/ざつ旅-That's Journey-/Zatsu Tabi That's Journey S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8a901bea24871ce99ea8a782973e34b9ffbe9a7</link>
-				<contentLength>4294967296</contentLength>
-				<pubDate>2025-10-23T14:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4294967296" url="https://mikanani.me/Download/20251023/e8a901bea24871ce99ea8a782973e34b9ffbe9a7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版</guid>
 			<link>https://mikanani.me/Home/Episode/837f700e2cebae7fb4db91afc3a65b3936388ad8</link>
 			<title>【极影字幕社】笨蛋测验召唤兽1 第04集 GB_CN HEVC_opus 1080p 翻新版</title>
@@ -1215,6 +1203,18 @@
 				<pubDate>2025-10-24T20:16:45.5664</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="586049152" url="https://mikanani.me/Download/20251024/26bc573d334fd79cd12cef5e7e6c9ad8d6735e72.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/367f718d24996d30a2390588b94cfa802ddbc952</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4)[750.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/367f718d24996d30a2390588b94cfa802ddbc952</link>
+				<contentLength>786432000</contentLength>
+				<pubDate>2025-10-24T22:00:38.86161</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786432000" url="https://mikanani.me/Download/20251024/367f718d24996d30a2390588b94cfa802ddbc952.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

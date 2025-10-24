@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/367f718d24996d30a2390588b94cfa802ddbc952</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4)[750.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/367f718d24996d30a2390588b94cfa802ddbc952</link>
+				<contentLength>786432000</contentLength>
+				<pubDate>2025-10-24T22:00:38.86161</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786432000" url="https://mikanani.me/Download/20251024/367f718d24996d30a2390588b94cfa802ddbc952.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [03] [1080p] [繁日内嵌] [2025年10月番]</guid>
 			<link>https://mikanani.me/Home/Episode/0f13df8f5f161705e69babe68d731c1dc108def1</link>
 			<title>[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [03] [1080p] [繁日内嵌] [2025年10月番]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-10-23T17:52:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="516633408" url="https://mikanani.me/Download/20251023/aa9c0784ac084ea8f1dfd4d971a03132cb929fd5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">大唐乘风录[第07集][4K].Wind.Driver.in.Tang.Dynasty</guid>
-			<link>https://mikanani.me/Home/Episode/07b3736c4a9cc1c9df91115217adee878aa34fb7</link>
-			<title>大唐乘风录[第07集][4K].Wind.Driver.in.Tang.Dynasty</title>
-			<description>大唐乘风录[第07集][4K].Wind.Driver.in.Tang.Dynasty[903.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07b3736c4a9cc1c9df91115217adee878aa34fb7</link>
-				<contentLength>947283584</contentLength>
-				<pubDate>2025-10-23T17:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="947283584" url="https://mikanani.me/Download/20251023/07b3736c4a9cc1c9df91115217adee878aa34fb7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
