@@ -17,30 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="344037792" url="https://mikanani.me/Download/20251023/b29a299472572f2b4089b485f8f712daff24fc32.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[ANi] Koala Enikki /  无尾熊绘日记 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/ff2b64534b196a67e6492b5694b17b6b362ff582</link>
-			<title>[ANi] Koala Enikki /  无尾熊绘日记 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Koala Enikki /  无尾熊绘日记 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][101.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ff2b64534b196a67e6492b5694b17b6b362ff582</link>
-				<contentLength>106011032</contentLength>
-				<pubDate>2025-10-23T19:01:44.906681</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="106011032" url="https://mikanani.me/Download/20251023/ff2b64534b196a67e6492b5694b17b6b362ff582.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/81372cb66a7025b1d91ae48e1cf75ac7d4d8b5da</link>
-			<title>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 04 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 04 (Baha 1920x1080 AVC AAC MP4)[100.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/81372cb66a7025b1d91ae48e1cf75ac7d4d8b5da</link>
-				<contentLength>105801320</contentLength>
-				<pubDate>2025-10-23T19:00:22.371984</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="105801320" url="https://mikanani.me/Download/20251023/81372cb66a7025b1d91ae48e1cf75ac7d4d8b5da.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0ba0bae3f399435995398246d8cf73484b2b5f8a</link>
 			<title>[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1587,6 +1563,18 @@
 				<pubDate>2025-10-25T01:14:33.387</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="640134656" url="https://mikanani.me/Download/20251025/81684eb200e19c308e5fcc51d8838c93ff8d8531.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 53 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/af8347477a52494082fad163cf2e56313e37b7a9</link>
+			<title>[黒ネズミたち] Nui Story 2 - 53 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 53 (ABEMA 1920x1080 AVC AAC MP4)[57.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af8347477a52494082fad163cf2e56313e37b7a9</link>
+				<contentLength>60188264</contentLength>
+				<pubDate>2025-10-25T02:30:17.732666</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="60188264" url="https://mikanani.me/Download/20251025/af8347477a52494082fad163cf2e56313e37b7a9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

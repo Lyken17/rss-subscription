@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 53 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/af8347477a52494082fad163cf2e56313e37b7a9</link>
+			<title>[黒ネズミたち] Nui Story 2 - 53 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 53 (ABEMA 1920x1080 AVC AAC MP4)[57.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af8347477a52494082fad163cf2e56313e37b7a9</link>
+				<contentLength>60188264</contentLength>
+				<pubDate>2025-10-25T02:30:17.732666</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="60188264" url="https://mikanani.me/Download/20251025/af8347477a52494082fad163cf2e56313e37b7a9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] SEALOOK / Sealook - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d4a586839a592b83f73eead7482ef0c3706ab928</link>
 			<title>[黒ネズミたち] SEALOOK / Sealook - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-23T22:34:14.34675</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="357564416" url="https://mikanani.me/Download/20251023/6c6f35e82d3e6ea6c42fee23fffdbafe843952d6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/36cb63b9881fe093834ae35649ac642f06dd3000</link>
-			<title>[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 04 (CR 1920x1080 AVC AAC MKV)[1,001.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/36cb63b9881fe093834ae35649ac642f06dd3000</link>
-				<contentLength>1050463424</contentLength>
-				<pubDate>2025-10-23T22:33:32.256875</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1050463424" url="https://mikanani.me/Download/20251023/36cb63b9881fe093834ae35649ac642f06dd3000.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
