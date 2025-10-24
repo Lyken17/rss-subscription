@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">枕刀歌.第三季[第07集][4K·HDR].A.Song.of.Sword.as.Pillow</guid>
+			<link>https://mikanani.me/Home/Episode/0c9d86d7d864f041f4ea408d68ff69ac6ab963ee</link>
+			<title>枕刀歌.第三季[第07集][4K·HDR].A.Song.of.Sword.as.Pillow</title>
+			<description>枕刀歌.第三季[第07集][4K·HDR].A.Song.of.Sword.as.Pillow[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c9d86d7d864f041f4ea408d68ff69ac6ab963ee</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-10-24T14:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20251024/0c9d86d7d864f041f4ea408d68ff69ac6ab963ee.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组]  不动声色的柏田与喜形于色的太田/Kao ni Denai Kashiwada san to Kao ni Deru Oota kun [03][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/e0e6053b0f803821b44716724768cf48a805bfe2</link>
 			<title>[绿茶字幕组]  不动声色的柏田与喜形于色的太田/Kao ni Denai Kashiwada san to Kao ni Deru Oota kun [03][WebRip][1080p][繁日内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-10-23T01:16:50.181507</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="332922880" url="https://mikanani.me/Download/20251023/f61b60004816845a101f98071647b1200eceb216.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/6a5b6e38c41089af5758bcea3e9b41a02cc01a13</link>
-			<title>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][318.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a5b6e38c41089af5758bcea3e9b41a02cc01a13</link>
-				<contentLength>333866592</contentLength>
-				<pubDate>2025-10-23T01:16:22.625474</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="333866592" url="https://mikanani.me/Download/20251023/6a5b6e38c41089af5758bcea3e9b41a02cc01a13.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

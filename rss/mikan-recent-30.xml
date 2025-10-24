@@ -28495,5 +28495,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496207136" url="https://mikanani.me/Download/20251024/be8cf75929db192b6e063252edd9eb226b0cdc85.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">枕刀歌.第三季[第07集][4K·HDR].A.Song.of.Sword.as.Pillow</guid>
+			<link>https://mikanani.me/Home/Episode/0c9d86d7d864f041f4ea408d68ff69ac6ab963ee</link>
+			<title>枕刀歌.第三季[第07集][4K·HDR].A.Song.of.Sword.as.Pillow</title>
+			<description>枕刀歌.第三季[第07集][4K·HDR].A.Song.of.Sword.as.Pillow[2.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c9d86d7d864f041f4ea408d68ff69ac6ab963ee</link>
+				<contentLength>2254857728</contentLength>
+				<pubDate>2025-10-24T14:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20251024/0c9d86d7d864f041f4ea408d68ff69ac6ab963ee.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
