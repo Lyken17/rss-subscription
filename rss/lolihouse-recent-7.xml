@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3dd75ba05083f7dc548967cb0ebf9b97bd25874a</link>
-			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][218.73 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3dd75ba05083f7dc548967cb0ebf9b97bd25874a</link>
-				<contentLength>229355024</contentLength>
-				<pubDate>2025-10-17T00:10:48.771</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="229355024" url="https://mikanani.me/Download/20251017/3dd75ba05083f7dc548967cb0ebf9b97bd25874a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 永远的黄昏 / Towa no Yuugure - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0b9e4976d874cc45a128eb2aa85e0de769351c5e</link>
 			<title>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -711,6 +699,18 @@
 				<pubDate>2025-10-24T00:29:00.332</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="375526528" url="https://mikanani.me/Download/20251024/f206d8ee47482213bd285a2fa762b0e1dea6f3a1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我 / 友达の妹が俺にだけウザい / IMOUZA - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/687296313a8d0ab9ffe9455f096032d6e417cefa</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我 / 友达の妹が俺にだけウザい / IMOUZA - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我 / 友达の妹が俺にだけウザい / IMOUZA - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][382.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/687296313a8d0ab9ffe9455f096032d6e417cefa</link>
+				<contentLength>400618944</contentLength>
+				<pubDate>2025-10-24T08:01:28.477</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="400618944" url="https://mikanani.me/Download/20251024/687296313a8d0ab9ffe9455f096032d6e417cefa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
