@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/62df54ed2b7fc58434e679fd78b3203387fb6aae</link>
+			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★04★1920x1080★AVC AAC MP4★繁体中文[415.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62df54ed2b7fc58434e679fd78b3203387fb6aae</link>
+				<contentLength>435976928</contentLength>
+				<pubDate>2025-10-27T05:26:27.548</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="435976928" url="https://mikanani.me/Download/20251027/62df54ed2b7fc58434e679fd78b3203387fb6aae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][15][GB][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/d5af0b185c1774f74b81d1d0ca02979f66b35601</link>
 			<title>[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][15][GB][1080P][MP4]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-10-26T13:03:29.068</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="561302720" url="https://mikanani.me/Download/20251026/68a87f7316815aa519d36a8ee27b66ee5e42b0bf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [02][WebRip][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8f1a3f6f1c5a1917263f2a770972ae9a67ad3aaa</link>
-			<title>[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [02][WebRip][1080p][简日内嵌]</title>
-			<description>[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [02][WebRip][1080p][简日内嵌][535.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f1a3f6f1c5a1917263f2a770972ae9a67ad3aaa</link>
-				<contentLength>561355136</contentLength>
-				<pubDate>2025-10-26T13:02:34.663</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="561355136" url="https://mikanani.me/Download/20251026/8f1a3f6f1c5a1917263f2a770972ae9a67ad3aaa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
