@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/124f292edd738edfa07e3df3f0c4fa6a62345610</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][717.86 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/124f292edd738edfa07e3df3f0c4fa6a62345610</link>
-				<contentLength>752730752</contentLength>
-				<pubDate>2025-10-19T15:57:05.359</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="752730752" url="https://mikanani.me/Download/20251019/124f292edd738edfa07e3df3f0c4fa6a62345610.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e02256da302d8910b5ee7749c79220820aa938d1</link>
 			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -723,6 +711,18 @@
 				<pubDate>2025-10-26T21:46:06.464</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="750486784" url="https://mikanani.me/Download/20251026/c0c765cc7f7cdd8cac7907d9791ff2cda4a53b44.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/079af088aab3381b1771a8cf76a58610ad062c1d</link>
+			<title>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][360.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/079af088aab3381b1771a8cf76a58610ad062c1d</link>
+				<contentLength>377728544</contentLength>
+				<pubDate>2025-10-26T23:40:52.288</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="377728544" url="https://mikanani.me/Download/20251026/079af088aab3381b1771a8cf76a58610ad062c1d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
