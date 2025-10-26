@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/10030c9ca34df04435943342a46d03b6f430105f</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] Silent Witch 沉默魔女的秘密 / Silent Witch - Chinmoku no Majo no Kakushigoto - [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][5.64 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/10030c9ca34df04435943342a46d03b6f430105f</link>
-				<contentLength>6055903744</contentLength>
-				<pubDate>2025-10-18T23:55:04.67</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6055903744" url="https://mikanani.me/Download/20251018/10030c9ca34df04435943342a46d03b6f430105f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 野生的大魔王出现了！ / 野生的最终BOSS出现了！ / Yasei no Last Boss ga Arawareta! - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6957025290b5a1a11fff1140624178e234aa2ce7</link>
 			<title>[LoliHouse] 野生的大魔王出现了！ / 野生的最终BOSS出现了！ / Yasei no Last Boss ga Arawareta! - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -759,6 +747,18 @@
 				<pubDate>2025-10-26T00:29:58.478</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="617936320" url="https://mikanani.me/Download/20251026/56e06b18407470a9a5c0208de0beadadaace22a6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 04 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a2646c0db024c8472e16e771e70cea7317fe9dbf</link>
+			<title>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 04 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 04 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][564.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a2646c0db024c8472e16e771e70cea7317fe9dbf</link>
+				<contentLength>591417856</contentLength>
+				<pubDate>2025-10-26T09:12:28.358</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="591417856" url="https://mikanani.me/Download/20251026/a2646c0db024c8472e16e771e70cea7317fe9dbf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
