@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] SANDA 变身圣诞老人 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2509590be82fb258313ddab4a57990e2c5b6bb85</link>
-			<title>[LoliHouse] SANDA 变身圣诞老人 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] SANDA 变身圣诞老人 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][683.22 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2509590be82fb258313ddab4a57990e2c5b6bb85</link>
-				<contentLength>716408064</contentLength>
-				<pubDate>2025-10-25T13:53:19.596</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="716408064" url="https://mikanani.me/Download/20251025/2509590be82fb258313ddab4a57990e2c5b6bb85.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d0006e42b13437c13134a3bb99ca6d815ddeceb0</link>
 			<title>[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -111,6 +99,18 @@
 				<pubDate>2025-10-26T15:26:13.556</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="595150784" url="https://mikanani.me/Download/20251026/640f53d9baf90bbd2af2d48bbc251b94812a2f31.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 28 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/c0c765cc7f7cdd8cac7907d9791ff2cda4a53b44</link>
+			<title>[LoliHouse] Princess-Session Orchestra - 28 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra - 28 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[715.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0c765cc7f7cdd8cac7907d9791ff2cda4a53b44</link>
+				<contentLength>750486784</contentLength>
+				<pubDate>2025-10-26T21:46:06.464</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="750486784" url="https://mikanani.me/Download/20251026/c0c765cc7f7cdd8cac7907d9791ff2cda4a53b44.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
