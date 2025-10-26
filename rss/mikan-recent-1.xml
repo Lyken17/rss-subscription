@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 娑婆气 Shabake - 04 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8f0b7d23e3782137a0c4be55bb0b058d7681f458</link>
-			<title>[Prejudice-Studio] 娑婆气 Shabake - 04 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 娑婆气 Shabake - 04 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][271.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f0b7d23e3782137a0c4be55bb0b058d7681f458</link>
-				<contentLength>284268960</contentLength>
-				<pubDate>2025-10-25T07:13:40.382199</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="284268960" url="https://mikanani.me/Download/20251025/8f0b7d23e3782137a0c4be55bb0b058d7681f458.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Ultraman Omega /  超人力霸王奥米加 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/0c30d6c5775d33c7c624afa6136549e04abdc353</link>
 			<title>[ANi] Ultraman Omega /  超人力霸王奥米加 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1755,6 +1743,18 @@
 				<pubDate>2025-10-26T13:30:07.027</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="896375168" url="https://mikanani.me/Download/20251026/57adf479fc550fc455399d60f52b0f73a63034d1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][54][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/b90edd8e21c0e4891b34631c194300a714b7dbe8</link>
+			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][54][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][54][AVC][GB][1080P][884.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b90edd8e21c0e4891b34631c194300a714b7dbe8</link>
+				<contentLength>927245248</contentLength>
+				<pubDate>2025-10-26T14:42:03.391</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="927245248" url="https://mikanani.me/Download/20251026/b90edd8e21c0e4891b34631c194300a714b7dbe8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

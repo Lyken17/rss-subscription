@@ -29644,5 +29644,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="896375168" url="https://mikanani.me/Download/20251026/57adf479fc550fc455399d60f52b0f73a63034d1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][54][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/b90edd8e21c0e4891b34631c194300a714b7dbe8</link>
+			<title>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][54][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][牧神记][Tales of Qin Mu][2024][54][AVC][GB][1080P][884.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b90edd8e21c0e4891b34631c194300a714b7dbe8</link>
+				<contentLength>927245248</contentLength>
+				<pubDate>2025-10-26T14:42:03.391</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="927245248" url="https://mikanani.me/Download/20251026/b90edd8e21c0e4891b34631c194300a714b7dbe8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
