@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][15][GB][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/d5af0b185c1774f74b81d1d0ca02979f66b35601</link>
+			<title>[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][15][GB][1080P][MP4]</title>
+			<description>[轻之国度字幕组][叹气的亡灵想隐退/叹息的亡灵好想隐退][15][GB][1080P][MP4][312.22 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d5af0b185c1774f74b81d1d0ca02979f66b35601</link>
+				<contentLength>327386400</contentLength>
+				<pubDate>2025-10-27T03:55:50.831</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="327386400" url="https://mikanani.me/Download/20251027/d5af0b185c1774f74b81d1d0ca02979f66b35601.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 转生后的我成了英雄爸爸和精灵妈妈的女儿 / Hahanoha - 04 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/cdb88943cac1c14a2cd695501c02419d58699006</link>
 			<title>[黒ネズミたち] 转生后的我成了英雄爸爸和精灵妈妈的女儿 / Hahanoha - 04 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-10-26T13:02:34.663</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="561355136" url="https://mikanani.me/Download/20251026/8f1a3f6f1c5a1917263f2a770972ae9a67ad3aaa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [02][WebRip][1080p][繁简日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/0b72a5564b7306f10900468cdd809c141a357c10</link>
-			<title>[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [02][WebRip][1080p][繁简日内封]</title>
-			<description>[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [02][WebRip][1080p][繁简日内封][521.23 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0b72a5564b7306f10900468cdd809c141a357c10</link>
-				<contentLength>546549248</contentLength>
-				<pubDate>2025-10-26T13:02:10.201</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="546549248" url="https://mikanani.me/Download/20251026/0b72a5564b7306f10900468cdd809c141a357c10.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
