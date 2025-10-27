@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 02 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3920dfe83c3f9e917adb5e39ead885ff5d175bf8</link>
+			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 02 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 02 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][1.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3920dfe83c3f9e917adb5e39ead885ff5d175bf8</link>
+				<contentLength>1717986944</contentLength>
+				<pubDate>2025-10-28T06:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20251028/3920dfe83c3f9e917adb5e39ead885ff5d175bf8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero’s - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/3f9717457a7c916bf15df8374fab01ef6c750be9</link>
 			<title>[Skymoon-Raws] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero’s - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-10-27T00:33:11.766</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390300960" url="https://mikanani.me/Download/20251027/975c6f7f1e8057c13346a1367a1b980bbea70322.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 07 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a76156c954ba80da8230f36e1422e475b869bc87</link>
-			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 07 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 07 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a76156c954ba80da8230f36e1422e475b869bc87</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-10-27T00:33:09.216151</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20251027/a76156c954ba80da8230f36e1422e475b869bc87.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
