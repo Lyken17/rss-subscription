@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★03★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/665f574cf0e7505fcd3752c4e6226b973b523cff</link>
+			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★03★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★03★1920x1080★AVC AAC MP4★繁体中文[342.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/665f574cf0e7505fcd3752c4e6226b973b523cff</link>
+				<contentLength>358854176</contentLength>
+				<pubDate>2025-10-29T05:24:48.904</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="358854176" url="https://mikanani.me/Download/20251029/665f574cf0e7505fcd3752c4e6226b973b523cff.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 小城日常 / City the Animation [01-13 Fin][1080p][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/946bf20f54add1fe0e8cc39272818687c14739a5</link>
 			<title>[桜都字幕组] 小城日常 / City the Animation [01-13 Fin][1080p][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-27T23:01:12.353667</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="341416352" url="https://mikanani.me/Download/20251027/5b6e15a89496924d9845e59040b06afebd654f6f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 胖子与爱情以及过错！ / Debu to Love to Ayamachi to! - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1a9391e7693dd3182cf40d08d98ce166c7ccd514</link>
-			<title>[黒ネズミたち] 胖子与爱情以及过错！ / Debu to Love to Ayamachi to! - 04 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 胖子与爱情以及过错！ / Debu to Love to Ayamachi to! - 04 (Baha 1920x1080 AVC AAC MP4)[325.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1a9391e7693dd3182cf40d08d98ce166c7ccd514</link>
-				<contentLength>341101760</contentLength>
-				<pubDate>2025-10-27T23:01:05.872404</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="341101760" url="https://mikanani.me/Download/20251027/1a9391e7693dd3182cf40d08d98ce166c7ccd514.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
