@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 83 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/a5cea8c5b609e4b0291891a081c65031ab0dc6df</link>
+			<title>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 83 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 小哥斯拉的逆袭 / Chibi Godzilla no Gyakushuu - 83 (ABEMA 1920x1080 AVC AAC MP4)[88.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a5cea8c5b609e4b0291891a081c65031ab0dc6df</link>
+				<contentLength>92798976</contentLength>
+				<pubDate>2025-10-30T01:30:19.705553</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="92798976" url="https://mikanani.me/Download/20251030/a5cea8c5b609e4b0291891a081c65031ab0dc6df.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/9247c7210164fe12ab6d606ccb1e0c124f66af63</link>
 			<title>[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 05 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-28T22:42:06.288</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="546371008" url="https://mikanani.me/Download/20251028/f30641a386b1af6893064c99f39c6215c8ae185a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成][代理商粤语]胆大党 / Dandadan S2 - 05 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/ad0bf052dbf64872c913660338e93d4ae751ec37</link>
-			<title>[jibaketa合成][代理商粤语]胆大党 / Dandadan S2 - 05 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
-			<description>[jibaketa合成][代理商粤语]胆大党 / Dandadan S2 - 05 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[676.09 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ad0bf052dbf64872c913660338e93d4ae751ec37</link>
-				<contentLength>708931776</contentLength>
-				<pubDate>2025-10-28T22:37:39.385</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="708931776" url="https://mikanani.me/Download/20251028/ad0bf052dbf64872c913660338e93d4ae751ec37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
