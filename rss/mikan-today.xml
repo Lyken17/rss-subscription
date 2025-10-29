@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/3c5a965c25997bad78a8b4c5c03af5da96d50778</link>
+			<title>[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin][16.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c5a965c25997bad78a8b4c5c03af5da96d50778</link>
+				<contentLength>18146236416</contentLength>
+				<pubDate>2025-10-29T11:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18146236416" url="https://mikanani.me/Download/20251029/3c5a965c25997bad78a8b4c5c03af5da96d50778.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c0838aacee78d5ce14cf36cd23d100d210b1ba20</link>
 			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-27T23:33:13.240362</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="370042464" url="https://mikanani.me/Download/20251027/347cfc3651e9f51ed6d4b51a813c84081885bcfd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4ec64d6000397404cd6f966e392304660626b288</link>
-			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][271.18 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4ec64d6000397404cd6f966e392304660626b288</link>
-				<contentLength>284352832</contentLength>
-				<pubDate>2025-10-27T23:31:40.432</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="284352832" url="https://mikanani.me/Download/20251027/4ec64d6000397404cd6f966e392304660626b288.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

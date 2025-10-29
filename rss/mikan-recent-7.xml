@@ -7408,5 +7408,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="402653184" url="https://mikanani.me/Download/20251029/c8956a23a639939e6d1d3f9f50272c5493780df0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/3c5a965c25997bad78a8b4c5c03af5da96d50778</link>
+			<title>[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin][16.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3c5a965c25997bad78a8b4c5c03af5da96d50778</link>
+				<contentLength>18146236416</contentLength>
+				<pubDate>2025-10-29T11:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18146236416" url="https://mikanani.me/Download/20251029/3c5a965c25997bad78a8b4c5c03af5da96d50778.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
