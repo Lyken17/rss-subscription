@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 04 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1153fa2fbf0fd1c711385840dd8ec62ad9d7108a</link>
+			<title>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 04 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 04 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][326.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1153fa2fbf0fd1c711385840dd8ec62ad9d7108a</link>
+				<contentLength>341940640</contentLength>
+				<pubDate>2025-10-30T14:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="341940640" url="https://mikanani.me/Download/20251030/1153fa2fbf0fd1c711385840dd8ec62ad9d7108a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f33f16452a7333635117ff8340437d568eaebd21</link>
 			<title>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-29T00:56:11.554</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="364893952" url="https://mikanani.me/Download/20251029/a43856b339c38be1e03d29485e205e619fa10af6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [04][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/e28971febc1a89a2f82d607ecbd3bba2ae01ffa2</link>
-			<title>[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [04][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [04][1080p][简体内嵌][348.05 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e28971febc1a89a2f82d607ecbd3bba2ae01ffa2</link>
-				<contentLength>364956864</contentLength>
-				<pubDate>2025-10-29T00:54:59.554</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="364956864" url="https://mikanani.me/Download/20251029/e28971febc1a89a2f82d607ecbd3bba2ae01ffa2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
