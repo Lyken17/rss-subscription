@@ -604,5 +604,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="545857216" url="https://mikanani.me/Download/20251030/f6cddca8cc79524b41e8ec6d575563e6676defa6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b100569b06423de3b74df053b12d567e0122ed2c</link>
+			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][48.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b100569b06423de3b74df053b12d567e0122ed2c</link>
+				<contentLength>51212452</contentLength>
+				<pubDate>2025-10-31T00:06:19.719</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="51212452" url="https://mikanani.me/Download/20251031/b100569b06423de3b74df053b12d567e0122ed2c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
