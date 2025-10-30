@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c0838aacee78d5ce14cf36cd23d100d210b1ba20</link>
-			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][996.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c0838aacee78d5ce14cf36cd23d100d210b1ba20</link>
-				<contentLength>1044905984</contentLength>
-				<pubDate>2025-10-29T11:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1044905984" url="https://mikanani.me/Download/20251029/c0838aacee78d5ce14cf36cd23d100d210b1ba20.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/3c5a965c25997bad78a8b4c5c03af5da96d50778</link>
 			<title>[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -975,6 +963,30 @@
 				<pubDate>2025-10-30T15:22:54.301</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="348106272" url="https://mikanani.me/Download/20251030/8b114ec6af3790badb239118e2f2ff525c2961a9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi] Koala Enikki /  无尾熊绘日记 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/898eeaa2c9d97f6334e50e987601ecfbb9039ca6</link>
+			<title>[ANi] Koala Enikki /  无尾熊绘日记 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Koala Enikki /  无尾熊绘日记 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][82.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/898eeaa2c9d97f6334e50e987601ecfbb9039ca6</link>
+				<contentLength>86088088</contentLength>
+				<pubDate>2025-10-30T19:00:40.895252</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="86088088" url="https://mikanani.me/Download/20251030/898eeaa2c9d97f6334e50e987601ecfbb9039ca6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/cb3245686966e2fbc3688240f3bdae2f3efbe30c</link>
+			<title>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 05 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 05 (Baha 1920x1080 AVC AAC MP4)[81.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb3245686966e2fbc3688240f3bdae2f3efbe30c</link>
+				<contentLength>85878376</contentLength>
+				<pubDate>2025-10-30T19:00:21.477487</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="85878376" url="https://mikanani.me/Download/20251030/cb3245686966e2fbc3688240f3bdae2f3efbe30c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
