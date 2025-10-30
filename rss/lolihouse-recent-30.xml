@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 24 (明治篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/e8e9ac397a365bf334990774455dca204f5ba1f5</link>
-			<title>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 24 (明治篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 鬼人幻灯抄 / Kijin Gentoushou - 24 (明治篇)[WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][277.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8e9ac397a365bf334990774455dca204f5ba1f5</link>
-				<contentLength>290843520</contentLength>
-				<pubDate>2025-09-30T13:49:30.58</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="290843520" url="https://mikanani.me/Download/20250930/e8e9ac397a365bf334990774455dca204f5ba1f5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0a4b6a0bc2f2a8be254dfee65e8fab2d601645ef</link>
 			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2643,6 +2631,18 @@
 				<pubDate>2025-10-30T20:30:21.441</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="462296192" url="https://mikanani.me/Download/20251030/1eaf261d046c2522485983b0c45d0b4dea7225ce.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 绝妙舞步 / Wandance - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f6cddca8cc79524b41e8ec6d575563e6676defa6</link>
+			<title>[LoliHouse] 绝妙舞步 / Wandance - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 绝妙舞步 / Wandance - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][520.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f6cddca8cc79524b41e8ec6d575563e6676defa6</link>
+				<contentLength>545857216</contentLength>
+				<pubDate>2025-10-30T22:17:17.342</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="545857216" url="https://mikanani.me/Download/20251030/f6cddca8cc79524b41e8ec6d575563e6676defa6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
