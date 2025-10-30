@@ -1000,5 +1000,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5003636736" url="https://mikanani.me/Download/20251030/23a5c607371ca1ecfdfc490e7a57b09f6ec732d3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/3e8dcbe930a9194ef39a5cde9276109dc0df0e28</link>
+			<title>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中]</title>
+			<description>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中][380.85 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3e8dcbe930a9194ef39a5cde9276109dc0df0e28</link>
+				<contentLength>399350176</contentLength>
+				<pubDate>2025-10-30T12:17:22.753</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="399350176" url="https://mikanani.me/Download/20251030/3e8dcbe930a9194ef39a5cde9276109dc0df0e28.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][GB][MP4][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/e238cd125e79461432a3bc5eb5edc43d5d57cb3b</link>
+			<title>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][GB][MP4][简中]</title>
+			<description>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][GB][MP4][简中][380.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e238cd125e79461432a3bc5eb5edc43d5d57cb3b</link>
+				<contentLength>399402592</contentLength>
+				<pubDate>2025-10-30T12:17:07.909</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="399402592" url="https://mikanani.me/Download/20251030/e238cd125e79461432a3bc5eb5edc43d5d57cb3b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
