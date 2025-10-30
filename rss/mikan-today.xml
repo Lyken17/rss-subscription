@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕社】笨蛋测验召唤兽1 第05集 GB_CN HEVC_opus 1080p 翻新版</guid>
+			<link>https://mikanani.me/Home/Episode/c05594b0d75efcd3f0ef3713e47e5dee6ce1d6e8</link>
+			<title>【极影字幕社】笨蛋测验召唤兽1 第05集 GB_CN HEVC_opus 1080p 翻新版</title>
+			<description>【极影字幕社】笨蛋测验召唤兽1 第05集 GB_CN HEVC_opus 1080p 翻新版[267.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c05594b0d75efcd3f0ef3713e47e5dee6ce1d6e8</link>
+				<contentLength>280399712</contentLength>
+				<pubDate>2025-10-30T12:18:10.889</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="280399712" url="https://mikanani.me/Download/20251030/c05594b0d75efcd3f0ef3713e47e5dee6ce1d6e8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中]</guid>
 			<link>https://mikanani.me/Home/Episode/3e8dcbe930a9194ef39a5cde9276109dc0df0e28</link>
 			<title>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-10-29T00:54:29.127</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="127045472" url="https://mikanani.me/Download/20251029/5b9944bf4925e5793554eb6e9d7256b81d4b2f3c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 罪恶之渊 / Guilty Hole [02][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b7974e0f037ce01142b1c71f18e3cb729f4bf225</link>
-			<title>[桜都字幕组] 罪恶之渊 / Guilty Hole [02][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 罪恶之渊 / Guilty Hole [02][1080p][简体内嵌][121.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b7974e0f037ce01142b1c71f18e3cb729f4bf225</link>
-				<contentLength>127055952</contentLength>
-				<pubDate>2025-10-29T00:54:14.789</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="127055952" url="https://mikanani.me/Download/20251029/b7974e0f037ce01142b1c71f18e3cb729f4bf225.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
