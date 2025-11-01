@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][05][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/83db943c1a1758f5ed5eb978953adcad5c5dd421</link>
-			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][05][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][05][1080p][简日双语][499.02 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/83db943c1a1758f5ed5eb978953adcad5c5dd421</link>
-				<contentLength>523260384</contentLength>
-				<pubDate>2025-10-31T03:13:47.472</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="523260384" url="https://mikanani.me/Download/20251031/83db943c1a1758f5ed5eb978953adcad5c5dd421.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 25 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7d21a8cfc92dd9ad6e527c06a950d56861ed247c</link>
 			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 25 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1023,6 +1011,30 @@
 				<pubDate>2025-11-01T09:45:22.684517</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386400256" url="https://mikanani.me/Download/20251101/b3fa093ece631943d1358168400746122447fee6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 最后可以再拜托您一件事吗？ Saigo ni Hitotsu dake Onegai - 06 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/8aba417cca33af350136abdb419a03ad01e1453f</link>
+			<title>[Prejudice-Studio] 最后可以再拜托您一件事吗？ Saigo ni Hitotsu dake Onegai - 06 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 最后可以再拜托您一件事吗？ Saigo ni Hitotsu dake Onegai - 06 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][361.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8aba417cca33af350136abdb419a03ad01e1453f</link>
+				<contentLength>378640800</contentLength>
+				<pubDate>2025-11-01T12:07:16.692118</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="378640800" url="https://mikanani.me/Download/20251101/8aba417cca33af350136abdb419a03ad01e1453f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 娑婆气 Shabake - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/ef85df8b6871e359e9c4d4a08d462a954e9ca0d7</link>
+			<title>[Prejudice-Studio] 娑婆气 Shabake - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 娑婆气 Shabake - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][241.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ef85df8b6871e359e9c4d4a08d462a954e9ca0d7</link>
+				<contentLength>252706816</contentLength>
+				<pubDate>2025-11-01T12:05:46.091039</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="252706816" url="https://mikanani.me/Download/20251101/ef85df8b6871e359e9c4d4a08d462a954e9ca0d7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
