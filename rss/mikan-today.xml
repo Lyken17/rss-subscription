@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/48c67d2aca296944b713658eb379d8fb3967b667</link>
+			<title>[LoliHouse] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 涅库罗诺美子的宇宙恐怖秀 / Necronomico no Cosmic Horror Show [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][7.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/48c67d2aca296944b713658eb379d8fb3967b667</link>
+				<contentLength>8482560512</contentLength>
+				<pubDate>2025-11-01T15:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20251101/48c67d2aca296944b713658eb379d8fb3967b667.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka [04][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/cfc59273af6dc44cf98e7b85c12d2a486b11c50c</link>
 			<title>[桜都字幕组] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka [04][1080p][繁体内嵌]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-10-31T01:20:40.429</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518279648" url="https://mikanani.me/Download/20251031/4035a0b5df76a8da5fc6391d1a806b09e262e0aa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组]  不动声色的柏田与喜形于色的太田/Kao ni Denai Kashiwada san to Kao ni Deru Oota kun [04][WebRip][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/06ddaeea11dc5317728123db97551fa014753017</link>
-			<title>[绿茶字幕组]  不动声色的柏田与喜形于色的太田/Kao ni Denai Kashiwada san to Kao ni Deru Oota kun [04][WebRip][1080p][简日内嵌]</title>
-			<description>[绿茶字幕组]  不动声色的柏田与喜形于色的太田/Kao ni Denai Kashiwada san to Kao ni Deru Oota kun [04][WebRip][1080p][简日内嵌][494.07 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06ddaeea11dc5317728123db97551fa014753017</link>
-				<contentLength>518069952</contentLength>
-				<pubDate>2025-10-31T01:20:32.768</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="518069952" url="https://mikanani.me/Download/20251031/06ddaeea11dc5317728123db97551fa014753017.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
