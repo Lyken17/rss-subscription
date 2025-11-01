@@ -1036,5 +1036,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="252706816" url="https://mikanani.me/Download/20251101/ef85df8b6871e359e9c4d4a08d462a954e9ca0d7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 叹气的亡灵想隐退 Nageki no Bourei wa Intai shitai [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/5403f8fd3596b4f7fd683d641c31c3e5cbc32211</link>
+			<title>[Prejudice-Studio] 叹气的亡灵想隐退 Nageki no Bourei wa Intai shitai [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
+			<description>[Prejudice-Studio] 叹气的亡灵想隐退 Nageki no Bourei wa Intai shitai [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][3.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5403f8fd3596b4f7fd683d641c31c3e5cbc32211</link>
+				<contentLength>3865470464</contentLength>
+				<pubDate>2025-11-01T12:45:09.466786</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3865470464" url="https://mikanani.me/Download/20251101/5403f8fd3596b4f7fd683d641c31c3e5cbc32211.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
