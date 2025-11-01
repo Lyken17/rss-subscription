@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 31 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/3d84cea0d82432c807891c7b9c18cb7722090163</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 31 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 31 (ABEMA 1920x1080 AVC AAC MP4)[330.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d84cea0d82432c807891c7b9c18cb7722090163</link>
+				<contentLength>346764096</contentLength>
+				<pubDate>2025-11-02T07:12:22.171017</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346764096" url="https://mikanani.me/Download/20251102/3d84cea0d82432c807891c7b9c18cb7722090163.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b4797a8d1b5aaca45b3ccc992a6af8878fec593b</link>
 			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-01T14:47:19.044</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="471974528" url="https://mikanani.me/Download/20251101/9650b51c005c76146cb61129d2f8cba34ed8f143.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[XK SPIRITS][东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai][04][简日双语][1080P][WEBrip][MP4]（急招校对、后期）</guid>
-			<link>https://mikanani.me/Home/Episode/e19555f0ae5f4a67703b4e4345fcddb159d5248f</link>
-			<title>[XK SPIRITS][东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai][04][简日双语][1080P][WEBrip][MP4]（急招校对、后期）</title>
-			<description>[XK SPIRITS][东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai][04][简日双语][1080P][WEBrip][MP4]（急招校对、后期）[450.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e19555f0ae5f4a67703b4e4345fcddb159d5248f</link>
-				<contentLength>472278624</contentLength>
-				<pubDate>2025-11-01T14:47:12.043</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="472278624" url="https://mikanani.me/Download/20251101/e19555f0ae5f4a67703b4e4345fcddb159d5248f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
