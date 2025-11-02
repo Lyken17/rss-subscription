@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/4f62948da8e3096ad9633e93e12b8d293fd53dd7</link>
+			<title>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][379.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f62948da8e3096ad9633e93e12b8d293fd53dd7</link>
+				<contentLength>397934592</contentLength>
+				<pubDate>2025-11-03T03:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397934592" url="https://mikanani.me/Download/20251103/4f62948da8e3096ad9633e93e12b8d293fd53dd7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Gachiakuta - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/5c775d79e4650c05e5dfd13675ce0548fde3b70b</link>
 			<title>[Skymoon-Raws] Gachiakuta - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-02T02:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="330930592" url="https://mikanani.me/Download/20251102/bfc40c4fa8bd3057224a603cebbd431590a1aab7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 朋友的妹妹只缠著我 / Tomodachi no Imouto ga Ore ni dake Uzai - 05 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/04890ab05498d87929dc810412af0e0aae16adf4</link>
-			<title>[黒ネズミたち] 朋友的妹妹只缠著我 / Tomodachi no Imouto ga Ore ni dake Uzai - 05 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 朋友的妹妹只缠著我 / Tomodachi no Imouto ga Ore ni dake Uzai - 05 (CR 1920x1080 AVC AAC MKV)[634.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/04890ab05498d87929dc810412af0e0aae16adf4</link>
-				<contentLength>665636032</contentLength>
-				<pubDate>2025-11-02T02:39:40.421549</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="665636032" url="https://mikanani.me/Download/20251102/04890ab05498d87929dc810412af0e0aae16adf4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
