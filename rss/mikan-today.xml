@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1033-1035 太阁名人的将棋棋盘][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/0850f5af5f6718d7e7a6bc17b0bc04f4daba749b</link>
+			<title>[APTX4869][CONAN][名侦探柯南 1033-1035 太阁名人的将棋棋盘][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 1033-1035 太阁名人的将棋棋盘][HDTV][1080P][简体MP4][694.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0850f5af5f6718d7e7a6bc17b0bc04f4daba749b</link>
+				<contentLength>728340864</contentLength>
+				<pubDate>2025-11-02T13:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="728340864" url="https://mikanani.me/Download/20251102/0850f5af5f6718d7e7a6bc17b0bc04f4daba749b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E31][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
 			<link>https://mikanani.me/Home/Episode/d65fe7025bca44e49bef6f2023428ef46c22b9ea</link>
 			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E31][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-01T21:30:28.659945</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747110400" url="https://mikanani.me/Download/20251101/780e5bb3ac8c39ade1e727b79945b00185150018.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [04] [1080p] [繁日内嵌] [2025年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/cafddad2d6c4321a86666d943d6b2d70914d3f4b</link>
-			<title>[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [04] [1080p] [繁日内嵌] [2025年10月番]</title>
-			<description>[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [04] [1080p] [繁日内嵌] [2025年10月番][584.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cafddad2d6c4321a86666d943d6b2d70914d3f4b</link>
-				<contentLength>612473216</contentLength>
-				<pubDate>2025-11-01T21:29:07.121453</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="612473216" url="https://mikanani.me/Download/20251101/cafddad2d6c4321a86666d943d6b2d70914d3f4b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
