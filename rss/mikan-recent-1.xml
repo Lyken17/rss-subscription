@@ -1732,5 +1732,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="692269888" url="https://mikanani.me/Download/20251102/59eae22bce38275dab11531492c62991a785c43f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E31][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
+			<link>https://mikanani.me/Home/Episode/d65fe7025bca44e49bef6f2023428ef46c22b9ea</link>
+			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E31][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
+			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E31][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d65fe7025bca44e49bef6f2023428ef46c22b9ea</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2025-11-02T12:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20251102/d65fe7025bca44e49bef6f2023428ef46c22b9ea.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E31][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
+			<link>https://mikanani.me/Home/Episode/a6899c9839d6b7dc8144edf430d3a8f043be1531</link>
+			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E31][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
+			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E31][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[378.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a6899c9839d6b7dc8144edf430d3a8f043be1531</link>
+				<contentLength>397305440</contentLength>
+				<pubDate>2025-11-02T12:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397305440" url="https://mikanani.me/Download/20251102/a6899c9839d6b7dc8144edf430d3a8f043be1531.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
