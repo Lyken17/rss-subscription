@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/57adf479fc550fc455399d60f52b0f73a63034d1</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][854.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/57adf479fc550fc455399d60f52b0f73a63034d1</link>
-				<contentLength>896375168</contentLength>
-				<pubDate>2025-10-26T13:30:07.027</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="896375168" url="https://mikanani.me/Download/20251026/57adf479fc550fc455399d60f52b0f73a63034d1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/640f53d9baf90bbd2af2d48bbc251b94812a2f31</link>
 			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -615,6 +603,18 @@
 				<pubDate>2025-11-02T20:28:57.424</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="770189568" url="https://mikanani.me/Download/20251102/7046c4f44005d73006bea8ec7663c06aca835e91.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4af869af9f1c674d6570fc4c0f2d6ddbee2bba03</link>
+			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][932.03 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4af869af9f1c674d6570fc4c0f2d6ddbee2bba03</link>
+				<contentLength>977304320</contentLength>
+				<pubDate>2025-11-02T21:44:00.352</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="977304320" url="https://mikanani.me/Download/20251102/4af869af9f1c674d6570fc4c0f2d6ddbee2bba03.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
