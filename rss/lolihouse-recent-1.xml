@@ -100,5 +100,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="455962784" url="https://mikanani.me/Download/20251102/711b04e8656546a2ce9a00957c770cb89ed77c5c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/01908bb72e1cd9170eade0e1ad79d1fa91e4ecb7</link>
+			<title>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][609.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/01908bb72e1cd9170eade0e1ad79d1fa91e4ecb7</link>
+				<contentLength>638708608</contentLength>
+				<pubDate>2025-11-02T09:19:06.515</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="638708608" url="https://mikanani.me/Download/20251102/01908bb72e1cd9170eade0e1ad79d1fa91e4ecb7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
