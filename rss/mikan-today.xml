@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 东岛丹三郎想成为假面骑士 - 01 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/707e6894fc79c286c2576a7ad4e3562514de878b</link>
+			<title>[沸班亚马制作组] 东岛丹三郎想成为假面骑士 - 01 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 东岛丹三郎想成为假面骑士 - 01 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][787MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/707e6894fc79c286c2576a7ad4e3562514de878b</link>
+				<contentLength>825229312</contentLength>
+				<pubDate>2025-11-02T21:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="825229312" url="https://mikanani.me/Download/20251102/707e6894fc79c286c2576a7ad4e3562514de878b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 东岛丹三郎想成为假面骑士 - 01 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c729ead00dfcdf68ec1dd965c30ee4c979552310</link>
+			<title>[沸班亚马制作组] 东岛丹三郎想成为假面骑士 - 01 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 东岛丹三郎想成为假面骑士 - 01 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][306.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c729ead00dfcdf68ec1dd965c30ee4c979552310</link>
+				<contentLength>320969120</contentLength>
+				<pubDate>2025-11-02T20:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="320969120" url="https://mikanani.me/Download/20251102/c729ead00dfcdf68ec1dd965c30ee4c979552310.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7a38899dd2f2d24f7fc6855a593a58cdb8adc577</link>
 			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-11-01T23:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="204547817472" url="https://mikanani.me/Download/20251101/7288d3d18398a3decef860fcf36e1ffbf6ecab04.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">天才小钓手三平.Tsurikichi Sanpei (Paul le pêcheur) 法语.Intégrale-VHSrip-VF</guid>
-			<link>https://mikanani.me/Home/Episode/e3302ac0442bf812c6741d51f7b893fa1da8e558</link>
-			<title>天才小钓手三平.Tsurikichi Sanpei (Paul le pêcheur) 法语.Intégrale-VHSrip-VF</title>
-			<description>天才小钓手三平.Tsurikichi Sanpei (Paul le pêcheur) 法语.Intégrale-VHSrip-VF[30.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e3302ac0442bf812c6741d51f7b893fa1da8e558</link>
-				<contentLength>32534376448</contentLength>
-				<pubDate>2025-11-01T23:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="32534376448" url="https://mikanani.me/Download/20251101/e3302ac0442bf812c6741d51f7b893fa1da8e558.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">天才小钓手三平.Tsurikichi Sanpei.日语.内挂英文字幕</guid>
-			<link>https://mikanani.me/Home/Episode/00ec842c049ae9368b467565e596e7a6a58175b1</link>
-			<title>天才小钓手三平.Tsurikichi Sanpei.日语.内挂英文字幕</title>
-			<description>天才小钓手三平.Tsurikichi Sanpei.日语.内挂英文字幕[16.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/00ec842c049ae9368b467565e596e7a6a58175b1</link>
-				<contentLength>17394618368</contentLength>
-				<pubDate>2025-11-01T23:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17394618368" url="https://mikanani.me/Download/20251101/00ec842c049ae9368b467565e596e7a6a58175b1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
