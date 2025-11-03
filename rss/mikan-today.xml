@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9a53f25309a9e69bfe02dc44022f1c345c6e72da</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][274.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a53f25309a9e69bfe02dc44022f1c345c6e72da</link>
+				<contentLength>287876064</contentLength>
+				<pubDate>2025-11-03T17:54:45.042</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="287876064" url="https://mikanani.me/Download/20251103/9a53f25309a9e69bfe02dc44022f1c345c6e72da.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Ao no Orchestra S02 /  蓝色管弦乐 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/7a36056b0be4315c56ec1caa74bce5ab52939c61</link>
 			<title>[ANi] Ao no Orchestra S02 /  蓝色管弦乐 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-02T10:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8482560512" url="https://mikanani.me/Download/20251102/34ecfb4e9bdf890969568ccf90bdc1ac1cd72e5a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c3383e48bde2a317275e5614c0a6d2fbf9e61c6f</link>
-			<title>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][748.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c3383e48bde2a317275e5614c0a6d2fbf9e61c6f</link>
-				<contentLength>784764736</contentLength>
-				<pubDate>2025-11-02T10:21:42.083</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="784764736" url="https://mikanani.me/Download/20251102/c3383e48bde2a317275e5614c0a6d2fbf9e61c6f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
