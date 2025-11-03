@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 明天, 美食广场见/フードコートで、また明日。/Food Court de, Mata Ashita S01 | 01-06 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/a6d2ff1d6327e7cb0127bc0d434e24aa403096f7</link>
+			<title>[7³ACG] 明天, 美食广场见/フードコートで、また明日。/Food Court de, Mata Ashita S01 | 01-06 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 明天, 美食广场见/フードコートで、また明日。/Food Court de, Mata Ashita S01 | 01-06 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[2.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a6d2ff1d6327e7cb0127bc0d434e24aa403096f7</link>
+				<contentLength>2147483648</contentLength>
+				<pubDate>2025-11-03T08:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20251103/a6d2ff1d6327e7cb0127bc0d434e24aa403096f7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/69338e385d6962fc65deca9e6a342fa39ee015dd</link>
 			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-02T07:17:16.103965</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="85039512" url="https://mikanani.me/Download/20251102/1f8c2f6cd0f40fa69422ecdb120dd61e26b3417b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 31 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/3d84cea0d82432c807891c7b9c18cb7722090163</link>
-			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 31 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 31 (ABEMA 1920x1080 AVC AAC MP4)[330.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3d84cea0d82432c807891c7b9c18cb7722090163</link>
-				<contentLength>346764096</contentLength>
-				<pubDate>2025-11-02T07:12:22.171017</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="346764096" url="https://mikanani.me/Download/20251102/3d84cea0d82432c807891c7b9c18cb7722090163.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
