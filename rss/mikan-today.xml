@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5b9fade888a8ffc89183e853867ed09b17cbb320</link>
+			<title>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][299.56 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b9fade888a8ffc89183e853867ed09b17cbb320</link>
+				<contentLength>314111424</contentLength>
+				<pubDate>2025-11-03T13:06:41.622</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="314111424" url="https://mikanani.me/Download/20251103/5b9fade888a8ffc89183e853867ed09b17cbb320.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/55372aadf01fef6308ed4ecfded2716b39acb491</link>
 			<title>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-02T10:00:58.352954</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="317299104" url="https://mikanani.me/Download/20251102/ea8bd3e9ce701cb71aa6fdad0d4aa5da1fe2a75f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/01908bb72e1cd9170eade0e1ad79d1fa91e4ecb7</link>
-			<title>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 05 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][609.12 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/01908bb72e1cd9170eade0e1ad79d1fa91e4ecb7</link>
-				<contentLength>638708608</contentLength>
-				<pubDate>2025-11-02T09:19:06.515</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="638708608" url="https://mikanani.me/Download/20251102/01908bb72e1cd9170eade0e1ad79d1fa91e4ecb7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
