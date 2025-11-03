@@ -148,5 +148,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="538968064" url="https://mikanani.me/Download/20251103/c82f778142b5fe061af7426cc065d64804bc1c4c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3  - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fe2b0b41006f48938d04b576530601e64547fa1d</link>
+			<title>[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3  - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3  - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][427.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fe2b0b41006f48938d04b576530601e64547fa1d</link>
+				<contentLength>448570336</contentLength>
+				<pubDate>2025-11-03T21:54:31.179</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="448570336" url="https://mikanani.me/Download/20251103/fe2b0b41006f48938d04b576530601e64547fa1d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
