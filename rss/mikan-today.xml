@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/57685bbef08a6f79472974da2d008b03c5849c64</link>
+			<title>[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 05 (CR 1920x1080 AVC AAC MKV)[765.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/57685bbef08a6f79472974da2d008b03c5849c64</link>
+				<contentLength>802475200</contentLength>
+				<pubDate>2025-11-03T21:08:52.833028</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="802475200" url="https://mikanani.me/Download/20251103/57685bbef08a6f79472974da2d008b03c5849c64.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 1036&amp;1037 乳白天空 前后篇][HDTV][1080P][简体MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/2a8c4e0d945b742de6a5c7a26d7a58c4d03e9e9e</link>
 			<title>[APTX4869][CONAN][名侦探柯南 1036&amp;1037 乳白天空 前后篇][HDTV][1080P][简体MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-02T11:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="692269888" url="https://mikanani.me/Download/20251102/59eae22bce38275dab11531492c62991a785c43f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&amp;「给他们好看！」 - 05 [HIDIVE WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e4f6da4bd8754ca9d55f420efbe23d18a3dd5618</link>
-			<title>[沸班亚马制作组] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&amp;「给他们好看！」 - 05 [HIDIVE WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&amp;「给他们好看！」 - 05 [HIDIVE WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][288.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4f6da4bd8754ca9d55f420efbe23d18a3dd5618</link>
-				<contentLength>302514176</contentLength>
-				<pubDate>2025-11-02T10:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="302514176" url="https://mikanani.me/Download/20251102/e4f6da4bd8754ca9d55f420efbe23d18a3dd5618.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
