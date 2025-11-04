@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/4f62948da8e3096ad9633e93e12b8d293fd53dd7</link>
-			<title>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][379.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f62948da8e3096ad9633e93e12b8d293fd53dd7</link>
-				<contentLength>397934592</contentLength>
-				<pubDate>2025-11-03T03:15:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397934592" url="https://mikanani.me/Download/20251103/4f62948da8e3096ad9633e93e12b8d293fd53dd7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/69338e385d6962fc65deca9e6a342fa39ee015dd</link>
 			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1215,6 +1203,18 @@
 				<pubDate>2025-11-04T09:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4402341376" url="https://mikanani.me/Download/20251104/cd899d8fd004f57b0521436cdafc0455a783408d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Shiniori-Raws] Kusuriya no Hitorigoto S2 (BD 3840x2160 x265 10bit FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/f87038de43fea37ca0cf08cdcf843261e4b34143</link>
+			<title>[Shiniori-Raws] Kusuriya no Hitorigoto S2 (BD 3840x2160 x265 10bit FLAC)</title>
+			<description>[Shiniori-Raws] Kusuriya no Hitorigoto S2 (BD 3840x2160 x265 10bit FLAC)[35.37 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f87038de43fea37ca0cf08cdcf843261e4b34143</link>
+				<contentLength>37978247168</contentLength>
+				<pubDate>2025-11-04T11:13:36.138</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="37978247168" url="https://mikanani.me/Download/20251104/f87038de43fea37ca0cf08cdcf843261e4b34143.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
