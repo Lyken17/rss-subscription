@@ -31120,5 +31120,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="280462624" url="https://mikanani.me/Download/20251104/6bf60571f6aa479973e17598f507733430945d1f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/397f0ba7914fc652943f6b389cc9521617d267ad</link>
+			<title>[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 05 (ABEMA 1920x1080 AVC AAC MP4)[135.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/397f0ba7914fc652943f6b389cc9521617d267ad</link>
+				<contentLength>141872336</contentLength>
+				<pubDate>2025-11-04T21:05:19.487601</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="141872336" url="https://mikanani.me/Download/20251104/397f0ba7914fc652943f6b389cc9521617d267ad.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

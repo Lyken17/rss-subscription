@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5b9fade888a8ffc89183e853867ed09b17cbb320</link>
-			<title>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][299.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5b9fade888a8ffc89183e853867ed09b17cbb320</link>
-				<contentLength>314111424</contentLength>
-				<pubDate>2025-11-03T13:06:41.622</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="314111424" url="https://mikanani.me/Download/20251103/5b9fade888a8ffc89183e853867ed09b17cbb320.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Ao no Orchestra S02 /  蓝色管弦乐 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/7a36056b0be4315c56ec1caa74bce5ab52939c61</link>
 			<title>[ANi] Ao no Orchestra S02 /  蓝色管弦乐 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1143,6 +1131,18 @@
 				<pubDate>2025-11-04T19:13:44.352</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="280462624" url="https://mikanani.me/Download/20251104/6bf60571f6aa479973e17598f507733430945d1f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/397f0ba7914fc652943f6b389cc9521617d267ad</link>
+			<title>[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 05 (ABEMA 1920x1080 AVC AAC MP4)[135.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/397f0ba7914fc652943f6b389cc9521617d267ad</link>
+				<contentLength>141872336</contentLength>
+				<pubDate>2025-11-04T21:05:19.487601</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="141872336" url="https://mikanani.me/Download/20251104/397f0ba7914fc652943f6b389cc9521617d267ad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
