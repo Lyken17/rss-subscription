@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [17][WebRip][HEVC_EAC3][简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/97d70a3d428a454b0c6f5d37391f8da7b4f9bf24</link>
+			<title>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [17][WebRip][HEVC_EAC3][简日内封]</title>
+			<description>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [17][WebRip][HEVC_EAC3][简日内封][523.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/97d70a3d428a454b0c6f5d37391f8da7b4f9bf24</link>
+				<contentLength>549244096</contentLength>
+				<pubDate>2025-11-05T02:41:48.370283</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="549244096" url="https://mikanani.me/Download/20251105/97d70a3d428a454b0c6f5d37391f8da7b4f9bf24.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 82 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/37048520baea74d97da4e11f5c0f7fc341690f36</link>
 			<title>[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 82 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-04T00:02:08.930938</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="502897056" url="https://mikanani.me/Download/20251104/fdd5f2d0732013deb0c973717372f9b79a2822f2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/af2974fa1087745605f500a2eba50d5de8da4a1b</link>
-			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (Baha 1920x1080 AVC AAC MP4)[479.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/af2974fa1087745605f500a2eba50d5de8da4a1b</link>
-				<contentLength>502582464</contentLength>
-				<pubDate>2025-11-04T00:01:57.763799</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="502582464" url="https://mikanani.me/Download/20251104/af2974fa1087745605f500a2eba50d5de8da4a1b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
