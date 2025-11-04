@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/9aad5baff4b24650f02b8b0708b13c166b26cbf9</link>
+			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★04★1920x1080★AVC AAC MP4★繁体中文[368.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9aad5baff4b24650f02b8b0708b13c166b26cbf9</link>
+				<contentLength>386505120</contentLength>
+				<pubDate>2025-11-05T07:00:18.824</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386505120" url="https://mikanani.me/Download/20251105/9aad5baff4b24650f02b8b0708b13c166b26cbf9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [17][WebRip][HEVC_EAC3][简日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/97d70a3d428a454b0c6f5d37391f8da7b4f9bf24</link>
 			<title>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [17][WebRip][HEVC_EAC3][简日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-04T00:04:15.69203</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="584056832" url="https://mikanani.me/Download/20251104/4c2b4a1e3417761c7710d708aba7754f5098e09a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Kingdom S06 /  王者天下 第六季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/fdd5f2d0732013deb0c973717372f9b79a2822f2</link>
-			<title>[ANi] Kingdom S06 /  王者天下 第六季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Kingdom S06 /  王者天下 第六季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][479.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fdd5f2d0732013deb0c973717372f9b79a2822f2</link>
-				<contentLength>502897056</contentLength>
-				<pubDate>2025-11-04T00:02:08.930938</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="502897056" url="https://mikanani.me/Download/20251104/fdd5f2d0732013deb0c973717372f9b79a2822f2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
