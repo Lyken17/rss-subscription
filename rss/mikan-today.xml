@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[奇怪机翻组] 世界计划 无法歌唱的初音未来 / Project Sekai Kowareta Sekai to Utaenai Miku [BDRip] [1080P HEVC-10Bit FLAC] [简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6ec6f25eb0d1513907bd03db5007e446f76223b5</link>
+			<title>[奇怪机翻组] 世界计划 无法歌唱的初音未来 / Project Sekai Kowareta Sekai to Utaenai Miku [BDRip] [1080P HEVC-10Bit FLAC] [简繁日内封字幕]</title>
+			<description>[奇怪机翻组] 世界计划 无法歌唱的初音未来 / Project Sekai Kowareta Sekai to Utaenai Miku [BDRip] [1080P HEVC-10Bit FLAC] [简繁日内封字幕][6.67 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ec6f25eb0d1513907bd03db5007e446f76223b5</link>
+				<contentLength>7161858048</contentLength>
+				<pubDate>2025-11-04T18:16:24.717</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7161858048" url="https://mikanani.me/Download/20251104/6ec6f25eb0d1513907bd03db5007e446f76223b5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Shiniori-Raws] Kusuriya no Hitorigoto S2 (BD 3840x2160 x265 10bit FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/f87038de43fea37ca0cf08cdcf843261e4b34143</link>
 			<title>[Shiniori-Raws] Kusuriya no Hitorigoto S2 (BD 3840x2160 x265 10bit FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-03T08:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20251103/a6d2ff1d6327e7cb0127bc0d434e24aa403096f7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/69338e385d6962fc65deca9e6a342fa39ee015dd</link>
-			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★05★1920x1080★AVC AAC MP4★繁体中文[382.74 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/69338e385d6962fc65deca9e6a342fa39ee015dd</link>
-				<contentLength>401331968</contentLength>
-				<pubDate>2025-11-03T04:48:38.698</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401331968" url="https://mikanani.me/Download/20251103/69338e385d6962fc65deca9e6a342fa39ee015dd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
