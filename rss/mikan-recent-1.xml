@@ -1168,5 +1168,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="561785088" url="https://mikanani.me/Download/20251105/eb9b047fd5c42431dd7bf12dee39c704fe70fa8b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 02 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/2f42dec6e2bfb893a91546cefe762a87c8bc8f9d</link>
+			<title>[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 02 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 02 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][410.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2f42dec6e2bfb893a91546cefe762a87c8bc8f9d</link>
+				<contentLength>430440448</contentLength>
+				<pubDate>2025-11-05T16:03:04.53594</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="430440448" url="https://mikanani.me/Download/20251105/2f42dec6e2bfb893a91546cefe762a87c8bc8f9d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

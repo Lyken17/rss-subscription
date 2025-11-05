@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 02 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/2f42dec6e2bfb893a91546cefe762a87c8bc8f9d</link>
+			<title>[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 02 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 02 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][410.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2f42dec6e2bfb893a91546cefe762a87c8bc8f9d</link>
+				<contentLength>430440448</contentLength>
+				<pubDate>2025-11-05T16:03:04.53594</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="430440448" url="https://mikanani.me/Download/20251105/2f42dec6e2bfb893a91546cefe762a87c8bc8f9d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [04][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/98e0563a5d6d373d55bae16be669b3b5992e1076</link>
 			<title>[绿茶字幕组] 不擅吸血的吸血鬼/Chanto Suenai Kyuuketsuki-chan [04][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-04T03:10:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="493984160" url="https://mikanani.me/Download/20251104/879cf049c7ff40cd04ae77c833a3dd61a8fcb624.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 间谍家家酒 第三季 / Spy x Family (2025) [05][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/93b6cffb6752e11faa53778dfa12b6ede4bf6dcc</link>
-			<title>[桜都字幕组] 间谍家家酒 第三季 / Spy x Family (2025) [05][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 间谍家家酒 第三季 / Spy x Family (2025) [05][1080p][繁体内嵌][288.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/93b6cffb6752e11faa53778dfa12b6ede4bf6dcc</link>
-				<contentLength>302514176</contentLength>
-				<pubDate>2025-11-04T02:47:55.888</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="302514176" url="https://mikanani.me/Download/20251104/93b6cffb6752e11faa53778dfa12b6ede4bf6dcc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
