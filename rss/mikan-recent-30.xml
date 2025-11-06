@@ -30784,5 +30784,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="505308768" url="https://mikanani.me/Download/20251106/1774ae25734c0d03c3731c10c683855949fbde1c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/23f34d6c7ae4d46202c9c5194100b9126d28a799</link>
+			<title>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌][522.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23f34d6c7ae4d46202c9c5194100b9126d28a799</link>
+				<contentLength>547566400</contentLength>
+				<pubDate>2025-11-06T17:08:34.748035</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547566400" url="https://mikanani.me/Download/20251106/23f34d6c7ae4d46202c9c5194100b9126d28a799.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

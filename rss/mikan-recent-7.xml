@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 绝妙舞步 Wandance - 04 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/fe62d21b1ba2d53c30bd61d47272b44b0af0b9f3</link>
-			<title>[Prejudice-Studio] 绝妙舞步 Wandance - 04 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 绝妙舞步 Wandance - 04 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][383.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fe62d21b1ba2d53c30bd61d47272b44b0af0b9f3</link>
-				<contentLength>402338624</contentLength>
-				<pubDate>2025-10-30T08:29:00.376483</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="402338624" url="https://mikanani.me/Download/20251030/fe62d21b1ba2d53c30bd61d47272b44b0af0b9f3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中]</guid>
 			<link>https://mikanani.me/Home/Episode/3e8dcbe930a9194ef39a5cde9276109dc0df0e28</link>
 			<title>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][04][1080P][BIG5][MP4][繁中]</title>
@@ -7227,6 +7215,18 @@
 				<pubDate>2025-11-06T16:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="505308768" url="https://mikanani.me/Download/20251106/1774ae25734c0d03c3731c10c683855949fbde1c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/23f34d6c7ae4d46202c9c5194100b9126d28a799</link>
+			<title>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌][522.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23f34d6c7ae4d46202c9c5194100b9126d28a799</link>
+				<contentLength>547566400</contentLength>
+				<pubDate>2025-11-06T17:08:34.748035</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547566400" url="https://mikanani.me/Download/20251106/23f34d6c7ae4d46202c9c5194100b9126d28a799.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

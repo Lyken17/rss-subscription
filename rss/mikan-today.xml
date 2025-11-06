@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/23f34d6c7ae4d46202c9c5194100b9126d28a799</link>
+			<title>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - ５ [1080p][简日内嵌][522.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23f34d6c7ae4d46202c9c5194100b9126d28a799</link>
+				<contentLength>547566400</contentLength>
+				<pubDate>2025-11-06T17:08:34.748035</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547566400" url="https://mikanani.me/Download/20251106/23f34d6c7ae4d46202c9c5194100b9126d28a799.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">大唐乘风录[第09集][4K].Wind.Driver.in.Tang.Dynasty</guid>
 			<link>https://mikanani.me/Home/Episode/63c66472abfadfe20f37ea181477354c5ba9b76a</link>
 			<title>大唐乘风录[第09集][4K].Wind.Driver.in.Tang.Dynasty</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-05T00:30:37.097143</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="247673648" url="https://mikanani.me/Download/20251105/eec78c1c5731e5044d0cd041f8a22c3691ee973b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [05][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/dabe4ac88058248e1aae923425cc8016e4f79668</link>
-			<title>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [05][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [05][WebRip][1080p][繁日内嵌][524.07 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dabe4ac88058248e1aae923425cc8016e4f79668</link>
-				<contentLength>549527232</contentLength>
-				<pubDate>2025-11-05T00:25:54.868</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="549527232" url="https://mikanani.me/Download/20251105/dabe4ac88058248e1aae923425cc8016e4f79668.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
