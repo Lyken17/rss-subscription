@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5a93ec1cd9e2c81f8e9b271b61b1c15e244cada4</link>
+			<title>[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 素材采集家的异世界旅行记 / Sozai Saishuka no Isekai Ryokouki - 05 (ABEMA 1920x1080 AVC AAC MP4)[712.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5a93ec1cd9e2c81f8e9b271b61b1c15e244cada4</link>
+				<contentLength>746586112</contentLength>
+				<pubDate>2025-11-06T20:30:43.825324</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20251106/5a93ec1cd9e2c81f8e9b271b61b1c15e244cada4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f9353d6754dc4337e0b9f0f419efcd396baefa6e</link>
 			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-05T01:05:16.424232</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="78748056" url="https://mikanani.me/Download/20251105/950a601298b4d5cc89ceb9ba315bef26f5b6749b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 17 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b9ae500ead6a2147356ee4721dbe78d68e0c3d2d</link>
-			<title>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 17 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 17 (ABEMA 1920x1080 AVC AAC MP4)[713.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b9ae500ead6a2147356ee4721dbe78d68e0c3d2d</link>
-				<contentLength>748158976</contentLength>
-				<pubDate>2025-11-05T01:00:30.125907</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="748158976" url="https://mikanani.me/Download/20251105/b9ae500ead6a2147356ee4721dbe78d68e0c3d2d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
