@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 绝妙舞步 Wandance - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/9b7968379ef4b94db9f7802f4966f0a3b5450c77</link>
+			<title>[Prejudice-Studio] 绝妙舞步 Wandance - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 绝妙舞步 Wandance - 05 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][360.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b7968379ef4b94db9f7802f4966f0a3b5450c77</link>
+				<contentLength>378431072</contentLength>
+				<pubDate>2025-11-06T09:21:44.448957</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="378431072" url="https://mikanani.me/Download/20251106/9b7968379ef4b94db9f7802f4966f0a3b5450c77.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/da4a77db51d3b2b1d1507e6eff13f089a2928033</link>
 			<title>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-04T23:46:31.356</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="469332128" url="https://mikanani.me/Download/20251104/b085fd5b3af9beb1680cd586fb0b2294814fde01.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][05][1080P][GB][MP4][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/4893c2808e270ccb7201d18685dfba8bf0cc99c7</link>
-			<title>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][05][1080P][GB][MP4][简中]</title>
-			<description>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][05][1080P][GB][MP4][简中][447.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4893c2808e270ccb7201d18685dfba8bf0cc99c7</link>
-				<contentLength>469227264</contentLength>
-				<pubDate>2025-11-04T23:46:13.554</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="469227264" url="https://mikanani.me/Download/20251104/4893c2808e270ccb7201d18685dfba8bf0cc99c7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
