@@ -556,5 +556,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="477867552" url="https://mikanani.me/Download/20251106/3f005f1ae4a740a3518ed5d22a6218fa0f40fbd9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f9353d6754dc4337e0b9f0f419efcd396baefa6e</link>
+			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][295.67 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f9353d6754dc4337e0b9f0f419efcd396baefa6e</link>
+				<contentLength>310032480</contentLength>
+				<pubDate>2025-11-06T19:05:35.311</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="310032480" url="https://mikanani.me/Download/20251106/f9353d6754dc4337e0b9f0f419efcd396baefa6e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d1480d835d7bbd739f0fa733474e54d97d833278</link>
+			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][808.69 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d1480d835d7bbd739f0fa733474e54d97d833278</link>
+				<contentLength>847972928</contentLength>
+				<pubDate>2025-11-06T19:02:40.825</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="847972928" url="https://mikanani.me/Download/20251106/d1480d835d7bbd739f0fa733474e54d97d833278.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
