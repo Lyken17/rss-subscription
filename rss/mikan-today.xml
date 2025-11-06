@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][06][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/8160e7e198a3fc492ce9eaa057896ec0e0f54be3</link>
+			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][06][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][06][1080p][简日双语][401.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8160e7e198a3fc492ce9eaa057896ec0e0f54be3</link>
+				<contentLength>421359776</contentLength>
+				<pubDate>2025-11-07T04:01:40.567</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="421359776" url="https://mikanani.me/Download/20251107/8160e7e198a3fc492ce9eaa057896ec0e0f54be3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  魔法药水救救我 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/833a26ae2d576f6eda4467201ce48b382585d968</link>
 			<title>[ANi]  魔法药水救救我 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-11-05T19:59:20.17871</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="336383168" url="https://mikanani.me/Download/20251105/18bc1ccbbbd559e59296dfdac80420ec0cd6669a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[萌樱字幕组][简日双语][间谍过家家][第三季][3][Webrip][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/cda40e3fdc0e7703a79aaab793c0c8fb7f9ed299</link>
-			<title>[萌樱字幕组][简日双语][间谍过家家][第三季][3][Webrip][1080p][简繁日内封]</title>
-			<description>[萌樱字幕组][简日双语][间谍过家家][第三季][3][Webrip][1080p][简繁日内封][280.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cda40e3fdc0e7703a79aaab793c0c8fb7f9ed299</link>
-				<contentLength>294544992</contentLength>
-				<pubDate>2025-11-05T19:59:07.433368</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="294544992" url="https://mikanani.me/Download/20251105/cda40e3fdc0e7703a79aaab793c0c8fb7f9ed299.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
