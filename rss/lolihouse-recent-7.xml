@@ -532,5 +532,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="247757536" url="https://mikanani.me/Download/20251107/4298c2410c7b8820c75c1f252d42b1881f1604f0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 恶食千金与狂血公爵 / Akujiki Reijou to Kyouketsu Koushaku - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/17ac0475eb0c6a2350e2d416fd821e2bfac000ff</link>
+			<title>[LoliHouse] 恶食千金与狂血公爵 / Akujiki Reijou to Kyouketsu Koushaku - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 恶食千金与狂血公爵 / Akujiki Reijou to Kyouketsu Koushaku - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][368.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/17ac0475eb0c6a2350e2d416fd821e2bfac000ff</link>
+				<contentLength>386274432</contentLength>
+				<pubDate>2025-11-07T17:25:45.848</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386274432" url="https://mikanani.me/Download/20251107/17ac0475eb0c6a2350e2d416fd821e2bfac000ff.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 永远的黄昏 / Towa no Yuugure - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8fb81872cc8da425db952094999e5c7eb4cc475d</link>
+			<title>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 永远的黄昏 / Towa no Yuugure - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][344.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8fb81872cc8da425db952094999e5c7eb4cc475d</link>
+				<contentLength>361528032</contentLength>
+				<pubDate>2025-11-07T17:25:42.072</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="361528032" url="https://mikanani.me/Download/20251107/8fb81872cc8da425db952094999e5c7eb4cc475d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
