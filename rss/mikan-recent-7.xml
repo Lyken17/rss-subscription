@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 03 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7aabeead558c2c30a35ae4563081c17fae37d9ae</link>
-			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 03 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 03 (CR 1920x1080 AVC AAC MKV)[589.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7aabeead558c2c30a35ae4563081c17fae37d9ae</link>
-				<contentLength>617611264</contentLength>
-				<pubDate>2025-10-31T13:27:58.030513</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="617611264" url="https://mikanani.me/Download/20251031/7aabeead558c2c30a35ae4563081c17fae37d9ae.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 27 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1bfb348f2c653989b428992d00e8231689125150</link>
 			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 27 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -6927,6 +6915,18 @@
 				<pubDate>2025-11-07T19:44:28.97</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350622848" url="https://mikanani.me/Download/20251107/821ed2d7324c85c423d8ab1b987431b69d510db4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d290c4608f028e588152ce98cb9cb36f164ff5c9</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)[749.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d290c4608f028e588152ce98cb9cb36f164ff5c9</link>
+				<contentLength>786012544</contentLength>
+				<pubDate>2025-11-07T22:00:43.223583</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786012544" url="https://mikanani.me/Download/20251107/d290c4608f028e588152ce98cb9cb36f164ff5c9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

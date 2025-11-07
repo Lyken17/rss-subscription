@@ -868,5 +868,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350622848" url="https://mikanani.me/Download/20251107/821ed2d7324c85c423d8ab1b987431b69d510db4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d290c4608f028e588152ce98cb9cb36f164ff5c9</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)[749.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d290c4608f028e588152ce98cb9cb36f164ff5c9</link>
+				<contentLength>786012544</contentLength>
+				<pubDate>2025-11-07T22:00:43.223583</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786012544" url="https://mikanani.me/Download/20251107/d290c4608f028e588152ce98cb9cb36f164ff5c9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

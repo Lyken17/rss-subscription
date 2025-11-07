@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[c.c动漫][7月新番][被驱逐出勇者队伍的白魔导师，被S级冒险者捡到][01-12][合集][BIG5][720P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/170f4b8040aef5ca3882ceee568adf487a2b9468</link>
-			<title>[c.c动漫][7月新番][被驱逐出勇者队伍的白魔导师，被S级冒险者捡到][01-12][合集][BIG5][720P][MP4]</title>
-			<description>[c.c动漫][7月新番][被驱逐出勇者队伍的白魔导师，被S级冒险者捡到][01-12][合集][BIG5][720P][MP4][2.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/170f4b8040aef5ca3882ceee568adf487a2b9468</link>
-				<contentLength>2791728640</contentLength>
-				<pubDate>2025-10-08T13:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20251008/170f4b8040aef5ca3882ceee568adf487a2b9468.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [13][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/85d4e33a2679292b01724455446bc2498895e661</link>
 			<title>[离谱Sub] 琉璃的宝石 / 瑠璃の宝石 / Ruri no Houseki [13][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -30603,6 +30591,18 @@
 				<pubDate>2025-11-07T19:44:28.97</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350622848" url="https://mikanani.me/Download/20251107/821ed2d7324c85c423d8ab1b987431b69d510db4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d290c4608f028e588152ce98cb9cb36f164ff5c9</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 05 (ABEMA 1920x1080 AVC AAC MP4)[749.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d290c4608f028e588152ce98cb9cb36f164ff5c9</link>
+				<contentLength>786012544</contentLength>
+				<pubDate>2025-11-07T22:00:43.223583</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786012544" url="https://mikanani.me/Download/20251107/d290c4608f028e588152ce98cb9cb36f164ff5c9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
