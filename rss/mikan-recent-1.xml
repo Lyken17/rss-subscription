@@ -2008,5 +2008,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="322017696" url="https://mikanani.me/Download/20251109/3aa95992f1fa4932eb4c215410addbb9495bf8ef.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/1f5bf4e36c20a22176a56a888a22ea84eb4fd274</link>
+			<title>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][繁体][1080P][MP4][368.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1f5bf4e36c20a22176a56a888a22ea84eb4fd274</link>
+				<contentLength>386735808</contentLength>
+				<pubDate>2025-11-09T04:21:52.267</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386735808" url="https://mikanani.me/Download/20251109/1f5bf4e36c20a22176a56a888a22ea84eb4fd274.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/3d1842f3bf3cc5a964a29586f8d98f27f949bfc1</link>
+			<title>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][简体][1080P][MP4][368.86 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d1842f3bf3cc5a964a29586f8d98f27f949bfc1</link>
+				<contentLength>386777728</contentLength>
+				<pubDate>2025-11-09T04:21:41.084</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386777728" url="https://mikanani.me/Download/20251109/3d1842f3bf3cc5a964a29586f8d98f27f949bfc1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
