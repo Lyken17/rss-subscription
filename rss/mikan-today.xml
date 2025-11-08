@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 32 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/7b709fe8722a7c04823c94f346b9a3e5634d9d72</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 32 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 32 (ABEMA 1920x1080 AVC AAC MP4)[330.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7b709fe8722a7c04823c94f346b9a3e5634d9d72</link>
+				<contentLength>346973792</contentLength>
+				<pubDate>2025-11-09T07:12:22.769685</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346973792" url="https://mikanani.me/Download/20251109/7b709fe8722a7c04823c94f346b9a3e5634d9d72.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][繁体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/1f5bf4e36c20a22176a56a888a22ea84eb4fd274</link>
 			<title>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][06][繁体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-08T17:44:27.346</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="763961024" url="https://mikanani.me/Download/20251108/e3e47ecfcc2e97ad9aaf5037f38735cbdb8295b4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能“无限扭蛋”获得等级9999的伙伴 / Mugen Gacha - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/593637e642971362a7bb159cbbc3676f323656d2</link>
-			<title>[LoliHouse] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能“无限扭蛋”获得等级9999的伙伴 / Mugen Gacha - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能“无限扭蛋”获得等级9999的伙伴 / Mugen Gacha - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][517.63 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/593637e642971362a7bb159cbbc3676f323656d2</link>
-				<contentLength>542774400</contentLength>
-				<pubDate>2025-11-08T17:44:19.087</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="542774400" url="https://mikanani.me/Download/20251108/593637e642971362a7bb159cbbc3676f323656d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
