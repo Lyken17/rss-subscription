@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 间谍过家家 第3期 / SPY×FAMILY Season 3 - 43 [ViuTV][WEB-DL][CHT][1080p][AVC AAC] (间谍家家酒 Season 3)</guid>
+			<link>https://mikanani.me/Home/Episode/3aa95992f1fa4932eb4c215410addbb9495bf8ef</link>
+			<title>[Skymoon-Raws] 间谍过家家 第3期 / SPY×FAMILY Season 3 - 43 [ViuTV][WEB-DL][CHT][1080p][AVC AAC] (间谍家家酒 Season 3)</title>
+			<description>[Skymoon-Raws] 间谍过家家 第3期 / SPY×FAMILY Season 3 - 43 [ViuTV][WEB-DL][CHT][1080p][AVC AAC] (间谍家家酒 Season 3)[307.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3aa95992f1fa4932eb4c215410addbb9495bf8ef</link>
+				<contentLength>322017696</contentLength>
+				<pubDate>2025-11-09T03:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="322017696" url="https://mikanani.me/Download/20251109/3aa95992f1fa4932eb4c215410addbb9495bf8ef.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 06 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/1135745b061354c2c7d9550b941d37db13e122e5</link>
 			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 06 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-08T17:31:35.411773</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="712926848" url="https://mikanani.me/Download/20251108/829f62a270d1e04725ae94ad0b23f603b1009b1f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我的英雄学院 FINAL SEASON / Boku no Hero Academia: Final Season - 165 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/25ca676f3bf364891e46437887fb34fef9513ca8</link>
-			<title>[黒ネズミたち] 我的英雄学院 FINAL SEASON / Boku no Hero Academia: Final Season - 165 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 我的英雄学院 FINAL SEASON / Boku no Hero Academia: Final Season - 165 (Baha 1920x1080 AVC AAC MP4)[679.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25ca676f3bf364891e46437887fb34fef9513ca8</link>
-				<contentLength>712612224</contentLength>
-				<pubDate>2025-11-08T17:31:27.538276</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="712612224" url="https://mikanani.me/Download/20251108/25ca676f3bf364891e46437887fb34fef9513ca8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
