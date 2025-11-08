@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 邻座的怪同学 / Tonari no Kaibutsu-kun / となりの怪物くん 10-bit 1080p HEVC BDRip [S1 + OAD Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/31521efd1266719a21653d9de1e8f6f8f4d05f38</link>
+			<title>[VCB-Studio] 邻座的怪同学 / Tonari no Kaibutsu-kun / となりの怪物くん 10-bit 1080p HEVC BDRip [S1 + OAD Fin]</title>
+			<description>[VCB-Studio] 邻座的怪同学 / Tonari no Kaibutsu-kun / となりの怪物くん 10-bit 1080p HEVC BDRip [S1 + OAD Fin][13.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31521efd1266719a21653d9de1e8f6f8f4d05f38</link>
+				<contentLength>14388140032</contentLength>
+				<pubDate>2025-11-08T12:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14388140032" url="https://mikanani.me/Download/20251108/31521efd1266719a21653d9de1e8f6f8f4d05f38.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DAY字幕组][「藤本树短篇 17-26」 EP07 预言的那由多/「藤本タツキ 17-26」][シーズン1 エピソード7 - 予言のナユタ][简日双语][WEBrip][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/235191e561918712a589fd56c73cd3b4735d00ee</link>
 			<title>[DAY字幕组][「藤本树短篇 17-26」 EP07 预言的那由多/「藤本タツキ 17-26」][シーズン1 エピソード7 - 予言のナユタ][简日双语][WEBrip][1080P][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-07T00:00:45.206779</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="722888320" url="https://mikanani.me/Download/20251107/699250f18487bf3574d3b4b948e39f7e7a61eef7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 永远的黄昏 / Towa no Yuugure - 06 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/efec670271635c403551c7aab226f7c399ace8cc</link>
-			<title>[黒ネズミたち] 永远的黄昏 / Towa no Yuugure - 06 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 永远的黄昏 / Towa no Yuugure - 06 (Baha 1920x1080 AVC AAC MP4)[291.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/efec670271635c403551c7aab226f7c399ace8cc</link>
-				<contentLength>305345344</contentLength>
-				<pubDate>2025-11-06T23:57:53.732303</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="305345344" url="https://mikanani.me/Download/20251106/efec670271635c403551c7aab226f7c399ace8cc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -30832,5 +30832,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="476787520" url="https://mikanani.me/Download/20251108/7226a9b21bd054716241d7815dce577cc40db1cf.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 邻座的怪同学 / Tonari no Kaibutsu-kun / となりの怪物くん 10-bit 1080p HEVC BDRip [S1 + OAD Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/31521efd1266719a21653d9de1e8f6f8f4d05f38</link>
+			<title>[VCB-Studio] 邻座的怪同学 / Tonari no Kaibutsu-kun / となりの怪物くん 10-bit 1080p HEVC BDRip [S1 + OAD Fin]</title>
+			<description>[VCB-Studio] 邻座的怪同学 / Tonari no Kaibutsu-kun / となりの怪物くん 10-bit 1080p HEVC BDRip [S1 + OAD Fin][13.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31521efd1266719a21653d9de1e8f6f8f4d05f38</link>
+				<contentLength>14388140032</contentLength>
+				<pubDate>2025-11-08T12:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14388140032" url="https://mikanani.me/Download/20251108/31521efd1266719a21653d9de1e8f6f8f4d05f38.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
