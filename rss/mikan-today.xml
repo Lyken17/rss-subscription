@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[个人制作合集][ANi] Promise of Wizard / 魔法使的约定 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/36138bb64f235a033a5752772bbb6347e48e856c</link>
+			<title>[个人制作合集][ANi] Promise of Wizard / 魔法使的约定 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[个人制作合集][ANi] Promise of Wizard / 魔法使的约定 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][3.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/36138bb64f235a033a5752772bbb6347e48e856c</link>
+				<contentLength>3972844800</contentLength>
+				<pubDate>2025-11-10T07:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3972844800" url="https://mikanani.me/Download/20251110/36138bb64f235a033a5752772bbb6347e48e856c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★06★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/b13eceb532d8894f4d911326e34d14c4f3d6903c</link>
 			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★06★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-09T10:57:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12562779136" url="https://mikanani.me/Download/20251109/7a8a6a33c92e771f6c60f02b3a6d918735fb13ca.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[星空字幕组][奥美迦奥特曼 / ULTRAMAN OMEGA][17][简日双语][1080P][TVrip][MP4]（急招校对、后期）</guid>
-			<link>https://mikanani.me/Home/Episode/197ce73c41b8d2744bc23516e44f629d6f971bcc</link>
-			<title>[星空字幕组][奥美迦奥特曼 / ULTRAMAN OMEGA][17][简日双语][1080P][TVrip][MP4]（急招校对、后期）</title>
-			<description>[星空字幕组][奥美迦奥特曼 / ULTRAMAN OMEGA][17][简日双语][1080P][TVrip][MP4]（急招校对、后期）[724.74 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/197ce73c41b8d2744bc23516e44f629d6f971bcc</link>
-				<contentLength>759944960</contentLength>
-				<pubDate>2025-11-09T10:48:43.45</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="759944960" url="https://mikanani.me/Download/20251109/197ce73c41b8d2744bc23516e44f629d6f971bcc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
