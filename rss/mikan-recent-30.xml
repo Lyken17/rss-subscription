@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/96b6e9709323d687d830ceee679fe7cceb783278</link>
-			<title>[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[VCB-Studio] 再见龙生，你好人生 / Sayounara Ryuusei, Konnichiwa Jinsei / さようなら竜生、こんにちは人生 10-bit 1080p HEVC BDRip [Fin][16.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96b6e9709323d687d830ceee679fe7cceb783278</link>
-				<contentLength>17824114688</contentLength>
-				<pubDate>2025-10-10T12:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17824114688" url="https://mikanani.me/Download/20251010/96b6e9709323d687d830ceee679fe7cceb783278.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/430c28bc6517df2720f1c039d94671869ac3eb37</link>
 			<title>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [01][1080p][简日内嵌]</title>
@@ -31743,6 +31731,30 @@
 				<pubDate>2025-11-09T18:53:29.475</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="444931776" url="https://mikanani.me/Download/20251109/fce806e978d51464e48a50f79dff9c5967fbc850.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][06][1080p][繁日字幕][V2]</guid>
+			<link>https://mikanani.me/Home/Episode/c0cb92f67ae3981d9a5a031aedb9f4528da534c9</link>
+			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][06][1080p][繁日字幕][V2]</title>
+			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][06][1080p][繁日字幕][V2][605.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0cb92f67ae3981d9a5a031aedb9f4528da534c9</link>
+				<contentLength>634451392</contentLength>
+				<pubDate>2025-11-09T21:15:24.266</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="634451392" url="https://mikanani.me/Download/20251109/c0cb92f67ae3981d9a5a031aedb9f4528da534c9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][06][1080p][简日字幕][V2]</guid>
+			<link>https://mikanani.me/Home/Episode/a4718b568eef4fbd8c02c7b9ba32ab52a58fa3b5</link>
+			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][06][1080p][简日字幕][V2]</title>
+			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][06][1080p][简日字幕][V2][605.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a4718b568eef4fbd8c02c7b9ba32ab52a58fa3b5</link>
+				<contentLength>634786944</contentLength>
+				<pubDate>2025-11-09T21:15:04.287</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="634786944" url="https://mikanani.me/Download/20251109/a4718b568eef4fbd8c02c7b9ba32ab52a58fa3b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
