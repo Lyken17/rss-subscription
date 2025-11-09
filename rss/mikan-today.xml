@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★06★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/b13eceb532d8894f4d911326e34d14c4f3d6903c</link>
+			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★06★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★06★1920x1080★AVC AAC MP4★繁体中文[399.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b13eceb532d8894f4d911326e34d14c4f3d6903c</link>
+				<contentLength>419262624</contentLength>
+				<pubDate>2025-11-10T05:19:58.619</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="419262624" url="https://mikanani.me/Download/20251110/b13eceb532d8894f4d911326e34d14c4f3d6903c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [18][WebRip][AVC_EAC3][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/43b0505e5dc77e3e9facd0829cd946f4632ec936</link>
 			<title>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [18][WebRip][AVC_EAC3][简体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-09T10:48:43.45</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="759944960" url="https://mikanani.me/Download/20251109/197ce73c41b8d2744bc23516e44f629d6f971bcc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[XK SPIRITS][东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai][05][繁日双语][1080P][WEBrip][MP4]（急招校对、后期）</guid>
-			<link>https://mikanani.me/Home/Episode/197da4fc045826290dee8a69a17bbf0e07befeb5</link>
-			<title>[XK SPIRITS][东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai][05][繁日双语][1080P][WEBrip][MP4]（急招校对、后期）</title>
-			<description>[XK SPIRITS][东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai][05][繁日双语][1080P][WEBrip][MP4]（急招校对、后期）[487.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/197da4fc045826290dee8a69a17bbf0e07befeb5</link>
-				<contentLength>511547808</contentLength>
-				<pubDate>2025-11-09T10:48:18.339</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="511547808" url="https://mikanani.me/Download/20251109/197da4fc045826290dee8a69a17bbf0e07befeb5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
