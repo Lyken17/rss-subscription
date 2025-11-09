@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][39][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/8b4ec7db72237ff977e37c6dc15ee9b2099df519</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][39][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][39][简体内嵌](检索:Q娃)[349MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b4ec7db72237ff977e37c6dc15ee9b2099df519</link>
+				<contentLength>365953024</contentLength>
+				<pubDate>2025-11-09T11:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="365953024" url="https://mikanani.me/Download/20251109/8b4ec7db72237ff977e37c6dc15ee9b2099df519.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[XK SPIRITS][假面骑士ZEZTZ / KAMEN RIDER ZEZTZ][09][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）</guid>
 			<link>https://mikanani.me/Home/Episode/594df6eafc3a2448515fcaa361a66bd34fe9b959</link>
 			<title>[XK SPIRITS][假面骑士ZEZTZ / KAMEN RIDER ZEZTZ][09][简日双语][1080P][WEBrip][MP4]（急招校对、时轴）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-08T21:35:39.78373</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747529856" url="https://mikanani.me/Download/20251108/5c5335121ae05841b4992fe4eff8288a02cad2aa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 野生的大魔王出现了！ / Yasei no Last Boss ga Arawareta! - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a085cc09507f4173b190c49a53162f9f977dbac1</link>
-			<title>[黒ネズミたち] 野生的大魔王出现了！ / Yasei no Last Boss ga Arawareta! - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 野生的大魔王出现了！ / Yasei no Last Boss ga Arawareta! - 06 (ABEMA 1920x1080 AVC AAC MP4)[712.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a085cc09507f4173b190c49a53162f9f977dbac1</link>
-				<contentLength>747320128</contentLength>
-				<pubDate>2025-11-08T21:30:31.523533</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20251108/a085cc09507f4173b190c49a53162f9f977dbac1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

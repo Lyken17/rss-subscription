@@ -7072,5 +7072,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="558912000" url="https://mikanani.me/Download/20251109/f475bdd943577966509057d65e49d567e96464da.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][39][简体内嵌](检索:Q娃)</guid>
+			<link>https://mikanani.me/Home/Episode/8b4ec7db72237ff977e37c6dc15ee9b2099df519</link>
+			<title>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][39][简体内嵌](检索:Q娃)</title>
+			<description>[雪飘工作室][キミとアイドルプリキュア♪/You and Idol Precure♪/与你同为 偶像光之美少女♪][720p][39][简体内嵌](检索:Q娃)[349MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b4ec7db72237ff977e37c6dc15ee9b2099df519</link>
+				<contentLength>365953024</contentLength>
+				<pubDate>2025-11-09T11:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="365953024" url="https://mikanani.me/Download/20251109/8b4ec7db72237ff977e37c6dc15ee9b2099df519.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
