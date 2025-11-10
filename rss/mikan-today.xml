@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 01 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/7d06521f139cf9086bd305ed8add3951ce5d1f46</link>
+			<title>[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 01 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 01 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)[343.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d06521f139cf9086bd305ed8add3951ce5d1f46</link>
+				<contentLength>360448000</contentLength>
+				<pubDate>2025-11-10T17:17:35.621</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="360448000" url="https://mikanani.me/Download/20251110/7d06521f139cf9086bd305ed8add3951ce5d1f46.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [18][WebRip][HEVC_EAC3][简日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/3aa7570dd3ba38b46c7dc1ee7143944a24578c3a</link>
 			<title>[小栗帽后援会&amp;S1百综字幕组] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray [18][WebRip][HEVC_EAC3][简日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-09T17:50:13.284</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="628495488" url="https://mikanani.me/Download/20251109/3ae4c63fd67b5b628c7df1d6993ba03651f8a09a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][藤本树 17-26][Fujimoto Tatsuki 17-26][04][WebRip][1080P][AVC 8bit][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/020097559f58728630a6090a4db708f7d8baa529</link>
-			<title>[SweetSub][藤本树 17-26][Fujimoto Tatsuki 17-26][04][WebRip][1080P][AVC 8bit][简日双语]</title>
-			<description>[SweetSub][藤本树 17-26][Fujimoto Tatsuki 17-26][04][WebRip][1080P][AVC 8bit][简日双语][236.67 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/020097559f58728630a6090a4db708f7d8baa529</link>
-				<contentLength>248166480</contentLength>
-				<pubDate>2025-11-09T17:48:46.323</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="248166480" url="https://mikanani.me/Download/20251109/020097559f58728630a6090a4db708f7d8baa529.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
