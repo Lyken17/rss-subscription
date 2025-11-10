@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[个人制作合集][喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e22d51b05c55f0b9ddccba88daf42a2d2d8a5d36</link>
+			<title>[个人制作合集][喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[个人制作合集][喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][4.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e22d51b05c55f0b9ddccba88daf42a2d2d8a5d36</link>
+				<contentLength>4617090048</contentLength>
+				<pubDate>2025-11-11T07:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251111/e22d51b05c55f0b9ddccba88daf42a2d2d8a5d36.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero’s - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/ebd999f5eb96f8768afda1dc6a98184cbf1d616b</link>
 			<title>[Skymoon-Raws] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero’s - 06 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-10T12:18:03.316</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="421579968" url="https://mikanani.me/Download/20251110/b9eac00a39e6cbcf9f86383341b5d2765c5510e5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e23a17e72ea331574b4a3982121a3d9a52174025</link>
-			<title>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][390.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e23a17e72ea331574b4a3982121a3d9a52174025</link>
-				<contentLength>409364064</contentLength>
-				<pubDate>2025-11-10T12:01:43.182595</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="409364064" url="https://mikanani.me/Download/20251110/e23a17e72ea331574b4a3982121a3d9a52174025.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

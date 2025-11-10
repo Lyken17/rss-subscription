@@ -100,5 +100,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="412520288" url="https://mikanani.me/Download/20251110/977f7db48b8bf2ccdf7af9e795a6cf34abfe6fdb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[个人制作合集][喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e22d51b05c55f0b9ddccba88daf42a2d2d8a5d36</link>
+			<title>[个人制作合集][喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[个人制作合集][喵萌奶茶屋&amp;LoliHouse] 直至魔女消逝 / 直到某魔女死去 / Aru Majo ga Shinu Made - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][4.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e22d51b05c55f0b9ddccba88daf42a2d2d8a5d36</link>
+				<contentLength>4617090048</contentLength>
+				<pubDate>2025-11-11T07:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251111/e22d51b05c55f0b9ddccba88daf42a2d2d8a5d36.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
