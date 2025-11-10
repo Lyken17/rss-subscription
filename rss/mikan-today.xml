@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 剧场版 世界计划 崩坏的世界与无法歌唱的初音未来/Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku 2026 [简中字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/94cc2b99e5c4aab84f888ef1326b89b73d86856a</link>
+			<title>[7³ACG] 剧场版 世界计划 崩坏的世界与无法歌唱的初音未来/Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku 2026 [简中字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 剧场版 世界计划 崩坏的世界与无法歌唱的初音未来/Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku 2026 [简中字幕] BDrip 1080p x265 OPUS 2.0[3.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/94cc2b99e5c4aab84f888ef1326b89b73d86856a</link>
+				<contentLength>3972844800</contentLength>
+				<pubDate>2025-11-10T09:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3972844800" url="https://mikanani.me/Download/20251110/94cc2b99e5c4aab84f888ef1326b89b73d86856a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[个人制作合集][ANi] Promise of Wizard / 魔法使的约定 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/36138bb64f235a033a5752772bbb6347e48e856c</link>
 			<title>[个人制作合集][ANi] Promise of Wizard / 魔法使的约定 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-09T11:02:08.089625</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1007052416" url="https://mikanani.me/Download/20251109/da5cfe1ea250a33019a37194ea56ceb4e3e666aa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[个人制作合集][ANi] Momentary Lily / MOMENTARY LILY 刹那之花 - 01-14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7a8a6a33c92e771f6c60f02b3a6d918735fb13ca</link>
-			<title>[个人制作合集][ANi] Momentary Lily / MOMENTARY LILY 刹那之花 - 01-14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[个人制作合集][ANi] Momentary Lily / MOMENTARY LILY 刹那之花 - 01-14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][11.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7a8a6a33c92e771f6c60f02b3a6d918735fb13ca</link>
-				<contentLength>12562779136</contentLength>
-				<pubDate>2025-11-09T10:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="12562779136" url="https://mikanani.me/Download/20251109/7a8a6a33c92e771f6c60f02b3a6d918735fb13ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
