@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1149][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/eda4eb3e1822fe8ae0fff340cc1efcd1dfe15572</link>
+			<title>[Skymoon-Raws][One Piece 海贼王][1149][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
+			<description>[Skymoon-Raws][One Piece 海贼王][1149][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][482.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eda4eb3e1822fe8ae0fff340cc1efcd1dfe15572</link>
+				<contentLength>506252480</contentLength>
+				<pubDate>2025-11-11T02:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="506252480" url="https://mikanani.me/Download/20251111/eda4eb3e1822fe8ae0fff340cc1efcd1dfe15572.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/77d5219ce183662a54d513f66f5903ec8e7272a1</link>
 			<title>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-10T11:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20251110/62246baf332232d1130f1eda2db1231dc530c69a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 168 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/cbfeb8e1c2a5b3afef883b1667336cc9e79f03b7</link>
-			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 168 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 168 (B-Global Donghua 1920x1080 HEVC AAC MKV)[805.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cbfeb8e1c2a5b3afef883b1667336cc9e79f03b7</link>
-				<contentLength>844627968</contentLength>
-				<pubDate>2025-11-10T11:01:12.487633</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="844627968" url="https://mikanani.me/Download/20251110/cbfeb8e1c2a5b3afef883b1667336cc9e79f03b7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
