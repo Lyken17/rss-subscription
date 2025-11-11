@@ -31660,5 +31660,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="591921152" url="https://mikanani.me/Download/20251111/3c09116890e8539b5e9289c2c3b76b661215c7c2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 2200 年猫之国日本 / 2200-nen Neko no Kuni Nippon - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/dcdb65dfccbfde00d4a8629aa39da49bd1609920</link>
+			<title>[黒ネズミたち] 2200 年猫之国日本 / 2200-nen Neko no Kuni Nippon - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 2200 年猫之国日本 / 2200-nen Neko no Kuni Nippon - 07 (ABEMA 1920x1080 AVC AAC MP4)[75.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dcdb65dfccbfde00d4a8629aa39da49bd1609920</link>
+				<contentLength>78748056</contentLength>
+				<pubDate>2025-11-12T01:05:15.029512</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="78748056" url="https://mikanani.me/Download/20251112/dcdb65dfccbfde00d4a8629aa39da49bd1609920.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4371d53816cb906b15241857a782e56d6b8efc37</link>
+			<title>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 双人单身露营 / Futari Solo Camp - 18 (ABEMA 1920x1080 AVC AAC MP4)[713.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4371d53816cb906b15241857a782e56d6b8efc37</link>
+				<contentLength>748473536</contentLength>
+				<pubDate>2025-11-12T01:00:38.770326</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748473536" url="https://mikanani.me/Download/20251112/4371d53816cb906b15241857a782e56d6b8efc37.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
