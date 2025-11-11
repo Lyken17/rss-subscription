@@ -65,18 +65,6 @@
 			<enclosure type="application/x-bittorrent" length="767347904" url="https://mikanani.me/Download/20251012/e1865069acdc0705e70ff33aa5300572d63e595d.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Minimini Minini - 41 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/574e19acd08062365dc0f2e9f82bd460b9630ef0</link>
-			<title>[黒ネズミたち] Minimini Minini - 41 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Minimini Minini - 41 (ABEMA 1920x1080 AVC AAC MP4)[55.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/574e19acd08062365dc0f2e9f82bd460b9630ef0</link>
-				<contentLength>57881396</contentLength>
-				<pubDate>2025-10-12T07:22:15.691203</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="57881396" url="https://mikanani.me/Download/20251012/574e19acd08062365dc0f2e9f82bd460b9630ef0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 间谍过家家 第3期 / SPY×FAMILY Season 3 - 39 [ViuTV][WEB-DL][CHT][1080p][AVC AAC] (间谍家家酒 Season 3)</guid>
 			<link>https://mikanani.me/Home/Episode/0fcc6bb0112be8880ef734aed9b7cfe5b3049aca</link>
 			<title>[Skymoon-Raws] 间谍过家家 第3期 / SPY×FAMILY Season 3 - 39 [ViuTV][WEB-DL][CHT][1080p][AVC AAC] (间谍家家酒 Season 3)</title>
@@ -31671,6 +31659,18 @@
 				<pubDate>2025-11-11T13:45:36.028</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="349542816" url="https://mikanani.me/Download/20251111/410a4517237d44f25514bcd45c07a35c0b981dae.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0</link>
+			<title>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封]</title>
+			<description>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封][331.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0</link>
+				<contentLength>347393216</contentLength>
+				<pubDate>2025-11-11T16:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347393216" url="https://mikanani.me/Download/20251111/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

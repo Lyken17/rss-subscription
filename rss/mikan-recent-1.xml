@@ -1504,5 +1504,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="349542816" url="https://mikanani.me/Download/20251111/410a4517237d44f25514bcd45c07a35c0b981dae.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0</link>
+			<title>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封]</title>
+			<description>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封][331.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0</link>
+				<contentLength>347393216</contentLength>
+				<pubDate>2025-11-11T16:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347393216" url="https://mikanani.me/Download/20251111/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

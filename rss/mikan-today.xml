@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0</link>
+			<title>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封]</title>
+			<description>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [04][WebRip][1080p][繁简日内封][331.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0</link>
+				<contentLength>347393216</contentLength>
+				<pubDate>2025-11-11T16:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="347393216" url="https://mikanani.me/Download/20251111/0505a98bef58d2883b7a67c0bc40bc56ce6d92a0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 02 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/410a4517237d44f25514bcd45c07a35c0b981dae</link>
 			<title>[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 02 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-10T13:24:13.467</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="159394032" url="https://mikanani.me/Download/20251110/0b4ddd0c3d9301314b75ed89e761e77fcc2a7dd6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[漫猫字幕组][10月新番][机械女仆．玛莉][Mechanical Marie][04][720p][MP4][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/98c39c754fbf32ea7f4d033230618afb16bd5f3c</link>
-			<title>[漫猫字幕组][10月新番][机械女仆．玛莉][Mechanical Marie][04][720p][MP4][繁中]</title>
-			<description>[漫猫字幕组][10月新番][机械女仆．玛莉][Mechanical Marie][04][720p][MP4][繁中][152.19 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/98c39c754fbf32ea7f4d033230618afb16bd5f3c</link>
-				<contentLength>159582784</contentLength>
-				<pubDate>2025-11-10T13:24:08.317</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="159582784" url="https://mikanani.me/Download/20251110/98c39c754fbf32ea7f4d033230618afb16bd5f3c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
