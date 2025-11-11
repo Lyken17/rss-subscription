@@ -31684,5 +31684,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="228799280" url="https://mikanani.me/Download/20251111/1c96a3220f12a2a142c64b6e2a342e955e2d2ed6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 02 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/410a4517237d44f25514bcd45c07a35c0b981dae</link>
+			<title>[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 02 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 02 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)[333.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/410a4517237d44f25514bcd45c07a35c0b981dae</link>
+				<contentLength>349542816</contentLength>
+				<pubDate>2025-11-11T13:45:36.028</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="349542816" url="https://mikanani.me/Download/20251111/410a4517237d44f25514bcd45c07a35c0b981dae.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
