@@ -628,5 +628,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="382614912" url="https://mikanani.me/Download/20251112/70ff527c94f5fe4a3cd77b49f3c6a9e9ec1f619e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[个人制作合集][LoliHouse] 推理要在晚餐后 / Nazotoki wa Dinner no Ato de - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2e0d5e8f170586d23be9b0643f7b72179cc0a125</link>
+			<title>[个人制作合集][LoliHouse] 推理要在晚餐后 / Nazotoki wa Dinner no Ato de - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[个人制作合集][LoliHouse] 推理要在晚餐后 / Nazotoki wa Dinner no Ato de - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][10.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e0d5e8f170586d23be9b0643f7b72179cc0a125</link>
+				<contentLength>11166914560</contentLength>
+				<pubDate>2025-11-12T14:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20251112/2e0d5e8f170586d23be9b0643f7b72179cc0a125.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
