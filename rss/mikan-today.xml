@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 斩首循环 蓝色学者与戏言跟班 / Kubikiri Cycle: Aoiro Savant to Zaregotozukai 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/d41d01d0115d9361d4fa40a72357d28ae512f090</link>
+			<title>[VCB-Studio] 斩首循环 蓝色学者与戏言跟班 / Kubikiri Cycle: Aoiro Savant to Zaregotozukai 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] 斩首循环 蓝色学者与戏言跟班 / Kubikiri Cycle: Aoiro Savant to Zaregotozukai 10-bit 1080p HEVC BDRip [Reseed Fin][12.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d41d01d0115d9361d4fa40a72357d28ae512f090</link>
+				<contentLength>12884901888</contentLength>
+				<pubDate>2025-11-12T13:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12884901888" url="https://mikanani.me/Download/20251112/d41d01d0115d9361d4fa40a72357d28ae512f090.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c2d68dfb5d62d829fdb6b125c64f86d69bdfb579</link>
 			<title>[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-11T01:02:13.705206</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20251111/8c7f0b9f0658ac7b6706be5fbe2fb15512ab7b13.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d1c655ba99942beff784eee6f3d9eb36331781c3</link>
-			<title>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 05 (ABEMA 1920x1080 AVC AAC MP4)[717.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d1c655ba99942beff784eee6f3d9eb36331781c3</link>
-				<contentLength>752667840</contentLength>
-				<pubDate>2025-11-11T01:00:35.480395</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="752667840" url="https://mikanani.me/Download/20251111/d1c655ba99942beff784eee6f3d9eb36331781c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
