@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 06 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c6aed187bbfa9ae0656a46e890ee95b8d31419a3</link>
+			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 06 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 06 [CR WebRip AI2160p HEVC-10bit OPUS][简繁内封字幕][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c6aed187bbfa9ae0656a46e890ee95b8d31419a3</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2025-11-13T14:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251113/c6aed187bbfa9ae0656a46e890ee95b8d31419a3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero's [05][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/5ec44ed4488e5b4a0d03c3ac92b74921a1267374</link>
 			<title>[绿茶字幕组] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero's [05][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-12T15:08:04.439</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="173235248" url="https://mikanani.me/Download/20251112/0a47af1f590e2550db4b5a14200ea68ce24b14ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[弹珠汽水瓶里的千岁同学][05][1080p][CHS]</guid>
-			<link>https://mikanani.me/Home/Episode/57586b034d96efca5945dba692938934dca1a4e0</link>
-			<title>【悠哈璃羽字幕社】[弹珠汽水瓶里的千岁同学][05][1080p][CHS]</title>
-			<description>【悠哈璃羽字幕社】[弹珠汽水瓶里的千岁同学][05][1080p][CHS][165.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/57586b034d96efca5945dba692938934dca1a4e0</link>
-				<contentLength>173161840</contentLength>
-				<pubDate>2025-11-12T15:07:06.634</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="173161840" url="https://mikanani.me/Download/20251112/57586b034d96efca5945dba692938934dca1a4e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
