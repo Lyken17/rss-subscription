@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[个人制作合集][ANi] Teogonia / 神统记 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7a81b2eb3768521ac73856ad8b8ad9a76eae33c3</link>
-			<title>[个人制作合集][ANi] Teogonia / 神统记 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[个人制作合集][ANi] Teogonia / 神统记 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][5.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7a81b2eb3768521ac73856ad8b8ad9a76eae33c3</link>
-				<contentLength>5476083200</contentLength>
-				<pubDate>2025-11-12T09:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5476083200" url="https://mikanani.me/Download/20251112/7a81b2eb3768521ac73856ad8b8ad9a76eae33c3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b3b1e8eb7cd8da20a29d3f447e1f6e036c1f9412</link>
 			<title>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 05 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1467,6 +1455,30 @@
 				<pubDate>2025-11-13T14:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251113/c6aed187bbfa9ae0656a46e890ee95b8d31419a3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">大唐乘风录[第10集][4K].Wind.Driver.in.Tang.Dynasty</guid>
+			<link>https://mikanani.me/Home/Episode/6a676461cb708acdf81e3eac673b3c0948ab3eb5</link>
+			<title>大唐乘风录[第10集][4K].Wind.Driver.in.Tang.Dynasty</title>
+			<description>大唐乘风录[第10集][4K].Wind.Driver.in.Tang.Dynasty[831.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a676461cb708acdf81e3eac673b3c0948ab3eb5</link>
+				<contentLength>872205504</contentLength>
+				<pubDate>2025-11-13T16:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="872205504" url="https://mikanani.me/Download/20251113/6a676461cb708acdf81e3eac673b3c0948ab3eb5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">神在囧途[第17集][4K].Eat.Around.the.Mortal.World</guid>
+			<link>https://mikanani.me/Home/Episode/dc7b5a778c9049aadf6179a5848186b0afc67f0b</link>
+			<title>神在囧途[第17集][4K].Eat.Around.the.Mortal.World</title>
+			<description>神在囧途[第17集][4K].Eat.Around.the.Mortal.World[481MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dc7b5a778c9049aadf6179a5848186b0afc67f0b</link>
+				<contentLength>504365056</contentLength>
+				<pubDate>2025-11-13T16:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="504365056" url="https://mikanani.me/Download/20251113/dc7b5a778c9049aadf6179a5848186b0afc67f0b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
