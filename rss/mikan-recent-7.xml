@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4298c2410c7b8820c75c1f252d42b1881f1604f0</link>
-			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][236.28 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4298c2410c7b8820c75c1f252d42b1881f1604f0</link>
-				<contentLength>247757536</contentLength>
-				<pubDate>2025-11-07T07:19:11.775</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="247757536" url="https://mikanani.me/Download/20251107/4298c2410c7b8820c75c1f252d42b1881f1604f0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 26 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4ff985c5c750811734dc31d605c9c755fef52b61</link>
 			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 26 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
@@ -8463,6 +8451,18 @@
 				<pubDate>2025-11-14T13:24:35.889</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="395271200" url="https://mikanani.me/Download/20251114/f7133b91915a45f63b9211b6a7e7b06b99738e7c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/368c5706ab2425438162a367d54ae5225e39f304</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)[713.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/368c5706ab2425438162a367d54ae5225e39f304</link>
+				<contentLength>748263808</contentLength>
+				<pubDate>2025-11-14T16:00:36.546963</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748263808" url="https://mikanani.me/Download/20251114/368c5706ab2425438162a367d54ae5225e39f304.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

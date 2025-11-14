@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/368c5706ab2425438162a367d54ae5225e39f304</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)[713.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/368c5706ab2425438162a367d54ae5225e39f304</link>
+				<contentLength>748263808</contentLength>
+				<pubDate>2025-11-14T16:00:36.546963</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748263808" url="https://mikanani.me/Download/20251114/368c5706ab2425438162a367d54ae5225e39f304.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[VCB-Studio] 夏雪密会 / Natsuyuki Rendezvous / 夏雪ランデブー 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/b29d272623fc3317c98bd620150cab382b9528dd</link>
 			<title>[VCB-Studio] 夏雪密会 / Natsuyuki Rendezvous / 夏雪ランデブー 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-13T12:21:24.314</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="548394752" url="https://mikanani.me/Download/20251113/4df7a28d6558de7d82bafd2020adf34c7513cdf6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [06][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/da93d4f39ff6f05c7e1354a15a198b4b3dc5c0fc</link>
-			<title>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [06][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [06][WebRip][1080p][繁日内嵌][522.98 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/da93d4f39ff6f05c7e1354a15a198b4b3dc5c0fc</link>
-				<contentLength>548384256</contentLength>
-				<pubDate>2025-11-13T12:21:24.301</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="548384256" url="https://mikanani.me/Download/20251113/da93d4f39ff6f05c7e1354a15a198b4b3dc5c0fc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
