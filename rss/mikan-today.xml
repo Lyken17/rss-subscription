@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Gyuunyuu] 好逑双物语/和你在一起的日子/H2 (WEB-DL 1080p h264 AAC)</guid>
+			<link>https://mikanani.me/Home/Episode/159bcae03f698f537a84b8b3ebd2c9a701b0033e</link>
+			<title>[Gyuunyuu] 好逑双物语/和你在一起的日子/H2 (WEB-DL 1080p h264 AAC)</title>
+			<description>[Gyuunyuu] 好逑双物语/和你在一起的日子/H2 (WEB-DL 1080p h264 AAC)[28.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/159bcae03f698f537a84b8b3ebd2c9a701b0033e</link>
+				<contentLength>30709016576</contentLength>
+				<pubDate>2025-11-14T07:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="30709016576" url="https://mikanani.me/Download/20251114/159bcae03f698f537a84b8b3ebd2c9a701b0033e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  魔法药水救救我 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/eddf4c467e7eb22ec4c8abc20c91cc1b9ce0079c</link>
 			<title>[ANi]  魔法药水救救我 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-13T10:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="10522670080" url="https://mikanani.me/Download/20251113/ce27085dde4842f25169f89ac0f849ebb02f8528.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][05][1080p][MP4][GB][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/8c05690cc47530fbe878e6c7888cdfc10b9ca513</link>
-			<title>[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][05][1080p][MP4][GB][简中]</title>
-			<description>[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][05][1080p][MP4][GB][简中][252.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8c05690cc47530fbe878e6c7888cdfc10b9ca513</link>
-				<contentLength>264398432</contentLength>
-				<pubDate>2025-11-13T06:27:25.291</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="264398432" url="https://mikanani.me/Download/20251113/8c05690cc47530fbe878e6c7888cdfc10b9ca513.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
