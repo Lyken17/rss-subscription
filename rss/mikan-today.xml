@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 29 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e88955adbdaaa236ac378c13c9bbd47b637f756e</link>
+			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 29 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 29 (ABEMA 1920x1080 AVC AAC MP4)[722.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e88955adbdaaa236ac378c13c9bbd47b637f756e</link>
+				<contentLength>757596160</contentLength>
+				<pubDate>2025-11-14T17:00:39.952313</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757596160" url="https://mikanani.me/Download/20251114/e88955adbdaaa236ac378c13c9bbd47b637f756e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/368c5706ab2425438162a367d54ae5225e39f304</link>
 			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 18 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-13T12:26:09.175</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="615419712" url="https://mikanani.me/Download/20251113/414bb33846145848420de670bb7094335cc335f9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [06][WebRip][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/4df7a28d6558de7d82bafd2020adf34c7513cdf6</link>
-			<title>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [06][WebRip][1080p][简日内嵌]</title>
-			<description>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [06][WebRip][1080p][简日内嵌][522.99 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4df7a28d6558de7d82bafd2020adf34c7513cdf6</link>
-				<contentLength>548394752</contentLength>
-				<pubDate>2025-11-13T12:21:24.314</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="548394752" url="https://mikanani.me/Download/20251113/4df7a28d6558de7d82bafd2020adf34c7513cdf6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
