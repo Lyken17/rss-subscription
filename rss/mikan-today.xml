@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】不中用的前辈。 第07集 GB_CN HEVC_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/11b57fdaecf69fc4ee5264d49adc538b14b80142</link>
+			<title>【极影字幕·毁片党】不中用的前辈。 第07集 GB_CN HEVC_opus 1080p</title>
+			<description>【极影字幕·毁片党】不中用的前辈。 第07集 GB_CN HEVC_opus 1080p[160.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/11b57fdaecf69fc4ee5264d49adc538b14b80142</link>
+				<contentLength>168233536</contentLength>
+				<pubDate>2025-11-14T22:03:23.099</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="168233536" url="https://mikanani.me/Download/20251114/11b57fdaecf69fc4ee5264d49adc538b14b80142.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/8a46e7fdea3f6d57b2f0713a5b179b2b618d7da2</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 06 (ABEMA 1920x1080 AVC AAC MP4)[750.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a46e7fdea3f6d57b2f0713a5b179b2b618d7da2</link>
+				<contentLength>786641728</contentLength>
+				<pubDate>2025-11-14T22:00:46.835341</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786641728" url="https://mikanani.me/Download/20251114/8a46e7fdea3f6d57b2f0713a5b179b2b618d7da2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][06][1080P][BIG5][MP4][繁中]</guid>
 			<link>https://mikanani.me/Home/Episode/93ae101adc68d03512b9e2f8ee288b14cf303c16</link>
 			<title>[爱恋字幕社][10月新番][对我垂涎欲滴的非人少女][Watashi wo Tabetai, Hitodenashi][06][1080P][BIG5][MP4][繁中]</title>
@@ -1167,30 +1191,6 @@
 				<pubDate>2025-11-13T17:40:44.797601</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="540436096" url="https://mikanani.me/Download/20251113/9f7c6e0bc3baffdb4eae079220bb6a6dcc835b3d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">大唐乘风录[第10集][4K].Wind.Driver.in.Tang.Dynasty</guid>
-			<link>https://mikanani.me/Home/Episode/6a676461cb708acdf81e3eac673b3c0948ab3eb5</link>
-			<title>大唐乘风录[第10集][4K].Wind.Driver.in.Tang.Dynasty</title>
-			<description>大唐乘风录[第10集][4K].Wind.Driver.in.Tang.Dynasty[831.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a676461cb708acdf81e3eac673b3c0948ab3eb5</link>
-				<contentLength>872205504</contentLength>
-				<pubDate>2025-11-13T16:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="872205504" url="https://mikanani.me/Download/20251113/6a676461cb708acdf81e3eac673b3c0948ab3eb5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">神在囧途[第17集][4K].Eat.Around.the.Mortal.World</guid>
-			<link>https://mikanani.me/Home/Episode/dc7b5a778c9049aadf6179a5848186b0afc67f0b</link>
-			<title>神在囧途[第17集][4K].Eat.Around.the.Mortal.World</title>
-			<description>神在囧途[第17集][4K].Eat.Around.the.Mortal.World[481MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc7b5a778c9049aadf6179a5848186b0afc67f0b</link>
-				<contentLength>504365056</contentLength>
-				<pubDate>2025-11-13T16:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504365056" url="https://mikanani.me/Download/20251113/dc7b5a778c9049aadf6179a5848186b0afc67f0b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
