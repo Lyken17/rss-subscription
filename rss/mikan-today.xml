@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][20][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/692c2f26a40b62e60f1bb4605285ac8596ee3847</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][20][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][20][WEBrip][1080P][简体内嵌][298.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/692c2f26a40b62e60f1bb4605285ac8596ee3847</link>
+				<contentLength>312685376</contentLength>
+				<pubDate>2025-11-15T04:29:24.193664</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="312685376" url="https://mikanani.me/Download/20251115/692c2f26a40b62e60f1bb4605285ac8596ee3847.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][07][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/c7e9078033428309440c4f90e54323013b57b792</link>
 			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][07][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-13T22:26:26.149</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="24494736" url="https://mikanani.me/Download/20251113/8ab11ae1b459de47c53157f3a9261f5f7c5d6443.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[06][1080p AVC AAC][简体]</guid>
-			<link>https://mikanani.me/Home/Episode/07e72a9f4972ff5dac05a3f073f2c2fb49e73a3d</link>
-			<title>【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[06][1080p AVC AAC][简体]</title>
-			<description>【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[06][1080p AVC AAC][简体][23.42 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07e72a9f4972ff5dac05a3f073f2c2fb49e73a3d</link>
-				<contentLength>24557650</contentLength>
-				<pubDate>2025-11-13T22:26:05.524</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="24557650" url="https://mikanani.me/Download/20251113/07e72a9f4972ff5dac05a3f073f2c2fb49e73a3d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
