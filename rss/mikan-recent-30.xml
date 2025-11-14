@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/323f25480affe8a9118fa8ca3c372c48dcf81f2d</link>
-			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★01★1920x1080★AVC AAC MP4★繁体中文[433.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/323f25480affe8a9118fa8ca3c372c48dcf81f2d</link>
-				<contentLength>454956160</contentLength>
-				<pubDate>2025-10-15T04:23:15.244</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="454956160" url="https://mikanani.me/Download/20251015/323f25480affe8a9118fa8ca3c372c48dcf81f2d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4b678cf85cd475c7051746398d3729ac54f18247</link>
 			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 02 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -31779,6 +31767,18 @@
 				<pubDate>2025-11-14T11:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7838315520" url="https://mikanani.me/Download/20251114/744ccb3b298488d8e5188d2be7021505e496bf16.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/46ae2e5c36a8e7d181b2f6b5e41e756c0427210f</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 05 (CR 1920x1080 AVC AAC MKV)[618.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/46ae2e5c36a8e7d181b2f6b5e41e756c0427210f</link>
+				<contentLength>648753984</contentLength>
+				<pubDate>2025-11-14T12:37:05.311774</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="648753984" url="https://mikanani.me/Download/20251114/46ae2e5c36a8e7d181b2f6b5e41e756c0427210f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -8392,5 +8392,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7838315520" url="https://mikanani.me/Download/20251114/744ccb3b298488d8e5188d2be7021505e496bf16.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/46ae2e5c36a8e7d181b2f6b5e41e756c0427210f</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 05 (CR 1920x1080 AVC AAC MKV)[618.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/46ae2e5c36a8e7d181b2f6b5e41e756c0427210f</link>
+				<contentLength>648753984</contentLength>
+				<pubDate>2025-11-14T12:37:05.311774</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="648753984" url="https://mikanani.me/Download/20251114/46ae2e5c36a8e7d181b2f6b5e41e756c0427210f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
