@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">IDATEN翔/韦駄天翔/韦驮天竞赛/韦驮天翔/新人单车王/[R-Raws] Idaten Jump (DVD 640x480 x264 10bit AAC)</guid>
+			<link>https://mikanani.me/Home/Episode/c547c9100fe74214693fc0663d193210d5fafdb2</link>
+			<title>IDATEN翔/韦駄天翔/韦驮天竞赛/韦驮天翔/新人单车王/[R-Raws] Idaten Jump (DVD 640x480 x264 10bit AAC)</title>
+			<description>IDATEN翔/韦駄天翔/韦驮天竞赛/韦驮天翔/新人单车王/[R-Raws] Idaten Jump (DVD 640x480 x264 10bit AAC)[15.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c547c9100fe74214693fc0663d193210d5fafdb2</link>
+				<contentLength>16750372864</contentLength>
+				<pubDate>2025-11-17T17:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16750372864" url="https://mikanani.me/Download/20251117/c547c9100fe74214693fc0663d193210d5fafdb2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 06(30) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8904bce1fe28ebd1d0c594c33c1f1214002996c4</link>
 			<title>[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 06(30) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-16T14:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="325897408" url="https://mikanani.me/Download/20251116/c35011347548e831b39d56452b7554ba7b87df3e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e4b4d0579837c72f7a562238ddf9ca6792eaa220</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][912.48 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4b4d0579837c72f7a562238ddf9ca6792eaa220</link>
-				<contentLength>956804608</contentLength>
-				<pubDate>2025-11-16T13:58:09.396</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="956804608" url="https://mikanani.me/Download/20251116/e4b4d0579837c72f7a562238ddf9ca6792eaa220.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
