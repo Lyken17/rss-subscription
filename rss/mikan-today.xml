@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★07★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/6dab4af4e9913194a0f426a9575eaa7ebf74e43e</link>
+			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★07★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★07★1920x1080★AVC AAC MP4★繁体中文[529.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6dab4af4e9913194a0f426a9575eaa7ebf74e43e</link>
+				<contentLength>555137088</contentLength>
+				<pubDate>2025-11-17T09:04:51.127</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="555137088" url="https://mikanani.me/Download/20251117/6dab4af4e9913194a0f426a9575eaa7ebf74e43e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[弹珠汽水瓶里的千岁同学 / 千歳くんはラムネ瓶のなか / Chitose-kun wa Ramune Bin no Naka][03+ES03][WebRip 1080p HEVC-10bit AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/2e10c4e00c83e4ae95bdd2f3418c7c4b5922beed</link>
 			<title>【喵萌奶茶屋】★10月新番★[弹珠汽水瓶里的千岁同学 / 千歳くんはラムネ瓶のなか / Chitose-kun wa Ramune Bin no Naka][03+ES03][WebRip 1080p HEVC-10bit AAC][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-16T10:06:14.996</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="511946272" url="https://mikanani.me/Download/20251116/a47ddffc1e266986fe9d4ea3a0ece45ea5dbcee5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 07 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/eff6c81bad80039f9833e0d695085699a58e9020</link>
-			<title>[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 07 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 07 (CR 1920x1080 AVC AAC MKV)[775.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eff6c81bad80039f9833e0d695085699a58e9020</link>
-				<contentLength>812856128</contentLength>
-				<pubDate>2025-11-16T10:03:57.729196</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="812856128" url="https://mikanani.me/Download/20251116/eff6c81bad80039f9833e0d695085699a58e9020.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
