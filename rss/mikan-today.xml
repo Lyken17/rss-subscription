@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★06★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/b9ed61fccf944db234a838ab3d0b9c948eca687f</link>
+			<title>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★06★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★跨越种族与你相恋 Kimi to Koete Koi ni Naru★06★1920x1080★AVC AAC MP4★繁体中文[391.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9ed61fccf944db234a838ab3d0b9c948eca687f</link>
+				<contentLength>410517504</contentLength>
+				<pubDate>2025-11-19T04:15:57.826</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="410517504" url="https://mikanani.me/Download/20251119/b9ed61fccf944db234a838ab3d0b9c948eca687f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/845e0e8cca030a5cab753c3ed8f7196de941c600</link>
 			<title>[黒ネズミたち] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-17T22:35:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8697309184" url="https://mikanani.me/Download/20251117/82868ab60b4fc88df5f596974d016b3e03a3300b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 异世界四重奏 第三季 / Isekai Quartet 3 - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7c1a6e543065c3536d44dea3a870d4706d4a624e</link>
-			<title>[黒ネズミたち] 异世界四重奏 第三季 / Isekai Quartet 3 - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 异世界四重奏 第三季 / Isekai Quartet 3 - 06 (CR 1920x1080 AVC AAC MKV)[728.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7c1a6e543065c3536d44dea3a870d4706d4a624e</link>
-				<contentLength>763468160</contentLength>
-				<pubDate>2025-11-17T22:31:54.705651</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="763468160" url="https://mikanani.me/Download/20251117/7c1a6e543065c3536d44dea3a870d4706d4a624e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
