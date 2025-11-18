@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8697309184" url="https://mikanani.me/Download/20251117/82868ab60b4fc88df5f596974d016b3e03a3300b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/33f3010fc2298bbb44d1b2c68403f5a403fd314b</link>
+			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][229.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33f3010fc2298bbb44d1b2c68403f5a403fd314b</link>
+				<contentLength>240469936</contentLength>
+				<pubDate>2025-11-18T07:28:33.122</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="240469936" url="https://mikanani.me/Download/20251118/33f3010fc2298bbb44d1b2c68403f5a403fd314b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

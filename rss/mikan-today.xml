@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/33f3010fc2298bbb44d1b2c68403f5a403fd314b</link>
+			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][229.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33f3010fc2298bbb44d1b2c68403f5a403fd314b</link>
+				<contentLength>240469936</contentLength>
+				<pubDate>2025-11-18T07:28:33.122</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="240469936" url="https://mikanani.me/Download/20251118/33f3010fc2298bbb44d1b2c68403f5a403fd314b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 银魂 3 年 Z 班银八老师 / 3-nen Z-gumi Ginpachi-sensei - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a5ac73c87528c5bd2b7255c33adc28580af8eb3f</link>
 			<title>[黒ネズミたち] 银魂 3 年 Z 班银八老师 / 3-nen Z-gumi Ginpachi-sensei - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-17T01:30:46.435507</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="405589184" url="https://mikanani.me/Download/20251117/fb0545eb11ba91e6800644b075e646f72d37dc10.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 罪恶之渊 / Guilty Hole [04][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/37e95ca3c37976956f8216bc51d235ab27424a9c</link>
-			<title>[桜都字幕组] 罪恶之渊 / Guilty Hole [04][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 罪恶之渊 / Guilty Hole [04][1080p][简繁内封][146.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/37e95ca3c37976956f8216bc51d235ab27424a9c</link>
-				<contentLength>153448608</contentLength>
-				<pubDate>2025-11-17T01:14:02.861</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="153448608" url="https://mikanani.me/Download/20251117/37e95ca3c37976956f8216bc51d235ab27424a9c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
