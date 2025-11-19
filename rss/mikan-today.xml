@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c52d15b46934a86a1adb4f1dde4596d3f44f2ec8</link>
+			<title>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][478.07 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c52d15b46934a86a1adb4f1dde4596d3f44f2ec8</link>
+				<contentLength>501292736</contentLength>
+				<pubDate>2025-11-19T16:34:28.531</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="501292736" url="https://mikanani.me/Download/20251119/c52d15b46934a86a1adb4f1dde4596d3f44f2ec8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 04 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/3adc52394263c9023566b7e2ca722088f48eafcf</link>
 			<title>[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 04 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2025-11-18T00:28:36.488</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1095216640" url="https://mikanani.me/Download/20251118/a707ead035900b4acddfa2d91768755e7a4865bd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【种族骑士团】[恋狱 ~月狂病~ / カルタグラ ～ツキ狂イノ病～ / Cartagra ~Tsuki Kurui no Yamai~][OVA][DVDrip][720P][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/04836bf1fa49e6443cb8b4d0dd4ab6c28db380fb</link>
-			<title>【种族骑士团】[恋狱 ~月狂病~ / カルタグラ ～ツキ狂イノ病～ / Cartagra ~Tsuki Kurui no Yamai~][OVA][DVDrip][720P][简日双语]</title>
-			<description>【种族骑士团】[恋狱 ~月狂病~ / カルタグラ ～ツキ狂イノ病～ / Cartagra ~Tsuki Kurui no Yamai~][OVA][DVDrip][720P][简日双语][411.91 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/04836bf1fa49e6443cb8b4d0dd4ab6c28db380fb</link>
-				<contentLength>431918944</contentLength>
-				<pubDate>2025-11-18T00:27:07.636</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="431918944" url="https://mikanani.me/Download/20251118/04836bf1fa49e6443cb8b4d0dd4ab6c28db380fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
