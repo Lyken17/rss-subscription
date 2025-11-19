@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">热舞青春「ワンダンス」WANDANCE S01E07 1080P 多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/43b6a965e2bf04383a2e78ad10cc3e73dd3abbde</link>
+			<title>热舞青春「ワンダンス」WANDANCE S01E07 1080P 多国字幕</title>
+			<description>热舞青春「ワンダンス」WANDANCE S01E07 1080P 多国字幕[790.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/43b6a965e2bf04383a2e78ad10cc3e73dd3abbde</link>
+				<contentLength>828899328</contentLength>
+				<pubDate>2025-11-20T02:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="828899328" url="https://mikanani.me/Download/20251120/43b6a965e2bf04383a2e78ad10cc3e73dd3abbde.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/ea5f9f422dbba0b960ffffa70888ad82ba5d98e3</link>
 			<title>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-18T22:41:08.648</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="407434688" url="https://mikanani.me/Download/20251118/f69f44364af8f5fffe2c12afc370b88c225994d2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【动漫国字幕组】★10月新番[SPY×FAMILY间谍家家酒 / 间谍过家家][41][720P][简体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/463ec294916df426014524416afc4e3045a1d201</link>
-			<title>【动漫国字幕组】★10月新番[SPY×FAMILY间谍家家酒 / 间谍过家家][41][720P][简体][MP4]</title>
-			<description>【动漫国字幕组】★10月新番[SPY×FAMILY间谍家家酒 / 间谍过家家][41][720P][简体][MP4][198.15 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/463ec294916df426014524416afc4e3045a1d201</link>
-				<contentLength>207775328</contentLength>
-				<pubDate>2025-11-18T22:40:58.275</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="207775328" url="https://mikanani.me/Download/20251118/463ec294916df426014524416afc4e3045a1d201.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
