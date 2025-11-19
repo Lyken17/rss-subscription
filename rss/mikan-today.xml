@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Let's Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 08 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/783fd3b8340cddd9f510cc101d857657ec09d6f7</link>
+			<title>[黒ネズミたち] Let's Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 08 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] Let's Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 08 (CR 1920x1080 AVC AAC MKV)[1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/783fd3b8340cddd9f510cc101d857657ec09d6f7</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-11-20T02:32:46.324675</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251120/783fd3b8340cddd9f510cc101d857657ec09d6f7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">热舞青春「ワンダンス」WANDANCE S01E07 1080P 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/43b6a965e2bf04383a2e78ad10cc3e73dd3abbde</link>
 			<title>热舞青春「ワンダンス」WANDANCE S01E07 1080P 多国字幕</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-18T22:41:18.913</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="407445184" url="https://mikanani.me/Download/20251118/d280b763b50bfc1e7aa3e4708f97f06c69d25532.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【动漫国字幕组】★10月新番[SPY×FAMILY间谍家家酒 / 间谍过家家][41][1080P][繁体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f69f44364af8f5fffe2c12afc370b88c225994d2</link>
-			<title>【动漫国字幕组】★10月新番[SPY×FAMILY间谍家家酒 / 间谍过家家][41][1080P][繁体][MP4]</title>
-			<description>【动漫国字幕组】★10月新番[SPY×FAMILY间谍家家酒 / 间谍过家家][41][1080P][繁体][MP4][388.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f69f44364af8f5fffe2c12afc370b88c225994d2</link>
-				<contentLength>407434688</contentLength>
-				<pubDate>2025-11-18T22:41:08.648</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="407434688" url="https://mikanani.me/Download/20251118/f69f44364af8f5fffe2c12afc370b88c225994d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
