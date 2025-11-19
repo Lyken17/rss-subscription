@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/f313b9556a129f6578f35fdd8f7645e775cf3324</link>
+			<title>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)[691.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f313b9556a129f6578f35fdd8f7645e775cf3324</link>
+				<contentLength>724985472</contentLength>
+				<pubDate>2025-11-19T11:00:56.960078</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="724985472" url="https://mikanani.me/Download/20251119/f313b9556a129f6578f35fdd8f7645e775cf3324.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/a17fab4406f44370bc472b878605bc64c6443119</link>
 			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 07 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-17T23:30:48.119523</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="286575808" url="https://mikanani.me/Download/20251117/4b8dece79f57aaf5947d83343bf2f1262af0da5e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Gachiakuta - 19 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/c847357e42a3d8e98e1b9f7c92ff9280521f49cb</link>
-			<title>[黒ネズミたち] Gachiakuta - 19 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Gachiakuta - 19 (ABEMA 1920x1080 AVC AAC MP4)[710.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c847357e42a3d8e98e1b9f7c92ff9280521f49cb</link>
-				<contentLength>745327808</contentLength>
-				<pubDate>2025-11-17T23:30:41.861583</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="745327808" url="https://mikanani.me/Download/20251117/c847357e42a3d8e98e1b9f7c92ff9280521f49cb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
