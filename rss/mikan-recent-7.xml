@@ -7564,5 +7564,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="724985472" url="https://mikanani.me/Download/20251119/f313b9556a129f6578f35fdd8f7645e775cf3324.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语][间谍过家家][第三季][7][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/77185848a987268f3775d54fb078a59d660850de</link>
+			<title>[萌樱字幕组][简日双语][间谍过家家][第三季][7][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语][间谍过家家][第三季][7][Webrip][1080p][简繁日内封][230.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77185848a987268f3775d54fb078a59d660850de</link>
+				<contentLength>242116192</contentLength>
+				<pubDate>2025-11-19T12:19:17.364804</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="242116192" url="https://mikanani.me/Download/20251119/77185848a987268f3775d54fb078a59d660850de.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[萌樱字幕组][简日双语][间谍过家家][第三季][6][Webrip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/f2b6cd0ac4926f600c64f389399ebe2036dcf35c</link>
+			<title>[萌樱字幕组][简日双语][间谍过家家][第三季][6][Webrip][1080p][简繁日内封]</title>
+			<description>[萌樱字幕组][简日双语][间谍过家家][第三季][6][Webrip][1080p][简繁日内封][149.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f2b6cd0ac4926f600c64f389399ebe2036dcf35c</link>
+				<contentLength>157076688</contentLength>
+				<pubDate>2025-11-19T12:19:15.295262</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="157076688" url="https://mikanani.me/Download/20251119/f2b6cd0ac4926f600c64f389399ebe2036dcf35c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
