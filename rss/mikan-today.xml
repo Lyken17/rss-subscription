@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 绝妙舞步 Wandance - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/7d2ba1e63c31b24da083a5493408ea9cecff6bb7</link>
+			<title>[Prejudice-Studio] 绝妙舞步 Wandance - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 绝妙舞步 Wandance - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][346.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d2ba1e63c31b24da083a5493408ea9cecff6bb7</link>
+				<contentLength>363226720</contentLength>
+				<pubDate>2025-11-20T09:15:23.164894</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="363226720" url="https://mikanani.me/Download/20251120/7d2ba1e63c31b24da083a5493408ea9cecff6bb7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【极影字幕·毁片党】笨蛋测验召唤兽1 第08集 GB_CN HEVC_opus 1080p 翻新版</guid>
 			<link>https://mikanani.me/Home/Episode/62fa1583064a44c4bda7c55e2b9051e0def14f30</link>
 			<title>【极影字幕·毁片党】笨蛋测验召唤兽1 第08集 GB_CN HEVC_opus 1080p 翻新版</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-18T23:05:13.581524</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251118/245922e5315797f7bd5e8121cc09aad20c815879.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/218b97932a6765cfd31b8f31390adc21ef11a110</link>
-			<title>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 06 (CR 1920x1080 AVC AAC MKV)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/218b97932a6765cfd31b8f31390adc21ef11a110</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2025-11-18T23:02:15.141276</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251118/218b97932a6765cfd31b8f31390adc21ef11a110.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
