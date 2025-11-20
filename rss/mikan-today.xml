@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][08][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/51fdb3675765df72265f3bf017516f5899ea07d2</link>
+			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][08][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][08][1080p][简日双语][453.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/51fdb3675765df72265f3bf017516f5899ea07d2</link>
+				<contentLength>475015424</contentLength>
+				<pubDate>2025-11-21T04:30:52.825</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="475015424" url="https://mikanani.me/Download/20251121/51fdb3675765df72265f3bf017516f5899ea07d2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [07][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/dda695e0c0906909f53c5841bff1995d4c737880</link>
 			<title>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [07][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-20T04:36:32.892</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="257750464" url="https://mikanani.me/Download/20251120/461653ee7d058533e0cb27e80133411ab4a0f3fb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][10月新番][间谍家家酒 Season 3][Spy x Family][06][1080p][MP4][BIG5][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/06efdc5c199a2aae38ce7699e65716c4034e7a8e</link>
-			<title>[爱恋&amp;猫恋汉化组][10月新番][间谍家家酒 Season 3][Spy x Family][06][1080p][MP4][BIG5][繁中]</title>
-			<description>[爱恋&amp;猫恋汉化组][10月新番][间谍家家酒 Season 3][Spy x Family][06][1080p][MP4][BIG5][繁中][245.95 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06efdc5c199a2aae38ce7699e65716c4034e7a8e</link>
-				<contentLength>257897264</contentLength>
-				<pubDate>2025-11-20T04:36:24.245</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="257897264" url="https://mikanani.me/Download/20251120/06efdc5c199a2aae38ce7699e65716c4034e7a8e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
