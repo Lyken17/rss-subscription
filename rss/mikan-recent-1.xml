@@ -1360,5 +1360,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4520453120" url="https://mikanani.me/Download/20251121/5df175673d33eec9977686f774482d2029a153c5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">枕刀歌.第三季[第11集][4K·HDR].A.Song.of.Sword.as.Pillow</guid>
+			<link>https://mikanani.me/Home/Episode/b97fbfff1d6c042e91aa3e5afecaae988678881c</link>
+			<title>枕刀歌.第三季[第11集][4K·HDR].A.Song.of.Sword.as.Pillow</title>
+			<description>枕刀歌.第三季[第11集][4K·HDR].A.Song.of.Sword.as.Pillow[2.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b97fbfff1d6c042e91aa3e5afecaae988678881c</link>
+				<contentLength>2362232064</contentLength>
+				<pubDate>2025-11-21T14:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2362232064" url="https://mikanani.me/Download/20251121/b97fbfff1d6c042e91aa3e5afecaae988678881c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
