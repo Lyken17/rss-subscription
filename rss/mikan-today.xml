@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/055d45b7e7bb664e06d518e816d15964b88d1a77</link>
+			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][276.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/055d45b7e7bb664e06d518e816d15964b88d1a77</link>
+				<contentLength>290445056</contentLength>
+				<pubDate>2025-11-21T07:41:12.381</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="290445056" url="https://mikanani.me/Download/20251121/055d45b7e7bb664e06d518e816d15964b88d1a77.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][08][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/51fdb3675765df72265f3bf017516f5899ea07d2</link>
 			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][08][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-20T05:26:13.338</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="330720864" url="https://mikanani.me/Download/20251120/62fa1583064a44c4bda7c55e2b9051e0def14f30.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][06][1080p][MP4][GB][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/461653ee7d058533e0cb27e80133411ab4a0f3fb</link>
-			<title>[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][06][1080p][MP4][GB][简中]</title>
-			<description>[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][06][1080p][MP4][GB][简中][245.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/461653ee7d058533e0cb27e80133411ab4a0f3fb</link>
-				<contentLength>257750464</contentLength>
-				<pubDate>2025-11-20T04:36:32.892</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="257750464" url="https://mikanani.me/Download/20251120/461653ee7d058533e0cb27e80133411ab4a0f3fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -88,5 +88,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="442803168" url="https://mikanani.me/Download/20251120/c405ce26d4647b9356745d46da55ddef4e24efe4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/055d45b7e7bb664e06d518e816d15964b88d1a77</link>
+			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][276.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/055d45b7e7bb664e06d518e816d15964b88d1a77</link>
+				<contentLength>290445056</contentLength>
+				<pubDate>2025-11-21T07:41:12.381</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="290445056" url="https://mikanani.me/Download/20251121/055d45b7e7bb664e06d518e816d15964b88d1a77.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
