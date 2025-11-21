@@ -1384,5 +1384,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="58091112" url="https://mikanani.me/Download/20251122/e8ca79e0e5049287762eff0b472af6f6d5ffc3c7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][21][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/1144c5917af7d57fba26668b271729169d92c2e7</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][21][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][21][WEBrip][1080P][简体内嵌][364.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1144c5917af7d57fba26668b271729169d92c2e7</link>
+				<contentLength>382415680</contentLength>
+				<pubDate>2025-11-22T04:00:44.558504</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="382415680" url="https://mikanani.me/Download/20251122/1144c5917af7d57fba26668b271729169d92c2e7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

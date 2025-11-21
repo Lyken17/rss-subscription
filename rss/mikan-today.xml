@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][21][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/1144c5917af7d57fba26668b271729169d92c2e7</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][21][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][21][WEBrip][1080P][简体内嵌][364.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1144c5917af7d57fba26668b271729169d92c2e7</link>
+				<contentLength>382415680</contentLength>
+				<pubDate>2025-11-22T04:00:44.558504</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="382415680" url="https://mikanani.me/Download/20251122/1144c5917af7d57fba26668b271729169d92c2e7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 差点在迷宫深处被信任的伙伴杀掉，但靠著天赐技能「无限扭蛋」获得等级 9999 的伙伴，我要向前队友和世界展开复仇＆「给他们好看！」/ Backstabbed in a Backwater Dungeon (My Gift Lvl 9999 Unlimited Gacha) - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/0f0a3b47348bd7475dfa9d66f35b836295ebd47d</link>
 			<title>[Skymoon-Raws] 差点在迷宫深处被信任的伙伴杀掉，但靠著天赐技能「无限扭蛋」获得等级 9999 的伙伴，我要向前队友和世界展开复仇＆「给他们好看！」/ Backstabbed in a Backwater Dungeon (My Gift Lvl 9999 Unlimited Gacha) - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-20T22:30:38.689831</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20251120/d65a79aa742e28b5ca41d51cbaeb91aba3600284.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/2d05d658b6f6ae886bb97625e3d1c47edd88b377</link>
-			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][49.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2d05d658b6f6ae886bb97625e3d1c47edd88b377</link>
-				<contentLength>51946456</contentLength>
-				<pubDate>2025-11-20T22:09:17.551</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="51946456" url="https://mikanani.me/Download/20251120/2d05d658b6f6ae886bb97625e3d1c47edd88b377.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
