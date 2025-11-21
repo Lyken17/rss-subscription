@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e65dbdb6cb0e983259221f2385eb0afa3f473119</link>
+			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 07 (ABEMA 1920x1080 AVC AAC MP4)[750.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e65dbdb6cb0e983259221f2385eb0afa3f473119</link>
+				<contentLength>786432000</contentLength>
+				<pubDate>2025-11-21T22:00:35.687961</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="786432000" url="https://mikanani.me/Download/20251121/e65dbdb6cb0e983259221f2385eb0afa3f473119.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我][07][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/121eb13faf2d1e182ebeab958f8060aec55f724d</link>
 			<title>【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我][07][1080P][简体][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-20T18:14:40.252306</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="270532608" url="https://mikanani.me/Download/20251120/32a32b81bbca79215004fe2bd6e449154050f9c7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 03 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/440da9d77de5d6ce3acefe0d5186fb5ce2af312a</link>
-			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 03 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 03 (B-Global Donghua 4096x1716 HEVC AAC MKV)[241.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/440da9d77de5d6ce3acefe0d5186fb5ce2af312a</link>
-				<contentLength>252811680</contentLength>
-				<pubDate>2025-11-20T18:12:50.32105</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="252811680" url="https://mikanani.me/Download/20251120/440da9d77de5d6ce3acefe0d5186fb5ce2af312a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
