@@ -916,5 +916,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="278816352" url="https://mikanani.me/Download/20251122/8345d8f5af7fd1f10d911d71f978fd6c1fc51ef5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]灼热卡巴迪 / Shakunetsu Kabaddi - 11 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/03258b879e4d6ee64f9604eb03745df2d984610c</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]灼热卡巴迪 / Shakunetsu Kabaddi - 11 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]灼热卡巴迪 / Shakunetsu Kabaddi - 11 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE][705.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/03258b879e4d6ee64f9604eb03745df2d984610c</link>
+				<contentLength>740242240</contentLength>
+				<pubDate>2025-11-22T14:19:18.648</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="740242240" url="https://mikanani.me/Download/20251122/03258b879e4d6ee64f9604eb03745df2d984610c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][RTHK粤语]有药 / 有药 / You Yao - 04 [粤国双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRTx2+PGS RTHK CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/06f1a2e6b9011a262dcc9be357da9479886e7c58</link>
+			<title>[jibaketa合成&amp;二次压制][RTHK粤语]有药 / 有药 / You Yao - 04 [粤国双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRTx2+PGS RTHK CHT)</title>
+			<description>[jibaketa合成&amp;二次压制][RTHK粤语]有药 / 有药 / You Yao - 04 [粤国双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRTx2+PGS RTHK CHT)[323.48 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/06f1a2e6b9011a262dcc9be357da9479886e7c58</link>
+				<contentLength>339193376</contentLength>
+				<pubDate>2025-11-22T14:17:47.794</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339193376" url="https://mikanani.me/Download/20251122/06f1a2e6b9011a262dcc9be357da9479886e7c58.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
