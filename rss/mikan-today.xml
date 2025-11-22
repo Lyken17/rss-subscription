@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 10 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/661a99eb4e0e1ab9a7d813ddd43f99067d4d11f2</link>
+			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 10 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 10 (B-Global Donghua 4096x1716 HEVC AAC MKV)[272.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/661a99eb4e0e1ab9a7d813ddd43f99067d4d11f2</link>
+				<contentLength>285736960</contentLength>
+				<pubDate>2025-11-22T12:00:38.2984</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="285736960" url="https://mikanani.me/Download/20251122/661a99eb4e0e1ab9a7d813ddd43f99067d4d11f2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 擅长逃跑的殿下/逃げ上手の若君/Nige Jouzu no Wakagimii S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/ce4f5953b3542dcd7425596e723cd1b6afb1bfb8</link>
 			<title>[7³ACG] 擅长逃跑的殿下/逃げ上手の若君/Nige Jouzu no Wakagimii S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-20T23:22:12.373</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="442803168" url="https://mikanani.me/Download/20251120/c405ce26d4647b9356745d46da55ddef4e24efe4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 异世界四重奏 第三季 / Isekai Quartet 3 - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/5b3c85baf05047b9d660825a22e622986d96c17e</link>
-			<title>[黒ネズミたち] 异世界四重奏 第三季 / Isekai Quartet 3 - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 异世界四重奏 第三季 / Isekai Quartet 3 - 06 (ABEMA 1920x1080 AVC AAC MP4)[373.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5b3c85baf05047b9d660825a22e622986d96c17e</link>
-				<contentLength>391223712</contentLength>
-				<pubDate>2025-11-20T23:15:35.997041</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="391223712" url="https://mikanani.me/Download/20251120/5b3c85baf05047b9d660825a22e622986d96c17e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
