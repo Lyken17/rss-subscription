@@ -2608,5 +2608,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="489695488" url="https://mikanani.me/Download/20251123/8e3063eff7c6c54eada23bd63ad84224ab142a3c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a63ad77990ae0cc2aaeed39f8fcfec64be14f1c4</link>
+			<title>[LoliHouse] 古诺希亚 / GNOSIA - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 古诺希亚 / GNOSIA - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][756.82 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a63ad77990ae0cc2aaeed39f8fcfec64be14f1c4</link>
+				<contentLength>793583296</contentLength>
+				<pubDate>2025-11-23T02:29:44.616</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="793583296" url="https://mikanani.me/Download/20251123/a63ad77990ae0cc2aaeed39f8fcfec64be14f1c4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
