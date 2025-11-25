@@ -89,18 +89,6 @@
 			<enclosure type="application/x-bittorrent" length="145018064" url="https://mikanani.me/Download/20251118/b193e59e8d385b775301a3db67b117ff8313a327.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 16 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/858da4f34b02fe93fd6ebb181a2a3bcc226d28d1</link>
-			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 16 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 16 (B-Global Donghua 1920x800 HEVC AAC MKV)[399.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/858da4f34b02fe93fd6ebb181a2a3bcc226d28d1</link>
-				<contentLength>418381824</contentLength>
-				<pubDate>2025-11-18T10:00:51.316192</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="418381824" url="https://mikanani.me/Download/20251118/858da4f34b02fe93fd6ebb181a2a3bcc226d28d1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 3年Z组银八老师 3-nen Z-gumi Ginpachi-sensei - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/9159f0970c17ef8d2e9a6dcc7acf4a3a68485de1</link>
 			<title>[Prejudice-Studio] 3年Z组银八老师 3-nen Z-gumi Ginpachi-sensei - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
@@ -7287,6 +7275,30 @@
 				<pubDate>2025-11-25T16:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15354508288" url="https://mikanani.me/Download/20251125/92b6f2b91be5068e42c04e35fccfcf8c94f69ce0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[猎户压制部] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi [08] [1080p] [繁日内嵌] [2025年10月番]</guid>
+			<link>https://mikanani.me/Home/Episode/caa016ab5626c17df6873e9c8bfee023c62766fd</link>
+			<title>[猎户压制部] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi [08] [1080p] [繁日内嵌] [2025年10月番]</title>
+			<description>[猎户压制部] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi [08] [1080p] [繁日内嵌] [2025年10月番][417.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/caa016ab5626c17df6873e9c8bfee023c62766fd</link>
+				<contentLength>437256192</contentLength>
+				<pubDate>2025-11-25T17:23:56.68112</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="437256192" url="https://mikanani.me/Download/20251125/caa016ab5626c17df6873e9c8bfee023c62766fd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[猎户压制部] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi [08] [1080p] [简日内嵌] [2025年10月番]</guid>
+			<link>https://mikanani.me/Home/Episode/c0d0d1e4b9d07889dcb4cabe211bccfe6111df3b</link>
+			<title>[猎户压制部] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi [08] [1080p] [简日内嵌] [2025年10月番]</title>
+			<description>[猎户压制部] 矢野同学的普通日常 / Yano-kun no Futsuu no Hibi [08] [1080p] [简日内嵌] [2025年10月番][417.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0d0d1e4b9d07889dcb4cabe211bccfe6111df3b</link>
+				<contentLength>437675616</contentLength>
+				<pubDate>2025-11-25T17:23:41.083474</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="437675616" url="https://mikanani.me/Download/20251125/c0d0d1e4b9d07889dcb4cabe211bccfe6111df3b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
