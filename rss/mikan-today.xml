@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 07 [粤语+无字幕][WEB 1920x1080 x264 AAC SRT YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/7421393dc39bee7d8c257295a228efab2bfd6505</link>
+			<title>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 07 [粤语+无字幕][WEB 1920x1080 x264 AAC SRT YUE]</title>
+			<description>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 07 [粤语+无字幕][WEB 1920x1080 x264 AAC SRT YUE][787.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7421393dc39bee7d8c257295a228efab2bfd6505</link>
+				<contentLength>825313216</contentLength>
+				<pubDate>2025-11-26T14:13:21.638</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="825313216" url="https://mikanani.me/Download/20251126/7421393dc39bee7d8c257295a228efab2bfd6505.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 Tondemo Skill de Isekai Hourou Meshi S2 - 08 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/309d75b4d6becc64080c174d317f64fde17d992a</link>
 			<title>[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 Tondemo Skill de Isekai Hourou Meshi S2 - 08 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-24T22:31:01.122557</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748368704" url="https://mikanani.me/Download/20251124/14ecf03e162bd8ddf0339dbd89e55ec782f49d69.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Isekai Quartet /  异世界四重奏 3 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/351a2d3d9025b2fd6476137f10d0a0a982f8edaa</link>
-			<title>[ANi] Isekai Quartet /  异世界四重奏 3 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Isekai Quartet /  异世界四重奏 3 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][278.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/351a2d3d9025b2fd6476137f10d0a0a982f8edaa</link>
-				<contentLength>291923552</contentLength>
-				<pubDate>2025-11-24T22:31:00.619288</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="291923552" url="https://mikanani.me/Download/20251124/351a2d3d9025b2fd6476137f10d0a0a982f8edaa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

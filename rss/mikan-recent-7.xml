@@ -7048,5 +7048,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5153960960" url="https://mikanani.me/Download/20251126/c4493c020f8c9b6fb592b4efa69a3e9354d05147.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 07 [粤语+无字幕][WEB 1920x1080 x264 AAC SRT YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/7421393dc39bee7d8c257295a228efab2bfd6505</link>
+			<title>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 07 [粤语+无字幕][WEB 1920x1080 x264 AAC SRT YUE]</title>
+			<description>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 07 [粤语+无字幕][WEB 1920x1080 x264 AAC SRT YUE][787.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7421393dc39bee7d8c257295a228efab2bfd6505</link>
+				<contentLength>825313216</contentLength>
+				<pubDate>2025-11-26T14:13:21.638</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="825313216" url="https://mikanani.me/Download/20251126/7421393dc39bee7d8c257295a228efab2bfd6505.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
