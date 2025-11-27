@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 08 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4446ae5f96802084e994c73450e071f842fa3645</link>
+			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 08 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 08 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][846.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4446ae5f96802084e994c73450e071f842fa3645</link>
+				<contentLength>887934144</contentLength>
+				<pubDate>2025-11-27T14:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="887934144" url="https://mikanani.me/Download/20251127/4446ae5f96802084e994c73450e071f842fa3645.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">大唐乘风录[第12集][4K].Wind.Driver.in.Tang.Dynasty</guid>
 			<link>https://mikanani.me/Home/Episode/8f02c3ade24824690c6e44b1881ec003a72cd213</link>
 			<title>大唐乘风录[第12集][4K].Wind.Driver.in.Tang.Dynasty</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-11-26T10:54:01.485</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="750717504" url="https://mikanani.me/Download/20251126/84acb303609bd17b5b8de3d5b74c56f44928feba.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成][代理商粤语]怪兽8号 第2季 / Kaijuu 8-gou 2nd Season - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRT Ani-One CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/83ac2700e66042d52e070332334feaa406fefe33</link>
-			<title>[jibaketa合成][代理商粤语]怪兽8号 第2季 / Kaijuu 8-gou 2nd Season - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRT Ani-One CHT)</title>
-			<description>[jibaketa合成][代理商粤语]怪兽8号 第2季 / Kaijuu 8-gou 2nd Season - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 x264 AACx2 SRT Ani-One CHT)[716.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/83ac2700e66042d52e070332334feaa406fefe33</link>
-				<contentLength>751409536</contentLength>
-				<pubDate>2025-11-26T10:49:39.392</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="751409536" url="https://mikanani.me/Download/20251126/83ac2700e66042d52e070332334feaa406fefe33.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

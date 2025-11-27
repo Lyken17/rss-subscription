@@ -1228,5 +1228,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="508454496" url="https://mikanani.me/Download/20251127/97d24332e00c4e0d1bfede4365460d6871162339.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 08 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4446ae5f96802084e994c73450e071f842fa3645</link>
+			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 08 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 08 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][846.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4446ae5f96802084e994c73450e071f842fa3645</link>
+				<contentLength>887934144</contentLength>
+				<pubDate>2025-11-27T14:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="887934144" url="https://mikanani.me/Download/20251127/4446ae5f96802084e994c73450e071f842fa3645.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
