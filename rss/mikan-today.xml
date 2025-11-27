@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][09][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/99f9397ca5f8b07a6da1d4a44bf922030eafced0</link>
+			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][09][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][09][1080p][简日双语][458.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99f9397ca5f8b07a6da1d4a44bf922030eafced0</link>
+				<contentLength>480814048</contentLength>
+				<pubDate>2025-11-28T03:35:01.952</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="480814048" url="https://mikanani.me/Download/20251128/99f9397ca5f8b07a6da1d4a44bf922030eafced0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][08_这也属于漫画家的工作。][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封]</guid>
 			<link>https://mikanani.me/Home/Episode/5c93577fe88f9b86df9b71ac28cf3b41e420a99a</link>
 			<title>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][08_这也属于漫画家的工作。][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-27T00:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20401094656" url="https://mikanani.me/Download/20251127/cece415a88fa3af925df38d748494033ebbe8826.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/88bcec4c433cef2f762eb2a61dd12e54d7a52634</link>
-			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 11 (ABEMA 1920x1080 AVC AAC MP4)[600.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/88bcec4c433cef2f762eb2a61dd12e54d7a52634</link>
-				<contentLength>629355328</contentLength>
-				<pubDate>2025-11-27T00:30:39.9183</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="629355328" url="https://mikanani.me/Download/20251127/88bcec4c433cef2f762eb2a61dd12e54d7a52634.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
