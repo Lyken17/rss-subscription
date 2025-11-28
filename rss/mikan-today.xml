@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 58 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/799dd704fdab0333a80af75e7ebb335f669b422c</link>
+			<title>[黒ネズミたち] Nui Story 2 - 58 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 58 (ABEMA 1920x1080 AVC AAC MP4)[56.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/799dd704fdab0333a80af75e7ebb335f669b422c</link>
+				<contentLength>59663976</contentLength>
+				<pubDate>2025-11-29T02:30:15.124516</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="59663976" url="https://mikanani.me/Download/20251129/799dd704fdab0333a80af75e7ebb335f669b422c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] SEALOOK / Sealook - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/61bfd40d1f71560f7719a1ff5ced6d5be569c712</link>
 			<title>[黒ネズミたち] SEALOOK / Sealook - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-28T00:38:05.062</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="315715744" url="https://mikanani.me/Download/20251128/589665c5c0a7a922fadc6715d6aa20c28462de84.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[北宇治字幕组] 夏日口袋 / Summer Pockets [20][WebRip][HEVC_AAC][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/cf0f223d18ae6e4d9f21b5c77dfef007bc36aaba</link>
-			<title>[北宇治字幕组] 夏日口袋 / Summer Pockets [20][WebRip][HEVC_AAC][简日内嵌]</title>
-			<description>[北宇治字幕组] 夏日口袋 / Summer Pockets [20][WebRip][HEVC_AAC][简日内嵌][317.14 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cf0f223d18ae6e4d9f21b5c77dfef007bc36aaba</link>
-				<contentLength>332545408</contentLength>
-				<pubDate>2025-11-28T00:37:58.619</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="332545408" url="https://mikanani.me/Download/20251128/cf0f223d18ae6e4d9f21b5c77dfef007bc36aaba.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

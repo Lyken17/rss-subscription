@@ -7540,5 +7540,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20251129/42efb69dd5177b9d58471ef4de6c2d6a7fc4876f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 58 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/799dd704fdab0333a80af75e7ebb335f669b422c</link>
+			<title>[黒ネズミたち] Nui Story 2 - 58 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] Nui Story 2 - 58 (ABEMA 1920x1080 AVC AAC MP4)[56.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/799dd704fdab0333a80af75e7ebb335f669b422c</link>
+				<contentLength>59663976</contentLength>
+				<pubDate>2025-11-29T02:30:15.124516</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="59663976" url="https://mikanani.me/Download/20251129/799dd704fdab0333a80af75e7ebb335f669b422c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
