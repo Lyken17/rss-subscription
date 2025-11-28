@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 31 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/20255d3ad21e96229e299ef3d5f41b9ecc31d2ec</link>
+			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 31 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 31 (ABEMA 1920x1080 AVC AAC MP4)[722.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/20255d3ad21e96229e299ef3d5f41b9ecc31d2ec</link>
+				<contentLength>757176704</contentLength>
+				<pubDate>2025-11-28T17:00:27.453014</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757176704" url="https://mikanani.me/Download/20251128/20255d3ad21e96229e299ef3d5f41b9ecc31d2ec.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1502]小丸子想要招钱喜欢[2025.10.19][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/a69ea585eee1689a34f3ae64b20ade7025088a7c</link>
 			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1502]小丸子想要招钱喜欢[2025.10.19][BIG5][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-11-27T10:40:35.592</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="507280096" url="https://mikanani.me/Download/20251127/e0ab30ee801ba2a94f23323f6dbf3f6fc7c8a422.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">热舞青春「ワンダンス」WANDANCE S01E08 1080P 多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/807489ddef502710d60c3a6780a961948a7734b1</link>
-			<title>热舞青春「ワンダンス」WANDANCE S01E08 1080P 多国字幕</title>
-			<description>热舞青春「ワンダンス」WANDANCE S01E08 1080P 多国字幕[892.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/807489ddef502710d60c3a6780a961948a7734b1</link>
-				<contentLength>936168640</contentLength>
-				<pubDate>2025-11-27T10:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="936168640" url="https://mikanani.me/Download/20251127/807489ddef502710d60c3a6780a961948a7734b1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
