@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c0838aacee78d5ce14cf36cd23d100d210b1ba20</link>
-			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 04 [CR WebRip 1080p HEVC-10bit OPUS][简繁内封字幕][996.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c0838aacee78d5ce14cf36cd23d100d210b1ba20</link>
-				<contentLength>1044905984</contentLength>
-				<pubDate>2025-10-29T11:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1044905984" url="https://mikanani.me/Download/20251029/c0838aacee78d5ce14cf36cd23d100d210b1ba20.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/3c5a965c25997bad78a8b4c5c03af5da96d50778</link>
 			<title>[VCB-Studio] 没能成为魔法师的女孩子的故事 / 当不成魔法师的女孩 / Mahoutsukai ni Narenakatta Onnanoko no Hanashi 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -31047,6 +31035,30 @@
 				<pubDate>2025-11-28T17:25:46.661229</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="322856544" url="https://mikanani.me/Download/20251128/ad5f1b85afbbb7c4e269e93995b989ef045d9cc8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 103 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0347ade307a7db7c64d5dfab217999c93ccdfe0b</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 103 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 103 (B-Global Donghua 1920x1080 HEVC AAC MKV)[263.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0347ade307a7db7c64d5dfab217999c93ccdfe0b</link>
+				<contentLength>276404640</contentLength>
+				<pubDate>2025-11-28T18:49:47.971739</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="276404640" url="https://mikanani.me/Download/20251128/0347ade307a7db7c64d5dfab217999c93ccdfe0b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 102 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1ca31e3568bd353fdfff4e326ef0edcfac3e1c4b</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 102 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 102 (B-Global Donghua 1920x1080 HEVC AAC MKV)[316.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ca31e3568bd353fdfff4e326ef0edcfac3e1c4b</link>
+				<contentLength>331769440</contentLength>
+				<pubDate>2025-11-28T18:45:51.608565</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331769440" url="https://mikanani.me/Download/20251128/1ca31e3568bd353fdfff4e326ef0edcfac3e1c4b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
