@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/a63ad77990ae0cc2aaeed39f8fcfec64be14f1c4</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][756.82 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a63ad77990ae0cc2aaeed39f8fcfec64be14f1c4</link>
-				<contentLength>793583296</contentLength>
-				<pubDate>2025-11-23T02:29:44.616</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="793583296" url="https://mikanani.me/Download/20251123/a63ad77990ae0cc2aaeed39f8fcfec64be14f1c4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 08 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ca01a52952ba0b23e9a594442483183c8173441a</link>
 			<title>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 08 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -519,6 +507,30 @@
 				<pubDate>2025-11-30T08:41:46.352</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="409710112" url="https://mikanani.me/Download/20251130/df6f0c6153d9f61e5bd175a5622cf3b1e4061bee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/13a7c46a9cb5fa9d3db30866f1db88f4cb3ac16b</link>
+			<title>[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][769.15 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/13a7c46a9cb5fa9d3db30866f1db88f4cb3ac16b</link>
+				<contentLength>806512256</contentLength>
+				<pubDate>2025-11-30T11:04:50.58</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="806512256" url="https://mikanani.me/Download/20251130/13a7c46a9cb5fa9d3db30866f1db88f4cb3ac16b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/88dff339bc3475ad566dc3b61f9babd41c6defe4</link>
+			<title>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][784.84 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/88dff339bc3475ad566dc3b61f9babd41c6defe4</link>
+				<contentLength>822964416</contentLength>
+				<pubDate>2025-11-30T10:10:41.951</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="822964416" url="https://mikanani.me/Download/20251130/88dff339bc3475ad566dc3b61f9babd41c6defe4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
