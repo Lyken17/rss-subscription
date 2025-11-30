@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/28bb92cad0cda7bd115f94649a24f929c974362f</link>
+			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][503.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/28bb92cad0cda7bd115f94649a24f929c974362f</link>
+				<contentLength>528104832</contentLength>
+				<pubDate>2025-11-30T18:54:39.067</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="528104832" url="https://mikanani.me/Download/20251130/28bb92cad0cda7bd115f94649a24f929c974362f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 朋友的妹妹只喜欢烦我 / Tomodachi no Imouto ga Ore ni dake Uzai [02v2][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/fac0098966be5067c3c0cff3c9a9331aa0696232</link>
 			<title>[绿茶字幕组] 朋友的妹妹只喜欢烦我 / Tomodachi no Imouto ga Ore ni dake Uzai [02v2][WebRip][1080p][繁日内嵌]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-29T23:44:29.847</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="397515168" url="https://mikanani.me/Download/20251129/98f6acf8904a1f8d0589703dfa230e9e221e62d4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠著我 / 朋友的妹妹偏爱骚扰我][08][1080P][繁体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/97615e88803d619a5e9f950004eca4dbaa47ab38</link>
-			<title>【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠著我 / 朋友的妹妹偏爱骚扰我][08][1080P][繁体][MP4]</title>
-			<description>【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠著我 / 朋友的妹妹偏爱骚扰我][08][1080P][繁体][MP4][378.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/97615e88803d619a5e9f950004eca4dbaa47ab38</link>
-				<contentLength>397116704</contentLength>
-				<pubDate>2025-11-29T23:44:22.549</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397116704" url="https://mikanani.me/Download/20251129/97615e88803d619a5e9f950004eca4dbaa47ab38.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
