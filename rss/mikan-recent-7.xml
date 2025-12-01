@@ -7696,5 +7696,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="905120320" url="https://mikanani.me/Download/20251201/172d4bdc1da847d865190067f535bc7986295202.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][4K HEVC 10Bit]</guid>
+			<link>https://mikanani.me/Home/Episode/c1dafcd3b321ef865535c4bbff0400e464d1dce2</link>
+			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][4K HEVC 10Bit]</title>
+			<description>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][4K HEVC 10Bit][41.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c1dafcd3b321ef865535c4bbff0400e464d1dce2</link>
+				<contentLength>44452913152</contentLength>
+				<pubDate>2025-12-01T16:33:29.592</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="44452913152" url="https://mikanani.me/Download/20251201/c1dafcd3b321ef865535c4bbff0400e464d1dce2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][1080P HEVC]</guid>
+			<link>https://mikanani.me/Home/Episode/a6de1d20b8734397e069bcd1b1caf83ed91e8cb1</link>
+			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][1080P HEVC]</title>
+			<description>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][1080P HEVC][19.13 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a6de1d20b8734397e069bcd1b1caf83ed91e8cb1</link>
+				<contentLength>20540680192</contentLength>
+				<pubDate>2025-12-01T16:33:19.74</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20540680192" url="https://mikanani.me/Download/20251201/a6de1d20b8734397e069bcd1b1caf83ed91e8cb1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
