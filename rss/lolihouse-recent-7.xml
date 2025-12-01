@@ -484,5 +484,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="905120320" url="https://mikanani.me/Download/20251201/172d4bdc1da847d865190067f535bc7986295202.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4d30d2be9b8b19c1807c5691aca41fc3f61b8448</link>
+			<title>[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][532.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4d30d2be9b8b19c1807c5691aca41fc3f61b8448</link>
+				<contentLength>558670784</contentLength>
+				<pubDate>2025-12-01T21:00:47.783</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="558670784" url="https://mikanani.me/Download/20251201/4d30d2be9b8b19c1807c5691aca41fc3f61b8448.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
