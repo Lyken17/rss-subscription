@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669</link>
+			<title>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)[718.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669</link>
+				<contentLength>753087296</contentLength>
+				<pubDate>2025-12-02T01:30:29.956061</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753087296" url="https://mikanani.me/Download/20251202/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/aef75294b7e65ebf16521d229ac6cb945a7beebc</link>
 			<title>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-30T23:23:59.565</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="492421760" url="https://mikanani.me/Download/20251130/5dc5c9b9d1f06d35bae9dad1abf60afec0ca741b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4ad2bfd90780442ce9fdd62126b0e07e9f59f1f8</link>
-			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 08 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4ad2bfd90780442ce9fdd62126b0e07e9f59f1f8</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-11-30T23:19:04.10829</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20251130/4ad2bfd90780442ce9fdd62126b0e07e9f59f1f8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

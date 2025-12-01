@@ -1576,5 +1576,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="752458112" url="https://mikanani.me/Download/20251202/ae12e442d01e2de006e7876eb3444426f5c0e4b3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669</link>
+			<title>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)[718.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669</link>
+				<contentLength>753087296</contentLength>
+				<pubDate>2025-12-02T01:30:29.956061</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753087296" url="https://mikanani.me/Download/20251202/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
