@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - 8 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/0390edbcd65e600dd051dd8835fec04dcf08d584</link>
+			<title>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - 8 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - 8 [1080p][简日内嵌][561.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0390edbcd65e600dd051dd8835fec04dcf08d584</link>
+				<contentLength>588355968</contentLength>
+				<pubDate>2025-12-02T07:18:26.893254</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="588355968" url="https://mikanani.me/Download/20251202/0390edbcd65e600dd051dd8835fec04dcf08d584.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/6ba2a89c29ba1cd7647b8ea5a333ff2decc8c669</link>
 			<title>[黒ネズミたち] 身为暗杀者的我明显比勇者还强 / Sutetsuyo - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-11-30T23:25:22.129</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="730920384" url="https://mikanani.me/Download/20251130/7885f091e3b401dbdb99b840483a40a6fb43e6ee.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [08][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/5dc5c9b9d1f06d35bae9dad1abf60afec0ca741b</link>
-			<title>[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [08][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [08][1080p][简繁内封][469.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5dc5c9b9d1f06d35bae9dad1abf60afec0ca741b</link>
-				<contentLength>492421760</contentLength>
-				<pubDate>2025-11-30T23:23:59.565</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="492421760" url="https://mikanani.me/Download/20251130/5dc5c9b9d1f06d35bae9dad1abf60afec0ca741b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
