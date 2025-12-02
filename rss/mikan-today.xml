@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★百姓贵族/农民贵族 Alma-chan wa Kazoku ni Naritai★29★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/df5ae36ab4b5336c934ea68f0831349bb43f7374</link>
+			<title>六四位元字幕组★百姓贵族/农民贵族 Alma-chan wa Kazoku ni Naritai★29★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★百姓贵族/农民贵族 Alma-chan wa Kazoku ni Naritai★29★1920x1080★AVC AAC MP4★繁体中文[60.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/df5ae36ab4b5336c934ea68f0831349bb43f7374</link>
+				<contentLength>63543704</contentLength>
+				<pubDate>2025-12-02T14:42:44.115</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="63543704" url="https://mikanani.me/Download/20251202/df5ae36ab4b5336c934ea68f0831349bb43f7374.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第2季 / Twinkle Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)</guid>
 			<link>https://mikanani.me/Home/Episode/ec64346563de7e83ffa618a3e13254967bf0cecb</link>
 			<title>[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第2季 / Twinkle Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-01T03:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="456969408" url="https://mikanani.me/Download/20251201/2ae9547ab0a7cfddb279b6088ebf765e999e4a43.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 数码暴龙 BEATBREAK / Digimon Beatbreak - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/d5dd15b48bb75b1d957f8d5f979444a9af2c5925</link>
-			<title>[Skymoon-Raws] 数码暴龙 BEATBREAK / Digimon Beatbreak - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 数码暴龙 BEATBREAK / Digimon Beatbreak - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][427.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d5dd15b48bb75b1d957f8d5f979444a9af2c5925</link>
-				<contentLength>448161376</contentLength>
-				<pubDate>2025-12-01T03:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="448161376" url="https://mikanani.me/Download/20251201/d5dd15b48bb75b1d957f8d5f979444a9af2c5925.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
