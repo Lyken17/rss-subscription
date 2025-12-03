@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 09 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c8cb9a96470ad8e202523c7e7e34f07a2ec38aab</link>
+			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 09 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 09 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][927.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c8cb9a96470ad8e202523c7e7e34f07a2ec38aab</link>
+				<contentLength>972554240</contentLength>
+				<pubDate>2025-12-04T06:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="972554240" url="https://mikanani.me/Download/20251204/c8cb9a96470ad8e202523c7e7e34f07a2ec38aab.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">城市猎人.俄语版.City Hunter '91 (1991) Rus</guid>
 			<link>https://mikanani.me/Home/Episode/fced1e961f47ac47c83639d08108cc3644026af0</link>
 			<title>城市猎人.俄语版.City Hunter '91 (1991) Rus</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-03T01:00:35.116167</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="747949248" url="https://mikanani.me/Download/20251203/60abb42a79c862f23f587c8d812fbec7940522fa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][09][1080p][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/10828f376126109704e5b61d00498879fcd2fc77</link>
-			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][09][1080p][繁日双语]</title>
-			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][09][1080p][繁日双语][458.43 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/10828f376126109704e5b61d00498879fcd2fc77</link>
-				<contentLength>480698688</contentLength>
-				<pubDate>2025-12-03T00:46:00.069</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="480698688" url="https://mikanani.me/Download/20251203/10828f376126109704e5b61d00498879fcd2fc77.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
