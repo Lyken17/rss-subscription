@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">棋魂.法日双语.法文VobSub字幕.Hikaru No Go - DVDRIP - VF VOSTFR - x264 AAC</guid>
+			<link>https://mikanani.me/Home/Episode/2ac1600944331e84ecc46e395a65010770e35bbd</link>
+			<title>棋魂.法日双语.法文VobSub字幕.Hikaru No Go - DVDRIP - VF VOSTFR - x264 AAC</title>
+			<description>棋魂.法日双语.法文VobSub字幕.Hikaru No Go - DVDRIP - VF VOSTFR - x264 AAC[12.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ac1600944331e84ecc46e395a65010770e35bbd</link>
+				<contentLength>13529147392</contentLength>
+				<pubDate>2025-12-04T04:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13529147392" url="https://mikanani.me/Download/20251204/2ac1600944331e84ecc46e395a65010770e35bbd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/d7f9e6a1b6189eb5317cfd146f54b9fb21cd9faa</link>
 			<title>[ANi] Lets Play /  Let′s Play 充满挑战的人生 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-03T00:31:00.780613</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="597688320" url="https://mikanani.me/Download/20251203/b094ab8ca3588b8cd9d357fdc3d5cdb3cad1dd2f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 06 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/974a099ad97dc190003f88230893b395985b5794</link>
-			<title>[黒ネズミたち] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 06 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 06 (Baha 1920x1080 AVC AAC MP4)[246.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/974a099ad97dc190003f88230893b395985b5794</link>
-				<contentLength>258054560</contentLength>
-				<pubDate>2025-12-03T00:30:53.69404</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="258054560" url="https://mikanani.me/Download/20251203/974a099ad97dc190003f88230893b395985b5794.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
