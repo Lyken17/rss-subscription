@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/c0964d905061fe3fac5d5a8c915438067df81fb6</link>
+			<title>[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P][2.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0964d905061fe3fac5d5a8c915438067df81fb6</link>
+				<contentLength>2576980480</contentLength>
+				<pubDate>2025-12-05T14:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20251205/c0964d905061fe3fac5d5a8c915438067df81fb6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【咪路fans制作组】魔法咪路咪路第四季日语版 [01-22][v2][GB][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/f4dedbced3cb14d2e4cc581fbb082503a00259b4</link>
 			<title>【咪路fans制作组】魔法咪路咪路第四季日语版 [01-22][v2][GB][1080P][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-04T01:25:46.676705</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="383673952" url="https://mikanani.me/Download/20251204/c3adf17e91be2c305afac6b836d4611aa2fd500b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">热舞青春「ワンダンス」WANDANCE S01E09 1080P 多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/a73567945f37874e24b428fec92e3f0ef462d88a</link>
-			<title>热舞青春「ワンダンス」WANDANCE S01E09 1080P 多国字幕</title>
-			<description>热舞青春「ワンダンス」WANDANCE S01E09 1080P 多国字幕[818MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a73567945f37874e24b428fec92e3f0ef462d88a</link>
-				<contentLength>857735168</contentLength>
-				<pubDate>2025-12-04T01:14:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="857735168" url="https://mikanani.me/Download/20251204/a73567945f37874e24b428fec92e3f0ef462d88a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

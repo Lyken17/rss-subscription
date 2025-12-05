@@ -31732,5 +31732,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2469606144" url="https://mikanani.me/Download/20251205/2aed50638cb1070b3d816bc584712b6237c299db.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/c0964d905061fe3fac5d5a8c915438067df81fb6</link>
+			<title>[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P][2.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c0964d905061fe3fac5d5a8c915438067df81fb6</link>
+				<contentLength>2576980480</contentLength>
+				<pubDate>2025-12-05T14:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20251205/c0964d905061fe3fac5d5a8c915438067df81fb6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
