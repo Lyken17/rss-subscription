@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 09 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c8cb9a96470ad8e202523c7e7e34f07a2ec38aab</link>
-			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 09 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 09 [IQIYI WebRip 2160p HEVC-10bit OPUS][简繁内封字幕][927.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c8cb9a96470ad8e202523c7e7e34f07a2ec38aab</link>
-				<contentLength>972554240</contentLength>
-				<pubDate>2025-12-04T06:37:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="972554240" url="https://mikanani.me/Download/20251204/c8cb9a96470ad8e202523c7e7e34f07a2ec38aab.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 为喵人生 / Reborn as a Cat - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/62bc6441c8a8d26e112ce62d13b31155de03fb40</link>
 			<title>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1095,6 +1083,18 @@
 				<pubDate>2025-12-05T14:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20251205/c0964d905061fe3fac5d5a8c915438067df81fb6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第3季 / Secret Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/341f6210090ef4d3f3bbb7e4c2e0d6e114673544</link>
+			<title>[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第3季 / Secret Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第3季 / Secret Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)[6.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/341f6210090ef4d3f3bbb7e4c2e0d6e114673544</link>
+				<contentLength>6442450944</contentLength>
+				<pubDate>2025-12-05T14:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6442450944" url="https://mikanani.me/Download/20251205/341f6210090ef4d3f3bbb7e4c2e0d6e114673544.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第3季 / Secret Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)</guid>
+			<link>https://mikanani.me/Home/Episode/341f6210090ef4d3f3bbb7e4c2e0d6e114673544</link>
+			<title>[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第3季 / Secret Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)</title>
+			<description>[jibaketa合成&amp;音频压制+部份二次压制]捉捉！迷你宝 / 奇妙！萌可 第3季 / Secret Catch! Teenieping [粤语+无字幕] (WEB 1920x1080 x264 AAC YUE)[6.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/341f6210090ef4d3f3bbb7e4c2e0d6e114673544</link>
+				<contentLength>6442450944</contentLength>
+				<pubDate>2025-12-05T14:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6442450944" url="https://mikanani.me/Download/20251205/341f6210090ef4d3f3bbb7e4c2e0d6e114673544.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/c0964d905061fe3fac5d5a8c915438067df81fb6</link>
 			<title>[GM-Team][国漫][完美世界][Perfect World][2021][240-244][AVC][GB][1080P]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-04T01:26:03.870474</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="384512832" url="https://mikanani.me/Download/20251204/d7f9e6a1b6189eb5317cfd146f54b9fb21cd9faa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/c3adf17e91be2c305afac6b836d4611aa2fd500b</link>
-			<title>[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 10 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] Let′s Play 充满挑战的人生 / Let's Play: Quest-darake no My Life - 10 (Baha 1920x1080 AVC AAC MP4)[365.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c3adf17e91be2c305afac6b836d4611aa2fd500b</link>
-				<contentLength>383673952</contentLength>
-				<pubDate>2025-12-04T01:25:46.676705</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="383673952" url="https://mikanani.me/Download/20251204/c3adf17e91be2c305afac6b836d4611aa2fd500b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
