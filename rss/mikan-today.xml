@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★10★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/da12c82246ac5676f083dd690ae9d02e33980703</link>
+			<title>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★10★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★阿尔玛酱想成为家人 Alma-chan wa Kazoku ni Naritai★10★1920x1080★AVC AAC MP4★繁体中文[509.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da12c82246ac5676f083dd690ae9d02e33980703</link>
+				<contentLength>534186560</contentLength>
+				<pubDate>2025-12-08T05:35:43.855</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="534186560" url="https://mikanani.me/Download/20251208/da12c82246ac5676f083dd690ae9d02e33980703.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/ecad8081e809f08b25d227b2f7f4e59d6264b28b</link>
 			<title>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-07T08:48:24.839</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="651207616" url="https://mikanani.me/Download/20251207/0323a56be56215fad7fbbafcde501178f9a3527f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 42 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/c14b22790c5be587eefc33c5eb8ae77ea1e0c69e</link>
-			<title>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 42 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] You and idol 光之美少女♪ / Kimi to Idol Precure♪ - 42 (ABEMA 1920x1080 AVC AAC MP4)[732.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c14b22790c5be587eefc33c5eb8ae77ea1e0c69e</link>
-				<contentLength>767662464</contentLength>
-				<pubDate>2025-12-07T08:30:25.270319</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="767662464" url="https://mikanani.me/Download/20251207/c14b22790c5be587eefc33c5eb8ae77ea1e0c69e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
