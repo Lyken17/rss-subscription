@@ -556,5 +556,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="522033568" url="https://mikanani.me/Download/20251208/40c49109a067031c46d810bed6ec62c99bbb63f4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9e2700754ae2e3a55826d5d7572466d60885e4f7</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][293.77 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e2700754ae2e3a55826d5d7572466d60885e4f7</link>
+				<contentLength>308040160</contentLength>
+				<pubDate>2025-12-08T18:42:03.463</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="308040160" url="https://mikanani.me/Download/20251208/9e2700754ae2e3a55826d5d7572466d60885e4f7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
