@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/62af79239664a285d87e1f9956949c6cd9e2f5f3</link>
+			<title>[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][240.74 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/62af79239664a285d87e1f9956949c6cd9e2f5f3</link>
+				<contentLength>252434192</contentLength>
+				<pubDate>2025-12-09T16:44:27.364</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="252434192" url="https://mikanani.me/Download/20251209/62af79239664a285d87e1f9956949c6cd9e2f5f3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/158ba53b014fbe4215ed0e0298f4d92859b94b08</link>
 			<title>[LoliHouse] 明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-08T13:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="612158656" url="https://mikanani.me/Download/20251208/416a79e10577c41624c44e74c4d57f526f0950d5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[NanakoRaws] 三千里寻母记.高清修复版.Haha wo Tazunete Sanzenri (HD Remastered) - 19 (FamiGeki 1920x1080 x265 AAC)</guid>
-			<link>https://mikanani.me/Home/Episode/55fafe17b9a45078e92dbb1c1a9768cec22cc5d7</link>
-			<title>[NanakoRaws] 三千里寻母记.高清修复版.Haha wo Tazunete Sanzenri (HD Remastered) - 19 (FamiGeki 1920x1080 x265 AAC)</title>
-			<description>[NanakoRaws] 三千里寻母记.高清修复版.Haha wo Tazunete Sanzenri (HD Remastered) - 19 (FamiGeki 1920x1080 x265 AAC)[567.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55fafe17b9a45078e92dbb1c1a9768cec22cc5d7</link>
-				<contentLength>594752320</contentLength>
-				<pubDate>2025-12-08T13:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="594752320" url="https://mikanani.me/Download/20251208/55fafe17b9a45078e92dbb1c1a9768cec22cc5d7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
