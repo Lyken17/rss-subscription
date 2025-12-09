@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][全缉毒狂潮/Cop Craft][01-12TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](コップクラフト)</guid>
+			<link>https://mikanani.me/Home/Episode/939b24897f49f1d7b6fbf88eedc6890882704b16</link>
+			<title>[DBD-Raws][全缉毒狂潮/Cop Craft][01-12TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](コップクラフト)</title>
+			<description>[DBD-Raws][全缉毒狂潮/Cop Craft][01-12TV全集+SP][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](コップクラフト)[7.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/939b24897f49f1d7b6fbf88eedc6890882704b16</link>
+				<contentLength>7730940928</contentLength>
+				<pubDate>2025-12-09T13:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7730940928" url="https://mikanani.me/Download/20251209/939b24897f49f1d7b6fbf88eedc6890882704b16.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][神怒之日/Dies Irae][00-17TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ディエス・イレ)</guid>
 			<link>https://mikanani.me/Home/Episode/8de1ca9edcad0bf321b33b995c3868a70152245d</link>
 			<title>[DBD-Raws][神怒之日/Dies Irae][00-17TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ディエス・イレ)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-08T12:48:58.217</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="522033568" url="https://mikanani.me/Download/20251208/40c49109a067031c46d810bed6ec62c99bbb63f4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 咔嗒咔嗒 废渊战鬼 Gachiakuta - 17 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/70009bbbd1026bd7ea4c376b084e1116d1d5b816</link>
-			<title>[Prejudice-Studio] 咔嗒咔嗒 废渊战鬼 Gachiakuta - 17 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 咔嗒咔嗒 废渊战鬼 Gachiakuta - 17 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][401.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/70009bbbd1026bd7ea4c376b084e1116d1d5b816</link>
-				<contentLength>421108128</contentLength>
-				<pubDate>2025-12-08T12:07:39.256744</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="421108128" url="https://mikanani.me/Download/20251208/70009bbbd1026bd7ea4c376b084e1116d1d5b816.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
