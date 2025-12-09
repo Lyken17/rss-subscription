@@ -7960,5 +7960,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="261892336" url="https://mikanani.me/Download/20251209/d87e1b469dd7e61e1358c548676c1ee921cbd16a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][神怒之日/Dies Irae][00-17TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ディエス・イレ)</guid>
+			<link>https://mikanani.me/Home/Episode/8de1ca9edcad0bf321b33b995c3868a70152245d</link>
+			<title>[DBD-Raws][神怒之日/Dies Irae][00-17TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ディエス・イレ)</title>
+			<description>[DBD-Raws][神怒之日/Dies Irae][00-17TV全集+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV](ディエス・イレ)[21.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8de1ca9edcad0bf321b33b995c3868a70152245d</link>
+				<contentLength>23407570944</contentLength>
+				<pubDate>2025-12-09T13:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23407570944" url="https://mikanani.me/Download/20251209/8de1ca9edcad0bf321b33b995c3868a70152245d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
