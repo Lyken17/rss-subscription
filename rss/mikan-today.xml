@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/30d1703766b3c9a74dc2f000600745916965635d</link>
+			<title>[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 无职英雄：技能什么的毫无用处 / Mushoku no Eiyuu [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][5.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/30d1703766b3c9a74dc2f000600745916965635d</link>
+				<contentLength>5798205952</contentLength>
+				<pubDate>2025-12-11T13:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5798205952" url="https://mikanani.me/Download/20251211/30d1703766b3c9a74dc2f000600745916965635d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cb5f5f93beccb2e4a16c812962c40f431e980166</link>
 			<title>[LoliHouse] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-10T01:35:43.849216</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="276299776" url="https://mikanani.me/Download/20251210/2d58a6a9d55c78cd4b973c178facb6711e2b2105.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 罪恶之渊 / Guilty Hole [07][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/aca9f6a2c9a13fd603772276487652e8a0c12bbe</link>
-			<title>[桜都字幕组] 罪恶之渊 / Guilty Hole [07][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 罪恶之渊 / Guilty Hole [07][1080p][简体内嵌][116.52 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aca9f6a2c9a13fd603772276487652e8a0c12bbe</link>
-				<contentLength>122180072</contentLength>
-				<pubDate>2025-12-10T01:28:11.755</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="122180072" url="https://mikanani.me/Download/20251210/aca9f6a2c9a13fd603772276487652e8a0c12bbe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
