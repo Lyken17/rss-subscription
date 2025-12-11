@@ -8044,5 +8044,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5798205952" url="https://mikanani.me/Download/20251211/30d1703766b3c9a74dc2f000600745916965635d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">大唐乘风录[第14集][4K].Wind.Driver.in.Tang.Dynasty</guid>
+			<link>https://mikanani.me/Home/Episode/f57ae45a9874a8f068d0c0dbba6d2d7212961b2e</link>
+			<title>大唐乘风录[第14集][4K].Wind.Driver.in.Tang.Dynasty</title>
+			<description>大唐乘风录[第14集][4K].Wind.Driver.in.Tang.Dynasty[849.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f57ae45a9874a8f068d0c0dbba6d2d7212961b2e</link>
+				<contentLength>890765312</contentLength>
+				<pubDate>2025-12-11T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="890765312" url="https://mikanani.me/Download/20251211/f57ae45a9874a8f068d0c0dbba6d2d7212961b2e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">神在囧途[第25集][4K].Eat.Around.the.Mortal.World</guid>
+			<link>https://mikanani.me/Home/Episode/70acf767887d89c0417f0072b38e5fbb9f15af63</link>
+			<title>神在囧途[第25集][4K].Eat.Around.the.Mortal.World</title>
+			<description>神在囧途[第25集][4K].Eat.Around.the.Mortal.World[485.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/70acf767887d89c0417f0072b38e5fbb9f15af63</link>
+				<contentLength>508769088</contentLength>
+				<pubDate>2025-12-11T18:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="508769088" url="https://mikanani.me/Download/20251211/70acf767887d89c0417f0072b38e5fbb9f15af63.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
