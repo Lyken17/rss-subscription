@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][11][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/f183bd6a4f5fb1edcd42f3656f419522210c6d8c</link>
+			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][11][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][11][1080p][简日双语][469.31 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f183bd6a4f5fb1edcd42f3656f419522210c6d8c</link>
+				<contentLength>492107200</contentLength>
+				<pubDate>2025-12-12T02:46:19.062</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="492107200" url="https://mikanani.me/Download/20251212/f183bd6a4f5fb1edcd42f3656f419522210c6d8c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [21][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/49129213cb30eb161e7fbd5264ff81556deb2f4c</link>
 			<title>[桜都字幕组] 赛马娘 灰发灰姑娘 / Uma Musume Cinderella Gray [21][1080p][繁体内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-10T21:55:33.460418</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="558891008" url="https://mikanani.me/Download/20251210/079371d097f4a0f46818a427920151a032b85233.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [08] [1080p] [繁日内嵌] [2025年10月番]</guid>
-			<link>https://mikanani.me/Home/Episode/570a7c858d26b61962387131e433afad9f4e07dd</link>
-			<title>[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [08] [1080p] [繁日内嵌] [2025年10月番]</title>
-			<description>[猎户压制部] 拥有超常技能的异世界流浪美食家 第二季 / Tondemo Skill de Isekai Hourou Meshi S2 [08] [1080p] [繁日内嵌] [2025年10月番][523.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/570a7c858d26b61962387131e433afad9f4e07dd</link>
-				<contentLength>548405248</contentLength>
-				<pubDate>2025-12-10T21:53:51.132001</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="548405248" url="https://mikanani.me/Download/20251210/570a7c858d26b61962387131e433afad9f4e07dd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
