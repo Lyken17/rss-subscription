@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 33 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6add4291db5635998bb8d3526f85794ecde608f3</link>
+			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 33 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 33 (ABEMA 1920x1080 AVC AAC MP4)[722.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6add4291db5635998bb8d3526f85794ecde608f3</link>
+				<contentLength>757176704</contentLength>
+				<pubDate>2025-12-12T17:00:47.115766</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757176704" url="https://mikanani.me/Download/20251212/6add4291db5635998bb8d3526f85794ecde608f3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">枕刀歌.第三季[全14集][1080P].A.Song.of.Sword.as.Pillow</guid>
 			<link>https://mikanani.me/Home/Episode/2895abf16b7edddcc894c48e38f4c7b4ee5374e6</link>
 			<title>枕刀歌.第三季[全14集][1080P].A.Song.of.Sword.as.Pillow</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-11T00:45:31.4</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="428332800" url="https://mikanani.me/Download/20251211/7dd32e13aa7eeaa208cdbb7a10ab745591f6a744.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a4e3f401db30b12b6ff497af3255383cee1e5c4e</link>
-			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 13 (ABEMA 1920x1080 AVC AAC MP4)[663.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a4e3f401db30b12b6ff497af3255383cee1e5c4e</link>
-				<contentLength>695835008</contentLength>
-				<pubDate>2025-12-11T00:30:37.042937</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="695835008" url="https://mikanani.me/Download/20251211/a4e3f401db30b12b6ff497af3255383cee1e5c4e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
