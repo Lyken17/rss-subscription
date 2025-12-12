@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5ee2bb83b18b621b0c785997cb068200c0af416d</link>
+			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][225.47 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ee2bb83b18b621b0c785997cb068200c0af416d</link>
+				<contentLength>236422432</contentLength>
+				<pubDate>2025-12-12T07:31:35.747</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="236422432" url="https://mikanani.me/Download/20251212/5ee2bb83b18b621b0c785997cb068200c0af416d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][11][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/f183bd6a4f5fb1edcd42f3656f419522210c6d8c</link>
 			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][11][1080p][简日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-10T22:18:33.586982</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="512334240" url="https://mikanani.me/Download/20251210/bb2e6c76d3d0500df13b09aa4e194f8fbc7d0742.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/079371d097f4a0f46818a427920151a032b85233</link>
-			<title>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 11 (ABEMA 1920x1080 AVC AAC MP4)[533.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/079371d097f4a0f46818a427920151a032b85233</link>
-				<contentLength>558891008</contentLength>
-				<pubDate>2025-12-10T21:55:33.460418</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="558891008" url="https://mikanani.me/Download/20251210/079371d097f4a0f46818a427920151a032b85233.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
