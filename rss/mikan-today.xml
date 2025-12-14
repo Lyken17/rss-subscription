@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">丁丁历险记.意大利语+英语+法语.英文+法文.Le avventure di Tintin - S1 [WEBMux 1080p x264 AC3 ITA E-AC3 ENG-FRE SUB ENG-FRE]</guid>
+			<link>https://mikanani.me/Home/Episode/458bc15b9035e5f70aacb076d778af43821bd872</link>
+			<title>丁丁历险记.意大利语+英语+法语.英文+法文.Le avventure di Tintin - S1 [WEBMux 1080p x264 AC3 ITA E-AC3 ENG-FRE SUB ENG-FRE]</title>
+			<description>丁丁历险记.意大利语+英语+法语.英文+法文.Le avventure di Tintin - S1 [WEBMux 1080p x264 AC3 ITA E-AC3 ENG-FRE SUB ENG-FRE][20.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/458bc15b9035e5f70aacb076d778af43821bd872</link>
+				<contentLength>21689585664</contentLength>
+				<pubDate>2025-12-15T02:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21689585664" url="https://mikanani.me/Download/20251215/458bc15b9035e5f70aacb076d778af43821bd872.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 10 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/37801d602895b7cbf44a76dce1d31e7afd8de712</link>
 			<title>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 10 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-14T10:02:01.378197</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="331140288" url="https://mikanani.me/Download/20251214/7a785cd280fe64d9ccda8aa328f4ef9d640c2115.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/6237aae04a1d55f9f936cb6ef2601ef48c86f2d5</link>
-			<title>[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 11 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 11 (Baha 1920x1080 AVC AAC MP4)[397.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6237aae04a1d55f9f936cb6ef2601ef48c86f2d5</link>
-				<contentLength>416913824</contentLength>
-				<pubDate>2025-12-14T10:01:52.864609</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="416913824" url="https://mikanani.me/Download/20251214/6237aae04a1d55f9f936cb6ef2601ef48c86f2d5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
