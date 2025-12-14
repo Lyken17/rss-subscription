@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][119][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/ff3901953ac9d003882ff8c8de7b644028b6b88b</link>
+			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][119][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][仙逆][Renegade Immortal][2023][119][AVC][GB][1080P][448.39 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ff3901953ac9d003882ff8c8de7b644028b6b88b</link>
+				<contentLength>470171008</contentLength>
+				<pubDate>2025-12-14T18:57:39.544</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="470171008" url="https://mikanani.me/Download/20251214/ff3901953ac9d003882ff8c8de7b644028b6b88b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki [01-13 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/2f22ffb5e41a25e205a5a9b45d549b722dc4ed75</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 琉璃的宝石 / Ruri no Houseki [01-13 修正合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-13T23:04:59.489734</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746481280" url="https://mikanani.me/Download/20251213/fe0ab458953f06d07a21d2a118a56bcd749234a8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 贯彻辅助魔法支援弱小队友的宫廷魔法师，惨遭驱逐后目标成为最强冒险者 / Hojomaho - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/68623bf39d0fb0fac666b0de1926a99aa694ab54</link>
-			<title>[黒ネズミたち] 贯彻辅助魔法支援弱小队友的宫廷魔法师，惨遭驱逐后目标成为最强冒险者 / Hojomaho - 11 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 贯彻辅助魔法支援弱小队友的宫廷魔法师，惨遭驱逐后目标成为最强冒险者 / Hojomaho - 11 (Baha 1920x1080 AVC AAC MP4)[514.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/68623bf39d0fb0fac666b0de1926a99aa694ab54</link>
-				<contentLength>539387520</contentLength>
-				<pubDate>2025-12-13T23:04:22.980946</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="539387520" url="https://mikanani.me/Download/20251213/68623bf39d0fb0fac666b0de1926a99aa694ab54.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
