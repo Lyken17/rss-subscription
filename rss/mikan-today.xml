@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 公主公主 Princess Princess プリンセス・プリンセス (2006)[tmdbid=79237][DVDRip 396p AVC 8bit AAC][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/37b8126a852bbb33d298898ecf7b1db19d1e918c</link>
+			<title>[Prejudice-Studio] 公主公主 Princess Princess プリンセス・プリンセス (2006)[tmdbid=79237][DVDRip 396p AVC 8bit AAC][繁体内嵌]</title>
+			<description>[Prejudice-Studio] 公主公主 Princess Princess プリンセス・プリンセス (2006)[tmdbid=79237][DVDRip 396p AVC 8bit AAC][繁体内嵌][1.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37b8126a852bbb33d298898ecf7b1db19d1e918c</link>
+				<contentLength>2040109440</contentLength>
+				<pubDate>2025-12-15T14:52:47.447063</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20251215/37b8126a852bbb33d298898ecf7b1db19d1e918c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][06][1080P][BIG5][MP4][繁中]</guid>
 			<link>https://mikanani.me/Home/Episode/404cd79573a40bc804a6793111608159d13c79d2</link>
 			<title>[爱恋字幕社][10月新番][弹珠汽水瓶里的千岁同学][Chitose-kun wa Ramune Bin no Naka][06][1080P][BIG5][MP4][繁中]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-14T21:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="21689585664" url="https://mikanani.me/Download/20251214/332b40c65627a0b5df2b421f4f599dd64383e664.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">丁丁历险记.意大利语+英语+法语.英文字幕.Le avventure di Tintin - S3 [WEBMux 1080p x264 AC3 ITA E-AC3 ENG-FRE SUB ENG-FRE]</guid>
-			<link>https://mikanani.me/Home/Episode/7b3c8c37f6afaf50c7b943876a586bcfba66b0f8</link>
-			<title>丁丁历险记.意大利语+英语+法语.英文字幕.Le avventure di Tintin - S3 [WEBMux 1080p x264 AC3 ITA E-AC3 ENG-FRE SUB ENG-FRE]</title>
-			<description>丁丁历险记.意大利语+英语+法语.英文字幕.Le avventure di Tintin - S3 [WEBMux 1080p x264 AC3 ITA E-AC3 ENG-FRE SUB ENG-FRE][20.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7b3c8c37f6afaf50c7b943876a586bcfba66b0f8</link>
-				<contentLength>21582211072</contentLength>
-				<pubDate>2025-12-14T20:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="21582211072" url="https://mikanani.me/Download/20251214/7b3c8c37f6afaf50c7b943876a586bcfba66b0f8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
