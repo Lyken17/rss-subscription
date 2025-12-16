@@ -2512,5 +2512,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="394243616" url="https://mikanani.me/Download/20251216/29747bf6b754e2ab36ac424e171fd6b469f15319.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法少女小圆 起始的物语 / 永远的物语 TV 剪辑版 / Puella Magi Madoka - 10 [WebRip 1080p HEVC-10bit AAC][日语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/37003dc70be40441f04cbae3339b24f938d20e29</link>
+			<title>[LoliHouse] 魔法少女小圆 起始的物语 / 永远的物语 TV 剪辑版 / Puella Magi Madoka - 10 [WebRip 1080p HEVC-10bit AAC][日语内封字幕]</title>
+			<description>[LoliHouse] 魔法少女小圆 起始的物语 / 永远的物语 TV 剪辑版 / Puella Magi Madoka - 10 [WebRip 1080p HEVC-10bit AAC][日语内封字幕][704.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37003dc70be40441f04cbae3339b24f938d20e29</link>
+				<contentLength>738208000</contentLength>
+				<pubDate>2025-12-16T15:10:40.733</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="738208000" url="https://mikanani.me/Download/20251216/37003dc70be40441f04cbae3339b24f938d20e29.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
