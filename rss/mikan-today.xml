@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][35][简繁外挂]</guid>
+			<link>https://mikanani.me/Home/Episode/9a2216e502a28ab40f506076d7d051a7db11f367</link>
+			<title>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][35][简繁外挂]</title>
+			<description>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][35][简繁外挂][726.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9a2216e502a28ab40f506076d7d051a7db11f367</link>
+				<contentLength>762000192</contentLength>
+				<pubDate>2025-12-16T19:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="762000192" url="https://mikanani.me/Download/20251216/9a2216e502a28ab40f506076d7d051a7db11f367.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][35][繁]</guid>
+			<link>https://mikanani.me/Home/Episode/8cc5a76173993c9e29a5f590d4fcab6b371ac5fa</link>
+			<title>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][35][繁]</title>
+			<description>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][35][繁][480.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8cc5a76173993c9e29a5f590d4fcab6b371ac5fa</link>
+				<contentLength>503526208</contentLength>
+				<pubDate>2025-12-16T19:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="503526208" url="https://mikanani.me/Download/20251216/8cc5a76173993c9e29a5f590d4fcab6b371ac5fa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</guid>
 			<link>https://mikanani.me/Home/Episode/3a20559afa6261b9d903774be0dfff0298a4b1db</link>
 			<title>异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-12-15T12:26:38.496</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="516622912" url="https://mikanani.me/Download/20251215/a5e11d0aea05be3cb2d6a0ccf67434f6a9ca3118.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [09][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/2a57e93e129f6a781c7702731a393dc8789d1ae3</link>
-			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [09][1080p][繁日内嵌]</title>
-			<description>[MingY] 末世二轮之旅 / Shuumatsu Touring [09][1080p][繁日内嵌][472.25 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2a57e93e129f6a781c7702731a393dc8789d1ae3</link>
-				<contentLength>495190016</contentLength>
-				<pubDate>2025-12-15T12:26:33.028</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="495190016" url="https://mikanani.me/Download/20251215/2a57e93e129f6a781c7702731a393dc8789d1ae3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [09][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/ba587693481533063ed1691bd87dd9c82c810ae8</link>
-			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [09][1080p][简日内嵌]</title>
-			<description>[MingY] 末世二轮之旅 / Shuumatsu Touring [09][1080p][简日内嵌][472.31 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ba587693481533063ed1691bd87dd9c82c810ae8</link>
-				<contentLength>495252928</contentLength>
-				<pubDate>2025-12-15T12:26:24.551</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="495252928" url="https://mikanani.me/Download/20251215/ba587693481533063ed1691bd87dd9c82c810ae8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
