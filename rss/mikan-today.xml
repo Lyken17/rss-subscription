@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/40558776a4493261a5131e1ab1fb4bc8f195829d</link>
+			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][324.32 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40558776a4493261a5131e1ab1fb4bc8f195829d</link>
+				<contentLength>340074176</contentLength>
+				<pubDate>2025-12-16T07:26:26.925</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="340074176" url="https://mikanani.me/Download/20251216/40558776a4493261a5131e1ab1fb4bc8f195829d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero’s - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/24b1a151f512081305c382a8d0fdaf537237053b</link>
 			<title>[Skymoon-Raws] 身为暗杀者的我明显比勇者还强 / My Status as an Assassin Obviously Exceeds the Hero’s - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-15T08:12:16.227659</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="538863232" url="https://mikanani.me/Download/20251215/5ef89eafe8b61baefdcea691abb08b6f61c011a7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【兔子字幕社】12岁。合集 12-Sai. Collection【OAD+TV+真人版】【1280X720】【繁体】【BIG5_MP4】</guid>
-			<link>https://mikanani.me/Home/Episode/dd3b439f34ab14571c53f0086dba6c04ffbadac7</link>
-			<title>【兔子字幕社】12岁。合集 12-Sai. Collection【OAD+TV+真人版】【1280X720】【繁体】【BIG5_MP4】</title>
-			<description>【兔子字幕社】12岁。合集 12-Sai. Collection【OAD+TV+真人版】【1280X720】【繁体】【BIG5_MP4】[4.66 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dd3b439f34ab14571c53f0086dba6c04ffbadac7</link>
-				<contentLength>5003636736</contentLength>
-				<pubDate>2025-12-15T05:41:12.339</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5003636736" url="https://mikanani.me/Download/20251215/dd3b439f34ab14571c53f0086dba6c04ffbadac7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
