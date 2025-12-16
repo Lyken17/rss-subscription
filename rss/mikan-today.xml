@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</guid>
+			<link>https://mikanani.me/Home/Episode/3a20559afa6261b9d903774be0dfff0298a4b1db</link>
+			<title>异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</title>
+			<description>异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}[480.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a20559afa6261b9d903774be0dfff0298a4b1db</link>
+				<contentLength>503777856</contentLength>
+				<pubDate>2025-12-16T18:08:15.322</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="503777856" url="https://mikanani.me/Download/20251216/3a20559afa6261b9d903774be0dfff0298a4b1db.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[隣天使字幕组][想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし /Watashi wo Tabetai, Hitodenashi][11][WebRip HEVC-10bit 1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/06caf26cf91bb56d18d0b8a63ef415cb543ac33a</link>
 			<title>[隣天使字幕组][想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし /Watashi wo Tabetai, Hitodenashi][11][WebRip HEVC-10bit 1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-15T12:26:24.551</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="495252928" url="https://mikanani.me/Download/20251215/ba587693481533063ed1691bd87dd9c82c810ae8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [08][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/dfc2e71ae1ff3f6ccb3c71a991eb2f44858501dc</link>
-			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [08][1080p][简繁日内封]</title>
-			<description>[MingY] 末世二轮之旅 / Shuumatsu Touring [08][1080p][简繁日内封][537.68 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfc2e71ae1ff3f6ccb3c71a991eb2f44858501dc</link>
-				<contentLength>563798336</contentLength>
-				<pubDate>2025-12-15T12:25:10.984</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="563798336" url="https://mikanani.me/Download/20251215/dfc2e71ae1ff3f6ccb3c71a991eb2f44858501dc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

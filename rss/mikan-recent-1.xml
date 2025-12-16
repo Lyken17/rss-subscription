@@ -65,18 +65,6 @@
 			<enclosure type="application/x-bittorrent" length="444847872" url="https://mikanani.me/Download/20251215/588640cc45c7bc68b4e885629f424c328b6c29c8.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1153 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6a7d184c82bfc3adea9766f2328260c53631a63e</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1153 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1153 (B-Global 3840x2160 HEVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a7d184c82bfc3adea9766f2328260c53631a63e</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2025-12-15T10:02:02.464257</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20251215/6a7d184c82bfc3adea9766f2328260c53631a63e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][遮天][Shrouding the Heavens][2023][139][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/0f9b46fc7d49cd5dbdc7e557b8a9bac9bfdee9e1</link>
 			<title>[GM-Team][国漫][遮天][Shrouding the Heavens][2023][139][AVC][GB][1080P]</title>
@@ -1395,6 +1383,18 @@
 				<pubDate>2025-12-16T15:09:13.563</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="225789872" url="https://mikanani.me/Download/20251216/a332808f547e82c9d29a84a6d676553da71e0a79.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</guid>
+			<link>https://mikanani.me/Home/Episode/3a20559afa6261b9d903774be0dfff0298a4b1db</link>
+			<title>异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</title>
+			<description>异世界四重奏3 - EP10 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}[480.44 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a20559afa6261b9d903774be0dfff0298a4b1db</link>
+				<contentLength>503777856</contentLength>
+				<pubDate>2025-12-16T18:08:15.322</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="503777856" url="https://mikanani.me/Download/20251216/3a20559afa6261b9d903774be0dfff0298a4b1db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
