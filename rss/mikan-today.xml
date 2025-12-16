@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] GANGLION / Ganglion - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/fab965dc8a9d2a3a8073536906998f1c80c5ed2b</link>
+			<title>[黒ネズミたち] GANGLION / Ganglion - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] GANGLION / Ganglion - 11 (ABEMA 1920x1080 AVC AAC MP4)[90.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fab965dc8a9d2a3a8073536906998f1c80c5ed2b</link>
+				<contentLength>94791272</contentLength>
+				<pubDate>2025-12-16T23:05:18.479441</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="94791272" url="https://mikanani.me/Download/20251216/fab965dc8a9d2a3a8073536906998f1c80c5ed2b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 10 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/66ac16e342034e033205b8d8be28cbdd6c13da45</link>
+			<title>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 10 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 10 (CR 1920x1080 AVC AAC MKV)[914.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/66ac16e342034e033205b8d8be28cbdd6c13da45</link>
+				<contentLength>958503296</contentLength>
+				<pubDate>2025-12-16T23:01:09.244155</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="958503296" url="https://mikanani.me/Download/20251216/66ac16e342034e033205b8d8be28cbdd6c13da45.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 3年Z班银八老师 / Gintama - 3-nen Z-gumi Ginpachi-sensei  - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/01650087bfef45c020067eb3ebcd8841487909ff</link>
 			<title>[LoliHouse] 3年Z班银八老师 / Gintama - 3-nen Z-gumi Ginpachi-sensei  - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2025-12-15T13:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1825361152" url="https://mikanani.me/Download/20251215/2822389dfdb5fbc2a1e695a2d346958ceeb17281.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">丁丁历险记.The.Adventures.of.Tintin.2011.FI.SE.EN.DVDR.ISO</guid>
-			<link>https://mikanani.me/Home/Episode/df94ef3b3e92c54c472314126ab44346a2da9290</link>
-			<title>丁丁历险记.The.Adventures.of.Tintin.2011.FI.SE.EN.DVDR.ISO</title>
-			<description>丁丁历险记.The.Adventures.of.Tintin.2011.FI.SE.EN.DVDR.ISO[4.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df94ef3b3e92c54c472314126ab44346a2da9290</link>
-				<contentLength>4724464128</contentLength>
-				<pubDate>2025-12-15T13:39:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4724464128" url="https://mikanani.me/Download/20251215/df94ef3b3e92c54c472314126ab44346a2da9290.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★10月新番[弹珠汽水瓶里的千岁同学][07][1080P][简体][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2f7e867930a45b58102fe6949eb4087ef956a0d7</link>
-			<title>【澄空学园&amp;动漫国字幕组】★10月新番[弹珠汽水瓶里的千岁同学][07][1080P][简体][MP4]</title>
-			<description>【澄空学园&amp;动漫国字幕组】★10月新番[弹珠汽水瓶里的千岁同学][07][1080P][简体][MP4][256.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2f7e867930a45b58102fe6949eb4087ef956a0d7</link>
-				<contentLength>269358208</contentLength>
-				<pubDate>2025-12-15T13:28:36.334</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="269358208" url="https://mikanani.me/Download/20251215/2f7e867930a45b58102fe6949eb4087ef956a0d7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
