@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/444b4f309429c2d0773199315dbdd3994dd6d962</link>
+			<title>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 10 (B-Global Donghua 1920x1080 HEVC AAC MKV)[574.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/444b4f309429c2d0773199315dbdd3994dd6d962</link>
+				<contentLength>602511744</contentLength>
+				<pubDate>2025-12-17T11:01:14.728143</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="602511744" url="https://mikanani.me/Download/20251217/444b4f309429c2d0773199315dbdd3994dd6d962.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/ae9ccc2ae6f83a42a750316c219ed808fb9f39b9</link>
 			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 10 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-15T21:49:50.04</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="448717120" url="https://mikanani.me/Download/20251215/8b78065a71aa5413eee855133661e47befa46512.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5d2d78b7d45eca344281e57eefef992adbf6d383</link>
-			<title>[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 11 (CR 1920x1080 AVC AAC MKV)[963.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5d2d78b7d45eca344281e57eefef992adbf6d383</link>
-				<contentLength>1010722432</contentLength>
-				<pubDate>2025-12-15T21:02:31.181575</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1010722432" url="https://mikanani.me/Download/20251215/5d2d78b7d45eca344281e57eefef992adbf6d383.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
