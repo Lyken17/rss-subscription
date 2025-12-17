@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="6871947776" url="https://mikanani.me/Download/20251117/07e2fe60083bb49c4b07419f489e4422f9028b58.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1150 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2e663e5bc3cecc12e5fc9b611599c5728d44336a</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1150 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1150 (B-Global 3840x2160 HEVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2e663e5bc3cecc12e5fc9b611599c5728d44336a</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2025-11-17T10:02:10.088632</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20251117/2e663e5bc3cecc12e5fc9b611599c5728d44336a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/3ba58d13a9bb82fee651c38259a66df2bf3fa6da</link>
 			<title>[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 07 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -31899,6 +31887,18 @@
 				<pubDate>2025-12-17T16:01:37.741406</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="543476928" url="https://mikanani.me/Download/20251217/4714637e69aec8861dc2277ea3cc5f20eb2e8957.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 10 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f4c9c2831bf19f1e10a01f196b4b060a2149719a</link>
+			<title>[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 10 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 10 [1080p][简日内嵌][336.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f4c9c2831bf19f1e10a01f196b4b060a2149719a</link>
+				<contentLength>352950688</contentLength>
+				<pubDate>2025-12-17T17:39:46.592933</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352950688" url="https://mikanani.me/Download/20251217/f4c9c2831bf19f1e10a01f196b4b060a2149719a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

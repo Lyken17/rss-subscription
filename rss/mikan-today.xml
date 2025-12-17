@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 10 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f4c9c2831bf19f1e10a01f196b4b060a2149719a</link>
+			<title>[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 10 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 10 [1080p][简日内嵌][336.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f4c9c2831bf19f1e10a01f196b4b060a2149719a</link>
+				<contentLength>352950688</contentLength>
+				<pubDate>2025-12-17T17:39:46.592933</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352950688" url="https://mikanani.me/Download/20251217/f4c9c2831bf19f1e10a01f196b4b060a2149719a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 08 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/4714637e69aec8861dc2277ea3cc5f20eb2e8957</link>
 			<title>[Prejudice-Studio] 扭曲仙境 Disney Twisted-Wonderland the Animation - 08 [无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-15T22:32:47.494</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="385508960" url="https://mikanani.me/Download/20251215/cd5eb9fe4a799e9ec5e2236d6c3448b564d360c0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Isekai Quartet /  异世界四重奏 3 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/03835a6593794b5ddcb11795a44a42d6a05aa88c</link>
-			<title>[ANi] Isekai Quartet /  异世界四重奏 3 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Isekai Quartet /  异世界四重奏 3 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][270.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/03835a6593794b5ddcb11795a44a42d6a05aa88c</link>
-				<contentLength>283115520</contentLength>
-				<pubDate>2025-12-15T22:30:56.355971</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="283115520" url="https://mikanani.me/Download/20251215/03835a6593794b5ddcb11795a44a42d6a05aa88c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
