@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/f8dc361f936acdb955b0cdd1e9cec2b5e17df734</link>
+			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语][451.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8dc361f936acdb955b0cdd1e9cec2b5e17df734</link>
+				<contentLength>473274784</contentLength>
+				<pubDate>2025-12-19T03:51:43.093</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="473274784" url="https://mikanani.me/Download/20251219/f8dc361f936acdb955b0cdd1e9cec2b5e17df734.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  魔法药水救救我 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/da2d3ec3c4440c5b0663dd6016fdba564ddd350a</link>
 			<title>[ANi]  魔法药水救救我 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-17T21:21:07.343</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="374939328" url="https://mikanani.me/Download/20251217/fc46b468ebc52c71b556187408cbd498559be7bc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 一拳超人 第3季 / One Punch Man (2025) [10][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/0c0fbacac6ee218edb18940cb095200eddb01b73</link>
-			<title>[桜都字幕组] 一拳超人 第3季 / One Punch Man (2025) [10][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 一拳超人 第3季 / One Punch Man (2025) [10][1080p][简繁内封][293.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0c0fbacac6ee218edb18940cb095200eddb01b73</link>
-				<contentLength>307914336</contentLength>
-				<pubDate>2025-12-17T21:20:15.616</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="307914336" url="https://mikanani.me/Download/20251217/0c0fbacac6ee218edb18940cb095200eddb01b73.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
