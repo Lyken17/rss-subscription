@@ -520,5 +520,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="452848512" url="https://mikanani.me/Download/20251217/c5b41364a9b0e5871c183297bed7aa5ee06ef0cf.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 绝妙舞步 / Wandance - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bac19f70a65e007ea84d901c7168e0f3d955ba20</link>
+			<title>[LoliHouse] 绝妙舞步 / Wandance - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 绝妙舞步 / Wandance - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][567.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bac19f70a65e007ea84d901c7168e0f3d955ba20</link>
+				<contentLength>595171712</contentLength>
+				<pubDate>2025-12-18T22:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="595171712" url="https://mikanani.me/Download/20251218/bac19f70a65e007ea84d901c7168e0f3d955ba20.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
