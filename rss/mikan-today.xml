@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/a05b5a3930a3c592e2e969d938156e1787bc102e</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)[526.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a05b5a3930a3c592e2e969d938156e1787bc102e</link>
+				<contentLength>552075264</contentLength>
+				<pubDate>2025-12-19T12:32:06.567284</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="552075264" url="https://mikanani.me/Download/20251219/a05b5a3930a3c592e2e969d938156e1787bc102e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
 			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-17T23:01:04.95183</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="281752384" url="https://mikanani.me/Download/20251217/8de99cff15adad28fde8ec257df41220c19c73c6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [11][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/aec2c82d26e8f636594c5d8850b1957fd6acfdcc</link>
-			<title>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [11][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 对我垂涎欲滴的非人少女/Watashi wo Tabetai Hitodenashi [11][WebRip][1080p][繁日内嵌][532.22 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aec2c82d26e8f636594c5d8850b1957fd6acfdcc</link>
-				<contentLength>558073088</contentLength>
-				<pubDate>2025-12-17T22:41:49.213</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="558073088" url="https://mikanani.me/Download/20251217/aec2c82d26e8f636594c5d8850b1957fd6acfdcc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
