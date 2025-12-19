@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</guid>
+			<link>https://mikanani.me/Home/Episode/c42ac0513c0cd481c0a45fb4c3e7080ba94aa8c0</link>
+			<title>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)</title>
+			<description>[整理搬运] 幸运星 (らき☆すた) (Lucky Star)：TV动画+OVA篇+漫画+音乐+其他；日英音轨; 外挂简中字幕 (整理时间：2023.12.03)[39.94 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c42ac0513c0cd481c0a45fb4c3e7080ba94aa8c0</link>
+				<contentLength>42885246976</contentLength>
+				<pubDate>2025-12-19T13:27:03.517</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="42885246976" url="https://mikanani.me/Download/20251219/c42ac0513c0cd481c0a45fb4c3e7080ba94aa8c0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a05b5a3930a3c592e2e969d938156e1787bc102e</link>
 			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-17T23:01:12.717295</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="282276672" url="https://mikanani.me/Download/20251217/7ebd98de0bc26a0d4d3a29783c6ad33dc1c385f3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 12 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/8de99cff15adad28fde8ec257df41220c19c73c6</link>
-			<title>[黒ネズミたち] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 12 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 妖怪旅馆营业中 贰 / Kakuriyo no Yadomeshi Ni - 12 (Baha 1920x1080 AVC AAC MP4)[268.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8de99cff15adad28fde8ec257df41220c19c73c6</link>
-				<contentLength>281752384</contentLength>
-				<pubDate>2025-12-17T23:01:04.95183</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="281752384" url="https://mikanani.me/Download/20251217/8de99cff15adad28fde8ec257df41220c19c73c6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
