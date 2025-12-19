@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 07 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/4a0ef86ea1a407f8e547c365cce9705d32ec504c</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 07 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 07 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE][610.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4a0ef86ea1a407f8e547c365cce9705d32ec504c</link>
+				<contentLength>639945920</contentLength>
+				<pubDate>2025-12-19T18:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="639945920" url="https://mikanani.me/Download/20251219/4a0ef86ea1a407f8e547c365cce9705d32ec504c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[学院部＆不鸽] 我的英雄学院 最终季 / Boku no Hero Academia Final Season [11] [END [1080p] [繁日内嵌] [2025年10月番] [招募时轴]</guid>
 			<link>https://mikanani.me/Home/Episode/2e65a3527dc33a48fca07f2a55da039c5d37609e</link>
 			<title>[学院部＆不鸽] 我的英雄学院 最终季 / Boku no Hero Academia Final Season [11] [END [1080p] [繁日内嵌] [2025年10月番] [招募时轴]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-18T00:02:22.983371</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1069023232" url="https://mikanani.me/Download/20251218/57d0fcc34000be29cc4077e4ea96d41221017f0f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/27b59527f1c1ffad947301b46a352509642c6e52</link>
-			<title>[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 11 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 转生恶女的黑历史 / Tensei Akujo no Kuro Rekishi - 11 (Baha 1920x1080 AVC AAC MP4)[505.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/27b59527f1c1ffad947301b46a352509642c6e52</link>
-				<contentLength>529635744</contentLength>
-				<pubDate>2025-12-18T00:01:10.289945</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="529635744" url="https://mikanani.me/Download/20251218/27b59527f1c1ffad947301b46a352509642c6e52.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
