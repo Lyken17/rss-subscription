@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][25][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6f5a284647f1e9d47e0f421cc9e711dccfb9a365</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][25][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][25][WEBrip][1080P][简体内嵌][309.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6f5a284647f1e9d47e0f421cc9e711dccfb9a365</link>
+				<contentLength>324848832</contentLength>
+				<pubDate>2025-12-20T04:43:34.888037</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="324848832" url="https://mikanani.me/Download/20251220/6f5a284647f1e9d47e0f421cc9e711dccfb9a365.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [11][1080p][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/d1819b8eeefdc5b951a50738bcafba6dfc843b60</link>
 			<title>[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [11][1080p][简体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-18T22:01:08.762231</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="222402976" url="https://mikanani.me/Download/20251218/52175c46ba1d0bdabb00177fcc7151977c61234c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b7896c38df279a6321cc92f0522e6418d44da45d</link>
-			<title>[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 12 (ABEMA 1920x1080 AVC AAC MP4)[564.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b7896c38df279a6321cc92f0522e6418d44da45d</link>
-				<contentLength>592025984</contentLength>
-				<pubDate>2025-12-18T21:55:24.923435</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="592025984" url="https://mikanani.me/Download/20251218/b7896c38df279a6321cc92f0522e6418d44da45d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
