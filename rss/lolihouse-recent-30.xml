@@ -2380,5 +2380,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="50079988" url="https://mikanani.me/Download/20251218/96bff917422928fd74e97ed6b294c521a34e2f37.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
+			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][3.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
+				<contentLength>3328599552</contentLength>
+				<pubDate>2025-12-19T09:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20251219/332dedf40fc7e4761325a58e167a2f4b901fb5fc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f97fcdf675df98e0c81fc4b3827433e53bda4a77</link>
+			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][194.92 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f97fcdf675df98e0c81fc4b3827433e53bda4a77</link>
+				<contentLength>204388432</contentLength>
+				<pubDate>2025-12-19T09:21:22.245</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="204388432" url="https://mikanani.me/Download/20251219/f97fcdf675df98e0c81fc4b3827433e53bda4a77.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
