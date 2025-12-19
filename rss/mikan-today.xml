@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/81cdd08f174f7b27127712cf3a4954823be63d38</link>
+			<title>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 赛马娘 芦毛灰姑娘 / Uma Musume: Cinderella Gray - 22 (ABEMA 1920x1080 AVC AAC MP4)[714.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/81cdd08f174f7b27127712cf3a4954823be63d38</link>
+				<contentLength>748892992</contentLength>
+				<pubDate>2025-12-19T16:00:32.876983</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748892992" url="https://mikanani.me/Download/20251219/81cdd08f174f7b27127712cf3a4954823be63d38.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我][11][1080P][简体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/931c350eb529278146345de35737227aa7e1b109</link>
 			<title>【澄空学园&amp;动漫国字幕组】★10月新番[朋友的妹妹只缠着我 / 朋友的妹妹偏爱骚扰我][11][1080P][简体][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-17T23:33:51.910855</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="668257472" url="https://mikanani.me/Download/20251217/da1e73e03d36c0009c9f7c21a138bf7383c7f4c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 萌妻食神（日配版） / Cinderella Chef (Japanese Dub) - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/0fe23d2455fff25bfbdb62a5d36b43b6de8e21ee</link>
-			<title>[黒ネズミたち] 萌妻食神（日配版） / Cinderella Chef (Japanese Dub) - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 萌妻食神（日配版） / Cinderella Chef (Japanese Dub) - 12 (ABEMA 1920x1080 AVC AAC MP4)[561.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0fe23d2455fff25bfbdb62a5d36b43b6de8e21ee</link>
-				<contentLength>588880256</contentLength>
-				<pubDate>2025-12-17T23:30:26.435637</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="588880256" url="https://mikanani.me/Download/20251217/0fe23d2455fff25bfbdb62a5d36b43b6de8e21ee.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
