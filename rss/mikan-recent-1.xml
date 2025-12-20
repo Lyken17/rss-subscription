@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
-			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][3.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
-				<contentLength>3328599552</contentLength>
-				<pubDate>2025-12-19T09:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20251219/332dedf40fc7e4761325a58e167a2f4b901fb5fc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f97fcdf675df98e0c81fc4b3827433e53bda4a77</link>
-			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][194.92 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f97fcdf675df98e0c81fc4b3827433e53bda4a77</link>
-				<contentLength>204388432</contentLength>
-				<pubDate>2025-12-19T09:21:22.245</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="204388432" url="https://mikanani.me/Download/20251219/f97fcdf675df98e0c81fc4b3827433e53bda4a77.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a05b5a3930a3c592e2e969d938156e1787bc102e</link>
 			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -879,6 +855,18 @@
 				<pubDate>2025-12-20T13:20:03.740275</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="382939968" url="https://mikanani.me/Download/20251220/3148fa4ba3ad4308e3f4b68dce6c4832de06468f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/8ef090cb206df60693213bad6775bad94c227922</link>
+			<title>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][796.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ef090cb206df60693213bad6775bad94c227922</link>
+				<contentLength>835610240</contentLength>
+				<pubDate>2025-12-20T18:01:37.713097</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="835610240" url="https://mikanani.me/Download/20251220/8ef090cb206df60693213bad6775bad94c227922.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

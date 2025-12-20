@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/8ef090cb206df60693213bad6775bad94c227922</link>
+			<title>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] YAIBA Samurai Legend /  真･武士传 YAIBA - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][796.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ef090cb206df60693213bad6775bad94c227922</link>
+				<contentLength>835610240</contentLength>
+				<pubDate>2025-12-20T18:01:37.713097</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="835610240" url="https://mikanani.me/Download/20251220/8ef090cb206df60693213bad6775bad94c227922.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 最后可以再拜托您一件事吗？ Saigo ni Hitotsu dake Onegai [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][S1 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/ca7447b58440373ea81346397201d97d4ca6dbd8</link>
 			<title>[Prejudice-Studio] 最后可以再拜托您一件事吗？ Saigo ni Hitotsu dake Onegai [01-13][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][S1 Fin]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-18T22:36:40.204</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="22638756" url="https://mikanani.me/Download/20251218/9776e47fbd19fb2c1d843b32a35b138ac8cefd22.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/3954fded3d28c50be0494b78fcfa73bc5719c84a</link>
-			<title>[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 对我垂涎欲滴的非人少女 / Watashi wo Tabetai, Hitodenashi - 12 (CR 1920x1080 AVC AAC MKV)[988.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3954fded3d28c50be0494b78fcfa73bc5719c84a</link>
-				<contentLength>1036202816</contentLength>
-				<pubDate>2025-12-18T22:32:14.896713</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1036202816" url="https://mikanani.me/Download/20251218/3954fded3d28c50be0494b78fcfa73bc5719c84a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
