@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][12][简体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/57730e13d9ad996d3038cc62455447aed6ab8fca</link>
+			<title>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][12][简体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][12][简体][1080P][MP4][422.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/57730e13d9ad996d3038cc62455447aed6ab8fca</link>
+				<contentLength>443128224</contentLength>
+				<pubDate>2025-12-21T05:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="443128224" url="https://mikanani.me/Download/20251221/57730e13d9ad996d3038cc62455447aed6ab8fca.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][12][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/ff417e83fcc8dce256ca03421f7a01cff625e9dc</link>
+			<title>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][12][繁体][1080P][MP4]</title>
+			<description>【豌豆字幕组】[王者天下 第六季 / Kingdom_S6][12][繁体][1080P][MP4][422.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ff417e83fcc8dce256ca03421f7a01cff625e9dc</link>
+				<contentLength>443442784</contentLength>
+				<pubDate>2025-12-21T05:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="443442784" url="https://mikanani.me/Download/20251221/ff417e83fcc8dce256ca03421f7a01cff625e9dc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">乱马1/2「らんま1/2」Ranma1/2 2024年版 第2期 S02E12 1080p 日英双语-多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/2bfe25939f10958ae394d4fee1e2d016b6116682</link>
 			<title>乱马1/2「らんま1/2」Ranma1/2 2024年版 第2期 S02E12 1080p 日英双语-多国字幕</title>
@@ -1191,30 +1215,6 @@
 				<pubDate>2025-12-20T01:06:22.836366</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="269064608" url="https://mikanani.me/Download/20251220/b5d6e5ae8984abf5e9eb64b86493ad52eac22306.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 32 (B-Global Donghua 1920x820 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/287292f1d4bc8875c278696d048b53e8716b4c88</link>
-			<title>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 32 (B-Global Donghua 1920x820 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 君有云 第二季 / Jun You Yun II - 32 (B-Global Donghua 1920x820 HEVC AAC MKV)[633.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/287292f1d4bc8875c278696d048b53e8716b4c88</link>
-				<contentLength>664272896</contentLength>
-				<pubDate>2025-12-20T01:04:30.625459</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="664272896" url="https://mikanani.me/Download/20251220/287292f1d4bc8875c278696d048b53e8716b4c88.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 玄界之门 / The Gate of Mystical Realm - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/309dd7fd2cce345a485cbf4acdbade92d9d58c21</link>
-			<title>[黒ネズミたち] 玄界之门 / The Gate of Mystical Realm - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 玄界之门 / The Gate of Mystical Realm - 06 (B-Global Donghua 1920x1080 HEVC AAC MKV)[563.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/309dd7fd2cce345a485cbf4acdbade92d9d58c21</link>
-				<contentLength>590767744</contentLength>
-				<pubDate>2025-12-20T01:02:30.830156</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="590767744" url="https://mikanani.me/Download/20251220/309dd7fd2cce345a485cbf4acdbade92d9d58c21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
