@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">乱马1/2「らんま1/2」Ranma1/2 2024年版 第2期 S02E12 1080p 日英双语-多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/2bfe25939f10958ae394d4fee1e2d016b6116682</link>
+			<title>乱马1/2「らんま1/2」Ranma1/2 2024年版 第2期 S02E12 1080p 日英双语-多国字幕</title>
+			<description>乱马1/2「らんま1/2」Ranma1/2 2024年版 第2期 S02E12 1080p 日英双语-多国字幕[873.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2bfe25939f10958ae394d4fee1e2d016b6116682</link>
+				<contentLength>916035968</contentLength>
+				<pubDate>2025-12-21T03:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="916035968" url="https://mikanani.me/Download/20251221/2bfe25939f10958ae394d4fee1e2d016b6116682.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 12 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/32a2fb7c008fff2b01587e637c78c61a4703bae1</link>
 			<title>[黒ネズミたち] 王者天下 第六季 / Kingdom 6th Season - 12 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-20T01:02:30.830156</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="590767744" url="https://mikanani.me/Download/20251220/309dd7fd2cce345a485cbf4acdbade92d9d58c21.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 最后可以再拜托您一件事吗？ / Saihito - 13 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/d979b194ae234aac5dc03f9c88d40727c21c6d7a</link>
-			<title>[黒ネズミたち] 最后可以再拜托您一件事吗？ / Saihito - 13 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 最后可以再拜托您一件事吗？ / Saihito - 13 (B-Global 1920x1080 HEVC AAC MKV)[312.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d979b194ae234aac5dc03f9c88d40727c21c6d7a</link>
-				<contentLength>327680000</contentLength>
-				<pubDate>2025-12-20T01:01:08.706411</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="327680000" url="https://mikanani.me/Download/20251220/d979b194ae234aac5dc03f9c88d40727c21c6d7a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
