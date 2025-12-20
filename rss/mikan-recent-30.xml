@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">异世界四重奏3 - EP01~EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</guid>
-			<link>https://mikanani.me/Home/Episode/2c5dec473a7dba5f4db290f93f0947b05d694715</link>
-			<title>异世界四重奏3 - EP01~EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</title>
-			<description>异世界四重奏3 - EP01~EP06 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}[2.67 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2c5dec473a7dba5f4db290f93f0947b05d694715</link>
-				<contentLength>2866890752</contentLength>
-				<pubDate>2025-11-20T03:55:00.949</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2866890752" url="https://mikanani.me/Download/20251120/2c5dec473a7dba5f4db290f93f0947b05d694715.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][06][1080p][MP4][GB][简中]</guid>
 			<link>https://mikanani.me/Home/Episode/461653ee7d058533e0cb27e80133411ab4a0f3fb</link>
 			<title>[爱恋&amp;猫恋汉化组][10月新番][间谍过家家 第三季][Spy x Family][06][1080p][MP4][GB][简中]</title>
@@ -31383,6 +31371,18 @@
 				<pubDate>2025-12-20T09:45:22.744004</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386190528" url="https://mikanani.me/Download/20251220/f52cac03dbe3a55e2bd90cc07309611ae1de35a5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e84ebdde5800156ab074368c6d557cf137f2d954</link>
+			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)[206.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e84ebdde5800156ab074368c6d557cf137f2d954</link>
+				<contentLength>216426080</contentLength>
+				<pubDate>2025-12-20T12:00:26.391319</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="216426080" url="https://mikanani.me/Download/20251220/e84ebdde5800156ab074368c6d557cf137f2d954.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

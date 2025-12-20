@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/f8dc361f936acdb955b0cdd1e9cec2b5e17df734</link>
-			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语][451.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f8dc361f936acdb955b0cdd1e9cec2b5e17df734</link>
-				<contentLength>473274784</contentLength>
-				<pubDate>2025-12-19T03:51:43.093</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="473274784" url="https://mikanani.me/Download/20251219/f8dc361f936acdb955b0cdd1e9cec2b5e17df734.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/21655e08636b7b32648e2f8a4cf7a7eb6122ea0d</link>
 			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕]</title>
@@ -855,6 +843,18 @@
 				<pubDate>2025-12-20T09:45:22.744004</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386190528" url="https://mikanani.me/Download/20251220/f52cac03dbe3a55e2bd90cc07309611ae1de35a5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e84ebdde5800156ab074368c6d557cf137f2d954</link>
+			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)[206.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e84ebdde5800156ab074368c6d557cf137f2d954</link>
+				<contentLength>216426080</contentLength>
+				<pubDate>2025-12-20T12:00:26.391319</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="216426080" url="https://mikanani.me/Download/20251220/e84ebdde5800156ab074368c6d557cf137f2d954.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

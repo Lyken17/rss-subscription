@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e84ebdde5800156ab074368c6d557cf137f2d954</link>
+			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 22 (B-Global Donghua 4096x1716 HEVC AAC MKV)[206.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e84ebdde5800156ab074368c6d557cf137f2d954</link>
+				<contentLength>216426080</contentLength>
+				<pubDate>2025-12-20T12:00:26.391319</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="216426080" url="https://mikanani.me/Download/20251220/e84ebdde5800156ab074368c6d557cf137f2d954.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TOC] 渡同学的××濒临崩坏 [25][1080P][AVC AAC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/a177d648c9902660dca057fc7068e4f955e99728</link>
 			<title>[TOC] 渡同学的××濒临崩坏 [25][1080P][AVC AAC][CHT][MP4]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-18T22:30:05.7</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="430681632" url="https://mikanani.me/Download/20251218/cd12251f8f6f97725773d777b35c8cfc80c85e95.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 再度飞升][121][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/b3e654b5d6e3b74729055d6cdf815e69ffc7c215</link>
-			<title>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 再度飞升][121][繁体][1080P][MP4]</title>
-			<description>【枫叶字幕组】[宠物小精灵 / 宝可梦 地平线 再度飞升][121][繁体][1080P][MP4][410.59 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3e654b5d6e3b74729055d6cdf815e69ffc7c215</link>
-				<contentLength>430534816</contentLength>
-				<pubDate>2025-12-18T22:29:45.974</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="430534816" url="https://mikanani.me/Download/20251218/b3e654b5d6e3b74729055d6cdf815e69ffc7c215.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
