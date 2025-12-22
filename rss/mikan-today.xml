@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[PorterRAWS]  妖精的尾巴：百年任务  Fairy Tail: 100 Years Quest [USBD1080P][TV01-25Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/61e72750e11c1505c754abef83eb6436e33ef5b0</link>
+			<title>[PorterRAWS]  妖精的尾巴：百年任务  Fairy Tail: 100 Years Quest [USBD1080P][TV01-25Fin]</title>
+			<description>[PorterRAWS]  妖精的尾巴：百年任务  Fairy Tail: 100 Years Quest [USBD1080P][TV01-25Fin][21.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/61e72750e11c1505c754abef83eb6436e33ef5b0</link>
+				<contentLength>22870700032</contentLength>
+				<pubDate>2025-12-22T18:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22870700032" url="https://mikanani.me/Download/20251222/61e72750e11c1505c754abef83eb6436e33ef5b0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 101 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/0c7f91cac0ed3026417a3083b8693a34f71bcf11</link>
 			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 101 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-21T18:56:00.603386</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="608593536" url="https://mikanani.me/Download/20251221/4369da3466bdb35b8adb38e360dfca34b8476401.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/df0b959fa262bb19b76f4ea3ecd45070e95daee4</link>
-			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][745.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df0b959fa262bb19b76f4ea3ecd45070e95daee4</link>
-				<contentLength>781923136</contentLength>
-				<pubDate>2025-12-21T18:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="781923136" url="https://mikanani.me/Download/20251221/df0b959fa262bb19b76f4ea3ecd45070e95daee4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

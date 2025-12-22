@@ -32092,5 +32092,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="676100864" url="https://mikanani.me/Download/20251222/0c7f91cac0ed3026417a3083b8693a34f71bcf11.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[PorterRAWS]  妖精的尾巴：百年任务  Fairy Tail: 100 Years Quest [USBD1080P][TV01-25Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/61e72750e11c1505c754abef83eb6436e33ef5b0</link>
+			<title>[PorterRAWS]  妖精的尾巴：百年任务  Fairy Tail: 100 Years Quest [USBD1080P][TV01-25Fin]</title>
+			<description>[PorterRAWS]  妖精的尾巴：百年任务  Fairy Tail: 100 Years Quest [USBD1080P][TV01-25Fin][21.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/61e72750e11c1505c754abef83eb6436e33ef5b0</link>
+				<contentLength>22870700032</contentLength>
+				<pubDate>2025-12-22T18:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22870700032" url="https://mikanani.me/Download/20251222/61e72750e11c1505c754abef83eb6436e33ef5b0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
