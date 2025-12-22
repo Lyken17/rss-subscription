@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 101 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/0c7f91cac0ed3026417a3083b8693a34f71bcf11</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 101 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 101 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)[644.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c7f91cac0ed3026417a3083b8693a34f71bcf11</link>
+				<contentLength>676100864</contentLength>
+				<pubDate>2025-12-22T17:40:21.018</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="676100864" url="https://mikanani.me/Download/20251222/0c7f91cac0ed3026417a3083b8693a34f71bcf11.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 06 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/fc8fc59b0d89c2b84def67f425263dc829a2a8a9</link>
 			<title>[jibaketa合成&amp;音频压制][RTHK粤语]有药 / 有药 / You Yao - 06 [粤国双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRTx2+PGS RTHK CHT)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-21T18:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="781923136" url="https://mikanani.me/Download/20251221/df0b959fa262bb19b76f4ea3ecd45070e95daee4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 24 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/cd6b62d215313a4c6d4e1df197299b78c1e18a50</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 24 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 24 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END][496.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cd6b62d215313a4c6d4e1df197299b78c1e18a50</link>
-				<contentLength>520408256</contentLength>
-				<pubDate>2025-12-21T18:37:30.156</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="520408256" url="https://mikanani.me/Download/20251221/cd6b62d215313a4c6d4e1df197299b78c1e18a50.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
