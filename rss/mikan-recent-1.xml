@@ -1780,5 +1780,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="480772096" url="https://mikanani.me/Download/20251222/429af02bd60e6d87a7f6b95a34b3eb3ccde571a1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ebb75ae3b99ed5e43afe94a93e6787075cafa2dd</link>
+			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ebb75ae3b99ed5e43afe94a93e6787075cafa2dd</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-12-22T13:17:39.6761</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251222/ebb75ae3b99ed5e43afe94a93e6787075cafa2dd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

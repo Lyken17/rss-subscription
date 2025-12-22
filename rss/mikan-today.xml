@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ebb75ae3b99ed5e43afe94a93e6787075cafa2dd</link>
+			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 34 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.1 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ebb75ae3b99ed5e43afe94a93e6787075cafa2dd</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2025-12-22T13:17:39.6761</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251222/ebb75ae3b99ed5e43afe94a93e6787075cafa2dd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/96dec31dec031212586269f2accadb998a7942f2</link>
 			<title>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-21T16:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20251221/cf7efd749c3bb0b7866760a1da59d8d17a4bbbb5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E38][繁]【下周停播】(检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
-			<link>https://mikanani.me/Home/Episode/0b9761943b6de92c5bf2d70f62e20d1bebff9332</link>
-			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E38][繁]【下周停播】(检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
-			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E38][繁]【下周停播】(检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[879.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0b9761943b6de92c5bf2d70f62e20d1bebff9332</link>
-				<contentLength>922012864</contentLength>
-				<pubDate>2025-12-21T16:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="922012864" url="https://mikanani.me/Download/20251221/0b9761943b6de92c5bf2d70f62e20d1bebff9332.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
