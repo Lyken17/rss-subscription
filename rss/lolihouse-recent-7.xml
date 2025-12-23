@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4a24752055ac94ba73e2a022913acea169c1b4b1</link>
-			<title>[LoliHouse] 明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 明明只是暗杀者，我的面板数值却比勇者还要强 / Sutetsuyo - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][701.71 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a24752055ac94ba73e2a022913acea169c1b4b1</link>
-				<contentLength>735796288</contentLength>
-				<pubDate>2025-12-16T10:57:32.775</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="735796288" url="https://mikanani.me/Download/20251216/4a24752055ac94ba73e2a022913acea169c1b4b1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/29747bf6b754e2ab36ac424e171fd6b469f15319</link>
 			<title>[LoliHouse] 异世界四重奏3 / Isekai Quartet 3 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -519,6 +507,30 @@
 				<pubDate>2025-12-22T23:25:48.651</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="288851232" url="https://mikanani.me/Download/20251222/abb9cf1b668aafdd0988cbc48f37753aef813029.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/f49f39b2d0feee35c2181538f12b366531bf2d70</link>
+			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][768.49 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f49f39b2d0feee35c2181538f12b366531bf2d70</link>
+				<contentLength>805820160</contentLength>
+				<pubDate>2025-12-23T19:11:20.739</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="805820160" url="https://mikanani.me/Download/20251223/f49f39b2d0feee35c2181538f12b366531bf2d70.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/403ec9d870022cf70f202264dae47a56dd80cf1b</link>
+			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][284.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/403ec9d870022cf70f202264dae47a56dd80cf1b</link>
+				<contentLength>297879456</contentLength>
+				<pubDate>2025-12-23T19:04:39.84</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="297879456" url="https://mikanani.me/Download/20251223/403ec9d870022cf70f202264dae47a56dd80cf1b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
