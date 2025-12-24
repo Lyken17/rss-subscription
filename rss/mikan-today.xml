@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ZR0零始字幕组][假面骑士梦骑/KAMEN RIDER ZEZTZ][CASE12-CASE14][中日双语][特效字幕][WEBRip/TVHD][1080P][X264]</guid>
+			<link>https://mikanani.me/Home/Episode/bfcad5a3f871bc86ac05ac21b83d3a932ca9bf8f</link>
+			<title>[ZR0零始字幕组][假面骑士梦骑/KAMEN RIDER ZEZTZ][CASE12-CASE14][中日双语][特效字幕][WEBRip/TVHD][1080P][X264]</title>
+			<description>[ZR0零始字幕组][假面骑士梦骑/KAMEN RIDER ZEZTZ][CASE12-CASE14][中日双语][特效字幕][WEBRip/TVHD][1080P][X264][3.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bfcad5a3f871bc86ac05ac21b83d3a932ca9bf8f</link>
+				<contentLength>3221225472</contentLength>
+				<pubDate>2025-12-24T18:20:38.154092</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20251224/bfcad5a3f871bc86ac05ac21b83d3a932ca9bf8f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [06][WebRip][1080p][繁简日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/f8cb00f6a3caf7db83827f152cda672ca34e8687</link>
 			<title>[绿茶字幕组] 3年Z班银八老师 / Gintama-3 nen Z gumi Ginpachi sensei [06][WebRip][1080p][繁简日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-22T23:01:10.282094</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="388392544" url="https://mikanani.me/Download/20251222/d1fa6ad22a8849b9985885b47f9ce2f424232beb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Plussized Misadventures in Love /  胖子与爱情以及过错！ - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/a9999c77115646c59eac6045fdc08fad12d24824</link>
-			<title>[ANi] Plussized Misadventures in Love /  胖子与爱情以及过错！ - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Plussized Misadventures in Love /  胖子与爱情以及过错！ - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][370.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a9999c77115646c59eac6045fdc08fad12d24824</link>
-				<contentLength>388707136</contentLength>
-				<pubDate>2025-12-22T23:01:10.246248</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="388707136" url="https://mikanani.me/Download/20251222/a9999c77115646c59eac6045fdc08fad12d24824.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
