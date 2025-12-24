@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Kekkan] 転生悪女の黒歴史 / Tensei Akujo no Kuro Rekishi (WebRip 1080p AV1 简繁官字 Aliciä)</guid>
+			<link>https://mikanani.me/Home/Episode/71ae3ae92fd551bd0f729225a42519258a76412c</link>
+			<title>[Kekkan] 転生悪女の黒歴史 / Tensei Akujo no Kuro Rekishi (WebRip 1080p AV1 简繁官字 Aliciä)</title>
+			<description>[Kekkan] 転生悪女の黒歴史 / Tensei Akujo no Kuro Rekishi (WebRip 1080p AV1 简繁官字 Aliciä)[5.14 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/71ae3ae92fd551bd0f729225a42519258a76412c</link>
+				<contentLength>5519032832</contentLength>
+				<pubDate>2025-12-25T02:30:45.18</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5519032832" url="https://mikanani.me/Download/20251225/71ae3ae92fd551bd0f729225a42519258a76412c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 12 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0061cce3ece04410e9f8c0d5aa17fa1384f30137</link>
 			<title>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 12 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-23T09:42:08.265</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="519516992" url="https://mikanani.me/Download/20251223/cfa9367fcc0d56b07aef95aa3698d9c233e7e59e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【35】【GB_MP4】【1920X1080】</guid>
-			<link>https://mikanani.me/Home/Episode/74b58db40ca30f85fc5c60ab7bda595233493a56</link>
-			<title>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【35】【GB_MP4】【1920X1080】</title>
-			<description>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【35】【GB_MP4】【1920X1080】[495.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74b58db40ca30f85fc5c60ab7bda595233493a56</link>
-				<contentLength>519569408</contentLength>
-				<pubDate>2025-12-23T09:37:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="519569408" url="https://mikanani.me/Download/20251223/74b58db40ca30f85fc5c60ab7bda595233493a56.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

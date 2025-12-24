@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 赛马娘 芦毛灰姑娘 Uma Musume Cinderella Gray - 17 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/613b2eded5dffcfa54e743a8fe7658f55c7838c6</link>
-			<title>[Prejudice-Studio] 赛马娘 芦毛灰姑娘 Uma Musume Cinderella Gray - 17 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
-			<description>[Prejudice-Studio] 赛马娘 芦毛灰姑娘 Uma Musume Cinderella Gray - 17 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][567.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/613b2eded5dffcfa54e743a8fe7658f55c7838c6</link>
-				<contentLength>594962048</contentLength>
-				<pubDate>2025-11-24T19:03:00.743056</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="594962048" url="https://mikanani.me/Download/20251124/613b2eded5dffcfa54e743a8fe7658f55c7838c6.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 机械女仆·玛丽 / 人形机器人玛丽 / Kikaijikake no Marie  - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/345ef4810e88d5d3d85a58bd7594ec597b212e48</link>
 			<title>[LoliHouse] 机械女仆·玛丽 / 人形机器人玛丽 / Kikaijikake no Marie  - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -31143,6 +31131,18 @@
 				<pubDate>2025-12-25T00:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="841691968" url="https://mikanani.me/Download/20251225/b399c9a00c4d2e216925f2ab573c3c780b2f6180.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Kekkan] 転生悪女の黒歴史 / Tensei Akujo no Kuro Rekishi (WebRip 1080p AV1 简繁官字 Aliciä)</guid>
+			<link>https://mikanani.me/Home/Episode/71ae3ae92fd551bd0f729225a42519258a76412c</link>
+			<title>[Kekkan] 転生悪女の黒歴史 / Tensei Akujo no Kuro Rekishi (WebRip 1080p AV1 简繁官字 Aliciä)</title>
+			<description>[Kekkan] 転生悪女の黒歴史 / Tensei Akujo no Kuro Rekishi (WebRip 1080p AV1 简繁官字 Aliciä)[5.14 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/71ae3ae92fd551bd0f729225a42519258a76412c</link>
+				<contentLength>5519032832</contentLength>
+				<pubDate>2025-12-25T02:30:45.18</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5519032832" url="https://mikanani.me/Download/20251225/71ae3ae92fd551bd0f729225a42519258a76412c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
