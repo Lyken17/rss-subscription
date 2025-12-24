@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 事与愿违的不死冒险者 / 非自愿的不死冒险者 / Nozomanu Fushi no Boukensha / 望まぬ不死の冒険者 10-bit 1080p AVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/ad6ab789a414b7d1e96dfbcc2d5013997b3c10e8</link>
+			<title>[VCB-Studio] 事与愿违的不死冒险者 / 非自愿的不死冒险者 / Nozomanu Fushi no Boukensha / 望まぬ不死の冒険者 10-bit 1080p AVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 事与愿违的不死冒险者 / 非自愿的不死冒险者 / Nozomanu Fushi no Boukensha / 望まぬ不死の冒険者 10-bit 1080p AVC BDRip [Fin][18.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ad6ab789a414b7d1e96dfbcc2d5013997b3c10e8</link>
+				<contentLength>19756849152</contentLength>
+				<pubDate>2025-12-24T12:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19756849152" url="https://mikanani.me/Download/20251224/ad6ab789a414b7d1e96dfbcc2d5013997b3c10e8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][S2 Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/038db3ffb79907d191ef826630aa8a7e0a19acd9</link>
 			<title>[Prejudice-Studio] 超常技能开启奇幻世界美食之旅 第二季 [01-12][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][S2 Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-22T21:15:34.548</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="583333312" url="https://mikanani.me/Download/20251222/ec896eb1dde0e90e6a588c3a3640e4e59d57f2a5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/813e07f3cd9483b27c759186bd608f5d35362a0d</link>
-			<title>[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 12 (CR 1920x1080 AVC AAC MKV)[954.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/813e07f3cd9483b27c759186bd608f5d35362a0d</link>
-				<contentLength>1001075520</contentLength>
-				<pubDate>2025-12-22T21:02:33.06444</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1001075520" url="https://mikanani.me/Download/20251222/813e07f3cd9483b27c759186bd608f5d35362a0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
