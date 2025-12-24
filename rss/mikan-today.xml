@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 11(35) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/33290e8d72aef965a8e06c2d5f4c8208e3cbebce</link>
+			<title>[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 11(35) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 11(35) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][832.35 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/33290e8d72aef965a8e06c2d5f4c8208e3cbebce</link>
+				<contentLength>872782208</contentLength>
+				<pubDate>2025-12-24T19:31:57.842</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="872782208" url="https://mikanani.me/Download/20251224/33290e8d72aef965a8e06c2d5f4c8208e3cbebce.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 11 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4fda28493d3ebcf5b1da9e2a527345b18fbf317a</link>
 			<title>[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 11 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-23T00:00:46.925</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="373922208" url="https://mikanani.me/Download/20251223/35482d3de5e5981ebebc9f936732102ac9aea0e2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 银魂 3 年 Z 班银八老师 / 3-nen Z-gumi Ginpachi-sensei - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ffa4ab36bf2d747c6f035cc551bd483e2f231f38</link>
-			<title>[黒ネズミたち] 银魂 3 年 Z 班银八老师 / 3-nen Z-gumi Ginpachi-sensei - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 银魂 3 年 Z 班银八老师 / 3-nen Z-gumi Ginpachi-sensei - 12 (ABEMA 1920x1080 AVC AAC MP4)[727.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ffa4ab36bf2d747c6f035cc551bd483e2f231f38</link>
-				<contentLength>763258496</contentLength>
-				<pubDate>2025-12-23T00:00:33.98384</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="763258496" url="https://mikanani.me/Download/20251223/ffa4ab36bf2d747c6f035cc551bd483e2f231f38.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
