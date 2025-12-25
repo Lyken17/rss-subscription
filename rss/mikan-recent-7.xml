@@ -6136,5 +6136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="248722224" url="https://mikanani.me/Download/20251225/5ccb166ec60a84c948df04968896899d29d45730.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a</link>
+			<title>[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin]</title>
+			<description>[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin][64.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a</link>
+				<contentLength>69685846016</contentLength>
+				<pubDate>2025-12-25T11:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="69685846016" url="https://mikanani.me/Download/20251225/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
