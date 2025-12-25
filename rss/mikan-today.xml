@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4f065a3c105e3beda1309daf2da46ee3820261a4</link>
+			<title>[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)[564.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f065a3c105e3beda1309daf2da46ee3820261a4</link>
+				<contentLength>591921152</contentLength>
+				<pubDate>2025-12-25T21:55:32.287163</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="591921152" url="https://mikanani.me/Download/20251225/4f065a3c105e3beda1309daf2da46ee3820261a4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 不动声色的柏田与喜形于色的太田 / Kashiwada Ohta - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/ec3457924a0d3a1fd58e04d85bb9c309803baddf</link>
 			<title>[黒ネズミたち] 不动声色的柏田与喜形于色的太田 / Kashiwada Ohta - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-23T22:16:35.715853</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="327155712" url="https://mikanani.me/Download/20251223/59c455f66407a32807c033e37134187a184e20c5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 12 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4ae688678c620f535b702c833ea5daefc3d194e8</link>
-			<title>[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 12 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] SI-VIS：英雄之声 / SI-VIS: The Sound of Heroes - 12 (ABEMA 1280x720 AVC AAC MP4)[367.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4ae688678c620f535b702c833ea5daefc3d194e8</link>
-				<contentLength>385666240</contentLength>
-				<pubDate>2025-12-23T22:00:22.743708</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385666240" url="https://mikanani.me/Download/20251223/4ae688678c620f535b702c833ea5daefc3d194e8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

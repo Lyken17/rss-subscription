@@ -808,5 +808,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20251225/94ac2b069dc1754fd1b31d24b0dc6da73c60ad80.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4f065a3c105e3beda1309daf2da46ee3820261a4</link>
+			<title>[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 亏成首富从游戏开始（日配版） / Losing Money to Be a Tycoon (Japanese Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)[564.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f065a3c105e3beda1309daf2da46ee3820261a4</link>
+				<contentLength>591921152</contentLength>
+				<pubDate>2025-12-25T21:55:32.287163</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="591921152" url="https://mikanani.me/Download/20251225/4f065a3c105e3beda1309daf2da46ee3820261a4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
