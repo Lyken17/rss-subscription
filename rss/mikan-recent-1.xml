@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251224/91ac94c0283b12bab11f5b2a376b229eeaaf1d96.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/58bc783e3548125a0cd4af1a062fafcf4b60eb3f</link>
-			<title>[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 12 (ABEMA 1920x1080 AVC AAC MP4)[752.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58bc783e3548125a0cd4af1a062fafcf4b60eb3f</link>
-				<contentLength>788529152</contentLength>
-				<pubDate>2025-12-24T21:00:44.591636</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="788529152" url="https://mikanani.me/Download/20251224/58bc783e3548125a0cd4af1a062fafcf4b60eb3f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/287c73de3ea4f86e9db204fe254aea47ee33f90d</link>
 			<title>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1131,6 +1119,18 @@
 				<pubDate>2025-12-26T02:43:19.981</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="390940576" url="https://mikanani.me/Download/20251226/75b66d75f00e026220b0a545d80500626a8ba2b8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 09 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c991939420c3e6d916a28001044ede7792807865</link>
+			<title>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 09 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 09 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕][374.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c991939420c3e6d916a28001044ede7792807865</link>
+				<contentLength>392901440</contentLength>
+				<pubDate>2025-12-26T04:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="392901440" url="https://mikanani.me/Download/20251226/c991939420c3e6d916a28001044ede7792807865.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
