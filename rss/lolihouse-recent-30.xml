@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai - 08 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c96c795a4a51abc0286aa78e543bb14b0e755eb8</link>
-			<title>[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai - 08 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai - 08 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][142.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c96c795a4a51abc0286aa78e543bb14b0e755eb8</link>
-				<contentLength>149747136</contentLength>
-				<pubDate>2025-11-25T23:38:16.562</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="149747136" url="https://mikanani.me/Download/20251125/c96c795a4a51abc0286aa78e543bb14b0e755eb8.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5b4f88bf522a260c285319560ede3e1ad7bcd0a4</link>
 			<title>[LoliHouse] 矢野同学的普通日常 / 矢野くんの普通の日々 / Yano-kun's Ordinary Days / Yano-kun no Futsuu no Hibi - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2487,6 +2475,18 @@
 				<pubDate>2025-12-26T01:52:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20251226/8c0389a0506c4900f786fa7df9629fdd419eb185.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray  [01-23 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7ba3262bb677d32addc4db13bbb8bcebbb5f8d9a</link>
+			<title>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray  [01-23 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 赛马娘 芦毛灰姑娘 / Uma Musume Cinderella Gray  [01-23 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][14.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7ba3262bb677d32addc4db13bbb8bcebbb5f8d9a</link>
+				<contentLength>15998752768</contentLength>
+				<pubDate>2025-12-26T09:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="15998752768" url="https://mikanani.me/Download/20251226/7ba3262bb677d32addc4db13bbb8bcebbb5f8d9a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
