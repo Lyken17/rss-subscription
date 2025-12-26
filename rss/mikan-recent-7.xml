@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/21655e08636b7b32648e2f8a4cf7a7eb6122ea0d</link>
-			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕][240.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21655e08636b7b32648e2f8a4cf7a7eb6122ea0d</link>
-				<contentLength>252392240</contentLength>
-				<pubDate>2025-12-19T06:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="252392240" url="https://mikanani.me/Download/20251219/21655e08636b7b32648e2f8a4cf7a7eb6122ea0d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
 			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -6423,6 +6411,30 @@
 				<pubDate>2025-12-26T12:00:33.692475</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="290560416" url="https://mikanani.me/Download/20251226/90326e18aafcbda6d46aaf54054de88fa01be559.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">大唐乘风录[第16集][4K].Wind.Driver.in.Tang.Dynasty</guid>
+			<link>https://mikanani.me/Home/Episode/f0210f61e1eeb587323a1fe3193aa5de74879965</link>
+			<title>大唐乘风录[第16集][4K].Wind.Driver.in.Tang.Dynasty</title>
+			<description>大唐乘风录[第16集][4K].Wind.Driver.in.Tang.Dynasty[829.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f0210f61e1eeb587323a1fe3193aa5de74879965</link>
+				<contentLength>870003520</contentLength>
+				<pubDate>2025-12-26T13:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="870003520" url="https://mikanani.me/Download/20251226/f0210f61e1eeb587323a1fe3193aa5de74879965.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">神在囧途[第29集][4K].Eat.Around.the.Mortal.World</guid>
+			<link>https://mikanani.me/Home/Episode/11ae978706173a554f74a9595cc8d28b0d7acd63</link>
+			<title>神在囧途[第29集][4K].Eat.Around.the.Mortal.World</title>
+			<description>神在囧途[第29集][4K].Eat.Around.the.Mortal.World[484.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/11ae978706173a554f74a9595cc8d28b0d7acd63</link>
+				<contentLength>507720512</contentLength>
+				<pubDate>2025-12-26T13:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="507720512" url="https://mikanani.me/Download/20251226/11ae978706173a554f74a9595cc8d28b0d7acd63.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
