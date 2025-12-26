@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd</link>
+			<title>[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
+			<description>[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][275.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd</link>
+				<contentLength>288358400</contentLength>
+				<pubDate>2025-12-26T18:00:42.234458</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="288358400" url="https://mikanani.me/Download/20251226/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
 			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-25T01:01:13.319103</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="594332864" url="https://mikanani.me/Download/20251225/f54ddc3969d988c5f4b4d2e340f3795dceadbbd8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 12 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/eb41121e0a1fbf7535d4de3de0e3b329f1c93669</link>
-			<title>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 12 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 12 (ABEMA 1280x720 AVC AAC MP4)[368.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/eb41121e0a1fbf7535d4de3de0e3b329f1c93669</link>
-				<contentLength>386085696</contentLength>
-				<pubDate>2025-12-25T01:00:22.643711</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="386085696" url="https://mikanani.me/Download/20251225/eb41121e0a1fbf7535d4de3de0e3b329f1c93669.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

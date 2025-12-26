@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
-			<title>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 笨拙至极的前辈。/ 不中用的前辈。 / Bukiyou na Senpai. [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][3.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/332dedf40fc7e4761325a58e167a2f4b901fb5fc</link>
-				<contentLength>3328599552</contentLength>
-				<pubDate>2025-12-19T09:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20251219/332dedf40fc7e4761325a58e167a2f4b901fb5fc.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/a05b5a3930a3c592e2e969d938156e1787bc102e</link>
 			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 10 (CR 1920x1080 AVC AAC MKV)</title>
@@ -6483,6 +6471,18 @@
 				<pubDate>2025-12-26T17:00:32.863164</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="757281600" url="https://mikanani.me/Download/20251226/4f001ca10558476fd1a06ab1af9e8f30bac45baa.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd</link>
+			<title>[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
+			<description>[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][275.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd</link>
+				<contentLength>288358400</contentLength>
+				<pubDate>2025-12-26T18:00:42.234458</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="288358400" url="https://mikanani.me/Download/20251226/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
