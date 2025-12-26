@@ -1108,5 +1108,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="741133504" url="https://mikanani.me/Download/20251226/8e5e70ff622e69de198e99115d39830060aaef70.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
+			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)[722.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
+				<contentLength>757281600</contentLength>
+				<pubDate>2025-12-26T17:00:32.863164</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757281600" url="https://mikanani.me/Download/20251226/4f001ca10558476fd1a06ab1af9e8f30bac45baa.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

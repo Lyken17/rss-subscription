@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
+			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)[722.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
+				<contentLength>757281600</contentLength>
+				<pubDate>2025-12-26T17:00:32.863164</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757281600" url="https://mikanani.me/Download/20251226/4f001ca10558476fd1a06ab1af9e8f30bac45baa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [12][1080p][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/fca6528949a4672d2c8fafe3bdfb5de9b33485e5</link>
 			<title>[桜都字幕组] 3年Z组银八先生 / Gintama： 3-nen Z-gumi Ginpachi-sensei [12][1080p][简体内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2025-12-25T01:00:22.643711</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386085696" url="https://mikanani.me/Download/20251225/eb41121e0a1fbf7535d4de3de0e3b329f1c93669.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 15 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/aed7a2e0364320afa517bd098a6467c02faf770b</link>
-			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 15 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 15 (ABEMA 1920x1080 AVC AAC MP4)[579.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aed7a2e0364320afa517bd098a6467c02faf770b</link>
-				<contentLength>607544960</contentLength>
-				<pubDate>2025-12-25T00:30:29.852089</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="607544960" url="https://mikanani.me/Download/20251225/aed7a2e0364320afa517bd098a6467c02faf770b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
