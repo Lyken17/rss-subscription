@@ -1024,5 +1024,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745852096" url="https://mikanani.me/Download/20251226/42d0b6aba3301aeb82f99db9aaa45e8b7f37e2a7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8702469d44a8d61cb891daeefb03173bea5566fd</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (CR 1920x1080 AVC AAC MKV)[599.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8702469d44a8d61cb891daeefb03173bea5566fd</link>
+				<contentLength>628831040</contentLength>
+				<pubDate>2025-12-26T12:34:11.323901</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="628831040" url="https://mikanani.me/Download/20251226/8702469d44a8d61cb891daeefb03173bea5566fd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/90326e18aafcbda6d46aaf54054de88fa01be559</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[277.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/90326e18aafcbda6d46aaf54054de88fa01be559</link>
+				<contentLength>290560416</contentLength>
+				<pubDate>2025-12-26T12:00:33.692475</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="290560416" url="https://mikanani.me/Download/20251226/90326e18aafcbda6d46aaf54054de88fa01be559.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

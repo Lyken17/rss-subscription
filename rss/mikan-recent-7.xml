@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/f8dc361f936acdb955b0cdd1e9cec2b5e17df734</link>
-			<title>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★10月新番★[想吃掉我的非人少女 / 对我垂涎欲滴的非人少女 / 私を喰べたい、ひとでなし / Watashi wo Tabetai, Hitodenashi][12][1080p][简日双语][451.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f8dc361f936acdb955b0cdd1e9cec2b5e17df734</link>
-				<contentLength>473274784</contentLength>
-				<pubDate>2025-12-19T03:51:43.093</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="473274784" url="https://mikanani.me/Download/20251219/f8dc361f936acdb955b0cdd1e9cec2b5e17df734.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/21655e08636b7b32648e2f8a4cf7a7eb6122ea0d</link>
 			<title>[沸班亚马制作组] 明明只是暗杀者，我的面板数值却比勇者还要强 - 11 [CR WebRip 1080p AV1 OPUS][简繁内封字幕]</title>
@@ -6423,6 +6411,30 @@
 				<pubDate>2025-12-26T10:01:22.557208</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745852096" url="https://mikanani.me/Download/20251226/42d0b6aba3301aeb82f99db9aaa45e8b7f37e2a7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8702469d44a8d61cb891daeefb03173bea5566fd</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (CR 1920x1080 AVC AAC MKV)[599.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8702469d44a8d61cb891daeefb03173bea5566fd</link>
+				<contentLength>628831040</contentLength>
+				<pubDate>2025-12-26T12:34:11.323901</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="628831040" url="https://mikanani.me/Download/20251226/8702469d44a8d61cb891daeefb03173bea5566fd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/90326e18aafcbda6d46aaf54054de88fa01be559</link>
+			<title>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 曾经有勇士 / So You're Raising a Warrior - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[277.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/90326e18aafcbda6d46aaf54054de88fa01be559</link>
+				<contentLength>290560416</contentLength>
+				<pubDate>2025-12-26T12:00:33.692475</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="290560416" url="https://mikanani.me/Download/20251226/90326e18aafcbda6d46aaf54054de88fa01be559.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
