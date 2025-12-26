@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][26][WEBrip][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/98176832f5e75caa1b9d9973187b551ac024a70d</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][26][WEBrip][1080P][简体内嵌]</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][26][WEBrip][1080P][简体内嵌][377.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/98176832f5e75caa1b9d9973187b551ac024a70d</link>
+				<contentLength>395522880</contentLength>
+				<pubDate>2025-12-27T04:13:27.217217</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="395522880" url="https://mikanani.me/Download/20251227/98176832f5e75caa1b9d9973187b551ac024a70d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 62 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1290de06b656571942cbc4840c330061d073821d</link>
 			<title>[黒ネズミたち] Nui Story 2 - 62 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-26T00:06:49.092732</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="92484400" url="https://mikanani.me/Download/20251226/69354c4952b24cc064c95ee4f6da7ad71018c3b1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[轻之国度字幕组][不擅吸血的吸血鬼][11][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/60bb114d00c86b3a4fcd7f987620af69476ff675</link>
-			<title>[轻之国度字幕组][不擅吸血的吸血鬼][11][1080P][MP4]</title>
-			<description>[轻之国度字幕组][不擅吸血的吸血鬼][11][1080P][MP4][328.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/60bb114d00c86b3a4fcd7f987620af69476ff675</link>
-				<contentLength>344142656</contentLength>
-				<pubDate>2025-12-25T23:33:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="344142656" url="https://mikanani.me/Download/20251225/60bb114d00c86b3a4fcd7f987620af69476ff675.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
