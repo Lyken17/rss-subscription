@@ -580,5 +580,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="15998752768" url="https://mikanani.me/Download/20251226/7ba3262bb677d32addc4db13bbb8bcebbb5f8d9a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/4743ea7deeb20a114c1c8e6ab98af8d21a6847ee</link>
+			<title>[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 桃源暗鬼 / TOUGEN ANKI - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][408.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4743ea7deeb20a114c1c8e6ab98af8d21a6847ee</link>
+				<contentLength>428553024</contentLength>
+				<pubDate>2025-12-27T16:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="428553024" url="https://mikanani.me/Download/20251227/4743ea7deeb20a114c1c8e6ab98af8d21a6847ee.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
