@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][25][WEBrip][1080P][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/6f5a284647f1e9d47e0f421cc9e711dccfb9a365</link>
-			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][25][WEBrip][1080P][简体内嵌]</title>
-			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][25][WEBrip][1080P][简体内嵌][309.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6f5a284647f1e9d47e0f421cc9e711dccfb9a365</link>
-				<contentLength>324848832</contentLength>
-				<pubDate>2025-12-20T04:43:34.888037</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="324848832" url="https://mikanani.me/Download/20251220/6f5a284647f1e9d47e0f421cc9e711dccfb9a365.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Ultraman Omega /  超人力霸王奥米加 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/1d836f15afabcf0b921c31d547dcb73c396d7213</link>
 			<title>[ANi] Ultraman Omega /  超人力霸王奥米加 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -6543,6 +6531,18 @@
 				<pubDate>2025-12-27T11:49:04.249</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="62883104" url="https://mikanani.me/Download/20251227/ef34edfa1a86d187f45fcc3cb1b6d23c0f6ec15f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][WEBrip][1080P][简体内嵌]（全集修正）</guid>
+			<link>https://mikanani.me/Home/Episode/0f9417856a750e9e1eab738eed70cd72d940f004</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][WEBrip][1080P][简体内嵌]（全集修正）</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][WEBrip][1080P][简体内嵌]（全集修正）[8.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0f9417856a750e9e1eab738eed70cd72d940f004</link>
+				<contentLength>9019430912</contentLength>
+				<pubDate>2025-12-27T12:53:31.345715</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20251227/0f9417856a750e9e1eab738eed70cd72d940f004.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

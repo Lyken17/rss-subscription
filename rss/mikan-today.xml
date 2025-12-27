@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][WEBrip][1080P][简体内嵌]（全集修正）</guid>
+			<link>https://mikanani.me/Home/Episode/0f9417856a750e9e1eab738eed70cd72d940f004</link>
+			<title>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][WEBrip][1080P][简体内嵌]（全集修正）</title>
+			<description>【今晚月色真美】[渡君的××即将崩坏 / 渡くんの××が崩壊寸前 / Watari-kun no xx ga Houkai Sunzen][WEBrip][1080P][简体内嵌]（全集修正）[8.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0f9417856a750e9e1eab738eed70cd72d940f004</link>
+				<contentLength>9019430912</contentLength>
+				<pubDate>2025-12-27T12:53:31.345715</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9019430912" url="https://mikanani.me/Download/20251227/0f9417856a750e9e1eab738eed70cd72d940f004.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 25 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/2523dc450e4e0da669ec988c07de5c5648412b8f</link>
 			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 25 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-26T01:54:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2362232064" url="https://mikanani.me/Download/20251226/d18b443d9923addf32780cee7a0e54720a175e44.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/63abdb15f34c453b7c8e7c8abd0097baf364709c</link>
-			<title>[LoliHouse] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 小手指同学，请别乱摸 / Sawaranaide Kotesashi-kun [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][2.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/63abdb15f34c453b7c8e7c8abd0097baf364709c</link>
-				<contentLength>2147483648</contentLength>
-				<pubDate>2025-12-26T01:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20251226/63abdb15f34c453b7c8e7c8abd0097baf364709c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
