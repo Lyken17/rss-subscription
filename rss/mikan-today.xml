@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[盲僧压制][憨八龟的故事][01][奔向蓝海星][DVDrip][Ai1080P][国语][内封简中]</guid>
+			<link>https://mikanani.me/Home/Episode/8083152dc8395c80382af41af82fddbe08ab50c9</link>
+			<title>[盲僧压制][憨八龟的故事][01][奔向蓝海星][DVDrip][Ai1080P][国语][内封简中]</title>
+			<description>[盲僧压制][憨八龟的故事][01][奔向蓝海星][DVDrip][Ai1080P][国语][内封简中][2.75 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8083152dc8395c80382af41af82fddbe08ab50c9</link>
+				<contentLength>2952790016</contentLength>
+				<pubDate>2025-12-28T20:31:17.682</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2952790016" url="https://mikanani.me/Download/20251228/8083152dc8395c80382af41af82fddbe08ab50c9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][云深不知梦][Eclipse of Illusion][2025][01-26 Fin][4K HEVC 10Bit][Multi-Subs]</guid>
 			<link>https://mikanani.me/Home/Episode/189ef080825066d1fa9414cd4283948f265ce15d</link>
 			<title>[GM-Team][云深不知梦][Eclipse of Illusion][2025][01-26 Fin][4K HEVC 10Bit][Multi-Subs]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-27T17:32:24.306064</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="711249088" url="https://mikanani.me/Download/20251227/692e0f8017143d8e0046bc07421419a81e9d1a02.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/96156c6335981e4b02bb6ff557133dd23615f0c3</link>
-			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 01 (Baha 1920x1080 AVC AAC MP4)[360.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96156c6335981e4b02bb6ff557133dd23615f0c3</link>
-				<contentLength>378011648</contentLength>
-				<pubDate>2025-12-27T17:31:31.390318</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="378011648" url="https://mikanani.me/Download/20251227/96156c6335981e4b02bb6ff557133dd23615f0c3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
