@@ -2416,5 +2416,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="542292032" url="https://mikanani.me/Download/20251228/b98408039cd95a9f02f307af40867d8700b756f0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 13 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/a37200839d9af60219f5d7b8511613e430154335</link>
+			<title>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 13 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][END]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 13 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][END][510.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a37200839d9af60219f5d7b8511613e430154335</link>
+				<contentLength>535696512</contentLength>
+				<pubDate>2025-12-28T22:27:43.005</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="535696512" url="https://mikanani.me/Download/20251228/a37200839d9af60219f5d7b8511613e430154335.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
