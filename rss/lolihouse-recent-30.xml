@@ -2488,5 +2488,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6012954112" url="https://mikanani.me/Download/20251229/286a2570303e1af17d050bcd9c15f986cbe3310d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 26 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/89ecefc1289960c45ccc921d6a95a79815e15fd3</link>
+			<title>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 26 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 渡君的XX即将崩坏 / Watari-kun no xx ga Houkai Sunzen - 26 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][347.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/89ecefc1289960c45ccc921d6a95a79815e15fd3</link>
+				<contentLength>364380160</contentLength>
+				<pubDate>2025-12-29T18:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364380160" url="https://mikanani.me/Download/20251229/89ecefc1289960c45ccc921d6a95a79815e15fd3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
