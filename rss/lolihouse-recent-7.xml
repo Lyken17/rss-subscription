@@ -508,5 +508,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="397305440" url="https://mikanani.me/Download/20251229/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/79d875a8356f45158453a10fe5376b7b4b485cc2</link>
+			<title>[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 婚戒物语II / Kekkon Yubiwa Monogatari II [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][8.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79d875a8356f45158453a10fe5376b7b4b485cc2</link>
+				<contentLength>8912057344</contentLength>
+				<pubDate>2025-12-29T13:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8912057344" url="https://mikanani.me/Download/20251229/79d875a8356f45158453a10fe5376b7b4b485cc2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
