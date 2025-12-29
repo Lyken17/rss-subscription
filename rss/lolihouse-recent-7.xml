@@ -496,5 +496,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="535696512" url="https://mikanani.me/Download/20251228/a37200839d9af60219f5d7b8511613e430154335.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018</link>
+			<title>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][378.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018</link>
+				<contentLength>397305440</contentLength>
+				<pubDate>2025-12-29T09:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397305440" url="https://mikanani.me/Download/20251229/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
