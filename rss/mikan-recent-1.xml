@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 113 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1a9ca6001cd79dbfcffc26f55ee9c43cdc1928f3</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 113 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 113 (B-Global Donghua 1920x1080 HEVC AAC MKV)[358.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1a9ca6001cd79dbfcffc26f55ee9c43cdc1928f3</link>
-				<contentLength>376124224</contentLength>
-				<pubDate>2025-12-29T09:00:43.47815</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="376124224" url="https://mikanani.me/Download/20251229/1a9ca6001cd79dbfcffc26f55ee9c43cdc1928f3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[VCB-Studio] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan / アラフォー男の异世界通贩 10-bit 1080p HEVC BDRip [Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/7b004fe4844628ddea82d9f238aba631d2e4d940</link>
 			<title>[VCB-Studio] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan / アラフォー男の异世界通贩 10-bit 1080p HEVC BDRip [Fin]</title>
@@ -1263,6 +1251,18 @@
 				<pubDate>2025-12-30T13:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3865470464" url="https://mikanani.me/Download/20251230/583b4083c03f6560b7053b6705aacb70c90e33d4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] NUKITASHI住在拔作岛上的我该如何是好/Nukitashi the Animation | 01-11+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/07aeec5b310ef7577cb7c0a420e9a0c695f58a92</link>
+			<title>[7³ACG] NUKITASHI住在拔作岛上的我该如何是好/Nukitashi the Animation | 01-11+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] NUKITASHI住在拔作岛上的我该如何是好/Nukitashi the Animation | 01-11+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/07aeec5b310ef7577cb7c0a420e9a0c695f58a92</link>
+				<contentLength>4831838208</contentLength>
+				<pubDate>2025-12-30T17:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20251230/07aeec5b310ef7577cb7c0a420e9a0c695f58a92.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

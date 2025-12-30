@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] NUKITASHI住在拔作岛上的我该如何是好/Nukitashi the Animation | 01-11+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/07aeec5b310ef7577cb7c0a420e9a0c695f58a92</link>
+			<title>[7³ACG] NUKITASHI住在拔作岛上的我该如何是好/Nukitashi the Animation | 01-11+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] NUKITASHI住在拔作岛上的我该如何是好/Nukitashi the Animation | 01-11+OVA [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/07aeec5b310ef7577cb7c0a420e9a0c695f58a92</link>
+				<contentLength>4831838208</contentLength>
+				<pubDate>2025-12-30T17:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20251230/07aeec5b310ef7577cb7c0a420e9a0c695f58a92.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[星空字幕组&amp;VCB-Studio] SSSS.电光机王 / SSSS.DYNAZENON 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/a53a916122a2b8d24740a55a5ad30af8c985600e</link>
 			<title>[星空字幕组&amp;VCB-Studio] SSSS.电光机王 / SSSS.DYNAZENON 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-29T11:53:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2469606144" url="https://mikanani.me/Download/20251229/a523ca89573fa0e1dab395ccf26b0fe73dc71c76.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[VCB-Studio] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan / アラフォー男の异世界通贩 10-bit 1080p HEVC BDRip [Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/7b004fe4844628ddea82d9f238aba631d2e4d940</link>
-			<title>[VCB-Studio] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan / アラフォー男の异世界通贩 10-bit 1080p HEVC BDRip [Fin]</title>
-			<description>[VCB-Studio] 中年男的异世界网购生活 / Around 40 Otoko no Isekai Tsuuhan / アラフォー男の异世界通贩 10-bit 1080p HEVC BDRip [Fin][17.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7b004fe4844628ddea82d9f238aba631d2e4d940</link>
-				<contentLength>18575732736</contentLength>
-				<pubDate>2025-12-29T11:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18575732736" url="https://mikanani.me/Download/20251229/7b004fe4844628ddea82d9f238aba631d2e4d940.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
