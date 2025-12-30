@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/fe326194c7354ba55bb59263d838fa1b4b06399b</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)[689.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fe326194c7354ba55bb59263d838fa1b4b06399b</link>
+				<contentLength>723202880</contentLength>
+				<pubDate>2025-12-30T11:01:05.817748</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="723202880" url="https://mikanani.me/Download/20251230/fe326194c7354ba55bb59263d838fa1b4b06399b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【36】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/58c74fb9a7d91061044593e29f27234d7442d566</link>
 			<title>【幻樱字幕组】【10月新番】【一拳超人 ONE PUNCH MAN】【36】【BIG5_MP4】【1920X1080】</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-29T10:01:19.81236</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1017957568" url="https://mikanani.me/Download/20251229/8c1dbe1a8dbfbbae49e4d9634d61ab6efb2228a0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018</link>
-			<title>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][378.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018</link>
-				<contentLength>397305440</contentLength>
-				<pubDate>2025-12-29T09:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="397305440" url="https://mikanani.me/Download/20251229/29f5f33a6e4bb7c1024ea1c8542356b0bcfcd018.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

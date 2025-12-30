@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 12 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/67e37ec891d474384a646cf2e31ef5ec718a58b7</link>
-			<title>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 12 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 一拳超人 第3季 / One Punch Man Season 3 - 12 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][545MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/67e37ec891d474384a646cf2e31ef5ec718a58b7</link>
-				<contentLength>571473920</contentLength>
-				<pubDate>2025-12-29T01:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="571473920" url="https://mikanani.me/Download/20251229/67e37ec891d474384a646cf2e31ef5ec718a58b7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 113 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/1a9ca6001cd79dbfcffc26f55ee9c43cdc1928f3</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 113 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1227,6 +1215,18 @@
 				<pubDate>2025-12-30T07:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="32427003904" url="https://mikanani.me/Download/20251230/3dd635590ef937323b7cea0649c1a706a5566bbd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/fe326194c7354ba55bb59263d838fa1b4b06399b</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)[689.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fe326194c7354ba55bb59263d838fa1b4b06399b</link>
+				<contentLength>723202880</contentLength>
+				<pubDate>2025-12-30T11:01:05.817748</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="723202880" url="https://mikanani.me/Download/20251230/fe326194c7354ba55bb59263d838fa1b4b06399b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
