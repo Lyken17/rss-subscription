@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 森林家族 芙蕾雅的奇妙时光 / Sylvanian Families: Freya no Wonder Days - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9dd58346aeec42c9297f282ce80d7901f919cf5f</link>
+			<title>[黒ネズミたち] 森林家族 芙蕾雅的奇妙时光 / Sylvanian Families: Freya no Wonder Days - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 森林家族 芙蕾雅的奇妙时光 / Sylvanian Families: Freya no Wonder Days - 12 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9dd58346aeec42c9297f282ce80d7901f919cf5f</link>
+				<contentLength>346868928</contentLength>
+				<pubDate>2025-12-31T01:30:22.568599</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20251231/9dd58346aeec42c9297f282ce80d7901f919cf5f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽大冒险02 THE BEGINNING [BDrip][AVC+HEVC][1080p][Main10][简繁日字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/46b1f7f28b5d88546b239cec949a1019b68d542c</link>
 			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽大冒险02 THE BEGINNING [BDrip][AVC+HEVC][1080p][Main10][简繁日字幕]</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-29T21:29:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1003067776" url="https://mikanani.me/Download/20251229/9b76c7240f7fdc4378f7824a410721b0325b840d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][21-23][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/df868544ec6d7b537dd5f8659bda2227f408affe</link>
-			<title>[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][21-23][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][21-23][AVC][GB][1080P][2.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df868544ec6d7b537dd5f8659bda2227f408affe</link>
-				<contentLength>2684354560</contentLength>
-				<pubDate>2025-12-29T21:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20251229/df868544ec6d7b537dd5f8659bda2227f408affe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
