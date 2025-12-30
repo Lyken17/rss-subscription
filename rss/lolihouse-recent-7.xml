@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/abb9cf1b668aafdd0988cbc48f37753aef813029</link>
-			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][275.47 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/abb9cf1b668aafdd0988cbc48f37753aef813029</link>
-				<contentLength>288851232</contentLength>
-				<pubDate>2025-12-22T23:25:48.651</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="288851232" url="https://mikanani.me/Download/20251222/abb9cf1b668aafdd0988cbc48f37753aef813029.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/f49f39b2d0feee35c2181538f12b366531bf2d70</link>
 			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -495,6 +483,30 @@
 				<pubDate>2025-12-29T21:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="442813632" url="https://mikanani.me/Download/20251229/e184f3775b391b28d9c299789c7bac062fbf7009.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. [01-13][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/8d5686798f789141ad8eab2e74256cf8bbf2ae9e</link>
+			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. [01-13][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. [01-13][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][3.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d5686798f789141ad8eab2e74256cf8bbf2ae9e</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2025-12-30T08:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20251230/8d5686798f789141ad8eab2e74256cf8bbf2ae9e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/9f0efd35100f9ec5309c0e2886fa12da6c5a8408</link>
+			<title>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 这里是充满笑容的职场。 / Egao no Taenai Shokuba desu. - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][237.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f0efd35100f9ec5309c0e2886fa12da6c5a8408</link>
+				<contentLength>248722224</contentLength>
+				<pubDate>2025-12-30T08:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="248722224" url="https://mikanani.me/Download/20251230/9f0efd35100f9ec5309c0e2886fa12da6c5a8408.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
