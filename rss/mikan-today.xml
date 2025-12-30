@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 MOVIE 27 百万美元的五棱星][BDRIP][1080P][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/7208a7a49f813debff7da573a4914d8d06dc34f1</link>
+			<title>[APTX4869][CONAN][名侦探柯南 MOVIE 27 百万美元的五棱星][BDRIP][1080P][MKV]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 MOVIE 27 百万美元的五棱星][BDRIP][1080P][MKV][3.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7208a7a49f813debff7da573a4914d8d06dc34f1</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2025-12-30T13:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20251230/7208a7a49f813debff7da573a4914d8d06dc34f1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/fe326194c7354ba55bb59263d838fa1b4b06399b</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 63 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-29T10:06:21.891908</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20251229/1fc33f3c819c46f9368917ca3e5da27266d7e8bd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8c1dbe1a8dbfbbae49e4d9634d61ab6efb2228a0</link>
-			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 36 (B-Global Donghua 1920x1080 HEVC AAC MKV)[970.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8c1dbe1a8dbfbbae49e4d9634d61ab6efb2228a0</link>
-				<contentLength>1017957568</contentLength>
-				<pubDate>2025-12-29T10:01:19.81236</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1017957568" url="https://mikanani.me/Download/20251229/8c1dbe1a8dbfbbae49e4d9634d61ab6efb2228a0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
