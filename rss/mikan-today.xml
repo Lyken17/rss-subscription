@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 14 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/809125aad4008e7fcb002711bfe4cf2c8f5d422c</link>
+			<title>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 14 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 仙王的日常生活（日配版） / The Daily Life of the Immortal King (JP Dub) - 14 (ABEMA 1920x1080 AVC AAC MP4)[514.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/809125aad4008e7fcb002711bfe4cf2c8f5d422c</link>
+				<contentLength>538968064</contentLength>
+				<pubDate>2025-12-31T21:55:36.272337</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="538968064" url="https://mikanani.me/Download/20251231/809125aad4008e7fcb002711bfe4cf2c8f5d422c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 萌妻食神之再结良缘（日配版） / Cinderella Chef 2nd Season (Japanese Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/5805ea423adcf3d8e15effe9401a37944402db90</link>
 			<title>[黒ネズミたち] 萌妻食神之再结良缘（日配版） / Cinderella Chef 2nd Season (Japanese Dub) - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-30T00:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="486014976" url="https://mikanani.me/Download/20251230/56b06863c9477654c4441da38fd92eea05d0f488.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">足球小将.Holly e Benji Forever (2004) [COMPLETA][SD H264 Ita AAC] [5.70 Gb]</guid>
-			<link>https://mikanani.me/Home/Episode/bb5ff6424b75ef75bbaf456e4e9f09f2d2775d34</link>
-			<title>足球小将.Holly e Benji Forever (2004) [COMPLETA][SD H264 Ita AAC] [5.70 Gb]</title>
-			<description>足球小将.Holly e Benji Forever (2004) [COMPLETA][SD H264 Ita AAC] [5.70 Gb][5.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bb5ff6424b75ef75bbaf456e4e9f09f2d2775d34</link>
-				<contentLength>6120328192</contentLength>
-				<pubDate>2025-12-29T23:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6120328192" url="https://mikanani.me/Download/20251229/bb5ff6424b75ef75bbaf456e4e9f09f2d2775d34.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
