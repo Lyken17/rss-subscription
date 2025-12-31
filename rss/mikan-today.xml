@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d65fe5abc36cbee79c4416ca321db4f3e62d3cf3</link>
+			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 16 (ABEMA 1920x1080 AVC AAC MP4)[683.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d65fe5abc36cbee79c4416ca321db4f3e62d3cf3</link>
+				<contentLength>716701696</contentLength>
+				<pubDate>2026-01-01T00:30:46.468445</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="716701696" url="https://mikanani.me/Download/20260101/d65fe5abc36cbee79c4416ca321db4f3e62d3cf3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Tamons BSide /  现在的是哪一个多闻！？ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/fc5267947cf043a364073614c3ba8f01a5122746</link>
 			<title>[ANi] Tamons BSide /  现在的是哪一个多闻！？ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-30T02:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="31997505536" url="https://mikanani.me/Download/20251230/11f688d353378713637e2b07bfcfba9511e6e9b9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">足球小将.Captain Tsubasa S1&amp;S2&amp;S3.ISO</guid>
-			<link>https://mikanani.me/Home/Episode/73f6241b3329386b08a0d26723a65b35fcd0df99</link>
-			<title>足球小将.Captain Tsubasa S1&amp;S2&amp;S3.ISO</title>
-			<description>足球小将.Captain Tsubasa S1&amp;S2&amp;S3.ISO[246.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/73f6241b3329386b08a0d26723a65b35fcd0df99</link>
-				<contentLength>264999485440</contentLength>
-				<pubDate>2025-12-30T02:42:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="264999485440" url="https://mikanani.me/Download/20251230/73f6241b3329386b08a0d26723a65b35fcd0df99.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[Team_Ohzora]足球小将.法语+日语.Captain_Tsubasa.全128集._DVDrip[X264.Aac(Jpn-Fre).Sub(Fre-Mis).Chap]</guid>

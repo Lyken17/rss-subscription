@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/c1dafcd3b321ef865535c4bbff0400e464d1dce2</link>
-			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][4K HEVC 10Bit][41.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c1dafcd3b321ef865535c4bbff0400e464d1dce2</link>
-				<contentLength>44452913152</contentLength>
-				<pubDate>2025-12-01T16:33:29.592</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="44452913152" url="https://mikanani.me/Download/20251201/c1dafcd3b321ef865535c4bbff0400e464d1dce2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][1080P HEVC]</guid>
-			<link>https://mikanani.me/Home/Episode/a6de1d20b8734397e069bcd1b1caf83ed91e8cb1</link>
-			<title>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][1080P HEVC]</title>
-			<description>[GM-Team][国漫][克金玩家][Wealth and Wonder][2025][01-26 Fin][GB][1080P HEVC][19.13 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a6de1d20b8734397e069bcd1b1caf83ed91e8cb1</link>
-				<contentLength>20540680192</contentLength>
-				<pubDate>2025-12-01T16:33:19.74</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="20540680192" url="https://mikanani.me/Download/20251201/a6de1d20b8734397e069bcd1b1caf83ed91e8cb1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[萌樱字幕组][简日双语][间谍过家家][第三季][8][Webrip][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/ed477cbeea4c18a98e5e9a2c04f3234bdfeb64bf</link>
 			<title>[萌樱字幕组][简日双语][间谍过家家][第三季][8][Webrip][1080p][简繁日内封]</title>
@@ -29487,6 +29463,18 @@
 				<pubDate>2025-12-31T23:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20251231/6cf66567a31594d04dcdf8c4a52cf0cde9a5a9f3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/d65fe5abc36cbee79c4416ca321db4f3e62d3cf3</link>
+			<title>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 魔法公主的小烦恼 / Aruhime - 16 (ABEMA 1920x1080 AVC AAC MP4)[683.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d65fe5abc36cbee79c4416ca321db4f3e62d3cf3</link>
+				<contentLength>716701696</contentLength>
+				<pubDate>2026-01-01T00:30:46.468445</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="716701696" url="https://mikanani.me/Download/20260101/d65fe5abc36cbee79c4416ca321db4f3e62d3cf3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
