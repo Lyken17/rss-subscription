@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 08(32) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/172d4bdc1da847d865190067f535bc7986295202</link>
-			<title>[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 08(32) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 一拳超人3 / One-Punch Man S3 / ワンパンマン 3 - 08(32) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][863.19 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/172d4bdc1da847d865190067f535bc7986295202</link>
-				<contentLength>905120320</contentLength>
-				<pubDate>2025-12-01T15:39:32.961</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="905120320" url="https://mikanani.me/Download/20251201/172d4bdc1da847d865190067f535bc7986295202.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4d30d2be9b8b19c1807c5691aca41fc3f61b8448</link>
 			<title>[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2331,6 +2319,18 @@
 				<pubDate>2025-12-30T08:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="248722224" url="https://mikanani.me/Download/20251230/9f0efd35100f9ec5309c0e2886fa12da6c5a8408.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai [01-12 合集][WebRip 1080p HEVC-10bit AAC][简日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/4c0bbca74cec7556c1159d21243fc37917b9f1bb</link>
+			<title>[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai [01-12 合集][WebRip 1080p HEVC-10bit AAC][简日内封字幕][Fin]</title>
+			<description>[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai [01-12 合集][WebRip 1080p HEVC-10bit AAC][简日内封字幕][Fin][1.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4c0bbca74cec7556c1159d21243fc37917b9f1bb</link>
+				<contentLength>1717986944</contentLength>
+				<pubDate>2025-12-31T23:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20251231/4c0bbca74cec7556c1159d21243fc37917b9f1bb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
