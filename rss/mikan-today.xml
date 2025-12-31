@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 现在多闻君是哪一面！？ - 01 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0e104aadaf9b6f9663a4ec5a9cd31c5c625b55ea</link>
+			<title>[沸班亚马制作组] 现在多闻君是哪一面！？ - 01 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 现在多闻君是哪一面！？ - 01 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕][699.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0e104aadaf9b6f9663a4ec5a9cd31c5c625b55ea</link>
+				<contentLength>733583744</contentLength>
+				<pubDate>2026-01-01T05:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="733583744" url="https://mikanani.me/Download/20260101/0e104aadaf9b6f9663a4ec5a9cd31c5c625b55ea.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) / Watanare - 17 (B-Global 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f48784bed196cb790a838a5e4f51a99a41bec04f</link>
 			<title>[黒ネズミたち] 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) / Watanare - 17 (B-Global 1920x1080 HEVC AAC MKV)</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2025-12-30T03:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="56586194944" url="https://mikanani.me/Download/20251230/0e3efddeace09ef6bf29eeb2b43c9437aa94c6b5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">足球小将 Captain Tsubasa (Olive Et Tom) 2018 Integral (52EP) NC MULTI 1080p HDLight BluRay AC3 x265-Thebatou8652</guid>
-			<link>https://mikanani.me/Home/Episode/8f1e5a2f2b2104c03d56d13d4b0d424f35941d90</link>
-			<title>足球小将 Captain Tsubasa (Olive Et Tom) 2018 Integral (52EP) NC MULTI 1080p HDLight BluRay AC3 x265-Thebatou8652</title>
-			<description>足球小将 Captain Tsubasa (Olive Et Tom) 2018 Integral (52EP) NC MULTI 1080p HDLight BluRay AC3 x265-Thebatou8652[14.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f1e5a2f2b2104c03d56d13d4b0d424f35941d90</link>
-				<contentLength>15676631040</contentLength>
-				<pubDate>2025-12-30T03:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="15676631040" url="https://mikanani.me/Download/20251230/8f1e5a2f2b2104c03d56d13d4b0d424f35941d90.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

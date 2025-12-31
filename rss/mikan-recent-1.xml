@@ -868,5 +868,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="410098080" url="https://mikanani.me/Download/20260101/06dcd8cdb1a4cc2570253cde6da43c7098c2e4d3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 现在多闻君是哪一面！？ - 01 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0e104aadaf9b6f9663a4ec5a9cd31c5c625b55ea</link>
+			<title>[沸班亚马制作组] 现在多闻君是哪一面！？ - 01 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 现在多闻君是哪一面！？ - 01 [BILIBILI WebRip 2160p AV1 OPUS][简繁内封字幕][699.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0e104aadaf9b6f9663a4ec5a9cd31c5c625b55ea</link>
+				<contentLength>733583744</contentLength>
+				<pubDate>2026-01-01T05:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="733583744" url="https://mikanani.me/Download/20260101/0e104aadaf9b6f9663a4ec5a9cd31c5c625b55ea.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
