@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a</link>
-			<title>[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin]</title>
-			<description>[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin][64.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a</link>
-				<contentLength>69685846016</contentLength>
-				<pubDate>2025-12-25T11:49:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="69685846016" url="https://mikanani.me/Download/20251225/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[7³ACG] 小市民系列/小市民シリーズ/Shoushimin Series S01 | 01-22 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/b7841bf880311897cc4605f54ed1163006f08186</link>
 			<title>[7³ACG] 小市民系列/小市民シリーズ/Shoushimin Series S01 | 01-22 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -6375,6 +6363,18 @@
 				<pubDate>2026-01-01T18:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="569691328" url="https://mikanani.me/Download/20260101/670095fc081dbd38d80b227f1f68f560fc2efd3e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 10 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/c37cc6f5c84ecd82d1308b929a1527f97c0ab91f</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 10 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 10 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE][760.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c37cc6f5c84ecd82d1308b929a1527f97c0ab91f</link>
+				<contentLength>797442048</contentLength>
+				<pubDate>2026-01-01T20:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="797442048" url="https://mikanani.me/Download/20260101/c37cc6f5c84ecd82d1308b929a1527f97c0ab91f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

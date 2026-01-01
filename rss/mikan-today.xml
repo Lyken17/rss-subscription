@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 10 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/c37cc6f5c84ecd82d1308b929a1527f97c0ab91f</link>
+			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 10 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
+			<description>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 10 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE][760.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c37cc6f5c84ecd82d1308b929a1527f97c0ab91f</link>
+				<contentLength>797442048</contentLength>
+				<pubDate>2026-01-01T20:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="797442048" url="https://mikanani.me/Download/20260101/c37cc6f5c84ecd82d1308b929a1527f97c0ab91f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 我怎么可能成为你的恋人 不行不行？不行不行（⁕不是不可能？） Watanare - OVA01 [WebRip 1080P AVC 8bit AAC MP4][繁体内嵌][V2]</guid>
 			<link>https://mikanani.me/Home/Episode/b8d6135801fedaac76fbfa1abf921d181b7ec812</link>
 			<title>[Prejudice-Studio] 我怎么可能成为你的恋人 不行不行？不行不行（⁕不是不可能？） Watanare - OVA01 [WebRip 1080P AVC 8bit AAC MP4][繁体内嵌][V2]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2025-12-30T23:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="36721971200" url="https://mikanani.me/Download/20251230/a9908bd50e96fa6bb9d0e2e67cd7a85ea7a6da45.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">​​[整理搬运] 蓝宝石之谜／海底两万里／冒险少女娜汀亚 (ふしぎの海のナディア) (Nadia The Secret of Blue Water)：TV动画+剧场版+漫画+音乐+其他；日语音轨; 外挂繁中字幕 (整理时间：2023.10.30)</guid>
-			<link>https://mikanani.me/Home/Episode/c2e8b8f71687b2f1c7734dd13b97994dc41794a1</link>
-			<title>​​[整理搬运] 蓝宝石之谜／海底两万里／冒险少女娜汀亚 (ふしぎの海のナディア) (Nadia The Secret of Blue Water)：TV动画+剧场版+漫画+音乐+其他；日语音轨; 外挂繁中字幕 (整理时间：2023.10.30)</title>
-			<description>​​[整理搬运] 蓝宝石之谜／海底两万里／冒险少女娜汀亚 (ふしぎの海のナディア) (Nadia The Secret of Blue Water)：TV动画+剧场版+漫画+音乐+其他；日语音轨; 外挂繁中字幕 (整理时间：2023.10.30)[16.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c2e8b8f71687b2f1c7734dd13b97994dc41794a1</link>
-				<contentLength>17716740096</contentLength>
-				<pubDate>2025-12-30T23:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="17716740096" url="https://mikanani.me/Download/20251230/c2e8b8f71687b2f1c7734dd13b97994dc41794a1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
