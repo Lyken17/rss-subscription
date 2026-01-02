@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1539c50c5942cd031a428ec0db6c624f188d0917</link>
+			<title>[黒ネズミたち] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 不擅吸血的吸血鬼 / Chanto Suenai Kyuuketsuki-chan - 12 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1539c50c5942cd031a428ec0db6c624f188d0917</link>
+				<contentLength>746795840</contentLength>
+				<pubDate>2026-01-03T01:30:29.356868</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20260103/1539c50c5942cd031a428ec0db6c624f188d0917.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/3ff8b1f36b0d2886d718d6dac7db79809924c69a</link>
 			<title>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-01T17:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="127882649600" url="https://mikanani.me/Download/20260101/0dc991b46d1e69a6a3c750a6a77c86052450249d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 我怎么可能成为你的恋人 不行不行？不行不行（⁕不是不可能？） Watanare - OVA01 [WebRip 1080P HEVC 10bit EAC3&amp;AAC MKV][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/f522c70de7d8d11794db96210737b8f0fc76919f</link>
-			<title>[Prejudice-Studio] 我怎么可能成为你的恋人 不行不行？不行不行（⁕不是不可能？） Watanare - OVA01 [WebRip 1080P HEVC 10bit EAC3&amp;AAC MKV][简繁内封]</title>
-			<description>[Prejudice-Studio] 我怎么可能成为你的恋人 不行不行？不行不行（⁕不是不可能？） Watanare - OVA01 [WebRip 1080P HEVC 10bit EAC3&amp;AAC MKV][简繁内封][610.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f522c70de7d8d11794db96210737b8f0fc76919f</link>
-				<contentLength>639945920</contentLength>
-				<pubDate>2026-01-01T16:47:11.385593</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="639945920" url="https://mikanani.me/Download/20260101/f522c70de7d8d11794db96210737b8f0fc76919f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
