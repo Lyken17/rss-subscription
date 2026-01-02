@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
-			<title>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 一拳超人 第三季 / One Punch Man 3 - 35 (ABEMA 1920x1080 AVC AAC MP4)[722.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f001ca10558476fd1a06ab1af9e8f30bac45baa</link>
-				<contentLength>757281600</contentLength>
-				<pubDate>2025-12-26T17:00:32.863164</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="757281600" url="https://mikanani.me/Download/20251226/4f001ca10558476fd1a06ab1af9e8f30bac45baa.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/9ae96ed45cad8c4733ff2ed71cf69ab4f0b411fd</link>
 			<title>[Prejudice-Studio] 离开A级队伍的我，和从前的弟子往迷宫深处迈进 A-Rank Party wo Ridatsu shita Ore wa - 09 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
@@ -6363,6 +6351,18 @@
 				<pubDate>2026-01-02T23:30:28.684303</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746061824" url="https://mikanani.me/Download/20260102/91d23e02007fd9244108e5169c0ba5b380f8f2ef.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/3ff8b1f36b0d2886d718d6dac7db79809924c69a</link>
+			<title>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 跨越种族与你相恋 / Kimi to Koete Koi ni Naru - 12 (ABEMA 1920x1080 AVC AAC MP4)[709.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3ff8b1f36b0d2886d718d6dac7db79809924c69a</link>
+				<contentLength>743964672</contentLength>
+				<pubDate>2026-01-03T01:00:31.776215</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="743964672" url="https://mikanani.me/Download/20260103/3ff8b1f36b0d2886d718d6dac7db79809924c69a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
