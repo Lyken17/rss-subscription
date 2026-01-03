@@ -5908,5 +5908,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="883005824" url="https://mikanani.me/Download/20260103/43cf62fb409743c84de0025c02ac01bfc8af49c6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 判处勇者刑 / Yuusha-kei ni Shosu - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0ac495a1fe44411f89a725eb6598e2859a6fb6d1</link>
+			<title>[黒ネズミたち] 判处勇者刑 / Yuusha-kei ni Shosu - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 判处勇者刑 / Yuusha-kei ni Shosu - 01 (CR 1920x1080 AVC AAC MKV)[2.7 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ac495a1fe44411f89a725eb6598e2859a6fb6d1</link>
+				<contentLength>2899102976</contentLength>
+				<pubDate>2026-01-03T21:33:31.728978</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2899102976" url="https://mikanani.me/Download/20260103/0ac495a1fe44411f89a725eb6598e2859a6fb6d1.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
