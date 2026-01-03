@@ -5836,5 +5836,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="697198208" url="https://mikanani.me/Download/20260103/4974ddd1d27bedc7f0c572ced4b5cf5f0b4df8a2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封]</guid>
+			<link>https://mikanani.me/Home/Episode/753c69de6df4b79514129b84123a219a569f3a99</link>
+			<title>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封]</title>
+			<description>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WEB-DL Remux][1080P_AVC_AAC][简繁日双语内封][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/753c69de6df4b79514129b84123a219a569f3a99</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-01-03T12:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260103/753c69de6df4b79514129b84123a219a569f3a99.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WebRip][1080P_AVC_AAC][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6330792c46852165254ce5f61187a046d07282e2</link>
+			<title>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WebRip][1080P_AVC_AAC][繁日内嵌]</title>
+			<description>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WebRip][1080P_AVC_AAC][繁日内嵌][247.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6330792c46852165254ce5f61187a046d07282e2</link>
+				<contentLength>259522560</contentLength>
+				<pubDate>2026-01-03T12:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="259522560" url="https://mikanani.me/Download/20260103/6330792c46852165254ce5f61187a046d07282e2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WebRip][1080P_AVC_AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/548db18a18c425eb4156a85937ac34efed236549</link>
+			<title>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WebRip][1080P_AVC_AAC][简日内嵌]</title>
+			<description>[晚街与灯][这里是充满笑容的职场。_Egao no Taenai Shokuba Desu][13_这里是充满笑容的职场。][WebRip][1080P_AVC_AAC][简日内嵌][247.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/548db18a18c425eb4156a85937ac34efed236549</link>
+				<contentLength>259312848</contentLength>
+				<pubDate>2026-01-03T12:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="259312848" url="https://mikanani.me/Download/20260103/548db18a18c425eb4156a85937ac34efed236549.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
