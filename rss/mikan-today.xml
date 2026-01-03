@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[云光字幕组] 罪恶王冠 Guilty Crown [合集][简体双语][超分][H265][4K]招募翻译</guid>
+			<link>https://mikanani.me/Home/Episode/5e1b987494de807586736e155e026d4678e16727</link>
+			<title>[云光字幕组] 罪恶王冠 Guilty Crown [合集][简体双语][超分][H265][4K]招募翻译</title>
+			<description>[云光字幕组] 罪恶王冠 Guilty Crown [合集][简体双语][超分][H265][4K]招募翻译[22.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5e1b987494de807586736e155e026d4678e16727</link>
+				<contentLength>23837069312</contentLength>
+				<pubDate>2026-01-03T09:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="23837069312" url="https://mikanani.me/Download/20260103/5e1b987494de807586736e155e026d4678e16727.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 114 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8722e4e64f72bd46a0a4694521aa46aaab0d26d7</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 114 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 114 (B-Global Donghua 1920x1080 HEVC AAC MKV)[317.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8722e4e64f72bd46a0a4694521aa46aaab0d26d7</link>
+				<contentLength>332398592</contentLength>
+				<pubDate>2026-01-03T09:00:39.45189</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="332398592" url="https://mikanani.me/Download/20260103/8722e4e64f72bd46a0a4694521aa46aaab0d26d7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 一人之下4 出发！碧游村 / The Outcast 4 - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b44374cfb85b61ceef473b0f0b0c268968eb9325</link>
 			<title>[黒ネズミたち] 一人之下4 出发！碧游村 / The Outcast 4 - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2026-01-01T18:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="402548320" url="https://mikanani.me/Download/20260101/0cab6f758d7e6865e4030b4f63f2c5c6df51e376.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [13][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/841aa695f63b5dbdca7a5b80416303247fb0f5c8</link>
-			<title>[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [13][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [13][1080p][简体内嵌][384MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/841aa695f63b5dbdca7a5b80416303247fb0f5c8</link>
-				<contentLength>402653184</contentLength>
-				<pubDate>2026-01-01T18:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="402653184" url="https://mikanani.me/Download/20260101/841aa695f63b5dbdca7a5b80416303247fb0f5c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [13][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/670095fc081dbd38d80b227f1f68f560fc2efd3e</link>
-			<title>[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [13][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 间谍过家家 第三季 / Spy x Family (2025) [13][1080p][简繁内封][543.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/670095fc081dbd38d80b227f1f68f560fc2efd3e</link>
-				<contentLength>569691328</contentLength>
-				<pubDate>2026-01-01T18:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="569691328" url="https://mikanani.me/Download/20260101/670095fc081dbd38d80b227f1f68f560fc2efd3e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
