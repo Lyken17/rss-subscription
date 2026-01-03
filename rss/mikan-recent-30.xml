@@ -28624,5 +28624,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="311531936" url="https://mikanani.me/Download/20260103/eb2f0062b2f71d79838ae8573b2b1151f19fe916.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 02 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/05a113c48adf6a79883ce508ca896a0960ef369c</link>
+			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 02 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 02 (Baha 1920x1080 AVC AAC MP4)[296.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05a113c48adf6a79883ce508ca896a0960ef369c</link>
+				<contentLength>311217344</contentLength>
+				<pubDate>2026-01-03T19:33:12.412843</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="311217344" url="https://mikanani.me/Download/20260103/05a113c48adf6a79883ce508ca896a0960ef369c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
