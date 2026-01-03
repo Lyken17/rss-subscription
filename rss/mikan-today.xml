@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 39 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/0cd6389bba1b4a9b98fb700b59927b22ad488071</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 39 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 39 (ABEMA 1920x1080 AVC AAC MP4)[330.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0cd6389bba1b4a9b98fb700b59927b22ad488071</link>
+				<contentLength>346868928</contentLength>
+				<pubDate>2026-01-04T07:12:22.628048</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346868928" url="https://mikanani.me/Download/20260104/0cd6389bba1b4a9b98fb700b59927b22ad488071.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第1187集 第零集 工藤新一水族馆事件][WEBRIP][简繁日多语MKV][PGS][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/f6280a3f66408322e59fd0af1eccbfd6b14b4957</link>
 			<title>[银色子弹字幕组][名侦探柯南][第1187集 第零集 工藤新一水族馆事件][WEBRIP][简繁日多语MKV][PGS][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-02T12:47:03.118026</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="655779456" url="https://mikanani.me/Download/20260102/d64b7e29f116cf1f1e44316bf2f85ee2b1e73b7a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 我的妹妹哪有这么可爱 (俺の妹がこんなに可爱いわけがない) (Oreimo)：TV动画 (2010年版、2013年版)+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2021.06.16)</guid>
-			<link>https://mikanani.me/Home/Episode/9d575ebab9f406fb47edc05e636a3c361e950f02</link>
-			<title>[整理搬运] 我的妹妹哪有这么可爱 (俺の妹がこんなに可爱いわけがない) (Oreimo)：TV动画 (2010年版、2013年版)+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2021.06.16)</title>
-			<description>[整理搬运] 我的妹妹哪有这么可爱 (俺の妹がこんなに可爱いわけがない) (Oreimo)：TV动画 (2010年版、2013年版)+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2021.06.16)[40.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9d575ebab9f406fb47edc05e636a3c361e950f02</link>
-				<contentLength>43486543872</contentLength>
-				<pubDate>2026-01-02T12:31:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="43486543872" url="https://mikanani.me/Download/20260102/9d575ebab9f406fb47edc05e636a3c361e950f02.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
