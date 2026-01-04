@@ -5224,5 +5224,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="613521792" url="https://mikanani.me/Download/20260104/99bc0af329f90c11a86c542c4e93589f470f0cf0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][13-24][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/b110b3153467e34fc72034ee7ecfc2a8a4337e83</link>
+			<title>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][13-24][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][13-24][1080p][繁日双语][6.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b110b3153467e34fc72034ee7ecfc2a8a4337e83</link>
+				<contentLength>6549825024</contentLength>
+				<pubDate>2026-01-04T20:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6549825024" url="https://mikanani.me/Download/20260104/b110b3153467e34fc72034ee7ecfc2a8a4337e83.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][13-24][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/998ef0f2f6d645364882ed11362a639762fdcb60</link>
+			<title>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][13-24][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[超自然武装当哒当 / 胆大党 / Dandadan][13-24][1080p][简日双语][6.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/998ef0f2f6d645364882ed11362a639762fdcb60</link>
+				<contentLength>6549825024</contentLength>
+				<pubDate>2026-01-04T20:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6549825024" url="https://mikanani.me/Download/20260104/998ef0f2f6d645364882ed11362a639762fdcb60.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
