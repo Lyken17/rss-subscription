@@ -28216,5 +28216,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260104/1e4fad257f1c8ce35cf827248d82d578d9c2c131.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][13][1080p][繁日字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/441bde458117539a03fd06fb566804381996019f</link>
+			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][13][1080p][繁日字幕]</title>
+			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][13][1080p][繁日字幕][585.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/441bde458117539a03fd06fb566804381996019f</link>
+				<contentLength>614046080</contentLength>
+				<pubDate>2026-01-04T16:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="614046080" url="https://mikanani.me/Download/20260104/441bde458117539a03fd06fb566804381996019f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][13][1080p][简日字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/99bc0af329f90c11a86c542c4e93589f470f0cf0</link>
+			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][13][1080p][简日字幕]</title>
+			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][13][1080p][简日字幕][585.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99bc0af329f90c11a86c542c4e93589f470f0cf0</link>
+				<contentLength>613521792</contentLength>
+				<pubDate>2026-01-04T16:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="613521792" url="https://mikanani.me/Download/20260104/99bc0af329f90c11a86c542c4e93589f470f0cf0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
