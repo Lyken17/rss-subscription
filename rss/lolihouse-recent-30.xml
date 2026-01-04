@@ -2104,5 +2104,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2899102976" url="https://mikanani.me/Download/20260104/ea2deff14732b51302eed8e90410454ea485650e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 00(Whispers of Dawn) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/38afdad4a8ddaf0d1baf1abba454fe17ee1f6b97</link>
+			<title>[LoliHouse] Fate/strange Fake - 00(Whispers of Dawn) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Fate/strange Fake - 00(Whispers of Dawn) [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38afdad4a8ddaf0d1baf1abba454fe17ee1f6b97</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-01-04T22:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260104/38afdad4a8ddaf0d1baf1abba454fe17ee1f6b97.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
