@@ -40,5 +40,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260104/38afdad4a8ddaf0d1baf1abba454fe17ee1f6b97.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b3ccfafbb4f0b3782d1e8a000145f0d9287314f4</link>
+			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][762.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b3ccfafbb4f0b3782d1e8a000145f0d9287314f4</link>
+				<contentLength>799539200</contentLength>
+				<pubDate>2026-01-04T23:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="799539200" url="https://mikanani.me/Download/20260104/b3ccfafbb4f0b3782d1e8a000145f0d9287314f4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
