@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 115 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d3896c8dc69dcb261b5626471f9b71062f219e15</link>
+			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 115 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 115 (B-Global Donghua 1920x1080 HEVC AAC MKV)[407.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3896c8dc69dcb261b5626471f9b71062f219e15</link>
+				<contentLength>427189856</contentLength>
+				<pubDate>2026-01-05T09:00:49.760834</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="427189856" url="https://mikanani.me/Download/20260105/d3896c8dc69dcb261b5626471f9b71062f219e15.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[AI翻译] 贵族转生~得天眷顾一出生就获得最强力量~ - 01 [WEB-DL][1080p][AVC AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/74c38d6cd48b4c39dca5fad5eebc35f4bfbec41a</link>
 			<title>[AI翻译] 贵族转生~得天眷顾一出生就获得最强力量~ - 01 [WEB-DL][1080p][AVC AAC][简繁外挂字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-03T12:12:57.635632</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="209610336" url="https://mikanani.me/Download/20260103/686a83bf56d059539f4c993f50ab01bc34be6e8c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 29 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/741af45eaf21c508493dc9ccaf6fc5ebb2b6d57d</link>
-			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 29 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 29 (B-Global Donghua 4096x1716 HEVC AAC MKV)[204.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/741af45eaf21c508493dc9ccaf6fc5ebb2b6d57d</link>
-				<contentLength>214748368</contentLength>
-				<pubDate>2026-01-03T12:06:28.342331</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="214748368" url="https://mikanani.me/Download/20260103/741af45eaf21c508493dc9ccaf6fc5ebb2b6d57d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
