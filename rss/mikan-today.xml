@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 命运-奇异赝品 黎明低语 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1b2eefe5ffd60fe6e21180b1a2a1e5380e90e184</link>
+			<title>[沸班亚马制作组] 命运-奇异赝品 黎明低语 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 命运-奇异赝品 黎明低语 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.6 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1b2eefe5ffd60fe6e21180b1a2a1e5380e90e184</link>
+				<contentLength>1717986944</contentLength>
+				<pubDate>2026-01-06T06:13:58.284613</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20260106/1b2eefe5ffd60fe6e21180b1a2a1e5380e90e184.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 和青梅竹马之间不会有恋爱喜剧 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8bca4af2f363301691897f541dc101f817721ee1</link>
 			<title>[沸班亚马制作组] 和青梅竹马之间不会有恋爱喜剧 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-04T21:30:35.462723</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20260104/5034a319e75ba0ae7ef9e92b0ee700c119556e72.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[风车字幕组新年献礼][名侦探柯南30周年纪念1小时特别篇（漫改真·第0话）][1187集][Episode“ZERO”工藤新一水族馆事件][1080P][繁体][MP4][20260103][52分钟]</guid>
-			<link>https://mikanani.me/Home/Episode/b345b50a843747ba39c725e77ffc10f655df5ce3</link>
-			<title>[风车字幕组新年献礼][名侦探柯南30周年纪念1小时特别篇（漫改真·第0话）][1187集][Episode“ZERO”工藤新一水族馆事件][1080P][繁体][MP4][20260103][52分钟]</title>
-			<description>[风车字幕组新年献礼][名侦探柯南30周年纪念1小时特别篇（漫改真·第0话）][1187集][Episode“ZERO”工藤新一水族馆事件][1080P][繁体][MP4][20260103][52分钟][571.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b345b50a843747ba39c725e77ffc10f655df5ce3</link>
-				<contentLength>599261184</contentLength>
-				<pubDate>2026-01-04T21:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="599261184" url="https://mikanani.me/Download/20260104/b345b50a843747ba39c725e77ffc10f655df5ce3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
