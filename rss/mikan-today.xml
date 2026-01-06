@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 身为魔族的我想向勇者小队的可爱女孩告白 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1314b355cde1bce1aad066e93d391b3fc3cd9758</link>
+			<title>[沸班亚马制作组] 身为魔族的我想向勇者小队的可爱女孩告白 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 身为魔族的我想向勇者小队的可爱女孩告白 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][746.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1314b355cde1bce1aad066e93d391b3fc3cd9758</link>
+				<contentLength>782447424</contentLength>
+				<pubDate>2026-01-07T02:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="782447424" url="https://mikanani.me/Download/20260107/1314b355cde1bce1aad066e93d391b3fc3cd9758.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 90 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/054a0070d726a7f9cf3066c718a3cd268ec8cb03</link>
 			<title>[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 90 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-06T01:48:46.146989</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20260106/ddea1f547bd7659e1e3146b528222d2c56fefea6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 10 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8baa306f69a895994822ba811b8b5cfc0fd787db</link>
-			<title>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 10 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 弹珠汽水瓶里的千岁同学 - 10 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕][475.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8baa306f69a895994822ba811b8b5cfc0fd787db</link>
-				<contentLength>498283328</contentLength>
-				<pubDate>2026-01-06T01:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="498283328" url="https://mikanani.me/Download/20260106/8baa306f69a895994822ba811b8b5cfc0fd787db.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

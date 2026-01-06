@@ -1600,5 +1600,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725195136" url="https://mikanani.me/Download/20260107/a0bcf76f3a00fd75dc5f17c038a68148587e5001.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 身为魔族的我想向勇者小队的可爱女孩告白 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1314b355cde1bce1aad066e93d391b3fc3cd9758</link>
+			<title>[沸班亚马制作组] 身为魔族的我想向勇者小队的可爱女孩告白 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 身为魔族的我想向勇者小队的可爱女孩告白 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][746.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1314b355cde1bce1aad066e93d391b3fc3cd9758</link>
+				<contentLength>782447424</contentLength>
+				<pubDate>2026-01-07T02:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="782447424" url="https://mikanani.me/Download/20260107/1314b355cde1bce1aad066e93d391b3fc3cd9758.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
