@@ -5536,5 +5536,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="756233024" url="https://mikanani.me/Download/20260107/283aabcfea29ee095686fd377c16304cc9fc2ada.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 阿尔涅的事件簿 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bb4b32098b6d8372bb3c25f6ba07eba62cdfda91</link>
+			<title>[沸班亚马制作组] 阿尔涅的事件簿 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 阿尔涅的事件簿 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕][272.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bb4b32098b6d8372bb3c25f6ba07eba62cdfda91</link>
+				<contentLength>285317536</contentLength>
+				<pubDate>2026-01-07T05:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="285317536" url="https://mikanani.me/Download/20260107/bb4b32098b6d8372bb3c25f6ba07eba62cdfda91.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 达尔文事变 - 01 [AMZN WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1127bce607f9ddf5c7848a1c74276c92a2592a06</link>
+			<title>[沸班亚马制作组] 达尔文事变 - 01 [AMZN WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 达尔文事变 - 01 [AMZN WebRip 1080p HEVC OPUS][简繁内封字幕][440.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1127bce607f9ddf5c7848a1c74276c92a2592a06</link>
+				<contentLength>462317152</contentLength>
+				<pubDate>2026-01-07T04:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="462317152" url="https://mikanani.me/Download/20260107/1127bce607f9ddf5c7848a1c74276c92a2592a06.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
