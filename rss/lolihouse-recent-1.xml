@@ -16,5 +16,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="531732896" url="https://mikanani.me/Download/20260105/0b33dd248242fba657616fcebbd4f2a20f844ca2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a5fb9b9ed4ad87cd169e020ad92a761240e7135c</link>
+			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][509MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a5fb9b9ed4ad87cd169e020ad92a761240e7135c</link>
+				<contentLength>533725184</contentLength>
+				<pubDate>2026-01-06T11:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="533725184" url="https://mikanani.me/Download/20260106/a5fb9b9ed4ad87cd169e020ad92a761240e7135c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/76aeb7243efd40160e01b777fe9401f4c6dfa7cb</link>
+			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][463.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/76aeb7243efd40160e01b777fe9401f4c6dfa7cb</link>
+				<contentLength>485805248</contentLength>
+				<pubDate>2026-01-06T11:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="485805248" url="https://mikanani.me/Download/20260106/76aeb7243efd40160e01b777fe9401f4c6dfa7cb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
