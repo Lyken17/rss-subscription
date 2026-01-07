@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 19 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/ae24afb10f3644f628a96acb51b4e0c637dae460</link>
+			<title>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 19 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE]</title>
+			<description>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 19 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE][902.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae24afb10f3644f628a96acb51b4e0c637dae460</link>
+				<contentLength>946654400</contentLength>
+				<pubDate>2026-01-07T15:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="946654400" url="https://mikanani.me/Download/20260107/ae24afb10f3644f628a96acb51b4e0c637dae460.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[896][除夕SP][2025.12.31][AVC][1080P][GB_JP]</guid>
 			<link>https://mikanani.me/Home/Episode/8e9225b6d659ed642b49e0ffe085d782fa5002e9</link>
 			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[896][除夕SP][2025.12.31][AVC][1080P][GB_JP]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-06T08:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="357354688" url="https://mikanani.me/Download/20260106/3382119424dbef5e7a6381b55606d6ca40de458f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] Fate/strange Fake - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/169141910054081437744e46614a8d0cccc6dadd</link>
-			<title>[沸班亚马制作组] Fate/strange Fake - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] Fate/strange Fake - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][596MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/169141910054081437744e46614a8d0cccc6dadd</link>
-				<contentLength>624951296</contentLength>
-				<pubDate>2026-01-06T08:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="624951296" url="https://mikanani.me/Download/20260106/169141910054081437744e46614a8d0cccc6dadd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
