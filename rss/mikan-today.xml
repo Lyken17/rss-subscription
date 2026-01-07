@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1150][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/2684345be0774545614dbff71798850c4c06f096</link>
+			<title>[OPFansMaplesnow][one_piece][1150][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1150][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2684345be0774545614dbff71798850c4c06f096</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-01-07T18:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260107/2684345be0774545614dbff71798850c4c06f096.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 19 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/ae24afb10f3644f628a96acb51b4e0c637dae460</link>
 			<title>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 19 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-06T08:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="886885568" url="https://mikanani.me/Download/20260106/277bdbd3d435a5374bb914d559f0461140afbcb6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] Fate/strange Fake - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3382119424dbef5e7a6381b55606d6ca40de458f</link>
-			<title>[沸班亚马制作组] Fate/strange Fake - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] Fate/strange Fake - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕][340.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3382119424dbef5e7a6381b55606d6ca40de458f</link>
-				<contentLength>357354688</contentLength>
-				<pubDate>2026-01-06T08:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="357354688" url="https://mikanani.me/Download/20260106/3382119424dbef5e7a6381b55606d6ca40de458f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
