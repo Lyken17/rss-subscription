@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/febe98535529884e563b982b5f231f72918c928e</link>
+			<title>[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕][1.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/febe98535529884e563b982b5f231f72918c928e</link>
+				<contentLength>1825361152</contentLength>
+				<pubDate>2026-01-08T05:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1825361152" url="https://mikanani.me/Download/20260108/febe98535529884e563b982b5f231f72918c928e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b567a183589f0330275363e30f96ae63d6f211a3</link>
 			<title>[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-06T22:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20260106/7d8048611d24eb68c0ba71a16b7701305bd376b9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party o Tsuihou Sareta Shiro Madoushi [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/626294a8de573c79d606d45a0c4ef9c031e87bb5</link>
-			<title>[LoliHouse] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party o Tsuihou Sareta Shiro Madoushi [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
-			<description>[LoliHouse] 被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 / Yuusha Party o Tsuihou Sareta Shiro Madoushi [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][5.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/626294a8de573c79d606d45a0c4ef9c031e87bb5</link>
-				<contentLength>6335076864</contentLength>
-				<pubDate>2026-01-06T22:49:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6335076864" url="https://mikanani.me/Download/20260106/626294a8de573c79d606d45a0c4ef9c031e87bb5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
