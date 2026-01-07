@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[896][除夕SP][2025.12.31][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/8e9225b6d659ed642b49e0ffe085d782fa5002e9</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[896][除夕SP][2025.12.31][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[896][除夕SP][2025.12.31][AVC][1080P][GB_JP][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e9225b6d659ed642b49e0ffe085d782fa5002e9</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2026-01-07T14:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260107/8e9225b6d659ed642b49e0ffe085d782fa5002e9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/2e1e19751a4772bcea3fd29bfaf3082c88ae56ae</link>
 			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-06T08:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="624951296" url="https://mikanani.me/Download/20260106/169141910054081437744e46614a8d0cccc6dadd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 01 [WebRip][HEVC-10bit 1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/3fb8aeaa764e033cfbdb67b0c2c7a452a218df9a</link>
-			<title>[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 01 [WebRip][HEVC-10bit 1080p][繁日内嵌]</title>
-			<description>[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 01 [WebRip][HEVC-10bit 1080p][繁日内嵌][198.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3fb8aeaa764e033cfbdb67b0c2c7a452a218df9a</link>
-				<contentLength>207722912</contentLength>
-				<pubDate>2026-01-06T08:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="207722912" url="https://mikanani.me/Download/20260106/3fb8aeaa764e033cfbdb67b0c2c7a452a218df9a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
