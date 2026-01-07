@@ -5428,5 +5428,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="128204775424" url="https://mikanani.me/Download/20260107/80fbe76a2a495a39129242761678f9e6ba82670b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/2e1e19751a4772bcea3fd29bfaf3082c88ae56ae</link>
+			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简繁日内封]</title>
+			<description>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简繁日内封][500.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e1e19751a4772bcea3fd29bfaf3082c88ae56ae</link>
+				<contentLength>524497728</contentLength>
+				<pubDate>2026-01-07T12:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="524497728" url="https://mikanani.me/Download/20260107/2e1e19751a4772bcea3fd29bfaf3082c88ae56ae.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/992d3ad9f778eb273559f9b03d5d5e48fa52e8af</link>
+			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][繁日内嵌]</title>
+			<description>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][繁日内嵌][537.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/992d3ad9f778eb273559f9b03d5d5e48fa52e8af</link>
+				<contentLength>563190144</contentLength>
+				<pubDate>2026-01-07T12:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="563190144" url="https://mikanani.me/Download/20260107/992d3ad9f778eb273559f9b03d5d5e48fa52e8af.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/37b97ea89ea640cbeff9faba8e9afae37cdaabcc</link>
+			<title>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简日内嵌]</title>
+			<description>[MingY] 末世二轮之旅 / Shuumatsu Touring [11][1080p][简日内嵌][537.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/37b97ea89ea640cbeff9faba8e9afae37cdaabcc</link>
+				<contentLength>563190144</contentLength>
+				<pubDate>2026-01-07T12:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="563190144" url="https://mikanani.me/Download/20260107/37b97ea89ea640cbeff9faba8e9afae37cdaabcc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
