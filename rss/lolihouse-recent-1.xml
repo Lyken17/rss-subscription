@@ -184,5 +184,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="55259956" url="https://mikanani.me/Download/20260108/a08873baca79f30df24e43314a72de44820b7e36.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e0b9bb00d298fddf9dbde67ef37ac20353896344</link>
+			<title>[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][335.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e0b9bb00d298fddf9dbde67ef37ac20353896344</link>
+				<contentLength>351482688</contentLength>
+				<pubDate>2026-01-09T00:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="351482688" url="https://mikanani.me/Download/20260109/e0b9bb00d298fddf9dbde67ef37ac20353896344.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
