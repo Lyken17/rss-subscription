@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
+			<title>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][569.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
+				<contentLength>597478592</contentLength>
+				<pubDate>2026-01-08T11:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="597478592" url="https://mikanani.me/Download/20260108/0ad27b966afe349ecff3c9acd1d596cb202a2542.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 优雅贵族的休假指南 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4281b696c1ecbceee77c6cf6705651b53e021e80</link>
 			<title>[沸班亚马制作组] 优雅贵族的休假指南 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-07T00:01:07.048446</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="583847104" url="https://mikanani.me/Download/20260107/55666318049961316536946bfe8d72845ace9a15.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 燃油车斗魂 第三季 / MF Ghost 3rd Season - 25 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/a8ce4ddc3ddf0a766770dedd9dd628a25b62f9ff</link>
-			<title>[黒ネズミたち] 燃油车斗魂 第三季 / MF Ghost 3rd Season - 25 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 燃油车斗魂 第三季 / MF Ghost 3rd Season - 25 (ABEMA 1920x1080 AVC AAC MP4)[711.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a8ce4ddc3ddf0a766770dedd9dd628a25b62f9ff</link>
-				<contentLength>746481280</contentLength>
-				<pubDate>2026-01-06T23:30:36.57522</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746481280" url="https://mikanani.me/Download/20260106/a8ce4ddc3ddf0a766770dedd9dd628a25b62f9ff.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

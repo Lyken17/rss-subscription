@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 魔王的女儿太温柔了 - 02 [CR WebRip 1080p HEVC OPUS][英语内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e8046ae1d0fc702f0a48e0b2cd7bdc5d828fd307</link>
-			<title>[沸班亚马制作组] 魔王的女儿太温柔了 - 02 [CR WebRip 1080p HEVC OPUS][英语内封字幕]</title>
-			<description>[沸班亚马制作组] 魔王的女儿太温柔了 - 02 [CR WebRip 1080p HEVC OPUS][英语内封字幕][286.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8046ae1d0fc702f0a48e0b2cd7bdc5d828fd307</link>
-				<contentLength>300836448</contentLength>
-				<pubDate>2026-01-07T04:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="300836448" url="https://mikanani.me/Download/20260107/e8046ae1d0fc702f0a48e0b2cd7bdc5d828fd307.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 魔王的女儿太温柔了 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b71130808e04cc447df49ce1f7e8c8f5adf998b2</link>
-			<title>[沸班亚马制作组] 魔王的女儿太温柔了 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 魔王的女儿太温柔了 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕][371.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b71130808e04cc447df49ce1f7e8c8f5adf998b2</link>
-				<contentLength>389755712</contentLength>
-				<pubDate>2026-01-07T03:48:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="389755712" url="https://mikanani.me/Download/20260107/b71130808e04cc447df49ce1f7e8c8f5adf998b2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 阿尔涅的事件簿 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/bb4b32098b6d8372bb3c25f6ba07eba62cdfda91</link>
 			<title>[沸班亚马制作组] 阿尔涅的事件簿 - 01 [CR WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
@@ -1023,6 +999,18 @@
 				<pubDate>2026-01-08T09:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="303982176" url="https://mikanani.me/Download/20260108/b25d1d324def3fe0c75265ba0e8d5502d1f68dec.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
+			<title>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][569.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
+				<contentLength>597478592</contentLength>
+				<pubDate>2026-01-08T11:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="597478592" url="https://mikanani.me/Download/20260108/0ad27b966afe349ecff3c9acd1d596cb202a2542.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5668,5 +5668,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="303982176" url="https://mikanani.me/Download/20260108/b25d1d324def3fe0c75265ba0e8d5502d1f68dec.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
+			<title>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][569.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
+				<contentLength>597478592</contentLength>
+				<pubDate>2026-01-08T11:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="597478592" url="https://mikanani.me/Download/20260108/0ad27b966afe349ecff3c9acd1d596cb202a2542.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
