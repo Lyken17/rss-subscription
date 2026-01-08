@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b4a982647ef676c95534a2cbd6f36e31a35e4168</link>
-			<title>[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 陛下，请忘了我吧 / Heika Watashi wo Wasurete Kudasai - 10 (ABEMA 1920x1080 AVC AAC MP4)[135.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b4a982647ef676c95534a2cbd6f36e31a35e4168</link>
-				<contentLength>141767472</contentLength>
-				<pubDate>2025-12-09T21:05:21.150078</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="141767472" url="https://mikanani.me/Download/20251209/b4a982647ef676c95534a2cbd6f36e31a35e4168.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">异世界四重奏3 - EP09 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</guid>
-			<link>https://mikanani.me/Home/Episode/3fc641b8b194451b12527595a0e52faf9bac3ead</link>
-			<title>异世界四重奏3 - EP09 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}</title>
-			<description>异世界四重奏3 - EP09 [简／繁] (1080p H.264 AAC2.0+DDP2.0 SRTx2) {异世界四重奏 | 异世界かるてっと}[482.81 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3fc641b8b194451b12527595a0e52faf9bac3ead</link>
-				<contentLength>506262976</contentLength>
-				<pubDate>2025-12-09T21:03:53.087</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="506262976" url="https://mikanani.me/Download/20251209/3fc641b8b194451b12527595a0e52faf9bac3ead.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[dmbHub] 黄金神威 / Golden Kamuy OAD - 05 [BDRip 1080p HEVC-10bit AAC][简体内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/22a2dd75658819abccee546e200069a3933360d1</link>
 			<title>[dmbHub] 黄金神威 / Golden Kamuy OAD - 05 [BDRip 1080p HEVC-10bit AAC][简体内封字幕]</title>
@@ -27159,6 +27135,18 @@
 				<pubDate>2026-01-09T03:31:29.5477</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="765355648" url="https://mikanani.me/Download/20260109/93ac7079bb7b02e949191bee3d89af322a6cd398.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 01 HEVC 1080P 简繁日三语 MKV</guid>
+			<link>https://mikanani.me/Home/Episode/8d56e8bf271f7112a0900bb282b2f04847f22106</link>
+			<title>[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 01 HEVC 1080P 简繁日三语 MKV</title>
+			<description>[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 01 HEVC 1080P 简繁日三语 MKV[322.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d56e8bf271f7112a0900bb282b2f04847f22106</link>
+				<contentLength>338165760</contentLength>
+				<pubDate>2026-01-09T04:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="338165760" url="https://mikanani.me/Download/20260109/8d56e8bf271f7112a0900bb282b2f04847f22106.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
