@@ -184,5 +184,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="631137920" url="https://mikanani.me/Download/20260109/f42f5d86074584753eaaf71ee180346846ca9ef9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 达尔文事变 / Darwin Jihen - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ee558f75745fdb7447c29506bf6e5aabc1cd5cde</link>
+			<title>[LoliHouse] 达尔文事变 / Darwin Jihen - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 达尔文事变 / Darwin Jihen - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][494.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ee558f75745fdb7447c29506bf6e5aabc1cd5cde</link>
+				<contentLength>518520832</contentLength>
+				<pubDate>2026-01-09T23:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="518520832" url="https://mikanani.me/Download/20260109/ee558f75745fdb7447c29506bf6e5aabc1cd5cde.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
