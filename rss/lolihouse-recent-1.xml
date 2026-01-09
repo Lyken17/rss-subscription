@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/0ac6ef33eb96e283ac9f7db2a6e122a8a7210408</link>
-			<title>[LoliHouse] Fate/strange Fake - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Fate/strange Fake - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][553.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0ac6ef33eb96e283ac9f7db2a6e122a8a7210408</link>
-				<contentLength>580596544</contentLength>
-				<pubDate>2026-01-08T10:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="580596544" url="https://mikanani.me/Download/20260108/0ac6ef33eb96e283ac9f7db2a6e122a8a7210408.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0ad27b966afe349ecff3c9acd1d596cb202a2542</link>
 			<title>[LoliHouse] 现在的是哪一个多闻？！ / Tamon-kun Ima Docchi!? - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -195,6 +183,18 @@
 				<pubDate>2026-01-09T13:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260109/e819b10ed83c7b462910150e9417351da50d9016.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 优雅贵族的休假指南。  / Odayaka Kizoku no Kyuuka no Susume. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/68224a37c0499862c72e345895b18ecee389d60a</link>
+			<title>[LoliHouse] 优雅贵族的休假指南。  / Odayaka Kizoku no Kyuuka no Susume. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 优雅贵族的休假指南。  / Odayaka Kizoku no Kyuuka no Susume. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][270.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68224a37c0499862c72e345895b18ecee389d60a</link>
+				<contentLength>283849536</contentLength>
+				<pubDate>2026-01-09T18:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="283849536" url="https://mikanani.me/Download/20260109/68224a37c0499862c72e345895b18ecee389d60a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
