@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/febe98535529884e563b982b5f231f72918c928e</link>
-			<title>[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 靠死亡游戏混饭吃 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕][1.7GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/febe98535529884e563b982b5f231f72918c928e</link>
-				<contentLength>1825361152</contentLength>
-				<pubDate>2026-01-08T05:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1825361152" url="https://mikanani.me/Download/20260108/febe98535529884e563b982b5f231f72918c928e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/48350c62f9c0687572e785981a03a4af063ff3c9</link>
 			<title>[沸班亚马制作组] 安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市 - 01 [CR WebRip AI2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1263,6 +1251,18 @@
 				<pubDate>2026-01-09T12:30:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="695101056" url="https://mikanani.me/Download/20260109/653116e8f6315a0e79efa3438db81f4f2ec8b974.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e819b10ed83c7b462910150e9417351da50d9016</link>
+			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e819b10ed83c7b462910150e9417351da50d9016</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-01-09T13:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260109/e819b10ed83c7b462910150e9417351da50d9016.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
