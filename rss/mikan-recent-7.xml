@@ -5824,5 +5824,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="759064192" url="https://mikanani.me/Download/20260110/aa3ffff4cc85df3830551d089978de71e82a4ca5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] DARK MOON -黑之月: 月之祭坛- - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/164119f16193cb38cd1e2669b414f74bd630a84b</link>
+			<title>[沸班亚马制作组] DARK MOON -黑之月: 月之祭坛- - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] DARK MOON -黑之月: 月之祭坛- - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][417.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/164119f16193cb38cd1e2669b414f74bd630a84b</link>
+				<contentLength>438095040</contentLength>
+				<pubDate>2026-01-10T06:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="438095040" url="https://mikanani.me/Download/20260110/164119f16193cb38cd1e2669b414f74bd630a84b.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

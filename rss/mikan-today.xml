@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] DARK MOON -黑之月: 月之祭坛- - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/164119f16193cb38cd1e2669b414f74bd630a84b</link>
+			<title>[沸班亚马制作组] DARK MOON -黑之月: 月之祭坛- - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] DARK MOON -黑之月: 月之祭坛- - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][417.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/164119f16193cb38cd1e2669b414f74bd630a84b</link>
+				<contentLength>438095040</contentLength>
+				<pubDate>2026-01-10T06:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="438095040" url="https://mikanani.me/Download/20260110/164119f16193cb38cd1e2669b414f74bd630a84b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] SEALOOK / Sealook - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/924b77ea784f8deea0be819ec15447280adcebd4</link>
 			<title>[黒ネズミたち] SEALOOK / Sealook - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-01-08T23:31:34.530378</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="777099648" url="https://mikanani.me/Download/20260108/48405d9782039a60b339676bf8316267d5cab0c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 - 01 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0dbfc2012c2005ca9af0af9ef7207ce3b0d18bb4</link>
-			<title>[黒ネズミたち] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 - 01 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 - 01 (B-Global 1920x1080 HEVC AAC MKV)[292.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0dbfc2012c2005ca9af0af9ef7207ce3b0d18bb4</link>
-				<contentLength>306393920</contentLength>
-				<pubDate>2026-01-08T23:30:46.347743</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="306393920" url="https://mikanani.me/Download/20260108/0dbfc2012c2005ca9af0af9ef7207ce3b0d18bb4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
