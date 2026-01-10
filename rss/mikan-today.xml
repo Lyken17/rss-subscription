@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1188 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/00779bf4d0876da8b60fef6172418d5ede3579bd</link>
+			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1188 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1188 (CR 1920x1080 AVC AAC MKV)[670.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/00779bf4d0876da8b60fef6172418d5ede3579bd</link>
+				<contentLength>702545920</contentLength>
+				<pubDate>2026-01-10T20:33:18.532099</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="702545920" url="https://mikanani.me/Download/20260110/00779bf4d0876da8b60fef6172418d5ede3579bd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][ViuTV粤语]光之美少女偶像与你 / Idol光之美少女你与我 / Kimi to Idol Precure - 38 [粤语+无对白字幕](WEB 1920x1080 x264 AAC YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/135f68273c1da9f7f7de77677ee5f1358cdf7edc</link>
 			<title>[jibaketa合成&amp;二次压制][ViuTV粤语]光之美少女偶像与你 / Idol光之美少女你与我 / Kimi to Idol Precure - 38 [粤语+无对白字幕](WEB 1920x1080 x264 AAC YUE CHT)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2026-01-09T02:03:12.520701</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="470810624" url="https://mikanani.me/Download/20260109/b513fdbc78ddcd674d74e10318f7ff8fd4420ae6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/5039f4d2da1a473d84766e1fcdbb02069c241bf7</link>
-			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 01 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 01 (Baha 1920x1080 AVC AAC MP4)[538.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5039f4d2da1a473d84766e1fcdbb02069c241bf7</link>
-				<contentLength>564867904</contentLength>
-				<pubDate>2026-01-09T02:00:57.432891</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="564867904" url="https://mikanani.me/Download/20260109/5039f4d2da1a473d84766e1fcdbb02069c241bf7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

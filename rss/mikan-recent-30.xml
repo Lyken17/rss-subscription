@@ -26512,5 +26512,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260110/3fb6f1e440dc20873ca218561ad0ec098535af68.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1188 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/00779bf4d0876da8b60fef6172418d5ede3579bd</link>
+			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1188 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1188 (CR 1920x1080 AVC AAC MKV)[670.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/00779bf4d0876da8b60fef6172418d5ede3579bd</link>
+				<contentLength>702545920</contentLength>
+				<pubDate>2026-01-10T20:33:18.532099</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="702545920" url="https://mikanani.me/Download/20260110/00779bf4d0876da8b60fef6172418d5ede3579bd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
