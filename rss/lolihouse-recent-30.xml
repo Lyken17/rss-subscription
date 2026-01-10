@@ -2056,5 +2056,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="464624032" url="https://mikanani.me/Download/20260110/1dad6541d72215b908fccc602ff399cc743e42fc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 靠死亡游戏混饭吃。 / 以死亡游戏为生。 / 死亡游戯で饭を食う。 / Shibou Yuugi de Meshi wo Kuu. - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3fb6f1e440dc20873ca218561ad0ec098535af68</link>
+			<title>[SweetSub&amp;LoliHouse] 靠死亡游戏混饭吃。 / 以死亡游戏为生。 / 死亡游戯で饭を食う。 / Shibou Yuugi de Meshi wo Kuu. - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 靠死亡游戏混饭吃。 / 以死亡游戏为生。 / 死亡游戯で饭を食う。 / Shibou Yuugi de Meshi wo Kuu. - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3fb6f1e440dc20873ca218561ad0ec098535af68</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-01-10T19:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260110/3fb6f1e440dc20873ca218561ad0ec098535af68.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
