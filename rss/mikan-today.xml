@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 死亡账号 - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b6c2f7d6b935fcd97da425c56a6aa10c425c81b7</link>
+			<title>[沸班亚马制作组] 死亡账号 - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 死亡账号 - 01 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][787.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b6c2f7d6b935fcd97da425c56a6aa10c425c81b7</link>
+				<contentLength>826173056</contentLength>
+				<pubDate>2026-01-11T04:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="826173056" url="https://mikanani.me/Download/20260111/b6c2f7d6b935fcd97da425c56a6aa10c425c81b7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA篇+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</guid>
 			<link>https://mikanani.me/Home/Episode/6296285592687d963b6561fae5fc24bf483f7e69</link>
 			<title>[整理搬运] 乱马 1／2 (らんま½) (Ranma ½)：TV动画 (1989年首播版)+剧场版+OVA篇+CD+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.08)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-10T00:53:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309329920" url="https://mikanani.me/Download/20260110/193499b5af998a0b9401c9d3c65228bda29cc27b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">猫眼「キャッツ♥アイ」CAT'S EYE 2025年版 S01E09 1080p 日英双语-多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/4bf71a315f8553777e76e18ef60a28b390881c71</link>
-			<title>猫眼「キャッツ♥アイ」CAT'S EYE 2025年版 S01E09 1080p 日英双语-多国字幕</title>
-			<description>猫眼「キャッツ♥アイ」CAT'S EYE 2025年版 S01E09 1080p 日英双语-多国字幕[838.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4bf71a315f8553777e76e18ef60a28b390881c71</link>
-				<contentLength>878811520</contentLength>
-				<pubDate>2026-01-10T00:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="878811520" url="https://mikanani.me/Download/20260110/4bf71a315f8553777e76e18ef60a28b390881c71.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
