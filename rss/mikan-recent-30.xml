@@ -27076,5 +27076,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="324744000" url="https://mikanani.me/Download/20260111/a76adf86c06ab940116671d36795b351639a5254.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/ab69ccb2a2ae99c98e1a4b56b094b6e4494441fc</link>
+			<title>[黒ネズミたち] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 02 (ABEMA 1920x1080 AVC AAC MP4)[711.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ab69ccb2a2ae99c98e1a4b56b094b6e4494441fc</link>
+				<contentLength>746166656</contentLength>
+				<pubDate>2026-01-11T21:00:27.261223</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20260111/ab69ccb2a2ae99c98e1a4b56b094b6e4494441fc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
