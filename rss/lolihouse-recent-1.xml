@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b2de19251abb124378870b0e6938608968d04c43</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][559.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b2de19251abb124378870b0e6938608968d04c43</link>
-				<contentLength>586573440</contentLength>
-				<pubDate>2026-01-11T14:26:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="586573440" url="https://mikanani.me/Download/20260111/b2de19251abb124378870b0e6938608968d04c43.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 29岁单身中坚冒险家的日常 /  29-sai Dokushin Chuuken Boukensha no Nichijou - 01 [WebRip 1080p HEVC-10bit AAC][英文内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5fb683f8624cff16fff1b80c8caa7d1dbdf91625</link>
 			<title>[LoliHouse] 29岁单身中坚冒险家的日常 /  29-sai Dokushin Chuuken Boukensha no Nichijou - 01 [WebRip 1080p HEVC-10bit AAC][英文内封字幕]</title>
@@ -123,6 +111,30 @@
 				<pubDate>2026-01-12T21:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="267596592" url="https://mikanani.me/Download/20260112/faed53ef7b5e9fb07874f78e09cca926b9e7058b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 49v2 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fa1a062dee6aacb01312250c8930a3e93e630241</link>
+			<title>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 49v2 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 49v2 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][482.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fa1a062dee6aacb01312250c8930a3e93e630241</link>
+				<contentLength>506252480</contentLength>
+				<pubDate>2026-01-12T23:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="506252480" url="https://mikanani.me/Download/20260112/fa1a062dee6aacb01312250c8930a3e93e630241.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4efb40182ea668091e9738f8cc1927d02df67ffb</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][317.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4efb40182ea668091e9738f8cc1927d02df67ffb</link>
+				<contentLength>333027744</contentLength>
+				<pubDate>2026-01-12T23:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="333027744" url="https://mikanani.me/Download/20260112/4efb40182ea668091e9738f8cc1927d02df67ffb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
