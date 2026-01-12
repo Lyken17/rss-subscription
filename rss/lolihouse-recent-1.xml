@@ -76,5 +76,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="439563072" url="https://mikanani.me/Download/20260112/4ff48329107e1ba2d19eb777ab8561f372617ba4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 50 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c7f39cc3ff5405abda1a2249a6856fab64191a08</link>
+			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 50 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 50 [WebRip 1080p HEVC-10bit AAC][无字幕][282.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c7f39cc3ff5405abda1a2249a6856fab64191a08</link>
+				<contentLength>296432448</contentLength>
+				<pubDate>2026-01-12T21:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="296432448" url="https://mikanani.me/Download/20260112/c7f39cc3ff5405abda1a2249a6856fab64191a08.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/660b8aab247257e8ca2924cb157efa9296cfcbd2</link>
+			<title>[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 蓝色管弦乐 第二季 / Blue Orchestra S2 / Ao no Orchestra S2 - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][589MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/660b8aab247257e8ca2924cb157efa9296cfcbd2</link>
+				<contentLength>617611264</contentLength>
+				<pubDate>2026-01-12T21:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="617611264" url="https://mikanani.me/Download/20260112/660b8aab247257e8ca2924cb157efa9296cfcbd2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
