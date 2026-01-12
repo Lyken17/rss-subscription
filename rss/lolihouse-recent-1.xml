@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f3a407db9536d95e1d38234c70013fd863ac7c90</link>
-			<title>[LoliHouse] Fate/strange Fake - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Fate/strange Fake - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][683.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f3a407db9536d95e1d38234c70013fd863ac7c90</link>
-				<contentLength>716806528</contentLength>
-				<pubDate>2026-01-11T02:21:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="716806528" url="https://mikanani.me/Download/20260111/f3a407db9536d95e1d38234c70013fd863ac7c90.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5c4406f922992252462b7d9494b1932f23c16638</link>
 			<title>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -75,6 +63,30 @@
 				<pubDate>2026-01-12T00:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1049205120" url="https://mikanani.me/Download/20260112/8ec73962c40c83d315682eb27074e9fbee846add.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cdcf81de3a67d8ce4e85014c0a33bc04e0b74b3c</link>
+			<title>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][287.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cdcf81de3a67d8ce4e85014c0a33bc04e0b74b3c</link>
+				<contentLength>301046176</contentLength>
+				<pubDate>2026-01-12T09:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="301046176" url="https://mikanani.me/Download/20260112/cdcf81de3a67d8ce4e85014c0a33bc04e0b74b3c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4ff48329107e1ba2d19eb777ab8561f372617ba4</link>
+			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][419.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4ff48329107e1ba2d19eb777ab8561f372617ba4</link>
+				<contentLength>439563072</contentLength>
+				<pubDate>2026-01-12T09:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="439563072" url="https://mikanani.me/Download/20260112/4ff48329107e1ba2d19eb777ab8561f372617ba4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
