@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/153fb5790fba5417da7549c2336e63a38ebc95ab</link>
+			<title>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/153fb5790fba5417da7549c2336e63a38ebc95ab</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2026-01-13T01:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260113/153fb5790fba5417da7549c2336e63a38ebc95ab.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 北斗之拳 拳王军杂鱼们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/23b0a890f5517d35ee4968d1c38dce5f18295971</link>
 			<title>[黒ネズミたち] 北斗之拳 拳王军杂鱼们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-01-12T07:30:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="939419264" url="https://mikanani.me/Download/20260112/fd54cbb243476d3ee7a7e505df6b8ef54edbf535.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e08f1aa95bb4f0f54ca53c3624e32c27f6c1e464</link>
-			<title>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 01 (CR 1920x1080 AVC AAC MKV)[159.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e08f1aa95bb4f0f54ca53c3624e32c27f6c1e464</link>
-				<contentLength>167038160</contentLength>
-				<pubDate>2026-01-12T02:21:27.236716</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="167038160" url="https://mikanani.me/Download/20260112/e08f1aa95bb4f0f54ca53c3624e32c27f6c1e464.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

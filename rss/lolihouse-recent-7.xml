@@ -724,5 +724,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="411880640" url="https://mikanani.me/Download/20260112/da651567b9cedd814a82d51e3100e12fab459ad8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/153fb5790fba5417da7549c2336e63a38ebc95ab</link>
+			<title>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/153fb5790fba5417da7549c2336e63a38ebc95ab</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2026-01-13T01:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260113/153fb5790fba5417da7549c2336e63a38ebc95ab.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
