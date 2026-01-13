@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/62602dd9441d991a6dbc4fa4bf7a6e24abe9cc7a</link>
-			<title>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;LoliHouse] 王者天下 第六季 / Kingdom S6 - 11 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][708.45 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/62602dd9441d991a6dbc4fa4bf7a6e24abe9cc7a</link>
-				<contentLength>742863680</contentLength>
-				<pubDate>2025-12-14T09:18:47.498</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="742863680" url="https://mikanani.me/Download/20251214/62602dd9441d991a6dbc4fa4bf7a6e24abe9cc7a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/573ed2f6f8ec31a91cae6dbe48797a82001f8e5a</link>
 			<title>[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2127,6 +2115,18 @@
 				<pubDate>2026-01-13T12:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="929562624" url="https://mikanani.me/Download/20260113/4badf2c911eddfc19acfcf25bb05802af98dae0c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7a044e1315ee7a880af91abb516c840895346c02</link>
+			<title>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][568.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a044e1315ee7a880af91abb516c840895346c02</link>
+				<contentLength>595696000</contentLength>
+				<pubDate>2026-01-13T17:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="595696000" url="https://mikanani.me/Download/20260113/7a044e1315ee7a880af91abb516c840895346c02.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
