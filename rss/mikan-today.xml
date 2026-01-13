@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★01月新番[午夜的倾心旋律][01][1080P][简体][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/dd9f52a7e99336ad829bd8d74d1e2144bb150aa7</link>
+			<title>【澄空学园&amp;动漫国字幕组】★01月新番[午夜的倾心旋律][01][1080P][简体][MP4]</title>
+			<description>【澄空学园&amp;动漫国字幕组】★01月新番[午夜的倾心旋律][01][1080P][简体][MP4][514.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd9f52a7e99336ad829bd8d74d1e2144bb150aa7</link>
+				<contentLength>539806912</contentLength>
+				<pubDate>2026-01-13T15:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="539806912" url="https://mikanani.me/Download/20260113/dd9f52a7e99336ad829bd8d74d1e2144bb150aa7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★01月新番[午夜的倾心旋律][01][1080P][繁体][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/2b55ac1a90ccd705ca050995648b33a06cc463b7</link>
+			<title>【澄空学园&amp;动漫国字幕组】★01月新番[午夜的倾心旋律][01][1080P][繁体][MP4]</title>
+			<description>【澄空学园&amp;动漫国字幕组】★01月新番[午夜的倾心旋律][01][1080P][繁体][MP4][514.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2b55ac1a90ccd705ca050995648b33a06cc463b7</link>
+				<contentLength>539387520</contentLength>
+				<pubDate>2026-01-13T15:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="539387520" url="https://mikanani.me/Download/20260113/2b55ac1a90ccd705ca050995648b33a06cc463b7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[相反的你和我 / Seihantai na Kimi to Boku][01][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/4186b0d2955c52cb42f951d3fa5c1d4fe7dc5372</link>
 			<title>【喵萌奶茶屋】★01月新番★[相反的你和我 / Seihantai na Kimi to Boku][01][1080p][简日双语]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2026-01-12T13:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="456759712" url="https://mikanani.me/Download/20260112/b65cbede53daa785736236ed3c29577fb2796376.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 一拳超人 第3季 / One Punch Man (2025) [12][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/c2a50eac9420c3757a58081eaa86716c3363d4d5</link>
-			<title>[桜都字幕组] 一拳超人 第3季 / One Punch Man (2025) [12][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 一拳超人 第3季 / One Punch Man (2025) [12][1080p][简繁内封][360.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c2a50eac9420c3757a58081eaa86716c3363d4d5</link>
-				<contentLength>377906784</contentLength>
-				<pubDate>2026-01-12T12:59:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="377906784" url="https://mikanani.me/Download/20260112/c2a50eac9420c3757a58081eaa86716c3363d4d5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f6797f6b711d32793ef3e1f486b94fbf64259975</link>
-			<title>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][380.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f6797f6b711d32793ef3e1f486b94fbf64259975</link>
-				<contentLength>399192896</contentLength>
-				<pubDate>2026-01-12T12:01:57.304878</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="399192896" url="https://mikanani.me/Download/20260112/f6797f6b711d32793ef3e1f486b94fbf64259975.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
