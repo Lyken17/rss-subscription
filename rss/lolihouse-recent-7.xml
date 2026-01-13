@@ -724,5 +724,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260113/153fb5790fba5417da7549c2336e63a38ebc95ab.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</guid>
+			<link>https://mikanani.me/Home/Episode/b154bb2bbd6830a6ccf9f12ab460039d31f24389</link>
+			<title>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</title>
+			<description>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)[524.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b154bb2bbd6830a6ccf9f12ab460039d31f24389</link>
+				<contentLength>549768384</contentLength>
+				<pubDate>2026-01-13T09:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="549768384" url="https://mikanani.me/Download/20260113/b154bb2bbd6830a6ccf9f12ab460039d31f24389.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
