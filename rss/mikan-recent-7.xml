@@ -7696,5 +7696,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725404864" url="https://mikanani.me/Download/20260114/3be4606837132cf9fc5fd1e6d83efb0812f96f12.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/19fcadd5f0900c3ba64dfab4fc020d493445d145</link>
+			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 02 (ABEMA 1920x1080 AVC AAC MP4)[726.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19fcadd5f0900c3ba64dfab4fc020d493445d145</link>
+				<contentLength>761790464</contentLength>
+				<pubDate>2026-01-14T03:04:01.166156</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761790464" url="https://mikanani.me/Download/20260114/19fcadd5f0900c3ba64dfab4fc020d493445d145.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/a4450edcefc9a12ebdf37947f6e391ba1f33b0d4</link>
+			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 01 (ABEMA 1920x1080 AVC AAC MP4)[775.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a4450edcefc9a12ebdf37947f6e391ba1f33b0d4</link>
+				<contentLength>813590144</contentLength>
+				<pubDate>2026-01-14T03:00:33.860716</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="813590144" url="https://mikanani.me/Download/20260114/a4450edcefc9a12ebdf37947f6e391ba1f33b0d4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 铠真传 / Yoroi Shin Den Samurai Troopers - 02 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e5ccad40bc86a3a5348f1749232e6350516037e9</link>
+			<title>[黒ネズミたち] 铠真传 / Yoroi Shin Den Samurai Troopers - 02 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 铠真传 / Yoroi Shin Den Samurai Troopers - 02 (CR 1920x1080 AVC AAC MKV)[1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e5ccad40bc86a3a5348f1749232e6350516037e9</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-01-14T02:49:26.639872</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260114/e5ccad40bc86a3a5348f1749232e6350516037e9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
