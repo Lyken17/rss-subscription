@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="855952576" url="https://mikanani.me/Download/20260114/971a1c9b3fa86a992592350e94e9c1b97cea329d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/42d9ae7bb95d10dec5d1584d0146208104649a4f</link>
+			<title>[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][384.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/42d9ae7bb95d10dec5d1584d0146208104649a4f</link>
+				<contentLength>402967744</contentLength>
+				<pubDate>2026-01-14T14:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="402967744" url="https://mikanani.me/Download/20260114/42d9ae7bb95d10dec5d1584d0146208104649a4f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
