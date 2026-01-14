@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 阿尔涅事件簿 / Arne no Jikenbo - 01 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/c1c24ce95191b9f0fba9857c78863b0a19f05407</link>
-			<title>[黒ネズミたち] 阿尔涅事件簿 / Arne no Jikenbo - 01 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 阿尔涅事件簿 / Arne no Jikenbo - 01 (CR 1920x1080 AVC AAC MKV)[711.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c1c24ce95191b9f0fba9857c78863b0a19f05407</link>
-				<contentLength>746166656</contentLength>
-				<pubDate>2026-01-07T09:00:03.583384</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20260107/c1c24ce95191b9f0fba9857c78863b0a19f05407.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/77ac53cd25262c7ad83389a06a0823583bf7c1e1</link>
 			<title>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -7359,6 +7347,30 @@
 				<pubDate>2026-01-14T15:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="228065280" url="https://mikanani.me/Download/20260114/4eaebf14348cf66b93564169873333584bc80103.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 21 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE]</guid>
+			<link>https://mikanani.me/Home/Episode/c7d6153a0affd39fd42ab528ddd94489e178ce0f</link>
+			<title>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 21 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE]</title>
+			<description>[jibaketa合成&amp;二次压制][TVB粤语]魔神创造传 / Mashin Souzouden Wataru - 21 [粤语+无字幕][WEB 1920x1080 x264 AAC YUE][1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c7d6153a0affd39fd42ab528ddd94489e178ce0f</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2026-01-14T17:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260114/c7d6153a0affd39fd42ab528ddd94489e178ce0f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/b3fb06dcdf876d65a3674b53439a456ea9bb23ed</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 01 (ABEMA 1920x1080 AVC AAC MP4)[726.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b3fb06dcdf876d65a3674b53439a456ea9bb23ed</link>
+				<contentLength>761580736</contentLength>
+				<pubDate>2026-01-14T16:30:38.877089</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761580736" url="https://mikanani.me/Download/20260114/b3fb06dcdf876d65a3674b53439a456ea9bb23ed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
