@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [13-14][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/9174ad324b08b272c66c3892a8fcf415a5893f69</link>
+			<title>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [13-14][1080p][简日内嵌]</title>
+			<description>【FSD】东岛丹三郎想成为假面骑士\东岛丹三郎は仮面ライダーになりたい\Tojima Wants to Be a Kamen Rider [13-14][1080p][简日内嵌][969.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9174ad324b08b272c66c3892a8fcf415a5893f69</link>
+				<contentLength>1016174976</contentLength>
+				<pubDate>2026-01-15T09:09:59.514284</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1016174976" url="https://mikanani.me/Download/20260115/9174ad324b08b272c66c3892a8fcf415a5893f69.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)</guid>
 			<link>https://mikanani.me/Home/Episode/a7c8a738389f5ecfee589a60b376f5c6dab3a1c2</link>
 			<title>[整理搬运] 濑户的花嫁 (瀬戸の花嫁) (My Bride is a Mermaid／Seto no Hanayome)：TV动画+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.08)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-14T12:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="653472576" url="https://mikanani.me/Download/20260114/4e0ee97d4b96a6ccfdcda7110ae25a5dbf6b3a85.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][01][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</guid>
-			<link>https://mikanani.me/Home/Episode/3dc8ea1e56886683f65a00b74128b7fa6b6aa4da</link>
-			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][01][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</title>
-			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][01][GB][1080P][MP4][简日双语内嵌] エリスの圣杯[623.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3dc8ea1e56886683f65a00b74128b7fa6b6aa4da</link>
-				<contentLength>653577408</contentLength>
-				<pubDate>2026-01-14T12:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="653577408" url="https://mikanani.me/Download/20260114/3dc8ea1e56886683f65a00b74128b7fa6b6aa4da.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
