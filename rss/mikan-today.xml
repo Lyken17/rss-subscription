@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">猫眼三姐妹.西班牙语.Cat's Eye 1-36 Bdrip By Xete</guid>
+			<link>https://mikanani.me/Home/Episode/14902b81fccba9d23a00e12fcfb6a4317c0149a4</link>
+			<title>猫眼三姐妹.西班牙语.Cat's Eye 1-36 Bdrip By Xete</title>
+			<description>猫眼三姐妹.西班牙语.Cat's Eye 1-36 Bdrip By Xete[22.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14902b81fccba9d23a00e12fcfb6a4317c0149a4</link>
+				<contentLength>24051816448</contentLength>
+				<pubDate>2026-01-15T18:21:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24051816448" url="https://mikanani.me/Download/20260115/14902b81fccba9d23a00e12fcfb6a4317c0149a4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[对我垂涎欲滴的非人少女/想吃掉我的非人少女/Watashi wo Tabetai, Hitodenashi][01][1080p HEVC][CHT][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/3246f30a3064794078b77b874cd6bd3715f7d7f1</link>
 			<title>【悠哈璃羽字幕社】[对我垂涎欲滴的非人少女/想吃掉我的非人少女/Watashi wo Tabetai, Hitodenashi][01][1080p HEVC][CHT][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-14T19:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="396256864" url="https://mikanani.me/Download/20260114/dda0cb1dfd3bc638cd75bd854dcb44d04cb70076.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 噗妮露是可爱史莱姆/ぷにるはかわいいスライム/Puniru wa Kawaii Slime S01 | 01-24 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/853ecec2490e3074159ba77cabf1396b056b1861</link>
-			<title>[7³ACG] 噗妮露是可爱史莱姆/ぷにるはかわいいスライム/Puniru wa Kawaii Slime S01 | 01-24 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
-			<description>[7³ACG] 噗妮露是可爱史莱姆/ぷにるはかわいいスライム/Puniru wa Kawaii Slime S01 | 01-24 [简繁字幕] BDrip 1080p x265 OPUS 2.0[13.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/853ecec2490e3074159ba77cabf1396b056b1861</link>
-				<contentLength>14173391872</contentLength>
-				<pubDate>2026-01-14T19:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14173391872" url="https://mikanani.me/Download/20260114/853ecec2490e3074159ba77cabf1396b056b1861.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
