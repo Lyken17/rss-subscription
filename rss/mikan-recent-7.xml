@@ -7744,5 +7744,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="317403968" url="https://mikanani.me/Download/20260115/7b7943b622661e10afaeab78316db36ef2411a2a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][14][1080p HEVC][CHT][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a0b09aa8cd1c54465550a45ac18542aaa0974691</link>
+			<title>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][14][1080p HEVC][CHT][繁体内嵌]</title>
+			<description>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][14][1080p HEVC][CHT][繁体内嵌][53.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a0b09aa8cd1c54465550a45ac18542aaa0974691</link>
+				<contentLength>56203672</contentLength>
+				<pubDate>2026-01-15T16:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="56203672" url="https://mikanani.me/Download/20260115/a0b09aa8cd1c54465550a45ac18542aaa0974691.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][14][1080p HEVC][CHS][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/c157605553caa4b6f0a3b69b0731fc918cc93b39</link>
+			<title>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][14][1080p HEVC][CHS][简体内嵌]</title>
+			<description>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][14][1080p HEVC][CHS][简体内嵌][53.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c157605553caa4b6f0a3b69b0731fc918cc93b39</link>
+				<contentLength>56098816</contentLength>
+				<pubDate>2026-01-15T16:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="56098816" url="https://mikanani.me/Download/20260115/c157605553caa4b6f0a3b69b0731fc918cc93b39.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
