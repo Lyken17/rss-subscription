@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/6cb13a803bfafad1f17417f4291403568b81e56f</link>
-			<title>[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[奶²&amp;LoliHouse] 陛下请忘记我吧 / Heika Watashi wo Wasurete Kudasai - 11 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][132.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6cb13a803bfafad1f17417f4291403568b81e56f</link>
-				<contentLength>138621744</contentLength>
-				<pubDate>2025-12-17T12:27:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="138621744" url="https://mikanani.me/Download/20251217/6cb13a803bfafad1f17417f4291403568b81e56f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/55a3fa6faa80d0a043531daafd673127c249989a</link>
 			<title>[LoliHouse] 废渊战鬼 / Gachiakuta / ガチアクタ - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2091,6 +2079,18 @@
 				<pubDate>2026-01-16T18:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="788109696" url="https://mikanani.me/Download/20260116/a08d4d5f7f6410be7f585563bede4b3cc9aec022.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 靠死亡游戏混饭吃。 / 以死亡游戏为生。 / 死亡游戯で饭を食う。 / Shibou Yuugi de Meshi wo Kuu. - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ea03501a8a6aedbaa4730484460b8e27f41f02d2</link>
+			<title>[SweetSub&amp;LoliHouse] 靠死亡游戏混饭吃。 / 以死亡游戏为生。 / 死亡游戯で饭を食う。 / Shibou Yuugi de Meshi wo Kuu. - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 靠死亡游戏混饭吃。 / 以死亡游戏为生。 / 死亡游戯で饭を食う。 / Shibou Yuugi de Meshi wo Kuu. - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][507MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ea03501a8a6aedbaa4730484460b8e27f41f02d2</link>
+				<contentLength>531628032</contentLength>
+				<pubDate>2026-01-16T20:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="531628032" url="https://mikanani.me/Download/20260116/ea03501a8a6aedbaa4730484460b8e27f41f02d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
