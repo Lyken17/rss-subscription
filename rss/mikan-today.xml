@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e60cb1759581743cf27ff176579966c549496caf</link>
+			<title>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)[1.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e60cb1759581743cf27ff176579966c549496caf</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2026-01-17T06:59:12.568061</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260117/e60cb1759581743cf27ff176579966c549496caf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/cb6000bae3bf14d12a2935ca1c7b41ad5a55cb20</link>
 			<title>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 14 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-16T00:31:04.658846</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="493564736" url="https://mikanani.me/Download/20260116/3c757e1661d762e782c8997e0c6251b7935dee44.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 咒术回战 死灭回游 前篇 / Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 50 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/cdb7a1ba709b5ed799eb070c4214a201aed4d75a</link>
-			<title>[黒ネズミたち] 咒术回战 死灭回游 前篇 / Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 50 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 咒术回战 死灭回游 前篇 / Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 50 (ABEMA 1920x1080 AVC AAC MP4)[719.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cdb7a1ba709b5ed799eb070c4214a201aed4d75a</link>
-				<contentLength>754345600</contentLength>
-				<pubDate>2026-01-16T00:30:50.047652</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="754345600" url="https://mikanani.me/Download/20260116/cdb7a1ba709b5ed799eb070c4214a201aed4d75a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

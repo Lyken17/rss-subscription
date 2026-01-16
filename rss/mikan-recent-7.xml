@@ -8080,5 +8080,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="566231040" url="https://mikanani.me/Download/20260117/e522498c9b0a77c726552d25cf01150a6a9758e8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e60cb1759581743cf27ff176579966c549496caf</link>
+			<title>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)[1.2 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e60cb1759581743cf27ff176579966c549496caf</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2026-01-17T06:59:12.568061</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260117/e60cb1759581743cf27ff176579966c549496caf.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
