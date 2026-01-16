@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cfe5a1554cd807389cbdd6e91fb7e240c6b8db34</link>
+			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cfe5a1554cd807389cbdd6e91fb7e240c6b8db34</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2026-01-16T13:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260116/cfe5a1554cd807389cbdd6e91fb7e240c6b8db34.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][02][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/ecd33299539110f3a92aa0648c8052bf11eec637</link>
 			<title>【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][02][1080p][简日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-15T02:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="654625984" url="https://mikanani.me/Download/20260115/ec8560024f090de870c2fae33c47762e56bcbfa4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 14 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ec5cd266270f3b0d67ee4ac36a47cbdca2ad84d8</link>
-			<title>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 14 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 龙族II 悼亡者之瞳（日配版） / Dragon Raja Season 2 (Japanese Audio) - 14 (ABEMA 1280x720 AVC AAC MP4)[367.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ec5cd266270f3b0d67ee4ac36a47cbdca2ad84d8</link>
-				<contentLength>385561408</contentLength>
-				<pubDate>2026-01-15T02:01:28.992484</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385561408" url="https://mikanani.me/Download/20260115/ec5cd266270f3b0d67ee4ac36a47cbdca2ad84d8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
