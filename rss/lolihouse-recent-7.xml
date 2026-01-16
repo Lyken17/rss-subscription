@@ -664,5 +664,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="565497024" url="https://mikanani.me/Download/20260116/fbee7025431e9f6cb9c8e477580cf73dd1af67f3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fc6be449602ac44d3174048b2cf2908310650815</link>
+			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][540MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fc6be449602ac44d3174048b2cf2908310650815</link>
+				<contentLength>566231040</contentLength>
+				<pubDate>2026-01-16T21:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="566231040" url="https://mikanani.me/Download/20260116/fc6be449602ac44d3174048b2cf2908310650815.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
