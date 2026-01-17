@@ -1024,5 +1024,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="170079024" url="https://mikanani.me/Download/20260117/ae425418bb3f1e3d393306ff6188dd3b0e1f1889.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 46 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/c5669a79d624ca8bf8123d01ed6f91d1991194a5</link>
+			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 46 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 46 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)[443.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5669a79d624ca8bf8123d01ed6f91d1991194a5</link>
+				<contentLength>465253184</contentLength>
+				<pubDate>2026-01-17T13:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="465253184" url="https://mikanani.me/Download/20260117/c5669a79d624ca8bf8123d01ed6f91d1991194a5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
