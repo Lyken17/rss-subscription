@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/549409d8ac0a5e07fd4482b69b458bc9c221a280</link>
+			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)[729.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/549409d8ac0a5e07fd4482b69b458bc9c221a280</link>
+				<contentLength>764726464</contentLength>
+				<pubDate>2026-01-17T10:00:38.035451</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="764726464" url="https://mikanani.me/Download/20260117/549409d8ac0a5e07fd4482b69b458bc9c221a280.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Ultraman Omega /  超人力霸王奥米加 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/3c3ae1e7da5d93159a4852f098e7f7a23b81eafb</link>
 			<title>[ANi] Ultraman Omega /  超人力霸王奥米加 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-16T01:00:55.299417</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="356096416" url="https://mikanani.me/Download/20260116/1288efb5c970eb01ce8704e677083d1b9d801735.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/53cf377357437bf73104e688c10432e01840ca23</link>
-			<title>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 01 (ABEMA 1920x1080 AVC AAC MP4)[687.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/53cf377357437bf73104e688c10432e01840ca23</link>
-				<contentLength>720686272</contentLength>
-				<pubDate>2026-01-16T01:00:50.593281</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="720686272" url="https://mikanani.me/Download/20260116/53cf377357437bf73104e688c10432e01840ca23.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
