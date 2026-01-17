@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 34 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ae425418bb3f1e3d393306ff6188dd3b0e1f1889</link>
+			<title>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 34 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 剑网3·沈剑心的365天 / The Man From Dao Xiang Cun - 34 (B-Global Donghua 4096x1716 HEVC AAC MKV)[162.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae425418bb3f1e3d393306ff6188dd3b0e1f1889</link>
+				<contentLength>170079024</contentLength>
+				<pubDate>2026-01-17T12:00:27.766568</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="170079024" url="https://mikanani.me/Download/20260117/ae425418bb3f1e3d393306ff6188dd3b0e1f1889.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/549409d8ac0a5e07fd4482b69b458bc9c221a280</link>
 			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-16T01:01:28.642456</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="356410976" url="https://mikanani.me/Download/20260116/18431a8390e7890a4adfd690bca428c070ed1aae.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终究，与你相恋。第二季 / Douse, Koishite Shimaunda. 2nd Season - 14 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/1288efb5c970eb01ce8704e677083d1b9d801735</link>
-			<title>[黒ネズミたち] 终究，与你相恋。第二季 / Douse, Koishite Shimaunda. 2nd Season - 14 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 终究，与你相恋。第二季 / Douse, Koishite Shimaunda. 2nd Season - 14 (Baha 1920x1080 AVC AAC MP4)[339.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1288efb5c970eb01ce8704e677083d1b9d801735</link>
-				<contentLength>356096416</contentLength>
-				<pubDate>2026-01-16T01:00:55.299417</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="356096416" url="https://mikanani.me/Download/20260116/1288efb5c970eb01ce8704e677083d1b9d801735.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
