@@ -628,5 +628,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="722783424" url="https://mikanani.me/Download/20260118/891544e6f5a170b65f533fa486c3a25df8c45a00.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/387348a0e52335869b42c045bb570b9c740f7486</link>
+			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][508.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/387348a0e52335869b42c045bb570b9c740f7486</link>
+				<contentLength>532781472</contentLength>
+				<pubDate>2026-01-19T00:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="532781472" url="https://mikanani.me/Download/20260119/387348a0e52335869b42c045bb570b9c740f7486.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
