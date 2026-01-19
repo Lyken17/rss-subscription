@@ -29440,5 +29440,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="158649552" url="https://mikanani.me/Download/20260120/9db20658a9e407776db165977b15b6bdd0a687d5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [01][1080p][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/069ccb30b78c5717a818c6a5a3297077e60ad9e5</link>
+			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [01][1080p][繁体内嵌]</title>
+			<description>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [01][1080p][繁体内嵌][344.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/069ccb30b78c5717a818c6a5a3297077e60ad9e5</link>
+				<contentLength>361024704</contentLength>
+				<pubDate>2026-01-20T03:06:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="361024704" url="https://mikanani.me/Download/20260120/069ccb30b78c5717a818c6a5a3297077e60ad9e5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [01][1080p][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/7b26c1efd5c764c515b776735e179cefe42084cb</link>
+			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [01][1080p][简体内嵌]</title>
+			<description>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [01][1080p][简体内嵌][344.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7b26c1efd5c764c515b776735e179cefe42084cb</link>
+				<contentLength>361024704</contentLength>
+				<pubDate>2026-01-20T03:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="361024704" url="https://mikanani.me/Download/20260120/7b26c1efd5c764c515b776735e179cefe42084cb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
