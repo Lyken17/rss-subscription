@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[❀拨雪寻春❀] 命运 - 奇异赝品 / Fate/strange Fake - 01 [WebRip][HEVC-10bit 1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/c5dcef26eac21b4183c5b4dbea7416e7b3d0e961</link>
+			<title>[❀拨雪寻春❀] 命运 - 奇异赝品 / Fate/strange Fake - 01 [WebRip][HEVC-10bit 1080p][简日内嵌]</title>
+			<description>[❀拨雪寻春❀] 命运 - 奇异赝品 / Fate/strange Fake - 01 [WebRip][HEVC-10bit 1080p][简日内嵌][346.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5dcef26eac21b4183c5b4dbea7416e7b3d0e961</link>
+				<contentLength>363017024</contentLength>
+				<pubDate>2026-01-19T19:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="363017024" url="https://mikanani.me/Download/20260119/c5dcef26eac21b4183c5b4dbea7416e7b3d0e961.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d01ed0ac06e8fdd8ab06eda89a1b71cb0e9f8601</link>
 			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-18T19:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="414397248" url="https://mikanani.me/Download/20260118/77dd6b11fb92ec8305e996073d434d89630da6f3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[NanakoRaws] 三千里寻母记.高清修复版.Haha wo Tazunete Sanzenri (HD Remastered) - 33日语.日文字幕 (FamiGeki 1920x1080 x265 AAC)</guid>
-			<link>https://mikanani.me/Home/Episode/3815eca3a7ae4ede22c442b75ab423fceab1fa6a</link>
-			<title>[NanakoRaws] 三千里寻母记.高清修复版.Haha wo Tazunete Sanzenri (HD Remastered) - 33日语.日文字幕 (FamiGeki 1920x1080 x265 AAC)</title>
-			<description>[NanakoRaws] 三千里寻母记.高清修复版.Haha wo Tazunete Sanzenri (HD Remastered) - 33日语.日文字幕 (FamiGeki 1920x1080 x265 AAC)[513.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3815eca3a7ae4ede22c442b75ab423fceab1fa6a</link>
-				<contentLength>538443776</contentLength>
-				<pubDate>2026-01-18T18:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="538443776" url="https://mikanani.me/Download/20260118/3815eca3a7ae4ede22c442b75ab423fceab1fa6a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
