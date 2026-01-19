@@ -2128,5 +2128,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="370776480" url="https://mikanani.me/Download/20260119/38d2e10bc5f7c021c0162bfcab2f22e51adfdde5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d01ed0ac06e8fdd8ab06eda89a1b71cb0e9f8601</link>
+			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][432.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d01ed0ac06e8fdd8ab06eda89a1b71cb0e9f8601</link>
+				<contentLength>453089696</contentLength>
+				<pubDate>2026-01-19T17:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="453089696" url="https://mikanani.me/Download/20260119/d01ed0ac06e8fdd8ab06eda89a1b71cb0e9f8601.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
