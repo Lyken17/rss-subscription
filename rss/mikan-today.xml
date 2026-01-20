@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/40729bc7a1492a109de9e2ffdc3095f5c4a69b73</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][286.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40729bc7a1492a109de9e2ffdc3095f5c4a69b73</link>
+				<contentLength>300731584</contentLength>
+				<pubDate>2026-01-20T07:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="300731584" url="https://mikanani.me/Download/20260120/40729bc7a1492a109de9e2ffdc3095f5c4a69b73.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[极彩花梦] 有栖川炼ってホントは女なんだよね。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][720P][WEB-DL][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/484b11215b9e11156b0d8ac67d4a9a82769905a8</link>
 			<title>[极彩花梦] 有栖川炼ってホントは女なんだよね。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][720P][WEB-DL][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-19T12:02:33.141759</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435893056" url="https://mikanani.me/Download/20260119/26584bc99cb807cd547173c90220731a1ecb1d64.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/40fcd5f97fe1cc883b29455f02f0adea16b2600a</link>
-			<title>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] To Your Eternity S03 /  给不灭的你 第三季 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][415.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/40fcd5f97fe1cc883b29455f02f0adea16b2600a</link>
-				<contentLength>435997888</contentLength>
-				<pubDate>2026-01-19T12:01:53.596389</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="435997888" url="https://mikanani.me/Download/20260119/40fcd5f97fe1cc883b29455f02f0adea16b2600a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
