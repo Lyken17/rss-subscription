@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4f09b1fda7a21a58e4f46f96a1d486c8233a0f53</link>
-			<title>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai  - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][536.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f09b1fda7a21a58e4f46f96a1d486c8233a0f53</link>
-				<contentLength>562980480</contentLength>
-				<pubDate>2025-12-21T09:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="562980480" url="https://mikanani.me/Download/20251221/4f09b1fda7a21a58e4f46f96a1d486c8233a0f53.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/aba672110f7bf10514bd307f1b7a469258bacc39</link>
 			<title>[LoliHouse] 末世二轮之旅 / 终末摩托游 / Shuumatsu Touring - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -2175,6 +2163,18 @@
 				<pubDate>2026-01-20T07:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="300731584" url="https://mikanani.me/Download/20260120/40729bc7a1492a109de9e2ffdc3095f5c4a69b73.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e480651abf17f8b61c32708ab12ffd715a23c9a6</link>
+			<title>[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][398.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e480651abf17f8b61c32708ab12ffd715a23c9a6</link>
+				<contentLength>417752672</contentLength>
+				<pubDate>2026-01-20T18:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="417752672" url="https://mikanani.me/Download/20260120/e480651abf17f8b61c32708ab12ffd715a23c9a6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
