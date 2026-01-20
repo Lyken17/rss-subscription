@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/d3d9ab541cf02093c491fc0874abc902fdaac736</link>
+			<title>六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文[265.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d3d9ab541cf02093c491fc0874abc902fdaac736</link>
+				<contentLength>278187200</contentLength>
+				<pubDate>2026-01-21T04:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="278187200" url="https://mikanani.me/Download/20260121/d3d9ab541cf02093c491fc0874abc902fdaac736.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [03][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c68d66b605d767dfd0463d49b610f80131c0821e</link>
 			<title>[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [03][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-20T14:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="499751328" url="https://mikanani.me/Download/20260120/2fccd094b776313ca2e1349c5deef8b85c41e1bb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[VCB-Studio] 山田君与七人魔女 / Yamada-kun to Nananin no Majo / 山田くんと7人の魔女 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/224bb8452b2dcb4f1234934ea8025e68b464b64b</link>
-			<title>[VCB-Studio] 山田君与七人魔女 / Yamada-kun to Nananin no Majo / 山田くんと7人の魔女 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
-			<description>[VCB-Studio] 山田君与七人魔女 / Yamada-kun to Nananin no Majo / 山田くんと7人の魔女 10-bit 1080p HEVC BDRip [Reseed Fin][9.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/224bb8452b2dcb4f1234934ea8025e68b464b64b</link>
-				<contentLength>10630043648</contentLength>
-				<pubDate>2026-01-20T13:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="10630043648" url="https://mikanani.me/Download/20260120/224bb8452b2dcb4f1234934ea8025e68b464b64b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
