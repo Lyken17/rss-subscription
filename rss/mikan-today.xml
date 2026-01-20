@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 山田君与七人魔女 / Yamada-kun to Nananin no Majo / 山田くんと7人の魔女 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/224bb8452b2dcb4f1234934ea8025e68b464b64b</link>
+			<title>[VCB-Studio] 山田君与七人魔女 / Yamada-kun to Nananin no Majo / 山田くんと7人の魔女 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
+			<description>[VCB-Studio] 山田君与七人魔女 / Yamada-kun to Nananin no Majo / 山田くんと7人の魔女 10-bit 1080p HEVC BDRip [Reseed Fin][9.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/224bb8452b2dcb4f1234934ea8025e68b464b64b</link>
+				<contentLength>10630043648</contentLength>
+				<pubDate>2026-01-20T13:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10630043648" url="https://mikanani.me/Download/20260120/224bb8452b2dcb4f1234934ea8025e68b464b64b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[对我垂涎欲滴的非人少女/想吃掉我的非人少女/Watashi wo Tabetai, Hitodenashi][12][1080p HEVC][CHT][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/275df200e827c29aa1f195b149506d981ea2ec5b</link>
 			<title>【悠哈璃羽字幕社】[对我垂涎欲滴的非人少女/想吃掉我的非人少女/Watashi wo Tabetai, Hitodenashi][12][1080p HEVC][CHT][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-19T16:15:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="495347296" url="https://mikanani.me/Download/20260119/fcc1c0fb466329845fef5d0055a1a85e66b93fcf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1515]小丸子忘了带室内鞋&amp;藤木的冬天[2026.01.18][BIG5][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/a9c0fdf7f45e8ccb6a9004eb6da4629554c6f674</link>
-			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1515]小丸子忘了带室内鞋&amp;藤木的冬天[2026.01.18][BIG5][1080P][MP4]</title>
-			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1515]小丸子忘了带室内鞋&amp;藤木的冬天[2026.01.18][BIG5][1080P][MP4][220.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a9c0fdf7f45e8ccb6a9004eb6da4629554c6f674</link>
-				<contentLength>231630432</contentLength>
-				<pubDate>2026-01-19T15:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="231630432" url="https://mikanani.me/Download/20260119/a9c0fdf7f45e8ccb6a9004eb6da4629554c6f674.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
