@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 青之壬生浪 -芹泽暗杀篇- - 03-04 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4b04f283923b6c10a9ef569f7ad742bde6f69967</link>
+			<title>[沸班亚马制作组] 青之壬生浪 -芹泽暗杀篇- - 03-04 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 青之壬生浪 -芹泽暗杀篇- - 03-04 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b04f283923b6c10a9ef569f7ad742bde6f69967</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2026-01-22T16:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260122/4b04f283923b6c10a9ef569f7ad742bde6f69967.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)</guid>
 			<link>https://mikanani.me/Home/Episode/e98373b1c0f8dbc132d27aa8b613d21864581e0c</link>
 			<title>[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-21T15:43:24.3238</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="309120192" url="https://mikanani.me/Download/20260121/a6388d47521031ac81401e754235ba5b5f58f83a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/6a7453a20117d0509ae3e3ec8252da26f18a9133</link>
-			<title>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
-			<description>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Reseed Fin][15.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a7453a20117d0509ae3e3ec8252da26f18a9133</link>
-				<contentLength>16535623680</contentLength>
-				<pubDate>2026-01-21T12:58:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16535623680" url="https://mikanani.me/Download/20260121/6a7453a20117d0509ae3e3ec8252da26f18a9133.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

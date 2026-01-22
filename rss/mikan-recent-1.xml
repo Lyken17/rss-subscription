@@ -1240,5 +1240,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20260122/e98373b1c0f8dbc132d27aa8b613d21864581e0c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 青之壬生浪 -芹泽暗杀篇- - 03-04 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4b04f283923b6c10a9ef569f7ad742bde6f69967</link>
+			<title>[沸班亚马制作组] 青之壬生浪 -芹泽暗杀篇- - 03-04 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 青之壬生浪 -芹泽暗杀篇- - 03-04 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b04f283923b6c10a9ef569f7ad742bde6f69967</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2026-01-22T16:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260122/4b04f283923b6c10a9ef569f7ad742bde6f69967.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
