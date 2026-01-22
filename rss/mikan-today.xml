@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">忍者和极道.Ninja.Vs.Gokudo</guid>
+			<link>https://mikanani.me/Home/Episode/954e8eab9b69fc871291a511df9c7ced0fce57f8</link>
+			<title>忍者和极道.Ninja.Vs.Gokudo</title>
+			<description>忍者和极道.Ninja.Vs.Gokudo[3.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/954e8eab9b69fc871291a511df9c7ced0fce57f8</link>
+				<contentLength>3328599552</contentLength>
+				<pubDate>2026-01-23T04:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20260123/954e8eab9b69fc871291a511df9c7ced0fce57f8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 靠死亡游戏混饭吃 - 03 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a0179bd9ea27935428e1592bd3b94f2804cf00af</link>
 			<title>[沸班亚马制作组] 靠死亡游戏混饭吃 - 03 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-22T13:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="676016960" url="https://mikanani.me/Download/20260122/99a009a7d9e0c29462e0c5671327de8dbfa16b6c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★03★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/26f326ba0c981024bb1eb464c56797d5361f6fdc</link>
-			<title>SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★03★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★03★1920x1080★AVC AAC MP4★繁体中文[371.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/26f326ba0c981024bb1eb464c56797d5361f6fdc</link>
-				<contentLength>389650848</contentLength>
-				<pubDate>2026-01-22T13:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="389650848" url="https://mikanani.me/Download/20260122/26f326ba0c981024bb1eb464c56797d5361f6fdc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

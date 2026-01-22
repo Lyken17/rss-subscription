@@ -9232,5 +9232,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="160953892864" url="https://mikanani.me/Download/20260123/77a369dd56b4a28d5dc4ec8576b928fb7b74377c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">忍者和极道.Ninja.Vs.Gokudo</guid>
+			<link>https://mikanani.me/Home/Episode/954e8eab9b69fc871291a511df9c7ced0fce57f8</link>
+			<title>忍者和极道.Ninja.Vs.Gokudo</title>
+			<description>忍者和极道.Ninja.Vs.Gokudo[3.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/954e8eab9b69fc871291a511df9c7ced0fce57f8</link>
+				<contentLength>3328599552</contentLength>
+				<pubDate>2026-01-23T04:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20260123/954e8eab9b69fc871291a511df9c7ced0fce57f8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
