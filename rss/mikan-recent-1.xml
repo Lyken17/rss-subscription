@@ -41,30 +41,6 @@
 			<enclosure type="application/x-bittorrent" length="896217920" url="https://mikanani.me/Download/20260121/1676e1868d2d54926b53263ca3d7bd10da31bcd0.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ - 15 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/74c92316768a5ac0b426918070472e7ba6074670</link>
-			<title>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ - 15 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ - 15 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][559.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74c92316768a5ac0b426918070472e7ba6074670</link>
-				<contentLength>586678272</contentLength>
-				<pubDate>2026-01-21T08:01:42.53766</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="586678272" url="https://mikanani.me/Download/20260121/74c92316768a5ac0b426918070472e7ba6074670.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 15 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2051d5af7e34da8c4cacd532f3aa073cf4671c6b</link>
-			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 15 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 15 (Baha 1920x1080 AVC AAC MP4)[559.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2051d5af7e34da8c4cacd532f3aa073cf4671c6b</link>
-				<contentLength>586153984</contentLength>
-				<pubDate>2026-01-21T08:01:04.567335</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="586153984" url="https://mikanani.me/Download/20260121/2051d5af7e34da8c4cacd532f3aa073cf4671c6b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/6dfbb1ae993920cbc3cf139bfeb5352f903b78b6</link>
 			<title>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1251,6 +1227,18 @@
 				<pubDate>2026-01-22T14:48:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="224814688" url="https://mikanani.me/Download/20260122/4d8de3526fa85d1a9788d6e58330cb67ee4942a1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)</guid>
+			<link>https://mikanani.me/Home/Episode/e98373b1c0f8dbc132d27aa8b613d21864581e0c</link>
+			<title>[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)</title>
+			<description>[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)[11.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e98373b1c0f8dbc132d27aa8b613d21864581e0c</link>
+				<contentLength>12025908224</contentLength>
+				<pubDate>2026-01-22T16:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20260122/e98373b1c0f8dbc132d27aa8b613d21864581e0c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

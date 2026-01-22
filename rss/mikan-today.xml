@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)</guid>
+			<link>https://mikanani.me/Home/Episode/e98373b1c0f8dbc132d27aa8b613d21864581e0c</link>
+			<title>[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)</title>
+			<description>[DBD-Raws][剧场版 小林家的龙女仆 怕寂寞的龙/Eiga Kobayashi-san Chi no Maidragon Samishigariya no Ryuu][正片+特典映像][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC+DTS][MKV](映画 小林さんちのメイドラゴン さみしがりやの竜)[11.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e98373b1c0f8dbc132d27aa8b613d21864581e0c</link>
+				<contentLength>12025908224</contentLength>
+				<pubDate>2026-01-22T16:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12025908224" url="https://mikanani.me/Download/20260122/e98373b1c0f8dbc132d27aa8b613d21864581e0c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][03][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</guid>
 			<link>https://mikanani.me/Home/Episode/6e8cc458b39cf9e8fdf8f47b98d376f321e8c5fb</link>
 			<title>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][03][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-21T12:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="16535623680" url="https://mikanani.me/Download/20260121/6a7453a20117d0509ae3e3ec8252da26f18a9133.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6dfbb1ae993920cbc3cf139bfeb5352f903b78b6</link>
-			<title>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 仙帝归来 / Back as Immortal Lord - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)[701.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6dfbb1ae993920cbc3cf139bfeb5352f903b78b6</link>
-				<contentLength>735785792</contentLength>
-				<pubDate>2026-01-21T11:01:05.744807</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="735785792" url="https://mikanani.me/Download/20260121/6dfbb1ae993920cbc3cf139bfeb5352f903b78b6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
