@@ -2164,5 +2164,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="515689664" url="https://mikanani.me/Download/20260122/4ac814b4d2a0e0225042085419669432355c41d1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6fe7d68ac041c7996b8b3f398c763139684513b4</link>
+			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][588.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6fe7d68ac041c7996b8b3f398c763139684513b4</link>
+				<contentLength>617191808</contentLength>
+				<pubDate>2026-01-22T21:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="617191808" url="https://mikanani.me/Download/20260122/6fe7d68ac041c7996b8b3f398c763139684513b4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
