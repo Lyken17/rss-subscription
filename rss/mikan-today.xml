@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★03★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/26f326ba0c981024bb1eb464c56797d5361f6fdc</link>
+			<title>SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★03★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★03★1920x1080★AVC AAC MP4★繁体中文[371.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26f326ba0c981024bb1eb464c56797d5361f6fdc</link>
+				<contentLength>389650848</contentLength>
+				<pubDate>2026-01-22T13:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="389650848" url="https://mikanani.me/Download/20260122/26f326ba0c981024bb1eb464c56797d5361f6fdc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/638a80dfcc7e2db2533677160eb9320d1d7898ff</link>
 			<title>[LoliHouse] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-21T06:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="185597952" url="https://mikanani.me/Download/20260121/2590a9592eda4ed7e8ba58081e7c998093f68677.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/d3d9ab541cf02093c491fc0874abc902fdaac736</link>
-			<title>六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文[265.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d3d9ab541cf02093c491fc0874abc902fdaac736</link>
-				<contentLength>278187200</contentLength>
-				<pubDate>2026-01-21T04:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="278187200" url="https://mikanani.me/Download/20260121/d3d9ab541cf02093c491fc0874abc902fdaac736.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
