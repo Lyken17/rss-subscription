@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 03 HEVC 1080P 简繁日三语 MKV</guid>
+			<link>https://mikanani.me/Home/Episode/e1338125c336e7b79d4cf31248c6243c133628aa</link>
+			<title>[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 03 HEVC 1080P 简繁日三语 MKV</title>
+			<description>[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 03 HEVC 1080P 简繁日三语 MKV[299.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e1338125c336e7b79d4cf31248c6243c133628aa</link>
+				<contentLength>314258240</contentLength>
+				<pubDate>2026-01-22T09:36:24.364114</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="314258240" url="https://mikanani.me/Download/20260122/e1338125c336e7b79d4cf31248c6243c133628aa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[漫猫字幕社][1月新番][命运-奇异赝品][Fate strange Fake][03][1080P][MP4][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/68ebe33a7024a0f2b6004e15e16fb4a11d7a343d</link>
 			<title>[漫猫字幕社][1月新番][命运-奇异赝品][Fate strange Fake][03][1080P][MP4][繁日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-01-21T02:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="464414304" url="https://mikanani.me/Download/20260121/00b33c52f5ecefb0d877ba1a0cffa1c6ed34ba84.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） 〜再次闪耀！〜 / Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri！（Muri ja Nakatta！？） ~Next Shine~ [17][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/5bf2fc6b96e0ac038ade0cfaf335686152be6be2</link>
-			<title>[桜都字幕组] 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） 〜再次闪耀！〜 / Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri！（Muri ja Nakatta！？） ~Next Shine~ [17][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） 〜再次闪耀！〜 / Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri！（Muri ja Nakatta！？） ~Next Shine~ [17][1080p][简体内嵌][734.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5bf2fc6b96e0ac038ade0cfaf335686152be6be2</link>
-				<contentLength>770493632</contentLength>
-				<pubDate>2026-01-21T02:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="770493632" url="https://mikanani.me/Download/20260121/5bf2fc6b96e0ac038ade0cfaf335686152be6be2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
