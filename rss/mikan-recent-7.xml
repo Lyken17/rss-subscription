@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e60cb1759581743cf27ff176579966c549496caf</link>
-			<title>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 03 (CR 2600x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e60cb1759581743cf27ff176579966c549496caf</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2026-01-17T06:59:12.568061</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260117/e60cb1759581743cf27ff176579966c549496caf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Ultraman Omega /  超人力霸王奥米加 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/3c3ae1e7da5d93159a4852f098e7f7a23b81eafb</link>
 			<title>[ANi] Ultraman Omega /  超人力霸王奥米加 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -8751,6 +8739,18 @@
 				<pubDate>2026-01-24T14:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459276288" url="https://mikanani.me/Download/20260124/486cdddaf93e99a33b0ac487ee7130cee6ccf8c7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[云光字幕组] 他国日记 异国日记 Ikoku Nikki [02][简体双语][1080p]招募翻译</guid>
+			<link>https://mikanani.me/Home/Episode/5d09eb1eb704b3aeccf9221a852c0624fd3ebfc3</link>
+			<title>[云光字幕组] 他国日记 异国日记 Ikoku Nikki [02][简体双语][1080p]招募翻译</title>
+			<description>[云光字幕组] 他国日记 异国日记 Ikoku Nikki [02][简体双语][1080p]招募翻译[223.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5d09eb1eb704b3aeccf9221a852c0624fd3ebfc3</link>
+				<contentLength>234147024</contentLength>
+				<pubDate>2026-01-24T14:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="234147024" url="https://mikanani.me/Download/20260124/5d09eb1eb704b3aeccf9221a852c0624fd3ebfc3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
