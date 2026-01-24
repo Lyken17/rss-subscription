@@ -640,5 +640,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459905440" url="https://mikanani.me/Download/20260124/02c0749d188d48422c7a8dd4570a1d9107375ae4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/82a725572da477d166eac865a8134085f1f465bc</link>
+			<title>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][603.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/82a725572da477d166eac865a8134085f1f465bc</link>
+				<contentLength>633025344</contentLength>
+				<pubDate>2026-01-24T15:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="633025344" url="https://mikanani.me/Download/20260124/82a725572da477d166eac865a8134085f1f465bc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
