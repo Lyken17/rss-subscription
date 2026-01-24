@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a</link>
-			<title>[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin]</title>
-			<description>[VCB-Studio] 机动战舰抚子号 / Martian Successor NADESICO / 机动戦舰ナデシコ 10-bit 1080p AVC BDRip [TV + OVA + MOVIE Fin][64.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a</link>
-				<contentLength>69685846016</contentLength>
-				<pubDate>2025-12-25T11:49:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="69685846016" url="https://mikanani.me/Download/20251225/2eb31fdcaf8b30caaf8e519d345b4ff7543e986a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[7³ACG] 小市民系列/小市民シリーズ/Shoushimin Series S01 | 01-22 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/b7841bf880311897cc4605f54ed1163006f08186</link>
 			<title>[7³ACG] 小市民系列/小市民シリーズ/Shoushimin Series S01 | 01-22 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -29883,6 +29871,18 @@
 				<pubDate>2026-01-24T18:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="394264576" url="https://mikanani.me/Download/20260124/26fe9ce8b4c8bb316003843fa2e1d0b78351595c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1190 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d6b87a1b68742c779b0f85a4c81fb7769f7480e8</link>
+			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1190 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1190 (CR 1920x1080 AVC AAC MKV)[572.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d6b87a1b68742c779b0f85a4c81fb7769f7480e8</link>
+				<contentLength>600309760</contentLength>
+				<pubDate>2026-01-24T20:32:10.041191</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="600309760" url="https://mikanani.me/Download/20260124/d6b87a1b68742c779b0f85a4c81fb7769f7480e8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
