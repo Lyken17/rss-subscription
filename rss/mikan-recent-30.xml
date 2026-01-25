@@ -30340,5 +30340,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5690831872" url="https://mikanani.me/Download/20260125/fbf2bbddd36b8015379f3fddda4687184c2d1ff7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/9b2bd6836d9fc66bd5f85c46025223b2da4240af</link>
+			<title>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封]</title>
+			<description>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封][243.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9b2bd6836d9fc66bd5f85c46025223b2da4240af</link>
+				<contentLength>255118544</contentLength>
+				<pubDate>2026-01-25T19:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="255118544" url="https://mikanani.me/Download/20260125/9b2bd6836d9fc66bd5f85c46025223b2da4240af.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
