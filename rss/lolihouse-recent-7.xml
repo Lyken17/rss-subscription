@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 38 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
-			<link>https://mikanani.me/Home/Episode/8e4e197ed7948218ecb37681a7bfa7ed40376c5f</link>
-			<title>[LoliHouse] Princess-Session Orchestra - 38 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
-			<description>[LoliHouse] Princess-Session Orchestra - 38 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[591.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8e4e197ed7948218ecb37681a7bfa7ed40376c5f</link>
-				<contentLength>620127872</contentLength>
-				<pubDate>2026-01-18T17:52:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="620127872" url="https://mikanani.me/Download/20260118/8e4e197ed7948218ecb37681a7bfa7ed40376c5f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e5bdb078cdf85814839091a0f5ebf1c990b4033b</link>
-			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][569.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e5bdb078cdf85814839091a0f5ebf1c990b4033b</link>
-				<contentLength>596954304</contentLength>
-				<pubDate>2026-01-18T17:36:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="596954304" url="https://mikanani.me/Download/20260118/e5bdb078cdf85814839091a0f5ebf1c990b4033b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/387348a0e52335869b42c045bb570b9c740f7486</link>
 			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -711,6 +687,18 @@
 				<pubDate>2026-01-26T00:19:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518940256" url="https://mikanani.me/Download/20260126/fcf05ec969bac8ec69b2efc473f4d5c14e6c0afd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/516b786be2fd0039026463b0b0066b9a35f81258</link>
+			<title>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][292.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/516b786be2fd0039026463b0b0066b9a35f81258</link>
+				<contentLength>307023040</contentLength>
+				<pubDate>2026-01-26T02:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="307023040" url="https://mikanani.me/Download/20260126/516b786be2fd0039026463b0b0066b9a35f81258.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
