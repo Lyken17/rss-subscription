@@ -2260,5 +2260,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="468818336" url="https://mikanani.me/Download/20260126/bb41794486c215222bb3e4fe8d53b4b8af3f0cc3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 地狱乐 / Jigokuraku - 16 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7c22c6b22122fd4d97fbb35c255855cfd0a9816e</link>
+			<title>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 地狱乐 / Jigokuraku - 16 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 地狱乐 / Jigokuraku - 16 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][811MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7c22c6b22122fd4d97fbb35c255855cfd0a9816e</link>
+				<contentLength>850395136</contentLength>
+				<pubDate>2026-01-26T22:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="850395136" url="https://mikanani.me/Download/20260126/7c22c6b22122fd4d97fbb35c255855cfd0a9816e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3 - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f89cfe666f48bebed1ffe7af539904d2928dc1e0</link>
+			<title>[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3 - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3 - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][453.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f89cfe666f48bebed1ffe7af539904d2928dc1e0</link>
+				<contentLength>475948640</contentLength>
+				<pubDate>2026-01-26T22:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="475948640" url="https://mikanani.me/Download/20260126/f89cfe666f48bebed1ffe7af539904d2928dc1e0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
