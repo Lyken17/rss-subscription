@@ -8860,5 +8860,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725090304" url="https://mikanani.me/Download/20260128/8fb94494c5c69b9bac03198b22e5c9afb1eb86f0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
+			<title>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)[125.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
+				<contentLength>131596288</contentLength>
+				<pubDate>2026-01-28T02:40:24.545196</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131596288" url="https://mikanani.me/Download/20260128/1cac1ff8d9bde12602311005c53449d9378e9a43.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

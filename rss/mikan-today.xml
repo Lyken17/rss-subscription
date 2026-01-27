@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
+			<title>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)[125.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
+				<contentLength>131596288</contentLength>
+				<pubDate>2026-01-28T02:40:24.545196</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131596288" url="https://mikanani.me/Download/20260128/1cac1ff8d9bde12602311005c53449d9378e9a43.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/dba7ac25bd83b4e29020213b6899e685b0b592e7</link>
 			<title>[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-27T00:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="413663232" url="https://mikanani.me/Download/20260127/63a0419c3b8b8865111837f59f3b9bfb7cc79817.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 15 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/fba3fdbcd5622a4d620b5e685fced7792a1b5fb0</link>
-			<title>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 15 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 15 (CR 1920x1080 AVC AAC MKV)[844.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fba3fdbcd5622a4d620b5e685fced7792a1b5fb0</link>
-				<contentLength>885627264</contentLength>
-				<pubDate>2026-01-27T00:02:38.430244</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="885627264" url="https://mikanani.me/Download/20260127/fba3fdbcd5622a4d620b5e685fced7792a1b5fb0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

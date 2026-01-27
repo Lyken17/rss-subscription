@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[H-Enc] 公主代理人 Crown Handler 第3章 / Princess Principal Crown Handler Chapter 3 (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/911068b247da2f78d6b3856b59b078f4c0fba34f</link>
-			<title>[H-Enc] 公主代理人 Crown Handler 第3章 / Princess Principal Crown Handler Chapter 3 (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 公主代理人 Crown Handler 第3章 / Princess Principal Crown Handler Chapter 3 (BDRip 1080p HEVC FLAC)[6.9 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/911068b247da2f78d6b3856b59b078f4c0fba34f</link>
-				<contentLength>7408818688</contentLength>
-				<pubDate>2026-01-26T18:48:48.334739</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7408818688" url="https://mikanani.me/Download/20260126/911068b247da2f78d6b3856b59b078f4c0fba34f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [25][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/d926d84241e9cde514f91be44c1852b20732ca0d</link>
 			<title>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [25][WebRip][1080p][繁日内嵌]</title>
@@ -1575,6 +1563,18 @@
 				<pubDate>2026-01-28T01:30:35.572161</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725090304" url="https://mikanani.me/Download/20260128/8fb94494c5c69b9bac03198b22e5c9afb1eb86f0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
+			<title>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)[125.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
+				<contentLength>131596288</contentLength>
+				<pubDate>2026-01-28T02:40:24.545196</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="131596288" url="https://mikanani.me/Download/20260128/1cac1ff8d9bde12602311005c53449d9378e9a43.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
