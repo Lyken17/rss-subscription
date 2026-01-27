@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][16][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/4e6052a450538685ee7799ffac92db7ed538ebed</link>
-			<title>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][16][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][16][简体][1080P][MP4][547.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4e6052a450538685ee7799ffac92db7ed538ebed</link>
-				<contentLength>573675904</contentLength>
-				<pubDate>2026-01-26T06:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="573675904" url="https://mikanani.me/Download/20260126/4e6052a450538685ee7799ffac92db7ed538ebed.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][16][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/61163220a633463636d88c7849fcd0ec60a229ed</link>
-			<title>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][16][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][16][繁体][1080P][MP4][547.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/61163220a633463636d88c7849fcd0ec60a229ed</link>
-				<contentLength>573780800</contentLength>
-				<pubDate>2026-01-26T06:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="573780800" url="https://mikanani.me/Download/20260126/61163220a633463636d88c7849fcd0ec60a229ed.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 121 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/9e6b159ae4de0f7c10f11b36f6bdfb067c8dfc36</link>
 			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 121 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1215,6 +1191,18 @@
 				<pubDate>2026-01-27T12:28:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="590453120" url="https://mikanani.me/Download/20260127/d8f6cb15e0b5728db015b14eb68afd8c5e1daa53.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8feb7df02382ccd655c462a0b39d1250405c6694</link>
+			<title>[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][464.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8feb7df02382ccd655c462a0b39d1250405c6694</link>
+				<contentLength>486958688</contentLength>
+				<pubDate>2026-01-27T15:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="486958688" url="https://mikanani.me/Download/20260127/8feb7df02382ccd655c462a0b39d1250405c6694.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
