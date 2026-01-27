@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 午夜的倾心旋律 - 04 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d04657d8e20cffc70c061a6050248b2e23c3c2d4</link>
+			<title>[沸班亚马制作组] 午夜的倾心旋律 - 04 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 午夜的倾心旋律 - 04 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][630.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d04657d8e20cffc70c061a6050248b2e23c3c2d4</link>
+				<contentLength>660917440</contentLength>
+				<pubDate>2026-01-28T07:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="660917440" url="https://mikanani.me/Download/20260128/d04657d8e20cffc70c061a6050248b2e23c3c2d4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1cac1ff8d9bde12602311005c53449d9378e9a43</link>
 			<title>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 05 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-27T00:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="20615843840" url="https://mikanani.me/Download/20260127/22ef233c13d8f13ecd909ca049295dfc4f77205e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 53 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/63a0419c3b8b8865111837f59f3b9bfb7cc79817</link>
-			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 53 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 53 [WebRip 1080p HEVC-10bit AAC][无字幕][394.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/63a0419c3b8b8865111837f59f3b9bfb7cc79817</link>
-				<contentLength>413663232</contentLength>
-				<pubDate>2026-01-27T00:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="413663232" url="https://mikanani.me/Download/20260127/63a0419c3b8b8865111837f59f3b9bfb7cc79817.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
