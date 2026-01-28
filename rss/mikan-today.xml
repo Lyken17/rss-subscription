@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活 第二季 （日配版） / The Daily Life of the Immortal King 2 (JP Dub) - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5ed3390f84dfc0025eed36c4a8d1c52a43ed186e</link>
+			<title>[黒ネズミたち] 仙王的日常生活 第二季 （日配版） / The Daily Life of the Immortal King 2 (JP Dub) - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 仙王的日常生活 第二季 （日配版） / The Daily Life of the Immortal King 2 (JP Dub) - 03 (ABEMA 1920x1080 AVC AAC MP4)[569.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ed3390f84dfc0025eed36c4a8d1c52a43ed186e</link>
+				<contentLength>596744576</contentLength>
+				<pubDate>2026-01-28T21:55:34.69399</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="596744576" url="https://mikanani.me/Download/20260128/5ed3390f84dfc0025eed36c4a8d1c52a43ed186e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 萌妻食神之再结良缘（日配版） / Cinderella Chef 2nd Season (Japanese Dub) - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/3efcb3fe3245605a163da21564cd18dd163b4794</link>
 			<title>[黒ネズミたち] 萌妻食神之再结良缘（日配版） / Cinderella Chef 2nd Season (Japanese Dub) - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-27T11:01:02.569677</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518101408" url="https://mikanani.me/Download/20260127/9a644b90f17845bef783129157c960d986c67c27.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/79d89ddc052ce1b32978a94b787e8405440de760</link>
-			<title>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][300MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/79d89ddc052ce1b32978a94b787e8405440de760</link>
-				<contentLength>314572800</contentLength>
-				<pubDate>2026-01-27T10:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="314572800" url="https://mikanani.me/Download/20260127/79d89ddc052ce1b32978a94b787e8405440de760.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
