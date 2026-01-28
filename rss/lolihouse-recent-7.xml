@@ -652,5 +652,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="942460096" url="https://mikanani.me/Download/20260128/4001217b9cf9c9963ab7a3a37436cd5f08bcb55f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c9357c57ead14f386d206b94d3af0a67e7430b59</link>
+			<title>[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][270.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c9357c57ead14f386d206b94d3af0a67e7430b59</link>
+				<contentLength>284059232</contentLength>
+				<pubDate>2026-01-28T20:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="284059232" url="https://mikanani.me/Download/20260128/c9357c57ead14f386d206b94d3af0a67e7430b59.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

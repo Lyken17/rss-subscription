@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</guid>
-			<link>https://mikanani.me/Home/Episode/d8f6cb15e0b5728db015b14eb68afd8c5e1daa53</link>
-			<title>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</title>
-			<description>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)[563.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d8f6cb15e0b5728db015b14eb68afd8c5e1daa53</link>
-				<contentLength>590453120</contentLength>
-				<pubDate>2026-01-27T12:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="590453120" url="https://mikanani.me/Download/20260127/d8f6cb15e0b5728db015b14eb68afd8c5e1daa53.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8feb7df02382ccd655c462a0b39d1250405c6694</link>
 			<title>[LoliHouse] 和青梅竹马之间不会有恋爱喜剧 / 青梅竹马的恋爱喜剧无法成立 / 幼驯染とはラブコメにならない / osalove - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1047,6 +1035,18 @@
 				<pubDate>2026-01-28T18:37:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="370671616" url="https://mikanani.me/Download/20260128/67390d88aabd4c8b172c7e5ea2ada692ac2574c4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c9357c57ead14f386d206b94d3af0a67e7430b59</link>
+			<title>[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][270.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c9357c57ead14f386d206b94d3af0a67e7430b59</link>
+				<contentLength>284059232</contentLength>
+				<pubDate>2026-01-28T20:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="284059232" url="https://mikanani.me/Download/20260128/c9357c57ead14f386d206b94d3af0a67e7430b59.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
