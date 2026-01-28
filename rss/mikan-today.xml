@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 50 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/08389f6c9727cdb365509c406a3e9edf0b163cc5</link>
+			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 50 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 50 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)[522.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/08389f6c9727cdb365509c406a3e9edf0b163cc5</link>
+				<contentLength>547671232</contentLength>
+				<pubDate>2026-01-28T14:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547671232" url="https://mikanani.me/Download/20260128/08389f6c9727cdb365509c406a3e9edf0b163cc5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][39][简繁外挂]</guid>
 			<link>https://mikanani.me/Home/Episode/96cd86c533248947c3b8b0ac3498a1093328625e</link>
 			<title>[雪飘工作室][公主协奏管弦乐/Princession_Orchestra/プリンセッション・オーケストラ][39][简繁外挂]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-27T01:00:19.107958</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="126877696" url="https://mikanani.me/Download/20260127/01da72c19d5ee97533627c0fe9879e9c35aaf3a2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][03][WebRip][1080P][AVC 8bit][繁日双语]（检索用：相反的你和我）</guid>
-			<link>https://mikanani.me/Home/Episode/f726024313cbae52b4fa759171b056efc8fab309</link>
-			<title>[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][03][WebRip][1080P][AVC 8bit][繁日双语]（检索用：相反的你和我）</title>
-			<description>[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][03][WebRip][1080P][AVC 8bit][繁日双语]（检索用：相反的你和我）[268.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f726024313cbae52b4fa759171b056efc8fab309</link>
-				<contentLength>281332928</contentLength>
-				<pubDate>2026-01-27T01:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="281332928" url="https://mikanani.me/Download/20260127/f726024313cbae52b4fa759171b056efc8fab309.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
