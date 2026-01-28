@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 【我推的孩子】 第三季 - 03 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a3939b9629c89ff8f6526d75d05b16fadafee147</link>
+			<title>[沸班亚马制作组] 【我推的孩子】 第三季 - 03 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 【我推的孩子】 第三季 - 03 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][724.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3939b9629c89ff8f6526d75d05b16fadafee147</link>
+				<contentLength>759903040</contentLength>
+				<pubDate>2026-01-29T02:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="759903040" url="https://mikanani.me/Download/20260129/a3939b9629c89ff8f6526d75d05b16fadafee147.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 03 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/0c7d3365a1f3697f3172f97270b5e5b522645dd3</link>
+			<title>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 03 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 03 [1080p][简日内嵌][304.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c7d3365a1f3697f3172f97270b5e5b522645dd3</link>
+				<contentLength>318976832</contentLength>
+				<pubDate>2026-01-29T02:57:48.966386</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="318976832" url="https://mikanani.me/Download/20260129/0c7d3365a1f3697f3172f97270b5e5b522645dd3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/e4cc4be29dc892ae73c3fdf097479ae4334dad4f</link>
 			<title>[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2026-01-28T00:01:28.633375</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="586258816" url="https://mikanani.me/Download/20260128/edcce56697f1f01817d1c6a1369d118a358a4dc1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">达尔文事变「ダーウィン事変」The Darwin Incident S01E04 1080p 日英双语-多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/fd8fa87e59d1137409f44b182b9d3c8a185daba5</link>
-			<title>达尔文事变「ダーウィン事変」The Darwin Incident S01E04 1080p 日英双语-多国字幕</title>
-			<description>达尔文事变「ダーウィン事変」The Darwin Incident S01E04 1080p 日英双语-多国字幕[939.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fd8fa87e59d1137409f44b182b9d3c8a185daba5</link>
-				<contentLength>985346880</contentLength>
-				<pubDate>2026-01-27T23:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="985346880" url="https://mikanani.me/Download/20260127/fd8fa87e59d1137409f44b182b9d3c8a185daba5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] GANGLION / Ganglion - 15 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/22f6cfc1670a0fe5b78db29bba42f0197d039f22</link>
-			<title>[黒ネズミたち] GANGLION / Ganglion - 15 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] GANGLION / Ganglion - 15 (ABEMA 1920x1080 AVC AAC MP4)[91.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/22f6cfc1670a0fe5b78db29bba42f0197d039f22</link>
-				<contentLength>95420416</contentLength>
-				<pubDate>2026-01-27T23:35:17.476256</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="95420416" url="https://mikanani.me/Download/20260127/22f6cfc1670a0fe5b78db29bba42f0197d039f22.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

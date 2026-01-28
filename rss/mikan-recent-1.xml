@@ -1624,5 +1624,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="27996980" url="https://mikanani.me/Download/20260129/8affc5d04dac7aac99d8417c9e302e649d195c5d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 【我推的孩子】 第三季 - 03 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a3939b9629c89ff8f6526d75d05b16fadafee147</link>
+			<title>[沸班亚马制作组] 【我推的孩子】 第三季 - 03 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 【我推的孩子】 第三季 - 03 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][724.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3939b9629c89ff8f6526d75d05b16fadafee147</link>
+				<contentLength>759903040</contentLength>
+				<pubDate>2026-01-29T02:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="759903040" url="https://mikanani.me/Download/20260129/a3939b9629c89ff8f6526d75d05b16fadafee147.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 03 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/0c7d3365a1f3697f3172f97270b5e5b522645dd3</link>
+			<title>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 03 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 03 [1080p][简日内嵌][304.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0c7d3365a1f3697f3172f97270b5e5b522645dd3</link>
+				<contentLength>318976832</contentLength>
+				<pubDate>2026-01-29T02:57:48.966386</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="318976832" url="https://mikanani.me/Download/20260129/0c7d3365a1f3697f3172f97270b5e5b522645dd3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
