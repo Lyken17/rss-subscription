@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][03][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯</guid>
+			<link>https://mikanani.me/Home/Episode/d54adce4e856725565b8328b510b69634a06e01b</link>
+			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][03][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯</title>
+			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][03][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯[484.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d54adce4e856725565b8328b510b69634a06e01b</link>
+				<contentLength>507825344</contentLength>
+				<pubDate>2026-01-28T17:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="507825344" url="https://mikanani.me/Download/20260128/d54adce4e856725565b8328b510b69634a06e01b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][02][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯</guid>
 			<link>https://mikanani.me/Home/Episode/94c64dea257204547880cf67c44bafd2b4fb1715</link>
 			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][02][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-27T01:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="415236096" url="https://mikanani.me/Download/20260127/e71d01db6030423d8bf943b52fcd4dbe4b83b881.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [03][1080p][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/8b5a8319bb9a9c0c5f32c9cf650b1d2fd53bd592</link>
-			<title>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [03][1080p][繁体内嵌]</title>
-			<description>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [03][1080p][繁体内嵌][466.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8b5a8319bb9a9c0c5f32c9cf650b1d2fd53bd592</link>
-				<contentLength>489370432</contentLength>
-				<pubDate>2026-01-27T01:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="489370432" url="https://mikanani.me/Download/20260127/8b5a8319bb9a9c0c5f32c9cf650b1d2fd53bd592.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
