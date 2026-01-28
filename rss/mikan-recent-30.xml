@@ -30556,5 +30556,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="547671232" url="https://mikanani.me/Download/20260128/08389f6c9727cdb365509c406a3e9edf0b163cc5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6a0d1f03cc5440e8f7b3eaac8538edf4c7ffafcf</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 03 (ABEMA 1920x1080 AVC AAC MP4)[726.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a0d1f03cc5440e8f7b3eaac8538edf4c7ffafcf</link>
+				<contentLength>761580736</contentLength>
+				<pubDate>2026-01-28T16:30:36.025686</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761580736" url="https://mikanani.me/Download/20260128/6a0d1f03cc5440e8f7b3eaac8538edf4c7ffafcf.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

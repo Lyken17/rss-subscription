@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/6a0d1f03cc5440e8f7b3eaac8538edf4c7ffafcf</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 03 (ABEMA 1920x1080 AVC AAC MP4)[726.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a0d1f03cc5440e8f7b3eaac8538edf4c7ffafcf</link>
+				<contentLength>761580736</contentLength>
+				<pubDate>2026-01-28T16:30:36.025686</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761580736" url="https://mikanani.me/Download/20260128/6a0d1f03cc5440e8f7b3eaac8538edf4c7ffafcf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 50 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/08389f6c9727cdb365509c406a3e9edf0b163cc5</link>
 			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 50 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-27T01:01:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="363541312" url="https://mikanani.me/Download/20260127/fa2351828e26424620c865d1bb9524000c41936e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 北斗之拳 拳王军杂鱼们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/01da72c19d5ee97533627c0fe9879e9c35aaf3a2</link>
-			<title>[黒ネズミたち] 北斗之拳 拳王军杂鱼们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 北斗之拳 拳王军杂鱼们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 03 (ABEMA 1920x1080 AVC AAC MP4)[121.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/01da72c19d5ee97533627c0fe9879e9c35aaf3a2</link>
-				<contentLength>126877696</contentLength>
-				<pubDate>2026-01-27T01:00:19.107958</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="126877696" url="https://mikanani.me/Download/20260127/01da72c19d5ee97533627c0fe9879e9c35aaf3a2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
