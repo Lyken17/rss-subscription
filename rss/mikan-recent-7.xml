@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/d3d9ab541cf02093c491fc0874abc902fdaac736</link>
-			<title>六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★魔王的女儿太温柔了!! Maou no Musume wa Yasashi Sugiru!!★04★1920x1080★AVC AAC MP4★繁体中文[265.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d3d9ab541cf02093c491fc0874abc902fdaac736</link>
-				<contentLength>278187200</contentLength>
-				<pubDate>2026-01-21T04:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="278187200" url="https://mikanani.me/Download/20260121/d3d9ab541cf02093c491fc0874abc902fdaac736.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 03 [WebRip][HEVC-10bit 1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/9e7590bc2f091c494ad20e3575cf9a8022b5bcbb</link>
 			<title>[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 03 [WebRip][HEVC-10bit 1080p][简繁日内封]</title>
@@ -7947,6 +7935,18 @@
 				<pubDate>2026-01-28T11:01:13.642718</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="742811264" url="https://mikanani.me/Download/20260128/a807b942fdda779d24b902dd16269c8e757373d2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 公主代理人 / Princess Principal (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/b250112585d43dd83be7a24d8d6d4bd8a5c819c9</link>
+			<title>[H-Enc] 公主代理人 / Princess Principal (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 公主代理人 / Princess Principal (BDRip 1080p HEVC FLAC)[23.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b250112585d43dd83be7a24d8d6d4bd8a5c819c9</link>
+				<contentLength>24696061952</contentLength>
+				<pubDate>2026-01-28T12:42:32.635337</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="24696061952" url="https://mikanani.me/Download/20260128/b250112585d43dd83be7a24d8d6d4bd8a5c819c9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
