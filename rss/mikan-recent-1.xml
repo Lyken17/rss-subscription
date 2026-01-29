@@ -1360,5 +1360,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="282696096" url="https://mikanani.me/Download/20260129/f8138575690468117f0bb59849dc133814f1f3c7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[27][1080p AVC AAC][繁体]</guid>
+			<link>https://mikanani.me/Home/Episode/119b557797c7bffa584d4c2245795cfab6b99da0</link>
+			<title>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[27][1080p AVC AAC][繁体]</title>
+			<description>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[27][1080p AVC AAC][繁体][243.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/119b557797c7bffa584d4c2245795cfab6b99da0</link>
+				<contentLength>255328256</contentLength>
+				<pubDate>2026-01-29T16:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="255328256" url="https://mikanani.me/Download/20260129/119b557797c7bffa584d4c2245795cfab6b99da0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[27][1080p AVC AAC][简体]</guid>
+			<link>https://mikanani.me/Home/Episode/c28dd4d142468e437e7a2a82da824a83b0f5b20c</link>
+			<title>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[27][1080p AVC AAC][简体]</title>
+			<description>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[27][1080p AVC AAC][简体][243.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c28dd4d142468e437e7a2a82da824a83b0f5b20c</link>
+				<contentLength>255223392</contentLength>
+				<pubDate>2026-01-29T16:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="255223392" url="https://mikanani.me/Download/20260129/c28dd4d142468e437e7a2a82da824a83b0f5b20c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
