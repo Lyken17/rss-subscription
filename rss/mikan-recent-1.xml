@@ -1108,5 +1108,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389231424" url="https://mikanani.me/Download/20260129/0e0c951bdcf3cb63193984542f90f0a958ea3b13.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</guid>
+			<link>https://mikanani.me/Home/Episode/3d2f74026d737a8afb846755a66c0035614a7dd9</link>
+			<title>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</title>
+			<description>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）[234.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d2f74026d737a8afb846755a66c0035614a7dd9</link>
+				<contentLength>245995936</contentLength>
+				<pubDate>2026-01-29T12:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="245995936" url="https://mikanani.me/Download/20260129/3d2f74026d737a8afb846755a66c0035614a7dd9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][繁日双语]（检索用：以死亡游戏为生。）</guid>
+			<link>https://mikanani.me/Home/Episode/700f382046ca31d1e05271813b725bb93bcd668e</link>
+			<title>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][繁日双语]（检索用：以死亡游戏为生。）</title>
+			<description>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][繁日双语]（检索用：以死亡游戏为生。）[234.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/700f382046ca31d1e05271813b725bb93bcd668e</link>
+				<contentLength>246100784</contentLength>
+				<pubDate>2026-01-29T12:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="246100784" url="https://mikanani.me/Download/20260129/700f382046ca31d1e05271813b725bb93bcd668e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
