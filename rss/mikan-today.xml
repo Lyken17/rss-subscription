@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/05c4176a90124e41fe9f9804daf56fd27da6537e</link>
+			<title>【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][04][1080p][简日双语][227.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05c4176a90124e41fe9f9804daf56fd27da6537e</link>
+				<contentLength>238341328</contentLength>
+				<pubDate>2026-01-30T04:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="238341328" url="https://mikanani.me/Download/20260130/05c4176a90124e41fe9f9804daf56fd27da6537e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 咒术回战 第3季 死灭回游 前篇 / Jujutsu Kaisen S3 - 05 [ViuTV][WEB-DL][1080p][AVC AAC][CHT][SRT][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/ae76e33c199ef4d6e20a309469c626b0ecb4f001</link>
 			<title>[Skymoon-Raws] 咒术回战 第3季 死灭回游 前篇 / Jujutsu Kaisen S3 - 05 [ViuTV][WEB-DL][1080p][AVC AAC][CHT][SRT][MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-29T10:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389231424" url="https://mikanani.me/Download/20260129/0e0c951bdcf3cb63193984542f90f0a958ea3b13.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[H-Enc] 打了300年的史莱姆，不知不觉就练到了满级 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/d55b99d5363582b6c38198ec60d3e6edf5d370ab</link>
-			<title>[H-Enc] 打了300年的史莱姆，不知不觉就练到了满级 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 打了300年的史莱姆，不知不觉就练到了满级 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BDRip 1080p HEVC FLAC)[17.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d55b99d5363582b6c38198ec60d3e6edf5d370ab</link>
-				<contentLength>18253611008</contentLength>
-				<pubDate>2026-01-29T08:45:03.995684</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="18253611008" url="https://mikanani.me/Download/20260129/d55b99d5363582b6c38198ec60d3e6edf5d370ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -2008,5 +2008,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="732849792" url="https://mikanani.me/Download/20260130/253644e91c684c2f1856d10ab8ec186ea83da3ff.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/05c4176a90124e41fe9f9804daf56fd27da6537e</link>
+			<title>【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo][04][1080p][简日双语][227.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05c4176a90124e41fe9f9804daf56fd27da6537e</link>
+				<contentLength>238341328</contentLength>
+				<pubDate>2026-01-30T04:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="238341328" url="https://mikanani.me/Download/20260130/05c4176a90124e41fe9f9804daf56fd27da6537e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
