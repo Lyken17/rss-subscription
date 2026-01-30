@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/50cb368d8bfb40b08d17643aa38f6c43270d6426</link>
+			<title>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][简体内嵌]</title>
+			<description>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][简体内嵌][100.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/50cb368d8bfb40b08d17643aa38f6c43270d6426</link>
+				<contentLength>105381888</contentLength>
+				<pubDate>2026-01-30T20:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="105381888" url="https://mikanani.me/Download/20260130/50cb368d8bfb40b08d17643aa38f6c43270d6426.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 19 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/b53108686ffb2354b57e934cbb8383b37d725a14</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 19 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-29T18:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20260129/2e6daac45613387b78a8031dd8290bcb8c9e5ed5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 命运 - 奇异赝品 / Fate/strange Fake - 03 [WebRip][HEVC-10bit 1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/b42dd77f8f31f4b2e798b31815ba3c1a82c2db83</link>
-			<title>[❀拨雪寻春❀] 命运 - 奇异赝品 / Fate/strange Fake - 03 [WebRip][HEVC-10bit 1080p][简繁日内封]</title>
-			<description>[❀拨雪寻春❀] 命运 - 奇异赝品 / Fate/strange Fake - 03 [WebRip][HEVC-10bit 1080p][简繁日内封][517.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b42dd77f8f31f4b2e798b31815ba3c1a82c2db83</link>
-				<contentLength>542952640</contentLength>
-				<pubDate>2026-01-29T18:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="542952640" url="https://mikanani.me/Download/20260129/b42dd77f8f31f4b2e798b31815ba3c1a82c2db83.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

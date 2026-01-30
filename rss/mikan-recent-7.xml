@@ -7948,5 +7948,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="19398656" url="https://mikanani.me/Download/20260130/7ac4db9939e64ea2b810a43d98a633ab5a6faf2a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/50cb368d8bfb40b08d17643aa38f6c43270d6426</link>
+			<title>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][简体内嵌]</title>
+			<description>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][简体内嵌][100.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/50cb368d8bfb40b08d17643aa38f6c43270d6426</link>
+				<contentLength>105381888</contentLength>
+				<pubDate>2026-01-30T20:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="105381888" url="https://mikanani.me/Download/20260130/50cb368d8bfb40b08d17643aa38f6c43270d6426.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
