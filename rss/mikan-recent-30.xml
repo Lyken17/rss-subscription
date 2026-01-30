@@ -31804,5 +31804,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260131/0bc89aea43ba0eef394c2a014075d92ed1d78ba2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [1080p][WebRip][AVC_EAC3][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/4139bd4e2470059a1a2474e4ae09ed8bd1cee3de</link>
+			<title>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [1080p][WebRip][AVC_EAC3][简日内嵌]</title>
+			<description>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [1080p][WebRip][AVC_EAC3][简日内嵌][4.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4139bd4e2470059a1a2474e4ae09ed8bd1cee3de</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-01-31T05:15:17.604528</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260131/4139bd4e2470059a1a2474e4ae09ed8bd1cee3de.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [1080p][WebRip][HEVC_EAC3][简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/f9cf5a9c43a149fe998c051d3bc6daf4756a4d1a</link>
+			<title>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [1080p][WebRip][HEVC_EAC3][简日内封]</title>
+			<description>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [1080p][WebRip][HEVC_EAC3][简日内封][3.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f9cf5a9c43a149fe998c051d3bc6daf4756a4d1a</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2026-01-31T05:13:41.346565</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20260131/f9cf5a9c43a149fe998c051d3bc6daf4756a4d1a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
