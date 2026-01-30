@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/534f6bb7d5ab01ad82c121b51be699cde81b2d9a</link>
+			<title>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌]</title>
+			<description>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌][100.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/534f6bb7d5ab01ad82c121b51be699cde81b2d9a</link>
+				<contentLength>105277032</contentLength>
+				<pubDate>2026-01-30T19:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="105277032" url="https://mikanani.me/Download/20260130/534f6bb7d5ab01ad82c121b51be699cde81b2d9a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7fa9e4551e6d7730f4de24e56e25d95536a2afe5</link>
 			<title>[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-29T18:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="477626368" url="https://mikanani.me/Download/20260129/7da6633235fe7f26ee981ffa9c974e41544bb2b4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 午夜的倾心旋律 / 真夜中ハートチューン / Mayonaka Heart Tune / Tune In to the Midnight Heart - 03 [WebRip][HEVC-10bit 1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/7c03fed2d32004a7b5ee529b26dfb118f46be10a</link>
-			<title>[❀拨雪寻春❀] 午夜的倾心旋律 / 真夜中ハートチューン / Mayonaka Heart Tune / Tune In to the Midnight Heart - 03 [WebRip][HEVC-10bit 1080p][繁日内嵌]</title>
-			<description>[❀拨雪寻春❀] 午夜的倾心旋律 / 真夜中ハートチューン / Mayonaka Heart Tune / Tune In to the Midnight Heart - 03 [WebRip][HEVC-10bit 1080p][繁日内嵌][346.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7c03fed2d32004a7b5ee529b26dfb118f46be10a</link>
-				<contentLength>363751008</contentLength>
-				<pubDate>2026-01-29T18:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="363751008" url="https://mikanani.me/Download/20260129/7c03fed2d32004a7b5ee529b26dfb118f46be10a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

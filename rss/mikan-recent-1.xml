@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 为喵人生 / Reborn as a Cat - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dc4ae08fff8a29fdcc8cc008d405bf1b4cdf736d</link>
-			<title>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 14 (B-Global Donghua 1920x1080 HEVC AAC MKV)[205.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc4ae08fff8a29fdcc8cc008d405bf1b4cdf736d</link>
-				<contentLength>215062944</contentLength>
-				<pubDate>2026-01-29T11:06:21.231132</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="215062944" url="https://mikanani.me/Download/20260129/dc4ae08fff8a29fdcc8cc008d405bf1b4cdf736d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 中国奇谭2 / Yao-Chinese Folktales 2 - 06 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/50762e8eebd5e9b1a553378552afd4d92dd6a4a8</link>
-			<title>[黒ネズミたち] 中国奇谭2 / Yao-Chinese Folktales 2 - 06 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 中国奇谭2 / Yao-Chinese Folktales 2 - 06 (B-Global Donghua 4096x1716 HEVC AAC MKV)[2.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/50762e8eebd5e9b1a553378552afd4d92dd6a4a8</link>
-				<contentLength>2147483648</contentLength>
-				<pubDate>2026-01-29T11:02:43.334642</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20260129/50762e8eebd5e9b1a553378552afd4d92dd6a4a8.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</guid>
 			<link>https://mikanani.me/Home/Episode/3d2f74026d737a8afb846755a66c0035614a7dd9</link>
 			<title>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</title>
@@ -1587,6 +1563,18 @@
 				<pubDate>2026-01-30T18:01:32.369866</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="388077984" url="https://mikanani.me/Download/20260130/dbbb0d87febcbd30e250abb87fc0d5c5ea326e2d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/534f6bb7d5ab01ad82c121b51be699cde81b2d9a</link>
+			<title>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌]</title>
+			<description>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌][100.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/534f6bb7d5ab01ad82c121b51be699cde81b2d9a</link>
+				<contentLength>105277032</contentLength>
+				<pubDate>2026-01-30T19:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="105277032" url="https://mikanani.me/Download/20260130/534f6bb7d5ab01ad82c121b51be699cde81b2d9a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
