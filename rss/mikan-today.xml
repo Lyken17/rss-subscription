@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9d3f4a0eca432083c7e2e63fca077dc8bbfe0128</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 03 (ABEMA 1920x1080 AVC AAC MP4)[712.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9d3f4a0eca432083c7e2e63fca077dc8bbfe0128</link>
+				<contentLength>746586112</contentLength>
+				<pubDate>2026-01-30T17:00:43.377527</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20260130/9d3f4a0eca432083c7e2e63fca077dc8bbfe0128.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">猫眼「キャッツ♥アイ」CAT'S EYE 2025年版 S01E12 1080p 日英双语-多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/c1406c749fa0bbd21e344b2389e02ee19eca2217</link>
 			<title>猫眼「キャッツ♥アイ」CAT'S EYE 2025年版 S01E12 1080p 日英双语-多国字幕</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-01-29T17:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="327784864" url="https://mikanani.me/Download/20260129/354b94acaf5eff1697c722f8790a2b8e2e6c4518.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[云歌字幕组][阿尔涅的事件簿][02][HEVC][x265 10bit][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/4629782dcb4d386e61f2398f2434c144fb9315b9</link>
-			<title>[云歌字幕组][阿尔涅的事件簿][02][HEVC][x265 10bit][1080p][简日双语]</title>
-			<description>[云歌字幕组][阿尔涅的事件簿][02][HEVC][x265 10bit][1080p][简日双语][309.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4629782dcb4d386e61f2398f2434c144fb9315b9</link>
-				<contentLength>324953696</contentLength>
-				<pubDate>2026-01-29T17:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="324953696" url="https://mikanani.me/Download/20260129/4629782dcb4d386e61f2398f2434c144fb9315b9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
