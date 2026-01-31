@@ -2380,5 +2380,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="892338176" url="https://mikanani.me/Download/20260130/dd09af615200dd43e749c9f03a2d1a1701139acd.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0d5b66bb24c02140a8732bd5fa0bf3b1fa1c0922</link>
+			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][663.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0d5b66bb24c02140a8732bd5fa0bf3b1fa1c0922</link>
+				<contentLength>696044736</contentLength>
+				<pubDate>2026-01-31T11:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="696044736" url="https://mikanani.me/Download/20260131/0d5b66bb24c02140a8732bd5fa0bf3b1fa1c0922.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d7c766fae564d076e6c697efb32b893364aa8967</link>
+			<title>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][550.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d7c766fae564d076e6c697efb32b893364aa8967</link>
+				<contentLength>577450816</contentLength>
+				<pubDate>2026-01-31T10:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="577450816" url="https://mikanani.me/Download/20260131/d7c766fae564d076e6c697efb32b893364aa8967.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
