@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="84073988096" url="https://mikanani.me/Download/20260101/c57570c24b0f015b9dc3bd52fbd536a174fcc545.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 中国奇谭2 / Yao-Chinese Folktales 2 - 02 (B-Global Donghua 4096x1716 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/33b4e1529ef50b9f2c4600cfd5d75eb412bfd3cf</link>
-			<title>[黒ネズミたち] 中国奇谭2 / Yao-Chinese Folktales 2 - 02 (B-Global Donghua 4096x1716 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 中国奇谭2 / Yao-Chinese Folktales 2 - 02 (B-Global Donghua 4096x1716 HEVC AAC MKV)[1.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/33b4e1529ef50b9f2c4600cfd5d75eb412bfd3cf</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2026-01-01T12:14:36.172896</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260101/33b4e1529ef50b9f2c4600cfd5d75eb412bfd3cf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[云光字幕组] 罪恶王冠 Guilty Crown [合集][简体双语][BD][H264][1080p]招募翻译</guid>
 			<link>https://mikanani.me/Home/Episode/f20f1bbf92b32dc4f2ea5c2887fb7923463501ce</link>
 			<title>[云光字幕组] 罪恶王冠 Guilty Crown [合集][简体双语][BD][H264][1080p]招募翻译</title>
@@ -31539,6 +31527,30 @@
 				<pubDate>2026-01-31T19:18:53.876867</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260131/1f3a4e6e248b91367260b9a50cab4f4322ee6308.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1191 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/7ea61e087f2c71dc78a2216ef99252a8513a84a8</link>
+			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1191 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1191 (CR 1920x1080 AVC AAC MKV)[566.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7ea61e087f2c71dc78a2216ef99252a8513a84a8</link>
+				<contentLength>594437760</contentLength>
+				<pubDate>2026-01-31T20:32:21.626524</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="594437760" url="https://mikanani.me/Download/20260131/7ea61e087f2c71dc78a2216ef99252a8513a84a8.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [v2][1080p][WebRip][HEVC_EAC3][简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/d59402d001d3da1baf8eaf9a6ff1350cc978dfc4</link>
+			<title>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [v2][1080p][WebRip][HEVC_EAC3][简日内封]</title>
+			<description>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [v2][1080p][WebRip][HEVC_EAC3][简日内封][3.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d59402d001d3da1baf8eaf9a6ff1350cc978dfc4</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2026-01-31T20:05:49.184871</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20260131/d59402d001d3da1baf8eaf9a6ff1350cc978dfc4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
