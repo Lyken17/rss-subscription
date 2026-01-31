@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 间谍过家家 第3期/SPY×FAMILY Season 3 [38-50 修正合集][WebRip][1080p][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/f462b69bdb34f96362f9bd42108034107246d6bb</link>
+			<title>[绿茶字幕组] 间谍过家家 第3期/SPY×FAMILY Season 3 [38-50 修正合集][WebRip][1080p][简繁日内封]</title>
+			<description>[绿茶字幕组] 间谍过家家 第3期/SPY×FAMILY Season 3 [38-50 修正合集][WebRip][1080p][简繁日内封][6.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f462b69bdb34f96362f9bd42108034107246d6bb</link>
+				<contentLength>7301444608</contentLength>
+				<pubDate>2026-02-01T05:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7301444608" url="https://mikanani.me/Download/20260201/f462b69bdb34f96362f9bd42108034107246d6bb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [26][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c412f677bca62e6f8e3ad02783f14de81002ebd6</link>
 			<title>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [26][WebRip][1080p][繁日内嵌]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-01-31T02:11:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="499751328" url="https://mikanani.me/Download/20260131/d4c9eb4582c2f12afb7ccc0e0d718e7689b3645c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] SEALOOK / Sealook - 16 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4c20819490f1b400b972387e9b68c9b7dfc7c555</link>
-			<title>[黒ネズミたち] SEALOOK / Sealook - 16 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] SEALOOK / Sealook - 16 (ABEMA 1920x1080 AVC AAC MP4)[261.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4c20819490f1b400b972387e9b68c9b7dfc7c555</link>
-				<contentLength>273783200</contentLength>
-				<pubDate>2026-01-31T02:09:21.653008</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="273783200" url="https://mikanani.me/Download/20260131/4c20819490f1b400b972387e9b68c9b7dfc7c555.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
