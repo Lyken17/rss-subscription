@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)"</guid>
+			<link>https://mikanani.me/Home/Episode/1f3a4e6e248b91367260b9a50cab4f4322ee6308</link>
+			<title>[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)"</title>
+			<description>[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)"[4.9 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1f3a4e6e248b91367260b9a50cab4f4322ee6308</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-01-31T19:18:53.876867</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260131/1f3a4e6e248b91367260b9a50cab4f4322ee6308.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/21974aede2be839100c19c0c0e8f05d4ca34b053</link>
 			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2026-01-30T10:00:56.596235</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="843369664" url="https://mikanani.me/Download/20260130/5fd4b12ac891ea1ed28c0794faf31f14b6caedf3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[H-Enc] 打了300年的史莱姆，不知不觉就练到了满级 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/ba722a05b97660860c43806e36c777851f50649a</link>
-			<title>[H-Enc] 打了300年的史莱姆，不知不觉就练到了满级 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 打了300年的史莱姆，不知不觉就练到了满级 第二季 / Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni (BDRip 1080p HEVC FLAC)[15.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ba722a05b97660860c43806e36c777851f50649a</link>
-				<contentLength>16642998272</contentLength>
-				<pubDate>2026-01-30T08:42:41.387794</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16642998272" url="https://mikanani.me/Download/20260130/ba722a05b97660860c43806e36c777851f50649a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
