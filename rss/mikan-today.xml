@@ -5,6 +5,54 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] You and I Are Polar Opposites /  相反的你和我 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/f087ac4dad3cd2d92489647e1f3e9734fee428c4</link>
+			<title>[ANi] You and I Are Polar Opposites /  相反的你和我 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] You and I Are Polar Opposites /  相反的你和我 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][341.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f087ac4dad3cd2d92489647e1f3e9734fee428c4</link>
+				<contentLength>357669280</contentLength>
+				<pubDate>2026-02-01T16:31:33.991246</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="357669280" url="https://mikanani.me/Download/20260201/f087ac4dad3cd2d92489647e1f3e9734fee428c4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 04 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5fa0b4b24d3755b1e0f1f0564824066f8e9dd6db</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 04 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 04 (Baha 1920x1080 AVC AAC MP4)[340.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5fa0b4b24d3755b1e0f1f0564824066f8e9dd6db</link>
+				<contentLength>357459552</contentLength>
+				<pubDate>2026-02-01T16:31:19.636789</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="357459552" url="https://mikanani.me/Download/20260201/5fa0b4b24d3755b1e0f1f0564824066f8e9dd6db.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 04 (B-Global 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/137fbdb3f37d028bc38902bbaec2cd77333f98a5</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 04 (B-Global 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 04 (B-Global 1920x1080 HEVC AAC MKV)[241.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/137fbdb3f37d028bc38902bbaec2cd77333f98a5</link>
+				<contentLength>253440816</contentLength>
+				<pubDate>2026-02-01T16:30:31.559683</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="253440816" url="https://mikanani.me/Download/20260201/137fbdb3f37d028bc38902bbaec2cd77333f98a5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 皎洁深宵之月 / Uruwashi no Yoi no Tsuki - 04 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/abed60cfb6bfee911f585cefc470e72305a55360</link>
+			<title>[黒ネズミたち] 皎洁深宵之月 / Uruwashi no Yoi no Tsuki - 04 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 皎洁深宵之月 / Uruwashi no Yoi no Tsuki - 04 (CR 1920x1080 AVC AAC MKV)[713.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/abed60cfb6bfee911f585cefc470e72305a55360</link>
+				<contentLength>748368704</contentLength>
+				<pubDate>2026-02-01T16:02:23.126825</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748368704" url="https://mikanani.me/Download/20260201/abed60cfb6bfee911f585cefc470e72305a55360.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [02][简体双语][1080p]招募翻译</guid>
 			<link>https://mikanani.me/Home/Episode/223bbb8a36d84bbf49b2d5abdd05544e1b13d7e1</link>
 			<title>[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [02][简体双语][1080p]招募翻译</title>
@@ -1119,54 +1167,6 @@
 				<pubDate>2026-01-31T20:05:49.184871</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20260131/d59402d001d3da1baf8eaf9a6ff1350cc978dfc4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/1f3a4e6e248b91367260b9a50cab4f4322ee6308</link>
-			<title>[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)[4.9 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1f3a4e6e248b91367260b9a50cab4f4322ee6308</link>
-				<contentLength>5261335040</contentLength>
-				<pubDate>2026-01-31T19:21:47.301817</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260131/1f3a4e6e248b91367260b9a50cab4f4322ee6308.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/21974aede2be839100c19c0c0e8f05d4ca34b053</link>
-			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (Baha 1920x1080 AVC AAC MP4)[293.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/21974aede2be839100c19c0c0e8f05d4ca34b053</link>
-				<contentLength>307442496</contentLength>
-				<pubDate>2026-01-31T17:36:06.273428</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="307442496" url="https://mikanani.me/Download/20260131/21974aede2be839100c19c0c0e8f05d4ca34b053.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/be63567c8e24ba3edb631bbbbb772dd58efa2e77</link>
-			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 06 (CR 1920x1080 AVC AAC MKV)[662.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/be63567c8e24ba3edb631bbbbb772dd58efa2e77</link>
-				<contentLength>695101056</contentLength>
-				<pubDate>2026-01-31T17:33:03.147379</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="695101056" url="https://mikanani.me/Download/20260131/be63567c8e24ba3edb631bbbbb772dd58efa2e77.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Blue Miburo S02 /  青之壬生浪 第二季 芹泽暗杀篇 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/838d9627fbcf10490825a29e61cfa9b696475fb9</link>
-			<title>[ANi] Blue Miburo S02 /  青之壬生浪 第二季 芹泽暗杀篇 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Blue Miburo S02 /  青之壬生浪 第二季 芹泽暗杀篇 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][293.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/838d9627fbcf10490825a29e61cfa9b696475fb9</link>
-				<contentLength>307757056</contentLength>
-				<pubDate>2026-01-31T17:31:29.817908</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="307757056" url="https://mikanani.me/Download/20260131/838d9627fbcf10490825a29e61cfa9b696475fb9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
