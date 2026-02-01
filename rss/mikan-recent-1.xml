@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)"</guid>
-			<link>https://mikanani.me/Home/Episode/1f3a4e6e248b91367260b9a50cab4f4322ee6308</link>
-			<title>[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)"</title>
-			<description>[H-Enc] 公主代理人 Crown Handler 第4章 / Princess Principal Crown Handler Chapter 4 (BDRip 1080p HEVC FLAC)"[4.9 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1f3a4e6e248b91367260b9a50cab4f4322ee6308</link>
-				<contentLength>5261335040</contentLength>
-				<pubDate>2026-01-31T19:18:53.876867</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260131/1f3a4e6e248b91367260b9a50cab4f4322ee6308.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1191 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7ea61e087f2c71dc78a2216ef99252a8513a84a8</link>
 			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1191 (CR 1920x1080 AVC AAC MKV)</title>
@@ -2043,6 +2031,18 @@
 				<pubDate>2026-02-02T01:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20260202/5e05508c2db948d851cb43154ecb21dc4f695be3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语][164.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+				<contentLength>172700464</contentLength>
+				<pubDate>2026-02-02T03:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="172700464" url="https://mikanani.me/Download/20260202/3da21435b52588bb2d0c213824d52c141029f03a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

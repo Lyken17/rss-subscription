@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语][164.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+				<contentLength>172700464</contentLength>
+				<pubDate>2026-02-02T03:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="172700464" url="https://mikanani.me/Download/20260202/3da21435b52588bb2d0c213824d52c141029f03a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 和机器人啪啪啪能算在经验人数里吗？？ / Android wa Keiken Ninzuu ni Hairimasu ka?? - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/9d3efe724f67a0fa7bc21bd390a61fb46cb9e8a0</link>
 			<title>[黒ネズミたち] 和机器人啪啪啪能算在经验人数里吗？？ / Android wa Keiken Ninzuu ni Hairimasu ka?? - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2026-02-01T09:32:14.308424</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="961544192" url="https://mikanani.me/Download/20260201/4013c11d529460c6b64bf47f2908481e825ba9bd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 40 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/aa56b2a1a504582d7a8a609f932043403d3384d4</link>
-			<title>[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 40 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 40 (ABEMA 1920x1080 AVC AAC MP4)[715.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aa56b2a1a504582d7a8a609f932043403d3384d4</link>
-				<contentLength>750256128</contentLength>
-				<pubDate>2026-02-01T09:00:32.72883</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="750256128" url="https://mikanani.me/Download/20260201/aa56b2a1a504582d7a8a609f932043403d3384d4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

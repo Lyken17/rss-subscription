@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/9b2bd6836d9fc66bd5f85c46025223b2da4240af</link>
-			<title>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封][243.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b2bd6836d9fc66bd5f85c46025223b2da4240af</link>
-				<contentLength>255118544</contentLength>
-				<pubDate>2026-01-25T19:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="255118544" url="https://mikanani.me/Download/20260125/9b2bd6836d9fc66bd5f85c46025223b2da4240af.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][16][1080p][简日字幕][V2]</guid>
 			<link>https://mikanani.me/Home/Episode/540057c627bcb79dcb9083d8ff3938d4efb399a5</link>
 			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][16][1080p][简日字幕][V2]</title>
@@ -8343,6 +8331,18 @@
 				<pubDate>2026-02-02T01:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20260202/5e05508c2db948d851cb43154ecb21dc4f695be3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语][164.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+				<contentLength>172700464</contentLength>
+				<pubDate>2026-02-02T03:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="172700464" url="https://mikanani.me/Download/20260202/3da21435b52588bb2d0c213824d52c141029f03a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

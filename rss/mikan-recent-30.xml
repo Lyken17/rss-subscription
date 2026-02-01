@@ -32380,5 +32380,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20260202/5e05508c2db948d851cb43154ecb21dc4f695be3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][简日双语][164.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3da21435b52588bb2d0c213824d52c141029f03a</link>
+				<contentLength>172700464</contentLength>
+				<pubDate>2026-02-02T03:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="172700464" url="https://mikanani.me/Download/20260202/3da21435b52588bb2d0c213824d52c141029f03a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
