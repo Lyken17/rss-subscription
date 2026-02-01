@@ -17,30 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="844103680" url="https://mikanani.me/Download/20260125/820ce1649784218a046ed73cccfd52e2da04fc26.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ae531f7462a0a9d90accab39c478fc36bdc870dc</link>
-			<title>[LoliHouse] Fate/strange Fake - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Fate/strange Fake - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][803.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ae531f7462a0a9d90accab39c478fc36bdc870dc</link>
-				<contentLength>842635648</contentLength>
-				<pubDate>2026-01-25T16:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="842635648" url="https://mikanani.me/Download/20260125/ae531f7462a0a9d90accab39c478fc36bdc870dc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d0fd9e5f28bc2ab1ccf893576deec809918c1947</link>
-			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 16 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][854MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d0fd9e5f28bc2ab1ccf893576deec809918c1947</link>
-				<contentLength>895483904</contentLength>
-				<pubDate>2026-01-25T16:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="895483904" url="https://mikanani.me/Download/20260125/d0fd9e5f28bc2ab1ccf893576deec809918c1947.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f56ebbd830ebae79a7927329af1c39672717c58</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -627,6 +603,18 @@
 				<pubDate>2026-02-01T20:35:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="471859200" url="https://mikanani.me/Download/20260201/c14e1974e97f1fdcb6a02728b34daaecb76cbb01.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/985dd54a363eac7892544e71e78d7de3abbd2018</link>
+			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][492.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/985dd54a363eac7892544e71e78d7de3abbd2018</link>
+				<contentLength>516843104</contentLength>
+				<pubDate>2026-02-01T23:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="516843104" url="https://mikanani.me/Download/20260201/985dd54a363eac7892544e71e78d7de3abbd2018.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
