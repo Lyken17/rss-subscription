@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a3c5058162dcbe27ad36e8d5aec99991a9add5d0</link>
-			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 40 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a3c5058162dcbe27ad36e8d5aec99991a9add5d0</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2026-01-26T10:01:30.007108</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260126/a3c5058162dcbe27ad36e8d5aec99991a9add5d0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][03][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯</guid>
 			<link>https://mikanani.me/Home/Episode/6dd4ef43cb22542308248d9c3c0294ef2f28b364</link>
 			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][03][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯</title>
@@ -7839,6 +7827,18 @@
 				<pubDate>2026-02-02T16:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="185493088" url="https://mikanani.me/Download/20260202/e3d9df70f1f823041f26e4b4ba5e8e0020bd498c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/a198eac324ce454cf35f33ce5216f7c5712ee80f</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][繁日双语][165MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a198eac324ce454cf35f33ce5216f7c5712ee80f</link>
+				<contentLength>173015040</contentLength>
+				<pubDate>2026-02-02T18:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="173015040" url="https://mikanani.me/Download/20260202/a198eac324ce454cf35f33ce5216f7c5712ee80f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

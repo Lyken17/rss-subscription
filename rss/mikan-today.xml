@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/a198eac324ce454cf35f33ce5216f7c5712ee80f</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][04][1080p][繁日双语][165MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a198eac324ce454cf35f33ce5216f7c5712ee80f</link>
+				<contentLength>173015040</contentLength>
+				<pubDate>2026-02-02T18:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="173015040" url="https://mikanani.me/Download/20260202/a198eac324ce454cf35f33ce5216f7c5712ee80f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【粉羽社】[小哥斯拉的逆袭][66-96][1080p][HDRip]</guid>
 			<link>https://mikanani.me/Home/Episode/5178f7d180aeb7fbc388f5fa8eace21e597de418</link>
 			<title>【粉羽社】[小哥斯拉的逆袭][66-96][1080p][HDRip]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-01T16:32:19.191948</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="279445504" url="https://mikanani.me/Download/20260201/4572af21c7bb99f0153e5f9da8c81fc11bb3eee3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Kayachan Isnt Scary /  神八小妹不可怕 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/97b328bf65e890cde0f4254b86897f58970ed320</link>
-			<title>[ANi] Kayachan Isnt Scary /  神八小妹不可怕 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Kayachan Isnt Scary /  神八小妹不可怕 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][408.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/97b328bf65e890cde0f4254b86897f58970ed320</link>
-				<contentLength>428448160</contentLength>
-				<pubDate>2026-02-01T16:32:17.599699</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="428448160" url="https://mikanani.me/Download/20260201/97b328bf65e890cde0f4254b86897f58970ed320.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
