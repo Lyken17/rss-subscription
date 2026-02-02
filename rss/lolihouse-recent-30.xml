@@ -2524,5 +2524,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="319081664" url="https://mikanani.me/Download/20260202/f7d19fbea02d4835490123f4974dadb93cc10a80.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e6d9d2a98d6f7be00ef845e7e6136457d62caa88</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 他国日记 / 异国日记 / Ikoku Nikki - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][230.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e6d9d2a98d6f7be00ef845e7e6136457d62caa88</link>
+				<contentLength>241906480</contentLength>
+				<pubDate>2026-02-02T20:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="241906480" url="https://mikanani.me/Download/20260202/e6d9d2a98d6f7be00ef845e7e6136457d62caa88.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
