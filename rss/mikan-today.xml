@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 24 (B-Global Donghua 1920x800 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/2a8dcbc8ed1d595428d37a5f35bd62e1744e35f3</link>
+			<title>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 24 (B-Global Donghua 1920x800 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 开局地摊卖大力 / The Most Powerful Vendor - 24 (B-Global Donghua 1920x800 HEVC AAC MKV)[359.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2a8dcbc8ed1d595428d37a5f35bd62e1744e35f3</link>
+				<contentLength>377382496</contentLength>
+				<pubDate>2026-02-03T10:00:35.360948</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="377382496" url="https://mikanani.me/Download/20260203/2a8dcbc8ed1d595428d37a5f35bd62e1744e35f3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【54】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/6fc5b327b92e105a429d0ae6d68f5f1a75d18333</link>
 			<title>【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【54】【BIG5_MP4】【1920X1080】</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-01T23:02:20.196208</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="793667200" url="https://mikanani.me/Download/20260201/b620ae52e29c00c78e0e1b7a5747d6b4c8ca7b03.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  打工仔的拷问日常 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e540cbc0eee930c126415070c17d7e702a3cde00</link>
-			<title>[ANi]  打工仔的拷问日常 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  打工仔的拷问日常 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][241.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e540cbc0eee930c126415070c17d7e702a3cde00</link>
-				<contentLength>253335968</contentLength>
-				<pubDate>2026-02-01T23:01:20.148233</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="253335968" url="https://mikanani.me/Download/20260201/e540cbc0eee930c126415070c17d7e702a3cde00.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
