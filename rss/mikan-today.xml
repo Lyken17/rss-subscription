@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/450099e4ad902f779bcfd619ee9264ffc2ab83aa</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)[639.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/450099e4ad902f779bcfd619ee9264ffc2ab83aa</link>
+				<contentLength>670564352</contentLength>
+				<pubDate>2026-02-03T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="670564352" url="https://mikanani.me/Download/20260203/450099e4ad902f779bcfd619ee9264ffc2ab83aa.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[萌樱字幕组][金牌得主][第二季][01][Webrip][1080p][简日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/43605acef1573107ef6586b6e51b68b1787af8dd</link>
 			<title>[萌樱字幕组][金牌得主][第二季][01][Webrip][1080p][简日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-02T01:30:44.318454</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20260202/37c6ef1086f30a9b1f72dbe9429114101f2402de.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[云光字幕组] 他国日记 异国日记 Ikoku Nikki [03][简体双语][1080p]招募翻译</guid>
-			<link>https://mikanani.me/Home/Episode/5e05508c2db948d851cb43154ecb21dc4f695be3</link>
-			<title>[云光字幕组] 他国日记 异国日记 Ikoku Nikki [03][简体双语][1080p]招募翻译</title>
-			<description>[云光字幕组] 他国日记 异国日记 Ikoku Nikki [03][简体双语][1080p]招募翻译[243.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5e05508c2db948d851cb43154ecb21dc4f695be3</link>
-				<contentLength>255537968</contentLength>
-				<pubDate>2026-02-02T01:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="255537968" url="https://mikanani.me/Download/20260202/5e05508c2db948d851cb43154ecb21dc4f695be3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

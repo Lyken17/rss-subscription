@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 41 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2358ad601a028b0332e584f91bda6c885788d6a1</link>
-			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 41 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 41 (B-Global Donghua 1920x1080 HEVC AAC MKV)[752.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2358ad601a028b0332e584f91bda6c885788d6a1</link>
-				<contentLength>788633984</contentLength>
-				<pubDate>2026-02-02T10:01:04.793685</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="788633984" url="https://mikanani.me/Download/20260202/2358ad601a028b0332e584f91bda6c885788d6a1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1517]小丸子想传递善意&amp;宏志买伴手礼[2026.02.01][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/c261bba1ce26b8d5e8f4bed868b0b79da9696443</link>
 			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1517]小丸子想传递善意&amp;宏志买伴手礼[2026.02.01][BIG5][1080P][MP4]</title>
@@ -987,6 +975,18 @@
 				<pubDate>2026-02-03T17:29:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="332293728" url="https://mikanani.me/Download/20260203/f166288b327e2e6cd7e7dfa798a39787117f3c55.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/450099e4ad902f779bcfd619ee9264ffc2ab83aa</link>
+			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</title>
+			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)[639.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/450099e4ad902f779bcfd619ee9264ffc2ab83aa</link>
+				<contentLength>670564352</contentLength>
+				<pubDate>2026-02-03T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="670564352" url="https://mikanani.me/Download/20260203/450099e4ad902f779bcfd619ee9264ffc2ab83aa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
