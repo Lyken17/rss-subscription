@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 67 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9a644b90f17845bef783129157c960d986c67c27</link>
-			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 67 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 67 (B-Global Donghua 1920x1080 HEVC AAC MKV)[494.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9a644b90f17845bef783129157c960d986c67c27</link>
-				<contentLength>518101408</contentLength>
-				<pubDate>2026-01-27T11:01:02.569677</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="518101408" url="https://mikanani.me/Download/20260127/9a644b90f17845bef783129157c960d986c67c27.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</guid>
 			<link>https://mikanani.me/Home/Episode/d8f6cb15e0b5728db015b14eb68afd8c5e1daa53</link>
 			<title>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</title>
@@ -7479,6 +7467,18 @@
 				<pubDate>2026-02-03T18:04:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="670564352" url="https://mikanani.me/Download/20260203/450099e4ad902f779bcfd619ee9264ffc2ab83aa.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1152][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/2ce85e6b63a5cd4612d4e034354172e3aba873ef</link>
+			<title>[OPFansMaplesnow][one_piece][1152][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1152][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ce85e6b63a5cd4612d4e034354172e3aba873ef</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-02-03T19:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260203/2ce85e6b63a5cd4612d4e034354172e3aba873ef.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

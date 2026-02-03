@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[OPFansMaplesnow][one_piece][1152][1080p]周日版</guid>
+			<link>https://mikanani.me/Home/Episode/2ce85e6b63a5cd4612d4e034354172e3aba873ef</link>
+			<title>[OPFansMaplesnow][one_piece][1152][1080p]周日版</title>
+			<description>[OPFansMaplesnow][one_piece][1152][1080p]周日版[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ce85e6b63a5cd4612d4e034354172e3aba873ef</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-02-03T19:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260203/2ce85e6b63a5cd4612d4e034354172e3aba873ef.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/450099e4ad902f779bcfd619ee9264ffc2ab83aa</link>
 			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 / Beyblade X - 107 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-02T01:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="359242144" url="https://mikanani.me/Download/20260202/8f4197ece4ed374a847d168a1f1b2648d7c69000.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/37c6ef1086f30a9b1f72dbe9429114101f2402de</link>
-			<title>[黒ネズミたち] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 04 (ABEMA 1920x1080 AVC AAC MP4)[712.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/37c6ef1086f30a9b1f72dbe9429114101f2402de</link>
-				<contentLength>746690944</contentLength>
-				<pubDate>2026-02-02T01:30:44.318454</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20260202/37c6ef1086f30a9b1f72dbe9429114101f2402de.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
