@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 04 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/da7a4504db816c34861789e81ddce1ac78dd2b4c</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 04 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 04 (ABEMA 1920x1080 AVC AAC MP4)[726.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da7a4504db816c34861789e81ddce1ac78dd2b4c</link>
+				<contentLength>761266176</contentLength>
+				<pubDate>2026-02-04T16:30:30.609262</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="761266176" url="https://mikanani.me/Download/20260204/da7a4504db816c34861789e81ddce1ac78dd2b4c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 52 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/8b87fb17a855ef6114f0883e850b1f40f2a71313</link>
 			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 52 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-03T01:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="658820288" url="https://mikanani.me/Download/20260203/c6edc954c74954423c8247d58e5abb41f48ae52f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [v2][1080p][WebRip][AVC_EAC3][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/2ac316818f2ed2abbb9184d3b7c166c37cea3dad</link>
-			<title>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [v2][1080p][WebRip][AVC_EAC3][简日内嵌]</title>
-			<description>[S1百综字幕组] 超时空辉夜姬 / Cosmic Princess Kaguya [v2][1080p][WebRip][AVC_EAC3][简日内嵌][5.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2ac316818f2ed2abbb9184d3b7c166c37cea3dad</link>
-				<contentLength>5798205952</contentLength>
-				<pubDate>2026-02-03T01:26:24.760392</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5798205952" url="https://mikanani.me/Download/20260203/2ac316818f2ed2abbb9184d3b7c166c37cea3dad.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
