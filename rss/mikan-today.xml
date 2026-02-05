@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/942076866d1793867f3b9b8d5bee66bef061744c</link>
+			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][589MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/942076866d1793867f3b9b8d5bee66bef061744c</link>
+				<contentLength>617611264</contentLength>
+				<pubDate>2026-02-05T13:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="617611264" url="https://mikanani.me/Download/20260205/942076866d1793867f3b9b8d5bee66bef061744c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [15][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/a174982ab662fa10ded610dae9f6a82b255a53e6</link>
 			<title>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [15][WebRip][1080p][繁日内嵌]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-02-04T11:41:10.076</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="370294144" url="https://mikanani.me/Download/20260204/b460d411b6d551ec02902c36ab3d72ce0ceb0bfc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 午夜的倾心旋律 - 05 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8d4f3eee030ee16a577f192e3f58b430d7b67e4d</link>
-			<title>[沸班亚马制作组] 午夜的倾心旋律 - 05 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 午夜的倾心旋律 - 05 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][699.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8d4f3eee030ee16a577f192e3f58b430d7b67e4d</link>
-				<contentLength>733898368</contentLength>
-				<pubDate>2026-02-04T10:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="733898368" url="https://mikanani.me/Download/20260204/8d4f3eee030ee16a577f192e3f58b430d7b67e4d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
