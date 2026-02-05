@@ -17,18 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="370294144" url="https://mikanani.me/Download/20260204/b460d411b6d551ec02902c36ab3d72ce0ceb0bfc.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 午夜的倾心旋律 - 05 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8d4f3eee030ee16a577f192e3f58b430d7b67e4d</link>
-			<title>[沸班亚马制作组] 午夜的倾心旋律 - 05 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 午夜的倾心旋律 - 05 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][699.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8d4f3eee030ee16a577f192e3f58b430d7b67e4d</link>
-				<contentLength>733898368</contentLength>
-				<pubDate>2026-02-04T10:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="733898368" url="https://mikanani.me/Download/20260204/8d4f3eee030ee16a577f192e3f58b430d7b67e4d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [03][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/8662cebba6f254e6e3ecc66bd9c499b4314a3d9e</link>
 			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [03][1080p][繁体内嵌]</title>
@@ -1299,6 +1287,30 @@
 				<pubDate>2026-02-05T16:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="270008320" url="https://mikanani.me/Download/20260205/2563c865942e38f637aa975248c30a2d1524cb14.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯</guid>
+			<link>https://mikanani.me/Home/Episode/41a3de50e886c17dcd638ea15adf157d88196d49</link>
+			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯</title>
+			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯[456MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/41a3de50e886c17dcd638ea15adf157d88196d49</link>
+				<contentLength>478150656</contentLength>
+				<pubDate>2026-02-05T18:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="478150656" url="https://mikanani.me/Download/20260205/41a3de50e886c17dcd638ea15adf157d88196d49.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</guid>
+			<link>https://mikanani.me/Home/Episode/b550b1e234bc54c9c409598d956f2a4c1d2a709a</link>
+			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</title>
+			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][GB][1080P][MP4][简日双语内嵌] エリスの圣杯[455.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b550b1e234bc54c9c409598d956f2a4c1d2a709a</link>
+				<contentLength>477311808</contentLength>
+				<pubDate>2026-02-05T18:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="477311808" url="https://mikanani.me/Download/20260205/b550b1e234bc54c9c409598d956f2a4c1d2a709a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

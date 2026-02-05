@@ -29,18 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20260129/50762e8eebd5e9b1a553378552afd4d92dd6a4a8.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★04★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/0e0c951bdcf3cb63193984542f90f0a958ea3b13</link>
-			<title>SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★04★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>SFSub&amp;六四位元字幕组★29岁单身中坚冒险家的日常 29-sai Dokushin Chuuken Boukensha no Nichijou★04★1920x1080★AVC AAC MP4★繁体中文[371.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0e0c951bdcf3cb63193984542f90f0a958ea3b13</link>
-				<contentLength>389231424</contentLength>
-				<pubDate>2026-01-29T10:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="389231424" url="https://mikanani.me/Download/20260129/0e0c951bdcf3cb63193984542f90f0a958ea3b13.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</guid>
 			<link>https://mikanani.me/Home/Episode/3d2f74026d737a8afb846755a66c0035614a7dd9</link>
 			<title>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][04][WebRip][1080P][AVC 8bit][简日双语]（检索用：以死亡游戏为生。）</title>
@@ -7599,6 +7587,30 @@
 				<pubDate>2026-02-05T16:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="270008320" url="https://mikanani.me/Download/20260205/2563c865942e38f637aa975248c30a2d1524cb14.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯</guid>
+			<link>https://mikanani.me/Home/Episode/41a3de50e886c17dcd638ea15adf157d88196d49</link>
+			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯</title>
+			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][BIG5][1080P][MP4][繁日双语内嵌] エリスの圣杯[456MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/41a3de50e886c17dcd638ea15adf157d88196d49</link>
+				<contentLength>478150656</contentLength>
+				<pubDate>2026-02-05T18:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="478150656" url="https://mikanani.me/Download/20260205/41a3de50e886c17dcd638ea15adf157d88196d49.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</guid>
+			<link>https://mikanani.me/Home/Episode/b550b1e234bc54c9c409598d956f2a4c1d2a709a</link>
+			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</title>
+			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][04][GB][1080P][MP4][简日双语内嵌] エリスの圣杯[455.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b550b1e234bc54c9c409598d956f2a4c1d2a709a</link>
+				<contentLength>477311808</contentLength>
+				<pubDate>2026-02-05T18:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="477311808" url="https://mikanani.me/Download/20260205/b550b1e234bc54c9c409598d956f2a4c1d2a709a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
