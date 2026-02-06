@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a0e4a3bc75772006f898781c16cbce6b558bf5c2</link>
+			<title>[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][578.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a0e4a3bc75772006f898781c16cbce6b558bf5c2</link>
+				<contentLength>606286656</contentLength>
+				<pubDate>2026-02-06T19:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="606286656" url="https://mikanani.me/Download/20260206/a0e4a3bc75772006f898781c16cbce6b558bf5c2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [31][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/53e68772b3c98f0e4fcdc33d0b24f479a3573b3c</link>
 			<title>[绿茶字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [31][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-05T21:31:42.544704</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="503316480" url="https://mikanani.me/Download/20260205/52358bcf86d9c7cca11c8de89a54e90126b9c0d4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 判处勇者刑 / Yuusha-kei ni Shosu - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/8af8e787cd3f39b0402fa0d1ff1c9054e7f108ce</link>
-			<title>[黒ネズミたち] 判处勇者刑 / Yuusha-kei ni Shosu - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 判处勇者刑 / Yuusha-kei ni Shosu - 05 (Baha 1920x1080 AVC AAC MP4)[479.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8af8e787cd3f39b0402fa0d1ff1c9054e7f108ce</link>
-				<contentLength>503106752</contentLength>
-				<pubDate>2026-02-05T21:31:12.276873</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="503106752" url="https://mikanani.me/Download/20260205/8af8e787cd3f39b0402fa0d1ff1c9054e7f108ce.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
