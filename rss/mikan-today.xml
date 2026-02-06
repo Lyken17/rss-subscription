@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/0443ac8543e21b28ba649b6f2541add1adf640fb</link>
+			<title>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][474.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0443ac8543e21b28ba649b6f2541add1adf640fb</link>
+				<contentLength>497234752</contentLength>
+				<pubDate>2026-02-07T02:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="497234752" url="https://mikanani.me/Download/20260207/0443ac8543e21b28ba649b6f2541add1adf640fb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/ec3b0dc4f68c4665c5e0590f0888923ec8ace037</link>
 			<title>[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-05T23:34:32.091058</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496920160" url="https://mikanani.me/Download/20260205/1a33d0b390e1d7665de51a1629aa85212a709061.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Chained Soldier S02 /  魔都精兵的奴隶 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7f5d985ec40d0456e023753ddbfa9282117551aa</link>
-			<title>[ANi] Chained Soldier S02 /  魔都精兵的奴隶 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Chained Soldier S02 /  魔都精兵的奴隶 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][474.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7f5d985ec40d0456e023753ddbfa9282117551aa</link>
-				<contentLength>497339584</contentLength>
-				<pubDate>2026-02-05T23:32:50.177127</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="497339584" url="https://mikanani.me/Download/20260205/7f5d985ec40d0456e023753ddbfa9282117551aa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

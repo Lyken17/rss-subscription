@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/534f6bb7d5ab01ad82c121b51be699cde81b2d9a</link>
-			<title>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌]</title>
-			<description>[桜都字幕组] 有栖川炼原来是女孩子啊。 / Arisugawa Ren tte Honto wa Onna Nanda yo ne. [03][1080P][繁体内嵌][100.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/534f6bb7d5ab01ad82c121b51be699cde81b2d9a</link>
-				<contentLength>105277032</contentLength>
-				<pubDate>2026-01-30T19:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="105277032" url="https://mikanani.me/Download/20260130/534f6bb7d5ab01ad82c121b51be699cde81b2d9a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 19 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/b53108686ffb2354b57e934cbb8383b37d725a14</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 19 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
@@ -7803,6 +7791,18 @@
 				<pubDate>2026-02-07T02:09:22.409869</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="276824064" url="https://mikanani.me/Download/20260207/5aaf94c720591c40005c56d51f2d5eb634a23fdf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/0443ac8543e21b28ba649b6f2541add1adf640fb</link>
+			<title>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 17 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][474.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0443ac8543e21b28ba649b6f2541add1adf640fb</link>
+				<contentLength>497234752</contentLength>
+				<pubDate>2026-02-07T02:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="497234752" url="https://mikanani.me/Download/20260207/0443ac8543e21b28ba649b6f2541add1adf640fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
