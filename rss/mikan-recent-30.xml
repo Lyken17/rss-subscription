@@ -33376,5 +33376,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7763153408" url="https://mikanani.me/Download/20260206/148c68eb0a27a8cb1525f2a27411f110cc3035cc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 无敌的我是英雄爸爸和精灵妈妈的女儿 / Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha [01-12][WebRip][1080p][繁简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/cfa99297dfc56f32d37b429bbea3e816b4f26665</link>
+			<title>[绿茶字幕组] 无敌的我是英雄爸爸和精灵妈妈的女儿 / Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha [01-12][WebRip][1080p][繁简日内封]</title>
+			<description>[绿茶字幕组] 无敌的我是英雄爸爸和精灵妈妈的女儿 / Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha [01-12][WebRip][1080p][繁简日内封][5.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cfa99297dfc56f32d37b429bbea3e816b4f26665</link>
+				<contentLength>6227702784</contentLength>
+				<pubDate>2026-02-06T21:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20260206/cfa99297dfc56f32d37b429bbea3e816b4f26665.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
