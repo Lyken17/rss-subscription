@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/afb8512c49051887535dbb20153fbbbe8a765be7</link>
+			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P][348MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afb8512c49051887535dbb20153fbbbe8a765be7</link>
+				<contentLength>364904448</contentLength>
+				<pubDate>2026-02-07T19:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364904448" url="https://mikanani.me/Download/20260207/afb8512c49051887535dbb20153fbbbe8a765be7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K]</guid>
+			<link>https://mikanani.me/Home/Episode/1ab243e0730869a127d64408a7bc50a0dc7bc9ce</link>
+			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K]</title>
+			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K][594.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ab243e0730869a127d64408a7bc50a0dc7bc9ce</link>
+				<contentLength>623168704</contentLength>
+				<pubDate>2026-02-07T19:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="623168704" url="https://mikanani.me/Download/20260207/1ab243e0730869a127d64408a7bc50a0dc7bc9ce.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][01-24][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/1a9cb857596855c25a24957712f50402b1071808</link>
 			<title>[GM-Team][国漫][凡人修仙传 重返天南][Fan Ren Xiu Xian Zhuan][2025][01-24][AVC][GB][1080P]</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2026-02-06T10:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="775107392" url="https://mikanani.me/Download/20260206/d290b5992bdc26e622d5925be4473fb13aff62c9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 06 (CR 2600x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/99e7e991c4201448e9a8b7e4d01a7e71d98012b3</link>
-			<title>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 06 (CR 2600x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 一人之下 第6季 / The Outcast 6 - 06 (CR 2600x1080 AVC AAC MKV)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/99e7e991c4201448e9a8b7e4d01a7e71d98012b3</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2026-02-06T10:01:29.611901</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260206/99e7e991c4201448e9a8b7e4d01a7e71d98012b3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 玄界之门 / The Gate of Mystical Realm - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/86affd84b5b4a42d03360c7dcab8f51cfb86e00b</link>
-			<title>[黒ネズミたち] 玄界之门 / The Gate of Mystical Realm - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 玄界之门 / The Gate of Mystical Realm - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)[619.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/86affd84b5b4a42d03360c7dcab8f51cfb86e00b</link>
-				<contentLength>649068544</contentLength>
-				<pubDate>2026-02-06T10:01:12.874712</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="649068544" url="https://mikanani.me/Download/20260206/86affd84b5b4a42d03360c7dcab8f51cfb86e00b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

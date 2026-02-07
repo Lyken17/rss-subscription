@@ -77,18 +77,6 @@
 			<enclosure type="application/x-bittorrent" length="476158368" url="https://mikanani.me/Download/20260206/8bfc416048a03495c76b05b4ce64f962f3bb4352.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 龙珠超 超级英雄 [IQIYI WebRip 2160p HEVC OPUS][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ef2b23ba54605a6deb7ab110c7943e4d28f63396</link>
-			<title>[沸班亚马制作组] 龙珠超 超级英雄 [IQIYI WebRip 2160p HEVC OPUS][无字幕]</title>
-			<description>[沸班亚马制作组] 龙珠超 超级英雄 [IQIYI WebRip 2160p HEVC OPUS][无字幕][4.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ef2b23ba54605a6deb7ab110c7943e4d28f63396</link>
-				<contentLength>4831838208</contentLength>
-				<pubDate>2026-02-06T10:49:09.335215</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4831838208" url="https://mikanani.me/Download/20260206/ef2b23ba54605a6deb7ab110c7943e4d28f63396.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d7f9730b78c66b15cbb42425de5bd865776268ab</link>
 			<title>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1167,6 +1155,30 @@
 				<pubDate>2026-02-07T17:31:03.784359</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="348232096" url="https://mikanani.me/Download/20260207/1a69770dd3490e6207113ec00a1cb0f50ca99034.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/afb8512c49051887535dbb20153fbbbe8a765be7</link>
+			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P][348MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afb8512c49051887535dbb20153fbbbe8a765be7</link>
+				<contentLength>364904448</contentLength>
+				<pubDate>2026-02-07T19:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="364904448" url="https://mikanani.me/Download/20260207/afb8512c49051887535dbb20153fbbbe8a765be7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K]</guid>
+			<link>https://mikanani.me/Home/Episode/1ab243e0730869a127d64408a7bc50a0dc7bc9ce</link>
+			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K]</title>
+			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K][594.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ab243e0730869a127d64408a7bc50a0dc7bc9ce</link>
+				<contentLength>623168704</contentLength>
+				<pubDate>2026-02-07T19:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="623168704" url="https://mikanani.me/Download/20260207/1ab243e0730869a127d64408a7bc50a0dc7bc9ce.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
