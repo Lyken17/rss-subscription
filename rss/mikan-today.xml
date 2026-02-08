@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][127][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/3aa9409c40cdf6e684945cf1be50bb1909e92743</link>
+			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][127][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][仙逆][Renegade Immortal][2023][127][AVC][GB][1080P][626.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3aa9409c40cdf6e684945cf1be50bb1909e92743</link>
+				<contentLength>656513408</contentLength>
+				<pubDate>2026-02-08T18:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="656513408" url="https://mikanani.me/Download/20260208/3aa9409c40cdf6e684945cf1be50bb1909e92743.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 魔王的女儿太温柔了！！ / Maou no Musume wa Yasashi Sugiru!! [06][1080p][简体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/a07008222101d74ff852d4cc392d9540f0e5f64b</link>
 			<title>[桜都字幕组] 魔王的女儿太温柔了！！ / Maou no Musume wa Yasashi Sugiru!! [06][1080p][简体内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-02-07T21:03:45.439795</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="784439680" url="https://mikanani.me/Download/20260207/2b53839d03c54ebcdebf9da3fe93eb8d4721b90f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转生之后的我变成了龙蛋～目标是世界最强～ / Tensei shitara Dragon no Tamago datta - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/316a5cd7ce99245f50c3baefcae6767eff95644d</link>
-			<title>[黒ネズミたち] 转生之后的我变成了龙蛋～目标是世界最强～ / Tensei shitara Dragon no Tamago datta - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 转生之后的我变成了龙蛋～目标是世界最强～ / Tensei shitara Dragon no Tamago datta - 05 (Baha 1920x1080 AVC AAC MP4)[747.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/316a5cd7ce99245f50c3baefcae6767eff95644d</link>
-				<contentLength>784020288</contentLength>
-				<pubDate>2026-02-07T21:02:28.625951</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="784020288" url="https://mikanani.me/Download/20260207/316a5cd7ce99245f50c3baefcae6767eff95644d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
