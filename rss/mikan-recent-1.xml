@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/afb8512c49051887535dbb20153fbbbe8a765be7</link>
-			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][AVC][GB][1080P][348MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/afb8512c49051887535dbb20153fbbbe8a765be7</link>
-				<contentLength>364904448</contentLength>
-				<pubDate>2026-02-07T19:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="364904448" url="https://mikanani.me/Download/20260207/afb8512c49051887535dbb20153fbbbe8a765be7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K]</guid>
-			<link>https://mikanani.me/Home/Episode/1ab243e0730869a127d64408a7bc50a0dc7bc9ce</link>
-			<title>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K]</title>
-			<description>[GM-Team][国漫][斗破苍穹 第5季][Fights Break Sphere Ⅴ][2022][185][HEVC][GB][4K][594.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1ab243e0730869a127d64408a7bc50a0dc7bc9ce</link>
-				<contentLength>623168704</contentLength>
-				<pubDate>2026-02-07T19:04:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="623168704" url="https://mikanani.me/Download/20260207/1ab243e0730869a127d64408a7bc50a0dc7bc9ce.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Billion Meta Lab] 反转·血色百合 Omagoto [05][1080P][HEVC-10bit][CHS&amp;CHT&amp;JP][检索：因为被以“就凭你也想打倒魔王吗”这样的理由逐出了勇者的队伍，所以想在王都自由自在地生活]</guid>
 			<link>https://mikanani.me/Home/Episode/df0d0c6830521ef52e03bfa2eff38e3105869ad5</link>
 			<title>[Billion Meta Lab] 反转·血色百合 Omagoto [05][1080P][HEVC-10bit][CHS&amp;CHT&amp;JP][检索：因为被以“就凭你也想打倒魔王吗”这样的理由逐出了勇者的队伍，所以想在王都自由自在地生活]</title>
@@ -2007,6 +1983,18 @@
 				<pubDate>2026-02-09T01:30:31.821845</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20260209/33e182157523d1cfa55a601775a3f34756d0a907.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/2ee237cf1b75314438a6730fb9493a16ff0582f9</link>
+			<title>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 05 (CR 1920x1080 AVC AAC MKV)[235.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2ee237cf1b75314438a6730fb9493a16ff0582f9</link>
+				<contentLength>246520224</contentLength>
+				<pubDate>2026-02-09T03:11:25.442871</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="246520224" url="https://mikanani.me/Download/20260209/2ee237cf1b75314438a6730fb9493a16ff0582f9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
