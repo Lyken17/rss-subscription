@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 魔都精兵的奴隶 第二季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/653116e8f6315a0e79efa3438db81f4f2ec8b974</link>
-			<title>[沸班亚马制作组] 魔都精兵的奴隶 第二季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 魔都精兵的奴隶 第二季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][662.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/653116e8f6315a0e79efa3438db81f4f2ec8b974</link>
-				<contentLength>695101056</contentLength>
-				<pubDate>2026-01-09T12:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="695101056" url="https://mikanani.me/Download/20260109/653116e8f6315a0e79efa3438db81f4f2ec8b974.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e819b10ed83c7b462910150e9417351da50d9016</link>
 			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -33543,6 +33531,18 @@
 				<pubDate>2026-02-08T18:59:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="656513408" url="https://mikanani.me/Download/20260208/3aa9409c40cdf6e684945cf1be50bb1909e92743.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/128a4f2e61a76d3ca9b4065c3a7e253a57f25459</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 05 (CR 1920x1080 AVC AAC MKV)[904.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/128a4f2e61a76d3ca9b4065c3a7e253a57f25459</link>
+				<contentLength>948436992</contentLength>
+				<pubDate>2026-02-08T20:49:08.956773</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="948436992" url="https://mikanani.me/Download/20260208/128a4f2e61a76d3ca9b4065c3a7e253a57f25459.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

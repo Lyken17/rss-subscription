@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 05 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/128a4f2e61a76d3ca9b4065c3a7e253a57f25459</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 05 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 05 (CR 1920x1080 AVC AAC MKV)[904.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/128a4f2e61a76d3ca9b4065c3a7e253a57f25459</link>
+				<contentLength>948436992</contentLength>
+				<pubDate>2026-02-08T20:49:08.956773</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="948436992" url="https://mikanani.me/Download/20260208/128a4f2e61a76d3ca9b4065c3a7e253a57f25459.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][仙逆][Renegade Immortal][2023][127][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/3aa9409c40cdf6e684945cf1be50bb1909e92743</link>
 			<title>[GM-Team][国漫][仙逆][Renegade Immortal][2023][127][AVC][GB][1080P]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-02-07T21:53:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="578289664" url="https://mikanani.me/Download/20260207/6c6d1ae9b416805710bee3a567c4b583145ccc2d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  转生之后的我变成了龙蛋～目标是世界最强～ - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2b53839d03c54ebcdebf9da3fe93eb8d4721b90f</link>
-			<title>[ANi]  转生之后的我变成了龙蛋～目标是世界最强～ - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  转生之后的我变成了龙蛋～目标是世界最强～ - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][748.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2b53839d03c54ebcdebf9da3fe93eb8d4721b90f</link>
-				<contentLength>784439680</contentLength>
-				<pubDate>2026-02-07T21:03:45.439795</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="784439680" url="https://mikanani.me/Download/20260207/2b53839d03c54ebcdebf9da3fe93eb8d4721b90f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
