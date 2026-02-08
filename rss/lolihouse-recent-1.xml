@@ -52,5 +52,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="928199488" url="https://mikanani.me/Download/20260208/47ba54e4f2d35123bef208299d8a924c850de3fe.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 超时空辉夜姬！ / Chou Kaguya-hime! [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：超时空辉耀姬！)</guid>
+			<link>https://mikanani.me/Home/Episode/1ab0c9e4013101a4f7d21865e161923d11e7e44c</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 超时空辉夜姬！ / Chou Kaguya-hime! [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：超时空辉耀姬！)</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 超时空辉夜姬！ / Chou Kaguya-hime! [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：超时空辉耀姬！)[5.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ab0c9e4013101a4f7d21865e161923d11e7e44c</link>
+				<contentLength>6012954112</contentLength>
+				<pubDate>2026-02-08T22:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6012954112" url="https://mikanani.me/Download/20260208/1ab0c9e4013101a4f7d21865e161923d11e7e44c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
