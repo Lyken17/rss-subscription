@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">​​[整理搬运] 肯普法 (けんぷファー) (Kämpfer)：TV动画+Special+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.06)</guid>
+			<link>https://mikanani.me/Home/Episode/49bb265dbb0a41c2268692c01aafec6def4222e5</link>
+			<title>​​[整理搬运] 肯普法 (けんぷファー) (Kämpfer)：TV动画+Special+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.06)</title>
+			<description>​​[整理搬运] 肯普法 (けんぷファー) (Kämpfer)：TV动画+Special+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.10.06)[15.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49bb265dbb0a41c2268692c01aafec6def4222e5</link>
+				<contentLength>16642998272</contentLength>
+				<pubDate>2026-02-09T17:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="16642998272" url="https://mikanani.me/Download/20260209/49bb265dbb0a41c2268692c01aafec6def4222e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd</link>
 			<title>[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-08T13:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="706425664" url="https://mikanani.me/Download/20260208/bc2b17b3bb82d3dd4d8cc64cfab7edce4cdac425.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][光阴之外][Beyond Time's Gaze][2025][01-08][GB][4K HEVC 10Bit]</guid>
-			<link>https://mikanani.me/Home/Episode/f7ea3aac49efc555ebdf11a635100aa49e208b4f</link>
-			<title>[GM-Team][国漫][光阴之外][Beyond Time's Gaze][2025][01-08][GB][4K HEVC 10Bit]</title>
-			<description>[GM-Team][国漫][光阴之外][Beyond Time's Gaze][2025][01-08][GB][4K HEVC 10Bit][6.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f7ea3aac49efc555ebdf11a635100aa49e208b4f</link>
-				<contentLength>7086695936</contentLength>
-				<pubDate>2026-02-08T13:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7086695936" url="https://mikanani.me/Download/20260208/f7ea3aac49efc555ebdf11a635100aa49e208b4f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
