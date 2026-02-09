@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K]</guid>
+			<link>https://mikanani.me/Home/Episode/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd</link>
+			<title>[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K]</title>
+			<description>[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K][4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2026-02-09T16:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20260209/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1518]小丸子和友藏进不了家门&amp;小丸子想要闪闪发光的10日元硬币[2026.02.08][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/6d25729c0760eb3e690d7f36f007f042c8697283</link>
 			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1518]小丸子和友藏进不了家门&amp;小丸子想要闪闪发光的10日元硬币[2026.02.08][BIG5][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-08T13:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7086695936" url="https://mikanani.me/Download/20260208/f7ea3aac49efc555ebdf11a635100aa49e208b4f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/47ba54e4f2d35123bef208299d8a924c850de3fe</link>
-			<title>[LoliHouse] Fate/strange Fake - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Fate/strange Fake - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][885.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/47ba54e4f2d35123bef208299d8a924c850de3fe</link>
-				<contentLength>928199488</contentLength>
-				<pubDate>2026-02-08T13:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="928199488" url="https://mikanani.me/Download/20260208/47ba54e4f2d35123bef208299d8a924c850de3fe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -1516,5 +1516,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="459590848" url="https://mikanani.me/Download/20260209/0fcdfc7467ddad23e4d38a3ed2e1c71806c2659b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K]</guid>
+			<link>https://mikanani.me/Home/Episode/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd</link>
+			<title>[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K]</title>
+			<description>[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][01-07][HEVC][GB][4K][4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2026-02-09T16:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20260209/cf7c31912d6a6f8c48a01b0a67ca450c9aeaecdd.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
