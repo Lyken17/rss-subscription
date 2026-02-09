@@ -2620,5 +2620,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="481820672" url="https://mikanani.me/Download/20260209/bdedd54e4d1b3759a9979acaa1033a6f0d290334.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 55 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a20ba596fd5abe2c6cfafea954372e327bb817cf</link>
+			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 55 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 55 [WebRip 1080p HEVC-10bit AAC][无字幕][237.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a20ba596fd5abe2c6cfafea954372e327bb817cf</link>
+				<contentLength>249456224</contentLength>
+				<pubDate>2026-02-09T23:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="249456224" url="https://mikanani.me/Download/20260209/a20ba596fd5abe2c6cfafea954372e327bb817cf.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
