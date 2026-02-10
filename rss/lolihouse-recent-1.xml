@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="319081664" url="https://mikanani.me/Download/20260210/58f3d0177b2c6f55b255b4107c8c65c524791a1a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/478319539ff0815e76a545a8538c38e4a68eb420</link>
+			<title>[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][498.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/478319539ff0815e76a545a8538c38e4a68eb420</link>
+				<contentLength>522820000</contentLength>
+				<pubDate>2026-02-10T23:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="522820000" url="https://mikanani.me/Download/20260210/478319539ff0815e76a545a8538c38e4a68eb420.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
