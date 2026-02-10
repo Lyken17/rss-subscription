@@ -7180,5 +7180,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="304401600" url="https://mikanani.me/Download/20260210/73ccfd3375376f2584910d0688d5324ae81392b4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 06 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/9d533a5cfddb7170ac85b6c951952003d9984429</link>
+			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 06 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 06 (CR 1920x1080 AVC AAC MKV)[864.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9d533a5cfddb7170ac85b6c951952003d9984429</link>
+				<contentLength>905969664</contentLength>
+				<pubDate>2026-02-10T16:34:34.054383</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="905969664" url="https://mikanani.me/Download/20260210/9d533a5cfddb7170ac85b6c951952003d9984429.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
