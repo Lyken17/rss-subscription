@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★06★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/73ccfd3375376f2584910d0688d5324ae81392b4</link>
+			<title>六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★06★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★06★1920x1080★AVC AAC MP4★繁体中文[290.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/73ccfd3375376f2584910d0688d5324ae81392b4</link>
+				<contentLength>304401600</contentLength>
+				<pubDate>2026-02-10T14:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="304401600" url="https://mikanani.me/Download/20260210/73ccfd3375376f2584910d0688d5324ae81392b4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 69 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ce017216248b1f88dd56eed4727879b2d1de7ac6</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 69 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-08T22:34:03.586828</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260208/e843e4646196e8ce53e62c4f9a410d94ccfe19c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  被邻国王太子溺爱的反派千金 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7799955c100e03e014aa50bfe1e814220b66f42c</link>
-			<title>[ANi]  被邻国王太子溺爱的反派千金 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  被邻国王太子溺爱的反派千金 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][437.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7799955c100e03e014aa50bfe1e814220b66f42c</link>
-				<contentLength>458227712</contentLength>
-				<pubDate>2026-02-08T22:31:05.929415</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458227712" url="https://mikanani.me/Download/20260208/7799955c100e03e014aa50bfe1e814220b66f42c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
