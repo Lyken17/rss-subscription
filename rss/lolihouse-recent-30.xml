@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b2de19251abb124378870b0e6938608968d04c43</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][559.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b2de19251abb124378870b0e6938608968d04c43</link>
-				<contentLength>586573440</contentLength>
-				<pubDate>2026-01-11T14:26:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="586573440" url="https://mikanani.me/Download/20260111/b2de19251abb124378870b0e6938608968d04c43.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 29岁单身中坚冒险家的日常 /  29-sai Dokushin Chuuken Boukensha no Nichijou - 01 [WebRip 1080p HEVC-10bit AAC][英文内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5fb683f8624cff16fff1b80c8caa7d1dbdf91625</link>
 			<title>[LoliHouse] 29岁单身中坚冒险家的日常 /  29-sai Dokushin Chuuken Boukensha no Nichijou - 01 [WebRip 1080p HEVC-10bit AAC][英文内封字幕]</title>
@@ -2583,6 +2571,30 @@
 				<pubDate>2026-02-10T20:19:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="490523840" url="https://mikanani.me/Download/20260210/46b11264dfd19fae692930f6b7fe6b73b102b04a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</guid>
+			<link>https://mikanani.me/Home/Episode/eeb17108b779414951aef4175a11b24eaec61ab1</link>
+			<title>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</title>
+			<description>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)[503.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eeb17108b779414951aef4175a11b24eaec61ab1</link>
+				<contentLength>528377440</contentLength>
+				<pubDate>2026-02-10T21:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="528377440" url="https://mikanani.me/Download/20260210/eeb17108b779414951aef4175a11b24eaec61ab1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/58f3d0177b2c6f55b255b4107c8c65c524791a1a</link>
+			<title>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][304.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/58f3d0177b2c6f55b255b4107c8c65c524791a1a</link>
+				<contentLength>319081664</contentLength>
+				<pubDate>2026-02-10T21:35:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="319081664" url="https://mikanani.me/Download/20260210/58f3d0177b2c6f55b255b4107c8c65c524791a1a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
