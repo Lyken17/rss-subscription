@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 69 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ce017216248b1f88dd56eed4727879b2d1de7ac6</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 69 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 69 (B-Global Donghua 1920x1080 HEVC AAC MKV)[666.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce017216248b1f88dd56eed4727879b2d1de7ac6</link>
+				<contentLength>698980736</contentLength>
+				<pubDate>2026-02-10T11:00:55.880152</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="698980736" url="https://mikanani.me/Download/20260210/ce017216248b1f88dd56eed4727879b2d1de7ac6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha-kei ni Shosu: Choubatsu Yuusha 9004 Tai Keimu Kiroku [05][1080p][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/347446c9b7836e29007198266f2e020480b6288a</link>
 			<title>[桜都字幕组] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha-kei ni Shosu: Choubatsu Yuusha 9004 Tai Keimu Kiroku [05][1080p][繁体内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-08T22:31:05.929415</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="458227712" url="https://mikanani.me/Download/20260208/7799955c100e03e014aa50bfe1e814220b66f42c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 被邻国王太子溺爱的反派千金 / Akudeki - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4005bd6e3d02293b323c87d99319f837fb848232</link>
-			<title>[黒ネズミたち] 被邻国王太子溺爱的反派千金 / Akudeki - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 被邻国王太子溺爱的反派千金 / Akudeki - 05 (Baha 1920x1080 AVC AAC MP4)[436.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4005bd6e3d02293b323c87d99319f837fb848232</link>
-				<contentLength>457808288</contentLength>
-				<pubDate>2026-02-08T22:30:57.891736</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="457808288" url="https://mikanani.me/Download/20260208/4005bd6e3d02293b323c87d99319f837fb848232.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
