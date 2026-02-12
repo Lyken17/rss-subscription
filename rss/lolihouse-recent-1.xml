@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 02 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/ecdf3517756c74825a14ec02d9678343344eeb74</link>
-			<title>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 02 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</title>
-			<description>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 02 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)[745.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ecdf3517756c74825a14ec02d9678343344eeb74</link>
-				<contentLength>782132864</contentLength>
-				<pubDate>2026-02-11T13:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="782132864" url="https://mikanani.me/Download/20260211/ecdf3517756c74825a14ec02d9678343344eeb74.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e6605512fdc40211f9e05bfcd33285a957ee204e</link>
 			<title>[LoliHouse] 异世界的处置依社畜而定 / Isekai no Sata wa Shachiku Shidai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -207,6 +195,18 @@
 				<pubDate>2026-02-12T20:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="289197248" url="https://mikanani.me/Download/20260212/64625824552957be57402d50f349d539071aaa24.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8a08821fc026b3ca34b276fc666dfa7b08170675</link>
+			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][35.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a08821fc026b3ca34b276fc666dfa7b08170675</link>
+				<contentLength>37434164</contentLength>
+				<pubDate>2026-02-12T22:45:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="37434164" url="https://mikanani.me/Download/20260212/8a08821fc026b3ca34b276fc666dfa7b08170675.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
