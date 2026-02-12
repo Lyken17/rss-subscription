@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/6ef70c4b889212f2e489db19037df43bc3330839</link>
+			<title>[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)[21.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ef70c4b889212f2e489db19037df43bc3330839</link>
+				<contentLength>22548578304</contentLength>
+				<pubDate>2026-02-12T13:47:28.517453</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22548578304" url="https://mikanani.me/Download/20260212/6ef70c4b889212f2e489db19037df43bc3330839.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 为喵人生 / Reborn as a Cat - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8f74048dc06f77b7b551e43227946cf187c6bf3e</link>
 			<title>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-11T11:12:14.872</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="671665344" url="https://mikanani.me/Download/20260211/cffba937b4d354a1c406057fa5606e429b061fd3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 潜行吧 ! 奈亚子／袭来！美少女邪神 (这いよれ ! ニャル子さん) (Haiyore ! Nyaruko-san)：TV动画 (第1季、第2季)+OVA+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2022.07.13)</guid>
-			<link>https://mikanani.me/Home/Episode/ae9aef58ae51b0cd5b0b22daad8ac85ba247a9cb</link>
-			<title>[整理搬运] 潜行吧 ! 奈亚子／袭来！美少女邪神 (这いよれ ! ニャル子さん) (Haiyore ! Nyaruko-san)：TV动画 (第1季、第2季)+OVA+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2022.07.13)</title>
-			<description>[整理搬运] 潜行吧 ! 奈亚子／袭来！美少女邪神 (这いよれ ! ニャル子さん) (Haiyore ! Nyaruko-san)：TV动画 (第1季、第2季)+OVA+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2022.07.13)[38.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ae9aef58ae51b0cd5b0b22daad8ac85ba247a9cb</link>
-				<contentLength>40802189312</contentLength>
-				<pubDate>2026-02-11T10:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="40802189312" url="https://mikanani.me/Download/20260211/ae9aef58ae51b0cd5b0b22daad8ac85ba247a9cb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

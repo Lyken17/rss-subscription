@@ -1240,5 +1240,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260212/d03a9df16e4c70e857b205d29120fcfde1b40df3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/6ef70c4b889212f2e489db19037df43bc3330839</link>
+			<title>[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)[21.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ef70c4b889212f2e489db19037df43bc3330839</link>
+				<contentLength>22548578304</contentLength>
+				<pubDate>2026-02-12T13:47:28.517453</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="22548578304" url="https://mikanani.me/Download/20260212/6ef70c4b889212f2e489db19037df43bc3330839.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
