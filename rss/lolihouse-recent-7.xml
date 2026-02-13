@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/47d1cbedf180f8e9991a5f7542c9255f32a20e93</link>
-			<title>[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season - 17 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][345MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/47d1cbedf180f8e9991a5f7542c9255f32a20e93</link>
-				<contentLength>361758720</contentLength>
-				<pubDate>2026-02-06T16:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="361758720" url="https://mikanani.me/Download/20260206/47d1cbedf180f8e9991a5f7542c9255f32a20e93.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a0e4a3bc75772006f898781c16cbce6b558bf5c2</link>
 			<title>[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -747,6 +735,18 @@
 				<pubDate>2026-02-13T20:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260213/5a565e64cb6f506e9d7395c282233440f1ba204a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 32 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6a3777513ba3da947b81b4656936e3a9b224e57a</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 32 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 32 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][890.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a3777513ba3da947b81b4656936e3a9b224e57a</link>
+				<contentLength>933337472</contentLength>
+				<pubDate>2026-02-13T23:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="933337472" url="https://mikanani.me/Download/20260213/6a3777513ba3da947b81b4656936e3a9b224e57a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
