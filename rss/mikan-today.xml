@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]SPY×FAMILY间谍家家酒 / 间谍过家家Season 3 - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/aea2cbc08f46bf14de0cc9062c3bd15249b23560</link>
+			<title>[jibaketa合成][代理商粤语]SPY×FAMILY间谍家家酒 / 间谍过家家Season 3 - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
+			<description>[jibaketa合成][代理商粤语]SPY×FAMILY间谍家家酒 / 间谍过家家Season 3 - 07 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[403.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aea2cbc08f46bf14de0cc9062c3bd15249b23560</link>
+				<contentLength>423310144</contentLength>
+				<pubDate>2026-02-14T12:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="423310144" url="https://mikanani.me/Download/20260214/aea2cbc08f46bf14de0cc9062c3bd15249b23560.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成][代理商粤语]一拳超人 第3季 / One Punch Man S3 - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/e43fdd3373bf4c57c3413f4740094ca3ac72f872</link>
 			<title>[jibaketa合成][代理商粤语]一拳超人 第3季 / One Punch Man S3 - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-02-13T01:41:06.793385</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="458856864" url="https://mikanani.me/Download/20260213/16e210ae26d7ab7d15148f3d48673b8ca99d151d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/861fdf278cbb3dd8612dc41102214dcb6246bb11</link>
-			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 07 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 07 (Baha 1920x1080 AVC AAC MP4)[437.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/861fdf278cbb3dd8612dc41102214dcb6246bb11</link>
-				<contentLength>458437440</contentLength>
-				<pubDate>2026-02-13T01:40:57.995516</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="458437440" url="https://mikanani.me/Download/20260213/861fdf278cbb3dd8612dc41102214dcb6246bb11.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
