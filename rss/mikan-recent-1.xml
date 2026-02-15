@@ -77,18 +77,6 @@
 			<enclosure type="application/x-bittorrent" length="35022440" url="https://mikanani.me/Download/20260214/d6276f63225a151b285281cbdb379045ec0c1dd2.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★剧场版★[超时空辉夜姬！ / Chou Kaguya-hime!][1080p][繁体][v2]</guid>
-			<link>https://mikanani.me/Home/Episode/9149dede12dcd4aef520f491ab8be4c4c17384b6</link>
-			<title>【喵萌奶茶屋】★剧场版★[超时空辉夜姬！ / Chou Kaguya-hime!][1080p][繁体][v2]</title>
-			<description>【喵萌奶茶屋】★剧场版★[超时空辉夜姬！ / Chou Kaguya-hime!][1080p][繁体][v2][3.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9149dede12dcd4aef520f491ab8be4c4c17384b6</link>
-				<contentLength>3435973888</contentLength>
-				<pubDate>2026-02-14T19:21:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20260214/9149dede12dcd4aef520f491ab8be4c4c17384b6.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa][260213]アニゲー☆イレブン! 527 (BS11 1920x1080i x264 AAC)</guid>
 			<link>https://mikanani.me/Home/Episode/c4864c42e5f496bae14f5b8f552aa9ecb11a0c4b</link>
 			<title>[jibaketa][260213]アニゲー☆イレブン! 527 (BS11 1920x1080i x264 AAC)</title>
@@ -2139,6 +2127,30 @@
 				<pubDate>2026-02-16T01:30:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="939419264" url="https://mikanani.me/Download/20260216/d44c8d917011125b1dbae49651bb46469311fcd0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][繁日双语内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/01ac8ce8bfd04050756f842edeb574a967f51e4e</link>
+			<title>[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][繁日双语内嵌]</title>
+			<description>[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][繁日双语内嵌][581.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/01ac8ce8bfd04050756f842edeb574a967f51e4e</link>
+				<contentLength>609327488</contentLength>
+				<pubDate>2026-02-16T02:56:41.465</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="609327488" url="https://mikanani.me/Download/20260216/01ac8ce8bfd04050756f842edeb574a967f51e4e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][简日双语内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/dcdf428be4bd561c8369a6c5b5d24bbbf4cc4d57</link>
+			<title>[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][简日双语内嵌]</title>
+			<description>[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][简日双语内嵌][581.28 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dcdf428be4bd561c8369a6c5b5d24bbbf4cc4d57</link>
+				<contentLength>609516288</contentLength>
+				<pubDate>2026-02-16T02:56:41.434</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="609516288" url="https://mikanani.me/Download/20260216/dcdf428be4bd561c8369a6c5b5d24bbbf4cc4d57.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
