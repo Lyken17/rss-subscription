@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][数码重映第1099集 风之女神·萩原千速（后篇）][字幕仅重映片头片尾][TVRIP][简繁日多语MKV][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/47b4f0eafcd1448e5a050963506f57e505da6a5e</link>
+			<title>[银色子弹字幕组][名侦探柯南][数码重映第1099集 风之女神·萩原千速（后篇）][字幕仅重映片头片尾][TVRIP][简繁日多语MKV][1080P]</title>
+			<description>[银色子弹字幕组][名侦探柯南][数码重映第1099集 风之女神·萩原千速（后篇）][字幕仅重映片头片尾][TVRIP][简繁日多语MKV][1080P][847MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/47b4f0eafcd1448e5a050963506f57e505da6a5e</link>
+				<contentLength>888143872</contentLength>
+				<pubDate>2026-02-16T18:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="888143872" url="https://mikanani.me/Download/20260216/47b4f0eafcd1448e5a050963506f57e505da6a5e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [28][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/891aa09b70e2d13d2ac2d28bb73d0c3121512bb5</link>
 			<title>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [28][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-15T16:31:37.508597</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="393320864" url="https://mikanani.me/Download/20260215/81d02804a9a9e4ad9643778f17563cf548cf31c3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 06 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5daccde0b3ff1b9036852a3e7f8473838e433839</link>
-			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 06 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 06 (B-Global 1920x1080 HEVC AAC MKV)[214.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5daccde0b3ff1b9036852a3e7f8473838e433839</link>
-				<contentLength>224395264</contentLength>
-				<pubDate>2026-02-15T16:31:34.509674</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="224395264" url="https://mikanani.me/Download/20260215/5daccde0b3ff1b9036852a3e7f8473838e433839.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
