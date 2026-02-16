@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【56】【GB_MP4】【1280X720】</guid>
+			<link>https://mikanani.me/Home/Episode/ff4ea7c5562074f203f21f6ac998e4a24823b162</link>
+			<title>【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【56】【GB_MP4】【1280X720】</title>
+			<description>【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【56】【GB_MP4】【1280X720】[159MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ff4ea7c5562074f203f21f6ac998e4a24823b162</link>
+				<contentLength>166723584</contentLength>
+				<pubDate>2026-02-17T01:39:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="166723584" url="https://mikanani.me/Download/20260217/ff4ea7c5562074f203f21f6ac998e4a24823b162.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 07 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c4d11cdfcc19b46a395fb55002110d32f0bd0ff7</link>
 			<title>[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 07 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-15T23:00:31.229086</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751094976" url="https://mikanani.me/Download/20260215/5ac916ca9e214787244b848cf4a06bfa1246b9e9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [17][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/20323aa96bc9761d2978c9fddfcce7ac81cf3a03</link>
-			<title>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [17][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [17][WebRip][1080p][繁日内嵌][491.53 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/20323aa96bc9761d2978c9fddfcce7ac81cf3a03</link>
-				<contentLength>515406560</contentLength>
-				<pubDate>2026-02-15T22:55:44.285</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="515406560" url="https://mikanani.me/Download/20260215/20323aa96bc9761d2978c9fddfcce7ac81cf3a03.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
