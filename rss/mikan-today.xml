@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4297d5a82ae2b391fc88424e5297ee1c062cba34</link>
+			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 43 (B-Global Donghua 1920x1080 HEVC AAC MKV)[1.0 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4297d5a82ae2b391fc88424e5297ee1c062cba34</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-02-16T10:01:11.85131</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260216/4297d5a82ae2b391fc88424e5297ee1c062cba34.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][繁日双语内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/01ac8ce8bfd04050756f842edeb574a967f51e4e</link>
 			<title>[晚街与灯][命运-奇异赝品_Fate strange Fake][07 神自黄昏回归][WebRip][1080P_AVC_AAC][繁日双语内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-02-15T13:48:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="840433664" url="https://mikanani.me/Download/20260215/0897a146d727d830d16abcb128eaa9dd33706df5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黑白字幕组]铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers [05] [WebRip 1080p AVC-8bit AAC][CHS](检索用：魔神坛斗士)</guid>
-			<link>https://mikanani.me/Home/Episode/4ddb1dd13f558f6ccbc1f195023c5160b5febe76</link>
-			<title>[黑白字幕组]铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers [05] [WebRip 1080p AVC-8bit AAC][CHS](检索用：魔神坛斗士)</title>
-			<description>[黑白字幕组]铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers [05] [WebRip 1080p AVC-8bit AAC][CHS](检索用：魔神坛斗士)[801MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4ddb1dd13f558f6ccbc1f195023c5160b5febe76</link>
-				<contentLength>839909376</contentLength>
-				<pubDate>2026-02-15T13:47:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="839909376" url="https://mikanani.me/Download/20260215/4ddb1dd13f558f6ccbc1f195023c5160b5febe76.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
