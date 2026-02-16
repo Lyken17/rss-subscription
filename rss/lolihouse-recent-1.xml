@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ec573948a6227b8317740e2d8f401deed1799102</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][625.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ec573948a6227b8317740e2d8f401deed1799102</link>
-				<contentLength>655884288</contentLength>
-				<pubDate>2026-02-15T02:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="655884288" url="https://mikanani.me/Download/20260215/ec573948a6227b8317740e2d8f401deed1799102.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 07 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/543abd0d16cff3c96147224d5ddaa5a8090e1186</link>
-			<title>[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 07 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 07 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][91.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/543abd0d16cff3c96147224d5ddaa5a8090e1186</link>
-				<contentLength>95839848</contentLength>
-				<pubDate>2026-02-15T02:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="95839848" url="https://mikanani.me/Download/20260215/543abd0d16cff3c96147224d5ddaa5a8090e1186.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d56c869a783f041dd27559d61368174adbaaa689</link>
 			<title>[LoliHouse] Fate/strange Fake - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -111,6 +87,18 @@
 				<pubDate>2026-02-15T23:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="516633408" url="https://mikanani.me/Download/20260215/702bece5a6205bd76c9f771e08115205be84363c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/5e47d539c1793538aaf9f3dcd02fdc77e118fa9a</link>
+			<title>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][363.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5e47d539c1793538aaf9f3dcd02fdc77e118fa9a</link>
+				<contentLength>381157376</contentLength>
+				<pubDate>2026-02-16T11:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="381157376" url="https://mikanani.me/Download/20260216/5e47d539c1793538aaf9f3dcd02fdc77e118fa9a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
