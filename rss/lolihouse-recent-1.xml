@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/0b7246aeec28484a426834508c7b1439a44b660b</link>
-			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][366.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0b7246aeec28484a426834508c7b1439a44b660b</link>
-				<contentLength>384512832</contentLength>
-				<pubDate>2026-02-16T14:16:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="384512832" url="https://mikanani.me/Download/20260216/0b7246aeec28484a426834508c7b1439a44b660b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 56 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a1580030ef7d9f731dcb99cc8a04f1c601bc6551</link>
 			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 56 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -39,6 +27,18 @@
 				<pubDate>2026-02-17T01:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="242955056" url="https://mikanani.me/Download/20260217/c4d11cdfcc19b46a395fb55002110d32f0bd0ff7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/507021261894dbbb69508f1b14f8b60d669f7615</link>
+			<title>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][375.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/507021261894dbbb69508f1b14f8b60d669f7615</link>
+				<contentLength>393740288</contentLength>
+				<pubDate>2026-02-17T22:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="393740288" url="https://mikanani.me/Download/20260217/507021261894dbbb69508f1b14f8b60d669f7615.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
