@@ -892,5 +892,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6442450944" url="https://mikanani.me/Download/20260217/825f6d088800fa3d21f0b55a74611c2f47f57007.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 社畜想被幼女幽灵疗愈。 / Shachiku-san wa Youjo Yuurei ni Iyasaretai. / 社畜さんは幼女幽霊に愈されたい。 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/6cb958a3da4e6bcb4204cf740906ad4e460c2cdb</link>
+			<title>[VCB-Studio] 社畜想被幼女幽灵疗愈。 / Shachiku-san wa Youjo Yuurei ni Iyasaretai. / 社畜さんは幼女幽霊に愈されたい。 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 社畜想被幼女幽灵疗愈。 / Shachiku-san wa Youjo Yuurei ni Iyasaretai. / 社畜さんは幼女幽霊に愈されたい。 10-bit 1080p HEVC BDRip [Fin][16.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6cb958a3da4e6bcb4204cf740906ad4e460c2cdb</link>
+				<contentLength>17609365504</contentLength>
+				<pubDate>2026-02-17T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17609365504" url="https://mikanani.me/Download/20260217/6cb958a3da4e6bcb4204cf740906ad4e460c2cdb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

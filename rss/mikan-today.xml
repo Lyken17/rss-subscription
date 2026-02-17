@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 社畜想被幼女幽灵疗愈。 / Shachiku-san wa Youjo Yuurei ni Iyasaretai. / 社畜さんは幼女幽霊に愈されたい。 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/6cb958a3da4e6bcb4204cf740906ad4e460c2cdb</link>
+			<title>[VCB-Studio] 社畜想被幼女幽灵疗愈。 / Shachiku-san wa Youjo Yuurei ni Iyasaretai. / 社畜さんは幼女幽霊に愈されたい。 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 社畜想被幼女幽灵疗愈。 / Shachiku-san wa Youjo Yuurei ni Iyasaretai. / 社畜さんは幼女幽霊に愈されたい。 10-bit 1080p HEVC BDRip [Fin][16.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6cb958a3da4e6bcb4204cf740906ad4e460c2cdb</link>
+				<contentLength>17609365504</contentLength>
+				<pubDate>2026-02-17T17:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17609365504" url="https://mikanani.me/Download/20260217/6cb958a3da4e6bcb4204cf740906ad4e460c2cdb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][06][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯</guid>
 			<link>https://mikanani.me/Home/Episode/b2e16c975fa32c6d4ebd569f25029efb6bba410f</link>
 			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][06][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]エリスの圣杯／厄里斯的圣杯</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-16T00:12:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260216/91c75eee1dbd51db86e06c8ed96c21ffcddd8636.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋&amp;桜都&amp;冷番补完字幕组] 超时空辉耀姬 / Chou Kaguya-hime! [1080P][繁中内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/6d744544f84a2e14b3bb8cc245320f142bb591aa</link>
-			<title>[爱恋&amp;桜都&amp;冷番补完字幕组] 超时空辉耀姬 / Chou Kaguya-hime! [1080P][繁中内嵌]</title>
-			<description>[爱恋&amp;桜都&amp;冷番补完字幕组] 超时空辉耀姬 / Chou Kaguya-hime! [1080P][繁中内嵌][4.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6d744544f84a2e14b3bb8cc245320f142bb591aa</link>
-				<contentLength>4939212288</contentLength>
-				<pubDate>2026-02-16T00:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4939212288" url="https://mikanani.me/Download/20260216/6d744544f84a2e14b3bb8cc245320f142bb591aa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
