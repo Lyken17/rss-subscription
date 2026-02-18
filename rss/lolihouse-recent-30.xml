@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/387348a0e52335869b42c045bb570b9c740f7486</link>
-			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][508.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/387348a0e52335869b42c045bb570b9c740f7486</link>
-				<contentLength>532781472</contentLength>
-				<pubDate>2026-01-19T00:39:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="532781472" url="https://mikanani.me/Download/20260119/387348a0e52335869b42c045bb570b9c740f7486.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 50 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e5390bdb629da86ca29ed14c9bd462c346dd42f1</link>
 			<title>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 50 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -2607,6 +2595,18 @@
 				<pubDate>2026-02-18T00:16:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="585105408" url="https://mikanani.me/Download/20260218/6d59fabe88ce564de03f6d7722f5281f1bf60147.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b33de9a172e64a9eecfdd546c53bad55fa555e5a</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][830.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b33de9a172e64a9eecfdd546c53bad55fa555e5a</link>
+				<contentLength>870947200</contentLength>
+				<pubDate>2026-02-18T08:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="870947200" url="https://mikanani.me/Download/20260218/b33de9a172e64a9eecfdd546c53bad55fa555e5a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
