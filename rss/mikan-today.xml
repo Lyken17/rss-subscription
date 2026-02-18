@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[VCB-Studio] 全金属狂潮 / Full Metal Panic! 10-bit 720p/1080p AVC/HEVC BDRip [S1-S4 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/908d47e5099a575a164ce3a364b1108dd9c8346d</link>
+			<title>[VCB-Studio] 全金属狂潮 / Full Metal Panic! 10-bit 720p/1080p AVC/HEVC BDRip [S1-S4 Reseed Fin]</title>
+			<description>[VCB-Studio] 全金属狂潮 / Full Metal Panic! 10-bit 720p/1080p AVC/HEVC BDRip [S1-S4 Reseed Fin][79.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/908d47e5099a575a164ce3a364b1108dd9c8346d</link>
+				<contentLength>85255102464</contentLength>
+				<pubDate>2026-02-18T11:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="85255102464" url="https://mikanani.me/Download/20260218/908d47e5099a575a164ce3a364b1108dd9c8346d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b33de9a172e64a9eecfdd546c53bad55fa555e5a</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-16T22:23:41.366536</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="538443776" url="https://mikanani.me/Download/20260216/cbc4f4a8f87fc24f7ba6fe22a8d1e8874a6dd390.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 正义使者 - 我的英雄学院之非法英雄 第二季 / Vigilante: Boku no Hero Academia Illegals 2 - 07 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/852065a3e8a7be45c5223766e387845fd8765e82</link>
-			<title>[黒ネズミたち] 正义使者 - 我的英雄学院之非法英雄 第二季 / Vigilante: Boku no Hero Academia Illegals 2 - 07 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 正义使者 - 我的英雄学院之非法英雄 第二季 / Vigilante: Boku no Hero Academia Illegals 2 - 07 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/852065a3e8a7be45c5223766e387845fd8765e82</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2026-02-16T22:02:33.904843</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260216/852065a3e8a7be45c5223766e387845fd8765e82.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -952,5 +952,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="271371456" url="https://mikanani.me/Download/20260218/d02d2459ecd67b671417555f310a3f26347f6b7f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 全金属狂潮 / Full Metal Panic! 10-bit 720p/1080p AVC/HEVC BDRip [S1-S4 Reseed Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/908d47e5099a575a164ce3a364b1108dd9c8346d</link>
+			<title>[VCB-Studio] 全金属狂潮 / Full Metal Panic! 10-bit 720p/1080p AVC/HEVC BDRip [S1-S4 Reseed Fin]</title>
+			<description>[VCB-Studio] 全金属狂潮 / Full Metal Panic! 10-bit 720p/1080p AVC/HEVC BDRip [S1-S4 Reseed Fin][79.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/908d47e5099a575a164ce3a364b1108dd9c8346d</link>
+				<contentLength>85255102464</contentLength>
+				<pubDate>2026-02-18T11:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="85255102464" url="https://mikanani.me/Download/20260218/908d47e5099a575a164ce3a364b1108dd9c8346d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
