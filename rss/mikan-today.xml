@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 06 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/2add879b8b9925feb2501bdc51c6bfbca15dda9d</link>
+			<title>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 06 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 06 [1080p][简日内嵌][261.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2add879b8b9925feb2501bdc51c6bfbca15dda9d</link>
+				<contentLength>274517184</contentLength>
+				<pubDate>2026-02-19T09:46:37.938514</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="274517184" url="https://mikanani.me/Download/20260219/2add879b8b9925feb2501bdc51c6bfbca15dda9d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/3f6f8b1b8d9f8e7761a1ac4b634f129af7a65454</link>
 			<title>[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-18T01:15:15.555</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="528775904" url="https://mikanani.me/Download/20260218/cca48b4fbf510838d6b7a0d75f063fe5c8e7746c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 命运-奇异赝品 / Fate Srange Fake [06][WebRip][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/b91598360ed5c8ad8bfcfeef960a88eeffc958e0</link>
-			<title>[绿茶字幕组] 命运-奇异赝品 / Fate Srange Fake [06][WebRip][1080p][简日内嵌]</title>
-			<description>[绿茶字幕组] 命运-奇异赝品 / Fate Srange Fake [06][WebRip][1080p][简日内嵌][480.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b91598360ed5c8ad8bfcfeef960a88eeffc958e0</link>
-				<contentLength>504260192</contentLength>
-				<pubDate>2026-02-18T01:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504260192" url="https://mikanani.me/Download/20260218/b91598360ed5c8ad8bfcfeef960a88eeffc958e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
