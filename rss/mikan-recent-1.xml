@@ -1144,5 +1144,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="282014528" url="https://mikanani.me/Download/20260219/3e6a972e9d74000747322b5c61de469ad7fbbe8e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇（仅限港澳台地区） [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6e8008f8ea2c0b2a3c1a7fe3c7fc1f33b3fda6fc</link>
+			<title>[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇（仅限港澳台地区） [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内嵌]</title>
+			<description>[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇（仅限港澳台地区） [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内嵌][486.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e8008f8ea2c0b2a3c1a7fe3c7fc1f33b3fda6fc</link>
+				<contentLength>509712800</contentLength>
+				<pubDate>2026-02-19T14:00:32.745663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="509712800" url="https://mikanani.me/Download/20260219/6e8008f8ea2c0b2a3c1a7fe3c7fc1f33b3fda6fc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

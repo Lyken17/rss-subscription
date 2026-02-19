@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇（仅限港澳台地区） [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6e8008f8ea2c0b2a3c1a7fe3c7fc1f33b3fda6fc</link>
+			<title>[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇（仅限港澳台地区） [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内嵌]</title>
+			<description>[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇（仅限港澳台地区） [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][繁体内嵌][486.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e8008f8ea2c0b2a3c1a7fe3c7fc1f33b3fda6fc</link>
+				<contentLength>509712800</contentLength>
+				<pubDate>2026-02-19T14:00:32.745663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="509712800" url="https://mikanani.me/Download/20260219/6e8008f8ea2c0b2a3c1a7fe3c7fc1f33b3fda6fc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇 [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简英内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/b214a29986f1b1a51a4efb1c82d3351dd17dd98f</link>
 			<title>[Pre-S搬运部] 碳基生物进化指南：最强蜗牛独眼篇 [01-10][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简英内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-18T02:30:31.639597</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="762734208" url="https://mikanani.me/Download/20260218/daab0dcdf9ceb43fa4c3cac9cd34a7981160a82b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 午夜的倾心旋律 - 07 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b453b3fe833437e95694ee143d27ed041a67eb6e</link>
-			<title>[沸班亚马制作组] 午夜的倾心旋律 - 07 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 午夜的倾心旋律 - 07 [BILIBILI WebRip 2160p HEVC OPUS][简繁内封字幕][738.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b453b3fe833437e95694ee143d27ed041a67eb6e</link>
-				<contentLength>774583104</contentLength>
-				<pubDate>2026-02-18T02:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="774583104" url="https://mikanani.me/Download/20260218/b453b3fe833437e95694ee143d27ed041a67eb6e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
