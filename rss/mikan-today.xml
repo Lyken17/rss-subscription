@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][07][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/4116109fe9438c5b9dd5b6a68d65142ba745babc</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][07][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][07][1080p][简日双语][151.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4116109fe9438c5b9dd5b6a68d65142ba745babc</link>
+				<contentLength>159173840</contentLength>
+				<pubDate>2026-02-20T05:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="159173840" url="https://mikanani.me/Download/20260220/4116109fe9438c5b9dd5b6a68d65142ba745babc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf</link>
 			<title>[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-19T02:06:20.133452</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="92379544" url="https://mikanani.me/Download/20260219/f6736142a0aad705104f908662907abee79ecd61.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] mofusand / Mofusand - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/64e682b15054940cc5afeb006ef5f635e6861a67</link>
-			<title>[黒ネズミたち] mofusand / Mofusand - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] mofusand / Mofusand - 07 (ABEMA 1920x1080 AVC AAC MP4)[26.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/64e682b15054940cc5afeb006ef5f635e6861a67</link>
-				<contentLength>27892122</contentLength>
-				<pubDate>2026-02-19T02:01:34.993867</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="27892122" url="https://mikanani.me/Download/20260219/64e682b15054940cc5afeb006ef5f635e6861a67.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
