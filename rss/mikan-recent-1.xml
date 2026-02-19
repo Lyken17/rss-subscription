@@ -1204,5 +1204,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="864341184" url="https://mikanani.me/Download/20260219/1cb523f3eba975c8b0ca1bf18dbb0a9a0dbc590c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/622a71c94bf5b7841e92c13316e7351c7cc06cb5</link>
+			<title>[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)[30.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/622a71c94bf5b7841e92c13316e7351c7cc06cb5</link>
+				<contentLength>32641751040</contentLength>
+				<pubDate>2026-02-19T18:10:35.631186</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="32641751040" url="https://mikanani.me/Download/20260219/622a71c94bf5b7841e92c13316e7351c7cc06cb5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

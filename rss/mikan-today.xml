@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/622a71c94bf5b7841e92c13316e7351c7cc06cb5</link>
+			<title>[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)[30.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/622a71c94bf5b7841e92c13316e7351c7cc06cb5</link>
+				<contentLength>32641751040</contentLength>
+				<pubDate>2026-02-19T18:10:35.631186</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="32641751040" url="https://mikanani.me/Download/20260219/622a71c94bf5b7841e92c13316e7351c7cc06cb5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 地狱老师 2025年版 / Jigoku Sensei Nube 2025 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/09a6f8277ece2a21a967ce75b81f714c505e3aae</link>
 			<title>[LoliHouse] 地狱老师 2025年版 / Jigoku Sensei Nube 2025 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-18T11:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="85255102464" url="https://mikanani.me/Download/20260218/908d47e5099a575a164ce3a364b1108dd9c8346d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b33de9a172e64a9eecfdd546c53bad55fa555e5a</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 33 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][830.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b33de9a172e64a9eecfdd546c53bad55fa555e5a</link>
-				<contentLength>870947200</contentLength>
-				<pubDate>2026-02-18T08:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="870947200" url="https://mikanani.me/Download/20260218/b33de9a172e64a9eecfdd546c53bad55fa555e5a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

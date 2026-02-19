@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7651f2b2db9ce1dd274ab839560d7296749fefde</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][323.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7651f2b2db9ce1dd274ab839560d7296749fefde</link>
-				<contentLength>339633760</contentLength>
-				<pubDate>2026-02-12T10:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="339633760" url="https://mikanani.me/Download/20260212/7651f2b2db9ce1dd274ab839560d7296749fefde.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c49b2f63c406ec8a5e652fe264b1eb8c0358d0f7</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][353.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c49b2f63c406ec8a5e652fe264b1eb8c0358d0f7</link>
-				<contentLength>370461888</contentLength>
-				<pubDate>2026-02-12T10:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="370461888" url="https://mikanani.me/Download/20260212/c49b2f63c406ec8a5e652fe264b1eb8c0358d0f7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 为喵人生 / Reborn as a Cat - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8f74048dc06f77b7b551e43227946cf187c6bf3e</link>
 			<title>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 16 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -7371,6 +7347,18 @@
 				<pubDate>2026-02-19T17:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="864341184" url="https://mikanani.me/Download/20260219/1cb523f3eba975c8b0ca1bf18dbb0a9a0dbc590c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/622a71c94bf5b7841e92c13316e7351c7cc06cb5</link>
+			<title>[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 魔女之旅 / Majo no Tabitabi (BDRip 1080p HEVC FLAC)[30.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/622a71c94bf5b7841e92c13316e7351c7cc06cb5</link>
+				<contentLength>32641751040</contentLength>
+				<pubDate>2026-02-19T18:10:35.631186</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="32641751040" url="https://mikanani.me/Download/20260219/622a71c94bf5b7841e92c13316e7351c7cc06cb5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
