@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf</link>
+			<title>[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][859.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf</link>
+				<contentLength>901670528</contentLength>
+				<pubDate>2026-02-20T05:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="901670528" url="https://mikanani.me/Download/20260220/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/977d219a34047f0030346b9c31e766f03d25dcd2</link>
 			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-19T02:01:34.993867</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="27892122" url="https://mikanani.me/Download/20260219/64e682b15054940cc5afeb006ef5f635e6861a67.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 时光代理人 英都篇（日配版） / Link Click: Bridon Arc (Japanese Dub) - 03 (ABEMA 1280x720 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/f7aa2b2c69ce22efb3a5aa85a6d61e9bc93370cc</link>
-			<title>[黒ネズミたち] 时光代理人 英都篇（日配版） / Link Click: Bridon Arc (Japanese Dub) - 03 (ABEMA 1280x720 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 时光代理人 英都篇（日配版） / Link Click: Bridon Arc (Japanese Dub) - 03 (ABEMA 1280x720 AVC AAC MP4)[368.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f7aa2b2c69ce22efb3a5aa85a6d61e9bc93370cc</link>
-				<contentLength>385980832</contentLength>
-				<pubDate>2026-02-19T02:00:24.850146</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385980832" url="https://mikanani.me/Download/20260219/f7aa2b2c69ce22efb3a5aa85a6d61e9bc93370cc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
