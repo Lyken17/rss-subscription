@@ -1648,5 +1648,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1202590848" url="https://mikanani.me/Download/20260220/e57bdda47c2694e428db260410febda1b27f2e35.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 06 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/ed700ae8db7b8379f2b2bca448f045dd2d15bbc8</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 06 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 06 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed700ae8db7b8379f2b2bca448f045dd2d15bbc8</link>
+				<contentLength>746795840</contentLength>
+				<pubDate>2026-02-20T17:00:25.785217</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20260220/ed700ae8db7b8379f2b2bca448f045dd2d15bbc8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
