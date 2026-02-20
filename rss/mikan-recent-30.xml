@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Reseed Fin]</guid>
-			<link>https://mikanani.me/Home/Episode/6a7453a20117d0509ae3e3ec8252da26f18a9133</link>
-			<title>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Reseed Fin]</title>
-			<description>[VCB-Studio] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria / 杖と剣のウィストリア 10-bit 1080p HEVC BDRip [Reseed Fin][15.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a7453a20117d0509ae3e3ec8252da26f18a9133</link>
-				<contentLength>16535623680</contentLength>
-				<pubDate>2026-01-21T12:58:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="16535623680" url="https://mikanani.me/Download/20260121/6a7453a20117d0509ae3e3ec8252da26f18a9133.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/dabb38f65f0bc65a8c23c51be6c5fc93ef779cd6</link>
 			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -32331,6 +32319,42 @@
 				<pubDate>2026-02-20T19:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="556793856" url="https://mikanani.me/Download/20260220/596217033d5fcdedfde8761feeb43d5e3b436375.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/a1f4837c436bd13f25624041d08a7f56e8fcc53f</link>
+			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][简繁内封]</title>
+			<description>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][简繁内封][702.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a1f4837c436bd13f25624041d08a7f56e8fcc53f</link>
+				<contentLength>737096512</contentLength>
+				<pubDate>2026-02-20T19:39:18.302</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="737096512" url="https://mikanani.me/Download/20260220/a1f4837c436bd13f25624041d08a7f56e8fcc53f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/4cf638552ad53ed5beca38630790b70c9ab6679b</link>
+			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][繁体内嵌]</title>
+			<description>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][繁体内嵌][547.58 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4cf638552ad53ed5beca38630790b70c9ab6679b</link>
+				<contentLength>574179264</contentLength>
+				<pubDate>2026-02-20T19:38:52.326</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="574179264" url="https://mikanani.me/Download/20260220/4cf638552ad53ed5beca38630790b70c9ab6679b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/8ad6c46892c0a31e7b4a07d90905d94c315d3646</link>
+			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][简体内嵌]</title>
+			<description>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [05][1080P][简体内嵌][547.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ad6c46892c0a31e7b4a07d90905d94c315d3646</link>
+				<contentLength>573875136</contentLength>
+				<pubDate>2026-02-20T19:38:20.996</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="573875136" url="https://mikanani.me/Download/20260220/8ad6c46892c0a31e7b4a07d90905d94c315d3646.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
