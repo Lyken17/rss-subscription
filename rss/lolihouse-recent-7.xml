@@ -520,5 +520,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="513697376" url="https://mikanani.me/Download/20260220/03fd76597c86b7517d498c8e55dc953c9793f4d5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/50aeaf6c8fc7b348da4648f5c4202c0298672bfe</link>
+			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][709MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/50aeaf6c8fc7b348da4648f5c4202c0298672bfe</link>
+				<contentLength>743440384</contentLength>
+				<pubDate>2026-02-20T09:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="743440384" url="https://mikanani.me/Download/20260220/50aeaf6c8fc7b348da4648f5c4202c0298672bfe.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
