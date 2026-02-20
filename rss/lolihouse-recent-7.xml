@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5a565e64cb6f506e9d7395c282233440f1ba204a</link>
-			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5a565e64cb6f506e9d7395c282233440f1ba204a</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2026-02-13T20:21:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260213/5a565e64cb6f506e9d7395c282233440f1ba204a.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 32 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6a3777513ba3da947b81b4656936e3a9b224e57a</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 32 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -519,6 +507,18 @@
 				<pubDate>2026-02-20T23:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="622015296" url="https://mikanani.me/Download/20260220/e26bd3b7f49cec77597448d406a2349185b5bf03.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</guid>
+			<link>https://mikanani.me/Home/Episode/0e772f517570b550a451aee0c0354f272762dd87</link>
+			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</title>
+			<description>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)[663.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0e772f517570b550a451aee0c0354f272762dd87</link>
+				<contentLength>695415616</contentLength>
+				<pubDate>2026-02-21T03:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="695415616" url="https://mikanani.me/Download/20260221/0e772f517570b550a451aee0c0354f272762dd87.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
