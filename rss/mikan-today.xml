@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] Fate-strange Fake - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a5d5aabd77c0d33dc43294d790906aa264f47e81</link>
+			<title>[沸班亚马制作组] Fate-strange Fake - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] Fate-strange Fake - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a5d5aabd77c0d33dc43294d790906aa264f47e81</link>
+				<contentLength>1288490240</contentLength>
+				<pubDate>2026-02-22T04:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260222/a5d5aabd77c0d33dc43294d790906aa264f47e81.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">金牌得主 第2期「メダリスト」Medalist S02E05 1080p 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/47b9e9496f805bde869fbaafb72eb410d7109776</link>
 			<title>金牌得主 第2期「メダリスト」Medalist S02E05 1080p 多国字幕</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-02-20T14:34:31.421</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1599875328" url="https://mikanani.me/Download/20260220/61c4920278333627f33b014d040b314b3001afca.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [07][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/c92b34f11d54205a46a4635ed3a98d2171d9133f</link>
-			<title>[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [07][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [07][WebRip][1080p][繁日内嵌][566.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c92b34f11d54205a46a4635ed3a98d2171d9133f</link>
-				<contentLength>593860992</contentLength>
-				<pubDate>2026-02-20T14:34:23.588</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="593860992" url="https://mikanani.me/Download/20260220/c92b34f11d54205a46a4635ed3a98d2171d9133f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
