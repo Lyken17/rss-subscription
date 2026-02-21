@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 09 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/23e54b30f0948d82d1f96f2059f88dff16f0fd7a</link>
+			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 09 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 09 (CR 1920x1080 AVC AAC MKV)[871.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/23e54b30f0948d82d1f96f2059f88dff16f0fd7a</link>
+				<contentLength>913414528</contentLength>
+				<pubDate>2026-02-21T17:32:48.5923</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="913414528" url="https://mikanani.me/Download/20260221/23e54b30f0948d82d1f96f2059f88dff16f0fd7a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [07][1080P][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/27a3ec71fbea7176f96a014883516934d94ec2fd</link>
 			<title>[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [07][1080P][简繁日内封]</title>
@@ -1179,30 +1191,6 @@
 				<pubDate>2026-02-20T05:49:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="159173840" url="https://mikanani.me/Download/20260220/4116109fe9438c5b9dd5b6a68d65142ba745babc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf</link>
-			<title>[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 07 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][859.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf</link>
-				<contentLength>901670528</contentLength>
-				<pubDate>2026-02-20T05:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="901670528" url="https://mikanani.me/Download/20260220/da5836e9519c1ac69ed9396e0862f5f9da3d8fcf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/977d219a34047f0030346b9c31e766f03d25dcd2</link>
-			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (CR 1920x1080 AVC AAC MKV)[975.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/977d219a34047f0030346b9c31e766f03d25dcd2</link>
-				<contentLength>1022571328</contentLength>
-				<pubDate>2026-02-20T04:12:12.106923</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1022571328" url="https://mikanani.me/Download/20260220/977d219a34047f0030346b9c31e766f03d25dcd2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
