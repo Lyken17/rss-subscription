@@ -892,5 +892,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="650117120" url="https://mikanani.me/Download/20260222/4e91b2c62b456e56575a478c6a1f338c70a71409.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">名侦探光之美少女！ - EP04 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</guid>
+			<link>https://mikanani.me/Home/Episode/d0b640421bd6e91893dc0a38948243835da45397</link>
+			<title>名侦探光之美少女！ - EP04 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</title>
+			<description>名侦探光之美少女！ - EP04 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d0b640421bd6e91893dc0a38948243835da45397</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-02-22T15:11:26.37</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260222/d0b640421bd6e91893dc0a38948243835da45397.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

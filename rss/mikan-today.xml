@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">名侦探光之美少女！ - EP04 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</guid>
+			<link>https://mikanani.me/Home/Episode/d0b640421bd6e91893dc0a38948243835da45397</link>
+			<title>名侦探光之美少女！ - EP04 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</title>
+			<description>名侦探光之美少女！ - EP04 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d0b640421bd6e91893dc0a38948243835da45397</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-02-22T15:11:26.37</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260222/d0b640421bd6e91893dc0a38948243835da45397.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][19][1080p][繁日字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cb48574012e4480753b10b1be9696ca30c89a0b0</link>
 			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][19][1080p][繁日字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-02-21T00:15:30.766</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="369444768" url="https://mikanani.me/Download/20260221/c3a5ceb9d1ce26c47acf11e45ad719fca2659672.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [16][WebRip][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/9e70179a428a151161b3bc6680b120dfa8b31384</link>
-			<title>[绿茶字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [16][WebRip][1080p][简繁日内封]</title>
-			<description>[绿茶字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [16][WebRip][1080p][简繁日内封][574.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9e70179a428a151161b3bc6680b120dfa8b31384</link>
-				<contentLength>602815872</contentLength>
-				<pubDate>2026-02-21T00:06:48.922</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="602815872" url="https://mikanani.me/Download/20260221/9e70179a428a151161b3bc6680b120dfa8b31384.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
