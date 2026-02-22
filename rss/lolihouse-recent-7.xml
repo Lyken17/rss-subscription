@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 古诺希亚 / GNOSIA - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ec573948a6227b8317740e2d8f401deed1799102</link>
-			<title>[LoliHouse] 古诺希亚 / GNOSIA - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 古诺希亚 / GNOSIA - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][625.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ec573948a6227b8317740e2d8f401deed1799102</link>
-				<contentLength>655884288</contentLength>
-				<pubDate>2026-02-15T02:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="655884288" url="https://mikanani.me/Download/20260215/ec573948a6227b8317740e2d8f401deed1799102.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 07 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/543abd0d16cff3c96147224d5ddaa5a8090e1186</link>
-			<title>[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 07 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
-			<description>[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 07 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][91.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/543abd0d16cff3c96147224d5ddaa5a8090e1186</link>
-				<contentLength>95839848</contentLength>
-				<pubDate>2026-02-15T02:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="95839848" url="https://mikanani.me/Download/20260215/543abd0d16cff3c96147224d5ddaa5a8090e1186.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d56c869a783f041dd27559d61368174adbaaa689</link>
 			<title>[LoliHouse] Fate/strange Fake - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -447,6 +423,18 @@
 				<pubDate>2026-02-21T03:46:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="695415616" url="https://mikanani.me/Download/20260221/0e772f517570b550a451aee0c0354f272762dd87.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/aabbebf5dbac69973948a29ec9b4d00c00040663</link>
+			<title>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][417.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aabbebf5dbac69973948a29ec9b4d00c00040663</link>
+				<contentLength>437885344</contentLength>
+				<pubDate>2026-02-22T12:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="437885344" url="https://mikanani.me/Download/20260222/aabbebf5dbac69973948a29ec9b4d00c00040663.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
