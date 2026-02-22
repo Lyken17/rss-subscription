@@ -1696,5 +1696,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="319396256" url="https://mikanani.me/Download/20260223/0dad9573c3e4b122b3f2581a18b628272e5ea559.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 07 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0a748e593b047bd1be3c1af05639120044468293</link>
+			<title>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 07 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 07 (CR 1920x1080 AVC AAC MKV)[213.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0a748e593b047bd1be3c1af05639120044468293</link>
+				<contentLength>224185552</contentLength>
+				<pubDate>2026-02-23T02:52:34.069766</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="224185552" url="https://mikanani.me/Download/20260223/0a748e593b047bd1be3c1af05639120044468293.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 07 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/0a748e593b047bd1be3c1af05639120044468293</link>
+			<title>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 07 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 07 (CR 1920x1080 AVC AAC MKV)[213.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0a748e593b047bd1be3c1af05639120044468293</link>
+				<contentLength>224185552</contentLength>
+				<pubDate>2026-02-23T02:52:34.069766</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="224185552" url="https://mikanani.me/Download/20260223/0a748e593b047bd1be3c1af05639120044468293.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 和机器人啪啪啪能算在经验人数里吗？？ / Android wa Keiken Ninzuu ni Hairimasu ka?? - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/17f0f7c6523fc7dfe818c640dd4ad32b856f7332</link>
 			<title>[黒ネズミたち] 和机器人啪啪啪能算在经验人数里吗？？ / Android wa Keiken Ninzuu ni Hairimasu ka?? - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-22T09:34:05.183518</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="964060800" url="https://mikanani.me/Download/20260222/7b1cb8bf617cb227ac0b7f0b8926379636df1399.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 06 [1080p][简日内嵌].mp4.torrent</guid>
-			<link>https://mikanani.me/Home/Episode/d471a8ce72adb3e28245195a62a10dc4a26cf1cc</link>
-			<title>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 06 [1080p][简日内嵌].mp4.torrent</title>
-			<description>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 06 [1080p][简日内嵌].mp4.torrent[280.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d471a8ce72adb3e28245195a62a10dc4a26cf1cc</link>
-				<contentLength>294544992</contentLength>
-				<pubDate>2026-02-22T09:19:57.160968</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="294544992" url="https://mikanani.me/Download/20260222/d471a8ce72adb3e28245195a62a10dc4a26cf1cc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
