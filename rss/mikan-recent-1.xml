@@ -101,18 +101,6 @@
 			<enclosure type="application/x-bittorrent" length="751409536" url="https://mikanani.me/Download/20260222/d100a32cd288175a40cd5974c7940504b618b24b.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 名侦探光之美少女！ / Meitantei Precure! - 03 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e4d6bb31b8a4bd41d70ba0a27c3e932df21052f1</link>
-			<title>[黒ネズミたち] 名侦探光之美少女！ / Meitantei Precure! - 03 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 名侦探光之美少女！ / Meitantei Precure! - 03 (ABEMA 1920x1080 AVC AAC MP4)[726.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4d6bb31b8a4bd41d70ba0a27c3e932df21052f1</link>
-				<contentLength>762105024</contentLength>
-				<pubDate>2026-02-22T08:30:26.437824</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="762105024" url="https://mikanani.me/Download/20260222/e4d6bb31b8a4bd41d70ba0a27c3e932df21052f1.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[雪飘工作室][名探侦プリキュア！/Star Detective Precure！/名侦探光之美少女！][1080p][04][简繁外挂](检索:Q娃)</guid>
 			<link>https://mikanani.me/Home/Episode/dcb61a4fac97010e32e05e59450b2c173ce79f40</link>
 			<title>[雪飘工作室][名探侦プリキュア！/Star Detective Precure！/名侦探光之美少女！][1080p][04][简繁外挂](检索:Q娃)</title>
@@ -1347,6 +1335,18 @@
 				<pubDate>2026-02-23T14:22:23.601</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2136746240" url="https://mikanani.me/Download/20260223/9a1c1cd406081e87f10d362bf696661d624d5803.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[云光字幕组]辉夜大小姐想让我告白  通向大人的阶梯 Kaguya-sama wa Kokurasetai - Otona e no Kaidan [合集][简体双语][1080p]招募翻译</guid>
+			<link>https://mikanani.me/Home/Episode/df14f78f8a81f796178dd5e366f195bc3cd34466</link>
+			<title>[云光字幕组]辉夜大小姐想让我告白  通向大人的阶梯 Kaguya-sama wa Kokurasetai - Otona e no Kaidan [合集][简体双语][1080p]招募翻译</title>
+			<description>[云光字幕组]辉夜大小姐想让我告白  通向大人的阶梯 Kaguya-sama wa Kokurasetai - Otona e no Kaidan [合集][简体双语][1080p]招募翻译[1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/df14f78f8a81f796178dd5e366f195bc3cd34466</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-02-23T16:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260223/df14f78f8a81f796178dd5e366f195bc3cd34466.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

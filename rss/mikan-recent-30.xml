@@ -31492,5 +31492,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2136746240" url="https://mikanani.me/Download/20260223/9a1c1cd406081e87f10d362bf696661d624d5803.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[云光字幕组]辉夜大小姐想让我告白  通向大人的阶梯 Kaguya-sama wa Kokurasetai - Otona e no Kaidan [合集][简体双语][1080p]招募翻译</guid>
+			<link>https://mikanani.me/Home/Episode/df14f78f8a81f796178dd5e366f195bc3cd34466</link>
+			<title>[云光字幕组]辉夜大小姐想让我告白  通向大人的阶梯 Kaguya-sama wa Kokurasetai - Otona e no Kaidan [合集][简体双语][1080p]招募翻译</title>
+			<description>[云光字幕组]辉夜大小姐想让我告白  通向大人的阶梯 Kaguya-sama wa Kokurasetai - Otona e no Kaidan [合集][简体双语][1080p]招募翻译[1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/df14f78f8a81f796178dd5e366f195bc3cd34466</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-02-23T16:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260223/df14f78f8a81f796178dd5e366f195bc3cd34466.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
