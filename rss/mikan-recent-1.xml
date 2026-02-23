@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] Fate-strange Fake - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/a5d5aabd77c0d33dc43294d790906aa264f47e81</link>
-			<title>[沸班亚马制作组] Fate-strange Fake - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] Fate-strange Fake - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a5d5aabd77c0d33dc43294d790906aa264f47e81</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2026-02-22T04:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260222/a5d5aabd77c0d33dc43294d790906aa264f47e81.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 46 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/16dad2631facdfb32aed3bc3dc8628d4d96016d1</link>
 			<title>[黒ネズミたち] 怪兽世界征服 / Kaijuu Sekai Seifuku - 46 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1311,6 +1299,18 @@
 				<pubDate>2026-02-23T09:00:46.047471</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="305555040" url="https://mikanani.me/Download/20260223/7c8acab5e4bfded392339ad1c179e3a36dd321ee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 02 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/70fff56024035508f644bb706d09796fb2e864b7</link>
+			<title>[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 02 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)</title>
+			<description>[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 02 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)[732.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/70fff56024035508f644bb706d09796fb2e864b7</link>
+				<contentLength>767798784</contentLength>
+				<pubDate>2026-02-23T11:48:09.777</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="767798784" url="https://mikanani.me/Download/20260223/70fff56024035508f644bb706d09796fb2e864b7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
