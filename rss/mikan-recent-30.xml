@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/9b2bd6836d9fc66bd5f85c46025223b2da4240af</link>
-			<title>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封]</title>
-			<description>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [03v2][1080p][简繁内封][243.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b2bd6836d9fc66bd5f85c46025223b2da4240af</link>
-				<contentLength>255118544</contentLength>
-				<pubDate>2026-01-25T19:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="255118544" url="https://mikanani.me/Download/20260125/9b2bd6836d9fc66bd5f85c46025223b2da4240af.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][16][1080p][简日字幕][V2]</guid>
 			<link>https://mikanani.me/Home/Episode/540057c627bcb79dcb9083d8ff3938d4efb399a5</link>
 			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][16][1080p][简日字幕][V2]</title>
@@ -30999,6 +30987,18 @@
 				<pubDate>2026-02-25T01:30:31.660138</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725404864" url="https://mikanani.me/Download/20260225/a0fd4414ade59a3dbb675ee3bd8bf9b8187c545b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/08e2c4ea925c03686388caa562c5eced31840e80</link>
+			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (ABEMA 1920x1080 AVC AAC MP4)[727.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/08e2c4ea925c03686388caa562c5eced31840e80</link>
+				<contentLength>762943872</contentLength>
+				<pubDate>2026-02-25T04:30:32.119012</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="762943872" url="https://mikanani.me/Download/20260225/08e2c4ea925c03686388caa562c5eced31840e80.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
