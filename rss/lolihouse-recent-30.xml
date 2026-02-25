@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 地狱乐 / Jigokuraku - 16 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7c22c6b22122fd4d97fbb35c255855cfd0a9816e</link>
-			<title>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 地狱乐 / Jigokuraku - 16 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
-			<description>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 地狱乐 / Jigokuraku - 16 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][811MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7c22c6b22122fd4d97fbb35c255855cfd0a9816e</link>
-				<contentLength>850395136</contentLength>
-				<pubDate>2026-01-26T22:37:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="850395136" url="https://mikanani.me/Download/20260126/7c22c6b22122fd4d97fbb35c255855cfd0a9816e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 53 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/63a0419c3b8b8865111837f59f3b9bfb7cc79817</link>
 			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 53 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -2451,6 +2439,18 @@
 				<pubDate>2026-02-25T21:46:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="828584768" url="https://mikanani.me/Download/20260225/660e9962b74656e821814e9adb87102ff59a3751.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b920233661441e1c1cb1e8a389249a30e40913e8</link>
+			<title>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[三明治摆烂组&amp;LoliHouse] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][426.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b920233661441e1c1cb1e8a389249a30e40913e8</link>
+				<contentLength>446798240</contentLength>
+				<pubDate>2026-02-26T07:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="446798240" url="https://mikanani.me/Download/20260226/b920233661441e1c1cb1e8a389249a30e40913e8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
