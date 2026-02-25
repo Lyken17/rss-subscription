@@ -928,5 +928,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="212923006976" url="https://mikanani.me/Download/20260225/eabdb7d46b9e84540ee9d886d46158af83882949.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/fe73b501c0d10624aaec6a52e65faab71dbff20e</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 07 (ABEMA 1920x1080 AVC AAC MP4)[718.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fe73b501c0d10624aaec6a52e65faab71dbff20e</link>
+				<contentLength>753821312</contentLength>
+				<pubDate>2026-02-25T16:30:25.77883</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753821312" url="https://mikanani.me/Download/20260225/fe73b501c0d10624aaec6a52e65faab71dbff20e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
