@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 为喵人生 / Reborn as a Cat - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/024e93d1bd987c1478a357542509c4df17c3bccf</link>
+			<title>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 为喵人生 / Reborn as a Cat - 18 (B-Global Donghua 1920x1080 HEVC AAC MKV)[208.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/024e93d1bd987c1478a357542509c4df17c3bccf</link>
+				<contentLength>218208672</contentLength>
+				<pubDate>2026-02-26T11:00:28.081383</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="218208672" url="https://mikanani.me/Download/20260226/024e93d1bd987c1478a357542509c4df17c3bccf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][07][WebRip][1080P][AVC 8bit][繁日双语]（检索用：以死亡游戏为生。）</guid>
 			<link>https://mikanani.me/Home/Episode/9c5ebaab78c65d5fb996813008805edb57bb3616</link>
 			<title>[SweetSub][靠死亡游戏混饭吃。][Shibou Yuugi de Meshi wo Kuu.][07][WebRip][1080P][AVC 8bit][繁日双语]（检索用：以死亡游戏为生。）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-25T08:01:23.641161</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="552704384" url="https://mikanani.me/Download/20260225/290548a9ccbed819f62608627826a733ec71078f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/08e2c4ea925c03686388caa562c5eced31840e80</link>
-			<title>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 蘑菇魔女 / Champignon no Majo - 08 (ABEMA 1920x1080 AVC AAC MP4)[727.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/08e2c4ea925c03686388caa562c5eced31840e80</link>
-				<contentLength>762943872</contentLength>
-				<pubDate>2026-02-25T04:30:32.119012</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="762943872" url="https://mikanani.me/Download/20260225/08e2c4ea925c03686388caa562c5eced31840e80.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
