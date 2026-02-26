@@ -1276,5 +1276,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="281437792" url="https://mikanani.me/Download/20260226/0493c0bbee032bd9eb5e62c70ea772aa11e88d80.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/58f297f177fb932bb1131e6f147cb9abdf3f9e8f</link>
+			<title>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][繁日双语]</title>
+			<description>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][繁日双语][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/58f297f177fb932bb1131e6f147cb9abdf3f9e8f</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2026-02-26T17:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260226/58f297f177fb932bb1131e6f147cb9abdf3f9e8f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/7a529b3e0c2d91302909c94d5214dd659882d001</link>
+			<title>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][简日双语]</title>
+			<description>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][简日双语][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7a529b3e0c2d91302909c94d5214dd659882d001</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2026-02-26T17:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260226/7a529b3e0c2d91302909c94d5214dd659882d001.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
