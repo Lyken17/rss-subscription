@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 异国日记 / Ikoku Nikki - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/fcfe62b1a635527f9d5158b83a99effa7bfd238e</link>
+			<title>[黒ネズミたち] 异国日记 / Ikoku Nikki - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 异国日记 / Ikoku Nikki - 08 (ABEMA 1920x1080 AVC AAC MP4)[712.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fcfe62b1a635527f9d5158b83a99effa7bfd238e</link>
+				<contentLength>746900672</contentLength>
+				<pubDate>2026-02-28T01:30:38.235235</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20260228/fcfe62b1a635527f9d5158b83a99effa7bfd238e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] DARK MOON：月之神坛 / Dark Moon: Tsuki no Saidan - 08 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/6ffee920ebf48af6d6471d4f0efae17b12288a7b</link>
 			<title>[黒ネズミたち] DARK MOON：月之神坛 / Dark Moon: Tsuki no Saidan - 08 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-26T23:01:38.89699</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="337641472" url="https://mikanani.me/Download/20260226/9f51b6d30503af2219231a510a76199b788c991e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] The Holy Grail of Eris /  厄里斯的圣杯 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/2a9e9093a5d80b96d1303c0ec350a162a3bfb8c9</link>
-			<title>[ANi] The Holy Grail of Eris /  厄里斯的圣杯 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] The Holy Grail of Eris /  厄里斯的圣杯 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][399.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2a9e9093a5d80b96d1303c0ec350a162a3bfb8c9</link>
-				<contentLength>419115840</contentLength>
-				<pubDate>2026-02-26T23:01:38.305896</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="419115840" url="https://mikanani.me/Download/20260226/2a9e9093a5d80b96d1303c0ec350a162a3bfb8c9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][繁日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/58f297f177fb932bb1131e6f147cb9abdf3f9e8f</link>
-			<title>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][繁日双语]</title>
-			<description>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][繁日双语][1.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/58f297f177fb932bb1131e6f147cb9abdf3f9e8f</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2026-02-26T17:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260226/58f297f177fb932bb1131e6f147cb9abdf3f9e8f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/7a529b3e0c2d91302909c94d5214dd659882d001</link>
-			<title>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][简日双语]</title>
-			<description>[SweetSub][蓦然回首][Look Back][Movie][BDRip][1080P][AVC 8bit][简日双语][1.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7a529b3e0c2d91302909c94d5214dd659882d001</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2026-02-26T17:23:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260226/7a529b3e0c2d91302909c94d5214dd659882d001.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/73fa5ed25509cd77cccb14e36dafc8ee71a0868e</link>
 			<title>[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1635,6 +1611,18 @@
 				<pubDate>2026-02-27T23:49:05.695923</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260227/4f50bc4c0a0e2965330f7816b8e8295e8b1a56e6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 异国日记 / Ikoku Nikki - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/fcfe62b1a635527f9d5158b83a99effa7bfd238e</link>
+			<title>[黒ネズミたち] 异国日记 / Ikoku Nikki - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 异国日记 / Ikoku Nikki - 08 (ABEMA 1920x1080 AVC AAC MP4)[712.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fcfe62b1a635527f9d5158b83a99effa7bfd238e</link>
+				<contentLength>746900672</contentLength>
+				<pubDate>2026-02-28T01:30:38.235235</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20260228/fcfe62b1a635527f9d5158b83a99effa7bfd238e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
