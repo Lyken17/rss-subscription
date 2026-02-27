@@ -6808,5 +6808,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="413558368" url="https://mikanani.me/Download/20260228/fef7b6477a72cb51bb7c9b03ec22b59891dadb98.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/05e2d9d125aef87f4aaceb9b3320db70cb23b652</link>
+			<title>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.52 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05e2d9d125aef87f4aaceb9b3320db70cb23b652</link>
+				<contentLength>1632087552</contentLength>
+				<pubDate>2026-02-28T05:56:53.237</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1632087552" url="https://mikanani.me/Download/20260228/05e2d9d125aef87f4aaceb9b3320db70cb23b652.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

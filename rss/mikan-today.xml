@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/05e2d9d125aef87f4aaceb9b3320db70cb23b652</link>
+			<title>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.52 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/05e2d9d125aef87f4aaceb9b3320db70cb23b652</link>
+				<contentLength>1632087552</contentLength>
+				<pubDate>2026-02-28T05:56:53.237</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1632087552" url="https://mikanani.me/Download/20260228/05e2d9d125aef87f4aaceb9b3320db70cb23b652.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/bd0366f957df112577dc7b053a8908682fc458d1</link>
 			<title>[沸班亚马制作组] 判处勇者刑 惩罚勇者9004队刑务纪录 - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-02-27T00:31:03.56491</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="335439456" url="https://mikanani.me/Download/20260227/3f24d0c7360ebadf7170b8c9eed4e04beb4486cb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 咒术回战 死灭回游 前篇 / Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 55 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/cbc67894741affbdcc8d992bb94a93a6ec4546ba</link>
-			<title>[黒ネズミたち] 咒术回战 死灭回游 前篇 / Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 55 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 咒术回战 死灭回游 前篇 / Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - 55 (ABEMA 1920x1080 AVC AAC MP4)[719.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cbc67894741affbdcc8d992bb94a93a6ec4546ba</link>
-				<contentLength>754135872</contentLength>
-				<pubDate>2026-02-27T00:30:48.904291</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="754135872" url="https://mikanani.me/Download/20260227/cbc67894741affbdcc8d992bb94a93a6ec4546ba.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
