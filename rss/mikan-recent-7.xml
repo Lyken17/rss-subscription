@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5d862ace67c6a4f88665f4053aa54d77f128c293</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 128 (B-Global Donghua 1920x1080 HEVC AAC MKV)[278.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5d862ace67c6a4f88665f4053aa54d77f128c293</link>
-				<contentLength>292447840</contentLength>
-				<pubDate>2026-02-21T09:00:32.656452</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="292447840" url="https://mikanani.me/Download/20260221/5d862ace67c6a4f88665f4053aa54d77f128c293.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[H-Enc] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/698dca17461c5227529858366917380ed6a2ff3a</link>
 			<title>[H-Enc] 骸骨骑士大人异世界冒险中 / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (BDRip 1080p HEVC FLAC)</title>
@@ -6615,6 +6603,18 @@
 				<pubDate>2026-02-28T15:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="132070244352" url="https://mikanani.me/Download/20260228/01210c827c85e3d0a14a907c483ee3bd7e98ec1f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</guid>
+			<link>https://mikanani.me/Home/Episode/dde321a3b3756cd2ac1bc409d6e9288681017dc7</link>
+			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</title>
+			<description>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)[518.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dde321a3b3756cd2ac1bc409d6e9288681017dc7</link>
+				<contentLength>543267200</contentLength>
+				<pubDate>2026-02-28T16:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="543267200" url="https://mikanani.me/Download/20260228/dde321a3b3756cd2ac1bc409d6e9288681017dc7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

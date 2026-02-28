@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e53af505e2560b82db8cb3e8af01fb1faded4af9</link>
-			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][902.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e53af505e2560b82db8cb3e8af01fb1faded4af9</link>
-				<contentLength>946549568</contentLength>
-				<pubDate>2026-02-27T08:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="946549568" url="https://mikanani.me/Download/20260227/e53af505e2560b82db8cb3e8af01fb1faded4af9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 55 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9d73b203add2282edbaa9d063479c8529c266968</link>
 			<title>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 55 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -111,6 +99,18 @@
 				<pubDate>2026-02-28T08:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="533305760" url="https://mikanani.me/Download/20260228/863ddd3d446dd22a2afc30cee909fa190a797698.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</guid>
+			<link>https://mikanani.me/Home/Episode/dde321a3b3756cd2ac1bc409d6e9288681017dc7</link>
+			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</title>
+			<description>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)[518.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dde321a3b3756cd2ac1bc409d6e9288681017dc7</link>
+				<contentLength>543267200</contentLength>
+				<pubDate>2026-02-28T16:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="543267200" url="https://mikanani.me/Download/20260228/dde321a3b3756cd2ac1bc409d6e9288681017dc7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

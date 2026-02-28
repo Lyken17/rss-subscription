@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ed59abe9ece58bb552b5be1ddd8077f95f360488</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 相反的你和我 / Seihantai na Kimi to Boku - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][346.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ed59abe9ece58bb552b5be1ddd8077f95f360488</link>
-				<contentLength>363017024</contentLength>
-				<pubDate>2026-01-29T08:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="363017024" url="https://mikanani.me/Download/20260129/ed59abe9ece58bb552b5be1ddd8077f95f360488.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a06e2da41c68139921fc5b709dd7b19f77882237</link>
 			<title>[LoliHouse] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2571,6 +2559,18 @@
 				<pubDate>2026-02-28T08:34:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="533305760" url="https://mikanani.me/Download/20260228/863ddd3d446dd22a2afc30cee909fa190a797698.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</guid>
+			<link>https://mikanani.me/Home/Episode/dde321a3b3756cd2ac1bc409d6e9288681017dc7</link>
+			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)</title>
+			<description>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：炎炎消防队 第三季)[518.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dde321a3b3756cd2ac1bc409d6e9288681017dc7</link>
+				<contentLength>543267200</contentLength>
+				<pubDate>2026-02-28T16:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="543267200" url="https://mikanani.me/Download/20260228/dde321a3b3756cd2ac1bc409d6e9288681017dc7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
