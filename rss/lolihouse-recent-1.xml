@@ -88,5 +88,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="633864192" url="https://mikanani.me/Download/20260301/9febe38b2da4e124e1ee89f4d9709a42d58e7444.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3b69af9c19e8a8d965332f1bd3a571a2b3dc495a</link>
+			<title>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][556MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b69af9c19e8a8d965332f1bd3a571a2b3dc495a</link>
+				<contentLength>583008256</contentLength>
+				<pubDate>2026-03-01T10:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="583008256" url="https://mikanani.me/Download/20260301/3b69af9c19e8a8d965332f1bd3a571a2b3dc495a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
