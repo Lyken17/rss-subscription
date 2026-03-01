@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra - 44 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/f54cc461de31ffbefc374bf96202f4d811f3feff</link>
+			<title>[LoliHouse] Princess-Session Orchestra - 44 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra - 44 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Princession Orchestra)[488MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f54cc461de31ffbefc374bf96202f4d811f3feff</link>
+				<contentLength>511705088</contentLength>
+				<pubDate>2026-03-01T17:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="511705088" url="https://mikanani.me/Download/20260301/f54cc461de31ffbefc374bf96202f4d811f3feff.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][21][1080p HEVC][CHT][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/5e8f291ac438d077bbc9924155e9f9dde09399c4</link>
 			<title>【悠哈璃羽字幕社】[元祖！邦多利酱/元祖！小邦多利/GANSO BanG Dream Chan][21][1080p HEVC][CHT][繁体内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-02-28T23:47:18.04734</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260228/f533b2b85dbdbea68092e2dbf7508c4667b9fe38.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 致不灭的你 第三季 / Fumetsu no Anata e Season 3 - 17 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/8a262788f1f85739b6d6e38ec070fdf9d40134bf</link>
-			<title>[黒ネズミたち] 致不灭的你 第三季 / Fumetsu no Anata e Season 3 - 17 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 致不灭的你 第三季 / Fumetsu no Anata e Season 3 - 17 (B-Global 1920x1080 HEVC AAC MKV)[360.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8a262788f1f85739b6d6e38ec070fdf9d40134bf</link>
-				<contentLength>378221376</contentLength>
-				<pubDate>2026-02-28T23:45:47.977144</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="378221376" url="https://mikanani.me/Download/20260228/8a262788f1f85739b6d6e38ec070fdf9d40134bf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
