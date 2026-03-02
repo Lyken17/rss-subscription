@@ -640,5 +640,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="354733248" url="https://mikanani.me/Download/20260302/ddb191cead1fab1ec8a147e1a6bbbf2cf5773eb0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] Chao [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：ChaO，我代表人类跟人鱼结婚了）</guid>
+			<link>https://mikanani.me/Home/Episode/ecd3783af40472078d666968e4c0c1faab65a1d2</link>
+			<title>[SweetSub&amp;LoliHouse] Chao [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：ChaO，我代表人类跟人鱼结婚了）</title>
+			<description>[SweetSub&amp;LoliHouse] Chao [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：ChaO，我代表人类跟人鱼结婚了）[2.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ecd3783af40472078d666968e4c0c1faab65a1d2</link>
+				<contentLength>2791728640</contentLength>
+				<pubDate>2026-03-02T17:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2791728640" url="https://mikanani.me/Download/20260302/ecd3783af40472078d666968e4c0c1faab65a1d2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
