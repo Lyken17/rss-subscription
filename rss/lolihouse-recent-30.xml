@@ -2536,5 +2536,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="454347968" url="https://mikanani.me/Download/20260301/aa164137cb93ad59aef62edfbfbd04d05400e239.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ddb191cead1fab1ec8a147e1a6bbbf2cf5773eb0</link>
+			<title>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][338.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ddb191cead1fab1ec8a147e1a6bbbf2cf5773eb0</link>
+				<contentLength>354733248</contentLength>
+				<pubDate>2026-03-02T10:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="354733248" url="https://mikanani.me/Download/20260302/ddb191cead1fab1ec8a147e1a6bbbf2cf5773eb0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
