@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★09★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/f305eefc5dc15dbd4d2dbf43d2b8d143ace6660c</link>
+			<title>六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★09★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★09★1920x1080★AVC AAC MP4★繁体中文[268.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f305eefc5dc15dbd4d2dbf43d2b8d143ace6660c</link>
+				<contentLength>281332928</contentLength>
+				<pubDate>2026-03-03T06:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="281332928" url="https://mikanani.me/Download/20260303/f305eefc5dc15dbd4d2dbf43d2b8d143ace6660c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【58】【BIG5_MP4】【1920X1080】</guid>
 			<link>https://mikanani.me/Home/Episode/08ee5471dc38c471cff55dff5b91d74f4492f939</link>
 			<title>【幻樱字幕组】【1月新番】【黄金神威 Golden Kamuy】【58】【BIG5_MP4】【1920X1080】</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-01T23:31:26.105047</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="366477312" url="https://mikanani.me/Download/20260301/827236c9e9f3f46c2dcbf372118ff2fd9de95a97.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 大江户烈火杀手 - 凤凰传说 / Hikuidori: Ushuu Boro Tobi-gumi - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/323dda2b158abb0a0c054a40efa8c29e4835f499</link>
-			<title>[黒ネズミたち] 大江户烈火杀手 - 凤凰传说 / Hikuidori: Ushuu Boro Tobi-gumi - 07 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 大江户烈火杀手 - 凤凰传说 / Hikuidori: Ushuu Boro Tobi-gumi - 07 (Baha 1920x1080 AVC AAC MP4)[349.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/323dda2b158abb0a0c054a40efa8c29e4835f499</link>
-				<contentLength>366267584</contentLength>
-				<pubDate>2026-03-01T23:31:00.68185</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="366267584" url="https://mikanani.me/Download/20260301/323dda2b158abb0a0c054a40efa8c29e4835f499.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
