@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 侵略 ! 乌贼娘 (侵略 ! イカ娘) (Shinryaku ! Ika Musume／Squid Girl)：TV动画 (2010年版、2011年版)+OAD篇+音乐+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2020.06.20)</guid>
+			<link>https://mikanani.me/Home/Episode/6e131860ab1cfb757058a193ad47db47f14e6f4c</link>
+			<title>[整理搬运] 侵略 ! 乌贼娘 (侵略 ! イカ娘) (Shinryaku ! Ika Musume／Squid Girl)：TV动画 (2010年版、2011年版)+OAD篇+音乐+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2020.06.20)</title>
+			<description>[整理搬运] 侵略 ! 乌贼娘 (侵略 ! イカ娘) (Shinryaku ! Ika Musume／Squid Girl)：TV动画 (2010年版、2011年版)+OAD篇+音乐+漫画+其他；日语音轨; 外挂简中字幕 (整理时间：2020.06.20)[38.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e131860ab1cfb757058a193ad47db47f14e6f4c</link>
+				<contentLength>41661181952</contentLength>
+				<pubDate>2026-03-04T04:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="41661181952" url="https://mikanani.me/Download/20260304/6e131860ab1cfb757058a193ad47db47f14e6f4c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/51d747f786effc126c393f9ff78eb159a030a399</link>
 			<title>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-02T22:33:06.093055</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="712087936" url="https://mikanani.me/Download/20260302/6f7155415b110ce2f9c1b7f71f39bd753cda276e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔王的女儿太温柔了!! / Maou no Musume wa Yasashisugiru!! - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/dbb5f540778ee5c2802aee874a1f0c747519581b</link>
-			<title>[黒ネズミたち] 魔王的女儿太温柔了!! / Maou no Musume wa Yasashisugiru!! - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔王的女儿太温柔了!! / Maou no Musume wa Yasashisugiru!! - 08 (ABEMA 1920x1080 AVC AAC MP4)[712.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dbb5f540778ee5c2802aee874a1f0c747519581b</link>
-				<contentLength>746690944</contentLength>
-				<pubDate>2026-03-02T22:30:30.407051</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746690944" url="https://mikanani.me/Download/20260302/dbb5f540778ee5c2802aee874a1f0c747519581b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
