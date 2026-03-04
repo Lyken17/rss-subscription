@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋 / Summer Pockets][01-26][HEVC][x265 10bit][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/6d453c28d7892a62d723593a2eccc2229778c3e5</link>
+			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋 / Summer Pockets][01-26][HEVC][x265 10bit][1080p][简日双语]</title>
+			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋 / Summer Pockets][01-26][HEVC][x265 10bit][1080p][简日双语][8.82 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d453c28d7892a62d723593a2eccc2229778c3e5</link>
+				<contentLength>9470402560</contentLength>
+				<pubDate>2026-03-04T11:06:32.567</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9470402560" url="https://mikanani.me/Download/20260304/6d453c28d7892a62d723593a2eccc2229778c3e5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/abc1ebb9c36fb0dbf0c33995d81db5a3665cc0f7</link>
 			<title>[H-Enc] 薰香花朵凛然绽放 / Kaoru Hana wa Rin to Saku (BDRip 1080p HEVC FLAC)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-03T00:04:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2254857728" url="https://mikanani.me/Download/20260303/2f86f605504c0e2f22a46e4eb285a8f7c532ae32.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 20 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/65ec693590a5ae3d04e2444b4a7219077a61c004</link>
-			<title>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 20 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 20 (CR 1920x1080 AVC AAC MKV)[883.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/65ec693590a5ae3d04e2444b4a7219077a61c004</link>
-				<contentLength>926102336</contentLength>
-				<pubDate>2026-03-03T00:02:26.079139</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="926102336" url="https://mikanani.me/Download/20260303/65ec693590a5ae3d04e2444b4a7219077a61c004.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
