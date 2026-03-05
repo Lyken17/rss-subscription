@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1958e79a5447991ecf2e3634fc0584a723f85e96</link>
+			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][447.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1958e79a5447991ecf2e3634fc0584a723f85e96</link>
+				<contentLength>468923200</contentLength>
+				<pubDate>2026-03-05T14:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="468923200" url="https://mikanani.me/Download/20260305/1958e79a5447991ecf2e3634fc0584a723f85e96.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 09 [WebRip][HEVC-10bit 1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/923c10aa3f3f9baa3aa9bb172156ed2210a02a6a</link>
 			<title>[❀拨雪寻春❀] 异国日记 / 他国日记 / 违国日记 / Ikoku Nikki / Journal with Witch - 09 [WebRip][HEVC-10bit 1080p][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-04T19:00:50.020489</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="62180556" url="https://mikanani.me/Download/20260304/a38e3f36b65580e54cdab1c99e0d112f8d9eaf32.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 21 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/67552b8337cee3d8c0952f2ce8c6558b66db8d3f</link>
-			<title>[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 21 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 21 (Baha 1920x1080 AVC AAC MP4)[59.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/67552b8337cee3d8c0952f2ce8c6558b66db8d3f</link>
-				<contentLength>61970840</contentLength>
-				<pubDate>2026-03-04T19:00:19.403237</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="61970840" url="https://mikanani.me/Download/20260304/67552b8337cee3d8c0952f2ce8c6558b66db8d3f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
