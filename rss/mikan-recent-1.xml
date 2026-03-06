@@ -1408,5 +1408,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="338270624" url="https://mikanani.me/Download/20260306/9840235c108531eab0a03e562c95f8bc4bc5a7d1.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP</guid>
+			<link>https://mikanani.me/Home/Episode/2e3f33030c155d184138e1642253c249c83d287e</link>
+			<title>​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP</title>
+			<description>​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP[20.45 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e3f33030c155d184138e1642253c249c83d287e</link>
+				<contentLength>21958021120</contentLength>
+				<pubDate>2026-03-06T21:27:21.089</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21958021120" url="https://mikanani.me/Download/20260306/2e3f33030c155d184138e1642253c249c83d287e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[魔防队新番组] 魔都精兵的奴隶2 / Mato Seihei No Slave 2 - 09 [Webrip 1080P x265_Aac JPSC][简日双语内嵌字幕](第二季)</guid>
+			<link>https://mikanani.me/Home/Episode/6821d74c12283b8c2e1a14a96890545e1cb5d314</link>
+			<title>[魔防队新番组] 魔都精兵的奴隶2 / Mato Seihei No Slave 2 - 09 [Webrip 1080P x265_Aac JPSC][简日双语内嵌字幕](第二季)</title>
+			<description>[魔防队新番组] 魔都精兵的奴隶2 / Mato Seihei No Slave 2 - 09 [Webrip 1080P x265_Aac JPSC][简日双语内嵌字幕](第二季)[287.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6821d74c12283b8c2e1a14a96890545e1cb5d314</link>
+				<contentLength>301255872</contentLength>
+				<pubDate>2026-03-06T21:21:55.323352</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="301255872" url="https://mikanani.me/Download/20260306/6821d74c12283b8c2e1a14a96890545e1cb5d314.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
