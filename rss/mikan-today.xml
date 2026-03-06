@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/df1bfadfc85448ac5d7b2931b340b6e040535542</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 08 (ABEMA 1920x1080 AVC AAC MP4)[712.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/df1bfadfc85448ac5d7b2931b340b6e040535542</link>
+				<contentLength>747005568</contentLength>
+				<pubDate>2026-03-06T17:00:25.283166</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747005568" url="https://mikanani.me/Download/20260306/df1bfadfc85448ac5d7b2931b340b6e040535542.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">薰香花朵凛然绽放 / 花薰凛然 / 花开凛凛满薰香 / 薫る花は凛と咲く / [Bikko@U2][BDMV] Kaoru Hana wa Rin to Saku [Vol.1-Vol.7 BD×7+CD×2+SCANS][ANZX-17971~84][JPN]</guid>
 			<link>https://mikanani.me/Home/Episode/ba9bf448439f27f7f76863287981564d7c6a649a</link>
 			<title>薰香花朵凛然绽放 / 花薰凛然 / 花开凛凛满薰香 / 薫る花は凛と咲く / [Bikko@U2][BDMV] Kaoru Hana wa Rin to Saku [Vol.1-Vol.7 BD×7+CD×2+SCANS][ANZX-17971~84][JPN]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-05T19:00:46.689372</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="92694120" url="https://mikanani.me/Download/20260305/95b6463e8774a58e3725a6824ec14295255e4113.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 23 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/9066879a217ccc2a12063b0f77f44772fc518bf9</link>
-			<title>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 23 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 23 (Baha 1920x1080 AVC AAC MP4)[88.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9066879a217ccc2a12063b0f77f44772fc518bf9</link>
-				<contentLength>92484400</contentLength>
-				<pubDate>2026-03-05T19:00:21.810589</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="92484400" url="https://mikanani.me/Download/20260305/9066879a217ccc2a12063b0f77f44772fc518bf9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
