@@ -1564,5 +1564,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="631452480" url="https://mikanani.me/Download/20260306/a5edc763492a07dd056f63198c1be6103c0a27af.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">薰香花朵凛然绽放 / 花薰凛然 / 花开凛凛满薰香 / 薫る花は凛と咲く / [Bikko@U2][BDMV] Kaoru Hana wa Rin to Saku [Vol.1-Vol.7 BD×7+CD×2+SCANS][ANZX-17971~84][JPN]</guid>
+			<link>https://mikanani.me/Home/Episode/ba9bf448439f27f7f76863287981564d7c6a649a</link>
+			<title>薰香花朵凛然绽放 / 花薰凛然 / 花开凛凛满薰香 / 薫る花は凛と咲く / [Bikko@U2][BDMV] Kaoru Hana wa Rin to Saku [Vol.1-Vol.7 BD×7+CD×2+SCANS][ANZX-17971~84][JPN]</title>
+			<description>薰香花朵凛然绽放 / 花薰凛然 / 花开凛凛满薰香 / 薫る花は凛と咲く / [Bikko@U2][BDMV] Kaoru Hana wa Rin to Saku [Vol.1-Vol.7 BD×7+CD×2+SCANS][ANZX-17971~84][JPN][107.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ba9bf448439f27f7f76863287981564d7c6a649a</link>
+				<contentLength>115105120256</contentLength>
+				<pubDate>2026-03-06T15:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="115105120256" url="https://mikanani.me/Download/20260306/ba9bf448439f27f7f76863287981564d7c6a649a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
