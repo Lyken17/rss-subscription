@@ -1516,5 +1516,41 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260306/1ab62196055ffedb9777d7e3437f0e2029b2a3a5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/e02aacf07504d478176c2e5a22a49d1ac799449b</link>
+			<title>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简繁内封]</title>
+			<description>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简繁内封][196.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e02aacf07504d478176c2e5a22a49d1ac799449b</link>
+				<contentLength>205950816</contentLength>
+				<pubDate>2026-03-06T12:48:59.736</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="205950816" url="https://mikanani.me/Download/20260306/e02aacf07504d478176c2e5a22a49d1ac799449b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/a3e9d3b4bf04663893a22989bdd59492710e2682</link>
+			<title>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][繁体内嵌]</title>
+			<description>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][繁体内嵌][438.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3e9d3b4bf04663893a22989bdd59492710e2682</link>
+				<contentLength>459674752</contentLength>
+				<pubDate>2026-03-06T12:48:53.048</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="459674752" url="https://mikanani.me/Download/20260306/a3e9d3b4bf04663893a22989bdd59492710e2682.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/b9f2d03ce66841b22f9993df071a2a09d3fe26de</link>
+			<title>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简体内嵌]</title>
+			<description>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简体内嵌][438.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9f2d03ce66841b22f9993df071a2a09d3fe26de</link>
+				<contentLength>459758624</contentLength>
+				<pubDate>2026-03-06T12:48:37.637</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="459758624" url="https://mikanani.me/Download/20260306/b9f2d03ce66841b22f9993df071a2a09d3fe26de.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
