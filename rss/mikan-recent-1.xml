@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1958e79a5447991ecf2e3634fc0584a723f85e96</link>
-			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][447.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1958e79a5447991ecf2e3634fc0584a723f85e96</link>
-				<contentLength>468923200</contentLength>
-				<pubDate>2026-03-05T14:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="468923200" url="https://mikanani.me/Download/20260305/1958e79a5447991ecf2e3634fc0584a723f85e96.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[32][1080p AVC AAC][繁体]</guid>
 			<link>https://mikanani.me/Home/Episode/73b3b2e5f8ba5e9ccdb62484afa58b9c267a5f09</link>
 			<title>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[32][1080p AVC AAC][繁体]</title>
@@ -1431,6 +1419,18 @@
 				<pubDate>2026-03-06T21:21:55.323352</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301255872" url="https://mikanani.me/Download/20260306/6821d74c12283b8c2e1a14a96890545e1cb5d314.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1948795cf761643d25413fafbb238a689d7300d2</link>
+			<title>[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)[737.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1948795cf761643d25413fafbb238a689d7300d2</link>
+				<contentLength>773010240</contentLength>
+				<pubDate>2026-03-06T22:30:31.438222</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="773010240" url="https://mikanani.me/Download/20260306/1948795cf761643d25413fafbb238a689d7300d2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

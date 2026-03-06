@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/1948795cf761643d25413fafbb238a689d7300d2</link>
+			<title>[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)[737.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1948795cf761643d25413fafbb238a689d7300d2</link>
+				<contentLength>773010240</contentLength>
+				<pubDate>2026-03-06T22:30:31.438222</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="773010240" url="https://mikanani.me/Download/20260306/1948795cf761643d25413fafbb238a689d7300d2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP</guid>
 			<link>https://mikanani.me/Home/Episode/2e3f33030c155d184138e1642253c249c83d287e</link>
 			<title>​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-05T21:28:09.381</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="356798944" url="https://mikanani.me/Download/20260305/20d07c9ce10747c4c60dc8399289c80e1184edbf.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [19][WebRip][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/9197c5f8f4ca9d928d42b47482828eb373d18da2</link>
-			<title>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [19][WebRip][1080p][简繁日内封]</title>
-			<description>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [19][WebRip][1080p][简繁日内封][367.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9197c5f8f4ca9d928d42b47482828eb373d18da2</link>
-				<contentLength>385141952</contentLength>
-				<pubDate>2026-03-05T21:27:02.455</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="385141952" url="https://mikanani.me/Download/20260305/9197c5f8f4ca9d928d42b47482828eb373d18da2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
