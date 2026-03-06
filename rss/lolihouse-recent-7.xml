@@ -724,5 +724,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="478884672" url="https://mikanani.me/Download/20260306/3106f1c1084be1cb3599846b670321eb72a00783.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔都精兵的奴隶2 / Mato Seihei no Slave 2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：第二季)</guid>
+			<link>https://mikanani.me/Home/Episode/a5edc763492a07dd056f63198c1be6103c0a27af</link>
+			<title>[LoliHouse] 魔都精兵的奴隶2 / Mato Seihei no Slave 2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：第二季)</title>
+			<description>[LoliHouse] 魔都精兵的奴隶2 / Mato Seihei no Slave 2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：第二季)[602.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a5edc763492a07dd056f63198c1be6103c0a27af</link>
+				<contentLength>631452480</contentLength>
+				<pubDate>2026-03-06T13:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="631452480" url="https://mikanani.me/Download/20260306/a5edc763492a07dd056f63198c1be6103c0a27af.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
