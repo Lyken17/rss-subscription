@@ -2668,5 +2668,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="902614208" url="https://mikanani.me/Download/20260306/6e90a75b96eb919cbb87738c21da78ab102a15ac.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 56 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3106f1c1084be1cb3599846b670321eb72a00783</link>
+			<title>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 56 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 56 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][456.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3106f1c1084be1cb3599846b670321eb72a00783</link>
+				<contentLength>478884672</contentLength>
+				<pubDate>2026-03-06T12:35:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="478884672" url="https://mikanani.me/Download/20260306/3106f1c1084be1cb3599846b670321eb72a00783.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
