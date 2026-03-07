@@ -700,5 +700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="97737768" url="https://mikanani.me/Download/20260308/30101c2a23763d18a95b8ed95f4d390843019b12.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c9dd0a6b8eb829e9c7cdee7a1c0aa66ad55ff4dc</link>
+			<title>[LoliHouse] Fate/strange Fake - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Fate/strange Fake - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][772.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c9dd0a6b8eb829e9c7cdee7a1c0aa66ad55ff4dc</link>
+				<contentLength>809605504</contentLength>
+				<pubDate>2026-03-08T01:50:33.623</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="809605504" url="https://mikanani.me/Download/20260308/c9dd0a6b8eb829e9c7cdee7a1c0aa66ad55ff4dc.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
