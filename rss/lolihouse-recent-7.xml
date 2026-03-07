@@ -700,5 +700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="485910112" url="https://mikanani.me/Download/20260307/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/30101c2a23763d18a95b8ed95f4d390843019b12</link>
+			<title>[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕]</title>
+			<description>[奶²&amp;LoliHouse] 为了守望我的本命继兄，我要长命百岁！ / Saioshi no Gikei o Mederu Tame, Nagaikishimasu! - 10 [WebRip 1080p HEVC-10bit AAC][简日内封字幕][93.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/30101c2a23763d18a95b8ed95f4d390843019b12</link>
+				<contentLength>97737768</contentLength>
+				<pubDate>2026-03-08T00:20:50.775</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="97737768" url="https://mikanani.me/Download/20260308/30101c2a23763d18a95b8ed95f4d390843019b12.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
