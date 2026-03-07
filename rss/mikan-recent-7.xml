@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/05e2d9d125aef87f4aaceb9b3320db70cb23b652</link>
-			<title>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 06 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.52 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/05e2d9d125aef87f4aaceb9b3320db70cb23b652</link>
-				<contentLength>1632087552</contentLength>
-				<pubDate>2026-02-28T05:56:53.237</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1632087552" url="https://mikanani.me/Download/20260228/05e2d9d125aef87f4aaceb9b3320db70cb23b652.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4c301bba7824e41613336777a46f42e490e06b9c</link>
 			<title>[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 08 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -7971,6 +7959,18 @@
 				<pubDate>2026-03-07T13:10:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="651270528" url="https://mikanani.me/Download/20260307/b1b377b2c67d336e50cbb4ea4decf838406e1569.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体]</guid>
+			<link>https://mikanani.me/Home/Episode/464a60e01b4e431928c841c33872e6a7df4e2eed</link>
+			<title>[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体]</title>
+			<description>[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/464a60e01b4e431928c841c33872e6a7df4e2eed</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-03-07T14:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260307/464a60e01b4e431928c841c33872e6a7df4e2eed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -31048,5 +31048,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="651270528" url="https://mikanani.me/Download/20260307/b1b377b2c67d336e50cbb4ea4decf838406e1569.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体]</guid>
+			<link>https://mikanani.me/Home/Episode/464a60e01b4e431928c841c33872e6a7df4e2eed</link>
+			<title>[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体]</title>
+			<description>[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/464a60e01b4e431928c841c33872e6a7df4e2eed</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-03-07T14:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260307/464a60e01b4e431928c841c33872e6a7df4e2eed.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体]</guid>
+			<link>https://mikanani.me/Home/Episode/464a60e01b4e431928c841c33872e6a7df4e2eed</link>
+			<title>[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体]</title>
+			<description>[PorterRAWS] 新世纪福音战士 30周年纪念特别放映/Evangelion 30th AnniversarySpecial [WEBRip 1080p x265 AAC][AI简体][1.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/464a60e01b4e431928c841c33872e6a7df4e2eed</link>
+				<contentLength>1073741824</contentLength>
+				<pubDate>2026-03-07T14:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260307/464a60e01b4e431928c841c33872e6a7df4e2eed.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黑白字幕组]铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers [08] [WebRip 1080p AVC-8bit AAC][CHT](检索用：魔神坛斗士)</guid>
 			<link>https://mikanani.me/Home/Episode/da4c2e74f30cae09b78b1a99ec47d06255e59437</link>
 			<title>[黑白字幕组]铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers [08] [WebRip 1080p AVC-8bit AAC][CHT](检索用：魔神坛斗士)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-06T00:10:38.221024</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="696044736" url="https://mikanani.me/Download/20260306/590cc86880274512f5c1e418cca24d151858fd9f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/264c5fcc1d6465f789d870b15ba21a5efe29427f</link>
-			<title>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 09 (CR 1920x1080 AVC AAC MKV)[652.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/264c5fcc1d6465f789d870b15ba21a5efe29427f</link>
-				<contentLength>684091008</contentLength>
-				<pubDate>2026-03-06T00:06:29.081161</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="684091008" url="https://mikanani.me/Download/20260306/264c5fcc1d6465f789d870b15ba21a5efe29427f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
