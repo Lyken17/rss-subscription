@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7</link>
+			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][463.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7</link>
+				<contentLength>485910112</contentLength>
+				<pubDate>2026-03-07T18:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="485910112" url="https://mikanani.me/Download/20260307/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 11 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/feb11340d05c711e4566affd22c9a4eb6a980ad9</link>
 			<title>[黒ネズミたち] 青之壬生浪 第二季 芹泽暗杀篇 / Ao no Miburo: Serizawa Ansatsu-hen - 11 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-03-06T01:30:50.101833</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="519045120" url="https://mikanani.me/Download/20260306/5e6b444cf8ddebcecf16c20f2fb95cfd0b69864d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 08 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e553997dd3ea97cb0cedcb54013d2426cff949a3</link>
-			<title>[黒ネズミたち] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 08 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi - 08 (ABEMA 1920x1080 AVC AAC MP4)[712.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e553997dd3ea97cb0cedcb54013d2426cff949a3</link>
-				<contentLength>747320128</contentLength>
-				<pubDate>2026-03-06T01:30:24.123414</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747320128" url="https://mikanani.me/Download/20260306/e553997dd3ea97cb0cedcb54013d2426cff949a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
