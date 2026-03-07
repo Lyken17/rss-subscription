@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 安逸领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ / Okiraku Ryoushu - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/32bde872ba5c9d59169459d7e772c0b11086a01e</link>
+			<title>[黒ネズミたち] 安逸领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ / Okiraku Ryoushu - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 安逸领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ / Okiraku Ryoushu - 09 (ABEMA 1920x1080 AVC AAC MP4)[713.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/32bde872ba5c9d59169459d7e772c0b11086a01e</link>
+				<contentLength>747844416</contentLength>
+				<pubDate>2026-03-07T22:00:30.652036</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="747844416" url="https://mikanani.me/Download/20260307/32bde872ba5c9d59169459d7e772c0b11086a01e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  转生之后的我变成了龙蛋～目标是世界最强～ - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/f428b2c7585a6176d23f6e705357425580f7ea2e</link>
 			<title>[ANi]  转生之后的我变成了龙蛋～目标是世界最强～ - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2026-03-06T02:18:37.707</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="108800248" url="https://mikanani.me/Download/20260306/31626cec2af44f86fc33a4e73a2999047e7d6ea9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 草莓哀歌~散漫嚣张的妹妹与无法释怀的哥哥~ / Ichigo Aika： Zatsu de Namaiki na Imouto to Warikirenai Ani [07][1080P][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/62a12eb9e9bda8282ceabac3bc3e0202160a5dca</link>
-			<title>[桜都字幕组] 草莓哀歌~散漫嚣张的妹妹与无法释怀的哥哥~ / Ichigo Aika： Zatsu de Namaiki na Imouto to Warikirenai Ani [07][1080P][简繁内封]</title>
-			<description>[桜都字幕组] 草莓哀歌~散漫嚣张的妹妹与无法释怀的哥哥~ / Ichigo Aika： Zatsu de Namaiki na Imouto to Warikirenai Ani [07][1080P][简繁内封][73.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/62a12eb9e9bda8282ceabac3bc3e0202160a5dca</link>
-				<contentLength>76965480</contentLength>
-				<pubDate>2026-03-06T02:15:41.831</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="76965480" url="https://mikanani.me/Download/20260306/62a12eb9e9bda8282ceabac3bc3e0202160a5dca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
