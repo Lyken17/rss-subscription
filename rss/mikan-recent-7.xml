@@ -7996,5 +7996,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749480192" url="https://mikanani.me/Download/20260307/ed9167342ce4caf4bbbacd65d5b0ac74ae839a07.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]阿松 第四季 / Osomatsu san 4th Season [1-12] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/345c05a059fab25c54d9804a2c5d2d6994ab9efd</link>
+			<title>[黑白字幕组]阿松 第四季 / Osomatsu san 4th Season [1-12] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌]</title>
+			<description>[黑白字幕组]阿松 第四季 / Osomatsu san 4th Season [1-12] [webRip] [AVC-8bit 1080P AAC] [繁日内嵌][4.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/345c05a059fab25c54d9804a2c5d2d6994ab9efd</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-03-07T16:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260307/345c05a059fab25c54d9804a2c5d2d6994ab9efd.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黑白字幕组]阿松 第四季 / Osomatsu san 4th Season [1-12] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/412e1cda28c80b99da774fc17b71f86eb86b8267</link>
+			<title>[黑白字幕组]阿松 第四季 / Osomatsu san 4th Season [1-12] [webRip] [AVC-8bit 1080P AAC] [简日内嵌]</title>
+			<description>[黑白字幕组]阿松 第四季 / Osomatsu san 4th Season [1-12] [webRip] [AVC-8bit 1080P AAC] [简日内嵌][4.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/412e1cda28c80b99da774fc17b71f86eb86b8267</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-03-07T16:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260307/412e1cda28c80b99da774fc17b71f86eb86b8267.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
