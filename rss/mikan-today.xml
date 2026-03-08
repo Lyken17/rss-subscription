@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][ViuTV粤语]No.1战队五兽者 / 头号战队豪兽者 /  No.1 Sentai Gozyuger - 41 [粤语+无对白字幕](WEB 1920x1080 x264 AAC YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/6df0c4ec2caab62cb9b8a18ebeea67936f1043ed</link>
+			<title>[jibaketa合成&amp;二次压制][ViuTV粤语]No.1战队五兽者 / 头号战队豪兽者 /  No.1 Sentai Gozyuger - 41 [粤语+无对白字幕](WEB 1920x1080 x264 AAC YUE CHT)</title>
+			<description>[jibaketa合成&amp;二次压制][ViuTV粤语]No.1战队五兽者 / 头号战队豪兽者 /  No.1 Sentai Gozyuger - 41 [粤语+无对白字幕](WEB 1920x1080 x264 AAC YUE CHT)[1.15 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6df0c4ec2caab62cb9b8a18ebeea67936f1043ed</link>
+				<contentLength>1234803072</contentLength>
+				<pubDate>2026-03-08T17:54:25.296</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1234803072" url="https://mikanani.me/Download/20260308/6df0c4ec2caab62cb9b8a18ebeea67936f1043ed.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/e8558d281edb97997520e60f15fb4525706774de</link>
 			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-03-07T17:07:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389755712" url="https://mikanani.me/Download/20260307/5de513a4d7fb8d575e1b6ec8027d447f7978ce3d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[辉夜大小姐想让我告白 迈向大人的阶梯/Kaguya-sama wa Kokurasetai - Otona e no Kaidan][01-02][1080p HEVC][简繁外挂]</guid>
-			<link>https://mikanani.me/Home/Episode/af08967253a28398d8bc26077ad34753a8898709</link>
-			<title>【悠哈璃羽字幕社】[辉夜大小姐想让我告白 迈向大人的阶梯/Kaguya-sama wa Kokurasetai - Otona e no Kaidan][01-02][1080p HEVC][简繁外挂]</title>
-			<description>【悠哈璃羽字幕社】[辉夜大小姐想让我告白 迈向大人的阶梯/Kaguya-sama wa Kokurasetai - Otona e no Kaidan][01-02][1080p HEVC][简繁外挂][1.5GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/af08967253a28398d8bc26077ad34753a8898709</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2026-03-07T17:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260307/af08967253a28398d8bc26077ad34753a8898709.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
