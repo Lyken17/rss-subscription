@@ -30820,5 +30820,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="683671552" url="https://mikanani.me/Download/20260308/d7828ce4a0ae143b52de4352abb33f81650b5d42.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译</guid>
+			<link>https://mikanani.me/Home/Episode/f382dd07b640fc4c48d023e6548949664d69cb68</link>
+			<title>[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译</title>
+			<description>[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译[565.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f382dd07b640fc4c48d023e6548949664d69cb68</link>
+				<contentLength>592655168</contentLength>
+				<pubDate>2026-03-08T14:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="592655168" url="https://mikanani.me/Download/20260308/f382dd07b640fc4c48d023e6548949664d69cb68.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

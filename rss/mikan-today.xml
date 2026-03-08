@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译</guid>
+			<link>https://mikanani.me/Home/Episode/f382dd07b640fc4c48d023e6548949664d69cb68</link>
+			<title>[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译</title>
+			<description>[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译[565.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f382dd07b640fc4c48d023e6548949664d69cb68</link>
+				<contentLength>592655168</contentLength>
+				<pubDate>2026-03-08T14:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="592655168" url="https://mikanani.me/Download/20260308/f382dd07b640fc4c48d023e6548949664d69cb68.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6c0b00fe45a599c60188bc7e0269b0637312ed2a</link>
 			<title>[LoliHouse] 判处勇者刑 惩罚勇者9004队刑务纪录 / Yuusha Kei ni Shosu Choubatsu Yuusha 9004-tai Keimu Kiroku - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2026-03-07T09:00:35.653921</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="322017696" url="https://mikanani.me/Download/20260307/16a2424121fceaf3d34170e78818125d31529c6b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 07 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/b643ee2af6d6763b0ce685a4cf06f8b587ee7d19</link>
-			<title>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 07 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」 / Cardfight!! Vanguard: Divinez Genma Seisen-hen - 07 (ABEMA 1920x1080 AVC AAC MP4)[729.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b643ee2af6d6763b0ce685a4cf06f8b587ee7d19</link>
-				<contentLength>764516736</contentLength>
-				<pubDate>2026-03-07T09:00:31.843726</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="764516736" url="https://mikanani.me/Download/20260307/b643ee2af6d6763b0ce685a4cf06f8b587ee7d19.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
