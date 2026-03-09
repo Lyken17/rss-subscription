@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/883afbb5544d4e164a7ec5847bd31419b7dc4202</link>
+			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)[528.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/883afbb5544d4e164a7ec5847bd31419b7dc4202</link>
+				<contentLength>554434560</contentLength>
+				<pubDate>2026-03-09T18:07:31.837</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="554434560" url="https://mikanani.me/Download/20260309/883afbb5544d4e164a7ec5847bd31419b7dc4202.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/f38dab46de5b9ec7d79664573afd52103cf5de8c</link>
 			<title>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-08T15:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="766718784" url="https://mikanani.me/Download/20260308/4bc753323d112dedc62bea2f6768e493d5a84da2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">名侦探光之美少女！ - EP06 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</guid>
-			<link>https://mikanani.me/Home/Episode/7b3c891499fd3d29c40997684f64552a124f26cc</link>
-			<title>名侦探光之美少女！ - EP06 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</title>
-			<description>名侦探光之美少女！ - EP06 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}[1.48 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7b3c891499fd3d29c40997684f64552a124f26cc</link>
-				<contentLength>1589137920</contentLength>
-				<pubDate>2026-03-08T14:41:49.616</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260308/7b3c891499fd3d29c40997684f64552a124f26cc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

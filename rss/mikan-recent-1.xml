@@ -113,18 +113,6 @@
 			<enclosure type="application/x-bittorrent" length="643458688" url="https://mikanani.me/Download/20260308/a4f61d18a7516dce2e74c3b0e5a1224b49471a5f.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d7828ce4a0ae143b52de4352abb33f81650b5d42</link>
-			<title>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][652MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7828ce4a0ae143b52de4352abb33f81650b5d42</link>
-				<contentLength>683671552</contentLength>
-				<pubDate>2026-03-08T10:18:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="683671552" url="https://mikanani.me/Download/20260308/d7828ce4a0ae143b52de4352abb33f81650b5d42.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译</guid>
 			<link>https://mikanani.me/Home/Episode/f382dd07b640fc4c48d023e6548949664d69cb68</link>
 			<title>[云光字幕组]葬送的芙莉莲 第二季 Sousou no Frieren S2 [06][简体双语][1080p]招募翻译</title>
@@ -1335,6 +1323,18 @@
 				<pubDate>2026-03-09T16:40:15.067</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435756736" url="https://mikanani.me/Download/20260309/eb36bacd82b73df0e12d8752161814ff63ec6cae.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/883afbb5544d4e164a7ec5847bd31419b7dc4202</link>
+			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
+			<description>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)[528.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/883afbb5544d4e164a7ec5847bd31419b7dc4202</link>
+				<contentLength>554434560</contentLength>
+				<pubDate>2026-03-09T18:07:31.837</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="554434560" url="https://mikanani.me/Download/20260309/883afbb5544d4e164a7ec5847bd31419b7dc4202.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
