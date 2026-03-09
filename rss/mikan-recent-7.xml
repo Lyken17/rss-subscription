@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="515479968" url="https://mikanani.me/Download/20260302/08e08e78873d48a64c5248d8634924393b66e25b.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 131 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/2d9403a82994fdfafc5a7063e0a50dfa5e7893ae</link>
-			<title>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 131 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 宗门里除了我都是卧底 / Spy x Sect - 131 (B-Global Donghua 1920x1080 HEVC AAC MKV)[281.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2d9403a82994fdfafc5a7063e0a50dfa5e7893ae</link>
-				<contentLength>294649856</contentLength>
-				<pubDate>2026-03-02T09:00:40.603556</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="294649856" url="https://mikanani.me/Download/20260302/2d9403a82994fdfafc5a7063e0a50dfa5e7893ae.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 17 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/0c097afbccd010b17bb3fffc8415400d5bad329c</link>
 			<title>[黒ネズミたち] 给不灭的你 第三季 / Fumetsu no Anata e Season 3 - 17 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -7623,6 +7611,30 @@
 				<pubDate>2026-03-09T15:31:40.33</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="239117264" url="https://mikanani.me/Download/20260309/0f33f785690ef937d48d64fc9bd8d99e05e0e657.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f38dab46de5b9ec7d79664573afd52103cf5de8c</link>
+			<title>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][繁日内嵌]</title>
+			<description>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][繁日内嵌][396MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f38dab46de5b9ec7d79664573afd52103cf5de8c</link>
+				<contentLength>415236096</contentLength>
+				<pubDate>2026-03-09T16:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="415236096" url="https://mikanani.me/Download/20260309/f38dab46de5b9ec7d79664573afd52103cf5de8c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/eb36bacd82b73df0e12d8752161814ff63ec6cae</link>
+			<title>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][简日内嵌]</title>
+			<description>[绿茶字幕组] 金牌得主 第二季 / Medalist S2 [20][WebRip][1080p][简日内嵌][415.57 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/eb36bacd82b73df0e12d8752161814ff63ec6cae</link>
+				<contentLength>435756736</contentLength>
+				<pubDate>2026-03-09T16:40:15.067</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="435756736" url="https://mikanani.me/Download/20260309/eb36bacd82b73df0e12d8752161814ff63ec6cae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
