@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 09 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/623a1fb479088ff3b2f2c1fb53f4f727d41ae1b7</link>
+			<title>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 09 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 09 [1080p][简日内嵌][142.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/623a1fb479088ff3b2f2c1fb53f4f727d41ae1b7</link>
+				<contentLength>149002656</contentLength>
+				<pubDate>2026-03-09T19:19:28.802813</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="149002656" url="https://mikanani.me/Download/20260309/623a1fb479088ff3b2f2c1fb53f4f727d41ae1b7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/883afbb5544d4e164a7ec5847bd31419b7dc4202</link>
 			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 61 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-08T15:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20260308/e050fe8b6861b16f2cffd723f6a7cc6ffbf1d5aa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E48][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
-			<link>https://mikanani.me/Home/Episode/4bc753323d112dedc62bea2f6768e493d5a84da2</link>
-			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E48][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
-			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][720P][S2E48][繁](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[731.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4bc753323d112dedc62bea2f6768e493d5a84da2</link>
-				<contentLength>766718784</contentLength>
-				<pubDate>2026-03-08T15:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="766718784" url="https://mikanani.me/Download/20260308/4bc753323d112dedc62bea2f6768e493d5a84da2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
