@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7eb1eac6c7e5dc2b8ae1faa06e82927e298a8b4f</link>
+			<title>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][364.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7eb1eac6c7e5dc2b8ae1faa06e82927e298a8b4f</link>
+				<contentLength>382677824</contentLength>
+				<pubDate>2026-03-09T13:05:54.068</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="382677824" url="https://mikanani.me/Download/20260309/7eb1eac6c7e5dc2b8ae1faa06e82927e298a8b4f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi]  人中之龙 Powered by 日本统一 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/edf98f0cdc20361a789c068495a3af9f0a3cad3c</link>
 			<title>[ANi]  人中之龙 Powered by 日本统一 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-08T10:18:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="683671552" url="https://mikanani.me/Download/20260308/d7828ce4a0ae143b52de4352abb33f81650b5d42.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 名侦探光之美少女！ / Meitantei Precure! - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e2698554309d9787221f80ce6f2a21a6825fe47d</link>
-			<title>[黒ネズミたち] 名侦探光之美少女！ / Meitantei Precure! - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 名侦探光之美少女！ / Meitantei Precure! - 06 (CR 1920x1080 AVC AAC MKV)[929.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e2698554309d9787221f80ce6f2a21a6825fe47d</link>
-				<contentLength>974231936</contentLength>
-				<pubDate>2026-03-08T09:34:07.744306</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="974231936" url="https://mikanani.me/Download/20260308/e2698554309d9787221f80ce6f2a21a6825fe47d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
