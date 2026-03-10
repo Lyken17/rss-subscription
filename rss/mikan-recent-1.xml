@@ -940,5 +940,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="29527900160" url="https://mikanani.me/Download/20260310/714052f0f6d98ee3b55d9126a18701bfd524ccc5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[葬送的芙莉莲 第二季/Sousou no Frieren 2nd Season -S2][34][1080p HEVC][CHT][繁体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/2e151573145602c17f57746aa53a9b1cdea7f464</link>
+			<title>【悠哈璃羽字幕社】[葬送的芙莉莲 第二季/Sousou no Frieren 2nd Season -S2][34][1080p HEVC][CHT][繁体内嵌]</title>
+			<description>【悠哈璃羽字幕社】[葬送的芙莉莲 第二季/Sousou no Frieren 2nd Season -S2][34][1080p HEVC][CHT][繁体内嵌][499MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e151573145602c17f57746aa53a9b1cdea7f464</link>
+				<contentLength>523239424</contentLength>
+				<pubDate>2026-03-10T13:34:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="523239424" url="https://mikanani.me/Download/20260310/2e151573145602c17f57746aa53a9b1cdea7f464.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【悠哈璃羽字幕社】[葬送的芙莉莲 第二季/Sousou no Frieren 2nd Season -S2][34][1080p HEVC][CHS][简体内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/79fd5c4e291014aca40454a55ed845ea36f3e984</link>
+			<title>【悠哈璃羽字幕社】[葬送的芙莉莲 第二季/Sousou no Frieren 2nd Season -S2][34][1080p HEVC][CHS][简体内嵌]</title>
+			<description>【悠哈璃羽字幕社】[葬送的芙莉莲 第二季/Sousou no Frieren 2nd Season -S2][34][1080p HEVC][CHS][简体内嵌][505.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79fd5c4e291014aca40454a55ed845ea36f3e984</link>
+				<contentLength>530264896</contentLength>
+				<pubDate>2026-03-10T13:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="530264896" url="https://mikanani.me/Download/20260310/79fd5c4e291014aca40454a55ed845ea36f3e984.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
