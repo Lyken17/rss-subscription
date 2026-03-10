@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 58 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/512c2777a51e9144e068c83ed81533eef4e0a1b7</link>
-			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 58 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 58 [WebRip 1080p HEVC-10bit AAC][无字幕][398.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/512c2777a51e9144e068c83ed81533eef4e0a1b7</link>
-				<contentLength>418172096</contentLength>
-				<pubDate>2026-03-03T00:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="418172096" url="https://mikanani.me/Download/20260303/512c2777a51e9144e068c83ed81533eef4e0a1b7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/0ae68672c4faa8449c61ca93f3e0d464d9b9e954</link>
 			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -639,6 +627,18 @@
 				<pubDate>2026-03-09T23:53:23.928</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="493491328" url="https://mikanani.me/Download/20260309/3915a2fd88ebfac0e1f34b6de9bd484a046fc485.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/81546118a26864a5ca8cfd09651db49f430ed4c1</link>
+			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][370.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/81546118a26864a5ca8cfd09651db49f430ed4c1</link>
+				<contentLength>388182848</contentLength>
+				<pubDate>2026-03-10T09:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="388182848" url="https://mikanani.me/Download/20260310/81546118a26864a5ca8cfd09651db49f430ed4c1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
