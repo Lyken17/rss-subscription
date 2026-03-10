@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/9f071e238ec24d4571b11c0d133b18835847c03c</link>
+			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</title>
+			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV][12.24 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f071e238ec24d4571b11c0d133b18835847c03c</link>
+				<contentLength>13142599680</contentLength>
+				<pubDate>2026-03-10T16:18:46.955</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13142599680" url="https://mikanani.me/Download/20260310/9f071e238ec24d4571b11c0d133b18835847c03c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 24 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/6368c6007771efad1acf1acf726ff9be48810185</link>
 			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]幪面超人 / 假面骑士ZEZTZ / 假面骑士ZZZ - 24 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT+PGS ViuTV CHT)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-08T23:39:42.517</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="301360736" url="https://mikanani.me/Download/20260308/182f5c806beb06e38350ae9b4a1f9a043bcd926d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [09][1080P][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/d17cf9eee91e7184b4d0e593f7ba77b8a525a5ef</link>
-			<title>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [09][1080P][繁体内嵌]</title>
-			<description>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [09][1080P][繁体内嵌][513.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d17cf9eee91e7184b4d0e593f7ba77b8a525a5ef</link>
-				<contentLength>538097728</contentLength>
-				<pubDate>2026-03-08T23:39:22.134</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="538097728" url="https://mikanani.me/Download/20260308/d17cf9eee91e7184b4d0e593f7ba77b8a525a5ef.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

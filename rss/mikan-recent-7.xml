@@ -7444,5 +7444,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="591816320" url="https://mikanani.me/Download/20260310/11f61351586396f08740d87a5bc6532e6ee7025f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/9f071e238ec24d4571b11c0d133b18835847c03c</link>
+			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</title>
+			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV][12.24 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f071e238ec24d4571b11c0d133b18835847c03c</link>
+				<contentLength>13142599680</contentLength>
+				<pubDate>2026-03-10T16:18:46.955</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13142599680" url="https://mikanani.me/Download/20260310/9f071e238ec24d4571b11c0d133b18835847c03c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

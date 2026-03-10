@@ -29,30 +29,6 @@
 			<enclosure type="application/x-bittorrent" length="307652192" url="https://mikanani.me/Download/20260309/ce8c278e5d292f24dcb93fb434baa58d817c90d9.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][22][简体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/bc5f82cd9bb80cc870d51ff64359c4a35853351f</link>
-			<title>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][22][简体][1080P][MP4]</title>
-			<description>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][22][简体][1080P][MP4][575.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bc5f82cd9bb80cc870d51ff64359c4a35853351f</link>
-				<contentLength>603140928</contentLength>
-				<pubDate>2026-03-09T08:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="603140928" url="https://mikanani.me/Download/20260309/bc5f82cd9bb80cc870d51ff64359c4a35853351f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][22][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/7e283408ef845c116f517b14814d8031974f0129</link>
-			<title>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][22][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组&amp;风之圣殿字幕组】★04月新番[地狱乐 / Jigokuraku][22][繁体][1080P][MP4][575.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7e283408ef845c116f517b14814d8031974f0129</link>
-				<contentLength>603140928</contentLength>
-				<pubDate>2026-03-09T08:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="603140928" url="https://mikanani.me/Download/20260309/7e283408ef845c116f517b14814d8031974f0129.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi]  人中之龙 Powered by 日本统一 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/edf98f0cdc20361a789c068495a3af9f0a3cad3c</link>
 			<title>[ANi]  人中之龙 Powered by 日本统一 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -999,6 +975,18 @@
 				<pubDate>2026-03-10T13:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="591816320" url="https://mikanani.me/Download/20260310/11f61351586396f08740d87a5bc6532e6ee7025f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/9f071e238ec24d4571b11c0d133b18835847c03c</link>
+			<title>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV]</title>
+			<description>[丸子家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1487-1512][简日_繁日内封][1080P][hevc-10bit_aac][MKV][12.24 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f071e238ec24d4571b11c0d133b18835847c03c</link>
+				<contentLength>13142599680</contentLength>
+				<pubDate>2026-03-10T16:18:46.955</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13142599680" url="https://mikanani.me/Download/20260310/9f071e238ec24d4571b11c0d133b18835847c03c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
