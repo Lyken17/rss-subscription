@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【种族骑士团】[宠物生活 / ペットライフ / Pet Life][OVA][DVDrip][720P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/35974b69f57f28ce8c6a675f9c5d9813bd108357</link>
+			<title>【种族骑士团】[宠物生活 / ペットライフ / Pet Life][OVA][DVDrip][720P][简日双语]</title>
+			<description>【种族骑士团】[宠物生活 / ペットライフ / Pet Life][OVA][DVDrip][720P][简日双语][313.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35974b69f57f28ce8c6a675f9c5d9813bd108357</link>
+				<contentLength>328560800</contentLength>
+				<pubDate>2026-03-11T04:17:31.339</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="328560800" url="https://mikanani.me/Download/20260311/35974b69f57f28ce8c6a675f9c5d9813bd108357.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/2df05f5d74b75f87bfc8f540c5bfecd45a06c085</link>
 			<title>[黒ネズミたち] 住在神奈川的精灵 / #Kanagawa ni Sunderu Elf - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-09T20:21:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="333447168" url="https://mikanani.me/Download/20260309/c46001b9f8c5d3e791c6b7732e550e8f8c329efd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][09][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</guid>
-			<link>https://mikanani.me/Home/Episode/3b871036b383a1d695ddc9e6b9c8f92c5a44281c</link>
-			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][09][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</title>
-			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][09][GB][1080P][MP4][简日双语内嵌] エリスの圣杯[456.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3b871036b383a1d695ddc9e6b9c8f92c5a44281c</link>
-				<contentLength>478779808</contentLength>
-				<pubDate>2026-03-09T20:18:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="478779808" url="https://mikanani.me/Download/20260309/3b871036b383a1d695ddc9e6b9c8f92c5a44281c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

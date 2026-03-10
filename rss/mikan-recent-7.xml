@@ -7600,5 +7600,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="968884224" url="https://mikanani.me/Download/20260311/fd4cb0a98458d67457ea63ba6aa0a775253d1aea.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">【种族骑士团】[宠物生活 / ペットライフ / Pet Life][OVA][DVDrip][720P][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/35974b69f57f28ce8c6a675f9c5d9813bd108357</link>
+			<title>【种族骑士团】[宠物生活 / ペットライフ / Pet Life][OVA][DVDrip][720P][简日双语]</title>
+			<description>【种族骑士团】[宠物生活 / ペットライフ / Pet Life][OVA][DVDrip][720P][简日双语][313.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35974b69f57f28ce8c6a675f9c5d9813bd108357</link>
+				<contentLength>328560800</contentLength>
+				<pubDate>2026-03-11T04:17:31.339</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="328560800" url="https://mikanani.me/Download/20260311/35974b69f57f28ce8c6a675f9c5d9813bd108357.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
