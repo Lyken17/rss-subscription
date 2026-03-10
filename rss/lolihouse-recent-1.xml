@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7eb1eac6c7e5dc2b8ae1faa06e82927e298a8b4f</link>
-			<title>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 打工仔的拷问日常 / Goumon Baito-kun no Nichijou - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][364.95 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7eb1eac6c7e5dc2b8ae1faa06e82927e298a8b4f</link>
-				<contentLength>382677824</contentLength>
-				<pubDate>2026-03-09T13:05:54.068</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="382677824" url="https://mikanani.me/Download/20260309/7eb1eac6c7e5dc2b8ae1faa06e82927e298a8b4f.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4672967e2dad701210e5007c89386feed19ab426</link>
 			<title>[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 10 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -87,6 +75,18 @@
 				<pubDate>2026-03-10T18:15:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="470600896" url="https://mikanani.me/Download/20260310/a88ab1633d5bbc1f371c714d5cf22ff8a20a6762.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a3d7f7360ef596a8146f3ccb35ccb8d3e7936751</link>
+			<title>[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][518.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3d7f7360ef596a8146f3ccb35ccb8d3e7936751</link>
+				<contentLength>543466432</contentLength>
+				<pubDate>2026-03-10T21:46:04.917</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="543466432" url="https://mikanani.me/Download/20260310/a3d7f7360ef596a8146f3ccb35ccb8d3e7936751.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

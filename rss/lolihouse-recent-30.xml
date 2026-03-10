@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/47ba54e4f2d35123bef208299d8a924c850de3fe</link>
-			<title>[LoliHouse] Fate/strange Fake - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] Fate/strange Fake - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][885.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/47ba54e4f2d35123bef208299d8a924c850de3fe</link>
-				<contentLength>928199488</contentLength>
-				<pubDate>2026-02-08T13:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="928199488" url="https://mikanani.me/Download/20260208/47ba54e4f2d35123bef208299d8a924c850de3fe.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 超时空辉夜姬！ / Chou Kaguya-hime! [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：超时空辉耀姬！)</guid>
 			<link>https://mikanani.me/Home/Episode/1ab0c9e4013101a4f7d21865e161923d11e7e44c</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 超时空辉夜姬！ / Chou Kaguya-hime! [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：超时空辉耀姬！)</title>
@@ -2679,6 +2667,18 @@
 				<pubDate>2026-03-10T18:15:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="470600896" url="https://mikanani.me/Download/20260310/a88ab1633d5bbc1f371c714d5cf22ff8a20a6762.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a3d7f7360ef596a8146f3ccb35ccb8d3e7936751</link>
+			<title>[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 公主大人 “拷问”的时间到了 第二季 / Himesama Goumon no Jikan desu S2 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][518.29 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3d7f7360ef596a8146f3ccb35ccb8d3e7936751</link>
+				<contentLength>543466432</contentLength>
+				<pubDate>2026-03-10T21:46:04.917</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="543466432" url="https://mikanani.me/Download/20260310/a3d7f7360ef596a8146f3ccb35ccb8d3e7936751.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
