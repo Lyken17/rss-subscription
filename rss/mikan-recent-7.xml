@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[萌樱字幕组&amp;云歌字幕组][夏日口袋 / Summer Pockets][01-26][HEVC][x265 10bit][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/6d453c28d7892a62d723593a2eccc2229778c3e5</link>
-			<title>[萌樱字幕组&amp;云歌字幕组][夏日口袋 / Summer Pockets][01-26][HEVC][x265 10bit][1080p][简日双语]</title>
-			<description>[萌樱字幕组&amp;云歌字幕组][夏日口袋 / Summer Pockets][01-26][HEVC][x265 10bit][1080p][简日双语][8.82 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6d453c28d7892a62d723593a2eccc2229778c3e5</link>
-				<contentLength>9470402560</contentLength>
-				<pubDate>2026-03-04T11:06:32.567</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9470402560" url="https://mikanani.me/Download/20260304/6d453c28d7892a62d723593a2eccc2229778c3e5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [06][1080P][繁体内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/b4e90f28914ffa3636fcb32531100312931372b7</link>
 			<title>[桜都字幕组] 葬送的芙莉莲 第二季 / Sousou no Frieren S2 [06][1080P][繁体内嵌]</title>
@@ -7215,6 +7203,30 @@
 				<pubDate>2026-03-11T17:00:34.360294</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="753821312" url="https://mikanani.me/Download/20260311/e70b06fc432425b63b8d9f95a3076936655eee78.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi] Cat Tales /  从前从前有只猫！世界喵童话 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/5b6ea60a51bace28fe777e7605bfca0c1f526c61</link>
+			<title>[ANi] Cat Tales /  从前从前有只猫！世界喵童话 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Cat Tales /  从前从前有只猫！世界喵童话 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][64.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5b6ea60a51bace28fe777e7605bfca0c1f526c61</link>
+				<contentLength>67423440</contentLength>
+				<pubDate>2026-03-11T19:00:51.613433</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="67423440" url="https://mikanani.me/Download/20260311/5b6ea60a51bace28fe777e7605bfca0c1f526c61.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 22 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/77842d24b8b2519e22bf3bf50ae96284a9952148</link>
+			<title>[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 22 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 从前从前有只猫！世界喵童话 / Ugoku! Neko Mukashi Banashi - 22 (Baha 1920x1080 AVC AAC MP4)[64.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/77842d24b8b2519e22bf3bf50ae96284a9952148</link>
+				<contentLength>67213720</contentLength>
+				<pubDate>2026-03-11T19:00:18.469048</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="67213720" url="https://mikanani.me/Download/20260311/77842d24b8b2519e22bf3bf50ae96284a9952148.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
