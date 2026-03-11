@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e70b06fc432425b63b8d9f95a3076936655eee78</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (ABEMA 1920x1080 AVC AAC MP4)[718.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e70b06fc432425b63b8d9f95a3076936655eee78</link>
+				<contentLength>753821312</contentLength>
+				<pubDate>2026-03-11T17:00:34.360294</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753821312" url="https://mikanani.me/Download/20260311/e70b06fc432425b63b8d9f95a3076936655eee78.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [09][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/39a2b1254b4be3c20470336356a1432c29d2a525</link>
 			<title>[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [09][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-09T23:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="420583840" url="https://mikanani.me/Download/20260309/1ee06ddd559b80ae200c7f43f8c19e84dd2f857f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/aaacd4927cd4dbedfcc9b39e61ec93aa9925a0c6</link>
-			<title>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4)[712.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aaacd4927cd4dbedfcc9b39e61ec93aa9925a0c6</link>
-				<contentLength>747005568</contentLength>
-				<pubDate>2026-03-09T23:00:29.887401</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747005568" url="https://mikanani.me/Download/20260309/aaacd4927cd4dbedfcc9b39e61ec93aa9925a0c6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

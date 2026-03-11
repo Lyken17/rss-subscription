@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/81546118a26864a5ca8cfd09651db49f430ed4c1</link>
-			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][370.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/81546118a26864a5ca8cfd09651db49f430ed4c1</link>
-				<contentLength>388182848</contentLength>
-				<pubDate>2026-03-10T09:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="388182848" url="https://mikanani.me/Download/20260310/81546118a26864a5ca8cfd09651db49f430ed4c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a4d7f028f9b33da70fd5ddd8d5618c95de5c5a43</link>
-			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 07 (B-Global Donghua 1920x1080 HEVC AAC MKV)[249.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a4d7f028f9b33da70fd5ddd8d5618c95de5c5a43</link>
-				<contentLength>261829424</contentLength>
-				<pubDate>2026-03-10T09:00:34.333701</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="261829424" url="https://mikanani.me/Download/20260310/a4d7f028f9b33da70fd5ddd8d5618c95de5c5a43.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 73 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/f11d704c1e655cfea735ac5d91f132281f32933e</link>
 			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 73 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -915,6 +891,18 @@
 				<pubDate>2026-03-11T12:13:18.507</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="946937536" url="https://mikanani.me/Download/20260311/efb6287c241e7b1dedeaab1debb62cb52b9047e1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e70b06fc432425b63b8d9f95a3076936655eee78</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 09 (ABEMA 1920x1080 AVC AAC MP4)[718.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e70b06fc432425b63b8d9f95a3076936655eee78</link>
+				<contentLength>753821312</contentLength>
+				<pubDate>2026-03-11T17:00:34.360294</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753821312" url="https://mikanani.me/Download/20260311/e70b06fc432425b63b8d9f95a3076936655eee78.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
