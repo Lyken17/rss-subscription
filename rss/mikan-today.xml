@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4f3b33cf458d1e3a33e81dc68a98ab1273555008</link>
+			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[199.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f3b33cf458d1e3a33e81dc68a98ab1273555008</link>
+				<contentLength>208771488</contentLength>
+				<pubDate>2026-03-12T09:00:26.344918</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="208771488" url="https://mikanani.me/Download/20260312/4f3b33cf458d1e3a33e81dc68a98ab1273555008.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 勇者之屑 / 勇者のクズ / Yuusha no Kuzu [06][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/87c68e3dd4ac85f4bb03204ffc0a893a76d5122e</link>
 			<title>[离谱Sub] 勇者之屑 / 勇者のクズ / Yuusha no Kuzu [06][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-11T10:20:13.685</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="56360960" url="https://mikanani.me/Download/20260311/fda1f12182ac8c08e997800c403538dc0a63db3e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 和机器人啪啪啪能算在经验次数里吗？ / Android wa Keiken Ninzuu ni Hairimasu ka?? [09][1080p][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/dc4db84817eb50495d121854a1adba8686b33aef</link>
-			<title>[桜都字幕组] 和机器人啪啪啪能算在经验次数里吗？ / Android wa Keiken Ninzuu ni Hairimasu ka?? [09][1080p][简体内嵌]</title>
-			<description>[桜都字幕组] 和机器人啪啪啪能算在经验次数里吗？ / Android wa Keiken Ninzuu ni Hairimasu ka?? [09][1080p][简体内嵌][53.72 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc4db84817eb50495d121854a1adba8686b33aef</link>
-				<contentLength>56329504</contentLength>
-				<pubDate>2026-03-11T10:19:19.451</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="56329504" url="https://mikanani.me/Download/20260311/dc4db84817eb50495d121854a1adba8686b33aef.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
