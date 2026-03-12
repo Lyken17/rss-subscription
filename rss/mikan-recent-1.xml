@@ -1348,5 +1348,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="33500745728" url="https://mikanani.me/Download/20260312/a1de0afe61c87217e99f556b10adbdeb938618eb.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[VCB-Studio] 平凡上班族到异世界当上了四天王的故事 / Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/81ee46022b625373faa907231418b970524c5e15</link>
+			<title>[VCB-Studio] 平凡上班族到异世界当上了四天王的故事 / Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[VCB-Studio] 平凡上班族到异世界当上了四天王的故事 / Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi 10-bit 1080p HEVC BDRip [Fin][16.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/81ee46022b625373faa907231418b970524c5e15</link>
+				<contentLength>17824114688</contentLength>
+				<pubDate>2026-03-12T14:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17824114688" url="https://mikanani.me/Download/20260312/81ee46022b625373faa907231418b970524c5e15.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
