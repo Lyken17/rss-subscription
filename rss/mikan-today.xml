@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/5251a99b3e980bc3857619be2679d4cc2e6b8219</link>
+			<title>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 10 (ABEMA 1920x1080 AVC AAC MP4)[711.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5251a99b3e980bc3857619be2679d4cc2e6b8219</link>
+				<contentLength>746271552</contentLength>
+				<pubDate>2026-03-13T03:00:31.294708</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746271552" url="https://mikanani.me/Download/20260313/5251a99b3e980bc3857619be2679d4cc2e6b8219.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【豌豆字幕组&amp;风之圣殿字幕组】★07月新番[咒术回战 / Jujutsu_Kaisen][57][繁体][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/a2b0a3fb77f14d1e849a19ccef6beaa2668ecd36</link>
 			<title>【豌豆字幕组&amp;风之圣殿字幕组】★07月新番[咒术回战 / Jujutsu_Kaisen][57][繁体][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-12T03:40:32.652</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="476934304" url="https://mikanani.me/Download/20260312/c8ab19622e9bb3143dcb40302d082116683b4c74.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/04dfcd0ab2a3b6b4f49cd6a4d7b73b0f4cdf664b</link>
-			<title>[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 草莓哀歌 / Ichigo Aika - 10 (ABEMA 1920x1080 AVC AAC MP4)[105.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/04dfcd0ab2a3b6b4f49cd6a4d7b73b0f4cdf664b</link>
-				<contentLength>110310192</contentLength>
-				<pubDate>2026-03-12T03:10:18.649733</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="110310192" url="https://mikanani.me/Download/20260312/04dfcd0ab2a3b6b4f49cd6a4d7b73b0f4cdf664b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
