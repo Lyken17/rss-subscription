@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4f3b33cf458d1e3a33e81dc68a98ab1273555008</link>
-			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[199.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f3b33cf458d1e3a33e81dc68a98ab1273555008</link>
-				<contentLength>208771488</contentLength>
-				<pubDate>2026-03-12T09:00:26.344918</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="208771488" url="https://mikanani.me/Download/20260312/4f3b33cf458d1e3a33e81dc68a98ab1273555008.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 62 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/33a75ffcd27378b024ae3a89bccfeb653e9db115</link>
 			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 62 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
@@ -1395,6 +1383,18 @@
 				<pubDate>2026-03-13T15:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="478570080" url="https://mikanani.me/Download/20260313/f1dc374527371ccc65a71a70dd6a195ebc078af9.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 09 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/c849c191837d7d8b003cf5b87621ac917b063f14</link>
+			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 09 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 09 (ABEMA 1920x1080 AVC AAC MP4)[712.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c849c191837d7d8b003cf5b87621ac917b063f14</link>
+				<contentLength>746586112</contentLength>
+				<pubDate>2026-03-13T17:00:28.104277</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746586112" url="https://mikanani.me/Download/20260313/c849c191837d7d8b003cf5b87621ac917b063f14.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
