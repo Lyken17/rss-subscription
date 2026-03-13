@@ -508,5 +508,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1352914688" url="https://mikanani.me/Download/20260313/bd73709656597617c04b058c472d48e426be15d6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 57 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6b52eebc4de692b8625e6db1890c68b011365cd4</link>
+			<title>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 57 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 57 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][610.03 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6b52eebc4de692b8625e6db1890c68b011365cd4</link>
+				<contentLength>639662848</contentLength>
+				<pubDate>2026-03-13T08:37:56.293</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="639662848" url="https://mikanani.me/Download/20260313/6b52eebc4de692b8625e6db1890c68b011365cd4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
