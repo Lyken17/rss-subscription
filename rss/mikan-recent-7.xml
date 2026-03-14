@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7</link>
-			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][463.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7</link>
-				<contentLength>485910112</contentLength>
-				<pubDate>2026-03-07T18:52:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="485910112" url="https://mikanani.me/Download/20260307/8f03c922d73889ab3c2ef95fc6a8e2e6ed1d7ba7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1192 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0c905bb201b71833c3fc5fd6a6e23a4614bfd9ca</link>
 			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1192 (CR 1920x1080 AVC AAC MKV)</title>
@@ -7719,6 +7707,18 @@
 				<pubDate>2026-03-15T01:30:31.297138</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20260315/2c03c9c0811b74ee19865bd2161f83f6adcec84e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">金牌得主 第2期「メダリスト」Medalist S02E08 1080p 多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/cbe7787b7e8f55353cfa24fd29d3d8c8ecc88eb8</link>
+			<title>金牌得主 第2期「メダリスト」Medalist S02E08 1080p 多国字幕</title>
+			<description>金牌得主 第2期「メダリスト」Medalist S02E08 1080p 多国字幕[814.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cbe7787b7e8f55353cfa24fd29d3d8c8ecc88eb8</link>
+				<contentLength>853750592</contentLength>
+				<pubDate>2026-03-15T03:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="853750592" url="https://mikanani.me/Download/20260315/cbe7787b7e8f55353cfa24fd29d3d8c8ecc88eb8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
