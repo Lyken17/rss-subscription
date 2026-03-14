@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)</guid>
-			<link>https://mikanani.me/Home/Episode/6ef70c4b889212f2e489db19037df43bc3330839</link>
-			<title>[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)</title>
-			<description>[H-Enc] 怪物转生 / Re Monster (BDRip 1080p HEVC FLAC)[21.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6ef70c4b889212f2e489db19037df43bc3330839</link>
-				<contentLength>22548578304</contentLength>
-				<pubDate>2026-02-12T13:47:28.517453</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="22548578304" url="https://mikanani.me/Download/20260212/6ef70c4b889212f2e489db19037df43bc3330839.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 06 HEVC 1080P 简繁日三语 MKV</guid>
 			<link>https://mikanani.me/Home/Episode/766642686f86ec633b965b2cc4fbc81892e55f2e</link>
 			<title>[Yuuki] 安逸领主的愉快领地防卫 / Okiraku Ryoushu - 06 HEVC 1080P 简繁日三语 MKV</title>
@@ -30939,6 +30927,18 @@
 				<pubDate>2026-03-14T20:47:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="54438711296" url="https://mikanani.me/Download/20260314/1249c3ef20b04166aa50cd750a444eefc079a58b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 安逸领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ / Okiraku Ryoushu - 10 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/9c8f2a672d6e57b670256100f0224edba5c61983</link>
+			<title>[黒ネズミたち] 安逸领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ / Okiraku Ryoushu - 10 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 安逸领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ / Okiraku Ryoushu - 10 (ABEMA 1920x1080 AVC AAC MP4)[713.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9c8f2a672d6e57b670256100f0224edba5c61983</link>
+				<contentLength>748054144</contentLength>
+				<pubDate>2026-03-14T22:00:30.113006</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748054144" url="https://mikanani.me/Download/20260314/9c8f2a672d6e57b670256100f0224edba5c61983.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
