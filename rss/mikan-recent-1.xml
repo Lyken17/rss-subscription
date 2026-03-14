@@ -1516,5 +1516,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="853750592" url="https://mikanani.me/Download/20260315/cbe7787b7e8f55353cfa24fd29d3d8c8ecc88eb8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">非人学生与厌世教师 - EP10 [简／繁] (1080p H.264 AAC SRTx2) {非人学生与厌世教师 | 人外教室の人间嫌い教师}</guid>
+			<link>https://mikanani.me/Home/Episode/ffc0155257bbb5146f69ecb379d02cf42f20ff66</link>
+			<title>非人学生与厌世教师 - EP10 [简／繁] (1080p H.264 AAC SRTx2) {非人学生与厌世教师 | 人外教室の人间嫌い教师}</title>
+			<description>非人学生与厌世教师 - EP10 [简／繁] (1080p H.264 AAC SRTx2) {非人学生与厌世教师 | 人外教室の人间嫌い教师}[1.44 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ffc0155257bbb5146f69ecb379d02cf42f20ff66</link>
+				<contentLength>1546188288</contentLength>
+				<pubDate>2026-03-15T04:13:14.306</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1546188288" url="https://mikanani.me/Download/20260315/ffc0155257bbb5146f69ecb379d02cf42f20ff66.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
