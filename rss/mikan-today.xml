@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/ed027519598e5a593eca1fab03f752b81f0dade0</link>
+			<title>[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][454.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed027519598e5a593eca1fab03f752b81f0dade0</link>
+				<contentLength>476158368</contentLength>
+				<pubDate>2026-03-16T03:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="476158368" url="https://mikanani.me/Download/20260316/ed027519598e5a593eca1fab03f752b81f0dade0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 数码暴龙 BEATBREAK / Digimon Beatbreak - 22 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/5aad5ce0491a65f6795597252325ee46893876a8</link>
 			<title>[Skymoon-Raws] 数码暴龙 BEATBREAK / Digimon Beatbreak - 22 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-03-15T01:45:53.848</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="766225920" url="https://mikanani.me/Download/20260315/7ecea49955b4f35ed4020e6c7ef972e10c8cc2b2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 现在的是哪一个多闻！？ / Tamon-kun Ima Docchi!? - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/2c03c9c0811b74ee19865bd2161f83f6adcec84e</link>
-			<title>[黒ネズミたち] 现在的是哪一个多闻！？ / Tamon-kun Ima Docchi!? - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 现在的是哪一个多闻！？ / Tamon-kun Ima Docchi!? - 11 (ABEMA 1920x1080 AVC AAC MP4)[712.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2c03c9c0811b74ee19865bd2161f83f6adcec84e</link>
-				<contentLength>746900672</contentLength>
-				<pubDate>2026-03-15T01:30:31.297138</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20260315/2c03c9c0811b74ee19865bd2161f83f6adcec84e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

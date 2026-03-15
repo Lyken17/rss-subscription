@@ -7648,5 +7648,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="241172480" url="https://mikanani.me/Download/20260316/bac6aecc204bb060ddd5b24f2d66ca5102a98ed6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/ed027519598e5a593eca1fab03f752b81f0dade0</link>
+			<title>[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][454.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed027519598e5a593eca1fab03f752b81f0dade0</link>
+				<contentLength>476158368</contentLength>
+				<pubDate>2026-03-16T03:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="476158368" url="https://mikanani.me/Download/20260316/ed027519598e5a593eca1fab03f752b81f0dade0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
