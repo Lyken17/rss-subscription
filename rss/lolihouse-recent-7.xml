@@ -592,5 +592,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="363121856" url="https://mikanani.me/Download/20260315/f86e0030134df8f7508cc704fff12e7e44b578ee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/970d8045c608a243f7cd83188e00b1e145bf7a95</link>
+			<title>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔术师库诺看得见一切 / Majutsushi Kunon wa Mieteiru - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][581.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/970d8045c608a243f7cd83188e00b1e145bf7a95</link>
+				<contentLength>609400896</contentLength>
+				<pubDate>2026-03-15T23:54:25.076</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="609400896" url="https://mikanani.me/Download/20260315/970d8045c608a243f7cd83188e00b1e145bf7a95.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
