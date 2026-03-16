@@ -293,18 +293,6 @@
 			<enclosure type="application/x-bittorrent" length="1148903808" url="https://mikanani.me/Download/20260316/ef26efc380e934a2a9e0e60525e6970526a3b18a.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 龙与虎 (とらドラ ! ) (Tiger×Dragon !／Toradora ! )：TV动画+OVA篇+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.03.16)</guid>
-			<link>https://mikanani.me/Home/Episode/70a1e0994b8f1e5310c743318137a612549e86fa</link>
-			<title>[整理搬运] 龙与虎 (とらドラ ! ) (Tiger×Dragon !／Toradora ! )：TV动画+OVA篇+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.03.16)</title>
-			<description>[整理搬运] 龙与虎 (とらドラ ! ) (Tiger×Dragon !／Toradora ! )：TV动画+OVA篇+小说+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.03.16)[23.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/70a1e0994b8f1e5310c743318137a612549e86fa</link>
-				<contentLength>25662429184</contentLength>
-				<pubDate>2026-03-16T23:28:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="25662429184" url="https://mikanani.me/Download/20260316/70a1e0994b8f1e5310c743318137a612549e86fa.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/28082e934b24fe311511b751ebac7550ae83f840</link>
 			<title>[黒ネズミたち] 公主殿下，「拷问」的时间到了 第二季 / Himesama "Goumon" no Jikan desu 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1203,6 +1191,18 @@
 				<pubDate>2026-03-15T23:54:25.076</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="609400896" url="https://mikanani.me/Download/20260315/970d8045c608a243f7cd83188e00b1e145bf7a95.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">地狱乐 第二期「地狱楽」Jigokuraku S02E10 1080p 多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/f72acb3470d71ae54387983fa797947e60959e09</link>
+			<title>地狱乐 第二期「地狱楽」Jigokuraku S02E10 1080p 多国字幕</title>
+			<description>地狱乐 第二期「地狱楽」Jigokuraku S02E10 1080p 多国字幕[895.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f72acb3470d71ae54387983fa797947e60959e09</link>
+				<contentLength>939104640</contentLength>
+				<pubDate>2026-03-15T23:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="939104640" url="https://mikanani.me/Download/20260315/f72acb3470d71ae54387983fa797947e60959e09.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
