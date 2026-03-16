@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][08][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/d1454ea8df3604349cd56adfec4074bad56df279</link>
+			<title>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][08][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★01月新番★[他国日记 / 异国日记 / Ikoku Nikki][08][1080p][简日双语][176.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d1454ea8df3604349cd56adfec4074bad56df279</link>
+				<contentLength>184654240</contentLength>
+				<pubDate>2026-03-16T19:20:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="184654240" url="https://mikanani.me/Download/20260316/d1454ea8df3604349cd56adfec4074bad56df279.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 46 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/f3d78ac5d2717cb8ac782d0dbaeed67c129618c5</link>
 			<title>[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 46 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-15T15:58:47.526</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="299777408" url="https://mikanani.me/Download/20260315/7280c4fa09575ce8795b9bee5c8ea851ebaf51c8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">名侦探光之美少女！ - EP07 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</guid>
-			<link>https://mikanani.me/Home/Episode/45d581ad84581d1f1ac65b2fb274e879c452c308</link>
-			<title>名侦探光之美少女！ - EP07 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}</title>
-			<description>名侦探光之美少女！ - EP07 [简／繁] (1080p H.264 AAC SRTx2) {名侦探光之美少女！ | Meitantei Precure! | 名探侦プリキュア！}[1.48 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/45d581ad84581d1f1ac65b2fb274e879c452c308</link>
-				<contentLength>1589137920</contentLength>
-				<pubDate>2026-03-15T15:53:58.116</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260315/45d581ad84581d1f1ac65b2fb274e879c452c308.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
