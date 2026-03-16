@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 46 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/f3d78ac5d2717cb8ac782d0dbaeed67c129618c5</link>
+			<title>[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 46 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 公主的管弦乐团 / Princession Orchestra - 46 (ABEMA 1920x1080 AVC AAC MP4)[716.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f3d78ac5d2717cb8ac782d0dbaeed67c129618c5</link>
+				<contentLength>751409536</contentLength>
+				<pubDate>2026-03-16T17:30:31.425396</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="751409536" url="https://mikanani.me/Download/20260316/f3d78ac5d2717cb8ac782d0dbaeed67c129618c5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/20f2cbaf48c1605a033a6a9edd6df6330f02d437</link>
 			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-15T15:53:58.116</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260315/45d581ad84581d1f1ac65b2fb274e879c452c308.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E49][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</guid>
-			<link>https://mikanani.me/Home/Episode/6c4576934ebdc148089d823a99d77296c52740bb</link>
-			<title>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E49][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)</title>
-			<description>[雪飘工作室][ひみつのアイプリ/Himitsu_no_Aipri/秘密的美妙公主][S2E49][简繁外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法)[2.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6c4576934ebdc148089d823a99d77296c52740bb</link>
-				<contentLength>2362232064</contentLength>
-				<pubDate>2026-03-15T15:24:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2362232064" url="https://mikanani.me/Download/20260315/6c4576934ebdc148089d823a99d77296c52740bb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
