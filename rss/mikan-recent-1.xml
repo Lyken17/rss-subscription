@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">六四位元字幕组★金牌得主 第二季 Medalist 2★20★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/90a8eee1bcf91d15aac305dbd78063f52e4a2557</link>
-			<title>六四位元字幕组★金牌得主 第二季 Medalist 2★20★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★金牌得主 第二季 Medalist 2★20★1920x1080★AVC AAC MP4★繁体中文[403.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/90a8eee1bcf91d15aac305dbd78063f52e4a2557</link>
-				<contentLength>423414976</contentLength>
-				<pubDate>2026-03-15T18:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="423414976" url="https://mikanani.me/Download/20260315/90a8eee1bcf91d15aac305dbd78063f52e4a2557.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [10][1080P][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/43871b35acd1136cecdbf42b596191f271c4698b</link>
 			<title>[桜都字幕组] 非人学生与厌世教师 / Jingai Kyoushitsu no Ningengirai Kyoushi [10][1080P][简繁内封]</title>
@@ -1695,6 +1683,18 @@
 				<pubDate>2026-03-17T00:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260317/146852c4fd1939f0fac9fdc8ac81eae2e62e3868.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">六四位元字幕组★被邻国王太子溺爱的反派千金 Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru★10★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/b30d0a9cb6427b25e311914e94d35ebc9df777fd</link>
+			<title>六四位元字幕组★被邻国王太子溺爱的反派千金 Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru★10★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★被邻国王太子溺爱的反派千金 Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru★10★1920x1080★AVC AAC MP4★繁体中文[369.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b30d0a9cb6427b25e311914e94d35ebc9df777fd</link>
+				<contentLength>387448832</contentLength>
+				<pubDate>2026-03-17T02:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="387448832" url="https://mikanani.me/Download/20260317/b30d0a9cb6427b25e311914e94d35ebc9df777fd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
