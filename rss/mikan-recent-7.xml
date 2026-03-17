@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★10★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/a2a91124e68d4621ca76228fa13a83322f00b50d</link>
-			<title>六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★10★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★可以帮忙洗干净吗？Kirei ni Shite Moraemasu ka★10★1920x1080★AVC AAC MP4★繁体中文[261.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a2a91124e68d4621ca76228fa13a83322f00b50d</link>
-				<contentLength>274412352</contentLength>
-				<pubDate>2026-03-10T19:26:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="274412352" url="https://mikanani.me/Download/20260310/a2a91124e68d4621ca76228fa13a83322f00b50d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 身为魔族的我 想向勇者小队的可爱女孩告白 / Yuukawa - 10 (Baha 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/e4a390a83a1d46f481e04931e76c2e12b94315b6</link>
 			<title>[黒ネズミたち] 身为魔族的我 想向勇者小队的可爱女孩告白 / Yuukawa - 10 (Baha 1920x1080 AVC AAC MP4)</title>
@@ -7731,6 +7719,18 @@
 				<pubDate>2026-03-18T02:00:59.535476</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="766509056" url="https://mikanani.me/Download/20260318/2beeb4959a3f2dffc53c50f1ca7c35faffba87b0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/0989bdfb5ceff2c052959ce32a64f175b38e80b4</link>
+			<title>[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 11 (ABEMA 1920x1080 AVC AAC MP4)[119.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0989bdfb5ceff2c052959ce32a64f175b38e80b4</link>
+				<contentLength>125724264</contentLength>
+				<pubDate>2026-03-18T04:37:31.698878</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="125724264" url="https://mikanani.me/Download/20260318/0989bdfb5ceff2c052959ce32a64f175b38e80b4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

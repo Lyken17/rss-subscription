@@ -30652,5 +30652,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="766509056" url="https://mikanani.me/Download/20260318/2beeb4959a3f2dffc53c50f1ca7c35faffba87b0.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/0989bdfb5ceff2c052959ce32a64f175b38e80b4</link>
+			<title>[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 为了我最爱的义兄，我要长命百岁！ / Saioshi - 11 (ABEMA 1920x1080 AVC AAC MP4)[119.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0989bdfb5ceff2c052959ce32a64f175b38e80b4</link>
+				<contentLength>125724264</contentLength>
+				<pubDate>2026-03-18T04:37:31.698878</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="125724264" url="https://mikanani.me/Download/20260318/0989bdfb5ceff2c052959ce32a64f175b38e80b4.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
