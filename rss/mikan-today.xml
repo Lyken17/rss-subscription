@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/4014a6fe7b421eff72fe548a053c7c6ae2f268be</link>
+			<title>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌][147.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4014a6fe7b421eff72fe548a053c7c6ae2f268be</link>
+				<contentLength>154455248</contentLength>
+				<pubDate>2026-03-20T06:22:52.095294</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="154455248" url="https://mikanani.me/Download/20260320/4014a6fe7b421eff72fe548a053c7c6ae2f268be.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6d6fc462e8066132818de05b3b9bf0d893bab87c</link>
 			<title>[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -819,18 +831,6 @@
 				<pubDate>2026-03-19T18:16:39.164094</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="214748368" url="https://mikanani.me/Download/20260319/0ab3488dde51a05a248012a01367f01c012f2cde.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/4014a6fe7b421eff72fe548a053c7c6ae2f268be</link>
-			<title>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌]</title>
-			<description>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌][147.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4014a6fe7b421eff72fe548a053c7c6ae2f268be</link>
-				<contentLength>154455248</contentLength>
-				<pubDate>2026-03-19T18:11:27.084376</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="154455248" url="https://mikanani.me/Download/20260319/4014a6fe7b421eff72fe548a053c7c6ae2f268be.torrent"></enclosure>
 		</item>
 		<item>
 			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP]</guid>
