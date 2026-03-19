@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/9eeda767c7deba14ffcba6aee49f9cd55590f78e</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP][592.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9eeda767c7deba14ffcba6aee49f9cd55590f78e</link>
+				<contentLength>621700736</contentLength>
+				<pubDate>2026-03-19T17:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="621700736" url="https://mikanani.me/Download/20260319/9eeda767c7deba14ffcba6aee49f9cd55590f78e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [11][1080P][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/c4bf724b46a70640edf4e92d3577de1d828cf547</link>
 			<title>[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [11][1080P][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-18T11:57:42.578</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="613490368" url="https://mikanani.me/Download/20260318/74453de1497dfb619fdc80f3e92809943c81d99f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★01月新番★[地狱乐 / Jigokuraku / Hell’s Paradise][23][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/20e8d95e5c1bb96d163649e16e4ae4428402b719</link>
-			<title>【喵萌奶茶屋】★01月新番★[地狱乐 / Jigokuraku / Hell’s Paradise][23][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★01月新番★[地狱乐 / Jigokuraku / Hell’s Paradise][23][1080p][简日双语][654.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/20e8d95e5c1bb96d163649e16e4ae4428402b719</link>
-				<contentLength>686502720</contentLength>
-				<pubDate>2026-03-18T11:07:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="686502720" url="https://mikanani.me/Download/20260318/20e8d95e5c1bb96d163649e16e4ae4428402b719.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

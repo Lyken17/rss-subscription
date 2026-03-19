@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4f3b33cf458d1e3a33e81dc68a98ab1273555008</link>
-			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[199.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4f3b33cf458d1e3a33e81dc68a98ab1273555008</link>
-				<contentLength>208771488</contentLength>
-				<pubDate>2026-03-12T09:00:26.344918</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="208771488" url="https://mikanani.me/Download/20260312/4f3b33cf458d1e3a33e81dc68a98ab1273555008.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 62 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/33a75ffcd27378b024ae3a89bccfeb653e9db115</link>
 			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 62 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
@@ -7239,6 +7227,18 @@
 				<pubDate>2026-03-19T15:26:24.306</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="722531776" url="https://mikanani.me/Download/20260319/d1a3677e44fcf23867a17e509ec0d33c53407588.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/9eeda767c7deba14ffcba6aee49f9cd55590f78e</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[906][2026.03.14][AVC][1080P][GB_JP][592.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9eeda767c7deba14ffcba6aee49f9cd55590f78e</link>
+				<contentLength>621700736</contentLength>
+				<pubDate>2026-03-19T17:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="621700736" url="https://mikanani.me/Download/20260319/9eeda767c7deba14ffcba6aee49f9cd55590f78e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
