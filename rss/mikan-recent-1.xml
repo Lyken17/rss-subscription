@@ -1216,5 +1216,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="621700736" url="https://mikanani.me/Download/20260319/9eeda767c7deba14ffcba6aee49f9cd55590f78e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 10 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/0ab3488dde51a05a248012a01367f01c012f2cde</link>
+			<title>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 10 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]正相反的你和我 Seihantai na Kimi to Boku - 10 [1080p][简日内嵌][204.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ab3488dde51a05a248012a01367f01c012f2cde</link>
+				<contentLength>214748368</contentLength>
+				<pubDate>2026-03-19T18:16:39.164094</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="214748368" url="https://mikanani.me/Download/20260319/0ab3488dde51a05a248012a01367f01c012f2cde.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/4014a6fe7b421eff72fe548a053c7c6ae2f268be</link>
+			<title>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 10 [1080p][简日内嵌][147.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4014a6fe7b421eff72fe548a053c7c6ae2f268be</link>
+				<contentLength>154455248</contentLength>
+				<pubDate>2026-03-19T18:11:27.084376</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="154455248" url="https://mikanani.me/Download/20260319/4014a6fe7b421eff72fe548a053c7c6ae2f268be.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
