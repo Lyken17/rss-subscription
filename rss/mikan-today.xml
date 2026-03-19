@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/3f7c26dabd6bcdd5544d305c6aea6269c9f8c413</link>
+			<title>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 11 (ABEMA 1920x1080 AVC AAC MP4)[711.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3f7c26dabd6bcdd5544d305c6aea6269c9f8c413</link>
+				<contentLength>746166656</contentLength>
+				<pubDate>2026-03-20T03:00:31.58301</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20260320/3f7c26dabd6bcdd5544d305c6aea6269c9f8c413.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 咒术回战 第3季 死灭回游 前篇 / Jujutsu Kaisen S3 - 11 [ViuTV][WEB-DL][1080p][AVC AAC][CHT][SRT][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/838294ed0a751911848311c31fa75f259aa89d41</link>
 			<title>[Skymoon-Raws] 咒术回战 第3季 死灭回游 前篇 / Jujutsu Kaisen S3 - 11 [ViuTV][WEB-DL][1080p][AVC AAC][CHT][SRT][MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-19T00:00:38.806296</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="339633760" url="https://mikanani.me/Download/20260319/0b9fefa9d87a3fc55af89bea17de030523468e09.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/dfe20e3e34cb2e9dc1e9b1203d0c24ed52f9a694</link>
-			<title>[黒ネズミたち] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - 11 (ABEMA 1920x1080 AVC AAC MP4)[712.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfe20e3e34cb2e9dc1e9b1203d0c24ed52f9a694</link>
-				<contentLength>747529856</contentLength>
-				<pubDate>2026-03-19T00:00:31.021223</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747529856" url="https://mikanani.me/Download/20260319/dfe20e3e34cb2e9dc1e9b1203d0c24ed52f9a694.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
