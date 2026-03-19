@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6d6fc462e8066132818de05b3b9bf0d893bab87c</link>
+			<title>[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.31 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d6fc462e8066132818de05b3b9bf0d893bab87c</link>
+				<contentLength>1406601728</contentLength>
+				<pubDate>2026-03-20T04:20:05.29</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1406601728" url="https://mikanani.me/Download/20260320/6d6fc462e8066132818de05b3b9bf0d893bab87c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/3f7c26dabd6bcdd5544d305c6aea6269c9f8c413</link>
 			<title>[黒ネズミたち] 透明男子与人类女孩～两人迟早会成为夫妻～ / Toumei Otoko to Ningen Onna - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-19T00:01:12.581485</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="476997216" url="https://mikanani.me/Download/20260319/ade6719966492160febfe0419fa7bbc40a88ae79.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 现在多闻君是哪一面！？ / Tamon-kun Ima Docchi!? - 12 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0b9fefa9d87a3fc55af89bea17de030523468e09</link>
-			<title>[黒ネズミたち] 现在多闻君是哪一面！？ / Tamon-kun Ima Docchi!? - 12 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 现在多闻君是哪一面！？ / Tamon-kun Ima Docchi!? - 12 (B-Global 1920x1080 HEVC AAC MKV)[323.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0b9fefa9d87a3fc55af89bea17de030523468e09</link>
-				<contentLength>339633760</contentLength>
-				<pubDate>2026-03-19T00:00:38.806296</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="339633760" url="https://mikanani.me/Download/20260319/0b9fefa9d87a3fc55af89bea17de030523468e09.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
