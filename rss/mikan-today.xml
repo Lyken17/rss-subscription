@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/5ff917dc066da1b8f2638bfc45bbb3ada7e41945</link>
+			<title>[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][462.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ff917dc066da1b8f2638bfc45bbb3ada7e41945</link>
+				<contentLength>484861536</contentLength>
+				<pubDate>2026-03-21T03:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20260321/5ff917dc066da1b8f2638bfc45bbb3ada7e41945.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 葬送的芙莉莲 第二季 - 09 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/06a87841a0ef6e6f55abec2169876ef471421c4d</link>
 			<title>[沸班亚马制作组] 葬送的芙莉莲 第二季 - 09 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-20T01:55:31.825848</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746900672" url="https://mikanani.me/Download/20260320/176725a8eb27fa4dd5712c94a07a639e8d2099df.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 终究，与你相恋。 第二季 / Douse, Koishite Shimaunda. 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/4addefa3c6c445a8573c431e5e45aa1cb46cb61b</link>
-			<title>[黒ネズミたち] 终究，与你相恋。 第二季 / Douse, Koishite Shimaunda. 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 终究，与你相恋。 第二季 / Douse, Koishite Shimaunda. 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4)[730.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4addefa3c6c445a8573c431e5e45aa1cb46cb61b</link>
-				<contentLength>765879936</contentLength>
-				<pubDate>2026-03-20T01:32:33.001933</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="765879936" url="https://mikanani.me/Download/20260320/4addefa3c6c445a8573c431e5e45aa1cb46cb61b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

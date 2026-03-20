@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[ANi] Koala Enikki /  无尾熊绘日记 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/45ffb69dd794338157990c0baa314e64bf76895c</link>
-			<title>[ANi] Koala Enikki /  无尾熊绘日记 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Koala Enikki /  无尾熊绘日记 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][84.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/45ffb69dd794338157990c0baa314e64bf76895c</link>
-				<contentLength>88919248</contentLength>
-				<pubDate>2026-03-19T19:00:47.419069</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="88919248" url="https://mikanani.me/Download/20260319/45ffb69dd794338157990c0baa314e64bf76895c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 25 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/cc24bfda5e03da604431c400b8a6c8fb1de84b38</link>
-			<title>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 25 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 25 (Baha 1920x1080 AVC AAC MP4)[84.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cc24bfda5e03da604431c400b8a6c8fb1de84b38</link>
-				<contentLength>88709528</contentLength>
-				<pubDate>2026-03-19T19:00:16.587599</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="88709528" url="https://mikanani.me/Download/20260319/cc24bfda5e03da604431c400b8a6c8fb1de84b38.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7d5f02935bc838dd18ba0e17ea9eef31b959ef1b</link>
 			<title>[LoliHouse] 安闲领主的愉快领地防卫 / Okiraku Ryoushu no Tanoshii Ryouchi Bouei - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1839,6 +1815,18 @@
 				<pubDate>2026-03-21T02:09:20.732256</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="262773152" url="https://mikanani.me/Download/20260321/d411e36a6c490f22a69eb79dc353abab93243c01.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/5ff917dc066da1b8f2638bfc45bbb3ada7e41945</link>
+			<title>[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][462.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5ff917dc066da1b8f2638bfc45bbb3ada7e41945</link>
+				<contentLength>484861536</contentLength>
+				<pubDate>2026-03-21T03:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20260321/5ff917dc066da1b8f2638bfc45bbb3ada7e41945.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
