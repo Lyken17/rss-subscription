@@ -1780,5 +1780,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="484861536" url="https://mikanani.me/Download/20260321/5ff917dc066da1b8f2638bfc45bbb3ada7e41945.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 - 01 [NF WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a3c4f1a783bcb0c69db03f85e6db7b46b6a3a239</link>
+			<title>[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 - 01 [NF WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 - 01 [NF WebRip 1080p HEVC OPUS][简繁内封字幕][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a3c4f1a783bcb0c69db03f85e6db7b46b6a3a239</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2026-03-21T05:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20260321/a3c4f1a783bcb0c69db03f85e6db7b46b6a3a239.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 23 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/e963b2ffd5db0e48c3f4f5a1bebca9dc8c3bf65e</link>
+			<title>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 23 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 炎炎消防队 参之章 / Fire Force 3rd Season - 23 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][443.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e963b2ffd5db0e48c3f4f5a1bebca9dc8c3bf65e</link>
+				<contentLength>465043456</contentLength>
+				<pubDate>2026-03-21T04:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="465043456" url="https://mikanani.me/Download/20260321/e963b2ffd5db0e48c3f4f5a1bebca9dc8c3bf65e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
