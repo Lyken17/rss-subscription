@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[芝士动物朋友] 疑似后宫 / Giji Harem / 疑似ハーレム / 百变的七仓同学 / 模拟后宫体验 [1-12][BDRip 1080p HEVC FLAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/8050135fc4c25c10146ee489f960aea544d0362c</link>
+			<title>[芝士动物朋友] 疑似后宫 / Giji Harem / 疑似ハーレム / 百变的七仓同学 / 模拟后宫体验 [1-12][BDRip 1080p HEVC FLAC][简繁日内封]</title>
+			<description>[芝士动物朋友] 疑似后宫 / Giji Harem / 疑似ハーレム / 百变的七仓同学 / 模拟后宫体验 [1-12][BDRip 1080p HEVC FLAC][简繁日内封][16.3 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8050135fc4c25c10146ee489f960aea544d0362c</link>
+				<contentLength>17501990912</contentLength>
+				<pubDate>2026-03-21T06:38:00.51011</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17501990912" url="https://mikanani.me/Download/20260321/8050135fc4c25c10146ee489f960aea544d0362c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 - 01 [NF WebRip 1080p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a3c4f1a783bcb0c69db03f85e6db7b46b6a3a239</link>
 			<title>[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 - 01 [NF WebRip 1080p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-20T01:58:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="549034368" url="https://mikanani.me/Download/20260320/d6c6ee2be474876c9bf16d324aa3bbc21220ad4b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 咒术回战 / Jujutsu Kaisen [57][WebRip][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/7281117d03c3701e312d5849d85fecbe4cfa6150</link>
-			<title>[绿茶字幕组] 咒术回战 / Jujutsu Kaisen [57][WebRip][1080p][简繁日内封]</title>
-			<description>[绿茶字幕组] 咒术回战 / Jujutsu Kaisen [57][WebRip][1080p][简繁日内封][513.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7281117d03c3701e312d5849d85fecbe4cfa6150</link>
-				<contentLength>538758336</contentLength>
-				<pubDate>2026-03-20T01:57:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="538758336" url="https://mikanani.me/Download/20260320/7281117d03c3701e312d5849d85fecbe4cfa6150.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
