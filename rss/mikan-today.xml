@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">金牌得主 第2期「メダリスト」Medalist S02E09 1080p 多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/047743034f67627850a4b88627abe14a08adec02</link>
+			<title>金牌得主 第2期「メダリスト」Medalist S02E09 1080p 多国字幕</title>
+			<description>金牌得主 第2期「メダリスト」Medalist S02E09 1080p 多国字幕[737.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/047743034f67627850a4b88627abe14a08adec02</link>
+				<contentLength>773010240</contentLength>
+				<pubDate>2026-03-22T03:35:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="773010240" url="https://mikanani.me/Download/20260322/047743034f67627850a4b88627abe14a08adec02.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第1194集 基德vs白马 蔚蓝宝座（后篇）][WEBRIP][简繁日多语MKV][PGS][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/af9abf36385f132fd61ce0c49d998945b9b63aa8</link>
 			<title>[银色子弹字幕组][名侦探柯南][第1194集 基德vs白马 蔚蓝宝座（后篇）][WEBRIP][简繁日多语MKV][PGS][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-21T00:31:06.115017</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="517786816" url="https://mikanani.me/Download/20260321/ad9fe96486460f79aa85831658dab0d760fddfa1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 铠真传 / Yoroi Shin Den Samurai Troopers - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/712a726385b69f21e9f9b37378911bfc01f1deab</link>
-			<title>[黒ネズミたち] 铠真传 / Yoroi Shin Den Samurai Troopers - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 铠真传 / Yoroi Shin Den Samurai Troopers - 11 (ABEMA 1920x1080 AVC AAC MP4)[722.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/712a726385b69f21e9f9b37378911bfc01f1deab</link>
-				<contentLength>757700992</contentLength>
-				<pubDate>2026-03-21T00:30:32.962764</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="757700992" url="https://mikanani.me/Download/20260321/712a726385b69f21e9f9b37378911bfc01f1deab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
