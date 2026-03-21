@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/8b9bc8732c8fec1b8b0586137482cd51d1847aae</link>
+			<title>[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)</title>
+			<description>[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 06 [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)[722.51 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8b9bc8732c8fec1b8b0586137482cd51d1847aae</link>
+				<contentLength>757606656</contentLength>
+				<pubDate>2026-03-21T15:43:37.131</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757606656" url="https://mikanani.me/Download/20260321/8b9bc8732c8fec1b8b0586137482cd51d1847aae.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2025.04.02)</guid>
 			<link>https://mikanani.me/Home/Episode/826ffba7511438b33bf08884c43ed67165e986c0</link>
 			<title>[整理搬运] 少女与战车 (ガールズ＆パンツァー) (Girls und Panzer)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中, 英文字幕 (整理时间：2025.04.02)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-20T06:22:52.095294</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="154455248" url="https://mikanani.me/Download/20260320/4014a6fe7b421eff72fe548a053c7c6ae2f268be.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/6d6fc462e8066132818de05b3b9bf0d893bab87c</link>
-			<title>[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 咒术回战 死灭回游 前篇 - 11 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.31 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6d6fc462e8066132818de05b3b9bf0d893bab87c</link>
-				<contentLength>1406601728</contentLength>
-				<pubDate>2026-03-20T04:20:05.29</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1406601728" url="https://mikanani.me/Download/20260320/6d6fc462e8066132818de05b3b9bf0d893bab87c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
