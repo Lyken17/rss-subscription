@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔都精兵的奴隶2 / Mato Seihei no Slave 2 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：第二季)</guid>
-			<link>https://mikanani.me/Home/Episode/03fd76597c86b7517d498c8e55dc953c9793f4d5</link>
-			<title>[LoliHouse] 魔都精兵的奴隶2 / Mato Seihei no Slave 2 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：第二季)</title>
-			<description>[LoliHouse] 魔都精兵的奴隶2 / Mato Seihei no Slave 2 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：第二季)[489.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/03fd76597c86b7517d498c8e55dc953c9793f4d5</link>
-				<contentLength>513697376</contentLength>
-				<pubDate>2026-02-20T01:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="513697376" url="https://mikanani.me/Download/20260220/03fd76597c86b7517d498c8e55dc953c9793f4d5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/50aeaf6c8fc7b348da4648f5c4202c0298672bfe</link>
 			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2607,6 +2595,18 @@
 				<pubDate>2026-03-22T01:41:02.642</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="853635264" url="https://mikanani.me/Download/20260322/3a81e6a3ada8cf26ef5cc0949792164dd220273d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/af6cc4733f608f529b6fb434062bbb834992a5a6</link>
+			<title>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 东岛丹三郎想成为假面骑士 / Toujima Tanzaburou wa Kamen Rider ni Naritai - 24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][764.68 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/af6cc4733f608f529b6fb434062bbb834992a5a6</link>
+				<contentLength>801825088</contentLength>
+				<pubDate>2026-03-22T09:51:51.016</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="801825088" url="https://mikanani.me/Download/20260322/af6cc4733f608f529b6fb434062bbb834992a5a6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
