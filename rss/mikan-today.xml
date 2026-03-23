@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d42df0e3190c7a2a47cd200616287105db0a49a0</link>
+			<title>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 地狱模式～喜欢速通游戏的玩家在废设定异世界无双～ / Hell Mode - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][542.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d42df0e3190c7a2a47cd200616287105db0a49a0</link>
+				<contentLength>569062208</contentLength>
+				<pubDate>2026-03-23T18:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="569062208" url="https://mikanani.me/Download/20260323/d42df0e3190c7a2a47cd200616287105db0a49a0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[丸子家族][海螺小姐(Sazae-san)][2845]春季出游特别篇[2026.03.22][BIG5][1080P][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/04169d18b0e687fa6b665880e9ca669daeac19f3</link>
 			<title>[丸子家族][海螺小姐(Sazae-san)][2845]春季出游特别篇[2026.03.22][BIG5][1080P][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-22T16:32:41.27647</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391852864" url="https://mikanani.me/Download/20260322/1c66d450e0d816723565f098da914183b629b01b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/bc04e9d553c682607dd9cfbf21265b4cbe579231</link>
-			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 11 (CR 1920x1080 AVC AAC MKV)[733.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bc04e9d553c682607dd9cfbf21265b4cbe579231</link>
-				<contentLength>769025664</contentLength>
-				<pubDate>2026-03-22T16:32:34.831701</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="769025664" url="https://mikanani.me/Download/20260322/bc04e9d553c682607dd9cfbf21265b4cbe579231.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
