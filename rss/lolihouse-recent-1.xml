@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c6702cdfb73dc8cf8c3a27a858f8ff002c9339a7</link>
-			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.08 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c6702cdfb73dc8cf8c3a27a858f8ff002c9339a7</link>
-				<contentLength>1159641216</contentLength>
-				<pubDate>2026-03-22T16:27:38.638</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1159641216" url="https://mikanani.me/Download/20260322/c6702cdfb73dc8cf8c3a27a858f8ff002c9339a7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 08 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</guid>
 			<link>https://mikanani.me/Home/Episode/c9525fa02af9d3453925e463f474c18b0cdbec49</link>
 			<title>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 08 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</title>
@@ -87,6 +75,18 @@
 				<pubDate>2026-03-23T22:18:17.755</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="463082624" url="https://mikanani.me/Download/20260323/256f17be4e7fcd9229907b628428796d5deaedea.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 61 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e574d7891ebdaed8d4806765e89bffab9d3285ae</link>
+			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 61 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 61 [WebRip 1080p HEVC-10bit AAC][无字幕][603.15 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e574d7891ebdaed8d4806765e89bffab9d3285ae</link>
+				<contentLength>632448640</contentLength>
+				<pubDate>2026-03-24T00:03:00.763</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="632448640" url="https://mikanani.me/Download/20260324/e574d7891ebdaed8d4806765e89bffab9d3285ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
