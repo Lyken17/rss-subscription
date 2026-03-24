@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;VCB-Studio] 夫妻以上，恋人未满。 / 夫妇以上，恋人未满。 / Fuufu Ijou, Koibito Miman. / 夫妇以上, 恋人未満. 10-bit 1080p HEVC BDRip [Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7d93a5a163d08b8a110fe2accede17619c6cc9e7</link>
+			<title>[喵萌奶茶屋&amp;VCB-Studio] 夫妻以上，恋人未满。 / 夫妇以上，恋人未满。 / Fuufu Ijou, Koibito Miman. / 夫妇以上, 恋人未満. 10-bit 1080p HEVC BDRip [Fin]</title>
+			<description>[喵萌奶茶屋&amp;VCB-Studio] 夫妻以上，恋人未满。 / 夫妇以上，恋人未满。 / Fuufu Ijou, Koibito Miman. / 夫妇以上, 恋人未満. 10-bit 1080p HEVC BDRip [Fin][10.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d93a5a163d08b8a110fe2accede17619c6cc9e7</link>
+				<contentLength>11703785472</contentLength>
+				<pubDate>2026-03-24T17:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11703785472" url="https://mikanani.me/Download/20260324/7d93a5a163d08b8a110fe2accede17619c6cc9e7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★剧场版★[Virgin Punk Clockwork Girl][BDRip][1080p][繁体]</guid>
 			<link>https://mikanani.me/Home/Episode/51f7896551bad235422906ab05df464e533f7500</link>
 			<title>【喵萌奶茶屋】★剧场版★[Virgin Punk Clockwork Girl][BDRip][1080p][繁体]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-03-22T23:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="934910336" url="https://mikanani.me/Download/20260322/1b95d8ab546b9d6be832b17acaa56440448c8ada.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 64 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/dc7d4365d9458ec4b707b499abcb34a5771c49e0</link>
-			<title>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 64 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)</title>
-			<description>[jibaketa合成&amp;二次压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 64 [粤语+内封繁体中文字幕](WEB 1920x1080 x264 AAC SRT+PGS iCABLE YUE CHT)[516.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc7d4365d9458ec4b707b499abcb34a5771c49e0</link>
-				<contentLength>541442688</contentLength>
-				<pubDate>2026-03-22T23:38:37.386</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="541442688" url="https://mikanani.me/Download/20260322/dc7d4365d9458ec4b707b499abcb34a5771c49e0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
