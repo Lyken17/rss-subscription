@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8e1c05727a3c2255b113b0013799b37ba1bc6cc1</link>
+			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 11 (B-Global Donghua 1920x1080 HEVC AAC MKV)[209.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e1c05727a3c2255b113b0013799b37ba1bc6cc1</link>
+				<contentLength>220096096</contentLength>
+				<pubDate>2026-03-24T09:00:26.798847</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="220096096" url="https://mikanani.me/Download/20260324/8e1c05727a3c2255b113b0013799b37ba1bc6cc1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou / 勇者パーティを追い出された器用贫乏 - 12 - [繁日内嵌][H264 8bit 1080P][END][V2]</guid>
 			<link>https://mikanani.me/Home/Episode/523047c98d477a8619006cf209f02ace0491edfc</link>
 			<title>[三明治摆烂组] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou / 勇者パーティを追い出された器用贫乏 - 12 - [繁日内嵌][H264 8bit 1080P][END][V2]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-03-22T23:31:02.18706</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="208666624" url="https://mikanani.me/Download/20260322/9ea384bccd362e40e454f788ab24de5f23bd82b2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/edf6eb1c078bd53d6c3103c423c99e00a95904fb</link>
-			<title>[黒ネズミたち] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 - 11 (ABEMA 1920x1080 AVC AAC MP4)[712.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/edf6eb1c078bd53d6c3103c423c99e00a95904fb</link>
-				<contentLength>746795840</contentLength>
-				<pubDate>2026-03-22T23:30:34.480803</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="746795840" url="https://mikanani.me/Download/20260322/edf6eb1c078bd53d6c3103c423c99e00a95904fb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
