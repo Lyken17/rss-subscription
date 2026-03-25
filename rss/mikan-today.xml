@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/46caccd1c7a26759a14b54d6e030c88a05f7af1c</link>
+			<title>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 相反的你和我 / Seihantai na Kimi to Boku - 11 (ABEMA 1920x1080 AVC AAC MP4)[718.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/46caccd1c7a26759a14b54d6e030c88a05f7af1c</link>
+				<contentLength>753716416</contentLength>
+				<pubDate>2026-03-25T16:30:24.187605</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="753716416" url="https://mikanani.me/Download/20260325/46caccd1c7a26759a14b54d6e030c88a05f7af1c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [11][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/8e7cefe92e8c2ebf8ca4a334e4a5da1388eb399f</link>
 			<title>[绿茶字幕组] 蘑菇魔女 / Champignon no Majo [11][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-23T22:21:05.517</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="834771328" url="https://mikanani.me/Download/20260323/6aa8f234d76ff1dcefe59f778701094f91859714.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/256f17be4e7fcd9229907b628428796d5deaedea</link>
-			<title>[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 致不灭的你 第三季 / Fumetsu no Anata e S3 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][441.63 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/256f17be4e7fcd9229907b628428796d5deaedea</link>
-				<contentLength>463082624</contentLength>
-				<pubDate>2026-03-23T22:18:17.755</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="463082624" url="https://mikanani.me/Download/20260323/256f17be4e7fcd9229907b628428796d5deaedea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
