@@ -88,5 +88,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="365135136" url="https://mikanani.me/Download/20260325/cf1678a9464b0207071e73d915107a382ebac64e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/99e485295fa43c19f79d5e50a3c05adfe39c6deb</link>
+			<title>[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][628.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/99e485295fa43c19f79d5e50a3c05adfe39c6deb</link>
+				<contentLength>659428480</contentLength>
+				<pubDate>2026-03-25T14:20:44.882</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="659428480" url="https://mikanani.me/Download/20260325/99e485295fa43c19f79d5e50a3c05adfe39c6deb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
