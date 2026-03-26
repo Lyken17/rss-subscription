@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/fae1ab4c1628984d0aeb7f9561af4ff1bd0b199e</link>
-			<title>[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][586.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/fae1ab4c1628984d0aeb7f9561af4ff1bd0b199e</link>
-				<contentLength>614989824</contentLength>
-				<pubDate>2026-03-19T00:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="614989824" url="https://mikanani.me/Download/20260319/fae1ab4c1628984d0aeb7f9561af4ff1bd0b199e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f7578e120b1b7f237471c32beca0346993f1e74</link>
 			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -495,6 +483,18 @@
 				<pubDate>2026-03-25T22:30:44.124</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="313398400" url="https://mikanani.me/Download/20260325/6e8d4cb418538be4cbe62ed167212cd7d879778e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9fee7b7eb5633cc0bd724415a91adc78218ca7b5</link>
+			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.12 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9fee7b7eb5633cc0bd724415a91adc78218ca7b5</link>
+				<contentLength>1202590848</contentLength>
+				<pubDate>2026-03-26T10:01:02.112</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1202590848" url="https://mikanani.me/Download/20260326/9fee7b7eb5633cc0bd724415a91adc78218ca7b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

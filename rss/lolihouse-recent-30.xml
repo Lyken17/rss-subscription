@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 57 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f983951c3a8b35e29355075f9ba4ca7f7cdb11be</link>
-			<title>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 57 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 黄金神威 最终章 / Golden Kamuy - 57 [WebRip 1080p HEVC-10bit AAC][无字幕][369.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f983951c3a8b35e29355075f9ba4ca7f7cdb11be</link>
-				<contentLength>387763392</contentLength>
-				<pubDate>2026-02-24T00:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="387763392" url="https://mikanani.me/Download/20260224/f983951c3a8b35e29355075f9ba4ca7f7cdb11be.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/817ee9308f1ebc122c683abcb83423a065818e34</link>
 			<title>[LoliHouse] 神八小妹不可怕 / カヤちゃんはコワくない / Kaya-chan wa Kowakunai - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2571,6 +2559,18 @@
 				<pubDate>2026-03-25T22:30:44.124</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="313398400" url="https://mikanani.me/Download/20260325/6e8d4cb418538be4cbe62ed167212cd7d879778e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9fee7b7eb5633cc0bd724415a91adc78218ca7b5</link>
+			<title>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 【我推的孩子】 第三季 / Oshi no Ko S3 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.12 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9fee7b7eb5633cc0bd724415a91adc78218ca7b5</link>
+				<contentLength>1202590848</contentLength>
+				<pubDate>2026-03-26T10:01:02.112</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1202590848" url="https://mikanani.me/Download/20260326/9fee7b7eb5633cc0bd724415a91adc78218ca7b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
