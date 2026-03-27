@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[搬运][ProRemux666] Cleopatra D.C. (1989) - OVA (JPN Blu-ray Remux | 1080p x264 | FLAC 2.0 48kHz/24bit | English / .ASS) | クレオパトラD.C. OVA</guid>
+			<link>https://mikanani.me/Home/Episode/bd1ac6d3d70c548c77be1188010eda72fd7f6dd1</link>
+			<title>[搬运][ProRemux666] Cleopatra D.C. (1989) - OVA (JPN Blu-ray Remux | 1080p x264 | FLAC 2.0 48kHz/24bit | English / .ASS) | クレオパトラD.C. OVA</title>
+			<description>[搬运][ProRemux666] Cleopatra D.C. (1989) - OVA (JPN Blu-ray Remux | 1080p x264 | FLAC 2.0 48kHz/24bit | English / .ASS) | クレオパトラD.C. OVA[29.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd1ac6d3d70c548c77be1188010eda72fd7f6dd1</link>
+				<contentLength>32104880128</contentLength>
+				<pubDate>2026-03-28T04:46:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="32104880128" url="https://mikanani.me/Download/20260328/bd1ac6d3d70c548c77be1188010eda72fd7f6dd1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 75 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/dba7503ec583bcf32fa0c91a929978c18b9a2aa9</link>
 			<title>[黒ネズミたち] Nui Story 2 - 75 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-26T23:02:28.305306</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="281542656" url="https://mikanani.me/Download/20260326/922f17906fb14e895d6c2889cb0fa1616794d2b6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] The Holy Grail of Eris /  厄里斯的圣杯 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/51e0ddd7a0467b7f7f64caac6b41b097240c403a</link>
-			<title>[ANi] The Holy Grail of Eris /  厄里斯的圣杯 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] The Holy Grail of Eris /  厄里斯的圣杯 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][472.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/51e0ddd7a0467b7f7f64caac6b41b097240c403a</link>
-				<contentLength>495347296</contentLength>
-				<pubDate>2026-03-26T23:01:38.020517</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="495347296" url="https://mikanani.me/Download/20260326/51e0ddd7a0467b7f7f64caac6b41b097240c403a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
