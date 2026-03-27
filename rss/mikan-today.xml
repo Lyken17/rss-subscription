@@ -989,18 +989,6 @@
 			<enclosure type="application/x-bittorrent" length="805484608" url="https://mikanani.me/Download/20260326/92b464b8502d761c73e40a4a564a2654ee85d0e0.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</guid>
-			<link>https://mikanani.me/Home/Episode/c54ca0852414b6587e9471f6167290d81ddbecf4</link>
-			<title>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)</title>
-			<description>[整理搬运] 头文字D (头文字D) (Initial D)：TV动画+OVA篇+剧场版+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.11.10)[122.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c54ca0852414b6587e9471f6167290d81ddbecf4</link>
-				<contentLength>130996502528</contentLength>
-				<pubDate>2026-03-26T20:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="130996502528" url="https://mikanani.me/Download/20260326/c54ca0852414b6587e9471f6167290d81ddbecf4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA篇+漫画+CD+其他；华日音轨; 外挂简中字幕 (整理时间：2023.05.02)</guid>
 			<link>https://mikanani.me/Home/Episode/0775b776ed1936939accb3e5f85f06862408382a</link>
 			<title>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+OVA篇+漫画+CD+其他；华日音轨; 外挂简中字幕 (整理时间：2023.05.02)</title>
@@ -1203,6 +1191,18 @@
 				<pubDate>2026-03-26T13:24:10.756</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="580995008" url="https://mikanani.me/Download/20260326/55d1ccbd25da7c815892ba4d046ef0a92ec0373a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [31][WebRip][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/6ba806da21f831edd984ff019706e5a31a2292ac</link>
+			<title>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [31][WebRip][1080p][简日内嵌]</title>
+			<description>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [31][WebRip][1080p][简日内嵌][553.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6ba806da21f831edd984ff019706e5a31a2292ac</link>
+				<contentLength>580806272</contentLength>
+				<pubDate>2026-03-26T13:23:39.29</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="580806272" url="https://mikanani.me/Download/20260326/6ba806da21f831edd984ff019706e5a31a2292ac.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
