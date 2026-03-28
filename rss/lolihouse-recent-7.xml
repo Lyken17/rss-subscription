@@ -544,5 +544,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="734244352" url="https://mikanani.me/Download/20260328/93a015c7a51e1661e9c318631cc490bc4ceaa0a4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c961702444efbe2bf5016566779bc8ed4a490c54</link>
+			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][865.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c961702444efbe2bf5016566779bc8ed4a490c54</link>
+				<contentLength>907647360</contentLength>
+				<pubDate>2026-03-28T19:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="907647360" url="https://mikanani.me/Download/20260328/c961702444efbe2bf5016566779bc8ed4a490c54.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 37 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/747827aff38292302535a3efab7f02193733f39f</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 37 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 葬送的芙莉莲 / Sousou no Frieren - 37 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][869.99 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/747827aff38292302535a3efab7f02193733f39f</link>
+				<contentLength>912250624</contentLength>
+				<pubDate>2026-03-28T18:31:02.774</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="912250624" url="https://mikanani.me/Download/20260328/747827aff38292302535a3efab7f02193733f39f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
