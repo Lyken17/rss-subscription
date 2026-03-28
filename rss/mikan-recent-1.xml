@@ -1360,5 +1360,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="77094666240" url="https://mikanani.me/Download/20260329/49e995d77cfdedda4cd2a3351839a8603afb7562.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] Fate-strange Fake - 13 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/80543433df18ddc07769e7fc978d66161fbc503f</link>
+			<title>[沸班亚马制作组] Fate-strange Fake - 13 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] Fate-strange Fake - 13 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/80543433df18ddc07769e7fc978d66161fbc503f</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-03-29T06:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260329/80543433df18ddc07769e7fc978d66161fbc503f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
