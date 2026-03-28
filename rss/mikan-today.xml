@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 50 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/afe2e1ec0e41512ebdc3ca701ed3fd91d2d079ab</link>
+			<title>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 50 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 最强王图鉴 ～The Ultimate Tournament / Sai-Kyo-Oh! Zukan: The Ultimate Tournament - 50 (ABEMA 1920x1080 AVC AAC MP4)[330.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/afe2e1ec0e41512ebdc3ca701ed3fd91d2d079ab</link>
+				<contentLength>346659232</contentLength>
+				<pubDate>2026-03-29T07:12:24.22569</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="346659232" url="https://mikanani.me/Download/20260329/afe2e1ec0e41512ebdc3ca701ed3fd91d2d079ab.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] Fate-strange Fake - 13 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/80543433df18ddc07769e7fc978d66161fbc503f</link>
 			<title>[沸班亚马制作组] Fate-strange Fake - 13 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-28T00:00:32.602106</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="751619264" url="https://mikanani.me/Download/20260328/7d0bc5829bfd4e6c67d012c1369b5718cf7baed4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][处女朋克 发条少女][VIRGIN PUNK][01][Clockwork Girl][BDRip][1080P][AVC 8bit][简日双语]（检索用：纯洁庞克）</guid>
-			<link>https://mikanani.me/Home/Episode/1cee71ec70bfab6f386236cd1cb289e9bc6a7b85</link>
-			<title>[SweetSub][处女朋克 发条少女][VIRGIN PUNK][01][Clockwork Girl][BDRip][1080P][AVC 8bit][简日双语]（检索用：纯洁庞克）</title>
-			<description>[SweetSub][处女朋克 发条少女][VIRGIN PUNK][01][Clockwork Girl][BDRip][1080P][AVC 8bit][简日双语]（检索用：纯洁庞克）[977.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1cee71ec70bfab6f386236cd1cb289e9bc6a7b85</link>
-				<contentLength>1024983040</contentLength>
-				<pubDate>2026-03-27T23:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1024983040" url="https://mikanani.me/Download/20260327/1cee71ec70bfab6f386236cd1cb289e9bc6a7b85.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
