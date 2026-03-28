@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/73fa5ed25509cd77cccb14e36dafc8ee71a0868e</link>
-			<title>[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 贵族转生～得天眷顾一出生就获得最强力量～ / Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][402.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/73fa5ed25509cd77cccb14e36dafc8ee71a0868e</link>
-				<contentLength>421842112</contentLength>
-				<pubDate>2026-02-26T18:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="421842112" url="https://mikanani.me/Download/20260226/73fa5ed25509cd77cccb14e36dafc8ee71a0868e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 优雅贵族的休假指南。  / Odayaka Kizoku no Kyuuka no Susume. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/523c1062b82cbc1cdf179d560d8f83315bf2c3b1</link>
 			<title>[LoliHouse] 优雅贵族的休假指南。  / Odayaka Kizoku no Kyuuka no Susume. - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2619,6 +2607,18 @@
 				<pubDate>2026-03-28T18:31:02.774</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="912250624" url="https://mikanani.me/Download/20260328/747827aff38292302535a3efab7f02193733f39f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/5637beefa726741ad7e5e17721f1ebece5292515</link>
+			<title>[LoliHouse] Fate/strange Fake - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] Fate/strange Fake - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][786.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5637beefa726741ad7e5e17721f1ebece5292515</link>
+				<contentLength>824285568</contentLength>
+				<pubDate>2026-03-29T02:46:20.05</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="824285568" url="https://mikanani.me/Download/20260329/5637beefa726741ad7e5e17721f1ebece5292515.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
