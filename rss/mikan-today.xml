@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1195 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/990602afbe8eb4db844fe134b78a9c18ccf66ac2</link>
+			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1195 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1195 (CR 1920x1080 AVC AAC MKV)[528.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/990602afbe8eb4db844fe134b78a9c18ccf66ac2</link>
+				<contentLength>553752960</contentLength>
+				<pubDate>2026-03-28T19:32:28.5451</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="553752960" url="https://mikanani.me/Download/20260328/990602afbe8eb4db844fe134b78a9c18ccf66ac2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c961702444efbe2bf5016566779bc8ed4a490c54</link>
 			<title>[LoliHouse] 厄里斯的圣杯 / Eris no Seihai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-27T00:30:38.236918</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="898210176" url="https://mikanani.me/Download/20260327/90452cd488b468b4b2cf891f76e520790de56a6b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 「凭妳也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 / Omagoto - 12 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ddc9e30089ebf91e5f68cf270031d6f50b9f723a</link>
-			<title>[黒ネズミたち] 「凭妳也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 / Omagoto - 12 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 「凭妳也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 / Omagoto - 12 (CR 1920x1080 AVC AAC MKV)[516.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ddc9e30089ebf91e5f68cf270031d6f50b9f723a</link>
-				<contentLength>541589504</contentLength>
-				<pubDate>2026-03-27T00:05:47.646989</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="541589504" url="https://mikanani.me/Download/20260327/ddc9e30089ebf91e5f68cf270031d6f50b9f723a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
