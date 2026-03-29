@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 身为魔族的我 想向勇者小队的可爱女孩告白 / Yuukawa - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/83fe71ba153a88d2c749b0b620544c11eddfabec</link>
+			<title>[黒ネズミたち] 身为魔族的我 想向勇者小队的可爱女孩告白 / Yuukawa - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 身为魔族的我 想向勇者小队的可爱女孩告白 / Yuukawa - 12 (ABEMA 1920x1080 AVC AAC MP4)[719.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/83fe71ba153a88d2c749b0b620544c11eddfabec</link>
+				<contentLength>754450432</contentLength>
+				<pubDate>2026-03-30T01:00:32.073322</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="754450432" url="https://mikanani.me/Download/20260330/83fe71ba153a88d2c749b0b620544c11eddfabec.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 「凭妳也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 / Omagoto - 12 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/5ed9c536cd943ebc1c407ee3c88cbb8380716a25</link>
 			<title>[黒ネズミたち] 「凭妳也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 / Omagoto - 12 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-29T00:31:20.289315</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="723832000" url="https://mikanani.me/Download/20260329/ba2823f69e88b4b3871e63884392572aa2bdbb66.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 12 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/7bd5b67e10de7d614c258f300e889f43311beb0d</link>
-			<title>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 12 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 12 (Baha 1920x1080 AVC AAC MP4)[690.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7bd5b67e10de7d614c258f300e889f43311beb0d</link>
-				<contentLength>723517440</contentLength>
-				<pubDate>2026-03-29T00:31:06.898759</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="723517440" url="https://mikanani.me/Download/20260329/7bd5b67e10de7d614c258f300e889f43311beb0d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
