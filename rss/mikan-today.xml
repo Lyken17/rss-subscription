@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][24][1080p][繁日字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e464c2af12dd24b75e0c3bf95a1342e13f471f84</link>
+			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][24][1080p][繁日字幕]</title>
+			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][24][1080p][繁日字幕][615.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e464c2af12dd24b75e0c3bf95a1342e13f471f84</link>
+				<contentLength>645713088</contentLength>
+				<pubDate>2026-03-29T13:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="645713088" url="https://mikanani.me/Download/20260329/e464c2af12dd24b75e0c3bf95a1342e13f471f84.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[DBD-Raws][英雄联盟：双城之战 第二季/Arcane League of Legends S02][01-09TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/472f3cee48ea1ec5af989241738d9fbb7f452af6</link>
 			<title>[DBD-Raws][英雄联盟：双城之战 第二季/Arcane League of Legends S02][01-09TV全集][1080P][BDRip][HEVC-10bit][简繁外挂][FLAC][MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-28T02:10:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="491991872" url="https://mikanani.me/Download/20260328/dc12e1f32af50a0dcbb09098dbb68e2f3b8a00cc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] SEALOOK / Sealook - 24 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/22d688ce84082169723b6e68383ef3206a180300</link>
-			<title>[黒ネズミたち] SEALOOK / Sealook - 24 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] SEALOOK / Sealook - 24 (ABEMA 1920x1080 AVC AAC MP4)[229.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/22d688ce84082169723b6e68383ef3206a180300</link>
-				<contentLength>240333616</contentLength>
-				<pubDate>2026-03-28T02:09:19.807861</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="240333616" url="https://mikanani.me/Download/20260328/22d688ce84082169723b6e68383ef3206a180300.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
