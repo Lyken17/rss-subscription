@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 地狱乐 第二季 / Jigokuraku 2nd Season - 25 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e8d2dc9259e3ab10f3902e7ad14f6077598b4fd2</link>
+			<title>[黒ネズミたち] 地狱乐 第二季 / Jigokuraku 2nd Season - 25 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 地狱乐 第二季 / Jigokuraku 2nd Season - 25 (CR 1920x1080 AVC AAC MKV)[856.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e8d2dc9259e3ab10f3902e7ad14f6077598b4fd2</link>
+				<contentLength>897790784</contentLength>
+				<pubDate>2026-03-30T04:40:23.490963</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="897790784" url="https://mikanani.me/Download/20260330/e8d2dc9259e3ab10f3902e7ad14f6077598b4fd2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★被邻国王太子溺爱的反派千金 Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru★01~12(完)★1920x1080★AVC AAC MP4★繁体中文(全修正合集+ass字幕)</guid>
 			<link>https://mikanani.me/Home/Episode/f9dfd1eea8743c56cd299c463c26c2bbd8b67c80</link>
 			<title>六四位元字幕组★被邻国王太子溺爱的反派千金 Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru★01~12(完)★1920x1080★AVC AAC MP4★繁体中文(全修正合集+ass字幕)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-29T02:10:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="197971152" url="https://mikanani.me/Download/20260329/efcde0f577f7ed2e47022c94566a0b542d896e20.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第1195集 馆之谜 漩涡馆（前篇）][WEBRIP][简日双语MP4][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/b8e7e3f1ed24233723846ded0585a5bd9c118330</link>
-			<title>[银色子弹字幕组][名侦探柯南][第1195集 馆之谜 漩涡馆（前篇）][WEBRIP][简日双语MP4][1080P]</title>
-			<description>[银色子弹字幕组][名侦探柯南][第1195集 馆之谜 漩涡馆（前篇）][WEBRIP][简日双语MP4][1080P][188.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b8e7e3f1ed24233723846ded0585a5bd9c118330</link>
-				<contentLength>197866288</contentLength>
-				<pubDate>2026-03-29T02:09:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="197866288" url="https://mikanani.me/Download/20260329/b8e7e3f1ed24233723846ded0585a5bd9c118330.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
