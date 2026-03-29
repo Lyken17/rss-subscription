@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c6702cdfb73dc8cf8c3a27a858f8ff002c9339a7</link>
-			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 23 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.08 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c6702cdfb73dc8cf8c3a27a858f8ff002c9339a7</link>
-				<contentLength>1159641216</contentLength>
-				<pubDate>2026-03-22T16:27:38.638</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1159641216" url="https://mikanani.me/Download/20260322/c6702cdfb73dc8cf8c3a27a858f8ff002c9339a7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 08 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</guid>
 			<link>https://mikanani.me/Home/Episode/c9525fa02af9d3453925e463f474c18b0cdbec49</link>
 			<title>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 08 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</title>
@@ -543,6 +531,18 @@
 				<pubDate>2026-03-29T21:24:19.289</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="786652224" url="https://mikanani.me/Download/20260329/9e5a2a3b7bceb45448c3d8ee05772696ffd3b655.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/58e1702105fe42c6ced804cefd9270c0497ffc5e</link>
+			<title>[LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][564.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/58e1702105fe42c6ced804cefd9270c0497ffc5e</link>
+				<contentLength>592025984</contentLength>
+				<pubDate>2026-03-29T23:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="592025984" url="https://mikanani.me/Download/20260329/58e1702105fe42c6ced804cefd9270c0497ffc5e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
