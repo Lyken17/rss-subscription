@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/068fb670a6e4de7928f4d7f35b4748275fd99f07</link>
+			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 13 (B-Global Donghua 1920x1080 HEVC AAC MKV)[292.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/068fb670a6e4de7928f4d7f35b4748275fd99f07</link>
+				<contentLength>307023040</contentLength>
+				<pubDate>2026-03-31T09:00:35.724397</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="307023040" url="https://mikanani.me/Download/20260331/068fb670a6e4de7928f4d7f35b4748275fd99f07.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 勇者之屑 / 勇者のクズ / Yuusha no Kuzu [08][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/ec2a11c8b478a016b191545cdc2fbf778279f027</link>
 			<title>[离谱Sub] 勇者之屑 / 勇者のクズ / Yuusha no Kuzu [08][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-30T00:30:29.914446</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746166656" url="https://mikanani.me/Download/20260330/5ed9c536cd943ebc1c407ee3c88cbb8380716a25.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">地狱乐 第二期「地狱楽」Jigokuraku S02E12 1080p 多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/e0f29d19a1f229c0472117cf1449d3f56331cec7</link>
-			<title>地狱乐 第二期「地狱楽」Jigokuraku S02E12 1080p 多国字幕</title>
-			<description>地狱乐 第二期「地狱楽」Jigokuraku S02E12 1080p 多国字幕[893.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e0f29d19a1f229c0472117cf1449d3f56331cec7</link>
-				<contentLength>937322112</contentLength>
-				<pubDate>2026-03-29T23:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="937322112" url="https://mikanani.me/Download/20260329/e0f29d19a1f229c0472117cf1449d3f56331cec7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
