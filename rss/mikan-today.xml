@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★最强的职业不是勇者也不是贤者好像是鉴定士（暂）的样子 Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo★01★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/a2eedbe96a2fa6cbc7a2573cce4d988f0057d5ed</link>
+			<title>六四位元字幕组★最强的职业不是勇者也不是贤者好像是鉴定士（暂）的样子 Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo★01★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★最强的职业不是勇者也不是贤者好像是鉴定士（暂）的样子 Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo★01★1920x1080★AVC AAC MP4★繁体中文[294.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a2eedbe96a2fa6cbc7a2573cce4d988f0057d5ed</link>
+				<contentLength>308491072</contentLength>
+				<pubDate>2026-04-01T06:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="308491072" url="https://mikanani.me/Download/20260401/a2eedbe96a2fa6cbc7a2573cce4d988f0057d5ed.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 102 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/7362f5b31404f03f80f24fa6461a674dc110b7a6</link>
 			<title>[黒ネズミたち] 秘密的偶像公主 RING篇 / Himitsu no AiPri: Ring-hen - 102 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-03-30T23:27:01.37</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="356704576" url="https://mikanani.me/Download/20260330/d7eb852b6b53c6b879916c44b41b2b148e3e8a94.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</guid>
-			<link>https://mikanani.me/Home/Episode/4fbf6e8b7766c7b54f9abb733990485604154167</link>
-			<title>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</title>
-			<description>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)[1.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4fbf6e8b7766c7b54f9abb733990485604154167</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2026-03-30T23:20:33.05</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260330/4fbf6e8b7766c7b54f9abb733990485604154167.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
