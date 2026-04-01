@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/99e485295fa43c19f79d5e50a3c05adfe39c6deb</link>
-			<title>[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 身为魔族的我想向勇者小队的可爱女孩告白。 / Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][628.88 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/99e485295fa43c19f79d5e50a3c05adfe39c6deb</link>
-				<contentLength>659428480</contentLength>
-				<pubDate>2026-03-25T14:20:44.882</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="659428480" url="https://mikanani.me/Download/20260325/99e485295fa43c19f79d5e50a3c05adfe39c6deb.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/1674d7b4a6e17c9aaf9c215ee7eb79be3dd23a0a</link>
 			<title>[三明治摆烂组&amp;LoliHouse] 泛而不精的我被逐出了勇者队伍 / Yuusha Party wo Oidasareta Kiyoubinbou - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
@@ -579,6 +567,18 @@
 				<pubDate>2026-04-01T20:47:07.994</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="663025088" url="https://mikanani.me/Download/20260401/69d59f361f31051393e3c2782633debb2746dd88.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/be26b887a393ca10b593413c46ea1e9d4633c4c8</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][565.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/be26b887a393ca10b593413c46ea1e9d4633c4c8</link>
+				<contentLength>593074560</contentLength>
+				<pubDate>2026-04-01T21:18:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="593074560" url="https://mikanani.me/Download/20260401/be26b887a393ca10b593413c46ea1e9d4633c4c8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
