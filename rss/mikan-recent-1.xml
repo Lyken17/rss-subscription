@@ -1132,5 +1132,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="174697791488" url="https://mikanani.me/Download/20260403/5b6ba9044883969d7fde4c7e0bcf856ee218f741.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/31998f6236902ca75179c871c1cb96fd9d8f4299</link>
+			<title>[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)[691.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31998f6236902ca75179c871c1cb96fd9d8f4299</link>
+				<contentLength>724880576</contentLength>
+				<pubDate>2026-04-04T00:00:33.628758</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="724880576" url="https://mikanani.me/Download/20260404/31998f6236902ca75179c871c1cb96fd9d8f4299.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

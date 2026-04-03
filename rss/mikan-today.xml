@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/31998f6236902ca75179c871c1cb96fd9d8f4299</link>
+			<title>[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)[691.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31998f6236902ca75179c871c1cb96fd9d8f4299</link>
+				<contentLength>724880576</contentLength>
+				<pubDate>2026-04-04T00:00:33.628758</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="724880576" url="https://mikanani.me/Download/20260404/31998f6236902ca75179c871c1cb96fd9d8f4299.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[ANi] Snowball Earth /  冻结地球 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/c09e8c60d3001132506692807298ad473d928954</link>
 			<title>[ANi] Snowball Earth /  冻结地球 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-02T13:01:23.971724</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="230372144" url="https://mikanani.me/Download/20260402/25414a308bb0d94bf494866460549afc9e1634d7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3b6fe7ad09aa75fa1760cd2ef51f81be4eeb6077</link>
-			<title>[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][716.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3b6fe7ad09aa75fa1760cd2ef51f81be4eeb6077</link>
-				<contentLength>750843328</contentLength>
-				<pubDate>2026-04-02T12:53:01.21</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="750843328" url="https://mikanani.me/Download/20260402/3b6fe7ad09aa75fa1760cd2ef51f81be4eeb6077.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

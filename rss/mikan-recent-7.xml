@@ -17,30 +17,6 @@
 			<enclosure type="application/x-bittorrent" length="1024983040" url="https://mikanani.me/Download/20260327/1cee71ec70bfab6f386236cd1cb289e9bc6a7b85.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[35][1080p AVC AAC][繁体]</guid>
-			<link>https://mikanani.me/Home/Episode/17ab4bf8d8a567cff47c7f2cd0c686f9062acd62</link>
-			<title>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[35][1080p AVC AAC][繁体]</title>
-			<description>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[35][1080p AVC AAC][繁体][530.85 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/17ab4bf8d8a567cff47c7f2cd0c686f9062acd62</link>
-				<contentLength>556636544</contentLength>
-				<pubDate>2026-03-27T15:56:31.2</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="556636544" url="https://mikanani.me/Download/20260327/17ab4bf8d8a567cff47c7f2cd0c686f9062acd62.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[35][1080p AVC AAC][简体]</guid>
-			<link>https://mikanani.me/Home/Episode/737ef82ef7e124f40bc83c5cacd59c80b99ccc8d</link>
-			<title>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[35][1080p AVC AAC][简体]</title>
-			<description>【百冬练习组】【【支持的【偶像】的孩子】_我推的孩子_Oshi no Ko】[35][1080p AVC AAC][简体][530.75 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/737ef82ef7e124f40bc83c5cacd59c80b99ccc8d</link>
-				<contentLength>556531712</contentLength>
-				<pubDate>2026-03-27T15:56:19.586</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="556531712" url="https://mikanani.me/Download/20260327/737ef82ef7e124f40bc83c5cacd59c80b99ccc8d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 11 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/cb68ec53d5493c4b9528a6c5b9c98dd8e1db3d10</link>
 			<title>[黒ネズミたち] 神八小妹不可怕 / Kaya-chan wa Kowakunai - 11 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -7011,6 +6987,18 @@
 				<pubDate>2026-04-03T22:46:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="174697791488" url="https://mikanani.me/Download/20260403/5b6ba9044883969d7fde4c7e0bcf856ee218f741.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/31998f6236902ca75179c871c1cb96fd9d8f4299</link>
+			<title>[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 冻结地球 / Snowball Earth - 01 (ABEMA 1920x1080 AVC AAC MP4)[691.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31998f6236902ca75179c871c1cb96fd9d8f4299</link>
+				<contentLength>724880576</contentLength>
+				<pubDate>2026-04-04T00:00:33.628758</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="724880576" url="https://mikanani.me/Download/20260404/31998f6236902ca75179c871c1cb96fd9d8f4299.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
