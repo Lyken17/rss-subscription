@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game][01][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/2cd2989236dc95501bb1925c768cfdafc6e2352c</link>
+			<title>【喵萌奶茶屋】★04月新番★[灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game][01][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game][01][1080p][简日双语][404.23 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2cd2989236dc95501bb1925c768cfdafc6e2352c</link>
+				<contentLength>423865888</contentLength>
+				<pubDate>2026-04-04T04:49:40.093</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="423865888" url="https://mikanani.me/Download/20260404/2cd2989236dc95501bb1925c768cfdafc6e2352c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[阿特拉斯字幕组·迦勒底技术班][命运-奇异赝品][Fate strange Fake][合集][SP&amp;S01(01-13)][日英配音][简繁日&amp;简繁英内封PGS][WEB][1080p AV1 AAC×2]</guid>
 			<link>https://mikanani.me/Home/Episode/7671097bf76a8945c09b64424f09cfac8f9f6d25</link>
 			<title>[阿特拉斯字幕组·迦勒底技术班][命运-奇异赝品][Fate strange Fake][合集][SP&amp;S01(01-13)][日英配音][简繁日&amp;简繁英内封PGS][WEB][1080p AV1 AAC×2]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-02T20:56:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="714604544" url="https://mikanani.me/Download/20260402/7d86a6656b5935a4c0b16b592a60997f1a303d34.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][12][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</guid>
-			<link>https://mikanani.me/Home/Episode/4d0f3f6120feeae20c7a6df085419d2ba97b4f26</link>
-			<title>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][12][GB][1080P][MP4][简日双语内嵌] エリスの圣杯</title>
-			<description>【TSDM字幕组】[厄里斯的圣杯][Eris no Seihai][12][GB][1080P][MP4][简日双语内嵌] エリスの圣杯[452.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4d0f3f6120feeae20c7a6df085419d2ba97b4f26</link>
-				<contentLength>474690368</contentLength>
-				<pubDate>2026-04-02T20:55:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="474690368" url="https://mikanani.me/Download/20260402/4d0f3f6120feeae20c7a6df085419d2ba97b4f26.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
