@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 104771048 红色绵阳的恐怖游戏][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/f8d8de9baa4219fafbc61b99806d3d8b411dc8d1</link>
+			<title>[APTX4869][CONAN][名侦探柯南 104771048 红色绵阳的恐怖游戏][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 104771048 红色绵阳的恐怖游戏][HDTV][1080P][简体MP4][348.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8d8de9baa4219fafbc61b99806d3d8b411dc8d1</link>
+				<contentLength>365114176</contentLength>
+				<pubDate>2026-04-03T20:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="365114176" url="https://mikanani.me/Download/20260403/f8d8de9baa4219fafbc61b99806d3d8b411dc8d1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 13 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/7d042d985f2106856f6c869d9ac2b7a4fa019eee</link>
 			<title>[黒ネズミたち] 弹珠汽水瓶里的千岁同学 / Chitose-kun wa Ramune Bin no Naka - 13 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-02T01:02:03.303812</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746271552" url="https://mikanani.me/Download/20260402/706adec544cf294f5aae69971c7d32075a583b35.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Go for It Nakamurakun /  加油！中村同学！！ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/488e5638f25a4e4d145a34ef797e10e6106470f3</link>
-			<title>[ANi] Go for It Nakamurakun /  加油！中村同学！！ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Go for It Nakamurakun /  加油！中村同学！！ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][397.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/488e5638f25a4e4d145a34ef797e10e6106470f3</link>
-				<contentLength>417123520</contentLength>
-				<pubDate>2026-04-02T01:01:46.114905</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="417123520" url="https://mikanani.me/Download/20260402/488e5638f25a4e4d145a34ef797e10e6106470f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

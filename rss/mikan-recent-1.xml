@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 12 [1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/25414a308bb0d94bf494866460549afc9e1634d7</link>
-			<title>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 12 [1080p][简日内嵌]</title>
-			<description>[樱桃花字幕组]阿尔涅的事件簿 Arne no Jikenbo - 12 [1080p][简日内嵌][219.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/25414a308bb0d94bf494866460549afc9e1634d7</link>
-				<contentLength>230372144</contentLength>
-				<pubDate>2026-04-02T13:01:23.971724</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="230372144" url="https://mikanani.me/Download/20260402/25414a308bb0d94bf494866460549afc9e1634d7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3b6fe7ad09aa75fa1760cd2ef51f81be4eeb6077</link>
-			<title>[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 01 [IQIYI WebRip 2160p HEVC OPUS][简繁内封字幕][716.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3b6fe7ad09aa75fa1760cd2ef51f81be4eeb6077</link>
-				<contentLength>750843328</contentLength>
-				<pubDate>2026-04-02T12:53:01.21</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="750843328" url="https://mikanani.me/Download/20260402/3b6fe7ad09aa75fa1760cd2ef51f81be4eeb6077.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 偶像大师 百万现场！～终有一天，立于中央～ / THE iDOLM@STER MILLION LIVE! ~Itsuka, Mannaka de~ [OVA][BDRip][1080p][HEVC_FLAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/f3446785c9a3fa91dd24620f9b0318f4d191a936</link>
 			<title>[北宇治字幕组] 偶像大师 百万现场！～终有一天，立于中央～ / THE iDOLM@STER MILLION LIVE! ~Itsuka, Mannaka de~ [OVA][BDRip][1080p][HEVC_FLAC][简繁日内封]</title>
@@ -1011,6 +987,18 @@
 				<pubDate>2026-04-03T17:00:25.55648</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="746061824" url="https://mikanani.me/Download/20260403/5a8e9545afe167663e0fd0d71ee825e7be23d84c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[APTX4869][CONAN][名侦探柯南 104771048 红色绵阳的恐怖游戏][HDTV][1080P][简体MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/f8d8de9baa4219fafbc61b99806d3d8b411dc8d1</link>
+			<title>[APTX4869][CONAN][名侦探柯南 104771048 红色绵阳的恐怖游戏][HDTV][1080P][简体MP4]</title>
+			<description>[APTX4869][CONAN][名侦探柯南 104771048 红色绵阳的恐怖游戏][HDTV][1080P][简体MP4][348.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f8d8de9baa4219fafbc61b99806d3d8b411dc8d1</link>
+				<contentLength>365114176</contentLength>
+				<pubDate>2026-04-03T20:05:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="365114176" url="https://mikanani.me/Download/20260403/f8d8de9baa4219fafbc61b99806d3d8b411dc8d1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
