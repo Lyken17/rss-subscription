@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e551f69676143d90cef884a216d76f4134e7c9af</link>
+			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)[90.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e551f69676143d90cef884a216d76f4134e7c9af</link>
+				<contentLength>94686416</contentLength>
+				<pubDate>2026-04-04T13:16:33.341111</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="94686416" url="https://mikanani.me/Download/20260404/e551f69676143d90cef884a216d76f4134e7c9af.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai / Agents of the Four Seasons - 01 [WebRip][HEVC-10bit 1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/71c58550a61ae6e3bf3932bd5249f7b8670b41a5</link>
 			<title>[❀拨雪寻春❀] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai / Agents of the Four Seasons - 01 [WebRip][HEVC-10bit 1080p][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-02T22:05:30.931</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="28122808" url="https://mikanani.me/Download/20260402/5b598cd2928defbcce46d147d4b757019c9de97c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 异兽魔都第二季 / Dorohedoro Season 2 - 02 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/a288fad65d2026f6f6de322f7e640e4e0bbae2c2</link>
-			<title>[黒ネズミたち] 异兽魔都第二季 / Dorohedoro Season 2 - 02 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 异兽魔都第二季 / Dorohedoro Season 2 - 02 (B-Global 1920x1080 HEVC AAC MKV)[402.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a288fad65d2026f6f6de322f7e640e4e0bbae2c2</link>
-				<contentLength>421632416</contentLength>
-				<pubDate>2026-04-02T22:02:10.807253</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="421632416" url="https://mikanani.me/Download/20260402/a288fad65d2026f6f6de322f7e640e4e0bbae2c2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

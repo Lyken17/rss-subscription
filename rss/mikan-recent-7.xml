@@ -6736,5 +6736,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="372139616" url="https://mikanani.me/Download/20260404/5769b71b91b30b8a947fe42d99cc844b93e8f8ee.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/e551f69676143d90cef884a216d76f4134e7c9af</link>
+			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)[90.3 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e551f69676143d90cef884a216d76f4134e7c9af</link>
+				<contentLength>94686416</contentLength>
+				<pubDate>2026-04-04T13:16:33.341111</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="94686416" url="https://mikanani.me/Download/20260404/e551f69676143d90cef884a216d76f4134e7c9af.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
