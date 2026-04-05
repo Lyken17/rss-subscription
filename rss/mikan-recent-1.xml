@@ -41,18 +41,6 @@
 			<enclosure type="application/x-bittorrent" length="415865248" url="https://mikanani.me/Download/20260404/6a3c8f2e7e50324026cf87a869a642df7efd0d65.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 驭灵师 / B.King - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5769b71b91b30b8a947fe42d99cc844b93e8f8ee</link>
-			<title>[黒ネズミたち] 驭灵师 / B.King - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 驭灵师 / B.King - 08 (B-Global Donghua 1920x1080 HEVC AAC MKV)[354.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5769b71b91b30b8a947fe42d99cc844b93e8f8ee</link>
-				<contentLength>372139616</contentLength>
-				<pubDate>2026-04-04T11:00:37.377844</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="372139616" url="https://mikanani.me/Download/20260404/5769b71b91b30b8a947fe42d99cc844b93e8f8ee.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/e551f69676143d90cef884a216d76f4134e7c9af</link>
 			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1839,6 +1827,18 @@
 				<pubDate>2026-04-05T18:27:21.982989</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="266233440" url="https://mikanani.me/Download/20260405/12c5123343d49f7eb0088d48c9d552fb645b0843.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e209fdd30cdcd7cad89361714eaf918019623113</link>
+			<title>[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)[376.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e209fdd30cdcd7cad89361714eaf918019623113</link>
+				<contentLength>395103424</contentLength>
+				<pubDate>2026-04-05T18:34:36.210092</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="395103424" url="https://mikanani.me/Download/20260405/e209fdd30cdcd7cad89361714eaf918019623113.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e209fdd30cdcd7cad89361714eaf918019623113</link>
+			<title>[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)[376.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e209fdd30cdcd7cad89361714eaf918019623113</link>
+				<contentLength>395103424</contentLength>
+				<pubDate>2026-04-05T18:34:36.210092</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="395103424" url="https://mikanani.me/Download/20260405/e209fdd30cdcd7cad89361714eaf918019623113.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 01[1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/12c5123343d49f7eb0088d48c9d552fb645b0843</link>
 			<title>[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 01[1080p][简日内嵌]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-04T22:49:57.272873</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358717856" url="https://mikanani.me/Download/20260404/b839c6b75e436505ccd0f8915957b23c0dadf1b9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[萌樱字幕组][金牌得主][第二季][07][Webrip][1080p][简日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/6132245efb36359a73ab83f9f7b757b16aebf271</link>
-			<title>[萌樱字幕组][金牌得主][第二季][07][Webrip][1080p][简日内嵌]</title>
-			<description>[萌樱字幕组][金牌得主][第二季][07][Webrip][1080p][简日内嵌][284.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6132245efb36359a73ab83f9f7b757b16aebf271</link>
-				<contentLength>298529600</contentLength>
-				<pubDate>2026-04-04T22:49:55.490456</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="298529600" url="https://mikanani.me/Download/20260404/6132245efb36359a73ab83f9f7b757b16aebf271.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -53,18 +53,6 @@
 			<enclosure type="application/x-bittorrent" length="557852928" url="https://mikanani.me/Download/20260306/78060ceb84356d1719ee2ff80dd941155c54144f.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 有兽焉 第五季 / Fabulous Beasts 5th Season - 04 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/7cd411e9e276f49b6c6ad4a1d4275f132c98a868</link>
-			<title>[黒ネズミたち] 有兽焉 第五季 / Fabulous Beasts 5th Season - 04 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 有兽焉 第五季 / Fabulous Beasts 5th Season - 04 (B-Global Donghua 1920x1080 HEVC AAC MKV)[154.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7cd411e9e276f49b6c6ad4a1d4275f132c98a868</link>
-				<contentLength>161480704</contentLength>
-				<pubDate>2026-03-06T11:00:28.835819</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="161480704" url="https://mikanani.me/Download/20260306/7cd411e9e276f49b6c6ad4a1d4275f132c98a868.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/e02aacf07504d478176c2e5a22a49d1ac799449b</link>
 			<title>[桜都字幕组] 魔都精兵的奴隶 第二季 / Mato Seihei no Slave 2 [08][1080P][简繁内封]</title>
@@ -30003,6 +29991,18 @@
 				<pubDate>2026-04-05T18:27:21.982989</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="266233440" url="https://mikanani.me/Download/20260405/12c5123343d49f7eb0088d48c9d552fb645b0843.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)</guid>
+			<link>https://mikanani.me/Home/Episode/e209fdd30cdcd7cad89361714eaf918019623113</link>
+			<title>[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)</title>
+			<description>[黒ネズミたち] 钻石王牌 act2 第二季 / Diamond no Ace: Act II Second Season - 01 (Baha 1920x1080 AVC AAC MP4)[376.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e209fdd30cdcd7cad89361714eaf918019623113</link>
+				<contentLength>395103424</contentLength>
+				<pubDate>2026-04-05T18:34:36.210092</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="395103424" url="https://mikanani.me/Download/20260405/e209fdd30cdcd7cad89361714eaf918019623113.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
