@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/ce2acfdc8867d24751986682d2a8aad3eb3477a2</link>
+			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][简日双语][622.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce2acfdc8867d24751986682d2a8aad3eb3477a2</link>
+				<contentLength>652874880</contentLength>
+				<pubDate>2026-04-06T04:40:12.156</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="652874880" url="https://mikanani.me/Download/20260406/ce2acfdc8867d24751986682d2a8aad3eb3477a2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 13 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/8a9447078326dbf1a1be789b6871a9c06f3e9dc1</link>
 			<title>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 13 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-05T12:19:05.833</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="573246016" url="https://mikanani.me/Download/20260405/08ca0e2cc983de936c186337932bc56ec7e7a101.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">六四位元字幕组★最强的职业不是勇者也不是贤者好像是鉴定士（暂）的样子 Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo★02★1920x1080★AVC AAC MP4★繁体中文</guid>
-			<link>https://mikanani.me/Home/Episode/70b5301039fe8cf836d60954e15ad66e32de37b4</link>
-			<title>六四位元字幕组★最强的职业不是勇者也不是贤者好像是鉴定士（暂）的样子 Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo★02★1920x1080★AVC AAC MP4★繁体中文</title>
-			<description>六四位元字幕组★最强的职业不是勇者也不是贤者好像是鉴定士（暂）的样子 Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo★02★1920x1080★AVC AAC MP4★繁体中文[279.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/70b5301039fe8cf836d60954e15ad66e32de37b4</link>
-				<contentLength>293076992</contentLength>
-				<pubDate>2026-04-05T11:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="293076992" url="https://mikanani.me/Download/20260405/70b5301039fe8cf836d60954e15ad66e32de37b4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

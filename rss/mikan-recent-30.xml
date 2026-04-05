@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP</guid>
-			<link>https://mikanani.me/Home/Episode/2e3f33030c155d184138e1642253c249c83d287e</link>
-			<title>​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP</title>
-			<description>​[2160p画质增强] [整理搬运] Hello World / 你好世界 / SC-JP[20.45 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2e3f33030c155d184138e1642253c249c83d287e</link>
-				<contentLength>21958021120</contentLength>
-				<pubDate>2026-03-06T21:27:21.089</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="21958021120" url="https://mikanani.me/Download/20260306/2e3f33030c155d184138e1642253c249c83d287e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[魔防队新番组] 魔都精兵的奴隶2 / Mato Seihei No Slave 2 - 09 [Webrip 1080P x265_Aac JPSC][简日双语内嵌字幕](第二季)</guid>
-			<link>https://mikanani.me/Home/Episode/6821d74c12283b8c2e1a14a96890545e1cb5d314</link>
-			<title>[魔防队新番组] 魔都精兵的奴隶2 / Mato Seihei No Slave 2 - 09 [Webrip 1080P x265_Aac JPSC][简日双语内嵌字幕](第二季)</title>
-			<description>[魔防队新番组] 魔都精兵的奴隶2 / Mato Seihei No Slave 2 - 09 [Webrip 1080P x265_Aac JPSC][简日双语内嵌字幕](第二季)[287.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6821d74c12283b8c2e1a14a96890545e1cb5d314</link>
-				<contentLength>301255872</contentLength>
-				<pubDate>2026-03-06T21:21:55.323352</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="301255872" url="https://mikanani.me/Download/20260306/6821d74c12283b8c2e1a14a96890545e1cb5d314.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/1948795cf761643d25413fafbb238a689d7300d2</link>
 			<title>[黒ネズミたち] 宝可梦 地平线 / Pokemon (2023) - 130 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -30423,6 +30399,18 @@
 				<pubDate>2026-04-06T03:21:28.145975</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="250504800" url="https://mikanani.me/Download/20260406/8a9447078326dbf1a1be789b6871a9c06f3e9dc1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/ce2acfdc8867d24751986682d2a8aad3eb3477a2</link>
+			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][简日双语][622.63 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce2acfdc8867d24751986682d2a8aad3eb3477a2</link>
+				<contentLength>652874880</contentLength>
+				<pubDate>2026-04-06T04:40:12.156</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="652874880" url="https://mikanani.me/Download/20260406/ce2acfdc8867d24751986682d2a8aad3eb3477a2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
