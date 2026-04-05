@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 13 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/8a9447078326dbf1a1be789b6871a9c06f3e9dc1</link>
+			<title>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 13 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 暗芝居 第十六季 / Yami Shibai 16 - 13 (CR 1920x1080 AVC AAC MKV)[238.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a9447078326dbf1a1be789b6871a9c06f3e9dc1</link>
+				<contentLength>250504800</contentLength>
+				<pubDate>2026-04-06T03:21:28.145975</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="250504800" url="https://mikanani.me/Download/20260406/8a9447078326dbf1a1be789b6871a9c06f3e9dc1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] GHOST CONCERT : 失落之歌 / Ghost Concert: Missing Songs - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/cfd1a40ff37d909adf0196f99dd7706ea73d638d</link>
 			<title>[黒ネズミたち] GHOST CONCERT : 失落之歌 / Ghost Concert: Missing Songs - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-05T11:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="293076992" url="https://mikanani.me/Download/20260405/70b5301039fe8cf836d60954e15ad66e32de37b4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[雪飘工作室][名探侦プリキュア！/Star Detective Precure！/名侦探光之美少女！][720p][10][简体内嵌](检索:Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/60fc6f0dd19ccc1f7a44bf5473941900a31ce2a1</link>
-			<title>[雪飘工作室][名探侦プリキュア！/Star Detective Precure！/名侦探光之美少女！][720p][10][简体内嵌](检索:Q娃)</title>
-			<description>[雪飘工作室][名探侦プリキュア！/Star Detective Precure！/名侦探光之美少女！][720p][10][简体内嵌](检索:Q娃)[294.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/60fc6f0dd19ccc1f7a44bf5473941900a31ce2a1</link>
-				<contentLength>309015360</contentLength>
-				<pubDate>2026-04-05T11:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="309015360" url="https://mikanani.me/Download/20260405/60fc6f0dd19ccc1f7a44bf5473941900a31ce2a1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
