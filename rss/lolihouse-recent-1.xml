@@ -208,5 +208,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435242912" url="https://mikanani.me/Download/20260405/a033a3d4ed243bae6d54bfcf2d0241251282815c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Princess-Session Orchestra [01-48 合集][WebRip 1080p HEVC-10bit AAC][无字幕][Fin](检索用：Princession Orchestra)</guid>
+			<link>https://mikanani.me/Home/Episode/e71888086467bf133d5cb17e9e49eb0d60f9227d</link>
+			<title>[LoliHouse] Princess-Session Orchestra [01-48 合集][WebRip 1080p HEVC-10bit AAC][无字幕][Fin](检索用：Princession Orchestra)</title>
+			<description>[LoliHouse] Princess-Session Orchestra [01-48 合集][WebRip 1080p HEVC-10bit AAC][无字幕][Fin](检索用：Princession Orchestra)[34.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e71888086467bf133d5cb17e9e49eb0d60f9227d</link>
+				<contentLength>36614594560</contentLength>
+				<pubDate>2026-04-05T11:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="36614594560" url="https://mikanani.me/Download/20260405/e71888086467bf133d5cb17e9e49eb0d60f9227d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake [00-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/dc9fd5a5166c807de5cf2de3ba1d6f05e07dc205</link>
+			<title>[LoliHouse] Fate/strange Fake [00-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] Fate/strange Fake [00-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][10.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dc9fd5a5166c807de5cf2de3ba1d6f05e07dc205</link>
+				<contentLength>11166914560</contentLength>
+				<pubDate>2026-04-05T10:30:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20260405/dc9fd5a5166c807de5cf2de3ba1d6f05e07dc205.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
