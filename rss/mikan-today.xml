@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 01[1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/12c5123343d49f7eb0088d48c9d552fb645b0843</link>
+			<title>[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 01[1080p][简日内嵌]</title>
+			<description>[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 01[1080p][简日内嵌][253.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/12c5123343d49f7eb0088d48c9d552fb645b0843</link>
+				<contentLength>266233440</contentLength>
+				<pubDate>2026-04-05T18:27:21.982989</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="266233440" url="https://mikanani.me/Download/20260405/12c5123343d49f7eb0088d48c9d552fb645b0843.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 25 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/111a365e64214cb5fc6e8cea3a9da0623224d667</link>
 			<title>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 25 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-04T22:49:55.490456</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="298529600" url="https://mikanani.me/Download/20260404/6132245efb36359a73ab83f9f7b757b16aebf271.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [13][1080P][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/921c49ed43f0d287694f449e4983ccd42822f531</link>
-			<title>[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [13][1080P][简繁日内封]</title>
-			<description>[桜都字幕组] 命运奇异赝品 / Fate Strange Fake [13][1080P][简繁日内封][533.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/921c49ed43f0d287694f449e4983ccd42822f531</link>
-				<contentLength>559625024</contentLength>
-				<pubDate>2026-04-04T22:21:34.818</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="559625024" url="https://mikanani.me/Download/20260404/921c49ed43f0d287694f449e4983ccd42822f531.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
