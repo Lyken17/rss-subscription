@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/6e90a75b96eb919cbb87738c21da78ab102a15ac</link>
-			<title>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] MF GHOST 3rd Season / 极速车魂 / 燃油车斗魂 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][860.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6e90a75b96eb919cbb87738c21da78ab102a15ac</link>
-				<contentLength>902614208</contentLength>
-				<pubDate>2026-03-06T08:35:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="902614208" url="https://mikanani.me/Download/20260306/6e90a75b96eb919cbb87738c21da78ab102a15ac.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 56 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/3106f1c1084be1cb3599846b670321eb72a00783</link>
 			<title>[豌豆字幕组&amp;风之圣殿&amp;LoliHouse] 咒术回战 / Jujutsu Kaisen - 56 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -2355,6 +2343,18 @@
 				<pubDate>2026-04-05T10:30:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="11166914560" url="https://mikanani.me/Download/20260405/dc9fd5a5166c807de5cf2de3ba1d6f05e07dc205.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</guid>
+			<link>https://mikanani.me/Home/Episode/1674fe7111d17b9346f3b08ae3d2c78b33e85ae6</link>
+			<title>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</title>
+			<description>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）[601.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1674fe7111d17b9346f3b08ae3d2c78b33e85ae6</link>
+				<contentLength>631137920</contentLength>
+				<pubDate>2026-04-05T16:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="631137920" url="https://mikanani.me/Download/20260405/1674fe7111d17b9346f3b08ae3d2c78b33e85ae6.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
