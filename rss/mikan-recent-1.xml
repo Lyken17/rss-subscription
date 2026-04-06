@@ -161,18 +161,6 @@
 			<enclosure type="application/x-bittorrent" length="855721920" url="https://mikanani.me/Download/20260405/14a12aae440cbdcc05f613ff6affe72bf9efd28c.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 37 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
-			<link>https://mikanani.me/Home/Episode/8c67526f7cf650d1cf99c3811f2878fdca6c0aa4</link>
-			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 37 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
-			<description>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 37 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE][691.66 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8c67526f7cf650d1cf99c3811f2878fdca6c0aa4</link>
-				<contentLength>725258048</contentLength>
-				<pubDate>2026-04-05T19:47:16.168</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="725258048" url="https://mikanani.me/Download/20260405/8c67526f7cf650d1cf99c3811f2878fdca6c0aa4.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[猎户压制部] 终末起点 第二季 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru S2 [01] [1080p] [繁日内嵌] [2026年4月番]</guid>
 			<link>https://mikanani.me/Home/Episode/1c7583fe7de6aff11fc110e65baea16167f24f83</link>
 			<title>[猎户压制部] 终末起点 第二季 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru S2 [01] [1080p] [繁日内嵌] [2026年4月番]</title>
@@ -1359,6 +1347,18 @@
 				<pubDate>2026-04-07T01:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="586783104" url="https://mikanani.me/Download/20260407/7945959a868a02ab1cc3700a4bb1832d81657335.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/2834eb0d0d98661989e2a83f55fd5fc12663e667</link>
+			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][繁日双语][622.77 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2834eb0d0d98661989e2a83f55fd5fc12663e667</link>
+				<contentLength>653021696</contentLength>
+				<pubDate>2026-04-07T03:30:57.851</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="653021696" url="https://mikanani.me/Download/20260407/2834eb0d0d98661989e2a83f55fd5fc12663e667.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

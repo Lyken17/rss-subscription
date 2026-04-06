@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/2834eb0d0d98661989e2a83f55fd5fc12663e667</link>
+			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][02][1080p][繁日双语][622.77 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2834eb0d0d98661989e2a83f55fd5fc12663e667</link>
+				<contentLength>653021696</contentLength>
+				<pubDate>2026-04-07T03:30:57.851</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="653021696" url="https://mikanani.me/Download/20260407/2834eb0d0d98661989e2a83f55fd5fc12663e667.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">魔法帽的工作室「とんがり帽子のアトリエ」Witch Hat Atelier S01E02 1080p 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/e26e00a14be48b2c7ca847201f7feee498117bfc</link>
 			<title>魔法帽的工作室「とんがり帽子のアトリエ」Witch Hat Atelier S01E02 1080p 多国字幕</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-05T21:27:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="554382144" url="https://mikanani.me/Download/20260405/09b12ff56ca2a4e7f8eade0b79dbf8afe874a0a1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 终末起点 第二季（仅限港澳台地区） Saikyou no Ousama Nidome no Jinsei wa Nani wo Suru S2 - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/08eea994fb51b707436e9816edd3c96927520039</link>
-			<title>[Prejudice-Studio] 终末起点 第二季（仅限港澳台地区） Saikyou no Ousama Nidome no Jinsei wa Nani wo Suru S2 - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封]</title>
-			<description>[Prejudice-Studio] 终末起点 第二季（仅限港澳台地区） Saikyou no Ousama Nidome no Jinsei wa Nani wo Suru S2 - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MKV][简繁内封][443.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/08eea994fb51b707436e9816edd3c96927520039</link>
-				<contentLength>465148320</contentLength>
-				<pubDate>2026-04-05T21:10:39.237047</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="465148320" url="https://mikanani.me/Download/20260405/08eea994fb51b707436e9816edd3c96927520039.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
