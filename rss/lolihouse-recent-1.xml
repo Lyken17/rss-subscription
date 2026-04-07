@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 自称恶役大小姐的婚约者观察记录 / Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5f59797362e7de4471c4318796abf21dec0cb80c</link>
-			<title>[LoliHouse] 自称恶役大小姐的婚约者观察记录 / Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 自称恶役大小姐的婚约者观察记录 / Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][691.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f59797362e7de4471c4318796abf21dec0cb80c</link>
-				<contentLength>725509760</contentLength>
-				<pubDate>2026-04-06T13:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="725509760" url="https://mikanani.me/Download/20260406/5f59797362e7de4471c4318796abf21dec0cb80c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b47d1b8f38038acb37755ae235e4764d682a8935</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -291,6 +279,18 @@
 				<pubDate>2026-04-07T20:03:00.752</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="377812416" url="https://mikanani.me/Download/20260407/1f22690f746df84f7d75ce53bb614689034e360f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/17b27e0ef9632811832af41c5d98e367ec46d7fd</link>
+			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][634.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/17b27e0ef9632811832af41c5d98e367ec46d7fd</link>
+				<contentLength>665531200</contentLength>
+				<pubDate>2026-04-07T22:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="665531200" url="https://mikanani.me/Download/20260407/17b27e0ef9632811832af41c5d98e367ec46d7fd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
