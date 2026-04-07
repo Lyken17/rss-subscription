@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/d598e3caf5f807116b0b4d5d6adf102350d2fed9</link>
+			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 15 (B-Global Donghua 1920x1080 HEVC AAC MKV)[268.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d598e3caf5f807116b0b4d5d6adf102350d2fed9</link>
+				<contentLength>281123232</contentLength>
+				<pubDate>2026-04-07T09:00:29.327715</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="281123232" url="https://mikanani.me/Download/20260407/d598e3caf5f807116b0b4d5d6adf102350d2fed9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[离谱Sub] 勇者之屑 / 勇者のクズ / Yuusha no Kuzu [09][HEVC AAC][1080p][简繁日内封][招募翻校轴]</guid>
 			<link>https://mikanani.me/Home/Episode/31ec0eea6dbffdbd5c904d95547e25cc47f3930c</link>
 			<title>[离谱Sub] 勇者之屑 / 勇者のクズ / Yuusha no Kuzu [09][HEVC AAC][1080p][简繁日内封][招募翻校轴]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-05T21:34:59.057334</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="690487296" url="https://mikanani.me/Download/20260405/1c7583fe7de6aff11fc110e65baea16167f24f83.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 三岁开始做王者 第二季 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru S2 [01] [1080p] [简日内嵌] [2026年4月番]</guid>
-			<link>https://mikanani.me/Home/Episode/4d3f8d3e2e49268c8f480d7f2cfe0835674fb8b7</link>
-			<title>[猎户压制部] 三岁开始做王者 第二季 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru S2 [01] [1080p] [简日内嵌] [2026年4月番]</title>
-			<description>[猎户压制部] 三岁开始做王者 第二季 / Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru S2 [01] [1080p] [简日内嵌] [2026年4月番][658.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4d3f8d3e2e49268c8f480d7f2cfe0835674fb8b7</link>
-				<contentLength>690277568</contentLength>
-				<pubDate>2026-04-05T21:34:53.446063</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="690277568" url="https://mikanani.me/Download/20260405/4d3f8d3e2e49268c8f480d7f2cfe0835674fb8b7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
