@@ -7252,5 +7252,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="540960384" url="https://mikanani.me/Download/20260408/598825615fd61139d01ecda29359603e9f7919b6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1ed66c9a3b56802543146f64a304a155e471e957</link>
+			<title>[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)[950.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ed66c9a3b56802543146f64a304a155e471e957</link>
+				<contentLength>996356928</contentLength>
+				<pubDate>2026-04-08T11:00:53.775222</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="996356928" url="https://mikanani.me/Download/20260408/1ed66c9a3b56802543146f64a304a155e471e957.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

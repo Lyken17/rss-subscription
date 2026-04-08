@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1ed66c9a3b56802543146f64a304a155e471e957</link>
+			<title>[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)[950.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1ed66c9a3b56802543146f64a304a155e471e957</link>
+				<contentLength>996356928</contentLength>
+				<pubDate>2026-04-08T11:00:53.775222</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="996356928" url="https://mikanani.me/Download/20260408/1ed66c9a3b56802543146f64a304a155e471e957.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【澄空学园&amp;动漫国字幕组】★04月新番[尖帽子的魔法工坊 / 魔法帽的工作室][01-02][1080P][繁体][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/b25e1974e9e003e16283e91ad168ef898c670bf0</link>
 			<title>【澄空学园&amp;动漫国字幕组】★04月新番[尖帽子的魔法工坊 / 魔法帽的工作室][01-02][1080P][繁体][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-07T14:48:21.431</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="577157184" url="https://mikanani.me/Download/20260407/2fe9cb3b133c13f99d8c32d7938b8be065415bbd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [32][WebRip][1080p][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/1dff5c1937621faa29a641bbfc306955b721159a</link>
-			<title>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [32][WebRip][1080p][简繁日内封]</title>
-			<description>[绿茶字幕组] 我推的孩子 第三季 / Oshi no Ko S3 [32][WebRip][1080p][简繁日内封][537.89 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1dff5c1937621faa29a641bbfc306955b721159a</link>
-				<contentLength>564018560</contentLength>
-				<pubDate>2026-04-07T14:46:26.131</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="564018560" url="https://mikanani.me/Download/20260407/1dff5c1937621faa29a641bbfc306955b721159a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
