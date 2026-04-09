@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1ed66c9a3b56802543146f64a304a155e471e957</link>
-			<title>[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 大道独行之蝶变 - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)[950.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1ed66c9a3b56802543146f64a304a155e471e957</link>
-				<contentLength>996356928</contentLength>
-				<pubDate>2026-04-08T11:00:53.775222</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="996356928" url="https://mikanani.me/Download/20260408/1ed66c9a3b56802543146f64a304a155e471e957.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 68 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS iCABLE YUE CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/e7a7bb9a605bb900d18c6efc7ed7998f03c4b05e</link>
 			<title>[jibaketa合成&amp;音频压制][HOY粤语]宝可梦 地平线 / Pocket Monsters (2023) - 68 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS iCABLE YUE CHT)</title>
@@ -1467,6 +1455,30 @@
 				<pubDate>2026-04-09T17:40:44.573</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="429266048" url="https://mikanani.me/Download/20260409/9e033373c3cc64e9babf8a2c101c309d35d8eff0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【风之圣殿字幕组】★01月新番[公主殿下 「拷问」的时间到了][19][繁体][1080P][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/2e88d405bc37d4af584e1e4f5c68d2dda1f15582</link>
+			<title>【风之圣殿字幕组】★01月新番[公主殿下 「拷问」的时间到了][19][繁体][1080P][MP4]</title>
+			<description>【风之圣殿字幕组】★01月新番[公主殿下 「拷问」的时间到了][19][繁体][1080P][MP4][422.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2e88d405bc37d4af584e1e4f5c68d2dda1f15582</link>
+				<contentLength>443023360</contentLength>
+				<pubDate>2026-04-09T19:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="443023360" url="https://mikanani.me/Download/20260409/2e88d405bc37d4af584e1e4f5c68d2dda1f15582.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[ANi] Koala Enikki /  无尾熊绘日记 - 28 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/d33903b3c6f39197385d02b088395429198554be</link>
+			<title>[ANi] Koala Enikki /  无尾熊绘日记 - 28 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Koala Enikki /  无尾熊绘日记 - 28 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][55.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d33903b3c6f39197385d02b088395429198554be</link>
+				<contentLength>58300824</contentLength>
+				<pubDate>2026-04-09T19:01:09.460905</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="58300824" url="https://mikanani.me/Download/20260409/d33903b3c6f39197385d02b088395429198554be.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
