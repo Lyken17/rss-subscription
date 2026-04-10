@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Alice Raws][アニメDVD] 小魔女doremi 心之密语 おジャ魔女どれみナ・イ・ショ第01-13话(2880x2160 x265 AAC)</guid>
+			<link>https://mikanani.me/Home/Episode/ef89dd3bf51011edcf4a1ea3c47915f8cb1913e8</link>
+			<title>[Alice Raws][アニメDVD] 小魔女doremi 心之密语 おジャ魔女どれみナ・イ・ショ第01-13话(2880x2160 x265 AAC)</title>
+			<description>[Alice Raws][アニメDVD] 小魔女doremi 心之密语 おジャ魔女どれみナ・イ・ショ第01-13话(2880x2160 x265 AAC)[7.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ef89dd3bf51011edcf4a1ea3c47915f8cb1913e8</link>
+				<contentLength>7838315520</contentLength>
+				<pubDate>2026-04-11T06:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7838315520" url="https://mikanani.me/Download/20260411/ef89dd3bf51011edcf4a1ea3c47915f8cb1913e8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★02★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/3f62d5646cbc4666c55a1c69ad73f7213f050dee</link>
 			<title>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★02★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-10T02:31:18.329388</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="729074880" url="https://mikanani.me/Download/20260410/ea2b8e0f736873549904bd7af65ae30c277a5dbc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 七米神物语 / Komekami! Girls - 02 (ABEMA 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/c2eb244d9650e7eb12e22106eae2742310d849a3</link>
-			<title>[黒ネズミたち] 七米神物语 / Komekami! Girls - 02 (ABEMA 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 七米神物语 / Komekami! Girls - 02 (ABEMA 1920x1080 AVC AAC MP4)[709.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c2eb244d9650e7eb12e22106eae2742310d849a3</link>
-				<contentLength>744384128</contentLength>
-				<pubDate>2026-04-10T02:01:15.43859</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="744384128" url="https://mikanani.me/Download/20260410/c2eb244d9650e7eb12e22106eae2742310d849a3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
