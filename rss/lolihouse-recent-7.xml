@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 达尔文事变 / Darwin Jihen - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/df089215a77654ab871f29c4d993b6285871d508</link>
-			<title>[LoliHouse] 达尔文事变 / Darwin Jihen - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 达尔文事变 / Darwin Jihen - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][783.65 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/df089215a77654ab871f29c4d993b6285871d508</link>
-				<contentLength>821716608</contentLength>
-				<pubDate>2026-04-03T11:31:21.027</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="821716608" url="https://mikanani.me/Download/20260403/df089215a77654ab871f29c4d993b6285871d508.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END](检索用：炎炎消防队 第三季)</guid>
 			<link>https://mikanani.me/Home/Episode/470dbf3640dff8a895c9412d87f113051ca71699</link>
 			<title>[LoliHouse] 炎炎消防队 叁之章 / Enen no Shouboutai S3 / Fire Force Season 3 - 25 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END](检索用：炎炎消防队 第三季)</title>
@@ -675,6 +663,18 @@
 				<pubDate>2026-04-09T22:24:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="91540688" url="https://mikanani.me/Download/20260409/58923c9e40acdcc22ce139c05eb4536d9d1018a7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8aa498695025fe4f43b46a886ef0c2bed20befa0</link>
+			<title>[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][316.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8aa498695025fe4f43b46a886ef0c2bed20befa0</link>
+				<contentLength>331979168</contentLength>
+				<pubDate>2026-04-10T18:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331979168" url="https://mikanani.me/Download/20260410/8aa498695025fe4f43b46a886ef0c2bed20befa0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
