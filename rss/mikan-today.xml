@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/870f23d85c6a119b765941b6c46289de9156e155</link>
+			<title>[LoliHouse] MAO摩绪 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][699.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/870f23d85c6a119b765941b6c46289de9156e155</link>
+				<contentLength>733709568</contentLength>
+				<pubDate>2026-04-12T02:42:17.996</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="733709568" url="https://mikanani.me/Download/20260412/870f23d85c6a119b765941b6c46289de9156e155.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 01 (ABEMA 1920x1080 AVC AAC MP4)</guid>
 			<link>https://mikanani.me/Home/Episode/d9ff4fc2e967059587eb2b98a04765b6b52cfa13</link>
 			<title>[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 01 (ABEMA 1920x1080 AVC AAC MP4)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-11T11:06:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358193568" url="https://mikanani.me/Download/20260411/ee9ea2bc82240b04dafa137c2a2d428ab3461e84.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 驭灵师 / B.King - 09 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/e8996e680c6d84b571c6cbdd6a7ec0214d8794b0</link>
-			<title>[黒ネズミたち] 驭灵师 / B.King - 09 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 驭灵师 / B.King - 09 (B-Global Donghua 1920x1080 HEVC AAC MKV)[340.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e8996e680c6d84b571c6cbdd6a7ec0214d8794b0</link>
-				<contentLength>356620704</contentLength>
-				<pubDate>2026-04-11T11:00:36.938847</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="356620704" url="https://mikanani.me/Download/20260411/e8996e680c6d84b571c6cbdd6a7ec0214d8794b0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

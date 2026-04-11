@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 黄泉使者 - 01 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/72071398fbfb4297d98c78d539434c8fb65607fc</link>
-			<title>[沸班亚马制作组] 黄泉使者 - 01 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 黄泉使者 - 01 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕][1.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/72071398fbfb4297d98c78d539434c8fb65607fc</link>
-				<contentLength>2040109440</contentLength>
-				<pubDate>2026-04-10T19:31:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20260410/72071398fbfb4297d98c78d539434c8fb65607fc.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8aa498695025fe4f43b46a886ef0c2bed20befa0</link>
-			<title>[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][316.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8aa498695025fe4f43b46a886ef0c2bed20befa0</link>
-				<contentLength>331979168</contentLength>
-				<pubDate>2026-04-10T18:54:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="331979168" url="https://mikanani.me/Download/20260410/8aa498695025fe4f43b46a886ef0c2bed20befa0.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 39 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
 			<link>https://mikanani.me/Home/Episode/22c28eb1bd5e0d170fe876649098cc2a08232b6f</link>
 			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 39 [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
@@ -2043,6 +2019,18 @@
 				<pubDate>2026-04-12T01:42:18.947</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1191853440" url="https://mikanani.me/Download/20260412/295b29a2ed8835117207ada3a698a628eb979d5b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/870f23d85c6a119b765941b6c46289de9156e155</link>
+			<title>[LoliHouse] MAO摩绪 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][699.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/870f23d85c6a119b765941b6c46289de9156e155</link>
+				<contentLength>733709568</contentLength>
+				<pubDate>2026-04-12T02:42:17.996</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="733709568" url="https://mikanani.me/Download/20260412/870f23d85c6a119b765941b6c46289de9156e155.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
