@@ -2560,5 +2560,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="733709568" url="https://mikanani.me/Download/20260412/870f23d85c6a119b765941b6c46289de9156e155.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7ea5340aa24a8df7109ec05e7dde7865f526907e</link>
+			<title>[LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][602.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7ea5340aa24a8df7109ec05e7dde7865f526907e</link>
+				<contentLength>631441984</contentLength>
+				<pubDate>2026-04-12T10:23:54.696</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="631441984" url="https://mikanani.me/Download/20260412/7ea5340aa24a8df7109ec05e7dde7865f526907e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
