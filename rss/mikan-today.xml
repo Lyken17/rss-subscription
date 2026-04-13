@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][03][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c4cb382d09e967b552f55a57cc54e5514cde2648</link>
+			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][03][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][03][1080p][简日双语][495.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c4cb382d09e967b552f55a57cc54e5514cde2648</link>
+				<contentLength>519988832</contentLength>
+				<pubDate>2026-04-14T04:21:24.239</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="519988832" url="https://mikanani.me/Download/20260414/c4cb382d09e967b552f55a57cc54e5514cde2648.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 你又被杀掉了呢，侦探大人 / Mata Korosarete Shimatta no Desu ne, Tantei-sama [02][1080P][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/3dfdac712be8957ec7cd5e820aa77fbf56e980d8</link>
 			<title>[桜都字幕组] 你又被杀掉了呢，侦探大人 / Mata Korosarete Shimatta no Desu ne, Tantei-sama [02][1080P][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-13T02:50:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7086695936" url="https://mikanani.me/Download/20260413/12950991bde52186436a0f0f65fec0229bb876db.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 01 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/dfaa3d112e72416a8693e8345d35db8e736c7402</link>
-			<title>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 01 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 01 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕][1.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfaa3d112e72416a8693e8345d35db8e736c7402</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2026-04-13T02:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260413/dfaa3d112e72416a8693e8345d35db8e736c7402.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
