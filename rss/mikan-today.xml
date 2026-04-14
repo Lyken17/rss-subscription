@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 尖帽子的魔法工房 - 03 [CR WebRip 1080p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4fdacca31e0e1333286366c2c84a5fc7108d2670</link>
+			<title>[沸班亚马制作组] 尖帽子的魔法工房 - 03 [CR WebRip 1080p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 尖帽子的魔法工房 - 03 [CR WebRip 1080p HEVC AAC][简繁内封字幕][668.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4fdacca31e0e1333286366c2c84a5fc7108d2670</link>
+				<contentLength>701182784</contentLength>
+				<pubDate>2026-04-15T05:43:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="701182784" url="https://mikanani.me/Download/20260415/4fdacca31e0e1333286366c2c84a5fc7108d2670.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][03][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/a23e7cfadd4df0e34f7d1122d26ebdd22b3311a7</link>
 			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][03][1080p][繁日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-14T10:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="6549825024" url="https://mikanani.me/Download/20260414/f3701faea8e27db484669d2e73dd6f296f75143d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[无名字幕组] 剧场版总集篇 Girls Band Cry 后篇 呐、未来。 [WebRip][AVC-8bit 1080p AAC][v2][简日内嵌字幕](检索用:少女乐队的呐喊/哭泣少女乐队)</guid>
-			<link>https://mikanani.me/Home/Episode/10ea52e0ae2dea589044349d3a47f83830ae4bfd</link>
-			<title>[无名字幕组] 剧场版总集篇 Girls Band Cry 后篇 呐、未来。 [WebRip][AVC-8bit 1080p AAC][v2][简日内嵌字幕](检索用:少女乐队的呐喊/哭泣少女乐队)</title>
-			<description>[无名字幕组] 剧场版总集篇 Girls Band Cry 后篇 呐、未来。 [WebRip][AVC-8bit 1080p AAC][v2][简日内嵌字幕](检索用:少女乐队的呐喊/哭泣少女乐队)[5.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/10ea52e0ae2dea589044349d3a47f83830ae4bfd</link>
-				<contentLength>6227702784</contentLength>
-				<pubDate>2026-04-14T10:29:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="6227702784" url="https://mikanani.me/Download/20260414/10ea52e0ae2dea589044349d3a47f83830ae4bfd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
