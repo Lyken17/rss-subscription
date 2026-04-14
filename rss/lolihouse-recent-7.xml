@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/17b27e0ef9632811832af41c5d98e367ec46d7fd</link>
-			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][634.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/17b27e0ef9632811832af41c5d98e367ec46d7fd</link>
-				<contentLength>665531200</contentLength>
-				<pubDate>2026-04-07T22:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="665531200" url="https://mikanani.me/Download/20260407/17b27e0ef9632811832af41c5d98e367ec46d7fd.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 主播女孩重度依赖 / NEEDY GIRL OVERDOSE - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5bcf54c835f226b3641da14e70c7abc0e9e03d25</link>
 			<title>[LoliHouse] 主播女孩重度依赖 / NEEDY GIRL OVERDOSE - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -723,6 +711,18 @@
 				<pubDate>2026-04-14T22:38:16.518</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="534218016" url="https://mikanani.me/Download/20260414/4b340e97897d7b4cff8b09c3c2a7b94c13b999b5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/cb40434782d5ad250a6525ff9bb140a891592f05</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][335.97 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cb40434782d5ad250a6525ff9bb140a891592f05</link>
+				<contentLength>352290080</contentLength>
+				<pubDate>2026-04-15T06:16:35.53</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352290080" url="https://mikanani.me/Download/20260415/cb40434782d5ad250a6525ff9bb140a891592f05.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
