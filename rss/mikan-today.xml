@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★02★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/0738c550bda7fa8709f837b904ee3ade6e1bf3b4</link>
+			<title>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★02★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★02★1920x1080★AVC AAC MP4★繁体中文[327.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0738c550bda7fa8709f837b904ee3ade6e1bf3b4</link>
+				<contentLength>343094080</contentLength>
+				<pubDate>2026-04-16T04:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="343094080" url="https://mikanani.me/Download/20260416/0738c550bda7fa8709f837b904ee3ade6e1bf3b4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b7f7512c9b26ca6ecf0648e2355b9ccd31e12657</link>
 			<title>[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 02 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-15T09:42:23.55907</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="766823616" url="https://mikanani.me/Download/20260415/0fe1e65dca9a95102af84574893ed45878628800.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 公主大人「拷问」的时间到了 第二季 / Hime-sama Goumon no Jikan desu S2[24][WebRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/38462beaf2542418f80b1fd2225e92f4d9872c95</link>
-			<title>[绿茶字幕组] 公主大人「拷问」的时间到了 第二季 / Hime-sama Goumon no Jikan desu S2[24][WebRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 公主大人「拷问」的时间到了 第二季 / Hime-sama Goumon no Jikan desu S2[24][WebRip][1080p][繁日内嵌][566.93 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/38462beaf2542418f80b1fd2225e92f4d9872c95</link>
-				<contentLength>594469184</contentLength>
-				<pubDate>2026-04-15T09:12:46.159</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="594469184" url="https://mikanani.me/Download/20260415/38462beaf2542418f80b1fd2225e92f4d9872c95.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
