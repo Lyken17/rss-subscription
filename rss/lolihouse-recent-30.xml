@@ -2704,5 +2704,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="825082496" url="https://mikanani.me/Download/20260415/1080c0240a72dd1684a722cb1fb974dd0890e80b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 弱弱老师 / Yowayowa Sensei - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f830dd13967a57b1e0b8784bd3dc2ddc4477d038</link>
+			<title>[LoliHouse] 弱弱老师 / Yowayowa Sensei - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 弱弱老师 / Yowayowa Sensei - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][432.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f830dd13967a57b1e0b8784bd3dc2ddc4477d038</link>
+				<contentLength>453655936</contentLength>
+				<pubDate>2026-04-15T23:37:22.739</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="453655936" url="https://mikanani.me/Download/20260415/f830dd13967a57b1e0b8784bd3dc2ddc4477d038.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
