@@ -2716,5 +2716,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="536870912" url="https://mikanani.me/Download/20260416/5f4cf4047689cd4ba0fae8a5f89157d5671ec3c6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bda87b9a7bc5e916752e55c92040348602ef2c2f</link>
+			<title>[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bda87b9a7bc5e916752e55c92040348602ef2c2f</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2026-04-16T19:24:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260416/bda87b9a7bc5e916752e55c92040348602ef2c2f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2064d05656b4a17ea686b7ca6cb9c38b34e807ed</link>
+			<title>[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2064d05656b4a17ea686b7ca6cb9c38b34e807ed</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2026-04-16T19:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260416/2064d05656b4a17ea686b7ca6cb9c38b34e807ed.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
