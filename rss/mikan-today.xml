@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 26 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/bb1ec04a6e712e8d7258d1051d87d9ded455eb74</link>
+			<title>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 26 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 26 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕][1.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bb1ec04a6e712e8d7258d1051d87d9ded455eb74</link>
+				<contentLength>1932735232</contentLength>
+				<pubDate>2026-04-17T06:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20260417/bb1ec04a6e712e8d7258d1051d87d9ded455eb74.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">灰原同学重返过去，开启所向无敌的第二轮青春游戏「灰原くんの强くて青春ニューゲーム」Haibaras Teenage New Game S01E03 1080p 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/445d59e867184cb10ac327d85db1ebb10ef10d04</link>
 			<title>灰原同学重返过去，开启所向无敌的第二轮青春游戏「灰原くんの强くて青春ニューゲーム」Haibaras Teenage New Game S01E03 1080p 多国字幕</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-16T01:01:08.223553</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="434425024" url="https://mikanani.me/Download/20260416/989def9750c0f57d91e087aa5dce77ef92911986.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 加油！中村同学！！ / Ganbare! Nakamura-kun!! - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/691582caf4022b2dcd2328f89f8d2235a6a07529</link>
-			<title>[黒ネズミたち] 加油！中村同学！！ / Ganbare! Nakamura-kun!! - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 加油！中村同学！！ / Ganbare! Nakamura-kun!! - 04 (CR 1920x1080 AVC AAC MKV)[838.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/691582caf4022b2dcd2328f89f8d2235a6a07529</link>
-				<contentLength>879545536</contentLength>
-				<pubDate>2026-04-16T01:00:55.558594</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="879545536" url="https://mikanani.me/Download/20260416/691582caf4022b2dcd2328f89f8d2235a6a07529.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
