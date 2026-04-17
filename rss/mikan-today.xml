@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 转生成自动贩卖机的我今天也在迷宫徘徊 第三季 / Jihanki 3rd Season - 03 [CHS][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/e0544b14696d273830225b9418420fa08a0c558d</link>
+			<title>[Skymoon-Raws] 转生成自动贩卖机的我今天也在迷宫徘徊 第三季 / Jihanki 3rd Season - 03 [CHS][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 转生成自动贩卖机的我今天也在迷宫徘徊 第三季 / Jihanki 3rd Season - 03 [CHS][1080p][AVC AAC][213.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e0544b14696d273830225b9418420fa08a0c558d</link>
+				<contentLength>223766112</contentLength>
+				<pubDate>2026-04-18T07:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="223766112" url="https://mikanani.me/Download/20260418/e0544b14696d273830225b9418420fa08a0c558d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[❀拨雪寻春❀] 尖帽子的魔法工房 / とんがり帽子のアトリエ / Tongari Boushi no Atelier - 02 [WebRip][HEVC-10bit 1080p][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/fb45794b2752f3bb27ba8ce1588d3dff80555e58</link>
 			<title>[❀拨雪寻春❀] 尖帽子的魔法工房 / とんがり帽子のアトリエ / Tongari Boushi no Atelier - 02 [WebRip][HEVC-10bit 1080p][简繁日内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-17T09:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="744698688" url="https://mikanani.me/Download/20260417/63a0cddb0dcba7b14ee26873265987f21e3a4012.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[❀拨雪寻春❀] 送葬者芙莉莲 第二季 / 葬送のフリーレン 第二期 / Sousou no Frieren 2nd Season - 36 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：葬送的芙莉莲 第二季）</guid>
-			<link>https://mikanani.me/Home/Episode/597c85f06e3b029ac7e755348b36c1fbf040c397</link>
-			<title>[❀拨雪寻春❀] 送葬者芙莉莲 第二季 / 葬送のフリーレン 第二期 / Sousou no Frieren 2nd Season - 36 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：葬送的芙莉莲 第二季）</title>
-			<description>[❀拨雪寻春❀] 送葬者芙莉莲 第二季 / 葬送のフリーレン 第二期 / Sousou no Frieren 2nd Season - 36 [WebRip][HEVC-10bit 1080p][简繁日内封]（检索用：葬送的芙莉莲 第二季）[661.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/597c85f06e3b029ac7e755348b36c1fbf040c397</link>
-				<contentLength>693213568</contentLength>
-				<pubDate>2026-04-17T09:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="693213568" url="https://mikanani.me/Download/20260417/597c85f06e3b029ac7e755348b36c1fbf040c397.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
