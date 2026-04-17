@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 27 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/68734c541e1cea7feca29c395ed0c74d988f3fb8</link>
+			<title>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 27 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 27 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕][1.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/68734c541e1cea7feca29c395ed0c74d988f3fb8</link>
+				<contentLength>2040109440</contentLength>
+				<pubDate>2026-04-18T04:14:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20260418/68734c541e1cea7feca29c395ed0c74d988f3fb8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][02][1080p][简日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/027063f5a3e130535c5dc8777c341f52f52a51e3</link>
 			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][02][1080p][简日双语]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-17T08:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="342674624" url="https://mikanani.me/Download/20260417/d1f3da9c0b05f46a6e43f1b17561eea4213cca44.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 26 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/bb1ec04a6e712e8d7258d1051d87d9ded455eb74</link>
-			<title>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 26 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 石纪元 科学与未来 第3部分 - 26 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕][1.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bb1ec04a6e712e8d7258d1051d87d9ded455eb74</link>
-				<contentLength>1932735232</contentLength>
-				<pubDate>2026-04-17T06:17:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1932735232" url="https://mikanani.me/Download/20260417/bb1ec04a6e712e8d7258d1051d87d9ded455eb74.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
