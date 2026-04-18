@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/35538dbf6f9429aff8c14aae6ad4f1256bb09b5a</link>
+			<title>[LoliHouse] MAO摩绪 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][566.53 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35538dbf6f9429aff8c14aae6ad4f1256bb09b5a</link>
+				<contentLength>594049792</contentLength>
+				<pubDate>2026-04-19T02:54:34.091</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="594049792" url="https://mikanani.me/Download/20260419/35538dbf6f9429aff8c14aae6ad4f1256bb09b5a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[银色子弹字幕组][名侦探柯南][第1198集 灰姑娘的鞋子][WEBRIP][简繁日多语MKV][PGS][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/1246a90e9f1cff0082f82f472e033f6569c74153</link>
 			<title>[银色子弹字幕组][名侦探柯南][第1198集 灰姑娘的鞋子][WEBRIP][简繁日多语MKV][PGS][1080P]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-18T12:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="787270848" url="https://mikanani.me/Download/20260418/9dfe90441f4789e02d2c19d39bd4c38f3b79643a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猫恋汉化组&amp;爱恋字幕社][4月新番][弱弱老师][Yowayowa Sensei][01][1080P][BIG5][MP4][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/97889b96939c587f8e6f3c0f7b21aa7f2d887ed9</link>
-			<title>[猫恋汉化组&amp;爱恋字幕社][4月新番][弱弱老师][Yowayowa Sensei][01][1080P][BIG5][MP4][繁中]</title>
-			<description>[猫恋汉化组&amp;爱恋字幕社][4月新番][弱弱老师][Yowayowa Sensei][01][1080P][BIG5][MP4][繁中][276.82 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/97889b96939c587f8e6f3c0f7b21aa7f2d887ed9</link>
-				<contentLength>290266816</contentLength>
-				<pubDate>2026-04-18T12:38:00.259</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="290266816" url="https://mikanani.me/Download/20260418/97889b96939c587f8e6f3c0f7b21aa7f2d887ed9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
