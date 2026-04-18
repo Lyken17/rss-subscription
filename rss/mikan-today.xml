@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 黄泉使者 - 03 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4acd7c69c631c282c79fe22927e54a3dd24ede0b</link>
+			<title>[沸班亚马制作组] 黄泉使者 - 03 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 黄泉使者 - 03 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕][1.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4acd7c69c631c282c79fe22927e54a3dd24ede0b</link>
+				<contentLength>2040109440</contentLength>
+				<pubDate>2026-04-19T05:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2040109440" url="https://mikanani.me/Download/20260419/4acd7c69c631c282c79fe22927e54a3dd24ede0b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/35538dbf6f9429aff8c14aae6ad4f1256bb09b5a</link>
 			<title>[LoliHouse] MAO摩绪 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-18T13:05:08.588889</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="21163450368" url="https://mikanani.me/Download/20260418/ba8032d46b68768b6805189faf61fb08ae540cf7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[云光字幕组] 主播女孩重度依赖 NEEDY GIRL OVERDOSE[01][简体双语][1080p]招募翻译</guid>
-			<link>https://mikanani.me/Home/Episode/9dfe90441f4789e02d2c19d39bd4c38f3b79643a</link>
-			<title>[云光字幕组] 主播女孩重度依赖 NEEDY GIRL OVERDOSE[01][简体双语][1080p]招募翻译</title>
-			<description>[云光字幕组] 主播女孩重度依赖 NEEDY GIRL OVERDOSE[01][简体双语][1080p]招募翻译[750.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9dfe90441f4789e02d2c19d39bd4c38f3b79643a</link>
-				<contentLength>787270848</contentLength>
-				<pubDate>2026-04-18T12:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="787270848" url="https://mikanani.me/Download/20260418/9dfe90441f4789e02d2c19d39bd4c38f3b79643a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
