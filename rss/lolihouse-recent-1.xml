@@ -100,5 +100,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="368364736" url="https://mikanani.me/Download/20260418/9a76ca9c3abac878440842c8d29125a79bde2891.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 关于我在无意间被隔壁的天使变成废柴这件事 第二季 / Otonari no Tenshi-sama S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1e88ff55f094b92357e96df1a90c92824b0b186a</link>
+			<title>[LoliHouse] 关于我在无意间被隔壁的天使变成废柴这件事 第二季 / Otonari no Tenshi-sama S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 关于我在无意间被隔壁的天使变成废柴这件事 第二季 / Otonari no Tenshi-sama S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][411.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1e88ff55f094b92357e96df1a90c92824b0b186a</link>
+				<contentLength>431163968</contentLength>
+				<pubDate>2026-04-18T22:38:37.511</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="431163968" url="https://mikanani.me/Download/20260418/1e88ff55f094b92357e96df1a90c92824b0b186a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
