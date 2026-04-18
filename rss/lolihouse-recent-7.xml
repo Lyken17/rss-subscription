@@ -880,5 +880,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="603245760" url="https://mikanani.me/Download/20260418/d58f711f6214fd2d83d20cdf6918416573dd851c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 03(75) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b3301704404ed0925a090e009e6f356f59bc83ca</link>
+			<title>[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 03(75) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 03(75) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][749.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b3301704404ed0925a090e009e6f356f59bc83ca</link>
+				<contentLength>785834304</contentLength>
+				<pubDate>2026-04-18T15:31:05.321</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="785834304" url="https://mikanani.me/Download/20260418/b3301704404ed0925a090e009e6f356f59bc83ca.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
