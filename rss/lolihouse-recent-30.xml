@@ -2740,5 +2740,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1642824960" url="https://mikanani.me/Download/20260419/b72e7a2659d5feda57658669523a7421d3dc94b4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6e924e4acb4c60a71a41f71aeaf675fe5163ccae</link>
+			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][773.19 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6e924e4acb4c60a71a41f71aeaf675fe5163ccae</link>
+				<contentLength>810748480</contentLength>
+				<pubDate>2026-04-19T08:21:00.784</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="810748480" url="https://mikanani.me/Download/20260419/6e924e4acb4c60a71a41f71aeaf675fe5163ccae.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
