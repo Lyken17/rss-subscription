@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1158][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/8d891c3c19b8d8f7e8bf4d80e29c252630e0f0b6</link>
+			<title>[Skymoon-Raws][One Piece 海贼王][1158][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
+			<description>[Skymoon-Raws][One Piece 海贼王][1158][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][462.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d891c3c19b8d8f7e8bf4d80e29c252630e0f0b6</link>
+				<contentLength>484756672</contentLength>
+				<pubDate>2026-04-21T02:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="484756672" url="https://mikanani.me/Download/20260421/8d891c3c19b8d8f7e8bf4d80e29c252630e0f0b6.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria [14][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/ffc675ed7af26757f1274de06f6633f79fe06406</link>
 			<title>[绿茶字幕组] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria [14][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-19T22:52:42.799</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="349542816" url="https://mikanani.me/Download/20260419/067cc2ffd8fb430cb0c26b8603d7932368df2e08.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法姊妹露露特莉莉 / Mahou no Shimai Lulutto Lilly - 03 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/82f45ed698754023637c20e013ba0b932f0f88a7</link>
-			<title>[黒ネズミたち] 魔法姊妹露露特莉莉 / Mahou no Shimai Lulutto Lilly - 03 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 魔法姊妹露露特莉莉 / Mahou no Shimai Lulutto Lilly - 03 (ABEMA 1920x1080 AVC AAC MKV)[720.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/82f45ed698754023637c20e013ba0b932f0f88a7</link>
-				<contentLength>754974720</contentLength>
-				<pubDate>2026-04-19T22:34:36.29349</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="754974720" url="https://mikanani.me/Download/20260419/82f45ed698754023637c20e013ba0b932f0f88a7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
