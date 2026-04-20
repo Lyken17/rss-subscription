@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game][03][1080p][繁日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/a4af56798a25376c29d85f1f1ccc9c9349516f1f</link>
+			<title>【喵萌奶茶屋】★04月新番★[灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game][03][1080p][繁日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[灰原君的青春二周目 / 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / 灰原くんの强くて青春ニューゲーム / Haibara-kun no Tsuyokute Seishun New Game][03][1080p][繁日双语][444.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a4af56798a25376c29d85f1f1ccc9c9349516f1f</link>
+				<contentLength>465756480</contentLength>
+				<pubDate>2026-04-21T03:46:51.31</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="465756480" url="https://mikanani.me/Download/20260421/a4af56798a25376c29d85f1f1ccc9c9349516f1f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1158][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/8d891c3c19b8d8f7e8bf4d80e29c252630e0f0b6</link>
 			<title>[Skymoon-Raws][One Piece 海贼王][1158][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-19T22:52:57.976</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="349553280" url="https://mikanani.me/Download/20260419/52d31cc95aa37c44025edde857d07a677564ef98.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 冰之城墙 / Koori no Jouheki [03][1080P][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/067cc2ffd8fb430cb0c26b8603d7932368df2e08</link>
-			<title>[桜都字幕组] 冰之城墙 / Koori no Jouheki [03][1080P][简体内嵌]</title>
-			<description>[桜都字幕组] 冰之城墙 / Koori no Jouheki [03][1080P][简体内嵌][333.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/067cc2ffd8fb430cb0c26b8603d7932368df2e08</link>
-				<contentLength>349542816</contentLength>
-				<pubDate>2026-04-19T22:52:42.799</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="349542816" url="https://mikanani.me/Download/20260419/067cc2ffd8fb430cb0c26b8603d7932368df2e08.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
