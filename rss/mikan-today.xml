@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 29 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b14ccccb71750807086ab8e65e6727d294c30b16</link>
+			<title>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 29 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 29 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][379.03 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b14ccccb71750807086ab8e65e6727d294c30b16</link>
+				<contentLength>397441760</contentLength>
+				<pubDate>2026-04-20T19:57:09.196</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397441760" url="https://mikanani.me/Download/20260420/b14ccccb71750807086ab8e65e6727d294c30b16.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][01-12 精校合集][WebRip][1080P][HEVC 10bit][简繁日内封]（检索用：相反的你和我）</guid>
 			<link>https://mikanani.me/Home/Episode/3369b06006b44d2b47609848a395f1c080e9ac26</link>
 			<title>[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][01-12 精校合集][WebRip][1080P][HEVC 10bit][简繁日内封]（检索用：相反的你和我）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-19T16:20:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="461792864" url="https://mikanani.me/Download/20260419/147f8d801c5f8f8473c606aca729a44f5ca7a971.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 鸡斗士 / Niwatori Fighter - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/905488ea6cb525a14a90ea2ca4428c5ef18edcb8</link>
-			<title>[黒ネズミたち] 鸡斗士 / Niwatori Fighter - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 鸡斗士 / Niwatori Fighter - 06 (CR 1920x1080 AVC AAC MKV)[1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/905488ea6cb525a14a90ea2ca4428c5ef18edcb8</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2026-04-19T16:17:13.13939</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260419/905488ea6cb525a14a90ea2ca4428c5ef18edcb8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
