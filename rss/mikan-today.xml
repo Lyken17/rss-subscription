@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[910][2026.04.11][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/25efd653cf9cd75dd4c62d3709ce5b5f358de28b</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[910][2026.04.11][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[910][2026.04.11][AVC][1080P][GB_JP][490.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25efd653cf9cd75dd4c62d3709ce5b5f358de28b</link>
+				<contentLength>514011968</contentLength>
+				<pubDate>2026-04-21T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="514011968" url="https://mikanani.me/Download/20260421/25efd653cf9cd75dd4c62d3709ce5b5f358de28b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 06[1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/56a6a0835390c4a3ca7372bfd01289ff27a28954</link>
 			<title>[樱桃花字幕组]欢迎来到实力至上主义的教室 第四季 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 06[1080p][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-19T23:53:45.2</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1374389504" url="https://mikanani.me/Download/20260419/c8b5ff084bd50efbcbf3cefa45e66f25b19ef8a8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[杀手青春 / KILL BLUE / Kill Ao][02][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/924913e7066d896ca167cadcd8d788f6a46b8f1e</link>
-			<title>【喵萌奶茶屋】★04月新番★[杀手青春 / KILL BLUE / Kill Ao][02][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★04月新番★[杀手青春 / KILL BLUE / Kill Ao][02][1080p][简日双语][468.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/924913e7066d896ca167cadcd8d788f6a46b8f1e</link>
-				<contentLength>491467584</contentLength>
-				<pubDate>2026-04-19T23:50:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="491467584" url="https://mikanani.me/Download/20260419/924913e7066d896ca167cadcd8d788f6a46b8f1e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

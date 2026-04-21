@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 永生 第三季 / Immortality 3 - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b540b8c68996a405a7ba1793a82ec5630c5771ad</link>
-			<title>[黒ネズミたち] 永生 第三季 / Immortality 3 - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 永生 第三季 / Immortality 3 - 52 (B-Global Donghua 1920x1080 HEVC AAC MKV)[970.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b540b8c68996a405a7ba1793a82ec5630c5771ad</link>
-				<contentLength>1017643008</contentLength>
-				<pubDate>2026-04-20T10:01:32.941525</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1017643008" url="https://mikanani.me/Download/20260420/b540b8c68996a405a7ba1793a82ec5630c5771ad.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 海贼王 / One Piece - 1158 (B-Global 3840x2160 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dc462ac5f9719abc5ed480b61a571d2271fadf8b</link>
-			<title>[黒ネズミたち] 海贼王 / One Piece - 1158 (B-Global 3840x2160 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 海贼王 / One Piece - 1158 (B-Global 3840x2160 HEVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dc462ac5f9719abc5ed480b61a571d2271fadf8b</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2026-04-20T10:01:16.378394</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260420/dc462ac5f9719abc5ed480b61a571d2271fadf8b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[千夏字幕组][上伊那牡丹，醉姿如百合_Kamiina Botan, Yoeru Sugata wa Yuri no Hana][第02话][1080p_AVC][繁体]</guid>
 			<link>https://mikanani.me/Home/Episode/450e35bd3046feab7a8434b05f73b10b85c1db25</link>
 			<title>[千夏字幕组][上伊那牡丹，醉姿如百合_Kamiina Botan, Yoeru Sugata wa Yuri no Hana][第02话][1080p_AVC][繁体]</title>
@@ -867,6 +843,18 @@
 				<pubDate>2026-04-21T16:14:24.987</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="575039104" url="https://mikanani.me/Download/20260421/b68174dd0170fd4567b6624dae9ccdcfc8ce042b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[910][2026.04.11][AVC][1080P][GB_JP]</guid>
+			<link>https://mikanani.me/Home/Episode/25efd653cf9cd75dd4c62d3709ce5b5f358de28b</link>
+			<title>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[910][2026.04.11][AVC][1080P][GB_JP]</title>
+			<description>[夜莺家族&amp;YYQ字幕组]New Doraemon 哆啦A梦新番[910][2026.04.11][AVC][1080P][GB_JP][490.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25efd653cf9cd75dd4c62d3709ce5b5f358de28b</link>
+				<contentLength>514011968</contentLength>
+				<pubDate>2026-04-21T18:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="514011968" url="https://mikanani.me/Download/20260421/25efd653cf9cd75dd4c62d3709ce5b5f358de28b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
