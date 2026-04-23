@@ -892,5 +892,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="535245632" url="https://mikanani.me/Download/20260423/a1faa607848e3bcc30963e6e81929fbc505f3b4d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f33f677dfc389cbbd494eac38a9efb503a931021</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][452.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f33f677dfc389cbbd494eac38a9efb503a931021</link>
+				<contentLength>474585504</contentLength>
+				<pubDate>2026-04-23T16:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="474585504" url="https://mikanani.me/Download/20260423/f33f677dfc389cbbd494eac38a9efb503a931021.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

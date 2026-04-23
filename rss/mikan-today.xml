@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f33f677dfc389cbbd494eac38a9efb503a931021</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][452.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f33f677dfc389cbbd494eac38a9efb503a931021</link>
+				<contentLength>474585504</contentLength>
+				<pubDate>2026-04-23T16:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="474585504" url="https://mikanani.me/Download/20260423/f33f677dfc389cbbd494eac38a9efb503a931021.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【今晚月色真美】[没有辣妹会对阿宅温柔！？ / オタクに优しいギャルはいない!? / Otaku ni Yasashii Gal wa Inai!?][03][WEBrip][1080P][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/75fd9b64903dd5b30efe045b0e3bc2cd512a91e8</link>
 			<title>【今晚月色真美】[没有辣妹会对阿宅温柔！？ / オタクに优しいギャルはいない!? / Otaku ni Yasashii Gal wa Inai!?][03][WEBrip][1080P][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-22T16:14:51.824</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1578400512" url="https://mikanani.me/Download/20260422/44459c2f6987f57b03d9dda2ed7b1e7b602f354c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">未来少年柯南.英语+日语.英文字幕..Mirai Shounen Conan.BD.1080P</guid>
-			<link>https://mikanani.me/Home/Episode/5c573475a807a1559b4be2438f490f4cfcfce060</link>
-			<title>未来少年柯南.英语+日语.英文字幕..Mirai Shounen Conan.BD.1080P</title>
-			<description>未来少年柯南.英语+日语.英文字幕..Mirai Shounen Conan.BD.1080P[13.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5c573475a807a1559b4be2438f490f4cfcfce060</link>
-				<contentLength>14925010944</contentLength>
-				<pubDate>2026-04-22T15:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="14925010944" url="https://mikanani.me/Download/20260422/5c573475a807a1559b4be2438f490f4cfcfce060.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
