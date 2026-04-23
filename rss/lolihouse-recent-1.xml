@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="44249908" url="https://mikanani.me/Download/20260423/b391ceeee6e2cf2a6f295938243249ba8311d837.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse]  Re:从零开始的异世界生活 / Re:Zero kara Hajimeru Isekai Seikatsu - 69 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4f2efd240e778719642f9a2ae070a7f725bb564c</link>
+			<title>[百冬练习组&amp;LoliHouse]  Re:从零开始的异世界生活 / Re:Zero kara Hajimeru Isekai Seikatsu - 69 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[百冬练习组&amp;LoliHouse]  Re:从零开始的异世界生活 / Re:Zero kara Hajimeru Isekai Seikatsu - 69 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][473.83 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4f2efd240e778719642f9a2ae070a7f725bb564c</link>
+				<contentLength>496846752</contentLength>
+				<pubDate>2026-04-24T00:13:33.433</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="496846752" url="https://mikanani.me/Download/20260424/4f2efd240e778719642f9a2ae070a7f725bb564c.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
