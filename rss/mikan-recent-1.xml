@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[ANi] Koala Enikki /  无尾熊绘日记 - 30 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/349d40926aaec3695c934713a02f1e5b47976082</link>
-			<title>[ANi] Koala Enikki /  无尾熊绘日记 - 30 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Koala Enikki /  无尾熊绘日记 - 30 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][75.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/349d40926aaec3695c934713a02f1e5b47976082</link>
-				<contentLength>78957776</contentLength>
-				<pubDate>2026-04-23T19:00:54.583974</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="78957776" url="https://mikanani.me/Download/20260423/349d40926aaec3695c934713a02f1e5b47976082.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 30 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/ac0ba674f0300b0d65e11aec275d98ae47c4ea29</link>
-			<title>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 30 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 无尾熊绘日记 / Koala Enikki - 30 (Baha 1920x1080 AVC AAC MP4)[75.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ac0ba674f0300b0d65e11aec275d98ae47c4ea29</link>
-				<contentLength>78748056</contentLength>
-				<pubDate>2026-04-23T19:00:13.567424</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="78748056" url="https://mikanani.me/Download/20260423/ac0ba674f0300b0d65e11aec275d98ae47c4ea29.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Re：从零开始的异世界生活 第四季 / Re:Zero 4th Season - 69 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0518a47f0dadd1c599429f7738f882d2655e5e43</link>
 			<title>[黒ネズミたち] Re：从零开始的异世界生活 第四季 / Re:Zero 4th Season - 69 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1743,6 +1719,18 @@
 				<pubDate>2026-04-25T02:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="368993888" url="https://mikanani.me/Download/20260425/b86b5011ca80986717f329ef3e4545fe0cf1f77a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/9ffb81cb74eabebe6e2c25783771cfd5afe9c011</link>
+			<title>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][245.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9ffb81cb74eabebe6e2c25783771cfd5afe9c011</link>
+				<contentLength>257739984</contentLength>
+				<pubDate>2026-04-25T03:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257739984" url="https://mikanani.me/Download/20260425/9ffb81cb74eabebe6e2c25783771cfd5afe9c011.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
