@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★04★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/4ca548bfb733ad3bbe83cc267e2e4393bb58cf63</link>
+			<title>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★04★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★04★1920x1080★AVC AAC MP4★繁体中文[387.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4ca548bfb733ad3bbe83cc267e2e4393bb58cf63</link>
+				<contentLength>406218336</contentLength>
+				<pubDate>2026-04-25T04:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="406218336" url="https://mikanani.me/Download/20260425/4ca548bfb733ad3bbe83cc267e2e4393bb58cf63.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/9ffb81cb74eabebe6e2c25783771cfd5afe9c011</link>
 			<title>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-24T00:45:37.250852</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="286890400" url="https://mikanani.me/Download/20260424/32429ddb4d32b4b11dc6fdfe22e195ca6e47c3e0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Petals of Reincarnation /  轮回的花瓣 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/a393a0fc6f6c4f90c5e09ee6c61c669e53db2c98</link>
-			<title>[ANi] Petals of Reincarnation /  轮回的花瓣 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Petals of Reincarnation /  轮回的花瓣 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][636.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a393a0fc6f6c4f90c5e09ee6c61c669e53db2c98</link>
-				<contentLength>666894336</contentLength>
-				<pubDate>2026-04-24T00:31:32.864727</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="666894336" url="https://mikanani.me/Download/20260424/a393a0fc6f6c4f90c5e09ee6c61c669e53db2c98.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
