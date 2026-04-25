@@ -124,5 +124,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="361926496" url="https://mikanani.me/Download/20260425/29f4affe5e61e18461e073f23ecf0d149b207d2c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 女骑士成为蛮族新娘 / Himekishi wa Barbaroi no Yome - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f745f3d6f21689e0fbad78bf2912183896b8c121</link>
+			<title>[LoliHouse] 女骑士成为蛮族新娘 / Himekishi wa Barbaroi no Yome - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 女骑士成为蛮族新娘 / Himekishi wa Barbaroi no Yome - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][418.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f745f3d6f21689e0fbad78bf2912183896b8c121</link>
+				<contentLength>439248480</contentLength>
+				<pubDate>2026-04-25T19:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="439248480" url="https://mikanani.me/Download/20260425/f745f3d6f21689e0fbad78bf2912183896b8c121.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
