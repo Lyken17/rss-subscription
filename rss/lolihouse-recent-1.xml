@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260425/63f6be6fb88928b928a82d009ccc86105eb71305.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kari) - 05 [WebRip 1080p HEVC-10bit AAC][无中字]</guid>
+			<link>https://mikanani.me/Home/Episode/070cf0a3e28af5a2956700e28237833ed96f07e8</link>
+			<title>[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kari) - 05 [WebRip 1080p HEVC-10bit AAC][无中字]</title>
+			<description>[LoliHouse] 最强的职业不是勇者也不是贤者好像是鉴定士(暂定)的样子？ / Kanteishi (Kari) - 05 [WebRip 1080p HEVC-10bit AAC][无中字][424.12 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/070cf0a3e28af5a2956700e28237833ed96f07e8</link>
+				<contentLength>444722048</contentLength>
+				<pubDate>2026-04-26T00:31:34.134</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="444722048" url="https://mikanani.me/Download/20260426/070cf0a3e28af5a2956700e28237833ed96f07e8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
