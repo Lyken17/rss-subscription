@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【咪路fans制作组】[噗利噗利奇酱!!][プリプリちぃちゃん!!][PriPri Chii-chan!! ][第一季度][01-12][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/f49d8fbfb8916d69a955badfec5e3fb6cf1804b5</link>
+			<title>【咪路fans制作组】[噗利噗利奇酱!!][プリプリちぃちゃん!!][PriPri Chii-chan!! ][第一季度][01-12][GB][1080P]</title>
+			<description>【咪路fans制作组】[噗利噗利奇酱!!][プリプリちぃちゃん!!][PriPri Chii-chan!! ][第一季度][01-12][GB][1080P][3.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f49d8fbfb8916d69a955badfec5e3fb6cf1804b5</link>
+				<contentLength>3543347968</contentLength>
+				<pubDate>2026-04-25T15:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3543347968" url="https://mikanani.me/Download/20260425/f49d8fbfb8916d69a955badfec5e3fb6cf1804b5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SFSub] 关于邻家的天使大人不知不觉把我惯成了废人这档子事 2 / Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season - 04 [WebRip][1080P][AVC][AAC][简日内嵌][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/1f871e9e7bbd2bc09bd32e7e001e4553a1c1ac1d</link>
 			<title>[SFSub] 关于邻家的天使大人不知不觉把我惯成了废人这档子事 2 / Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season - 04 [WebRip][1080P][AVC][AAC][简日内嵌][MP4]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-24T02:30:40.686614</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="556164736" url="https://mikanani.me/Download/20260424/538e7a0f7cff01bfa0aa20d51cf0cba810895eaa.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 七米神物语 / Komekami! Girls - 04 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/da9b049d172cd12ea150c3a65359a2aa9cfa4a3e</link>
-			<title>[黒ネズミたち] 七米神物语 / Komekami! Girls - 04 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 七米神物语 / Komekami! Girls - 04 (ABEMA 1920x1080 AVC AAC MKV)[708.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/da9b049d172cd12ea150c3a65359a2aa9cfa4a3e</link>
-				<contentLength>742916096</contentLength>
-				<pubDate>2026-04-24T02:00:53.483725</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="742916096" url="https://mikanani.me/Download/20260424/da9b049d172cd12ea150c3a65359a2aa9cfa4a3e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
