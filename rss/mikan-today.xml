@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/e134f74a3ab26c6c57471ec1acee9bd990e8aba9</link>
+			<title>迦楠大人的白给是恶魔级 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e134f74a3ab26c6c57471ec1acee9bd990e8aba9</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-04-26T04:14:52.137</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260426/e134f74a3ab26c6c57471ec1acee9bd990e8aba9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][03][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/c906171a43cde9ea05e0c2ae2822c954ce917186</link>
 			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][03][1080p][繁日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-25T02:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="460639424" url="https://mikanani.me/Download/20260425/c5230775215ee762a363097ea78fa0001c11bc17.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 79 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/388bd6d5d6e40708430ad56c79edc3455293467d</link>
-			<title>[黒ネズミたち] Nui Story 2 - 79 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] Nui Story 2 - 79 (ABEMA 1920x1080 AVC AAC MKV)[55.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/388bd6d5d6e40708430ad56c79edc3455293467d</link>
-				<contentLength>57881396</contentLength>
-				<pubDate>2026-04-25T02:30:26.043298</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="57881396" url="https://mikanani.me/Download/20260425/388bd6d5d6e40708430ad56c79edc3455293467d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
