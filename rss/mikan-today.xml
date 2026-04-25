@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 04 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/2b20e08b39420d78be127db723489277cc7b2940</link>
+			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 04 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 拉拉熊 / Rilakkuma - 04 (ABEMA 1920x1080 AVC AAC MKV)[44.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2b20e08b39420d78be127db723489277cc7b2940</link>
+				<contentLength>46976204</contentLength>
+				<pubDate>2026-04-26T07:35:30.726002</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="46976204" url="https://mikanani.me/Download/20260426/2b20e08b39420d78be127db723489277cc7b2940.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 03 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/4b269ee809782d0268df463f530abf83b8156414</link>
 			<title>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 03 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-25T04:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="406218336" url="https://mikanani.me/Download/20260425/4ca548bfb733ad3bbe83cc267e2e4393bb58cf63.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/9ffb81cb74eabebe6e2c25783771cfd5afe9c011</link>
-			<title>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 03 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][245.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9ffb81cb74eabebe6e2c25783771cfd5afe9c011</link>
-				<contentLength>257739984</contentLength>
-				<pubDate>2026-04-25T03:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="257739984" url="https://mikanani.me/Download/20260425/9ffb81cb74eabebe6e2c25783771cfd5afe9c011.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
