@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 03 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4b269ee809782d0268df463f530abf83b8156414</link>
+			<title>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 03 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 03 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕][1.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4b269ee809782d0268df463f530abf83b8156414</link>
+				<contentLength>1181116032</contentLength>
+				<pubDate>2026-04-26T05:23:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260426/4b269ee809782d0268df463f530abf83b8156414.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
 			<link>https://mikanani.me/Home/Episode/e134f74a3ab26c6c57471ec1acee9bd990e8aba9</link>
 			<title>迦楠大人的白给是恶魔级 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-25T03:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="257739984" url="https://mikanani.me/Download/20260425/9ffb81cb74eabebe6e2c25783771cfd5afe9c011.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 冻结地球 / Snowball Earth - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/c5230775215ee762a363097ea78fa0001c11bc17</link>
-			<title>[Skymoon-Raws] 冻结地球 / Snowball Earth - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 冻结地球 / Snowball Earth - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][439.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c5230775215ee762a363097ea78fa0001c11bc17</link>
-				<contentLength>460639424</contentLength>
-				<pubDate>2026-04-25T02:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="460639424" url="https://mikanani.me/Download/20260425/c5230775215ee762a363097ea78fa0001c11bc17.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
