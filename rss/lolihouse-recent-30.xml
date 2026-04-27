@@ -3172,5 +3172,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="599890304" url="https://mikanani.me/Download/20260427/c2b584f73ff6a44f92fa4e50c87f9810f23cfa1a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1dd0a870ae5d77ec7d83e7f160a470b036815d50</link>
+			<title>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][481.87 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1dd0a870ae5d77ec7d83e7f160a470b036815d50</link>
+				<contentLength>505277312</contentLength>
+				<pubDate>2026-04-27T12:38:44.861</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="505277312" url="https://mikanani.me/Download/20260427/1dd0a870ae5d77ec7d83e7f160a470b036815d50.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
