@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][05][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/689ebb55b22070130b579a19a35c9c1f51b68839</link>
+			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][05][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][05][1080p][简日双语][463.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/689ebb55b22070130b579a19a35c9c1f51b68839</link>
+				<contentLength>485973024</contentLength>
+				<pubDate>2026-04-28T03:59:50.739</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="485973024" url="https://mikanani.me/Download/20260428/689ebb55b22070130b579a19a35c9c1f51b68839.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1159][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
 			<link>https://mikanani.me/Home/Episode/1b4a88ce645d54469a42b161d4ff0d5fec50b2b5</link>
 			<title>[Skymoon-Raws][One Piece 海贼王][1159][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-04-26T22:38:05.52</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="426843840" url="https://mikanani.me/Download/20260426/8e34111f9f27cda315eb0b3561fc7252e46179d7.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 想结束这场「我爱你」的游戏 / Aishiteru Game wo Owarasetai - 02 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/850e04034f23273e159c500a12a649fff7519d57</link>
-			<title>[黒ネズミたち] 想结束这场「我爱你」的游戏 / Aishiteru Game wo Owarasetai - 02 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 想结束这场「我爱你」的游戏 / Aishiteru Game wo Owarasetai - 02 (ABEMA 1920x1080 AVC AAC MKV)[713.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/850e04034f23273e159c500a12a649fff7519d57</link>
-				<contentLength>747844416</contentLength>
-				<pubDate>2026-04-26T22:31:00.724282</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="747844416" url="https://mikanani.me/Download/20260426/850e04034f23273e159c500a12a649fff7519d57.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
