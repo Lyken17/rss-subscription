@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1dd0a870ae5d77ec7d83e7f160a470b036815d50</link>
-			<title>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][481.87 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1dd0a870ae5d77ec7d83e7f160a470b036815d50</link>
-				<contentLength>505277312</contentLength>
-				<pubDate>2026-04-27T12:38:44.861</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="505277312" url="https://mikanani.me/Download/20260427/1dd0a870ae5d77ec7d83e7f160a470b036815d50.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/25dbfb14fa79f5790808b5a1176c7943b65f05f4</link>
 			<title>[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -63,6 +51,18 @@
 				<pubDate>2026-04-28T09:58:36.805</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="714719872" url="https://mikanani.me/Download/20260428/ccfecff47d803a7e690bee4244ca206b8c63bae7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[个人制作合集][LoliHouse] 碧蓝之海 第二季 / Grand Blue S2 - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/c4e5ab52f2bcc1b45349242b5b168badbfb05246</link>
+			<title>[个人制作合集][LoliHouse] 碧蓝之海 第二季 / Grand Blue S2 - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[个人制作合集][LoliHouse] 碧蓝之海 第二季 / Grand Blue S2 - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c4e5ab52f2bcc1b45349242b5b168badbfb05246</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2026-04-28T20:58:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20260428/c4e5ab52f2bcc1b45349242b5b168badbfb05246.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
