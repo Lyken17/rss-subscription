@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Fate/strange Fake - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/5637beefa726741ad7e5e17721f1ebece5292515</link>
-			<title>[LoliHouse] Fate/strange Fake - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] Fate/strange Fake - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][786.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5637beefa726741ad7e5e17721f1ebece5292515</link>
-				<contentLength>824285568</contentLength>
-				<pubDate>2026-03-29T02:46:20.05</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="824285568" url="https://mikanani.me/Download/20260329/5637beefa726741ad7e5e17721f1ebece5292515.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season [13-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/16f7d9c9578df05254fa5a21d9e0adda0025946a</link>
 			<title>[LoliHouse] 终究，与你相恋。 第2季 / どうせ、恋してしまうんだ。 第2期 / Douse, Koishite Shimaunda. 2nd Season [13-24 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -3159,6 +3147,18 @@
 				<pubDate>2026-04-27T22:03:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="756652416" url="https://mikanani.me/Download/20260427/ff7f8d23cf72d88f5725bfb7251dec3c265fd3d5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ccfecff47d803a7e690bee4244ca206b8c63bae7</link>
+			<title>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][681.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ccfecff47d803a7e690bee4244ca206b8c63bae7</link>
+				<contentLength>714719872</contentLength>
+				<pubDate>2026-04-28T09:58:36.805</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="714719872" url="https://mikanani.me/Download/20260428/ccfecff47d803a7e690bee4244ca206b8c63bae7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
