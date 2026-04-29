@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[个人制作合集][ANi] 出入禁止的鼹鼠 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT]</guid>
+			<link>https://mikanani.me/Home/Episode/9e0c39de2a43eaca4b4739a000525c235d752666</link>
+			<title>[个人制作合集][ANi] 出入禁止的鼹鼠 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT]</title>
+			<description>[个人制作合集][ANi] 出入禁止的鼹鼠 - 01-12 [1080P][Baha][WEB-DL][AAC AVC][CHT][6.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e0c39de2a43eaca4b4739a000525c235d752666</link>
+				<contentLength>6549825024</contentLength>
+				<pubDate>2026-04-29T07:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6549825024" url="https://mikanani.me/Download/20260429/9e0c39de2a43eaca4b4739a000525c235d752666.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[H-Enc] 暴食狂战士 / Boushoku no Berserk (BDRip 1080p HEVC FLAC)</guid>
 			<link>https://mikanani.me/Home/Episode/0cfd8a98472fbd108b1e1248592629c4baad5eae</link>
 			<title>[H-Enc] 暴食狂战士 / Boushoku no Berserk (BDRip 1080p HEVC FLAC)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-04-27T20:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="576821632" url="https://mikanani.me/Download/20260427/bd40e31e884a6fb5048054fb5801b372bdcae08e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【铃风字幕组】【异兽魔都 S2/ドロヘドロ S2】[17][1080P][MKV][繁体外挂][招募压制]</guid>
-			<link>https://mikanani.me/Home/Episode/11872e5595b2530ecc2e3d021359bc08c95c5947</link>
-			<title>【铃风字幕组】【异兽魔都 S2/ドロヘドロ S2】[17][1080P][MKV][繁体外挂][招募压制]</title>
-			<description>【铃风字幕组】【异兽魔都 S2/ドロヘドロ S2】[17][1080P][MKV][繁体外挂][招募压制][584.77 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/11872e5595b2530ecc2e3d021359bc08c95c5947</link>
-				<contentLength>613175808</contentLength>
-				<pubDate>2026-04-27T19:02:15.257</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="613175808" url="https://mikanani.me/Download/20260427/11872e5595b2530ecc2e3d021359bc08c95c5947.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
