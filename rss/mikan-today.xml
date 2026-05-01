@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][04][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/c23b2b47912a70cfc85984fa1652f8915367a54d</link>
+			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][04][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][04][1080p][简日双语][371.02 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c23b2b47912a70cfc85984fa1652f8915367a54d</link>
+				<contentLength>389042656</contentLength>
+				<pubDate>2026-05-02T04:32:51.535</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="389042656" url="https://mikanani.me/Download/20260502/c23b2b47912a70cfc85984fa1652f8915367a54d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu / ゲーセン少女と异文化交流 [01-12 合集][简繁日内封][BDRip H265 10bit 1080P FLAC](检索：游乐场少女的异文化交流)</guid>
 			<link>https://mikanani.me/Home/Episode/854237a9b1997dfc89ccbd80d98c204aa6e8f0dc</link>
 			<title>[三明治摆烂组&amp;Pre-S] 与游戏中心的少女异文化交流的故事 / Game Center Shoujo to Ibunka Kouryuu / ゲーセン少女と异文化交流 [01-12 合集][简繁日内封][BDRip H265 10bit 1080P FLAC](检索：游乐场少女的异文化交流)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-01T01:02:13.06874</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260501/f70f50a6160a64e3540b4507e99f6fd6fad5755e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 15 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/5ace237f74ba69c80986353762771036732fc5d3</link>
-			<title>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 15 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 15 (ABEMA 1920x1080 AVC AAC MKV)[686.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5ace237f74ba69c80986353762771036732fc5d3</link>
-				<contentLength>719427968</contentLength>
-				<pubDate>2026-05-01T01:01:00.082039</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="719427968" url="https://mikanani.me/Download/20260501/5ace237f74ba69c80986353762771036732fc5d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
