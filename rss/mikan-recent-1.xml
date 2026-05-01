@@ -5,42 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] MAO 摩绪 / Mao - 04 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/ad2a191bcf974d99ecbdbc04e74b08c848d28963</link>
-			<title>[黒ネズミたち] MAO 摩绪 / Mao - 04 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] MAO 摩绪 / Mao - 04 (ABEMA 1920x1080 AVC AAC MKV)[760.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ad2a191bcf974d99ecbdbc04e74b08c848d28963</link>
-				<contentLength>797127488</contentLength>
-				<pubDate>2026-04-30T23:30:55.774304</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="797127488" url="https://mikanani.me/Download/20260430/ad2a191bcf974d99ecbdbc04e74b08c848d28963.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 勇者之渣 / Yuusha no Kuzu [13] [1080p] [繁日内嵌] [2026年1月番]</guid>
-			<link>https://mikanani.me/Home/Episode/097948a266405443ae40b531a6fd260f55469955</link>
-			<title>[猎户压制部] 勇者之渣 / Yuusha no Kuzu [13] [1080p] [繁日内嵌] [2026年1月番]</title>
-			<description>[猎户压制部] 勇者之渣 / Yuusha no Kuzu [13] [1080p] [繁日内嵌] [2026年1月番][481.36 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/097948a266405443ae40b531a6fd260f55469955</link>
-				<contentLength>504742528</contentLength>
-				<pubDate>2026-04-30T22:53:06.503</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504742528" url="https://mikanani.me/Download/20260430/097948a266405443ae40b531a6fd260f55469955.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[猎户压制部] 勇者之屑 / Yuusha no Kuzu [13] [1080p] [简日内嵌] [2026年1月番]</guid>
-			<link>https://mikanani.me/Home/Episode/cd80be1d87841107d8a545acc1f44f4fd5aa8929</link>
-			<title>[猎户压制部] 勇者之屑 / Yuusha no Kuzu [13] [1080p] [简日内嵌] [2026年1月番]</title>
-			<description>[猎户压制部] 勇者之屑 / Yuusha no Kuzu [13] [1080p] [简日内嵌] [2026年1月番][481.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cd80be1d87841107d8a545acc1f44f4fd5aa8929</link>
-				<contentLength>504784480</contentLength>
-				<pubDate>2026-04-30T22:52:32.484</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="504784480" url="https://mikanani.me/Download/20260430/cd80be1d87841107d8a545acc1f44f4fd5aa8929.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Monster Eater /  吞噬魔物的冒险者 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/4d0f4507ad554f51996ac16455198a17bb3ce5c3</link>
 			<title>[ANi] Monster Eater /  吞噬魔物的冒险者 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1455,6 +1419,18 @@
 				<pubDate>2026-05-02T06:11:23.2634</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="60293120" url="https://mikanani.me/Download/20260502/41fe0b9a91b83e5e8d043b7705bfd8510b16c274.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">【极影字幕·毁片党】灰原的第二轮青春新游戏 第05集 GB_CN AV1_opus 1080p</guid>
+			<link>https://mikanani.me/Home/Episode/939e18fcdf0e1b8b315a72d0ffd3838f5916ee98</link>
+			<title>【极影字幕·毁片党】灰原的第二轮青春新游戏 第05集 GB_CN AV1_opus 1080p</title>
+			<description>【极影字幕·毁片党】灰原的第二轮青春新游戏 第05集 GB_CN AV1_opus 1080p[181.64 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/939e18fcdf0e1b8b315a72d0ffd3838f5916ee98</link>
+				<contentLength>190463344</contentLength>
+				<pubDate>2026-05-02T07:01:37.9</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="190463344" url="https://mikanani.me/Download/20260502/939e18fcdf0e1b8b315a72d0ffd3838f5916ee98.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
