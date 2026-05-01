@@ -52,5 +52,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="543581824" url="https://mikanani.me/Download/20260430/71dc718046ec8972b373efbd20711d691ab169a3.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[个人制作合集][LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 14-24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4c8ba8626e90bff6134e8cb27eead1d6a56196b6</link>
+			<title>[个人制作合集][LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 14-24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[个人制作合集][LoliHouse] 叹气的亡灵想隐退 / Nageki no Bourei wa Intai shitai - 14-24 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][3.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4c8ba8626e90bff6134e8cb27eead1d6a56196b6</link>
+				<contentLength>3435973888</contentLength>
+				<pubDate>2026-05-01T09:08:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20260501/4c8ba8626e90bff6134e8cb27eead1d6a56196b6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
