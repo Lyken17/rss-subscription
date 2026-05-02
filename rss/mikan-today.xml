@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP05 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/e285e2ee48326cb6734bffd14c8185360e3aadec</link>
+			<title>迦楠大人的白给是恶魔级 - EP05 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP05 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e285e2ee48326cb6734bffd14c8185360e3aadec</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-05-03T03:42:10.611</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260503/e285e2ee48326cb6734bffd14c8185360e3aadec.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 04 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/bbb29efaa1e895ddcd6f69bd4c60226f05059e47</link>
 			<title>[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 04 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-02T12:00:48.676537</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="547776128" url="https://mikanani.me/Download/20260502/90e5deecf43e13216b34744af73af4c96470a078.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/42548b3d0328d556f0c6e4f91bd9fe1c47d57498</link>
-			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 拉拉熊 / Rilakkuma - 05 (Baha 1920x1080 AVC AAC MP4)[33.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/42548b3d0328d556f0c6e4f91bd9fe1c47d57498</link>
-				<contentLength>34917580</contentLength>
-				<pubDate>2026-05-02T11:08:21.849388</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="34917580" url="https://mikanani.me/Download/20260502/42548b3d0328d556f0c6e4f91bd9fe1c47d57498.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
