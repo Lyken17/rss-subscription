@@ -652,5 +652,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260502/11a6d3866e98f03c48fa563443d7c2878eb7cb8c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 加油！中村同学！！ / Ganbare! Nakamura-kun!! - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7281c18b347b21488f96d30379f517b70b1e2fc3</link>
+			<title>[LoliHouse] 加油！中村同学！！ / Ganbare! Nakamura-kun!! - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 加油！中村同学！！ / Ganbare! Nakamura-kun!! - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][536.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7281c18b347b21488f96d30379f517b70b1e2fc3</link>
+				<contentLength>562770752</contentLength>
+				<pubDate>2026-05-02T21:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="562770752" url="https://mikanani.me/Download/20260502/7281c18b347b21488f96d30379f517b70b1e2fc3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
