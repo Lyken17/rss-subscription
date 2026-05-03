@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Alice Raw][アニメBD] 为美好的世界献上祝福！3 この素晴らしい世界に祝福を！3 第01-11话+OVA (3840x2160 x265 FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/d39df0cbea2bd7d789987e588c15da58555bc670</link>
+			<title>[Alice Raw][アニメBD] 为美好的世界献上祝福！3 この素晴らしい世界に祝福を！3 第01-11话+OVA (3840x2160 x265 FLAC)</title>
+			<description>[Alice Raw][アニメBD] 为美好的世界献上祝福！3 この素晴らしい世界に祝福を！3 第01-11话+OVA (3840x2160 x265 FLAC)[17.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d39df0cbea2bd7d789987e588c15da58555bc670</link>
+				<contentLength>18468360192</contentLength>
+				<pubDate>2026-05-04T04:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="18468360192" url="https://mikanani.me/Download/20260504/d39df0cbea2bd7d789987e588c15da58555bc670.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/3a52c6a841b5e29b199a820cd48be0a495186bbe</link>
 			<title>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-03T01:07:11.079</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="433732992" url="https://mikanani.me/Download/20260503/ecf066b68cd9b73a050883c0b30ff199ee1977ac.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 入间同学入魔了！S4 / Mairimashita! Iruma-kun S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/162037cb9ecb1bc03ef33dcaef59218b4f064518</link>
-			<title>[LoliHouse] 入间同学入魔了！S4 / Mairimashita! Iruma-kun S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 入间同学入魔了！S4 / Mairimashita! Iruma-kun S4 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.06 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/162037cb9ecb1bc03ef33dcaef59218b4f064518</link>
-				<contentLength>1138166272</contentLength>
-				<pubDate>2026-05-03T01:07:01.669</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20260503/162037cb9ecb1bc03ef33dcaef59218b4f064518.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
