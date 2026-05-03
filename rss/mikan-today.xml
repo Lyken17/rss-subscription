@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3a52c6a841b5e29b199a820cd48be0a495186bbe</link>
+			<title>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][496.43 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3a52c6a841b5e29b199a820cd48be0a495186bbe</link>
+				<contentLength>520544576</contentLength>
+				<pubDate>2026-05-04T04:26:54.579</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="520544576" url="https://mikanani.me/Download/20260504/3a52c6a841b5e29b199a820cd48be0a495186bbe.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 转生成自动贩卖机的我今天也在迷宫徘徊 第三季 / Jihanki 3rd Season - 05 [CHS][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/7d63ff271284028d51c9aac6d59f371b8be5913a</link>
 			<title>[Skymoon-Raws] 转生成自动贩卖机的我今天也在迷宫徘徊 第三季 / Jihanki 3rd Season - 05 [CHS][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-03T01:07:01.669</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1138166272" url="https://mikanani.me/Download/20260503/162037cb9ecb1bc03ef33dcaef59218b4f064518.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 主播女孩重度依赖 / Needy Girl Overdose - 05 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/e4262c1f5477ea65696073ef74cbe19a6f3a39ab</link>
-			<title>[黒ネズミたち] 主播女孩重度依赖 / Needy Girl Overdose - 05 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 主播女孩重度依赖 / Needy Girl Overdose - 05 (Baha 1920x1080 AVC AAC MP4)[531.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4262c1f5477ea65696073ef74cbe19a6f3a39ab</link>
-				<contentLength>556793856</contentLength>
-				<pubDate>2026-05-03T01:01:35.531664</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="556793856" url="https://mikanani.me/Download/20260503/e4262c1f5477ea65696073ef74cbe19a6f3a39ab.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
