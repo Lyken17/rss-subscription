@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ccfecff47d803a7e690bee4244ca206b8c63bae7</link>
-			<title>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][681.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ccfecff47d803a7e690bee4244ca206b8c63bae7</link>
-				<contentLength>714719872</contentLength>
-				<pubDate>2026-04-28T09:58:36.805</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="714719872" url="https://mikanani.me/Download/20260428/ccfecff47d803a7e690bee4244ca206b8c63bae7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[个人制作合集][LoliHouse] 碧蓝之海 第二季 / Grand Blue S2 - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/c4e5ab52f2bcc1b45349242b5b168badbfb05246</link>
 			<title>[个人制作合集][LoliHouse] 碧蓝之海 第二季 / Grand Blue S2 - 01-12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -555,6 +543,18 @@
 				<pubDate>2026-05-05T07:39:39.296</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1116691456" url="https://mikanani.me/Download/20260505/d378d202a7f8084b602cfa8c6b36324b6dd29a63.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/11fed337219eb5e102c0e5d23281d3076dc045f3</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][772.92 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/11fed337219eb5e102c0e5d23281d3076dc045f3</link>
+				<contentLength>810465344</contentLength>
+				<pubDate>2026-05-05T18:06:24.705</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="810465344" url="https://mikanani.me/Download/20260505/11fed337219eb5e102c0e5d23281d3076dc045f3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
