@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[个人制作合集][Lilith-Raws] 转生就是剑 / Tensei shitara Ken deshita - 01-12 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/1a427fc6161f8365d2dc5ebecb1e8aa3f7ded94e</link>
+			<title>[个人制作合集][Lilith-Raws] 转生就是剑 / Tensei shitara Ken deshita - 01-12 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4]</title>
+			<description>[个人制作合集][Lilith-Raws] 转生就是剑 / Tensei shitara Ken deshita - 01-12 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4][6.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1a427fc6161f8365d2dc5ebecb1e8aa3f7ded94e</link>
+				<contentLength>7301444608</contentLength>
+				<pubDate>2026-05-08T06:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7301444608" url="https://mikanani.me/Download/20260508/1a427fc6161f8365d2dc5ebecb1e8aa3f7ded94e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 萌妻食神之欢喜追婚（日配版） / Cinderella Chef 3rd Season (Japanese Dub) - 08 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/6af5cd97d5c2c389478ea405c7c563c3ab115bed</link>
 			<title>[黒ネズミたち] 萌妻食神之欢喜追婚（日配版） / Cinderella Chef 3rd Season (Japanese Dub) - 08 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-07T00:01:03.024012</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="874512384" url="https://mikanani.me/Download/20260507/253a3e4a3f0d2346519c77b89ebef748621b9112.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Candy Caries /  CANDY CARIES 蛀在糖糖里 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/ea476793a952feccd58a374918f52c1ce40801d0</link>
-			<title>[ANi] Candy Caries /  CANDY CARIES 蛀在糖糖里 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Candy Caries /  CANDY CARIES 蛀在糖糖里 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][79.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ea476793a952feccd58a374918f52c1ce40801d0</link>
-				<contentLength>83361792</contentLength>
-				<pubDate>2026-05-07T00:00:58.35501</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="83361792" url="https://mikanani.me/Download/20260507/ea476793a952feccd58a374918f52c1ce40801d0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
