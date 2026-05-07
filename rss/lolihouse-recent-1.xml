@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/afdc12d42f024d4bf89d637441cac89f3ef6b9f6</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][562.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/afdc12d42f024d4bf89d637441cac89f3ef6b9f6</link>
-				<contentLength>590243456</contentLength>
-				<pubDate>2026-05-06T14:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="590243456" url="https://mikanani.me/Download/20260506/afdc12d42f024d4bf89d637441cac89f3ef6b9f6.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/fdf3a753532f6012615a7d3c74fff502852a3d8c</link>
 			<title>[LoliHouse] 日本三国 / Nippon Sangoku / 日本三国 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -171,6 +159,18 @@
 				<pubDate>2026-05-07T21:20:54.034</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="405725504" url="https://mikanani.me/Download/20260507/98b6e185efad63b4dbc72eaf69a59d94136f1c8c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 31 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c60a34f359c4141e481338c5e3c4d7154d74072a</link>
+			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 31 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 31 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][53MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c60a34f359c4141e481338c5e3c4d7154d74072a</link>
+				<contentLength>55574528</contentLength>
+				<pubDate>2026-05-07T23:35:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="55574528" url="https://mikanani.me/Download/20260507/c60a34f359c4141e481338c5e3c4d7154d74072a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
