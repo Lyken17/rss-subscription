@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][05][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/11d21c0c640ad482e40a235191a697aefdbdfbbb</link>
+			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][05][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][05][1080p][简日双语][378.69 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/11d21c0c640ad482e40a235191a697aefdbdfbbb</link>
+				<contentLength>397085248</contentLength>
+				<pubDate>2026-05-09T03:57:11.51</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397085248" url="https://mikanani.me/Download/20260509/11d21c0c640ad482e40a235191a697aefdbdfbbb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 81 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0fa39834d4fa6d225124eba61557da4ddbff4c89</link>
 			<title>[黒ネズミたち] Nui Story 2 - 81 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-08T00:45:39.606988</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="318137952" url="https://mikanani.me/Download/20260508/ff628dd08985fe64b591057177c2d9d1d29be67c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Petals of Reincarnation /  轮回的花瓣 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e6735d4bd9b23a7aa515a795ae5df0608e652387</link>
-			<title>[ANi] Petals of Reincarnation /  轮回的花瓣 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Petals of Reincarnation /  轮回的花瓣 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][505.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e6735d4bd9b23a7aa515a795ae5df0608e652387</link>
-				<contentLength>529950304</contentLength>
-				<pubDate>2026-05-08T00:31:25.580979</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="529950304" url="https://mikanani.me/Download/20260508/e6735d4bd9b23a7aa515a795ae5df0608e652387.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
