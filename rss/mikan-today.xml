@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 06 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/5a19652b7d3ed29b2d18bedaf7ecf121a0e870fd</link>
+			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 06 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 拉拉熊 / Rilakkuma - 06 (ABEMA 1920x1080 AVC AAC MKV)[44.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5a19652b7d3ed29b2d18bedaf7ecf121a0e870fd</link>
+				<contentLength>46976204</contentLength>
+				<pubDate>2026-05-10T07:35:22.490384</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="46976204" url="https://mikanani.me/Download/20260510/5a19652b7d3ed29b2d18bedaf7ecf121a0e870fd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP06 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
 			<link>https://mikanani.me/Home/Episode/97530d3c3b5cf9a71754a0cd7b76eed9060b56c8</link>
 			<title>迦楠大人的白给是恶魔级 - EP06 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-09T11:44:08.349</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="280410208" url="https://mikanani.me/Download/20260509/855d5d8b2bec761032270b40f93565878b5c9a4b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[GM-Team][国漫][吞噬星空][Swallowed Star][2021][219-222][AVC][GB][1080P]</guid>
-			<link>https://mikanani.me/Home/Episode/35f9f5cded0459ef30ffab5c35191b4ba53d0588</link>
-			<title>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][219-222][AVC][GB][1080P]</title>
-			<description>[GM-Team][国漫][吞噬星空][Swallowed Star][2021][219-222][AVC][GB][1080P][2.83 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/35f9f5cded0459ef30ffab5c35191b4ba53d0588</link>
-				<contentLength>3038689280</contentLength>
-				<pubDate>2026-05-09T11:42:38.173</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3038689280" url="https://mikanani.me/Download/20260509/35f9f5cded0459ef30ffab5c35191b4ba53d0588.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
