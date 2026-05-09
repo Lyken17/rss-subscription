@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[jibaketa合成][代理商粤语]葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 06 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</guid>
+			<link>https://mikanani.me/Home/Episode/5125c4a2a76ff5f5ce3c2d3c0d72fcd40d3ee76b</link>
+			<title>[jibaketa合成][代理商粤语]葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 06 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT MUSE CHT)</title>
+			<description>[jibaketa合成][代理商粤语]葬送的芙莉莲 第二季 / Sousou no Frieren 2nd Season - 06 [粤日双语+内封繁体中文字幕] (WEB 1920x1080 AVC AACx2 SRT MUSE CHT)[686.07 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5125c4a2a76ff5f5ce3c2d3c0d72fcd40d3ee76b</link>
+				<contentLength>719396544</contentLength>
+				<pubDate>2026-05-09T16:07:32.494</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="719396544" url="https://mikanani.me/Download/20260509/5125c4a2a76ff5f5ce3c2d3c0d72fcd40d3ee76b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[NEST] 婚姻剧毒 / マリッジトキシン / Marriage Toxin S01E05 [CR WEB-DL 1080p AVC AAC][简日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/1e1553ea7190bda92c2992a7dac55b94b4a05dfd</link>
 			<title>[NEST] 婚姻剧毒 / マリッジトキシン / Marriage Toxin S01E05 [CR WEB-DL 1080p AVC AAC][简日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-08T10:13:16.505</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="483760544" url="https://mikanani.me/Download/20260508/fa6e84085f763903c9defea2d1a01fb2fa937c6b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 你又被杀了呢，侦探大人 / Mata Korosarete Shimatta no desu ne, Tantei-sama - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/1adf2ea73eede7ea14910f598f32265f37c99285</link>
-			<title>[LoliHouse] 你又被杀了呢，侦探大人 / Mata Korosarete Shimatta no desu ne, Tantei-sama - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 你又被杀了呢，侦探大人 / Mata Korosarete Shimatta no desu ne, Tantei-sama - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][524.58 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1adf2ea73eede7ea14910f598f32265f37c99285</link>
-				<contentLength>550062016</contentLength>
-				<pubDate>2026-05-08T10:13:13.74</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="550062016" url="https://mikanani.me/Download/20260508/1adf2ea73eede7ea14910f598f32265f37c99285.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
