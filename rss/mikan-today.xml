@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[三明治摆烂组] 一叠间漫画咖啡屋生活！ / 一叠间漫画咖啡厅日常 / Ichijyoma Mankitsu Gurashi! / 一畳间まんきつ暮らし！ - 05 - [简繁日内封][HEVC-10bit 1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/fa325b1d5494f10b0d99732c1eba1930e5314f3c</link>
+			<title>[三明治摆烂组] 一叠间漫画咖啡屋生活！ / 一叠间漫画咖啡厅日常 / Ichijyoma Mankitsu Gurashi! / 一畳间まんきつ暮らし！ - 05 - [简繁日内封][HEVC-10bit 1080P]</title>
+			<description>[三明治摆烂组] 一叠间漫画咖啡屋生活！ / 一叠间漫画咖啡厅日常 / Ichijyoma Mankitsu Gurashi! / 一畳间まんきつ暮らし！ - 05 - [简繁日内封][HEVC-10bit 1080P][460.8 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fa325b1d5494f10b0d99732c1eba1930e5314f3c</link>
+				<contentLength>483183808</contentLength>
+				<pubDate>2026-05-11T05:36:22.486221</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="483183808" url="https://mikanani.me/Download/20260511/fa325b1d5494f10b0d99732c1eba1930e5314f3c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][06][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/4d20809ca2e27c77d72fd9134158db0946a50567</link>
 			<title>【喵萌奶茶屋】★04月新番★[春夏秋冬代行者 春之舞 / Shunkashuutou Daikousha - Haru no Mai][06][1080p][繁日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-10T14:21:12.635476</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="463994880" url="https://mikanani.me/Download/20260510/e0fa873efe17c04c3eac1d52711c4a5d337f7997.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 凹凸世界·新生 / AOTU World Reborn - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/18f67e7444efc9572fd8fef4b99c726c374d943f</link>
-			<title>[黒ネズミたち] 凹凸世界·新生 / AOTU World Reborn - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 凹凸世界·新生 / AOTU World Reborn - 01 (B-Global Donghua 1920x1080 HEVC AAC MKV)[410.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/18f67e7444efc9572fd8fef4b99c726c374d943f</link>
-				<contentLength>429916160</contentLength>
-				<pubDate>2026-05-10T14:19:55.957247</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="429916160" url="https://mikanani.me/Download/20260510/18f67e7444efc9572fd8fef4b99c726c374d943f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
