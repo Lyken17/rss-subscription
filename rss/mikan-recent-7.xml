@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">【风之圣殿字幕组】★01月新番[公主殿下 「拷问」的时间到了][22-24][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f0a7e60f7193b33a50d77b687f04d339fb5ac6c7</link>
-			<title>【风之圣殿字幕组】★01月新番[公主殿下 「拷问」的时间到了][22-24][繁体][1080P][MP4]</title>
-			<description>【风之圣殿字幕组】★01月新番[公主殿下 「拷问」的时间到了][22-24][繁体][1080P][MP4][1.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f0a7e60f7193b33a50d77b687f04d339fb5ac6c7</link>
-				<contentLength>1395864320</contentLength>
-				<pubDate>2026-05-04T18:52:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260504/f0a7e60f7193b33a50d77b687f04d339fb5ac6c7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 入间同学入魔了！第四季 / Mairimashita! Iruma-kun 4th Season - 05 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/84487f7ff1ea14202a3e0edc9ffd78d7090bad0e</link>
 			<title>[黒ネズミたち] 入间同学入魔了！第四季 / Mairimashita! Iruma-kun 4th Season - 05 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -8067,6 +8055,18 @@
 				<pubDate>2026-05-11T23:00:42.125491</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="371720192" url="https://mikanani.me/Download/20260511/b90608e6169530064cd3af43ebb7a8d65f9103e5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 09v2 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/7040bd522da49bee467a0868d893ed463c683239</link>
+			<title>[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 09v2 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 怒火鸡头 / Rooster Fighter - 09v2 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][439.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7040bd522da49bee467a0868d893ed463c683239</link>
+				<contentLength>460429728</contentLength>
+				<pubDate>2026-05-12T02:49:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="460429728" url="https://mikanani.me/Download/20260512/7040bd522da49bee467a0868d893ed463c683239.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
