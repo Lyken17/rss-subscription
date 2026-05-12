@@ -173,18 +173,6 @@
 			<enclosure type="application/x-bittorrent" length="441031072" url="https://mikanani.me/Download/20260511/6bbd565591b172927dcf1d402a978892a048fdde.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 入间同学入魔了！第四季 / Mairimashita! Iruma-kun 4th Season - 06 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dfcc8e1e4e335df093844b74e65e5fe56336b5a3</link>
-			<title>[黒ネズミたち] 入间同学入魔了！第四季 / Mairimashita! Iruma-kun 4th Season - 06 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 入间同学入魔了！第四季 / Mairimashita! Iruma-kun 4th Season - 06 (ABEMA 1920x1080 AVC AAC MKV)[750.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfcc8e1e4e335df093844b74e65e5fe56336b5a3</link>
-				<contentLength>786956288</contentLength>
-				<pubDate>2026-05-11T21:01:06.909093</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="786956288" url="https://mikanani.me/Download/20260511/dfcc8e1e4e335df093844b74e65e5fe56336b5a3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★06★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/2739cad955a6ec534896c0f548f12212df2239bd</link>
 			<title>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★06★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1875,6 +1863,18 @@
 				<pubDate>2026-05-13T01:35:37.59438</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="275356064" url="https://mikanani.me/Download/20260513/cfcac3ca0462c81cdefbed003afef539714d1cd1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 05 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/652e9dd292e102c447abc02d155e14ccda9300e7</link>
+			<title>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 05 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 05 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕][788MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/652e9dd292e102c447abc02d155e14ccda9300e7</link>
+				<contentLength>826277888</contentLength>
+				<pubDate>2026-05-13T04:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="826277888" url="https://mikanani.me/Download/20260513/652e9dd292e102c447abc02d155e14ccda9300e7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

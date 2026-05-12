@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 05 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/652e9dd292e102c447abc02d155e14ccda9300e7</link>
+			<title>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 05 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 05 [BILIBILI WebRip 2160p HEVC AAC][简繁内封字幕][788MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/652e9dd292e102c447abc02d155e14ccda9300e7</link>
+				<contentLength>826277888</contentLength>
+				<pubDate>2026-05-13T04:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="826277888" url="https://mikanani.me/Download/20260513/652e9dd292e102c447abc02d155e14ccda9300e7.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 06 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/46021524ca18561031225afb197920c7d49a9e3a</link>
 			<title>[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 06 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-12T11:40:17.392</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496741920" url="https://mikanani.me/Download/20260512/e3fbda06a11b962511249ed56f4642c38cbdb454.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 121 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</guid>
-			<link>https://mikanani.me/Home/Episode/b0f1576fb4022cd60362beaa9761e7096db94b34</link>
-			<title>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 121 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)</title>
-			<description>[jibaketa合成&amp;音频压制][ViuTV粤语]爆旋陀螺X / 战斗陀螺X / 霸旋陀螺 极限突破 - 121 [粤语+内封繁体中文字幕](WEB 1920x1080 AVC AAC SRT+PGS ViuTV YUE CHT)[724.21 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b0f1576fb4022cd60362beaa9761e7096db94b34</link>
-				<contentLength>759389248</contentLength>
-				<pubDate>2026-05-12T11:32:34.928</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="759389248" url="https://mikanani.me/Download/20260512/b0f1576fb4022cd60362beaa9761e7096db94b34.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
