@@ -64,5 +64,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="496741920" url="https://mikanani.me/Download/20260512/e3fbda06a11b962511249ed56f4642c38cbdb454.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/26e8a457b6542e50fd29c74784ca4519be42cb4a</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][653.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/26e8a457b6542e50fd29c74784ca4519be42cb4a</link>
+				<contentLength>685454144</contentLength>
+				<pubDate>2026-05-12T12:59:17.732</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="685454144" url="https://mikanani.me/Download/20260512/26e8a457b6542e50fd29c74784ca4519be42cb4a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
