@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/e3fbda06a11b962511249ed56f4642c38cbdb454</link>
-			<title>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][473.73 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e3fbda06a11b962511249ed56f4642c38cbdb454</link>
-				<contentLength>496741920</contentLength>
-				<pubDate>2026-05-12T11:40:17.392</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="496741920" url="https://mikanani.me/Download/20260512/e3fbda06a11b962511249ed56f4642c38cbdb454.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/26e8a457b6542e50fd29c74784ca4519be42cb4a</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -51,6 +39,18 @@
 				<pubDate>2026-05-13T15:06:52.883</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="737924864" url="https://mikanani.me/Download/20260513/05ff1686f1fb4e7bfe3f69421d5e7036ecdf17bc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/044698fb5c6e458951cca2b735810e9948a4c59c</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][402.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/044698fb5c6e458951cca2b735810e9948a4c59c</link>
+				<contentLength>422156704</contentLength>
+				<pubDate>2026-05-13T19:10:16.374</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="422156704" url="https://mikanani.me/Download/20260513/044698fb5c6e458951cca2b735810e9948a4c59c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
