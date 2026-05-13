@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[TV版&amp;弱弱版&amp;超弱弱版] 弱弱老师 - EP05 [简／繁] (1080p H.264 AAC SRTx2) {よわよわ先生 | Yowayowa Sensei}</guid>
+			<link>https://mikanani.me/Home/Episode/b3ccd16ae44ac3f7ad11bd8337a747591f8eb710</link>
+			<title>[TV版&amp;弱弱版&amp;超弱弱版] 弱弱老师 - EP05 [简／繁] (1080p H.264 AAC SRTx2) {よわよわ先生 | Yowayowa Sensei}</title>
+			<description>[TV版&amp;弱弱版&amp;超弱弱版] 弱弱老师 - EP05 [简／繁] (1080p H.264 AAC SRTx2) {よわよわ先生 | Yowayowa Sensei}[2.09 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b3ccd16ae44ac3f7ad11bd8337a747591f8eb710</link>
+				<contentLength>2244120320</contentLength>
+				<pubDate>2026-05-14T05:55:06.573</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2244120320" url="https://mikanani.me/Download/20260514/b3ccd16ae44ac3f7ad11bd8337a747591f8eb710.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 06 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7c14f089b3413d57bfd4523ddab181f0c3b7260b</link>
 			<title>[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 06 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-13T08:01:52.321228</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="769025664" url="https://mikanani.me/Download/20260513/bafa488c71a66d0f64e9f50bf7a3c86d53f46b51.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 30 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d19062ca0dcf07ca8c4cc8e9d4cef1f6bd5efe41</link>
-			<title>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 30 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 假面骑士 ZEZTZ / Kamen Rider ZEZTZ - 30 (Baha 1920x1080 AVC AAC MP4)[733.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d19062ca0dcf07ca8c4cc8e9d4cef1f6bd5efe41</link>
-				<contentLength>768606208</contentLength>
-				<pubDate>2026-05-13T08:01:06.997824</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="768606208" url="https://mikanani.me/Download/20260513/d19062ca0dcf07ca8c4cc8e9d4cef1f6bd5efe41.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
