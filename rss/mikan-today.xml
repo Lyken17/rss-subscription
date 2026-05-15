@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][06][1080p][简日双语][2026夏季招新见详情]</guid>
+			<link>https://mikanani.me/Home/Episode/4c728a45d2bd635d7e0a75c9464465df3799a6fe</link>
+			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][06][1080p][简日双语][2026夏季招新见详情]</title>
+			<description>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][06][1080p][简日双语][2026夏季招新见详情][402.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4c728a45d2bd635d7e0a75c9464465df3799a6fe</link>
+				<contentLength>422502720</contentLength>
+				<pubDate>2026-05-16T05:01:27.569</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="422502720" url="https://mikanani.me/Download/20260516/4c728a45d2bd635d7e0a75c9464465df3799a6fe.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★07★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/7ddce84df6c96519194cd078f3bdacd2bd0c47b8</link>
 			<title>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★07★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-15T01:05:34.192732</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="47395636" url="https://mikanani.me/Download/20260515/210f4fc414e94f564ab26f30730e3490af213a65.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 07 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6e06fb16e56c6706e367041280eb067f3199a1ae</link>
-			<title>[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 07 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 07 (CR 1920x1080 AVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6e06fb16e56c6706e367041280eb067f3199a1ae</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2026-05-15T01:01:25.73988</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260515/6e06fb16e56c6706e367041280eb067f3199a1ae.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
