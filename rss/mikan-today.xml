@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★07★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/7ddce84df6c96519194cd078f3bdacd2bd0c47b8</link>
+			<title>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★07★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★07★1920x1080★AVC AAC MP4★繁体中文[428MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7ddce84df6c96519194cd078f3bdacd2bd0c47b8</link>
+				<contentLength>448790528</contentLength>
+				<pubDate>2026-05-16T03:42:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="448790528" url="https://mikanani.me/Download/20260516/7ddce84df6c96519194cd078f3bdacd2bd0c47b8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 06 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/590567d8a9e01367764760bfd95b2643b63d4064</link>
 			<title>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 丧失篇 - 06 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-15T01:01:25.73988</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260515/6e06fb16e56c6706e367041280eb067f3199a1ae.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 17 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4c3f2f69d84629cfc9bca87e4f7d30cc7f1cce17</link>
-			<title>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 17 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 17 (ABEMA 1920x1080 AVC AAC MKV)[685.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4c3f2f69d84629cfc9bca87e4f7d30cc7f1cce17</link>
-				<contentLength>719218304</contentLength>
-				<pubDate>2026-05-15T01:01:14.229773</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="719218304" url="https://mikanani.me/Download/20260515/4c3f2f69d84629cfc9bca87e4f7d30cc7f1cce17.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
