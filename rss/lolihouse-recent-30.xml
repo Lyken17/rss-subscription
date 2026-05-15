@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cb40434782d5ad250a6525ff9bb140a891592f05</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][335.97 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cb40434782d5ad250a6525ff9bb140a891592f05</link>
-				<contentLength>352290080</contentLength>
-				<pubDate>2026-04-15T06:16:35.53</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="352290080" url="https://mikanani.me/Download/20260415/cb40434782d5ad250a6525ff9bb140a891592f05.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 淡岛百景 / Awajima Hyakkei - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/aefa70ccfee7fb071f5dba82626cdede0908de59</link>
 			<title>[LoliHouse] 淡岛百景 / Awajima Hyakkei - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3099,6 +3087,18 @@
 				<pubDate>2026-05-15T08:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="646866560" url="https://mikanani.me/Download/20260515/18bc3ed8386ef59bfdd52e1453d1deeb50b9f7ba.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 吞噬魔物的冒险者 / Mamonogurai no Boukensha - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/def0da797f044dcdd883d3989211a2f63185c327</link>
+			<title>[LoliHouse] 吞噬魔物的冒险者 / Mamonogurai no Boukensha - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 吞噬魔物的冒险者 / Mamonogurai no Boukensha - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][457.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/def0da797f044dcdd883d3989211a2f63185c327</link>
+				<contentLength>479304096</contentLength>
+				<pubDate>2026-05-15T17:18:39.25</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="479304096" url="https://mikanani.me/Download/20260515/def0da797f044dcdd883d3989211a2f63185c327.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
