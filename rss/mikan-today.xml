@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP07 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/16aaa41b2287012bc003d490ffd74c58450db121</link>
+			<title>迦楠大人的白给是恶魔级 - EP07 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP07 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/16aaa41b2287012bc003d490ffd74c58450db121</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-05-17T03:10:17.663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260517/16aaa41b2287012bc003d490ffd74c58450db121.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 06 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/01539134481c043bae288a8c0b724b0d3982ef4b</link>
 			<title>[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 06 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-16T09:00:18.995826</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="44983912" url="https://mikanani.me/Download/20260516/82767e731fd4ecd7e5c90d2aa3fc32e1fbebcd19.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【铃风字幕组】【异兽魔都 S2/ドロヘドロ S2】[20][1080P][MKV][繁体外挂]</guid>
-			<link>https://mikanani.me/Home/Episode/23a846d409d442f2387d4d85feeae55f407bbc2e</link>
-			<title>【铃风字幕组】【异兽魔都 S2/ドロヘドロ S2】[20][1080P][MKV][繁体外挂]</title>
-			<description>【铃风字幕组】【异兽魔都 S2/ドロヘドロ S2】[20][1080P][MKV][繁体外挂][579.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/23a846d409d442f2387d4d85feeae55f407bbc2e</link>
-				<contentLength>607691712</contentLength>
-				<pubDate>2026-05-16T08:50:30.533</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="607691712" url="https://mikanani.me/Download/20260516/23a846d409d442f2387d4d85feeae55f407bbc2e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

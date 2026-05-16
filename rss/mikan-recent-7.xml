@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 名侦探柯南 / Detective Conan - 1201 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4d03b209499317bbb91e363733a017ce0e6f81d2</link>
-			<title>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1201 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 名侦探柯南 / Detective Conan - 1201 (CR 1920x1080 AVC AAC MKV)[496.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4d03b209499317bbb91e363733a017ce0e6f81d2</link>
-				<contentLength>520827712</contentLength>
-				<pubDate>2026-05-09T19:31:50.12776</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="520827712" url="https://mikanani.me/Download/20260509/4d03b209499317bbb91e363733a017ce0e6f81d2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi] Yowayowa Sensei /  弱弱老师 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/07719a44e68c0a9979c7953e67fa98233062638a</link>
 			<title>[ANi] Yowayowa Sensei /  弱弱老师 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -9303,6 +9291,18 @@
 				<pubDate>2026-05-17T01:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="37580963840" url="https://mikanani.me/Download/20260517/044c0a85f47d501fa68cb2b73234e658d191a62c.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP07 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/16aaa41b2287012bc003d490ffd74c58450db121</link>
+			<title>迦楠大人的白给是恶魔级 - EP07 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP07 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/16aaa41b2287012bc003d490ffd74c58450db121</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-05-17T03:10:17.663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260517/16aaa41b2287012bc003d490ffd74c58450db121.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
