@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="676729984" url="https://mikanani.me/Download/20260517/7313f1fce58b0c39845f7e25e0c9b1b752225474.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/675087e79b9a5bc0320eaf5e4758e77da3030e01</link>
+			<title>[LoliHouse] MAO摩绪 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][711.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/675087e79b9a5bc0320eaf5e4758e77da3030e01</link>
+				<contentLength>745925504</contentLength>
+				<pubDate>2026-05-17T19:58:19.901</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="745925504" url="https://mikanani.me/Download/20260517/675087e79b9a5bc0320eaf5e4758e77da3030e01.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
