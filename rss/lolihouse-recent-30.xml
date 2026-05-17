@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 一叠间漫画咖啡屋生活！ / Ichijouma Mankitsu Gurashi! - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/c84dcaa3942f3a83fc21c37eb3d653ccb0bf3b52</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 一叠间漫画咖啡屋生活！ / Ichijouma Mankitsu Gurashi! - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 一叠间漫画咖啡屋生活！ / Ichijouma Mankitsu Gurashi! - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][536.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c84dcaa3942f3a83fc21c37eb3d653ccb0bf3b52</link>
-				<contentLength>562246464</contentLength>
-				<pubDate>2026-04-17T09:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="562246464" url="https://mikanani.me/Download/20260417/c84dcaa3942f3a83fc21c37eb3d653ccb0bf3b52.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 淡岛百景 / Awajima Hyakkei - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7d6d122cbed41483a8cd0361e1844438fbb11695</link>
 			<title>[LoliHouse] 淡岛百景 / Awajima Hyakkei - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3003,6 +2991,18 @@
 				<pubDate>2026-05-17T12:39:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="653158016" url="https://mikanani.me/Download/20260517/edf26376842afce074f3b88f693a256f6864727a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 33 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7313f1fce58b0c39845f7e25e0c9b1b752225474</link>
+			<title>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 33 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 33 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][645.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7313f1fce58b0c39845f7e25e0c9b1b752225474</link>
+				<contentLength>676729984</contentLength>
+				<pubDate>2026-05-17T18:51:36.404</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="676729984" url="https://mikanani.me/Download/20260517/7313f1fce58b0c39845f7e25e0c9b1b752225474.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
