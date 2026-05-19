@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 07 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/ad2dd673e7291a746e0fbbf6797f50e1eb8cf319</link>
+			<title>[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 07 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 07 (ABEMA 1920x1080 AVC AAC MKV)[711.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ad2dd673e7291a746e0fbbf6797f50e1eb8cf319</link>
+				<contentLength>745642368</contentLength>
+				<pubDate>2026-05-20T03:00:58.753696</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="745642368" url="https://mikanani.me/Download/20260520/ad2dd673e7291a746e0fbbf6797f50e1eb8cf319.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 淡岛百景 / Awajima Hyakkei - 06 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/71c773c8791f78a4fabba2e974180a36d7d65c87</link>
 			<title>[黒ネズミたち] 淡岛百景 / Awajima Hyakkei - 06 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-18T20:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="283220384" url="https://mikanani.me/Download/20260518/0ab4dd16946a2deb074913248b7f497effd93d05.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【TSDM字幕组】[淡岛百景][Awajima Hyakkei][05][GB][1080P][MP4][简日双语内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/37bca56099cb116d67d5a5abd2759a0958e0a2d7</link>
-			<title>【TSDM字幕组】[淡岛百景][Awajima Hyakkei][05][GB][1080P][MP4][简日双语内嵌]</title>
-			<description>【TSDM字幕组】[淡岛百景][Awajima Hyakkei][05][GB][1080P][MP4][简日双语内嵌][284.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/37bca56099cb116d67d5a5abd2759a0958e0a2d7</link>
-				<contentLength>298529600</contentLength>
-				<pubDate>2026-05-18T20:22:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="298529600" url="https://mikanani.me/Download/20260518/37bca56099cb116d67d5a5abd2759a0958e0a2d7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
