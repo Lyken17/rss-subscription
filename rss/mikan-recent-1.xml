@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 51 END [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</guid>
-			<link>https://mikanani.me/Home/Episode/b3dc501a601302f33d4fc81d9b1c78bb50d46e3d</link>
-			<title>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 51 END [粤语+无字幕][WEB 1920x1080 AVC AAC YUE]</title>
-			<description>[jibaketa合成&amp;音频压制][TVB粤语]秘密的偶像公主 / Himitsu no AiPri - 51 END [粤语+无字幕][WEB 1920x1080 AVC AAC YUE][1.14 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b3dc501a601302f33d4fc81d9b1c78bb50d46e3d</link>
-				<contentLength>1224065664</contentLength>
-				<pubDate>2026-05-22T19:02:34.906</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1224065664" url="https://mikanani.me/Download/20260522/b3dc501a601302f33d4fc81d9b1c78bb50d46e3d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[ANi]  关于我在无意间被隔壁的天使变成废柴这件事 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
 			<link>https://mikanani.me/Home/Episode/5d6d21d47b6f2f5e4db5f9441f617b368232567a</link>
 			<title>[ANi]  关于我在无意间被隔壁的天使变成废柴这件事 2 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
@@ -1875,6 +1863,18 @@
 				<pubDate>2026-05-24T00:30:47.6579</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="229008992" url="https://mikanani.me/Download/20260524/1e596e8e4150223767235c56be05aa1d48f31cee.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/8a04aa0d4fafa7856edcb1a9fc0398b1dd487254</link>
+			<title>迦楠大人的白给是恶魔级 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.47 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a04aa0d4fafa7856edcb1a9fc0398b1dd487254</link>
+				<contentLength>1578400512</contentLength>
+				<pubDate>2026-05-24T03:45:21.281</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1578400512" url="https://mikanani.me/Download/20260524/8a04aa0d4fafa7856edcb1a9fc0398b1dd487254.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

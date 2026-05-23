@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/8a04aa0d4fafa7856edcb1a9fc0398b1dd487254</link>
+			<title>迦楠大人的白给是恶魔级 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.47 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a04aa0d4fafa7856edcb1a9fc0398b1dd487254</link>
+				<contentLength>1578400512</contentLength>
+				<pubDate>2026-05-24T03:45:21.281</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1578400512" url="https://mikanani.me/Download/20260524/8a04aa0d4fafa7856edcb1a9fc0398b1dd487254.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/0adcc9bc80000a1c49d1c8055b9acbed12fac552</link>
 			<title>[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 08 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-23T05:05:34.272</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="494518912" url="https://mikanani.me/Download/20260523/543b0724e125c1e64fbec7ba582b16f3b9432af4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【极影字幕·毁片党】灰原的第二轮青春新游戏 第08集 GB_CN AV1_opus 1080p</guid>
-			<link>https://mikanani.me/Home/Episode/a08f0a2838feb73a09099ef466c2913a1e4e48b2</link>
-			<title>【极影字幕·毁片党】灰原的第二轮青春新游戏 第08集 GB_CN AV1_opus 1080p</title>
-			<description>【极影字幕·毁片党】灰原的第二轮青春新游戏 第08集 GB_CN AV1_opus 1080p[164.48 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a08f0a2838feb73a09099ef466c2913a1e4e48b2</link>
-				<contentLength>172469776</contentLength>
-				<pubDate>2026-05-23T04:41:43.544</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="172469776" url="https://mikanani.me/Download/20260523/a08f0a2838feb73a09099ef466c2913a1e4e48b2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
