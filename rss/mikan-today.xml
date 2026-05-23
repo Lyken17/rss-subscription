@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[NEST] 婚姻剧毒 / マリッジトキシン / Marriage Toxin S01E07 [CR WEB-DL 1080p AVC AAC][简日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/644a9d192431a79abe202fb88e95cdd6c51b6639</link>
+			<title>[NEST] 婚姻剧毒 / マリッジトキシン / Marriage Toxin S01E07 [CR WEB-DL 1080p AVC AAC][简日内封]</title>
+			<description>[NEST] 婚姻剧毒 / マリッジトキシン / Marriage Toxin S01E07 [CR WEB-DL 1080p AVC AAC][简日内封][1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/644a9d192431a79abe202fb88e95cdd6c51b6639</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-05-23T14:11:47.073377</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260523/644a9d192431a79abe202fb88e95cdd6c51b6639.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 将夜 / Ever Night - 06 (B-Global Donghua 1920x832 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4068f39a38669cbcf246a4c423f8d88103c35d74</link>
 			<title>[黒ネズミたち] 将夜 / Ever Night - 06 (B-Global Donghua 1920x832 HEVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-22T01:05:33.438459</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="47605352" url="https://mikanani.me/Download/20260522/8cf5ce864eba21feb867b198a08a84af77c64a93.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 08 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f863383b1fc6c623135d857756d2a8d180fecafd</link>
-			<title>[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 08 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 08 (CR 1920x1080 AVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f863383b1fc6c623135d857756d2a8d180fecafd</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2026-05-22T01:01:19.316331</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260522/f863383b1fc6c623135d857756d2a8d180fecafd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
