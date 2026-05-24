@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/54ee7be28b84fa6e2d37a25bdcf6fb88c1b53fcd</link>
+			<title>[Skymoon-Raws] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][405.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54ee7be28b84fa6e2d37a25bdcf6fb88c1b53fcd</link>
+				<contentLength>424987840</contentLength>
+				<pubDate>2026-05-25T05:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="424987840" url="https://mikanani.me/Download/20260525/54ee7be28b84fa6e2d37a25bdcf6fb88c1b53fcd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 夜樱家大作战 / Yozakurasan Chi no Daisakusen - 34 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/38322180680b661e64b93c22f197947f160d1fed</link>
 			<title>[Skymoon-Raws] 夜樱家大作战 / Yozakurasan Chi no Daisakusen - 34 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-24T14:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20260524/52d2572fec5a4afdf8a18ea5b38ca898f586266f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][32][1080p][繁日字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/bae00ab73dce2a9e0df2ec77ac77d6e720514b1a</link>
-			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][32][1080p][繁日字幕]</title>
-			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][32][1080p][繁日字幕][603.82 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bae00ab73dce2a9e0df2ec77ac77d6e720514b1a</link>
-				<contentLength>633151168</contentLength>
-				<pubDate>2026-05-24T14:11:29.673</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="633151168" url="https://mikanani.me/Download/20260524/bae00ab73dce2a9e0df2ec77ac77d6e720514b1a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
