@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3fb384363af1dbb89dd732ef267406469b33517f</link>
-			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][709.34 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3fb384363af1dbb89dd732ef267406469b33517f</link>
-				<contentLength>743796928</contentLength>
-				<pubDate>2026-05-17T08:58:20.147</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="743796928" url="https://mikanani.me/Download/20260517/3fb384363af1dbb89dd732ef267406469b33517f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 主播女孩重度依赖 / NEEDY GIRL OVERDOSE - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/755dac83ebc1e5ffee63ec461cf43fef3ba5e433</link>
-			<title>[LoliHouse] 主播女孩重度依赖 / NEEDY GIRL OVERDOSE - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 主播女孩重度依赖 / NEEDY GIRL OVERDOSE - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.02 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/755dac83ebc1e5ffee63ec461cf43fef3ba5e433</link>
-				<contentLength>1095216640</contentLength>
-				<pubDate>2026-05-17T08:37:53.634</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1095216640" url="https://mikanani.me/Download/20260517/755dac83ebc1e5ffee63ec461cf43fef3ba5e433.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</guid>
 			<link>https://mikanani.me/Home/Episode/edf26376842afce074f3b88f693a256f6864727a</link>
 			<title>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</title>
@@ -663,6 +639,18 @@
 				<pubDate>2026-05-24T15:02:31.09</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="956500544" url="https://mikanani.me/Download/20260524/4a7e1c9d913f5659ba5ba01ce37fbb444de3bd5e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</guid>
+			<link>https://mikanani.me/Home/Episode/b64a92721cde5aac090c1157db0e47087173df87</link>
+			<title>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</title>
+			<description>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）[525MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b64a92721cde5aac090c1157db0e47087173df87</link>
+				<contentLength>550502400</contentLength>
+				<pubDate>2026-05-24T17:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="550502400" url="https://mikanani.me/Download/20260524/b64a92721cde5aac090c1157db0e47087173df87.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
