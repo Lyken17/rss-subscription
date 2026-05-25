@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[个人制作合集][Lilith-Raws] 入间同学入魔了！ / Mairimashita! Iruma-kun S03 - 01-21 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/8353a1039e40ef7316d018ea52a28a51f2f323a5</link>
+			<title>[个人制作合集][Lilith-Raws] 入间同学入魔了！ / Mairimashita! Iruma-kun S03 - 01-21 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4]</title>
+			<description>[个人制作合集][Lilith-Raws] 入间同学入魔了！ / Mairimashita! Iruma-kun S03 - 01-21 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4][16.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8353a1039e40ef7316d018ea52a28a51f2f323a5</link>
+				<contentLength>17824114688</contentLength>
+				<pubDate>2026-05-25T07:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="17824114688" url="https://mikanani.me/Download/20260525/8353a1039e40ef7316d018ea52a28a51f2f323a5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/54ee7be28b84fa6e2d37a25bdcf6fb88c1b53fcd</link>
 			<title>[Skymoon-Raws] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 19 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-24T15:02:31.09</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="956500544" url="https://mikanani.me/Download/20260524/4a7e1c9d913f5659ba5ba01ce37fbb444de3bd5e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] Love Live Superstar S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/52d2572fec5a4afdf8a18ea5b38ca898f586266f</link>
-			<title>[7³ACG] Love Live Superstar S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[7³ACG] Love Live Superstar S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[5.2GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/52d2572fec5a4afdf8a18ea5b38ca898f586266f</link>
-				<contentLength>5583457280</contentLength>
-				<pubDate>2026-05-24T14:41:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20260524/52d2572fec5a4afdf8a18ea5b38ca898f586266f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
