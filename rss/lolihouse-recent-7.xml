@@ -604,5 +604,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1191853440" url="https://mikanani.me/Download/20260525/c3a61cd24c7fabce0232db5387381181357213b4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9d8823b677b8762466038bcc4c38c742b4723bf8</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 07 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][554.6MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9d8823b677b8762466038bcc4c38c742b4723bf8</link>
+				<contentLength>581540224</contentLength>
+				<pubDate>2026-05-26T09:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="581540224" url="https://mikanani.me/Download/20260526/9d8823b677b8762466038bcc4c38c742b4723bf8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
