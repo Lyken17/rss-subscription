@@ -2800,5 +2800,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="581540224" url="https://mikanani.me/Download/20260526/9d8823b677b8762466038bcc4c38c742b4723bf8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2319395f5d8661ebccf3bc80db08b06f93badd67</link>
+			<title>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][524.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2319395f5d8661ebccf3bc80db08b06f93badd67</link>
+				<contentLength>549831296</contentLength>
+				<pubDate>2026-05-26T14:50:25.18</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="549831296" url="https://mikanani.me/Download/20260526/2319395f5d8661ebccf3bc80db08b06f93badd67.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
