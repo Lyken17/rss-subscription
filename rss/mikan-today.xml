@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★08★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/439d1426593393e7a97982925ee755826deeacfd</link>
+			<title>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★08★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★08★1920x1080★AVC AAC MP4★繁体中文[324.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/439d1426593393e7a97982925ee755826deeacfd</link>
+				<contentLength>339948352</contentLength>
+				<pubDate>2026-05-28T06:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339948352" url="https://mikanani.me/Download/20260528/439d1426593393e7a97982925ee755826deeacfd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 08 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/034de9b100431fbd55c466df6a9a11b0874f6dab</link>
 			<title>[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 08 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-27T16:20:53.197238</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="737568384" url="https://mikanani.me/Download/20260527/e62b9f34a8f00ab587fcd9735e319398ab0dbd93.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[悠哈璃羽字幕社][上伊那牡丹，酒醉身姿似百合花般][03][1080p][CHT]</guid>
-			<link>https://mikanani.me/Home/Episode/7a1b47dda0f7bccf02974f3127186e751774a7aa</link>
-			<title>[悠哈璃羽字幕社][上伊那牡丹，酒醉身姿似百合花般][03][1080p][CHT]</title>
-			<description>[悠哈璃羽字幕社][上伊那牡丹，酒醉身姿似百合花般][03][1080p][CHT][1.91 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7a1b47dda0f7bccf02974f3127186e751774a7aa</link>
-				<contentLength>2050846848</contentLength>
-				<pubDate>2026-05-27T16:13:54.819</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2050846848" url="https://mikanani.me/Download/20260527/7a1b47dda0f7bccf02974f3127186e751774a7aa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
