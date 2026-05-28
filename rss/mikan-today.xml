@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 尖帽子的魔法工坊 / 魔法帽的工作室 / Tongari Boushi no Atelier - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a8bdebee9084aa7ccba15b8f3e52196907226acb</link>
+			<title>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 尖帽子的魔法工坊 / 魔法帽的工作室 / Tongari Boushi no Atelier - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[澄空学园&amp;动漫国字幕组&amp;LoliHouse] 尖帽子的魔法工坊 / 魔法帽的工作室 / Tongari Boushi no Atelier - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][962.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a8bdebee9084aa7ccba15b8f3e52196907226acb</link>
+				<contentLength>1009652864</contentLength>
+				<pubDate>2026-05-29T06:06:05.52</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1009652864" url="https://mikanani.me/Download/20260529/a8bdebee9084aa7ccba15b8f3e52196907226acb.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 萌妻食神之欢喜追婚（日配版） / Cinderella Chef 3rd Season (Japanese Dub) - 11 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0ed0b35fde560817369849eefb1bd0d0df8f0333</link>
 			<title>[黒ネズミたち] 萌妻食神之欢喜追婚（日配版） / Cinderella Chef 3rd Season (Japanese Dub) - 11 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-05-28T00:46:42.261826</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="333027744" url="https://mikanani.me/Download/20260528/397b7d26e0af05cd6f4c8eb9fc67530cfded1c94.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] The Beginning After the End /  终末起点 第 2 季 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/07210fb5c716f023d92c5af430f056119796267e</link>
-			<title>[ANi] The Beginning After the End /  终末起点 第 2 季 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] The Beginning After the End /  终末起点 第 2 季 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][416.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/07210fb5c716f023d92c5af430f056119796267e</link>
-				<contentLength>436941632</contentLength>
-				<pubDate>2026-05-28T00:46:28.718698</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="436941632" url="https://mikanani.me/Download/20260528/07210fb5c716f023d92c5af430f056119796267e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
