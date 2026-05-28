@@ -652,5 +652,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="647390848" url="https://mikanani.me/Download/20260527/86fe8997df3a063d58bc026c8878d1e585121d34.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 欢迎来到实力至上主义的教室 第四季 / Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/488d93c61aaee608056a5d85720fb9555ab6f922</link>
+			<title>[LoliHouse] 欢迎来到实力至上主义的教室 第四季 / Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 欢迎来到实力至上主义的教室 第四季 / Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][465.49 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/488d93c61aaee608056a5d85720fb9555ab6f922</link>
+				<contentLength>488101632</contentLength>
+				<pubDate>2026-05-28T12:45:25.65</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="488101632" url="https://mikanani.me/Download/20260528/488d93c61aaee608056a5d85720fb9555ab6f922.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
