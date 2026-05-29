@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][08][1080p][简日双语][2026夏季招新见详情]</guid>
+			<link>https://mikanani.me/Home/Episode/3d13e87519a81494988d75a869dfeba3e370fa29</link>
+			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][08][1080p][简日双语][2026夏季招新见详情]</title>
+			<description>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][08][1080p][简日双语][2026夏季招新见详情][405.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d13e87519a81494988d75a869dfeba3e370fa29</link>
+				<contentLength>424883008</contentLength>
+				<pubDate>2026-05-30T05:17:58.333</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="424883008" url="https://mikanani.me/Download/20260530/3d13e87519a81494988d75a869dfeba3e370fa29.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★09★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/eb39ee39f1ac39b57859cebb6cc478f4d55964a4</link>
 			<title>六四位元字幕组★自称恶役千金的未婚妻观察纪录 Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku★09★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-05-29T01:00:50.611924</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745537536" url="https://mikanani.me/Download/20260529/22eb138439d9f2ed9129c87c8567f6a3d667ffd3.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] A Hundred Scenes of AWAJIMA /  淡岛百景 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/9b0ad8b91763ad3e6266155ff0861f18cdbdb290</link>
-			<title>[ANi] A Hundred Scenes of AWAJIMA /  淡岛百景 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] A Hundred Scenes of AWAJIMA /  淡岛百景 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][294.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9b0ad8b91763ad3e6266155ff0861f18cdbdb290</link>
-				<contentLength>309120192</contentLength>
-				<pubDate>2026-05-29T00:46:17.394311</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="309120192" url="https://mikanani.me/Download/20260529/9b0ad8b91763ad3e6266155ff0861f18cdbdb290.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
