@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">迦楠大人的白给是恶魔级 - EP09 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</guid>
+			<link>https://mikanani.me/Home/Episode/f1235d80433639642f4072b203f0d8ad6dc9c500</link>
+			<title>迦楠大人的白给是恶魔级 - EP09 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}</title>
+			<description>迦楠大人的白给是恶魔级 - EP09 [简／繁] (1080p H.264 AAC SRTx2) {容易对付的恶魔大人 | カナン様はあくまでチョロい}[1.48 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1235d80433639642f4072b203f0d8ad6dc9c500</link>
+				<contentLength>1589137920</contentLength>
+				<pubDate>2026-05-31T03:23:43.157</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260531/f1235d80433639642f4072b203f0d8ad6dc9c500.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 08 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/aad5e7bdc0b6e13948f1fa055216f895307d7520</link>
 			<title>[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 08 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1155,18 +1167,6 @@
 				<pubDate>2026-05-30T10:55:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3328599552" url="https://mikanani.me/Download/20260530/473db9a7daf44be7b0a7bd73443756854be1cb59.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【TSDM字幕组】[淡岛百景][Awajima Hyakkei][07][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]淡岛百景</guid>
-			<link>https://mikanani.me/Home/Episode/8a23a81746e2fa9c38a4bfc14df5411d58157af4</link>
-			<title>【TSDM字幕组】[淡岛百景][Awajima Hyakkei][07][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]淡岛百景</title>
-			<description>【TSDM字幕组】[淡岛百景][Awajima Hyakkei][07][HEVC-10bit 1080p AAC][MKV][简繁日内封字幕]淡岛百景[249.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8a23a81746e2fa9c38a4bfc14df5411d58157af4</link>
-				<contentLength>261724576</contentLength>
-				<pubDate>2026-05-30T10:44:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="261724576" url="https://mikanani.me/Download/20260530/8a23a81746e2fa9c38a4bfc14df5411d58157af4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
