@@ -148,5 +148,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="652424000" url="https://mikanani.me/Download/20260531/007bbb06ddc4fce642418508ec9f0c8991eea43e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c5eb5bc997518d2cdb1ba54c53c33c98e4c99b7f</link>
+			<title>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 35 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][465.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5eb5bc997518d2cdb1ba54c53c33c98e4c99b7f</link>
+				<contentLength>488227456</contentLength>
+				<pubDate>2026-05-31T20:00:59.366</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="488227456" url="https://mikanani.me/Download/20260531/c5eb5bc997518d2cdb1ba54c53c33c98e4c99b7f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
