@@ -5,6 +5,30 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/fec83a3726f699d6a96b4d09c20e7848c0ce0341</link>
+			<title>[北宇治字幕组] 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][繁日内嵌]</title>
+			<description>[北宇治字幕组] 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][繁日内嵌][379.08 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fec83a3726f699d6a96b4d09c20e7848c0ce0341</link>
+				<contentLength>397494176</contentLength>
+				<pubDate>2026-06-03T06:41:49.803</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397494176" url="https://mikanani.me/Download/20260603/fec83a3726f699d6a96b4d09c20e7848c0ce0341.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/dee240ed9f30b01404c36e4662e73291384ff051</link>
+			<title>[北宇治字幕组] 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][简日内嵌]</title>
+			<description>[北宇治字幕组] 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][简日内嵌][378.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dee240ed9f30b01404c36e4662e73291384ff051</link>
+				<contentLength>397284480</contentLength>
+				<pubDate>2026-06-03T06:41:43.689</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="397284480" url="https://mikanani.me/Download/20260603/dee240ed9f30b01404c36e4662e73291384ff051.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 09 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/d6a27cdf732b9a96df9f3356fbe34fa4a038127c</link>
 			<title>[黒ネズミたち] 轮回的花瓣 / Reincarnation no Kaben - 09 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1179,30 +1203,6 @@
 				<pubDate>2026-06-01T23:01:00.864827</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1054552896" url="https://mikanani.me/Download/20260601/3c66d5eef410cd99cf1367aaa69e29e371cb5780.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 木头风纪委员与辣妹女生 / Ponsuka - 09 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/75d30db4a9b35d59e2781ba09ea2f94ca7ff5207</link>
-			<title>[黒ネズミたち] 木头风纪委员与辣妹女生 / Ponsuka - 09 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 木头风纪委员与辣妹女生 / Ponsuka - 09 (B-Global 1920x1080 HEVC AAC MKV)[278.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/75d30db4a9b35d59e2781ba09ea2f94ca7ff5207</link>
-				<contentLength>291608992</contentLength>
-				<pubDate>2026-06-01T23:00:41.871715</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="291608992" url="https://mikanani.me/Download/20260601/75d30db4a9b35d59e2781ba09ea2f94ca7ff5207.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">魔法帽的工作室「とんがり帽子のアトリエ」Witch Hat Atelier S01E10 1080p 多国字幕</guid>
-			<link>https://mikanani.me/Home/Episode/d0deb47b60f16d45a146755376b4af95af5f0da3</link>
-			<title>魔法帽的工作室「とんがり帽子のアトリエ」Witch Hat Atelier S01E10 1080p 多国字幕</title>
-			<description>魔法帽的工作室「とんがり帽子のアトリエ」Witch Hat Atelier S01E10 1080p 多国字幕[866.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d0deb47b60f16d45a146755376b4af95af5f0da3</link>
-				<contentLength>908695936</contentLength>
-				<pubDate>2026-06-01T22:35:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="908695936" url="https://mikanani.me/Download/20260601/d0deb47b60f16d45a146755376b4af95af5f0da3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
