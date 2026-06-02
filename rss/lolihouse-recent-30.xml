@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4bc83df3aebdfa971c733c0ed06a5d153897f6a6</link>
-			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][761.61 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4bc83df3aebdfa971c733c0ed06a5d153897f6a6</link>
-				<contentLength>798605952</contentLength>
-				<pubDate>2026-05-03T09:40:42.809</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="798605952" url="https://mikanani.me/Download/20260503/4bc83df3aebdfa971c733c0ed06a5d153897f6a6.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/48c9bd7df08a0c94352a355f4ed202f21e03a3ee</link>
 			<title>[LoliHouse] MAO摩绪 - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2727,6 +2715,18 @@
 				<pubDate>2026-06-02T09:08:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="616667520" url="https://mikanani.me/Download/20260602/704a9bf56da3e2119304e8c45a3eae346811f0c0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8ed8f2b2e44eceff0d60ef477a0c2e41969d9102</link>
+			<title>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][558.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8ed8f2b2e44eceff0d60ef477a0c2e41969d9102</link>
+				<contentLength>585629696</contentLength>
+				<pubDate>2026-06-02T17:29:12.407</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="585629696" url="https://mikanani.me/Download/20260602/8ed8f2b2e44eceff0d60ef477a0c2e41969d9102.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
