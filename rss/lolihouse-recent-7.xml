@@ -556,5 +556,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1009894016" url="https://mikanani.me/Download/20260603/cee9d9399e653395a990b08d943b22113ddeace2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 溜掉的大鱼比不上自己钓到的鱼 / Nigetsuri - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/74441af5282d568adb5eef5d704fd5586cf65538</link>
+			<title>[LoliHouse] 溜掉的大鱼比不上自己钓到的鱼 / Nigetsuri - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 溜掉的大鱼比不上自己钓到的鱼 / Nigetsuri - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][522.59 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/74441af5282d568adb5eef5d704fd5586cf65538</link>
+				<contentLength>547975360</contentLength>
+				<pubDate>2026-06-04T11:10:16.953</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="547975360" url="https://mikanani.me/Download/20260604/74441af5282d568adb5eef5d704fd5586cf65538.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
