@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 淡岛百景 / 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/46ee12a7979b80aa00306ffaa2aaf9f85d55af00</link>
+			<title>[北宇治字幕组] 淡岛百景 / 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][简繁日内封]</title>
+			<description>[北宇治字幕组] 淡岛百景 / 淡岛百景 / Awajima Hyakkei [08][WebRip][HEVC_AAC][简繁日内封][368.75 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/46ee12a7979b80aa00306ffaa2aaf9f85d55af00</link>
+				<contentLength>386662400</contentLength>
+				<pubDate>2026-06-10T05:29:11.408</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="386662400" url="https://mikanani.me/Download/20260610/46ee12a7979b80aa00306ffaa2aaf9f85d55af00.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] Love Live！虹咲学园 学园偶像同好会/Love Live! Nijigasaki Gakuen School Idol Doukoukai S01 | 01-13 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/ed20ec4219e1128efa97f50724a1dce9387260fb</link>
 			<title>[7³ACG] Love Live！虹咲学园 学园偶像同好会/Love Live! Nijigasaki Gakuen School Idol Doukoukai S01 | 01-13 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-08T21:48:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="515689664" url="https://mikanani.me/Download/20260608/d750499288bcf002a302c31bcd87f39e3cbdb000.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 女仆小姐的贪吃日常 / Maid-san wa Taberu dake - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/0a26a39da82bb35460ff690ace24c1cba704cf8a</link>
-			<title>[LoliHouse] 女仆小姐的贪吃日常 / Maid-san wa Taberu dake - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 女仆小姐的贪吃日常 / Maid-san wa Taberu dake - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][283.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0a26a39da82bb35460ff690ace24c1cba704cf8a</link>
-				<contentLength>296925280</contentLength>
-				<pubDate>2026-06-08T21:46:12.776</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="296925280" url="https://mikanani.me/Download/20260608/0a26a39da82bb35460ff690ace24c1cba704cf8a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
