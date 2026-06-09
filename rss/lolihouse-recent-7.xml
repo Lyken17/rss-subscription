@@ -652,5 +652,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="296925280" url="https://mikanani.me/Download/20260608/0a26a39da82bb35460ff690ace24c1cba704cf8a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</guid>
+			<link>https://mikanani.me/Home/Episode/9f2b6c16cdd2c20aed19cccf5e0fd66a8c49eff4</link>
+			<title>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)</title>
+			<description>[LoliHouse] 勇者之渣 / Yuusha no Kuzu - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：勇者之屑)[1.34 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f2b6c16cdd2c20aed19cccf5e0fd66a8c49eff4</link>
+				<contentLength>1438814080</contentLength>
+				<pubDate>2026-06-09T22:40:26.329</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1438814080" url="https://mikanani.me/Download/20260609/9f2b6c16cdd2c20aed19cccf5e0fd66a8c49eff4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/759b89f39b3b7d45898a8c576ab948ce99e32de8</link>
+			<title>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 异世界悠闲农家 2 / Isekai Nonbiri Nouka 2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][586.55 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/759b89f39b3b7d45898a8c576ab948ce99e32de8</link>
+				<contentLength>615042240</contentLength>
+				<pubDate>2026-06-09T22:40:12.977</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="615042240" url="https://mikanani.me/Download/20260609/759b89f39b3b7d45898a8c576ab948ce99e32de8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
