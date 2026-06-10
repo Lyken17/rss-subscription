@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★09★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/bee4e5e789df19bab68eb99019fe41959bddba27</link>
+			<title>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★09★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★09★1920x1080★AVC AAC MP4★繁体中文[313.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bee4e5e789df19bab68eb99019fe41959bddba27</link>
+				<contentLength>328414016</contentLength>
+				<pubDate>2026-06-11T04:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="328414016" url="https://mikanani.me/Download/20260611/bee4e5e789df19bab68eb99019fe41959bddba27.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 10 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/3513229406149af52be2653af0f8e6edf7e96262</link>
 			<title>[黒ネズミたち] 仙王的日常生活 第三季 （日配版） / The Daily Life of the Immortal King 3 (JP Dub) - 10 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-10T11:01:11.979846</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="691011584" url="https://mikanani.me/Download/20260610/dd62f253314adc6f87078e34ae9113e60638938d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 全职法师Ⅶ / Full-Time Magister 7th Season - 04 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1b33d511baf1c184c37b6b4135b457355555a18c</link>
-			<title>[黒ネズミたち] 全职法师Ⅶ / Full-Time Magister 7th Season - 04 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 全职法师Ⅶ / Full-Time Magister 7th Season - 04 (CR 1920x1080 AVC AAC MKV)[769.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1b33d511baf1c184c37b6b4135b457355555a18c</link>
-				<contentLength>806669504</contentLength>
-				<pubDate>2026-06-10T10:37:55.810067</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="806669504" url="https://mikanani.me/Download/20260610/1b33d511baf1c184c37b6b4135b457355555a18c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
