@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][273][AVC][GB][1080P]</guid>
+			<link>https://mikanani.me/Home/Episode/e5afcf50ebac615bb32681d042abe6b56a8b1d49</link>
+			<title>[GM-Team][国漫][完美世界][Perfect World][2021][273][AVC][GB][1080P]</title>
+			<description>[GM-Team][国漫][完美世界][Perfect World][2021][273][AVC][GB][1080P][422.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e5afcf50ebac615bb32681d042abe6b56a8b1d49</link>
+				<contentLength>442876544</contentLength>
+				<pubDate>2026-06-13T03:18:35.749</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="442876544" url="https://mikanani.me/Download/20260613/e5afcf50ebac615bb32681d042abe6b56a8b1d49.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 86 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/fa1bab24686b8b9fabdb596481045bf065668067</link>
 			<title>[黒ネズミたち] Nui Story 2 - 86 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-12T01:01:01.39297</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260612/271c90cc49eaf2a0d2d57b41df59ab0ecabc5399.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 楠木邸的神明庭院 / Kami no Niwatsuki Kusunoki-tei - 10 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/99494a50e9ee6f38ae415d38099163259b9ecb6d</link>
-			<title>[黒ネズミたち] 楠木邸的神明庭院 / Kami no Niwatsuki Kusunoki-tei - 10 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 楠木邸的神明庭院 / Kami no Niwatsuki Kusunoki-tei - 10 (ABEMA 1920x1080 AVC AAC MKV)[710.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/99494a50e9ee6f38ae415d38099163259b9ecb6d</link>
-				<contentLength>745432704</contentLength>
-				<pubDate>2026-06-12T01:00:45.583343</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="745432704" url="https://mikanani.me/Download/20260612/99494a50e9ee6f38ae415d38099163259b9ecb6d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
