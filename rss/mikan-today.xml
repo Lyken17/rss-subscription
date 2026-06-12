@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][10][1080p][简日双语][2026夏季招新见详情]</guid>
+			<link>https://mikanani.me/Home/Episode/c188a63f05e75faf4129eba9bb39013e7211b9e3</link>
+			<title>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][10][1080p][简日双语][2026夏季招新见详情]</title>
+			<description>【喵萌奶茶屋】★04月新番★[上伊那牡丹，醉姿如百合 / 上伊那牡丹，酒醉身姿似百合花般 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana][10][1080p][简日双语][2026夏季招新见详情][402.17 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c188a63f05e75faf4129eba9bb39013e7211b9e3</link>
+				<contentLength>421705824</contentLength>
+				<pubDate>2026-06-13T06:13:54.904</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="421705824" url="https://mikanani.me/Download/20260613/c188a63f05e75faf4129eba9bb39013e7211b9e3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][完美世界][Perfect World][2021][273][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/e5afcf50ebac615bb32681d042abe6b56a8b1d49</link>
 			<title>[GM-Team][国漫][完美世界][Perfect World][2021][273][AVC][GB][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-12T01:05:33.333106</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="47500492" url="https://mikanani.me/Download/20260612/a1f71173e2864d63c3ba2ea5d9e197281cf9e0db.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/271c90cc49eaf2a0d2d57b41df59ab0ecabc5399</link>
-			<title>[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 灰原同学重返过去，开启所向无敌的第二轮青春游戏 / Haibara-kun no Tsuyokute Seishun New Game - 11 (CR 1920x1080 AVC AAC MKV)[1.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/271c90cc49eaf2a0d2d57b41df59ab0ecabc5399</link>
-				<contentLength>1073741824</contentLength>
-				<pubDate>2026-06-12T01:01:01.39297</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260612/271c90cc49eaf2a0d2d57b41df59ab0ecabc5399.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
