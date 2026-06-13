@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/4eb8266da1f547fa48a798817ff401ea826f8e2d</link>
+			<title>[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][376.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4eb8266da1f547fa48a798817ff401ea826f8e2d</link>
+				<contentLength>394684000</contentLength>
+				<pubDate>2026-06-14T04:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="394684000" url="https://mikanani.me/Download/20260614/4eb8266da1f547fa48a798817ff401ea826f8e2d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 10 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/ddd172950696813f277ffaf8b3347da9a6ad7bae</link>
 			<title>[黒ネズミたち] 我回来了，他又来打扰了！ / Tadaima, Ojamasaremasu! - 10 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-13T16:07:45.692</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="624238272" url="https://mikanani.me/Download/20260613/4cb34a9c86eab7b7e7b559cf1288b1e83e316c96.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[盲僧压制][龙斗台球][01-52][TV][DVDrip][Ai576p][国语][内嵌简中]</guid>
-			<link>https://mikanani.me/Home/Episode/18a32c716f93d686be4b325f77a5c1c231c01e5a</link>
-			<title>[盲僧压制][龙斗台球][01-52][TV][DVDrip][Ai576p][国语][内嵌简中]</title>
-			<description>[盲僧压制][龙斗台球][01-52][TV][DVDrip][Ai576p][国语][内嵌简中][8.8 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/18a32c716f93d686be4b325f77a5c1c231c01e5a</link>
-				<contentLength>9448928256</contentLength>
-				<pubDate>2026-06-13T15:50:34.75</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9448928256" url="https://mikanani.me/Download/20260613/18a32c716f93d686be4b325f77a5c1c231c01e5a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
