@@ -676,5 +676,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="335932288" url="https://mikanani.me/Download/20260613/d752b91961c239cb43c56c1d60365e5facca1b7e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 北斗神拳 -FIST OF THE NORTH STAR- / Hokuto no Ken: FIST OF THE NORTH STAR - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：北斗之拳)</guid>
+			<link>https://mikanani.me/Home/Episode/3918f147cc87de0605fd3ce2294eea1a646600ed</link>
+			<title>[LoliHouse] 北斗神拳 -FIST OF THE NORTH STAR- / Hokuto no Ken: FIST OF THE NORTH STAR - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：北斗之拳)</title>
+			<description>[LoliHouse] 北斗神拳 -FIST OF THE NORTH STAR- / Hokuto no Ken: FIST OF THE NORTH STAR - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：北斗之拳)[1.45 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3918f147cc87de0605fd3ce2294eea1a646600ed</link>
+				<contentLength>1556925696</contentLength>
+				<pubDate>2026-06-13T14:43:27.382</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1556925696" url="https://mikanani.me/Download/20260613/3918f147cc87de0605fd3ce2294eea1a646600ed.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
