@@ -676,5 +676,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="684929856" url="https://mikanani.me/Download/20260615/a5e4f79f8368a8ab1002a8411d804239e2d1a0f4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 自称恶役大小姐的婚约者观察记录。 / Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b9e86b4c592ab7340dec06ea7e66eb23c4b9f71e</link>
+			<title>[LoliHouse] 自称恶役大小姐的婚约者观察记录。 / Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 自称恶役大小姐的婚约者观察记录。 / Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][502MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9e86b4c592ab7340dec06ea7e66eb23c4b9f71e</link>
+				<contentLength>526385152</contentLength>
+				<pubDate>2026-06-15T00:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="526385152" url="https://mikanani.me/Download/20260615/b9e86b4c592ab7340dec06ea7e66eb23c4b9f71e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
