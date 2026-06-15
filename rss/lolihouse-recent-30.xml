@@ -2752,5 +2752,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="632794624" url="https://mikanani.me/Download/20260615/59b3fedf61ab075b67085a61808efbde4d755b33.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 22 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6a22d57e2cfc0561f5d3d9e1faeab939f18b7bdf</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 22 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 22 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][488.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6a22d57e2cfc0561f5d3d9e1faeab939f18b7bdf</link>
+				<contentLength>512554432</contentLength>
+				<pubDate>2026-06-15T17:16:12.912</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="512554432" url="https://mikanani.me/Download/20260615/6a22d57e2cfc0561f5d3d9e1faeab939f18b7bdf.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
