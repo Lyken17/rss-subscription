@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/59b3fedf61ab075b67085a61808efbde4d755b33</link>
-			<title>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] GHOST CONCERT: 失落之歌 / GHOST CONCERT: missing Songs - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][603.48 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/59b3fedf61ab075b67085a61808efbde4d755b33</link>
-				<contentLength>632794624</contentLength>
-				<pubDate>2026-06-15T10:37:17.946</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="632794624" url="https://mikanani.me/Download/20260615/59b3fedf61ab075b67085a61808efbde4d755b33.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 22 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6a22d57e2cfc0561f5d3d9e1faeab939f18b7bdf</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 22 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -87,6 +75,18 @@
 				<pubDate>2026-06-16T13:38:59.341</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="611487552" url="https://mikanani.me/Download/20260616/cee2ff67e6329a288ca3ed9bfbd1be9512e76b83.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/aa3ff3e25d7f3333a27388a09c2fe38ac12482b5</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][298.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aa3ff3e25d7f3333a27388a09c2fe38ac12482b5</link>
+				<contentLength>312874112</contentLength>
+				<pubDate>2026-06-16T23:45:58.597</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="312874112" url="https://mikanani.me/Download/20260616/aa3ff3e25d7f3333a27388a09c2fe38ac12482b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
