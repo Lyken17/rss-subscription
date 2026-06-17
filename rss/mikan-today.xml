@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 咔嗒咔嗒/Gachiakuta S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/38ec84fcd429fc40a3b2d063774959f3eb1b4655</link>
+			<title>[7³ACG] 咔嗒咔嗒/Gachiakuta S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 咔嗒咔嗒/Gachiakuta S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[18.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/38ec84fcd429fc40a3b2d063774959f3eb1b4655</link>
+				<contentLength>19327352832</contentLength>
+				<pubDate>2026-06-18T06:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19327352832" url="https://mikanani.me/Download/20260618/38ec84fcd429fc40a3b2d063774959f3eb1b4655.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★11★1920x1080★AVC AAC MP4★繁体中文</guid>
 			<link>https://mikanani.me/Home/Episode/878003158cc5f934ae19148b6182eedf46b5b436</link>
 			<title>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★11★1920x1080★AVC AAC MP4★繁体中文</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-17T02:16:13.330294</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="762734208" url="https://mikanani.me/Download/20260617/ebeb89efd27fcfb7a9394e1e6ef86b40f9b20b9e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 女神「异世界转生想成为什么」我「勇者的肋骨」 / Rokkotsu - 11 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/def51368f5f21d50ea170a88d581b03bf5243f81</link>
-			<title>[黒ネズミたち] 女神「异世界转生想成为什么」我「勇者的肋骨」 / Rokkotsu - 11 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 女神「异世界转生想成为什么」我「勇者的肋骨」 / Rokkotsu - 11 (CR 1920x1080 AVC AAC MKV)[1.2 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/def51368f5f21d50ea170a88d581b03bf5243f81</link>
-				<contentLength>1288490240</contentLength>
-				<pubDate>2026-06-17T02:16:07.786577</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1288490240" url="https://mikanani.me/Download/20260617/def51368f5f21d50ea170a88d581b03bf5243f81.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
