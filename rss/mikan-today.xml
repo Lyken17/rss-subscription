@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/d52bd8e78af6793bfea2cb93a7ff22f495b7edad</link>
+			<title>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 上伊那牡丹，醉姿如百合 / Kamiina Botan, Yoeru Sugata wa Yuri no Hana - 11 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][265MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d52bd8e78af6793bfea2cb93a7ff22f495b7edad</link>
+				<contentLength>277872640</contentLength>
+				<pubDate>2026-06-20T05:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="277872640" url="https://mikanani.me/Download/20260620/d52bd8e78af6793bfea2cb93a7ff22f495b7edad.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 冻结地球 / Snowball Earth - 12 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/8d0f8f3b57cd120ff102c75fa04589ad75eff727</link>
 			<title>[Skymoon-Raws] 冻结地球 / Snowball Earth - 12 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-19T03:09:20.198</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="468210144" url="https://mikanani.me/Download/20260619/02a92644b7d269feff929bbae2d684ca11849cf5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 22 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/dfa6a8730e792677e22d914407d12dbd38319e8d</link>
-			<title>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 22 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 勇者之渣 / Yuusha no Kuzu - 22 (ABEMA 1920x1080 AVC AAC MKV)[686.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfa6a8730e792677e22d914407d12dbd38319e8d</link>
-				<contentLength>719427968</contentLength>
-				<pubDate>2026-06-19T02:31:01.147492</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="719427968" url="https://mikanani.me/Download/20260619/dfa6a8730e792677e22d914407d12dbd38319e8d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
