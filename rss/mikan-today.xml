@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/9e03869b4a08d83ccef6283c482e65ec25ebca24</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][310.37 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9e03869b4a08d83ccef6283c482e65ec25ebca24</link>
+				<contentLength>325446528</contentLength>
+				<pubDate>2026-06-24T06:26:33.524</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="325446528" url="https://mikanani.me/Download/20260624/9e03869b4a08d83ccef6283c482e65ec25ebca24.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 枪神 斯坦位元/TRIGUN STAMPEDE S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/729d31c6c9354486be275d452a941b4dab70a8c6</link>
 			<title>[7³ACG] 枪神 斯坦位元/TRIGUN STAMPEDE S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-22T22:02:59.77</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="364432576" url="https://mikanani.me/Download/20260622/92a5ee287151ad825fa19aba0be2a8cac4a1f268.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法帽的工作室 / Tongari Boushi no Atelier - 13 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/9ab3166be613c4569fc015f519242b41800ebe30</link>
-			<title>[黒ネズミたち] 魔法帽的工作室 / Tongari Boushi no Atelier - 13 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 魔法帽的工作室 / Tongari Boushi no Atelier - 13 (CR 1920x1080 AVC AAC MKV)[818.6 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9ab3166be613c4569fc015f519242b41800ebe30</link>
-				<contentLength>858364288</contentLength>
-				<pubDate>2026-06-22T22:02:06.640977</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="858364288" url="https://mikanani.me/Download/20260622/9ab3166be613c4569fc015f519242b41800ebe30.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
