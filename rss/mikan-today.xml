@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★12(完)★1920x1080★AVC AAC MP4★繁体中文</guid>
+			<link>https://mikanani.me/Home/Episode/a7755aaaf34f7d3854218c13eb6ac6d62ea59e8c</link>
+			<title>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★12(完)★1920x1080★AVC AAC MP4★繁体中文</title>
+			<description>六四位元字幕组★哪里有温柔对待阿宅的辣妹！？ Otaku ni Yasashii Gal wa Inai★12(完)★1920x1080★AVC AAC MP4★繁体中文[277.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a7755aaaf34f7d3854218c13eb6ac6d62ea59e8c</link>
+				<contentLength>291294400</contentLength>
+				<pubDate>2026-06-25T05:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="291294400" url="https://mikanani.me/Download/20260625/a7755aaaf34f7d3854218c13eb6ac6d62ea59e8c.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] Bad Girl 不良少女/Bad Girl S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/e8ec8a244262a09d5ef2b6b4cd4c8b7c47998e3b</link>
 			<title>[7³ACG] Bad Girl 不良少女/Bad Girl S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-24T00:01:42.648561</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="491677280" url="https://mikanani.me/Download/20260624/75787c5c943225fc0ddd8e21d87a5960dc83a655.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ [中文配音] - 35 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/e4de180df4f2de21b32fb866655f35087944f61c</link>
-			<title>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ [中文配音] - 35 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ [中文配音] - 35 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][662.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4de180df4f2de21b32fb866655f35087944f61c</link>
-				<contentLength>694996160</contentLength>
-				<pubDate>2026-06-24T00:01:21.338552</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="694996160" url="https://mikanani.me/Download/20260624/e4de180df4f2de21b32fb866655f35087944f61c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
