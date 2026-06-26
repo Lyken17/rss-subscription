@@ -64,5 +64,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="776564928" url="https://mikanani.me/Download/20260626/cc2ea6556131cb10bf4caa4a1ee15ccd4f2f3c73.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 淡岛百景 / Awajima Hyakkei - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/3d0cf68fb66f7f35544fbdceaf837e82883e2fe3</link>
+			<title>[LoliHouse] 淡岛百景 / Awajima Hyakkei - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 淡岛百景 / Awajima Hyakkei - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][643.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d0cf68fb66f7f35544fbdceaf837e82883e2fe3</link>
+				<contentLength>674486016</contentLength>
+				<pubDate>2026-06-27T01:49:50.213</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="674486016" url="https://mikanani.me/Download/20260627/3d0cf68fb66f7f35544fbdceaf837e82883e2fe3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
