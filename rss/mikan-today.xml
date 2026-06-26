@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Alice Raw][アニメ] 一叠间漫画咖啡厅日常 一畳间まんきつ暮らし！ 第01-11话 (3840x2160 x265 AAC)</guid>
+			<link>https://mikanani.me/Home/Episode/7378df42d6053f47262e38f2506c252a18a319db</link>
+			<title>[Alice Raw][アニメ] 一叠间漫画咖啡厅日常 一畳间まんきつ暮らし！ 第01-11话 (3840x2160 x265 AAC)</title>
+			<description>[Alice Raw][アニメ] 一叠间漫画咖啡厅日常 一畳间まんきつ暮らし！ 第01-11话 (3840x2160 x265 AAC)[13.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7378df42d6053f47262e38f2506c252a18a319db</link>
+				<contentLength>14280766464</contentLength>
+				<pubDate>2026-06-27T05:57:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="14280766464" url="https://mikanani.me/Download/20260627/7378df42d6053f47262e38f2506c252a18a319db.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 冻结地球 / Snowball Earth - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/8b7f9763544a173a02a0f47979cfed976b79035b</link>
 			<title>[Skymoon-Raws] 冻结地球 / Snowball Earth - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-25T23:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="265394592" url="https://mikanani.me/Download/20260625/abac6d043234207184b6a275c15e7958e3bb5b70.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[千夏字幕组][上伊那牡丹，醉姿如百合_Kamiina Botan, Yoeru Sugata wa Yuri no Hana][第08话][1080p_HEVC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/031794ba137f1d9ba4c98c79af176ea30ee18d31</link>
-			<title>[千夏字幕组][上伊那牡丹，醉姿如百合_Kamiina Botan, Yoeru Sugata wa Yuri no Hana][第08话][1080p_HEVC][简繁内封]</title>
-			<description>[千夏字幕组][上伊那牡丹，醉姿如百合_Kamiina Botan, Yoeru Sugata wa Yuri no Hana][第08话][1080p_HEVC][简繁内封][405.6MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/031794ba137f1d9ba4c98c79af176ea30ee18d31</link>
-				<contentLength>425302432</contentLength>
-				<pubDate>2026-06-25T23:30:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="425302432" url="https://mikanani.me/Download/20260625/031794ba137f1d9ba4c98c79af176ea30ee18d31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
