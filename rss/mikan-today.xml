@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 淡岛百景 / 淡岛百景 / Awajima Hyakkei [11][WebRip][HEVC_AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/2b50be0eb59d264f63c5528c28eb9b8245add61a</link>
+			<title>[北宇治字幕组] 淡岛百景 / 淡岛百景 / Awajima Hyakkei [11][WebRip][HEVC_AAC][简繁日内封]</title>
+			<description>[北宇治字幕组] 淡岛百景 / 淡岛百景 / Awajima Hyakkei [11][WebRip][HEVC_AAC][简繁日内封][393.36 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2b50be0eb59d264f63c5528c28eb9b8245add61a</link>
+				<contentLength>412467840</contentLength>
+				<pubDate>2026-06-28T05:24:59.717</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="412467840" url="https://mikanani.me/Download/20260628/2b50be0eb59d264f63c5528c28eb9b8245add61a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 女高中生的虚度日常/Joshikousei no Mudazukai S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/a7019ee9cab6d13fb7cfd64d3e6b93a77217dc40</link>
 			<title>[7³ACG] 女高中生的虚度日常/Joshikousei no Mudazukai S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-27T02:22:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="361653856" url="https://mikanani.me/Download/20260627/56b3de0c4dc9033875dd23cb555cb5e0879cf13b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【豌豆字幕组】[关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken S4][12(84)][繁体][1080P][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/bd3e7970f260ea4c8aee7304702899a48c85e121</link>
-			<title>【豌豆字幕组】[关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken S4][12(84)][繁体][1080P][MP4]</title>
-			<description>【豌豆字幕组】[关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken S4][12(84)][繁体][1080P][MP4][432.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bd3e7970f260ea4c8aee7304702899a48c85e121</link>
-				<contentLength>453551072</contentLength>
-				<pubDate>2026-06-27T02:18:23.994</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="453551072" url="https://mikanani.me/Download/20260627/bd3e7970f260ea4c8aee7304702899a48c85e121.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
