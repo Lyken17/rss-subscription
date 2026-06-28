@@ -604,5 +604,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="568663744" url="https://mikanani.me/Download/20260628/24fe1aa35f507c2edc30492d44309e7d913f91f9.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1afbad0691a4d99be7530cc11908ea7d6cb9f67d</link>
+			<title>[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][683.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1afbad0691a4d99be7530cc11908ea7d6cb9f67d</link>
+				<contentLength>716607296</contentLength>
+				<pubDate>2026-06-29T00:27:31.689</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="716607296" url="https://mikanani.me/Download/20260629/1afbad0691a4d99be7530cc11908ea7d6cb9f67d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
