@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 16 [IQIYI WebRip 2160p NVENC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0fddd5a093047de9b09031fd5fe2244368538f8f</link>
+			<title>[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 16 [IQIYI WebRip 2160p NVENC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 欢迎来到实力至上主义教室 第四季 - 16 [IQIYI WebRip 2160p NVENC AAC][简繁内封字幕][804.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0fddd5a093047de9b09031fd5fe2244368538f8f</link>
+				<contentLength>843159936</contentLength>
+				<pubDate>2026-06-30T04:16:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="843159936" url="https://mikanani.me/Download/20260630/0fddd5a093047de9b09031fd5fe2244368538f8f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/cafbc489b9a954557c5a12625292471779e907da</link>
 			<title>[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-28T16:32:00.567184</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="530474592" url="https://mikanani.me/Download/20260628/4c0f0f173260a35179365bc92f3a41d53be4a4a0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Tsue to Tsurugi no Wistoria /  杖与剑的魔剑谭 Season 2 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/6cbce0f2292d8f41fdeffa25bde8b140d6ecff64</link>
-			<title>[ANi] Tsue to Tsurugi no Wistoria /  杖与剑的魔剑谭 Season 2 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Tsue to Tsurugi no Wistoria /  杖与剑的魔剑谭 Season 2 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][394.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6cbce0f2292d8f41fdeffa25bde8b140d6ecff64</link>
-				<contentLength>413453504</contentLength>
-				<pubDate>2026-06-28T16:31:24.127157</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="413453504" url="https://mikanani.me/Download/20260628/6cbce0f2292d8f41fdeffa25bde8b140d6ecff64.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
