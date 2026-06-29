@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/cafbc489b9a954557c5a12625292471779e907da</link>
+			<title>[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[8.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cafbc489b9a954557c5a12625292471779e907da</link>
+				<contentLength>9234180096</contentLength>
+				<pubDate>2026-06-30T02:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9234180096" url="https://mikanani.me/Download/20260630/cafbc489b9a954557c5a12625292471779e907da.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 库吉马唱歌的家 / Kujima Utaeba Ie Hororo - 12 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/132e15386b09b0b009707acd25e807d0e5d8df13</link>
 			<title>[黒ネズミたち] 库吉马唱歌的家 / Kujima Utaeba Ie Hororo - 12 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-28T16:31:24.127157</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="413453504" url="https://mikanani.me/Download/20260628/6cbce0f2292d8f41fdeffa25bde8b140d6ecff64.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 夜樱家大作战 第二季 / Yozakura-san Chi no Daisakusen 2nd Season - 39 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/8ffd5801a2198eddf246d09113d3fc8acdd2242f</link>
-			<title>[黒ネズミたち] 夜樱家大作战 第二季 / Yozakura-san Chi no Daisakusen 2nd Season - 39 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 夜樱家大作战 第二季 / Yozakura-san Chi no Daisakusen 2nd Season - 39 (Baha 1920x1080 AVC AAC MP4)[505.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8ffd5801a2198eddf246d09113d3fc8acdd2242f</link>
-				<contentLength>529845440</contentLength>
-				<pubDate>2026-06-28T16:31:02.738739</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="529845440" url="https://mikanani.me/Download/20260628/8ffd5801a2198eddf246d09113d3fc8acdd2242f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

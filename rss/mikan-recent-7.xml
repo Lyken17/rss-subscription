@@ -6508,5 +6508,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745013248" url="https://mikanani.me/Download/20260629/8eddda312c7ca0e29b93969a117be30014afdea5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/cafbc489b9a954557c5a12625292471779e907da</link>
+			<title>[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 流星之双子/Darker than BLACK S02 | 01-12+SPx4 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[8.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cafbc489b9a954557c5a12625292471779e907da</link>
+				<contentLength>9234180096</contentLength>
+				<pubDate>2026-06-30T02:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9234180096" url="https://mikanani.me/Download/20260630/cafbc489b9a954557c5a12625292471779e907da.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
