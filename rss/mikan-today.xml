@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 剧场版赛马娘Pretty Derby：新时代之门/Uma Musume Pretty Derby: Shinjidai no Tobira 2024 [简繁字幕] BDrip 720p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/9f4e1b2dab12caabe73e31f34cf1b7fbb74e97cf</link>
+			<title>[7³ACG] 剧场版赛马娘Pretty Derby：新时代之门/Uma Musume Pretty Derby: Shinjidai no Tobira 2024 [简繁字幕] BDrip 720p x265 OPUS 2.0</title>
+			<description>[7³ACG] 剧场版赛马娘Pretty Derby：新时代之门/Uma Musume Pretty Derby: Shinjidai no Tobira 2024 [简繁字幕] BDrip 720p x265 OPUS 2.0[5.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9f4e1b2dab12caabe73e31f34cf1b7fbb74e97cf</link>
+				<contentLength>5583457280</contentLength>
+				<pubDate>2026-07-01T04:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5583457280" url="https://mikanani.me/Download/20260701/9f4e1b2dab12caabe73e31f34cf1b7fbb74e97cf.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 淡岛百景 / Awajima Hyakkei - 12 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/1703ac3f741b1402ff60a764e2fd9979adf0dcf0</link>
 			<title>[黒ネズミたち] 淡岛百景 / Awajima Hyakkei - 12 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-06-29T19:54:14.136816</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="19649474560" url="https://mikanani.me/Download/20260629/dd9f43e5f059c08080c5dbdd01ee3ff588b0009b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 辉夜姬想让人告白－永不结束的初吻－/Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai S01 | 01-04 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/8da8d0cfb84c7a093adcc3ea1402f37f57473c4f</link>
-			<title>[7³ACG] 辉夜姬想让人告白－永不结束的初吻－/Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai S01 | 01-04 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[7³ACG] 辉夜姬想让人告白－永不结束的初吻－/Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai S01 | 01-04 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[2.3GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8da8d0cfb84c7a093adcc3ea1402f37f57473c4f</link>
-				<contentLength>2469606144</contentLength>
-				<pubDate>2026-06-29T19:54:08.967676</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2469606144" url="https://mikanani.me/Download/20260629/8da8d0cfb84c7a093adcc3ea1402f37f57473c4f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
