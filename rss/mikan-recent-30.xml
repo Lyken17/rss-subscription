@@ -30580,5 +30580,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1556925696" url="https://mikanani.me/Download/20260702/e95b278458e98be920acd1735b59b3938b54a158.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 异兽魔都/Dorohedoro S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/ce24c38c75918d38edd1681eb8bcdd1f0ea0fd57</link>
+			<title>[7³ACG] 异兽魔都/Dorohedoro S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 异兽魔都/Dorohedoro S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0[12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce24c38c75918d38edd1681eb8bcdd1f0ea0fd57</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2026-07-03T02:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20260703/ce24c38c75918d38edd1681eb8bcdd1f0ea0fd57.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

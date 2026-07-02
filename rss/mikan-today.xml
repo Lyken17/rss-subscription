@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 异兽魔都/Dorohedoro S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/ce24c38c75918d38edd1681eb8bcdd1f0ea0fd57</link>
+			<title>[7³ACG] 异兽魔都/Dorohedoro S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 异兽魔都/Dorohedoro S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0[12.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ce24c38c75918d38edd1681eb8bcdd1f0ea0fd57</link>
+				<contentLength>13743895552</contentLength>
+				<pubDate>2026-07-03T02:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="13743895552" url="https://mikanani.me/Download/20260703/ce24c38c75918d38edd1681eb8bcdd1f0ea0fd57.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 少女怪兽焦糖恋心 / Otome Kaijuu Caraméliser - 01 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/dc885bbe94d0e4abfb0f601b4bd611bedb31aaab</link>
 			<title>[黒ネズミたち] 少女怪兽焦糖恋心 / Otome Kaijuu Caraméliser - 01 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-02T00:01:19.500943</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="703594496" url="https://mikanani.me/Download/20260702/b25567ded4dab0cfa85671f6df8bf9c7a2786fbb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Candy Caries /  CANDY CARIES 蛀在糖糖里 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/1349b1a9caefb4381f297db6dd624daae157e524</link>
-			<title>[ANi] Candy Caries /  CANDY CARIES 蛀在糖糖里 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Candy Caries /  CANDY CARIES 蛀在糖糖里 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][68.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1349b1a9caefb4381f297db6dd624daae157e524</link>
-				<contentLength>72246888</contentLength>
-				<pubDate>2026-07-02T00:01:06.335811</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="72246888" url="https://mikanani.me/Download/20260702/1349b1a9caefb4381f297db6dd624daae157e524.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
