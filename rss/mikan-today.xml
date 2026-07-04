@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/1e160f66e793e1ccf431d87ac0331abe29b7d081</link>
+			<title>[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][448.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1e160f66e793e1ccf431d87ac0331abe29b7d081</link>
+				<contentLength>470496064</contentLength>
+				<pubDate>2026-07-05T05:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="470496064" url="https://mikanani.me/Download/20260705/1e160f66e793e1ccf431d87ac0331abe29b7d081.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 暗黑灯火 / Black Torch - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/cfc4a4dbbba9b8dd50687a166f545547d979e4d9</link>
 			<title>[Skymoon-Raws] 暗黑灯火 / Black Torch - 01 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-04T05:06:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="351272960" url="https://mikanani.me/Download/20260704/0914ae8f1524ab7c09c2d9a96f910862aa27af52.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 12 [BILIBILI WebRip 2160p NVENC AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8139954265daaedac6e24aef7ef4034b59b1b91e</link>
-			<title>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 12 [BILIBILI WebRip 2160p NVENC AAC][简繁内封字幕]</title>
-			<description>[沸班亚马制作组] 杖与剑的魔剑谭 第二季 - 12 [BILIBILI WebRip 2160p NVENC AAC][简繁内封字幕][1.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8139954265daaedac6e24aef7ef4034b59b1b91e</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2026-07-04T04:45:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260704/8139954265daaedac6e24aef7ef4034b59b1b91e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
