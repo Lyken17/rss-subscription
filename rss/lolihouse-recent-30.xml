@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 溜掉的大鱼比不上自己钓到的鱼 / Nigetsuri - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/74441af5282d568adb5eef5d704fd5586cf65538</link>
-			<title>[LoliHouse] 溜掉的大鱼比不上自己钓到的鱼 / Nigetsuri - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 溜掉的大鱼比不上自己钓到的鱼 / Nigetsuri - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][522.59 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/74441af5282d568adb5eef5d704fd5586cf65538</link>
-				<contentLength>547975360</contentLength>
-				<pubDate>2026-06-04T11:10:16.953</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="547975360" url="https://mikanani.me/Download/20260604/74441af5282d568adb5eef5d704fd5586cf65538.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 钻石王牌 act2 第二季 / Ace of Diamond Act II S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e9a15c871b6de45bbe76b3566fafb6fb59e4f563</link>
 			<title>[LoliHouse] 钻石王牌 act2 第二季 / Ace of Diamond Act II S2 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2475,6 +2463,18 @@
 				<pubDate>2026-07-04T02:53:03.988</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="605447808" url="https://mikanani.me/Download/20260704/55992287610f1a502d0d0dbeb1fd9dd493fb9366.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/00da4ce7179dc89cfd77033ca94caa082414e7b2</link>
+			<title>[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
+			<description>[LoliHouse] 婚姻剧毒 / 婚姻剧毒 / マリッジトキシン / Marriagetoxin [01-13 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin][7.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/00da4ce7179dc89cfd77033ca94caa082414e7b2</link>
+				<contentLength>7516192768</contentLength>
+				<pubDate>2026-07-04T17:38:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7516192768" url="https://mikanani.me/Download/20260704/00da4ce7179dc89cfd77033ca94caa082414e7b2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
