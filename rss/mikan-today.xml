@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 拉拉熊 / Rilakkuma - 14 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/b9ca00dec017a0abf0749c672cdcea606adf4afc</link>
+			<title>[黒ネズミたち] 拉拉熊 / Rilakkuma - 14 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 拉拉熊 / Rilakkuma - 14 (ABEMA 1920x1080 AVC AAC MKV)[45.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b9ca00dec017a0abf0749c672cdcea606adf4afc</link>
+				<contentLength>47185920</contentLength>
+				<pubDate>2026-07-05T07:35:34.487118</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47185920" url="https://mikanani.me/Download/20260705/b9ca00dec017a0abf0749c672cdcea606adf4afc.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/1e160f66e793e1ccf431d87ac0331abe29b7d081</link>
 			<title>[Skymoon-Raws] 黄泉双使 (黄泉使者) / Daemons of the Shadow Realm - 13 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-04T07:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="425407296" url="https://mikanani.me/Download/20260704/017668dafe07b21bb26353aa4d1e5f8fd78a45dd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken S04 - 85 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
-			<link>https://mikanani.me/Home/Episode/0914ae8f1524ab7c09c2d9a96f910862aa27af52</link>
-			<title>[Skymoon-Raws] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken S04 - 85 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
-			<description>[Skymoon-Raws] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken S04 - 85 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][335MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0914ae8f1524ab7c09c2d9a96f910862aa27af52</link>
-				<contentLength>351272960</contentLength>
-				<pubDate>2026-07-04T05:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="351272960" url="https://mikanani.me/Download/20260704/0914ae8f1524ab7c09c2d9a96f910862aa27af52.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
