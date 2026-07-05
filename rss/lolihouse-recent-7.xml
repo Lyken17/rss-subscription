@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</guid>
-			<link>https://mikanani.me/Home/Episode/3d0caf3e125c4ecc910709822c929afdf95bedd1</link>
-			<title>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）</title>
-			<description>[SweetSub&amp;LoliHouse] 小书痴的下克上 领主的养女 / Honzuki no Gekokujou S04 - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（第四季）[534.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3d0caf3e125c4ecc910709822c929afdf95bedd1</link>
-				<contentLength>560149312</contentLength>
-				<pubDate>2026-06-28T18:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="560149312" url="https://mikanani.me/Download/20260628/3d0caf3e125c4ecc910709822c929afdf95bedd1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 39 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/55d2f8f10544a2da6563ab4ea5b243269919bb82</link>
-			<title>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 39 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 夜樱家的大作战 第二季 / Yozakura-san Chi no Daisakusen Season 2 - 39 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][613.49 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/55d2f8f10544a2da6563ab4ea5b243269919bb82</link>
-				<contentLength>643290880</contentLength>
-				<pubDate>2026-06-28T18:22:06.965</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="643290880" url="https://mikanani.me/Download/20260628/55d2f8f10544a2da6563ab4ea5b243269919bb82.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 13 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ef33ad28b25b8f00618f796b98866c20856e35b6</link>
 			<title>[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 13 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -675,6 +651,18 @@
 				<pubDate>2026-07-06T00:24:08.414</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="433575680" url="https://mikanani.me/Download/20260706/3ab4145bf1ec4cf22362b41dc61473ed8a603826.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 才女的侍从 / Saijo no Osewa - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/237aecaa3b705e0da8388957bd387dfe3e8320cc</link>
+			<title>[LoliHouse] 才女的侍从 / Saijo no Osewa - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 才女的侍从 / Saijo no Osewa - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][245.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/237aecaa3b705e0da8388957bd387dfe3e8320cc</link>
+				<contentLength>257425408</contentLength>
+				<pubDate>2026-07-06T03:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="257425408" url="https://mikanani.me/Download/20260706/237aecaa3b705e0da8388957bd387dfe3e8320cc.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
