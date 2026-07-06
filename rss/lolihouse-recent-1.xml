@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 猫与龙 / Neko to Ryuu - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5f99c5943ef1c2adbff40da042d4f9fff34458ac</link>
-			<title>[LoliHouse] 猫与龙 / Neko to Ryuu - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 猫与龙 / Neko to Ryuu - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][713.51 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5f99c5943ef1c2adbff40da042d4f9fff34458ac</link>
-				<contentLength>748169472</contentLength>
-				<pubDate>2026-07-05T14:48:35.393</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="748169472" url="https://mikanani.me/Download/20260705/5f99c5943ef1c2adbff40da042d4f9fff34458ac.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/41a653f1e640768eb443d2a29d711bac7ec4ecc9</link>
 			<title>[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -195,6 +183,18 @@
 				<pubDate>2026-07-06T19:32:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="824285568" url="https://mikanani.me/Download/20260706/cc8ca32b2d89f18aca570d1d40ce1fad30f8a582.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6c58c8c1b9033dba7c9e9d3cfe9d59e705241f37</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][800.93 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6c58c8c1b9033dba7c9e9d3cfe9d59e705241f37</link>
+				<contentLength>839835968</contentLength>
+				<pubDate>2026-07-06T23:32:35.987</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="839835968" url="https://mikanani.me/Download/20260706/6c58c8c1b9033dba7c9e9d3cfe9d59e705241f37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
