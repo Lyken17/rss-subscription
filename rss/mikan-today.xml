@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[碧蓝航线 微速前进 二 / Azur Lane - Bisoku Zenshin! S2][01][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/9946026f56758fbc50fcb817e693316560363ea1</link>
+			<title>【喵萌奶茶屋】★07月新番★[碧蓝航线 微速前进 二 / Azur Lane - Bisoku Zenshin! S2][01][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[碧蓝航线 微速前进 二 / Azur Lane - Bisoku Zenshin! S2][01][1080p][简日双语][169.42 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9946026f56758fbc50fcb817e693316560363ea1</link>
+				<contentLength>177649744</contentLength>
+				<pubDate>2026-07-07T05:53:52.23</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="177649744" url="https://mikanani.me/Download/20260707/9946026f56758fbc50fcb817e693316560363ea1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 辉夜姬想让人告白～天才们的恋爱头脑战～/Kaguya-sama wa Kokurasetai S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/060a470dc2db9d80432acbf6af76a81ea6b2e492</link>
 			<title>[7³ACG] 辉夜姬想让人告白～天才们的恋爱头脑战～/Kaguya-sama wa Kokurasetai S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-05T23:00:46.597</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1202590848" url="https://mikanani.me/Download/20260705/841361a8ee05ded6a6e0f3bc5abf785ca3650504.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 23 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/2bef6122892d951f0520be5bcd096232051b6291</link>
-			<title>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 23 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</title>
-			<description>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 23 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)[904.44 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2bef6122892d951f0520be5bcd096232051b6291</link>
-				<contentLength>948374080</contentLength>
-				<pubDate>2026-07-05T23:00:17.107</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="948374080" url="https://mikanani.me/Download/20260705/2bef6122892d951f0520be5bcd096232051b6291.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
