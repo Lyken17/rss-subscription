@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 25 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/92f664f1fde76faaa067bb112771baa0210b133f</link>
+			<title>[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 25 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV]</title>
+			<description>[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 25 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV][418MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/92f664f1fde76faaa067bb112771baa0210b133f</link>
+				<contentLength>438304768</contentLength>
+				<pubDate>2026-07-07T02:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="438304768" url="https://mikanani.me/Download/20260707/92f664f1fde76faaa067bb112771baa0210b133f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] LIAR GAME - 诈欺游戏 / Liar Game - 14 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/9c06bfcd0b034350313c7dfd41f3c9dfea67c8a3</link>
 			<title>[黒ネズミたち] LIAR GAME - 诈欺游戏 / Liar Game - 14 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-05T22:31:02.393927</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="748473536" url="https://mikanani.me/Download/20260705/3021b33ca6f55e461c61e3b08f510b82abc00d26.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[jibaketa合成&amp;压制][TVB粤语]少女煮意日常 / 岁月流逝饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 11 [粤语+无字幕][BD 1920x1080 x264 AAC YUE]</guid>
-			<link>https://mikanani.me/Home/Episode/59363faddd6ed36a51d0c644e9ac80c766deb3af</link>
-			<title>[jibaketa合成&amp;压制][TVB粤语]少女煮意日常 / 岁月流逝饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 11 [粤语+无字幕][BD 1920x1080 x264 AAC YUE]</title>
-			<description>[jibaketa合成&amp;压制][TVB粤语]少女煮意日常 / 岁月流逝饭菜依旧美味 / Hibi wa Sugiredo Meshi Umashi - 11 [粤语+无字幕][BD 1920x1080 x264 AAC YUE][1.07 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/59363faddd6ed36a51d0c644e9ac80c766deb3af</link>
-				<contentLength>1148903808</contentLength>
-				<pubDate>2026-07-05T22:18:31.802</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1148903808" url="https://mikanani.me/Download/20260705/59363faddd6ed36a51d0c644e9ac80c766deb3af.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
