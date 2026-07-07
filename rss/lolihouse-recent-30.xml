@@ -2380,5 +2380,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="859224128" url="https://mikanani.me/Download/20260707/00c435a98c504941bf30960d3a396b05df88eb33.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/56464e7c51b6fe26d4b68ffe53840735353ff753</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][739.78 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/56464e7c51b6fe26d4b68ffe53840735353ff753</link>
+				<contentLength>775715584</contentLength>
+				<pubDate>2026-07-08T06:18:01.382</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="775715584" url="https://mikanani.me/Download/20260708/56464e7c51b6fe26d4b68ffe53840735353ff753.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
