@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi - 01 [WebRip 1080p HEVC-10bit AAC][无中字]</guid>
-			<link>https://mikanani.me/Home/Episode/2fccd29e131b745318fd15a4180dc2b205db59b7</link>
-			<title>[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi - 01 [WebRip 1080p HEVC-10bit AAC][无中字]</title>
-			<description>[LoliHouse] 最强废渣皇子暗中活跃于帝位之争 / Degarashi Ouji no Anyaku Teii Arasoi - 01 [WebRip 1080p HEVC-10bit AAC][无中字][383MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2fccd29e131b745318fd15a4180dc2b205db59b7</link>
-				<contentLength>401604608</contentLength>
-				<pubDate>2026-07-07T10:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401604608" url="https://mikanani.me/Download/20260707/2fccd29e131b745318fd15a4180dc2b205db59b7.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/56464e7c51b6fe26d4b68ffe53840735353ff753</link>
 			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -63,6 +51,18 @@
 				<pubDate>2026-07-08T10:43:45.804</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="231441696" url="https://mikanani.me/Download/20260708/f0fb62aec754fd4f3baeddeb2efad2357a44467a.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 13 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/14c4dc5fed81ed9e93ce085ae380858ba6cb75a4</link>
+			<title>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 13 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 13 [WebRip 1080p HEVC-10bit AAC][无字幕][902.38 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/14c4dc5fed81ed9e93ce085ae380858ba6cb75a4</link>
+				<contentLength>946214016</contentLength>
+				<pubDate>2026-07-08T17:14:40.107</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="946214016" url="https://mikanani.me/Download/20260708/14c4dc5fed81ed9e93ce085ae380858ba6cb75a4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
