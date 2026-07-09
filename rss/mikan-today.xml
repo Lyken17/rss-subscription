@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 元祖！BanG Dream Chan / Ganso! Bandori-chan - 40 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/4ee25aa10698158f48270f712ca2c04a27ce2390</link>
+			<title>[黒ネズミたち] 元祖！BanG Dream Chan / Ganso! Bandori-chan - 40 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 元祖！BanG Dream Chan / Ganso! Bandori-chan - 40 (ABEMA 1920x1080 AVC AAC MKV)[45.4 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4ee25aa10698158f48270f712ca2c04a27ce2390</link>
+				<contentLength>47605352</contentLength>
+				<pubDate>2026-07-10T07:00:31.690236</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="47605352" url="https://mikanani.me/Download/20260710/4ee25aa10698158f48270f712ca2c04a27ce2390.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 我不受欢迎，怎么想都是你们的错！/Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/4ced5a1e1a9bdb8369de59f46d93964ae78a0e41</link>
 			<title>[7³ACG] 我不受欢迎，怎么想都是你们的错！/Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-10T02:11:43.80214</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="733583744" url="https://mikanani.me/Download/20260710/d453539f5207ba057fe6e0ce7f94bcf5e824ab07.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] 梅比乌斯之尘 / メビウス・ダスト / Mebius Dust S01E01 [CR WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/f69d9fc6f8232b4130e949f7cf0d8dc279a8a34e</link>
-			<title>[Nix-Raws] 梅比乌斯之尘 / メビウス・ダスト / Mebius Dust S01E01 [CR WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] 梅比乌斯之尘 / メビウス・ダスト / Mebius Dust S01E01 [CR WEB-DL 1080p AVC AAC][简繁内封][1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f69d9fc6f8232b4130e949f7cf0d8dc279a8a34e</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2026-07-10T02:11:17.918691</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260710/f69d9fc6f8232b4130e949f7cf0d8dc279a8a34e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
