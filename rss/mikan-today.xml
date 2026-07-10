@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 吸血鬼之爱/Vlad Love S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/40dfd0d11eae1c1dc8a3c40ae5e0606cf90a745e</link>
+			<title>[7³ACG] 吸血鬼之爱/Vlad Love S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 吸血鬼之爱/Vlad Love S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[8.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40dfd0d11eae1c1dc8a3c40ae5e0606cf90a745e</link>
+				<contentLength>9448928256</contentLength>
+				<pubDate>2026-07-11T05:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9448928256" url="https://mikanani.me/Download/20260711/40dfd0d11eae1c1dc8a3c40ae5e0606cf90a745e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Nix-Raws] 乙女游戏世界对路人角色很不友好 第二季 / Otomege Sekai wa Mob ni Kibishii Sekai desu S02E01 [CR WEB-DL 1080p AVC AAC][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/03dbc5b248b0df5d48f0ee347f3d8b3d8b42f793</link>
 			<title>[Nix-Raws] 乙女游戏世界对路人角色很不友好 第二季 / Otomege Sekai wa Mob ni Kibishii Sekai desu S02E01 [CR WEB-DL 1080p AVC AAC][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-10T02:22:30.398929</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260710/2cd63e345cf1103178f80ae95a3151f25dc24e3c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] 落第贤者的学院无双 第二回转生，S等级作弊魔术师冒险记 / Rakudai Kenja no Gakuin Musou Nidome no Tensei S01E01 [CR WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/259d9a3e71b0cf2ed7e006416cc1fb999957b077</link>
-			<title>[Nix-Raws] 落第贤者的学院无双 第二回转生，S等级作弊魔术师冒险记 / Rakudai Kenja no Gakuin Musou Nidome no Tensei S01E01 [CR WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] 落第贤者的学院无双 第二回转生，S等级作弊魔术师冒险记 / Rakudai Kenja no Gakuin Musou Nidome no Tensei S01E01 [CR WEB-DL 1080p AVC AAC][简繁内封][1.48 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/259d9a3e71b0cf2ed7e006416cc1fb999957b077</link>
-				<contentLength>1589137920</contentLength>
-				<pubDate>2026-07-10T02:22:28.539514</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260710/259d9a3e71b0cf2ed7e006416cc1fb999957b077.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
