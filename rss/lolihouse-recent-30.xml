@@ -2536,5 +2536,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="425092704" url="https://mikanani.me/Download/20260711/e23373038c3fe841224125ebe45a8af701a96c26.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 入间同学入魔了！S4 / Mairimashita! Iruma-kun S4 - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1fd0c43244ef886504bae8a5e0f1f0b6106367d7</link>
+			<title>[LoliHouse] 入间同学入魔了！S4 / Mairimashita! Iruma-kun S4 - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 入间同学入魔了！S4 / Mairimashita! Iruma-kun S4 - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][991.95 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1fd0c43244ef886504bae8a5e0f1f0b6106367d7</link>
+				<contentLength>1040134976</contentLength>
+				<pubDate>2026-07-12T01:46:54.26</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1040134976" url="https://mikanani.me/Download/20260712/1fd0c43244ef886504bae8a5e0f1f0b6106367d7.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
