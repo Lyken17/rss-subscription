@@ -784,5 +784,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1040134976" url="https://mikanani.me/Download/20260712/1fd0c43244ef886504bae8a5e0f1f0b6106367d7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 幼女战记II / Youjo Senki II - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)</guid>
+			<link>https://mikanani.me/Home/Episode/8bcbe90b9580815e42da94fe66163276b031ad54</link>
+			<title>[LoliHouse] 幼女战记II / Youjo Senki II - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)</title>
+			<description>[LoliHouse] 幼女战记II / Youjo Senki II - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)[713.69 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8bcbe90b9580815e42da94fe66163276b031ad54</link>
+				<contentLength>748358208</contentLength>
+				<pubDate>2026-07-12T01:58:56.798</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="748358208" url="https://mikanani.me/Download/20260712/8bcbe90b9580815e42da94fe66163276b031ad54.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
