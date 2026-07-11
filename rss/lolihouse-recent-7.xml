@@ -724,5 +724,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="479304096" url="https://mikanani.me/Download/20260711/adcdb994ebc39316f96b0603bd5ac2b0a483f6c4.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / 透明な夜に駆ける君と、目に见えない恋をした。 / KakeKoi - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7c344bba642fba5145c7dc27bcd9b09456f6dce0</link>
+			<title>[LoliHouse] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / 透明な夜に駆ける君と、目に见えない恋をした。 / KakeKoi - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / 透明な夜に駆ける君と、目に见えない恋をした。 / KakeKoi - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][295.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7c344bba642fba5145c7dc27bcd9b09456f6dce0</link>
+				<contentLength>309854208</contentLength>
+				<pubDate>2026-07-11T16:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="309854208" url="https://mikanani.me/Download/20260711/7c344bba642fba5145c7dc27bcd9b09456f6dce0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
