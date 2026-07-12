@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">铁锅料理王「鉄锅のジャン！」Iron Wok Jan S01E02 1080p 多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/6165679ad2ddd36aa16bc363e0ac44683e62d89f</link>
+			<title>铁锅料理王「鉄锅のジャン！」Iron Wok Jan S01E02 1080p 多国字幕</title>
+			<description>铁锅料理王「鉄锅のジャン！」Iron Wok Jan S01E02 1080p 多国字幕[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6165679ad2ddd36aa16bc363e0ac44683e62d89f</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-07-12T19:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260712/6165679ad2ddd36aa16bc363e0ac44683e62d89f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">咒术回战 粤日双语.Jujutsu.Kaisen.1080p.BDRip.S1+S2+S3 TV.MOVIE.FLAC.TrueHD.AAC</guid>
 			<link>https://mikanani.me/Home/Episode/3072e637aae645a2c924ffb5a9d958b39c1b2797</link>
 			<title>咒术回战 粤日双语.Jujutsu.Kaisen.1080p.BDRip.S1+S2+S3 TV.MOVIE.FLAC.TrueHD.AAC</title>
@@ -1203,18 +1215,6 @@
 				<pubDate>2026-07-12T00:04:12.083156</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260712/cb354abb8571189f688f7b2ec7aa399728607d8e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Tenmaku no Jādūgar /  穹庐下的魔女 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/b4801376683f8dd4454c70ac829dfcdc0b5e5b85</link>
-			<title>[ANi] Tenmaku no Jādūgar /  穹庐下的魔女 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Tenmaku no Jādūgar /  穹庐下的魔女 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][1.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b4801376683f8dd4454c70ac829dfcdc0b5e5b85</link>
-				<contentLength>1610612736</contentLength>
-				<pubDate>2026-07-12T00:02:06.920615</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260712/b4801376683f8dd4454c70ac829dfcdc0b5e5b85.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
