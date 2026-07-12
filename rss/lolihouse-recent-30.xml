@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/05da99c551caef6fd3d1d9cbff8adc70ca8f2faa</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria - 21 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][716.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/05da99c551caef6fd3d1d9cbff8adc70ca8f2faa</link>
-				<contentLength>751262784</contentLength>
-				<pubDate>2026-06-12T16:36:48.244</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="751262784" url="https://mikanani.me/Download/20260612/05da99c551caef6fd3d1d9cbff8adc70ca8f2faa.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/efefa3a17241281ddf68c55f6891cb9b8fe5b2a5</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 杀手青春 / KILL BLUE / Kill Ao - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -2631,6 +2619,18 @@
 				<pubDate>2026-07-12T23:20:10.419</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="441880416" url="https://mikanani.me/Download/20260712/d75cc07536560839016fd323b5d37f6628cf0e85.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/566922c81a1afcbe7515fcfe863edcb330d8a3ed</link>
+			<title>[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][575.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/566922c81a1afcbe7515fcfe863edcb330d8a3ed</link>
+				<contentLength>603874944</contentLength>
+				<pubDate>2026-07-13T00:26:56.971</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="603874944" url="https://mikanani.me/Download/20260713/566922c81a1afcbe7515fcfe863edcb330d8a3ed.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
