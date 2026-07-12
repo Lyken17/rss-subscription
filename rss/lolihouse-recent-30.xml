@@ -2620,5 +2620,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="725258048" url="https://mikanani.me/Download/20260712/435afa18d5cbda623adc0bb6000eccfeb0aacaae.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d75cc07536560839016fd323b5d37f6628cf0e85</link>
+			<title>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][421.41 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d75cc07536560839016fd323b5d37f6628cf0e85</link>
+				<contentLength>441880416</contentLength>
+				<pubDate>2026-07-12T23:20:10.419</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="441880416" url="https://mikanani.me/Download/20260712/d75cc07536560839016fd323b5d37f6628cf0e85.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
