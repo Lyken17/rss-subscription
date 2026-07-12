@@ -9556,5 +9556,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="402967744" url="https://mikanani.me/Download/20260713/d27119efe1e20f8f2a5a92aadc3af596b6a55621.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/f5c5cdcaafb5ac70ad1cf98181d294a344f9c84d</link>
+			<title>[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][繁日内嵌]</title>
+			<description>[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][繁日内嵌][600.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f5c5cdcaafb5ac70ad1cf98181d294a344f9c84d</link>
+				<contentLength>629250432</contentLength>
+				<pubDate>2026-07-13T04:09:44.293426</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="629250432" url="https://mikanani.me/Download/20260713/f5c5cdcaafb5ac70ad1cf98181d294a344f9c84d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/227c29c8037484aaef71505c787cc51c1b3b9ed6</link>
+			<title>[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][简日内嵌]</title>
+			<description>[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][简日内嵌][600.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/227c29c8037484aaef71505c787cc51c1b3b9ed6</link>
+				<contentLength>629355328</contentLength>
+				<pubDate>2026-07-13T04:09:35.866075</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="629355328" url="https://mikanani.me/Download/20260713/227c29c8037484aaef71505c787cc51c1b3b9ed6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
