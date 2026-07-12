@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 【我推的孩子】/Oshi no Ko S01 | 25-35 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/54f5e1aa28238c36081e4b79183e24e3a57e80d5</link>
+			<title>[7³ACG] 【我推的孩子】/Oshi no Ko S01 | 25-35 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 【我推的孩子】/Oshi no Ko S01 | 25-35 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/54f5e1aa28238c36081e4b79183e24e3a57e80d5</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-07-13T05:17:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260713/54f5e1aa28238c36081e4b79183e24e3a57e80d5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/f5c5cdcaafb5ac70ad1cf98181d294a344f9c84d</link>
 			<title>[绿茶字幕组] 穹庐下的魔女 / Tenmaku no Jaadugar [03][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-12T15:14:03.826</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="690728448" url="https://mikanani.me/Download/20260712/7ce71095eeff81fd46722dedfcfa8bf2100fd681.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][38][1080p][繁日字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/ffa989aab73a659ffcb3a5d5dd24e472930c3d2a</link>
-			<title>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][38][1080p][繁日字幕]</title>
-			<description>【驯兽师联盟】数码宝贝/数码暴龙/数码兽BEATBREAK[DIGIMON BEATBREAK][38][1080p][繁日字幕][568.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ffa989aab73a659ffcb3a5d5dd24e472930c3d2a</link>
-				<contentLength>596010624</contentLength>
-				<pubDate>2026-07-12T15:01:17.59</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="596010624" url="https://mikanani.me/Download/20260712/ffa989aab73a659ffcb3a5d5dd24e472930c3d2a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
