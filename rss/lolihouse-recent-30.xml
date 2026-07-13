@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 关于我在无意间被隔壁的天使变成废柴这件事 第二季 / Otonari no Tenshi-sama S2 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d752b91961c239cb43c56c1d60365e5facca1b7e</link>
-			<title>[LoliHouse] 关于我在无意间被隔壁的天使变成废柴这件事 第二季 / Otonari no Tenshi-sama S2 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 关于我在无意间被隔壁的天使变成废柴这件事 第二季 / Otonari no Tenshi-sama S2 - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][320.37 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d752b91961c239cb43c56c1d60365e5facca1b7e</link>
-				<contentLength>335932288</contentLength>
-				<pubDate>2026-06-13T00:40:28.511</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="335932288" url="https://mikanani.me/Download/20260613/d752b91961c239cb43c56c1d60365e5facca1b7e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 北斗神拳 -FIST OF THE NORTH STAR- / Hokuto no Ken: FIST OF THE NORTH STAR - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：北斗之拳)</guid>
 			<link>https://mikanani.me/Home/Episode/3918f147cc87de0605fd3ce2294eea1a646600ed</link>
 			<title>[LoliHouse] 北斗神拳 -FIST OF THE NORTH STAR- / Hokuto no Ken: FIST OF THE NORTH STAR - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：北斗之拳)</title>
@@ -2631,6 +2619,18 @@
 				<pubDate>2026-07-13T06:20:29.349</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="792733952" url="https://mikanani.me/Download/20260713/af80bcbc8662cb43eed02803ceb8e47cf1a7e887.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3b649c2a2008eec37c47248c5dc7923c7a392053</link>
+			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][659.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b649c2a2008eec37c47248c5dc7923c7a392053</link>
+				<contentLength>691745600</contentLength>
+				<pubDate>2026-07-13T08:46:25.416</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="691745600" url="https://mikanani.me/Download/20260713/3b649c2a2008eec37c47248c5dc7923c7a392053.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
