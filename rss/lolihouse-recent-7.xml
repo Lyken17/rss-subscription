@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f7575c9e07850dda74d024c604656d3b590468db</link>
-			<title>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][321MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f7575c9e07850dda74d024c604656d3b590468db</link>
-				<contentLength>336592896</contentLength>
-				<pubDate>2026-07-06T21:36:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="336592896" url="https://mikanani.me/Download/20260706/f7575c9e07850dda74d024c604656d3b590468db.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6c58c8c1b9033dba7c9e9d3cfe9d59e705241f37</link>
 			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -771,6 +759,18 @@
 				<pubDate>2026-07-13T21:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358717856" url="https://mikanani.me/Download/20260713/9b43c46d0b5d832e28ef37d9277acb0136cda48d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ca00909ec67a56a1975ac2e402518d3dad120c93</link>
+			<title>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][377.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ca00909ec67a56a1975ac2e402518d3dad120c93</link>
+				<contentLength>396256864</contentLength>
+				<pubDate>2026-07-14T04:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="396256864" url="https://mikanani.me/Download/20260714/ca00909ec67a56a1975ac2e402518d3dad120c93.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
