@@ -160,5 +160,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="401709472" url="https://mikanani.me/Download/20260715/85f4e17c607da45c7829ceff24b6716a3ec1b389.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 靠死亡游戏混饭吃。44:CLOUDY BEACH / 死亡游戯で饭を食う。44:CLOUDY BEACH [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f6d7e09e1bd963da001766c73e0c10b166d26770</link>
+			<title>[LoliHouse] 靠死亡游戏混饭吃。44:CLOUDY BEACH / 死亡游戯で饭を食う。44:CLOUDY BEACH [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 靠死亡游戏混饭吃。44:CLOUDY BEACH / 死亡游戯で饭を食う。44:CLOUDY BEACH [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.6GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f6d7e09e1bd963da001766c73e0c10b166d26770</link>
+				<contentLength>1717986944</contentLength>
+				<pubDate>2026-07-15T09:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1717986944" url="https://mikanani.me/Download/20260715/f6d7e09e1bd963da001766c73e0c10b166d26770.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
