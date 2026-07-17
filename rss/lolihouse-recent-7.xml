@@ -892,5 +892,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435421184" url="https://mikanani.me/Download/20260717/a1bacad64129411532d147af906cb39da5a85482.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a56e69cd58cc1a62fe0496b9878f7936ead39540</link>
+			<title>[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][650.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a56e69cd58cc1a62fe0496b9878f7936ead39540</link>
+				<contentLength>681784128</contentLength>
+				<pubDate>2026-07-17T17:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="681784128" url="https://mikanani.me/Download/20260717/a56e69cd58cc1a62fe0496b9878f7936ead39540.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
