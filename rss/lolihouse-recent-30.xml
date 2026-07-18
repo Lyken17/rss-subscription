@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4a322e8b5f46c32ef13fd186d08858ed6bfb38e3</link>
-			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 37 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][39.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4a322e8b5f46c32ef13fd186d08858ed6bfb38e3</link>
-				<contentLength>41733324</contentLength>
-				<pubDate>2026-06-18T22:10:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="41733324" url="https://mikanani.me/Download/20260618/4a322e8b5f46c32ef13fd186d08858ed6bfb38e3.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 吞噬魔物的冒险者 / Mamonogurai no Boukensha - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/03ce5636d88f2e2b0b4a752ee0519b42edea35f8</link>
 			<title>[LoliHouse] 吞噬魔物的冒险者 / Mamonogurai no Boukensha - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -2763,6 +2751,18 @@
 				<pubDate>2026-07-19T00:18:21.796</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="714908608" url="https://mikanani.me/Download/20260719/9a2cdd300cb1fe73fe90f8da53ce9e6db6c83279.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/19d72923e1e1abddafac530e892c3558418979e4</link>
+			<title>[LoliHouse] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][554.7 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19d72923e1e1abddafac530e892c3558418979e4</link>
+				<contentLength>581645120</contentLength>
+				<pubDate>2026-07-19T06:28:53.536</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="581645120" url="https://mikanani.me/Download/20260719/19d72923e1e1abddafac530e892c3558418979e4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
