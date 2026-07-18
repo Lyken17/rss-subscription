@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 41 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cb7e3f70118d7c0619bbb1eaf33f0ffdaec6ce6c</link>
-			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 41 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 41 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][42.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cb7e3f70118d7c0619bbb1eaf33f0ffdaec6ce6c</link>
-				<contentLength>44983912</contentLength>
-				<pubDate>2026-07-17T07:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="44983912" url="https://mikanani.me/Download/20260717/cb7e3f70118d7c0619bbb1eaf33f0ffdaec6ce6c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a1bacad64129411532d147af906cb39da5a85482</link>
 			<title>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -123,6 +111,18 @@
 				<pubDate>2026-07-18T10:23:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="587517120" url="https://mikanani.me/Download/20260718/7b18372e78040bbb0f5b7ac03b7c3dd6629abed0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 描绘直至生命尽头 / 画完这个就去死 / 画完这个再去死 / これ描いて死ね / Kore Kaite Shine - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕] v2</guid>
+			<link>https://mikanani.me/Home/Episode/b8424d179063445c60bb7eca67152083bf3515eb</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 描绘直至生命尽头 / 画完这个就去死 / 画完这个再去死 / これ描いて死ね / Kore Kaite Shine - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕] v2</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 描绘直至生命尽头 / 画完这个就去死 / 画完这个再去死 / これ描いて死ね / Kore Kaite Shine - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕] v2[538.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b8424d179063445c60bb7eca67152083bf3515eb</link>
+				<contentLength>564553344</contentLength>
+				<pubDate>2026-07-18T13:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="564553344" url="https://mikanani.me/Download/20260718/b8424d179063445c60bb7eca67152083bf3515eb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
