@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 24 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</guid>
-			<link>https://mikanani.me/Home/Episode/202994e02316416e17fa499e00739a43051bf06a</link>
-			<title>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 24 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)</title>
-			<description>[LoliHouse] 名侦探光之美少女♪ / Star Detective Precure! - 24 [WebRip 1080p HEVC-10bit AAC][无字幕](检索用：Q娃)[866.33 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/202994e02316416e17fa499e00739a43051bf06a</link>
-				<contentLength>908412864</contentLength>
-				<pubDate>2026-07-12T15:14:07.496</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="908412864" url="https://mikanani.me/Download/20260712/202994e02316416e17fa499e00739a43051bf06a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/7ce71095eeff81fd46722dedfcfa8bf2100fd681</link>
-			<title>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 数码宝贝BEATBREAK / DIGIMON BEATBREAK - 38 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][658.73 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/7ce71095eeff81fd46722dedfcfa8bf2100fd681</link>
-				<contentLength>690728448</contentLength>
-				<pubDate>2026-07-12T15:14:03.826</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="690728448" url="https://mikanani.me/Download/20260712/7ce71095eeff81fd46722dedfcfa8bf2100fd681.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 15 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/855f9ff0b588f4f21982e6c7cac99a9359885edb</link>
 			<title>[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 15 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
@@ -855,6 +831,18 @@
 				<pubDate>2026-07-19T20:26:40.493</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="683608640" url="https://mikanani.me/Download/20260719/a5f6be8c88c0383f60c4ba2ad5fc3169201344b2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 16 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b6afb70377344707c81ac1c6a45cd23d50ad3bcd</link>
+			<title>[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 16 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 16 [WebRip 1080p HEVC-10bit AAC][无字幕][1.26 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b6afb70377344707c81ac1c6a45cd23d50ad3bcd</link>
+				<contentLength>1352914688</contentLength>
+				<pubDate>2026-07-19T23:24:40.929</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1352914688" url="https://mikanani.me/Download/20260719/b6afb70377344707c81ac1c6a45cd23d50ad3bcd.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
