@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/515fba1c7048cd85bd841ece0177526df04f3cd5</link>
+			<title>[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
+			<description>[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][469MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/515fba1c7048cd85bd841ece0177526df04f3cd5</link>
+				<contentLength>491782144</contentLength>
+				<pubDate>2026-07-21T06:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="491782144" url="https://mikanani.me/Download/20260721/515fba1c7048cd85bd841ece0177526df04f3cd5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 世界在起舞 / The World Is Dancing [03][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/7c02b6327b3b0516d91196f6b61e98c5bf9ca038</link>
 			<title>[绿茶字幕组] 世界在起舞 / The World Is Dancing [03][WebRip][1080p][繁日内嵌]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-07-20T03:12:57.042</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="781598080" url="https://mikanani.me/Download/20260720/e9236079fa7268c8b46967eda805e4ca09cca61c.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 27 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/a759c51b946e9a333f719f3ba832aa3d52113cbe</link>
-			<title>[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 27 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV]</title>
-			<description>[Skymoon-Raws] 超超超超超喜欢你的100个女朋友 / Hyakkano - 27 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV][386.1MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/a759c51b946e9a333f719f3ba832aa3d52113cbe</link>
-				<contentLength>404855200</contentLength>
-				<pubDate>2026-07-20T02:53:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="404855200" url="https://mikanani.me/Download/20260720/a759c51b946e9a333f719f3ba832aa3d52113cbe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
