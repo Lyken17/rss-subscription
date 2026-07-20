@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/566922c81a1afcbe7515fcfe863edcb330d8a3ed</link>
-			<title>[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黑猫与魔女的教室 / Kuroneko to Majo no Kyoushitsu - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][575.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/566922c81a1afcbe7515fcfe863edcb330d8a3ed</link>
-				<contentLength>603874944</contentLength>
-				<pubDate>2026-07-13T00:26:56.971</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="603874944" url="https://mikanani.me/Download/20260713/566922c81a1afcbe7515fcfe863edcb330d8a3ed.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/af80bcbc8662cb43eed02803ceb8e47cf1a7e887</link>
 			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -843,6 +831,18 @@
 				<pubDate>2026-07-20T06:53:24.895</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="807476928" url="https://mikanani.me/Download/20260720/4848dd0fbc52e25098b00c8a28b607ac2cd45c4f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 27 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/029d00d7b21d6b8bbb7e30176bc5e32b2a959bf1</link>
+			<title>[LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 27 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 27 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][546.72 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/029d00d7b21d6b8bbb7e30176bc5e32b2a959bf1</link>
+				<contentLength>573277440</contentLength>
+				<pubDate>2026-07-20T11:07:55.917</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="573277440" url="https://mikanani.me/Download/20260720/029d00d7b21d6b8bbb7e30176bc5e32b2a959bf1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
