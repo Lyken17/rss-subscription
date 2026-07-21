@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1fd2d0b4e3e2f3ef5ca3ebdc8d79643d096c775e</link>
+			<title>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][375.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1fd2d0b4e3e2f3ef5ca3ebdc8d79643d096c775e</link>
+				<contentLength>394159712</contentLength>
+				<pubDate>2026-07-22T03:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="394159712" url="https://mikanani.me/Download/20260722/1fd2d0b4e3e2f3ef5ca3ebdc8d79643d096c775e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[碧蓝航线 微速前进！2!! / 碧蓝航线 微速前行 第二季 / Azur Lane - Bisoku Zenshin! S2][02][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/aef943b69b85dcb9132acb80cee609b086b9ed28</link>
 			<title>【喵萌奶茶屋】★07月新番★[碧蓝航线 微速前进！2!! / 碧蓝航线 微速前行 第二季 / Azur Lane - Bisoku Zenshin! S2][02][1080p][繁日双语]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-21T09:00:42.733036</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="286575808" url="https://mikanani.me/Download/20260721/36945a9c3d455d41fed68df15f88af7ad8ae8f1b.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/515fba1c7048cd85bd841ece0177526df04f3cd5</link>
-			<title>[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
-			<description>[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][469MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/515fba1c7048cd85bd841ece0177526df04f3cd5</link>
-				<contentLength>491782144</contentLength>
-				<pubDate>2026-07-21T06:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="491782144" url="https://mikanani.me/Download/20260721/515fba1c7048cd85bd841ece0177526df04f3cd5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
