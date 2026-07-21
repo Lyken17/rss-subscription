@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～ - 04 [CR WebRip 1080p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/72b8bbfb6b010b04580a6f70a1aa58623e8372d2</link>
+			<title>[沸班亚马制作组] 落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～ - 04 [CR WebRip 1080p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～ - 04 [CR WebRip 1080p HEVC AAC][简繁内封字幕][324.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/72b8bbfb6b010b04580a6f70a1aa58623e8372d2</link>
+				<contentLength>339843488</contentLength>
+				<pubDate>2026-07-22T05:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="339843488" url="https://mikanani.me/Download/20260722/72b8bbfb6b010b04580a6f70a1aa58623e8372d2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/1fd2d0b4e3e2f3ef5ca3ebdc8d79643d096c775e</link>
 			<title>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-21T09:27:55.343</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="421024224" url="https://mikanani.me/Download/20260721/8e5b7de73cd139a08e1d9d3a32e9b8d47faaa5f8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 45 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/36945a9c3d455d41fed68df15f88af7ad8ae8f1b</link>
-			<title>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 45 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 盗妖行 / Aliens Among Immortals - 45 (B-Global Donghua 1920x1080 HEVC AAC MKV)[273.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/36945a9c3d455d41fed68df15f88af7ad8ae8f1b</link>
-				<contentLength>286575808</contentLength>
-				<pubDate>2026-07-21T09:00:42.733036</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="286575808" url="https://mikanani.me/Download/20260721/36945a9c3d455d41fed68df15f88af7ad8ae8f1b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
