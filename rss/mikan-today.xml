@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 碧蓝之海 第三季 - 03 [IQIYI WebRip 2160p NVENC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c5db51455f58301712c384a660c9fb82923b9ff5</link>
+			<title>[沸班亚马制作组] 碧蓝之海 第三季 - 03 [IQIYI WebRip 2160p NVENC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 碧蓝之海 第三季 - 03 [IQIYI WebRip 2160p NVENC AAC][简繁内封字幕][970MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5db51455f58301712c384a660c9fb82923b9ff5</link>
+				<contentLength>1017118720</contentLength>
+				<pubDate>2026-07-21T15:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1017118720" url="https://mikanani.me/Download/20260721/c5db51455f58301712c384a660c9fb82923b9ff5.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[猫与龙 / Neko to Ryuu][02][1080p][繁日双语]</guid>
 			<link>https://mikanani.me/Home/Episode/59a9cb907325ab7b19cdaa655d5d7f326029f500</link>
 			<title>【喵萌奶茶屋】★07月新番★[猫与龙 / Neko to Ryuu][02][1080p][繁日双语]</title>
@@ -1167,18 +1179,6 @@
 				<pubDate>2026-07-20T10:06:40.760738</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260720/7a9835c41d319bf99238cbda8fac11d21211d3b9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] 无职转生Ⅲ 到了异世界就拿出真本事 / Mushoku Tensei Isekai Ittara Honki Dasu S03E04 [CR WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/c6b14f6f88503b172d6638ad7e595a2e6aae6b83</link>
-			<title>[Nix-Raws] 无职转生Ⅲ 到了异世界就拿出真本事 / Mushoku Tensei Isekai Ittara Honki Dasu S03E04 [CR WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] 无职转生Ⅲ 到了异世界就拿出真本事 / Mushoku Tensei Isekai Ittara Honki Dasu S03E04 [CR WEB-DL 1080p AVC AAC][简繁内封][1.4 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c6b14f6f88503b172d6638ad7e595a2e6aae6b83</link>
-				<contentLength>1503238528</contentLength>
-				<pubDate>2026-07-20T10:04:21.491078</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260720/c6b14f6f88503b172d6638ad7e595a2e6aae6b83.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
