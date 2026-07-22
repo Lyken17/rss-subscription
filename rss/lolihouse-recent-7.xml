@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/114d6d235b18c6165eabc695be5f119dee69edf4</link>
-			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][855.17 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/114d6d235b18c6165eabc695be5f119dee69edf4</link>
-				<contentLength>896710720</contentLength>
-				<pubDate>2026-07-15T15:53:26.915</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="896710720" url="https://mikanani.me/Download/20260715/114d6d235b18c6165eabc695be5f119dee69edf4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5ef80b62beb8502311d1c642f36a2aff63e41f89</link>
-			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.1 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5ef80b62beb8502311d1c642f36a2aff63e41f89</link>
-				<contentLength>1181116032</contentLength>
-				<pubDate>2026-07-15T15:52:03.716</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1181116032" url="https://mikanani.me/Download/20260715/5ef80b62beb8502311d1c642f36a2aff63e41f89.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 盗掘王 / 盗墓王 / 我独自盗墓 / Tomb Raider King / Toukutsu Ou - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8eec738c0c332f95d499a745f7abb62c6826b86d</link>
 			<title>[LoliHouse] 盗掘王 / 盗墓王 / 我独自盗墓 / Tomb Raider King / Toukutsu Ou - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -891,6 +867,18 @@
 				<pubDate>2026-07-22T22:25:21.947</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="994532416" url="https://mikanani.me/Download/20260722/a749ba6bf811edd42b018f0c4242c2193e563dac.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 幼女战记II / Youjo Senki II - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)</guid>
+			<link>https://mikanani.me/Home/Episode/11a7467997de08f8994788fe618d6eafad7fcc31</link>
+			<title>[LoliHouse] 幼女战记II / Youjo Senki II - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)</title>
+			<description>[LoliHouse] 幼女战记II / Youjo Senki II - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)[617.24 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/11a7467997de08f8994788fe618d6eafad7fcc31</link>
+				<contentLength>647223040</contentLength>
+				<pubDate>2026-07-23T00:04:56.325</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="647223040" url="https://mikanani.me/Download/20260723/11a7467997de08f8994788fe618d6eafad7fcc31.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
