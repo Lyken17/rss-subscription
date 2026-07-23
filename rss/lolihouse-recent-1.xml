@@ -196,5 +196,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="544630400" url="https://mikanani.me/Download/20260723/f2f85fb863cc5ee582961119e40b7bdb4a774dc7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d7265425e49b8844259da9fdd1fe63114f825d46</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][466.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d7265425e49b8844259da9fdd1fe63114f825d46</link>
+				<contentLength>489118752</contentLength>
+				<pubDate>2026-07-23T17:13:01.782</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="489118752" url="https://mikanani.me/Download/20260723/d7265425e49b8844259da9fdd1fe63114f825d46.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
