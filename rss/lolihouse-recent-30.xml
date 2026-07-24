@@ -3052,5 +3052,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="462516384" url="https://mikanani.me/Download/20260723/b9fa7667038402b82703678c8dff4a93b319b115.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c17f6dda929bb7d373c5c21713f3fb391641caf2</link>
+			<title>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][423.04 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c17f6dda929bb7d373c5c21713f3fb391641caf2</link>
+				<contentLength>443589600</contentLength>
+				<pubDate>2026-07-24T07:23:46.36</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="443589600" url="https://mikanani.me/Download/20260724/c17f6dda929bb7d373c5c21713f3fb391641caf2.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
