@@ -856,5 +856,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="443589600" url="https://mikanani.me/Download/20260724/c17f6dda929bb7d373c5c21713f3fb391641caf2.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 碧蓝航线 微速前进 二 / Azur Lane - Bisoku Zenshin! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4757b5a9c0ee53a3eb7e3ee4ab050b98c5379a71</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 碧蓝航线 微速前进 二 / Azur Lane - Bisoku Zenshin! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 碧蓝航线 微速前进 二 / Azur Lane - Bisoku Zenshin! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][236.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4757b5a9c0ee53a3eb7e3ee4ab050b98c5379a71</link>
+				<contentLength>247684144</contentLength>
+				<pubDate>2026-07-24T10:44:24.017</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="247684144" url="https://mikanani.me/Download/20260724/4757b5a9c0ee53a3eb7e3ee4ab050b98c5379a71.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
