@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 街角魔族 2丁目/Machikado Mazoku 2-Choume S02 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/9334535405ef7e4aa415e4e233bc5caa6cdd34ea</link>
+			<title>[7³ACG] 街角魔族 2丁目/Machikado Mazoku 2-Choume S02 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 街角魔族 2丁目/Machikado Mazoku 2-Choume S02 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/9334535405ef7e4aa415e4e233bc5caa6cdd34ea</link>
+				<contentLength>4617090048</contentLength>
+				<pubDate>2026-07-25T05:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20260725/9334535405ef7e4aa415e4e233bc5caa6cdd34ea.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 描绘直至生命尽头 / 画完这个就去死 / Kore Kaite Shine [03][WebRip][1080p][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/5195e291584ef92118789fd421557bc30b522ef2</link>
 			<title>[绿茶字幕组] 描绘直至生命尽头 / 画完这个就去死 / Kore Kaite Shine [03][WebRip][1080p][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-24T08:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260724/84c84324c57c2606a7f8d7cb4dea7b613b353432.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 剧场版「暗杀教室」：我们的时光 / Ansatsu Kyoushitsu Movie: Minna no Jikan (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f6d9f527cfea39950915b1f73817a5226b2d3fe9</link>
-			<title>[黒ネズミたち] 剧场版「暗杀教室」：我们的时光 / Ansatsu Kyoushitsu Movie: Minna no Jikan (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 剧场版「暗杀教室」：我们的时光 / Ansatsu Kyoushitsu Movie: Minna no Jikan (CR 1920x1080 AVC AAC MKV)[2.8 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f6d9f527cfea39950915b1f73817a5226b2d3fe9</link>
-				<contentLength>3006477056</contentLength>
-				<pubDate>2026-07-24T08:23:04.086967</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20260724/f6d9f527cfea39950915b1f73817a5226b2d3fe9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
