@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 身为暗杀者的我明显比勇者还强/Sutetsuyo S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/c2d76ca17034c7e277d5435681013d5cbe52894d</link>
+			<title>[7³ACG] 身为暗杀者的我明显比勇者还强/Sutetsuyo S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 身为暗杀者的我明显比勇者还强/Sutetsuyo S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0[18.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c2d76ca17034c7e277d5435681013d5cbe52894d</link>
+				<contentLength>20186345472</contentLength>
+				<pubDate>2026-07-27T05:28:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="20186345472" url="https://mikanani.me/Download/20260727/c2d76ca17034c7e277d5435681013d5cbe52894d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01 (WEB 1080p AV1 简繁内封)</guid>
 			<link>https://mikanani.me/Home/Episode/3e49889e6f78115af38eaaadcb7d7b0421ef7b46</link>
 			<title>[Himejoshi]  ⯎ NEEDY GIRL OVERDOSE ⯎  S01 (WEB 1080p AV1 简繁内封)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-26T14:50:43.815084</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20260726/6f39bcefd7023f791c8e1cdd57889dcae10f5e73.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[绿茶字幕组] 佐贺偶像是传奇 梦想银河乐园 / Zombie Land Saga Yumeginga Paradise [MOVIE][BDRip][1080p][繁日内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/c142aa48fccfc217793ea9f69bb32629c5a13a21</link>
-			<title>[绿茶字幕组] 佐贺偶像是传奇 梦想银河乐园 / Zombie Land Saga Yumeginga Paradise [MOVIE][BDRip][1080p][繁日内嵌]</title>
-			<description>[绿茶字幕组] 佐贺偶像是传奇 梦想银河乐园 / Zombie Land Saga Yumeginga Paradise [MOVIE][BDRip][1080p][繁日内嵌][3.0 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c142aa48fccfc217793ea9f69bb32629c5a13a21</link>
-				<contentLength>3221225472</contentLength>
-				<pubDate>2026-07-26T14:50:25.812626</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3221225472" url="https://mikanani.me/Download/20260726/c142aa48fccfc217793ea9f69bb32629c5a13a21.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
