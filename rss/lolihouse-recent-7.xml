@@ -5,30 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 16 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/b6afb70377344707c81ac1c6a45cd23d50ad3bcd</link>
-			<title>[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 16 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
-			<description>[LoliHouse] 拜托了美妙公主 / Onegai Aipri - 16 [WebRip 1080p HEVC-10bit AAC][无字幕][1.26 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b6afb70377344707c81ac1c6a45cd23d50ad3bcd</link>
-				<contentLength>1352914688</contentLength>
-				<pubDate>2026-07-19T23:24:40.929</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1352914688" url="https://mikanani.me/Download/20260719/b6afb70377344707c81ac1c6a45cd23d50ad3bcd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/141a4fc7143a0fada183e20a51c580663bd02341</link>
-			<title>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][446.94 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/141a4fc7143a0fada183e20a51c580663bd02341</link>
-				<contentLength>468650560</contentLength>
-				<pubDate>2026-07-20T00:10:16.815</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="468650560" url="https://mikanani.me/Download/20260720/141a4fc7143a0fada183e20a51c580663bd02341.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e9236079fa7268c8b46967eda805e4ca09cca61c</link>
 			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -819,6 +795,18 @@
 				<pubDate>2026-07-26T23:36:58.265</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="842593728" url="https://mikanani.me/Download/20260726/6049dcc9dbe17bf3121979b3ac9b179046492ab5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[弗里吉亚宫内厅字幕组&amp;LoliHouse] 悲剧元凶的最强外道最终BOSS女王为民竭力 S2 / LasTame S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/131897501ee63795fc88672572b231e7c7a95a11</link>
+			<title>[弗里吉亚宫内厅字幕组&amp;LoliHouse] 悲剧元凶的最强外道最终BOSS女王为民竭力 S2 / LasTame S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[弗里吉亚宫内厅字幕组&amp;LoliHouse] 悲剧元凶的最强外道最终BOSS女王为民竭力 S2 / LasTame S2 [01-12 合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][5.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/131897501ee63795fc88672572b231e7c7a95a11</link>
+				<contentLength>6120328192</contentLength>
+				<pubDate>2026-07-27T10:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6120328192" url="https://mikanani.me/Download/20260727/131897501ee63795fc88672572b231e7c7a95a11.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
