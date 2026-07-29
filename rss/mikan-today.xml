@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 海贼王 - 1171 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4d337bfe2fafaa49779d3642303b0c829978a101</link>
+			<title>[沸班亚马制作组] 海贼王 - 1171 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 海贼王 - 1171 [IQIYI WebRip 2160p HEVC AAC][简繁内封字幕][1.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4d337bfe2fafaa49779d3642303b0c829978a101</link>
+				<contentLength>1395864320</contentLength>
+				<pubDate>2026-07-30T06:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260730/4d337bfe2fafaa49779d3642303b0c829978a101.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] Clevatess Ⅱ -魔兽之王与虚假的勇者传承- / Clevatess Ⅱ -Majuu no Ou to Akago to Shikabane no Yuusha Denshou- - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/e4bc1d633bd8435c35afffc04c48c9a606ae1f73</link>
 			<title>[Skymoon-Raws] Clevatess Ⅱ -魔兽之王与虚假的勇者传承- / Clevatess Ⅱ -Majuu no Ou to Akago to Shikabane no Yuusha Denshou- - 04 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-29T02:05:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="2899102976" url="https://mikanani.me/Download/20260729/2ea57885cb405a5a4fd01a8ff58743effac41624.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Skymoon-Raws] 剧场版「鬼灭之刃」无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)</guid>
-			<link>https://mikanani.me/Home/Episode/9477e396a55acf15050cc3e50dc99864bcac3427</link>
-			<title>[Skymoon-Raws] 剧场版「鬼灭之刃」无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)</title>
-			<description>[Skymoon-Raws] 剧场版「鬼灭之刃」无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4](字幕组招募翻校)[3.8GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9477e396a55acf15050cc3e50dc99864bcac3427</link>
-				<contentLength>4080218880</contentLength>
-				<pubDate>2026-07-29T02:03:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4080218880" url="https://mikanani.me/Download/20260729/9477e396a55acf15050cc3e50dc99864bcac3427.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
