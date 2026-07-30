@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 剧场版「鬼灭之刃」无限城篇 第一章 猗窝座再袭/Gekijouban Kimetsu no Yaiba Mugenjou-hen 2025 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/e6d4e5e4934c7c5be138857c72980b151787dbc2</link>
+			<title>[7³ACG] 剧场版「鬼灭之刃」无限城篇 第一章 猗窝座再袭/Gekijouban Kimetsu no Yaiba Mugenjou-hen 2025 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 剧场版「鬼灭之刃」无限城篇 第一章 猗窝座再袭/Gekijouban Kimetsu no Yaiba Mugenjou-hen 2025 [简繁字幕] BDrip 1080p x265 OPUS 2.0[7.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e6d4e5e4934c7c5be138857c72980b151787dbc2</link>
+				<contentLength>7945689600</contentLength>
+				<pubDate>2026-07-31T06:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="7945689600" url="https://mikanani.me/Download/20260731/e6d4e5e4934c7c5be138857c72980b151787dbc2.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 元祖！BanG Dream Chan / Ganso! Bandori-chan - 43 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/b7ad67dbd5d11024917fe5c264d984ff570ae8d2</link>
 			<title>[黒ネズミたち] 元祖！BanG Dream Chan / Ganso! Bandori-chan - 43 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-30T13:34:07.852</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="686880192" url="https://mikanani.me/Download/20260730/c520b89807f7d7fc4bab1389cb286101c3c346c9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 乡下大叔成为剑圣II / Katainaka no Ossan, Kensei ni Naru II - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/077c04af92da0e50269011fc58e47c763472fc6b</link>
-			<title>[LoliHouse] 乡下大叔成为剑圣II / Katainaka no Ossan, Kensei ni Naru II - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 乡下大叔成为剑圣II / Katainaka no Ossan, Kensei ni Naru II - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][459.84 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/077c04af92da0e50269011fc58e47c763472fc6b</link>
-				<contentLength>482177184</contentLength>
-				<pubDate>2026-07-30T13:34:02.394</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="482177184" url="https://mikanani.me/Download/20260730/077c04af92da0e50269011fc58e47c763472fc6b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
