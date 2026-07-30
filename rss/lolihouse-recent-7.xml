@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d7265425e49b8844259da9fdd1fe63114f825d46</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][466.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7265425e49b8844259da9fdd1fe63114f825d46</link>
-				<contentLength>489118752</contentLength>
-				<pubDate>2026-07-23T17:13:01.782</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="489118752" url="https://mikanani.me/Download/20260723/d7265425e49b8844259da9fdd1fe63114f825d46.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e2a83ce9d51371e49245fe978fa430fb197646a1</link>
 			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -879,6 +867,18 @@
 				<pubDate>2026-07-30T22:20:12.194</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="515805024" url="https://mikanani.me/Download/20260730/269216680182d8fe59a055905b7a1200bedb92ea.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025: Akaza Returns [WebRip 1080p HEVC-10bit FLAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3b6f9f05a71420af010ec4a4892c3eb4b43a886a</link>
+			<title>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025: Akaza Returns [WebRip 1080p HEVC-10bit FLAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025: Akaza Returns [WebRip 1080p HEVC-10bit FLAC][简繁外挂字幕][10.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b6f9f05a71420af010ec4a4892c3eb4b43a886a</link>
+				<contentLength>11703785472</contentLength>
+				<pubDate>2026-07-31T00:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11703785472" url="https://mikanani.me/Download/20260731/3b6f9f05a71420af010ec4a4892c3eb4b43a886a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

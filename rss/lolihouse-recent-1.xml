@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</guid>
-			<link>https://mikanani.me/Home/Episode/055615dd6ce7034a9423486b051e7168d60bdd15</link>
-			<title>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</title>
-			<description>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）[306.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/055615dd6ce7034a9423486b051e7168d60bdd15</link>
-				<contentLength>321598272</contentLength>
-				<pubDate>2026-07-29T16:12:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="321598272" url="https://mikanani.me/Download/20260729/055615dd6ce7034a9423486b051e7168d60bdd15.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 少女怪兽焦糖味 / 少女怪兽焦糖恋心 / Otome Kaijuu Carameliser - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/704f429d09903cb4c578cd2f70ce1e3a1f176a68</link>
 			<title>[三明治摆烂组&amp;LoliHouse] 少女怪兽焦糖味 / 少女怪兽焦糖恋心 / Otome Kaijuu Carameliser - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -315,6 +303,18 @@
 				<pubDate>2026-07-30T22:20:12.194</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="515805024" url="https://mikanani.me/Download/20260730/269216680182d8fe59a055905b7a1200bedb92ea.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025: Akaza Returns [WebRip 1080p HEVC-10bit FLAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3b6f9f05a71420af010ec4a4892c3eb4b43a886a</link>
+			<title>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025: Akaza Returns [WebRip 1080p HEVC-10bit FLAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Kimetsu no Yaiba Infinity Castle 2025: Akaza Returns [WebRip 1080p HEVC-10bit FLAC][简繁外挂字幕][10.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3b6f9f05a71420af010ec4a4892c3eb4b43a886a</link>
+				<contentLength>11703785472</contentLength>
+				<pubDate>2026-07-31T00:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11703785472" url="https://mikanani.me/Download/20260731/3b6f9f05a71420af010ec4a4892c3eb4b43a886a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
