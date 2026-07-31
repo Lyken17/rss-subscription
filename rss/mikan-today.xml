@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 珈百璃的堕落/Gabriel Dropout S01 | 01-12+SPx2 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/262d31c67f15b86a16571f55a235657f214ad65d</link>
+			<title>[7³ACG] 珈百璃的堕落/Gabriel Dropout S01 | 01-12+SPx2 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 珈百璃的堕落/Gabriel Dropout S01 | 01-12+SPx2 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/262d31c67f15b86a16571f55a235657f214ad65d</link>
+				<contentLength>4402341376</contentLength>
+				<pubDate>2026-08-01T05:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4402341376" url="https://mikanani.me/Download/20260801/262d31c67f15b86a16571f55a235657f214ad65d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei S3 [02v2][WebRip][1080p][简日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/902ce2c06f8730f3b5cf356395686103eadc3caf</link>
 			<title>[绿茶字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei S3 [02v2][WebRip][1080p][简日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-07-31T01:35:21.104</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="938360192" url="https://mikanani.me/Download/20260731/57d1b1e7f3b47453c1d36bbb491e98dd6ce249a0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei III： Isekai Ittara Honki Dasu [05][1080P][繁体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/5624f27eaa54331af38b854d898b35fe2b881f12</link>
-			<title>[桜都字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei III： Isekai Ittara Honki Dasu [05][1080P][繁体内嵌]</title>
-			<description>[桜都字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei III： Isekai Ittara Honki Dasu [05][1080P][繁体内嵌][725.47 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5624f27eaa54331af38b854d898b35fe2b881f12</link>
-				<contentLength>760710400</contentLength>
-				<pubDate>2026-07-31T01:35:14.398</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="760710400" url="https://mikanani.me/Download/20260731/5624f27eaa54331af38b854d898b35fe2b881f12.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
