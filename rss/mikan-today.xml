@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] Kanon（第二作）/Kanon S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/e4013ecfe1624f1e7bf8d3a97d069171b503ac2e</link>
+			<title>[7³ACG] Kanon（第二作）/Kanon S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] Kanon（第二作）/Kanon S01 | 01-24 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[9.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e4013ecfe1624f1e7bf8d3a97d069171b503ac2e</link>
+				<contentLength>10093172736</contentLength>
+				<pubDate>2026-08-02T05:11:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="10093172736" url="https://mikanani.me/Download/20260802/e4013ecfe1624f1e7bf8d3a97d069171b503ac2e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 再见，菈菈 / Sayonara Lara [04][WebRip][HEVC_AAC][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/e52b01e5eb3b28f9f7e7cd6da64a5bf56ef7cde4</link>
 			<title>[北宇治字幕组] 再见，菈菈 / Sayonara Lara [04][WebRip][HEVC_AAC][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-01T18:55:55.015268</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="720476544" url="https://mikanani.me/Download/20260801/3c59db3ca6315aa00830577170f953785f5601d2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Mairimashita Irumakun S04 /  入间同学入魔了！第四季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/5e2a75bb4c71f88965a01c8961c030496391b091</link>
-			<title>[ANi] Mairimashita Irumakun S04 /  入间同学入魔了！第四季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Mairimashita Irumakun S04 /  入间同学入魔了！第四季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][687.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5e2a75bb4c71f88965a01c8961c030496391b091</link>
-				<contentLength>720581440</contentLength>
-				<pubDate>2026-08-01T18:55:52.743086</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="720581440" url="https://mikanani.me/Download/20260801/5e2a75bb4c71f88965a01c8961c030496391b091.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
