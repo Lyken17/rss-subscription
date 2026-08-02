@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d66d9b58ccb8347055f1189cd6985ac9470c2f6b</link>
+			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][755.62 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d66d9b58ccb8347055f1189cd6985ac9470c2f6b</link>
+				<contentLength>792324992</contentLength>
+				<pubDate>2026-08-03T07:04:16.274</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="792324992" url="https://mikanani.me/Download/20260803/d66d9b58ccb8347055f1189cd6985ac9470c2f6b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 世界在起舞 / The World Is Dancing - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/d27ca1f50af1ad0143ff793412f952b645181ce0</link>
 			<title>[绿茶字幕组&amp;LoliHouse] 世界在起舞 / The World Is Dancing - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-02T16:30:53.879075</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="300941312" url="https://mikanani.me/Download/20260802/28e3c8ff7c0ed6fac8dd3e86a53661d82127c268.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/c10143224f65a8312b5464ac589da14555fcba4c</link>
-			<title>[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][287.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c10143224f65a8312b5464ac589da14555fcba4c</link>
-				<contentLength>300941312</contentLength>
-				<pubDate>2026-08-02T16:30:47.093596</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="300941312" url="https://mikanani.me/Download/20260802/c10143224f65a8312b5464ac589da14555fcba4c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
