@@ -100,5 +100,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518017504" url="https://mikanani.me/Download/20260802/705d0b37a0dcda3cb046d0fc9a2f3eaabb3cd32c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 死神 千年血战篇 / BLEACH Sennen Kessen-hen - 42 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fd8d1325e24bd39d718f48bd5457ca9d42cb5cfb</link>
+			<title>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 死神 千年血战篇 / BLEACH Sennen Kessen-hen - 42 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;风之圣殿字幕组&amp;LoliHouse] 死神 千年血战篇 / BLEACH Sennen Kessen-hen - 42 [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][805.16 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fd8d1325e24bd39d718f48bd5457ca9d42cb5cfb</link>
+				<contentLength>844271424</contentLength>
+				<pubDate>2026-08-02T16:47:19.087</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="844271424" url="https://mikanani.me/Download/20260802/fd8d1325e24bd39d718f48bd5457ca9d42cb5cfb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
