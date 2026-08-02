@@ -880,5 +880,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="682266432" url="https://mikanani.me/Download/20260803/c2a91438b742257495785263339a5a5bd00fe930.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 世界在起舞 / The World Is Dancing - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d27ca1f50af1ad0143ff793412f952b645181ce0</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 世界在起舞 / The World Is Dancing - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 世界在起舞 / The World Is Dancing - 04 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][722.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d27ca1f50af1ad0143ff793412f952b645181ce0</link>
+				<contentLength>757910720</contentLength>
+				<pubDate>2026-08-03T03:48:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="757910720" url="https://mikanani.me/Download/20260803/d27ca1f50af1ad0143ff793412f952b645181ce0.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
