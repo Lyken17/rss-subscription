@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/06776f6e724634db5ddaaaefb4e1de4090f09415</link>
-			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][729.38 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/06776f6e724634db5ddaaaefb4e1de4090f09415</link>
-				<contentLength>764810368</contentLength>
-				<pubDate>2026-07-05T08:53:28.222</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="764810368" url="https://mikanani.me/Download/20260705/06776f6e724634db5ddaaaefb4e1de4090f09415.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 猫与龙 / Neko to Ryuu - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5f99c5943ef1c2adbff40da042d4f9fff34458ac</link>
 			<title>[LoliHouse] 猫与龙 / Neko to Ryuu - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3411,6 +3399,18 @@
 				<pubDate>2026-08-04T10:13:00.192</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="878633280" url="https://mikanani.me/Download/20260804/d1b6868806fa69ddd0fd9fa33b608eef3fb392c2.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] BanG Dream! YUME∞MITA / バンドリ！ ゆめ∞みた - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4c9807646e8469b1a2d04c5936b9293ef3c29716</link>
+			<title>[百冬练习组&amp;LoliHouse] BanG Dream! YUME∞MITA / バンドリ！ ゆめ∞みた - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[百冬练习组&amp;LoliHouse] BanG Dream! YUME∞MITA / バンドリ！ ゆめ∞みた - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][507.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4c9807646e8469b1a2d04c5936b9293ef3c29716</link>
+				<contentLength>532571744</contentLength>
+				<pubDate>2026-08-04T16:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="532571744" url="https://mikanani.me/Download/20260804/4c9807646e8469b1a2d04c5936b9293ef3c29716.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
