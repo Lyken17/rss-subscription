@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
+			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][978.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
+				<contentLength>1026073536</contentLength>
+				<pubDate>2026-08-07T15:10:37.963</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1026073536" url="https://mikanani.me/Download/20260807/63d13d3cccfb82048ccd5abaf441a3d8635f6119.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][33][HEVC][GB][4K]</guid>
 			<link>https://mikanani.me/Home/Episode/b4c1ee799fef1363aa6559544629210efb4b164b</link>
 			<title>[GM-Team][国漫][大主宰 第2季][The Great Ruler Ⅱ][2026][33][HEVC][GB][4K]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-06T17:42:13.04</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="302650496" url="https://mikanani.me/Download/20260806/bba35b466b639bbdce6924765da462e9d4b795d0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 葬送的芙莉莲/Sousou no Frieren S01 | 29-38+SPx11 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/b1114eaf505052fdd98329bc9a6e85ec81294d7a</link>
-			<title>[7³ACG] 葬送的芙莉莲/Sousou no Frieren S01 | 29-38+SPx11 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
-			<description>[7³ACG] 葬送的芙莉莲/Sousou no Frieren S01 | 29-38+SPx11 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[8.6GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b1114eaf505052fdd98329bc9a6e85ec81294d7a</link>
-				<contentLength>9234180096</contentLength>
-				<pubDate>2026-08-06T17:06:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9234180096" url="https://mikanani.me/Download/20260806/b1114eaf505052fdd98329bc9a6e85ec81294d7a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

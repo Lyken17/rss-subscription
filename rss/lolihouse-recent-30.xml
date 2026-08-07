@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/56464e7c51b6fe26d4b68ffe53840735353ff753</link>
-			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][739.78 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/56464e7c51b6fe26d4b68ffe53840735353ff753</link>
-				<contentLength>775715584</contentLength>
-				<pubDate>2026-07-08T06:18:01.382</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="775715584" url="https://mikanani.me/Download/20260708/56464e7c51b6fe26d4b68ffe53840735353ff753.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e379e01618d4cf6c5524caaf38ba35f043aa556b</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -3555,6 +3543,18 @@
 				<pubDate>2026-08-07T08:51:29.56</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1331439872" url="https://mikanani.me/Download/20260807/f7391c2e806431e6c780c16209633d614a4ac4b6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
+			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][978.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
+				<contentLength>1026073536</contentLength>
+				<pubDate>2026-08-07T15:10:37.963</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1026073536" url="https://mikanani.me/Download/20260807/63d13d3cccfb82048ccd5abaf441a3d8635f6119.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

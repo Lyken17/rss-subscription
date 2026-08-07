@@ -65,18 +65,6 @@
 			<enclosure type="application/x-bittorrent" length="363436448" url="https://mikanani.me/Download/20260731/2a6737477fc08ef361ab90bfc7edfaad647c213f.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 剧场版 关于我转生变成史莱姆这档事 苍海之泪篇 / TenSura Movie 2: Soukai no Namida-hen (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/4eaaa76969431f7cb74214f2c22ecbdae219fc2e</link>
-			<title>[黒ネズミたち] 剧场版 关于我转生变成史莱姆这档事 苍海之泪篇 / TenSura Movie 2: Soukai no Namida-hen (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 剧场版 关于我转生变成史莱姆这档事 苍海之泪篇 / TenSura Movie 2: Soukai no Namida-hen (CR 1920x1080 AVC AAC MKV)[4.3 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4eaaa76969431f7cb74214f2c22ecbdae219fc2e</link>
-				<contentLength>4617090048</contentLength>
-				<pubDate>2026-07-31T08:08:31.023338</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="4617090048" url="https://mikanani.me/Download/20260731/4eaaa76969431f7cb74214f2c22ecbdae219fc2e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[三明治摆烂组] LV999的村民 / Lv999 no Murabito / LV999の村人 - 06 - [繁日内嵌][AVC 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/c3631dfcf359525bf2c1b5838823c471374daaf0</link>
 			<title>[三明治摆烂组] LV999的村民 / Lv999 no Murabito / LV999の村人 - 06 - [繁日内嵌][AVC 8bit 1080P]</title>
@@ -9447,6 +9435,18 @@
 				<pubDate>2026-08-07T12:56:50.377</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="774331456" url="https://mikanani.me/Download/20260807/b34c1079b544a3ccdf3b673b4b6b44a93287859f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
+			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][978.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
+				<contentLength>1026073536</contentLength>
+				<pubDate>2026-08-07T15:10:37.963</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1026073536" url="https://mikanani.me/Download/20260807/63d13d3cccfb82048ccd5abaf441a3d8635f6119.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
