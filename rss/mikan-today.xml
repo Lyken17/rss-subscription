@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 死神 千年血战篇-祸进谭- - 43 [IQIYI WebRip 2160p NVENC EAC3][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3d39214c60625c98c22ac0c5809d4f0769325177</link>
+			<title>[沸班亚马制作组] 死神 千年血战篇-祸进谭- - 43 [IQIYI WebRip 2160p NVENC EAC3][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 死神 千年血战篇-祸进谭- - 43 [IQIYI WebRip 2160p NVENC EAC3][简繁内封字幕][2.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d39214c60625c98c22ac0c5809d4f0769325177</link>
+				<contentLength>2147483648</contentLength>
+				<pubDate>2026-08-09T05:27:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2147483648" url="https://mikanani.me/Download/20260809/3d39214c60625c98c22ac0c5809d4f0769325177.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / 再见，菈菈 / Sayonara Lara [04][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/5037f7025948b12c315e23a111b04f4aa14454fb</link>
 			<title>[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / 再见，菈菈 / Sayonara Lara [04][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-08T11:15:02.004</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="861918976" url="https://mikanani.me/Download/20260808/93d67f076284ef5b89c2c786cf7201eb80dfdcbb.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 幼女战记/Youjo Senki S01 | 01-12+SPx14 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/ae335167339ef21fa4bc3df3146c25be53244695</link>
-			<title>[7³ACG] 幼女战记/Youjo Senki S01 | 01-12+SPx14 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
-			<description>[7³ACG] 幼女战记/Youjo Senki S01 | 01-12+SPx14 [简繁字幕] BDrip 1080p x265 OPUS 2.0[7.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ae335167339ef21fa4bc3df3146c25be53244695</link>
-				<contentLength>7623566848</contentLength>
-				<pubDate>2026-08-08T11:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7623566848" url="https://mikanani.me/Download/20260808/ae335167339ef21fa4bc3df3146c25be53244695.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
