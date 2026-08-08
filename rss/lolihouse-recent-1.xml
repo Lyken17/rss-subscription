@@ -76,5 +76,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="892757632" url="https://mikanani.me/Download/20260809/3a1c3599b4ea6787e87c9f4b5855cb66182a051f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0802bad836d06eb51170edb788eac61a62a76271</link>
+			<title>[LoliHouse] MAO摩绪 - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][507.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0802bad836d06eb51170edb788eac61a62a76271</link>
+				<contentLength>532047456</contentLength>
+				<pubDate>2026-08-09T03:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="532047456" url="https://mikanani.me/Download/20260809/0802bad836d06eb51170edb788eac61a62a76271.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
