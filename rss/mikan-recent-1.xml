@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[7³ACG] 东京喰种/Tokyo Ghoul S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/d7c6820daf6532588bf68357a5d2d849b3d68ae9</link>
-			<title>[7³ACG] 东京喰种/Tokyo Ghoul S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
-			<description>[7³ACG] 东京喰种/Tokyo Ghoul S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0[7.1GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7c6820daf6532588bf68357a5d2d849b3d68ae9</link>
-				<contentLength>7623566848</contentLength>
-				<pubDate>2026-08-07T09:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="7623566848" url="https://mikanani.me/Download/20260807/d7c6820daf6532588bf68357a5d2d849b3d68ae9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 14 (CR 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/6cab275eaa913d8d01c8f662d4a39f55585257fc</link>
 			<title>[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 14 (CR 1920x1080 AVC AAC MKV)</title>
@@ -1335,6 +1323,18 @@
 				<pubDate>2026-08-08T16:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1066296960" url="https://mikanani.me/Download/20260808/a72d4aa914650ea3d935ec66d3e9001da7b772e3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E17 1080p 多国字幕</guid>
+			<link>https://mikanani.me/Home/Episode/30f0b2169d00f4e43d0f9d59605f22ec1ba26f8d</link>
+			<title>小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E17 1080p 多国字幕</title>
+			<description>小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E17 1080p 多国字幕[1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/30f0b2169d00f4e43d0f9d59605f22ec1ba26f8d</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-08-08T17:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260808/30f0b2169d00f4e43d0f9d59605f22ec1ba26f8d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
