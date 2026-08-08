@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M22 零的执行人 / Detective Conan M22 - Zero the Enforcer 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/3d2cc8b54fd24a255305c1403710db2268fab5f4</link>
+			<title>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M22 零的执行人 / Detective Conan M22 - Zero the Enforcer 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
+			<description>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 M22 零的执行人 / Detective Conan M22 - Zero the Enforcer 10-bit 1080p HEVC BDRip [MOVIE Fin][8.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d2cc8b54fd24a255305c1403710db2268fab5f4</link>
+				<contentLength>8589934592</contentLength>
+				<pubDate>2026-08-08T13:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="8589934592" url="https://mikanani.me/Download/20260808/3d2cc8b54fd24a255305c1403710db2268fab5f4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[GM-Team][国漫][凡人修仙传 慕兰之战][Fan Ren Xiu Xian Zhuan][2026][10][AVC][GB][1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/8bad891b16af1403298e69f1cd811211176fb342</link>
 			<title>[GM-Team][国漫][凡人修仙传 慕兰之战][Fan Ren Xiu Xian Zhuan][2026][10][AVC][GB][1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-07T16:44:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="356935264" url="https://mikanani.me/Download/20260807/11315d6852db53fc571a916b435808383ef33327.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
-			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][978.54 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/63d13d3cccfb82048ccd5abaf441a3d8635f6119</link>
-				<contentLength>1026073536</contentLength>
-				<pubDate>2026-08-07T15:10:37.963</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1026073536" url="https://mikanani.me/Download/20260807/63d13d3cccfb82048ccd5abaf441a3d8635f6119.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
