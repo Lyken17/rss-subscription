@@ -748,5 +748,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260808/7b85eea60c3d66567af5f1158d0f37ce03eb674b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 被放逐的重骑士用游戏知识开无双 / Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a72d4aa914650ea3d935ec66d3e9001da7b772e3</link>
+			<title>[LoliHouse] 被放逐的重骑士用游戏知识开无双 / Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 被放逐的重骑士用游戏知识开无双 / Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1016.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a72d4aa914650ea3d935ec66d3e9001da7b772e3</link>
+				<contentLength>1066296960</contentLength>
+				<pubDate>2026-08-08T16:44:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1066296960" url="https://mikanani.me/Download/20260808/a72d4aa914650ea3d935ec66d3e9001da7b772e3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
