@@ -1888,5 +1888,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="862034304" url="https://mikanani.me/Download/20260809/3338d4939606cc8535aa5b44f8261f6d768f85b5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][7月新番][虽然我是不完美恶女][Futsutsuka na Akujo dewa Gozaimasu ga][04][1080p][MP4][GB][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/b31d2dac721dd1ebd9c320e41fd800ac9977a760</link>
+			<title>[爱恋&amp;猫恋汉化组][7月新番][虽然我是不完美恶女][Futsutsuka na Akujo dewa Gozaimasu ga][04][1080p][MP4][GB][简中]</title>
+			<description>[爱恋&amp;猫恋汉化组][7月新番][虽然我是不完美恶女][Futsutsuka na Akujo dewa Gozaimasu ga][04][1080p][MP4][GB][简中][383.27 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b31d2dac721dd1ebd9c320e41fd800ac9977a760</link>
+				<contentLength>401887712</contentLength>
+				<pubDate>2026-08-09T17:42:08.14</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="401887712" url="https://mikanani.me/Download/20260809/b31d2dac721dd1ebd9c320e41fd800ac9977a760.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][7月新番][我是不才恶女][Futsutsuka na Akujo dewa Gozaimasu ga][04][1080p][MP4][BIG5][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/7f1452bb8d81aa76c9b5b878af8a55e989a9116f</link>
+			<title>[爱恋&amp;猫恋汉化组][7月新番][我是不才恶女][Futsutsuka na Akujo dewa Gozaimasu ga][04][1080p][MP4][BIG5][繁中]</title>
+			<description>[爱恋&amp;猫恋汉化组][7月新番][我是不才恶女][Futsutsuka na Akujo dewa Gozaimasu ga][04][1080p][MP4][BIG5][繁中][383.18 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7f1452bb8d81aa76c9b5b878af8a55e989a9116f</link>
+				<contentLength>401793344</contentLength>
+				<pubDate>2026-08-09T17:41:38.24</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="401793344" url="https://mikanani.me/Download/20260809/7f1452bb8d81aa76c9b5b878af8a55e989a9116f.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
