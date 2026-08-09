@@ -184,5 +184,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="715862848" url="https://mikanani.me/Download/20260809/1cfee43898c96a3e5ce775c1a71c8aab4126f51c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 才女的侍从 / Saijo no Osewa - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/114c9be6703b339adf05340be530c29615683316</link>
+			<title>[LoliHouse] 才女的侍从 / Saijo no Osewa - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 才女的侍从 / Saijo no Osewa - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][268.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/114c9be6703b339adf05340be530c29615683316</link>
+				<contentLength>281542656</contentLength>
+				<pubDate>2026-08-09T20:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="281542656" url="https://mikanani.me/Download/20260809/114c9be6703b339adf05340be530c29615683316.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

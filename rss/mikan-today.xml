@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 才女的侍从 / Saijo no Osewa - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/114c9be6703b339adf05340be530c29615683316</link>
+			<title>[LoliHouse] 才女的侍从 / Saijo no Osewa - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 才女的侍从 / Saijo no Osewa - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][268.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/114c9be6703b339adf05340be530c29615683316</link>
+				<contentLength>281542656</contentLength>
+				<pubDate>2026-08-09T20:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="281542656" url="https://mikanani.me/Download/20260809/114c9be6703b339adf05340be530c29615683316.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[NEST] 缎带英雄 / THE RIBBON HERO リボンヒーロー [NF WEB-DL 1080p AVC AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/ba200cd50064fcdbbdea3ac7649a7460ec69d651</link>
 			<title>[NEST] 缎带英雄 / THE RIBBON HERO リボンヒーロー [NF WEB-DL 1080p AVC AAC][简繁日内封]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-08-09T01:01:33.514682</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260809/bd596ba2495db3d57815d051c755106a039c1c97.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Mahou Shoujo Lyrical Nanoha EXCEEDS - 06 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/1f52c7e1e97af8b74fcc36bc7a204475a12455af</link>
-			<title>[黒ネズミたち] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Mahou Shoujo Lyrical Nanoha EXCEEDS - 06 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Mahou Shoujo Lyrical Nanoha EXCEEDS - 06 (CR 1920x1080 AVC AAC MKV)[749.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/1f52c7e1e97af8b74fcc36bc7a204475a12455af</link>
-				<contentLength>785907712</contentLength>
-				<pubDate>2026-08-09T01:01:22.446522</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="785907712" url="https://mikanani.me/Download/20260809/1f52c7e1e97af8b74fcc36bc7a204475a12455af.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
