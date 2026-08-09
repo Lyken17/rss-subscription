@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/561a681d8f7a08cb699e36917845884e8007040d</link>
+			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][690.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/561a681d8f7a08cb699e36917845884e8007040d</link>
+				<contentLength>724041728</contentLength>
+				<pubDate>2026-08-10T06:57:00.029</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="724041728" url="https://mikanani.me/Download/20260810/561a681d8f7a08cb699e36917845884e8007040d.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 在超市后门吸烟的二人 / Super no Ura de Yani Suu Futari [05][1080P][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/f3e656309bc6699721279f19b2ddd17f25c41ff4</link>
 			<title>[桜都字幕组] 在超市后门吸烟的二人 / Super no Ura de Yani Suu Futari [05][1080P][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-09T14:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="3865470464" url="https://mikanani.me/Download/20260809/c2018b52e9e0dd17dd378ed8ff7b28e3717fdaa2.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P AVC 8Bit EAC-3&amp;AAC MKV][简英内嵌 CHS&amp;ENG Sub]</guid>
-			<link>https://mikanani.me/Home/Episode/4657ff08ce5413964ff4af327ede178f05394be7</link>
-			<title>[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P AVC 8Bit EAC-3&amp;AAC MKV][简英内嵌 CHS&amp;ENG Sub]</title>
-			<description>[Prejudice-Studio] 记忆管理局 False Memory - 04 [Bilibili WEB-DL 1080P AVC 8Bit EAC-3&amp;AAC MKV][简英内嵌 CHS&amp;ENG Sub][404.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4657ff08ce5413964ff4af327ede178f05394be7</link>
-				<contentLength>423939264</contentLength>
-				<pubDate>2026-08-09T14:45:20.518756</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="423939264" url="https://mikanani.me/Download/20260809/4657ff08ce5413964ff4af327ede178f05394be7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
