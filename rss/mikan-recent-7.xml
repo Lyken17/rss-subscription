@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d66d9b58ccb8347055f1189cd6985ac9470c2f6b</link>
-			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][755.62 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d66d9b58ccb8347055f1189cd6985ac9470c2f6b</link>
-				<contentLength>792324992</contentLength>
-				<pubDate>2026-08-03T07:04:16.274</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="792324992" url="https://mikanani.me/Download/20260803/d66d9b58ccb8347055f1189cd6985ac9470c2f6b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 185 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/4b34f32fce2beffde80c6c4925c946e17bf5abb4</link>
 			<title>[黒ネズミたち] 凡人修仙传 / A Record Of Mortal's Journey To Immortality - 185 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
@@ -9279,6 +9267,18 @@
 				<pubDate>2026-08-10T12:00:53.307886</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="414606944" url="https://mikanani.me/Download/20260810/96afeecd9cfa712dc3fc51eb74ca28f303130cb1.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 独眼的残像 / Detective Conan M28: One-eyed Flashback 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7d1cd660dc09bcce406392806fb1fab3f7303109</link>
+			<title>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 独眼的残像 / Detective Conan M28: One-eyed Flashback 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
+			<description>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 独眼的残像 / Detective Conan M28: One-eyed Flashback 10-bit 1080p HEVC BDRip [MOVIE Fin][10.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d1cd660dc09bcce406392806fb1fab3f7303109</link>
+				<contentLength>11596411904</contentLength>
+				<pubDate>2026-08-10T14:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11596411904" url="https://mikanani.me/Download/20260810/7d1cd660dc09bcce406392806fb1fab3f7303109.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 独眼的残像 / Detective Conan M28: One-eyed Flashback 10-bit 1080p HEVC BDRip [MOVIE Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/7d1cd660dc09bcce406392806fb1fab3f7303109</link>
+			<title>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 独眼的残像 / Detective Conan M28: One-eyed Flashback 10-bit 1080p HEVC BDRip [MOVIE Fin]</title>
+			<description>[银色子弹字幕组&amp;VCB-Studio] 名侦探柯南 独眼的残像 / Detective Conan M28: One-eyed Flashback 10-bit 1080p HEVC BDRip [MOVIE Fin][10.8GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7d1cd660dc09bcce406392806fb1fab3f7303109</link>
+				<contentLength>11596411904</contentLength>
+				<pubDate>2026-08-10T14:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="11596411904" url="https://mikanani.me/Download/20260810/7d1cd660dc09bcce406392806fb1fab3f7303109.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 科学超电磁砲/Toaru Kagaku no Railgun S01 | 01-24+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/5fea421b7e7643692074ab3f38dd460d3c811fec</link>
 			<title>[7³ACG] 科学超电磁砲/Toaru Kagaku no Railgun S01 | 01-24+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-09T16:30:43.735505</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="314782528" url="https://mikanani.me/Download/20260809/3493af2dd08ce046cec96ad649ef25a936682fb8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 正相反的你与我 / Seihantai na Kimi to Boku 2nd Season - 18 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/26339b5a0b79237176b16d77ba241c3ade1da23b</link>
-			<title>[黒ネズミたち] 正相反的你与我 / Seihantai na Kimi to Boku 2nd Season - 18 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 正相反的你与我 / Seihantai na Kimi to Boku 2nd Season - 18 (B-Global 1920x1080 HEVC AAC MKV)[223.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/26339b5a0b79237176b16d77ba241c3ade1da23b</link>
-				<contentLength>234147024</contentLength>
-				<pubDate>2026-08-09T16:30:36.318691</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="234147024" url="https://mikanani.me/Download/20260809/26339b5a0b79237176b16d77ba241c3ade1da23b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
