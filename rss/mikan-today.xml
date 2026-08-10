@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 剧场版「进击的巨人」完结篇THE LAST ATTACK/Shingeki no Kyojin Movie: The Last Attack 2024 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/2223c73e730ca6658f4ababd32ccda846396aa48</link>
+			<title>[7³ACG] 剧场版「进击的巨人」完结篇THE LAST ATTACK/Shingeki no Kyojin Movie: The Last Attack 2024 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 剧场版「进击的巨人」完结篇THE LAST ATTACK/Shingeki no Kyojin Movie: The Last Attack 2024 [简繁字幕] BDrip 1080p x265 OPUS 2.0[6.0GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2223c73e730ca6658f4ababd32ccda846396aa48</link>
+				<contentLength>6442450944</contentLength>
+				<pubDate>2026-08-11T05:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6442450944" url="https://mikanani.me/Download/20260811/2223c73e730ca6658f4ababd32ccda846396aa48.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][18][WebRip][1080P][HEVC 10bit][简繁日内封]（检索用：相反的你和我）</guid>
 			<link>https://mikanani.me/Home/Episode/7095ff4cee1e49b3e6a1bad0ef3657f70d442e40</link>
 			<title>[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][18][WebRip][1080P][HEVC 10bit][简繁日内封]（检索用：相反的你和我）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-10T00:02:05.461921</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260810/85a2552f8d666625a18f2fba521f401403fe5a07.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 我是不才恶女 / Futsutsuka - 05 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0d488390c55f1aa540a95413b0b285989d644da8</link>
-			<title>[黒ネズミたち] 我是不才恶女 / Futsutsuka - 05 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 我是不才恶女 / Futsutsuka - 05 (ABEMA 1920x1080 AVC AAC MKV)[715.7 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0d488390c55f1aa540a95413b0b285989d644da8</link>
-				<contentLength>750465856</contentLength>
-				<pubDate>2026-08-10T00:00:53.70757</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="750465856" url="https://mikanani.me/Download/20260810/0d488390c55f1aa540a95413b0b285989d644da8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
