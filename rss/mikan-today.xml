@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 30 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/ae94602b4d8d4329d933c6bbfce066391fb2080e</link>
+			<title>[LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 30 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 超超超超超喜欢你的100个女朋友 / Hyakkano - 30 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][550.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae94602b4d8d4329d933c6bbfce066391fb2080e</link>
+				<contentLength>576926528</contentLength>
+				<pubDate>2026-08-12T11:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="576926528" url="https://mikanani.me/Download/20260812/ae94602b4d8d4329d933c6bbfce066391fb2080e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[搬运][Erai-raws]最强出涸らし王子の暗跃帝位争い06|最强废渣王子暗中活跃于帝位之争06 1080P 简繁中字 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/6645ec0a26aea507341d25143bbd10aa92b0a77f</link>
 			<title>[搬运][Erai-raws]最强出涸らし王子の暗跃帝位争い06|最强废渣王子暗中活跃于帝位之争06 1080P 简繁中字 多国字幕</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-11T15:41:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="503421344" url="https://mikanani.me/Download/20260811/e1e626c49873bc5901e9ee66abb1ab30c9357201.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[猫与龙 / Neko to Ryuu][05][1080p][简繁日内封][招募翻译]</guid>
-			<link>https://mikanani.me/Home/Episode/36b0282f8880868a2bb5c88e3770c418283966b5</link>
-			<title>【喵萌奶茶屋】★07月新番★[猫与龙 / Neko to Ryuu][05][1080p][简繁日内封][招募翻译]</title>
-			<description>【喵萌奶茶屋】★07月新番★[猫与龙 / Neko to Ryuu][05][1080p][简繁日内封][招募翻译][642.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/36b0282f8880868a2bb5c88e3770c418283966b5</link>
-				<contentLength>673605248</contentLength>
-				<pubDate>2026-08-11T15:40:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="673605248" url="https://mikanani.me/Download/20260811/36b0282f8880868a2bb5c88e3770c418283966b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
