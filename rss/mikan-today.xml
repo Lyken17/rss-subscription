@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / Sayonara Lara [06v2][WebRip][HEVC_AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/8a76f1b1a95927e09c7e0bce5120b15ebe7378f8</link>
+			<title>[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / Sayonara Lara [06v2][WebRip][HEVC_AAC][简日内嵌]</title>
+			<description>[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / Sayonara Lara [06v2][WebRip][HEVC_AAC][简日内嵌][375.77 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8a76f1b1a95927e09c7e0bce5120b15ebe7378f8</link>
+				<contentLength>394023392</contentLength>
+				<pubDate>2026-08-13T04:22:53.721</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="394023392" url="https://mikanani.me/Download/20260813/8a76f1b1a95927e09c7e0bce5120b15ebe7378f8.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">LV999的村民 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {LV999 no Murabito | LV999の村人 | The Villager of Level 999}</guid>
 			<link>https://mikanani.me/Home/Episode/b8aa758f2c15bb48a09648d2fff9ca6691188ef0</link>
 			<title>LV999的村民 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {LV999 no Murabito | LV999の村人 | The Villager of Level 999}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-12T21:05:15.096385</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="713660800" url="https://mikanani.me/Download/20260812/e41c8e1640a32c24162b49916ad6fbabf54532d8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] BanG Dream! YUME∞MITA / BanG Dream! ゆめ∞みた / BanG Dream YUME MITA S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/85e6a188c1410684606b8f1b59f819c237b3d3ca</link>
-			<title>[Nix-Raws] BanG Dream! YUME∞MITA / BanG Dream! ゆめ∞みた / BanG Dream YUME MITA S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] BanG Dream! YUME∞MITA / BanG Dream! ゆめ∞みた / BanG Dream YUME MITA S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封][690.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/85e6a188c1410684606b8f1b59f819c237b3d3ca</link>
-				<contentLength>724356288</contentLength>
-				<pubDate>2026-08-12T21:04:16.781752</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="724356288" url="https://mikanani.me/Download/20260812/85e6a188c1410684606b8f1b59f819c237b3d3ca.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
