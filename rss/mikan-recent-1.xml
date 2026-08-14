@@ -1600,5 +1600,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="182242512" url="https://mikanani.me/Download/20260814/d922a3b16ac2e272e13d9a97e74ce1a3cf863789.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</guid>
+			<link>https://mikanani.me/Home/Episode/e93ca74de517a5f117a356dd6405fc7d66ae05c8</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）[337.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e93ca74de517a5f117a356dd6405fc7d66ae05c8</link>
+				<contentLength>353579840</contentLength>
+				<pubDate>2026-08-14T15:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="353579840" url="https://mikanani.me/Download/20260814/e93ca74de517a5f117a356dd6405fc7d66ae05c8.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
