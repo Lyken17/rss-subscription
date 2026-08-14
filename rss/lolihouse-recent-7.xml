@@ -676,5 +676,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="603560320" url="https://mikanani.me/Download/20260814/50436e290f7f17ab9ea6f49916ce1aa77fe8579e.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e07e3455c1828287e7d72261cfa4cfbc699a9c9d</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][506.65 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e07e3455c1828287e7d72261cfa4cfbc699a9c9d</link>
+				<contentLength>531261024</contentLength>
+				<pubDate>2026-08-14T21:16:21.001</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="531261024" url="https://mikanani.me/Download/20260814/e07e3455c1828287e7d72261cfa4cfbc699a9c9d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
