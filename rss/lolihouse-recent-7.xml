@@ -712,5 +712,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="705481920" url="https://mikanani.me/Download/20260815/184ced99e93a23937760481aba517517562cd9ad.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] BLACK TORCH 暗黑灯火 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/49dddec6b8096b9bf00fd5046aabf7e05507b12d</link>
+			<title>[LoliHouse] BLACK TORCH 暗黑灯火 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] BLACK TORCH 暗黑灯火 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][903.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/49dddec6b8096b9bf00fd5046aabf7e05507b12d</link>
+				<contentLength>947283584</contentLength>
+				<pubDate>2026-08-16T01:25:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="947283584" url="https://mikanani.me/Download/20260816/49dddec6b8096b9bf00fd5046aabf7e05507b12d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
