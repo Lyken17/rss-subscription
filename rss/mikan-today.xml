@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[ANi] Mairimashita Irumakun S04 /  入间同学入魔了！第四季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
+			<link>https://mikanani.me/Home/Episode/0af3c37564d952497f255948575c8877befdf392</link>
+			<title>[ANi] Mairimashita Irumakun S04 /  入间同学入魔了！第四季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
+			<description>[ANi] Mairimashita Irumakun S04 /  入间同学入魔了！第四季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][691.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0af3c37564d952497f255948575c8877befdf392</link>
+				<contentLength>725195136</contentLength>
+				<pubDate>2026-08-15T19:30:57.893948</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="725195136" url="https://mikanani.me/Download/20260815/0af3c37564d952497f255948575c8877befdf392.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E18 1080p 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/b3460e032bba67861e7625ba3d80b025cb89579b</link>
 			<title>小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E18 1080p 多国字幕</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-14T23:05:58.696381</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260814/91a202717fec1539b81cc32ffadf63d2434f5739.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 关于我转生变成史莱姆这档事 第四季 / Tensei shitara Slime Datta Ken 4th Season - 90 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/520f2b9542f0a4b7da6bf9c7a1a16fd3c79b380c</link>
-			<title>[黒ネズミたち] 关于我转生变成史莱姆这档事 第四季 / Tensei shitara Slime Datta Ken 4th Season - 90 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 关于我转生变成史莱姆这档事 第四季 / Tensei shitara Slime Datta Ken 4th Season - 90 (CR 1920x1080 AVC AAC MKV)[925.5 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/520f2b9542f0a4b7da6bf9c7a1a16fd3c79b380c</link>
-				<contentLength>970457088</contentLength>
-				<pubDate>2026-08-14T23:02:19.64255</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="970457088" url="https://mikanani.me/Download/20260814/520f2b9542f0a4b7da6bf9c7a1a16fd3c79b380c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
