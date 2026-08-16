@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/195ad8fee4a8795439224652d9a1c7dde2135020</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][493.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/195ad8fee4a8795439224652d9a1c7dde2135020</link>
-				<contentLength>517262528</contentLength>
-				<pubDate>2026-08-15T02:19:02.687</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="517262528" url="https://mikanani.me/Download/20260815/195ad8fee4a8795439224652d9a1c7dde2135020.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/1d4a4da254d138afc6551e6190861c3561a24b03</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 09 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -63,6 +51,18 @@
 				<pubDate>2026-08-16T01:25:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="947283584" url="https://mikanani.me/Download/20260816/49dddec6b8096b9bf00fd5046aabf7e05507b12d.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/007e7fb1da9170cb9eb9d2c7ae5dd3e95435a2d3</link>
+			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 19 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][551.14 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/007e7fb1da9170cb9eb9d2c7ae5dd3e95435a2d3</link>
+				<contentLength>577912192</contentLength>
+				<pubDate>2026-08-16T10:08:03.909</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="577912192" url="https://mikanani.me/Download/20260816/007e7fb1da9170cb9eb9d2c7ae5dd3e95435a2d3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
