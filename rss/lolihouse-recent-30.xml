@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 41 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/cb7e3f70118d7c0619bbb1eaf33f0ffdaec6ce6c</link>
-			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 41 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 41 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][42.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cb7e3f70118d7c0619bbb1eaf33f0ffdaec6ce6c</link>
-				<contentLength>44983912</contentLength>
-				<pubDate>2026-07-17T07:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="44983912" url="https://mikanani.me/Download/20260717/cb7e3f70118d7c0619bbb1eaf33f0ffdaec6ce6c.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a1bacad64129411532d147af906cb39da5a85482</link>
 			<title>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3267,6 +3255,18 @@
 				<pubDate>2026-08-16T10:08:03.909</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="577912192" url="https://mikanani.me/Download/20260816/007e7fb1da9170cb9eb9d2c7ae5dd3e95435a2d3.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Grow Up Show ～向日葵马戏团～ / 成长秀 向日葵马戏团 / Grow Up Show - Himawari no Circus-dan - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4cac01885c785009e8e65376d15694e7bbc99a36</link>
+			<title>[LoliHouse] Grow Up Show ～向日葵马戏团～ / 成长秀 向日葵马戏团 / Grow Up Show - Himawari no Circus-dan - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Grow Up Show ～向日葵马戏团～ / 成长秀 向日葵马戏团 / Grow Up Show - Himawari no Circus-dan - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][554.81 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4cac01885c785009e8e65376d15694e7bbc99a36</link>
+				<contentLength>581760448</contentLength>
+				<pubDate>2026-08-16T15:29:27.277</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="581760448" url="https://mikanani.me/Download/20260816/4cac01885c785009e8e65376d15694e7bbc99a36.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
