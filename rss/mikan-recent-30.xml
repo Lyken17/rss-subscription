@@ -40444,5 +40444,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="763363328" url="https://mikanani.me/Download/20260817/df449d78ef69734a84d891cec2e65f398b50302c.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][7月新番][奇招百出的维多利亚][Tefuda ga Oome no Victoria][01][1080P][MP4][BIG5][繁中]</guid>
+			<link>https://mikanani.me/Home/Episode/48077bb3e1912c043cb99f3fa517b41c2bf84a81</link>
+			<title>[爱恋字幕社][7月新番][奇招百出的维多利亚][Tefuda ga Oome no Victoria][01][1080P][MP4][BIG5][繁中]</title>
+			<description>[爱恋字幕社][7月新番][奇招百出的维多利亚][Tefuda ga Oome no Victoria][01][1080P][MP4][BIG5][繁中][2.07 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/48077bb3e1912c043cb99f3fa517b41c2bf84a81</link>
+				<contentLength>2222645504</contentLength>
+				<pubDate>2026-08-17T02:26:20.794</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2222645504" url="https://mikanani.me/Download/20260817/48077bb3e1912c043cb99f3fa517b41c2bf84a81.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[爱恋字幕社][7月新番][奇招百出的维多利亚][Tefuda ga Oome no Victoria][01][1080P][MP4][GB][简中]</guid>
+			<link>https://mikanani.me/Home/Episode/5f2ebd8195710f3da61946d836383e9b35cac922</link>
+			<title>[爱恋字幕社][7月新番][奇招百出的维多利亚][Tefuda ga Oome no Victoria][01][1080P][MP4][GB][简中]</title>
+			<description>[爱恋字幕社][7月新番][奇招百出的维多利亚][Tefuda ga Oome no Victoria][01][1080P][MP4][GB][简中][2.07 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f2ebd8195710f3da61946d836383e9b35cac922</link>
+				<contentLength>2222645504</contentLength>
+				<pubDate>2026-08-17T02:24:39.383</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2222645504" url="https://mikanani.me/Download/20260817/5f2ebd8195710f3da61946d836383e9b35cac922.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
