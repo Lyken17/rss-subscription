@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 黄泉使者 / Yomi no Tsugai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/f3f2cfb66c8d63917fd9d31f4e5583607a0d3a09</link>
-			<title>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 黄泉使者 / Yomi no Tsugai - 18 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][536.67 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f3f2cfb66c8d63917fd9d31f4e5583607a0d3a09</link>
-				<contentLength>562739264</contentLength>
-				<pubDate>2026-08-09T09:28:25.501</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="562739264" url="https://mikanani.me/Download/20260809/f3f2cfb66c8d63917fd9d31f4e5583607a0d3a09.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/820afc9dca389a681231ed5297937017a9d95c87</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -687,6 +675,18 @@
 				<pubDate>2026-08-16T15:29:27.277</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="581760448" url="https://mikanani.me/Download/20260816/4cac01885c785009e8e65376d15694e7bbc99a36.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/aa135b79b8a433428baf06db0b96c2adc1789fe5</link>
+			<title>[LoliHouse] MAO摩绪 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][562MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aa135b79b8a433428baf06db0b96c2adc1789fe5</link>
+				<contentLength>589299712</contentLength>
+				<pubDate>2026-08-16T17:56:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="589299712" url="https://mikanani.me/Download/20260816/aa135b79b8a433428baf06db0b96c2adc1789fe5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
