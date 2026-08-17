@@ -39988,5 +39988,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1428076672" url="https://mikanani.me/Download/20260817/43dae4a31bb1ae2265fcd01e196a9f5f28d18273.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1174][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
+			<link>https://mikanani.me/Home/Episode/0bcd4a04774125fdc6d738a56bd95387cc924768</link>
+			<title>[Skymoon-Raws][One Piece 海贼王][1174][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
+			<description>[Skymoon-Raws][One Piece 海贼王][1174][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][497MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0bcd4a04774125fdc6d738a56bd95387cc924768</link>
+				<contentLength>521142272</contentLength>
+				<pubDate>2026-08-17T15:12:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="521142272" url="https://mikanani.me/Download/20260817/0bcd4a04774125fdc6d738a56bd95387cc924768.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
