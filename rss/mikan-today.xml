@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 果然我的青春恋爱喜剧搞错了。/Yahari Ore no Seishun Love Come wa Machigatteiru. S01 | 01-13+SPx1 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/aee0df11ef6987f8e979f326f08514542a782e7a</link>
+			<title>[7³ACG] 果然我的青春恋爱喜剧搞错了。/Yahari Ore no Seishun Love Come wa Machigatteiru. S01 | 01-13+SPx1 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 果然我的青春恋爱喜剧搞错了。/Yahari Ore no Seishun Love Come wa Machigatteiru. S01 | 01-13+SPx1 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aee0df11ef6987f8e979f326f08514542a782e7a</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2026-08-17T17:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20260817/aee0df11ef6987f8e979f326f08514542a782e7a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][19][WebRip][1080P][HEVC 10bit][简繁日内封]（检索用：相反的你和我）</guid>
 			<link>https://mikanani.me/Home/Episode/4dc99950e4909ba79af56acc02076f9e527d2b43</link>
 			<title>[SweetSub][正相反的你与我][Seihantai na Kimi to Boku][19][WebRip][1080P][HEVC 10bit][简繁日内封]（检索用：相反的你和我）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-16T20:18:03.327</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260816/b60900e049b8e7dab4f893c251b991e40f3cffb4.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[2160p] Hello World 你好世界 (2019) (AV1 opus RealESR)</guid>
-			<link>https://mikanani.me/Home/Episode/6a5ab274d323e64511865928280cb2d9254ef4a2</link>
-			<title>[2160p] Hello World 你好世界 (2019) (AV1 opus RealESR)</title>
-			<description>[2160p] Hello World 你好世界 (2019) (AV1 opus RealESR)[2.53 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a5ab274d323e64511865928280cb2d9254ef4a2</link>
-				<contentLength>2716566784</contentLength>
-				<pubDate>2026-08-16T18:38:51.669</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2716566784" url="https://mikanani.me/Download/20260816/6a5ab274d323e64511865928280cb2d9254ef4a2.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

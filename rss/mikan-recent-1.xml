@@ -1732,5 +1732,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="380737952" url="https://mikanani.me/Download/20260817/cee4bdfb1f53ad99786d298f0ef70f361cef38f7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 果然我的青春恋爱喜剧搞错了。/Yahari Ore no Seishun Love Come wa Machigatteiru. S01 | 01-13+SPx1 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/aee0df11ef6987f8e979f326f08514542a782e7a</link>
+			<title>[7³ACG] 果然我的青春恋爱喜剧搞错了。/Yahari Ore no Seishun Love Come wa Machigatteiru. S01 | 01-13+SPx1 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 果然我的青春恋爱喜剧搞错了。/Yahari Ore no Seishun Love Come wa Machigatteiru. S01 | 01-13+SPx1 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.7GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/aee0df11ef6987f8e979f326f08514542a782e7a</link>
+				<contentLength>5046586368</contentLength>
+				<pubDate>2026-08-17T17:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5046586368" url="https://mikanani.me/Download/20260817/aee0df11ef6987f8e979f326f08514542a782e7a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
