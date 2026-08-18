@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 96 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/acec2c3efe92967253729cb093a6bd70e8303d4a</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 96 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 96 (B-Global Donghua 1920x1080 HEVC AAC MKV)[608.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/acec2c3efe92967253729cb093a6bd70e8303d4a</link>
+				<contentLength>637639040</contentLength>
+				<pubDate>2026-08-18T11:00:59.692516</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="637639040" url="https://mikanani.me/Download/20260818/acec2c3efe92967253729cb093a6bd70e8303d4a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[搬运][Erai-raws]最强出涸らし王子の暗跃帝位争い07❘最强废渣王子暗中活跃于帝位之争07 1080P 繁简中字 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/912b3b00ab7da3901d6ee46643b3706ceb2d62a3</link>
 			<title>[搬运][Erai-raws]最强出涸らし王子の暗跃帝位争い07❘最强废渣王子暗中活跃于帝位之争07 1080P 繁简中字 多国字幕</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-17T14:07:22.688</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1428076672" url="https://mikanani.me/Download/20260817/43dae4a31bb1ae2265fcd01e196a9f5f28d18273.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Prejudice-Studio] 碧蓝航线：微速前行！2!！ Azur Lane：Bisoku Zenshin! Ni!! - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</guid>
-			<link>https://mikanani.me/Home/Episode/3e3a225e98aabf0541b2a1dcd54d68eac75660b1</link>
-			<title>[Prejudice-Studio] 碧蓝航线：微速前行！2!！ Azur Lane：Bisoku Zenshin! Ni!! - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌]</title>
-			<description>[Prejudice-Studio] 碧蓝航线：微速前行！2!！ Azur Lane：Bisoku Zenshin! Ni!! - 07 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌][90.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3e3a225e98aabf0541b2a1dcd54d68eac75660b1</link>
-				<contentLength>94476696</contentLength>
-				<pubDate>2026-08-17T13:17:36.407293</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="94476696" url="https://mikanani.me/Download/20260817/3e3a225e98aabf0541b2a1dcd54d68eac75660b1.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
