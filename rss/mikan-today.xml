@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 19 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/1b820cd15214458de345edffed4f2ed52a36a061</link>
+			<title>[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 19 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 19 (ABEMA 1920x1080 AVC AAC MKV)[717.9 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1b820cd15214458de345edffed4f2ed52a36a061</link>
+				<contentLength>752772736</contentLength>
+				<pubDate>2026-08-19T16:30:46.441024</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752772736" url="https://mikanani.me/Download/20260819/1b820cd15214458de345edffed4f2ed52a36a061.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 拜托了偶像公主 / Onegai AiPri - 20 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/0107e8208a75c9bffbf425941324f3fefcc703de</link>
 			<title>[黒ネズミたち] 拜托了偶像公主 / Onegai AiPri - 20 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-18T00:36:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="7194070016" url="https://mikanani.me/Download/20260818/cd8050d2cd330e5cba899f566886baf4da1582a9.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 地狱模式 ～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～ 2nd Season / Hell Mode 2nd Season - 19 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/b49c5fe94dbf9117e8f8f636b0c5e6dfe6f77708</link>
-			<title>[黒ネズミたち] 地狱模式 ～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～ 2nd Season / Hell Mode 2nd Season - 19 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 地狱模式 ～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～ 2nd Season / Hell Mode 2nd Season - 19 (ABEMA 1920x1080 AVC AAC MKV)[713.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/b49c5fe94dbf9117e8f8f636b0c5e6dfe6f77708</link>
-				<contentLength>748578432</contentLength>
-				<pubDate>2026-08-18T00:30:42.23031</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="748578432" url="https://mikanani.me/Download/20260818/b49c5fe94dbf9117e8f8f636b0c5e6dfe6f77708.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
