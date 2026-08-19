@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">LV999的村民 - EP09 [简／繁] (1080p H.264 AAC SRTx2) {LV999 no Murabito | LV999の村人 | The Villager of Level 999}</guid>
+			<link>https://mikanani.me/Home/Episode/ed1b4938b50f467aa3bb76627f3e22be91bb2af0</link>
+			<title>LV999的村民 - EP09 [简／繁] (1080p H.264 AAC SRTx2) {LV999 no Murabito | LV999の村人 | The Villager of Level 999}</title>
+			<description>LV999的村民 - EP09 [简／繁] (1080p H.264 AAC SRTx2) {LV999 no Murabito | LV999の村人 | The Villager of Level 999}[1.46 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ed1b4938b50f467aa3bb76627f3e22be91bb2af0</link>
+				<contentLength>1567663104</contentLength>
+				<pubDate>2026-08-20T05:48:24.065</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1567663104" url="https://mikanani.me/Download/20260820/ed1b4938b50f467aa3bb76627f3e22be91bb2af0.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 仙王的日常生活 第四季 （日配版） / The Daily Life of the Immortal King 4 (JP Dub) - 08 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/1ba032c75d87ab46479fcc8d1f6659531b1e94e9</link>
 			<title>[黒ネズミたち] 仙王的日常生活 第四季 （日配版） / The Daily Life of the Immortal King 4 (JP Dub) - 08 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-19T01:00:59.23102</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="750675584" url="https://mikanani.me/Download/20260819/14c9b3cb092532e55781b6ccae7210f5000c482a.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[7³ACG] 果然我的青春恋爱喜剧搞错了。续/Oregairu 2 S02 | 01-13+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
-			<link>https://mikanani.me/Home/Episode/080a5ccceadefef7d6a5382618368063ef24898c</link>
-			<title>[7³ACG] 果然我的青春恋爱喜剧搞错了。续/Oregairu 2 S02 | 01-13+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
-			<description>[7³ACG] 果然我的青春恋爱喜剧搞错了。续/Oregairu 2 S02 | 01-13+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0[10.0GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/080a5ccceadefef7d6a5382618368063ef24898c</link>
-				<contentLength>10737418240</contentLength>
-				<pubDate>2026-08-19T00:51:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="10737418240" url="https://mikanani.me/Download/20260819/080a5ccceadefef7d6a5382618368063ef24898c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
