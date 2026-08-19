@@ -88,5 +88,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="403921952" url="https://mikanani.me/Download/20260818/cd42627ed8811e6ff41f2f9fb2c56f1609c389bc.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f668b35e9ab3ebd122f15e35178d52ebd222fba3</link>
+			<title>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][350.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f668b35e9ab3ebd122f15e35178d52ebd222fba3</link>
+				<contentLength>367840448</contentLength>
+				<pubDate>2026-08-19T20:40:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="367840448" url="https://mikanani.me/Download/20260819/f668b35e9ab3ebd122f15e35178d52ebd222fba3.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
