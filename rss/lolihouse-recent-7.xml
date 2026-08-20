@@ -700,5 +700,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="335303136" url="https://mikanani.me/Download/20260820/8543d18e226839dae9b744cbf903559b3fb90fa8.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/605395fae7d1b6d375644a22fde30e1d043bd2e6</link>
+			<title>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 攻壳机动队 / The Ghost in the Shell - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.08 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/605395fae7d1b6d375644a22fde30e1d043bd2e6</link>
+				<contentLength>1159641216</contentLength>
+				<pubDate>2026-08-21T00:41:55.061</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1159641216" url="https://mikanani.me/Download/20260821/605395fae7d1b6d375644a22fde30e1d043bd2e6.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
