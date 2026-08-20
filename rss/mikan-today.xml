@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 野良神/Noragami S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/e3706681f3e3dda47a00c098b40ea9aa6447981e</link>
+			<title>[7³ACG] 野良神/Noragami S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 野良神/Noragami S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e3706681f3e3dda47a00c098b40ea9aa6447981e</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-08-20T15:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260820/e3706681f3e3dda47a00c098b40ea9aa6447981e.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/1be8c345eee8495149f865323ea014ccb6979d67</link>
 			<title>[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-19T10:33:14.088732</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="766509056" url="https://mikanani.me/Download/20260819/0107e8208a75c9bffbf425941324f3fefcc703de.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 与妳相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 07 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/328ff41ad91ad5bbc6724fe592292e306cfe6e32</link>
-			<title>[黒ネズミたち] 与妳相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 07 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] 与妳相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 07 (Baha 1920x1080 AVC AAC MP4)[306.9 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/328ff41ad91ad5bbc6724fe592292e306cfe6e32</link>
-				<contentLength>321807968</contentLength>
-				<pubDate>2026-08-19T10:30:52.267833</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="321807968" url="https://mikanani.me/Download/20260819/328ff41ad91ad5bbc6724fe592292e306cfe6e32.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

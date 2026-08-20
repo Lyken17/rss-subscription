@@ -1288,5 +1288,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="861677824" url="https://mikanani.me/Download/20260820/1be8c345eee8495149f865323ea014ccb6979d67.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[7³ACG] 野良神/Noragami S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/e3706681f3e3dda47a00c098b40ea9aa6447981e</link>
+			<title>[7³ACG] 野良神/Noragami S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 野良神/Noragami S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[4.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e3706681f3e3dda47a00c098b40ea9aa6447981e</link>
+				<contentLength>5261335040</contentLength>
+				<pubDate>2026-08-20T15:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260820/e3706681f3e3dda47a00c098b40ea9aa6447981e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
