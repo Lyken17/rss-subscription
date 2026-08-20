@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</guid>
-			<link>https://mikanani.me/Home/Episode/515fba1c7048cd85bd841ece0177526df04f3cd5</link>
-			<title>[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV]</title>
-			<description>[Skymoon-Raws][One Piece 海贼王][1170][ViuTV][WEB-RIP][CHT][SRT][1080p][MKV][469MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/515fba1c7048cd85bd841ece0177526df04f3cd5</link>
-				<contentLength>491782144</contentLength>
-				<pubDate>2026-07-21T06:00:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="491782144" url="https://mikanani.me/Download/20260721/515fba1c7048cd85bd841ece0177526df04f3cd5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f34f9e123ced7bafb04770df11aaede2556d92d1</link>
 			<title>[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -39063,6 +39051,18 @@
 				<pubDate>2026-08-20T12:39:37.824058</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386819680" url="https://mikanani.me/Download/20260820/094dd05fdf8bde4e6130eaa85162cd8176788d40.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/1be8c345eee8495149f865323ea014ccb6979d67</link>
+			<title>[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封]</title>
+			<description>[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封][821.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1be8c345eee8495149f865323ea014ccb6979d67</link>
+				<contentLength>861677824</contentLength>
+				<pubDate>2026-08-20T13:35:10.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="861677824" url="https://mikanani.me/Download/20260820/1be8c345eee8495149f865323ea014ccb6979d67.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>

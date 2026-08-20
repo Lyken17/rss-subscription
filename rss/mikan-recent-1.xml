@@ -1276,5 +1276,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="386819680" url="https://mikanani.me/Download/20260820/094dd05fdf8bde4e6130eaa85162cd8176788d40.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/1be8c345eee8495149f865323ea014ccb6979d67</link>
+			<title>[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封]</title>
+			<description>[北宇治字幕组] 穹庐下的魔女 / 穹庐下的魔女 / Tenmaku no Jaadugar [05][WebRip][HEVC_AAC][简繁日内封][821.76 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1be8c345eee8495149f865323ea014ccb6979d67</link>
+				<contentLength>861677824</contentLength>
+				<pubDate>2026-08-20T13:35:10.242</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="861677824" url="https://mikanani.me/Download/20260820/1be8c345eee8495149f865323ea014ccb6979d67.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
