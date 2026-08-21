@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 魔女之旅/Majo no Tabitabi S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/31584704ecb50b8f2166a58c4ad4e70033cfee3b</link>
+			<title>[7³ACG] 魔女之旅/Majo no Tabitabi S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
+			<description>[7³ACG] 魔女之旅/Majo no Tabitabi S01 | 01-12 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[9.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/31584704ecb50b8f2166a58c4ad4e70033cfee3b</link>
+				<contentLength>9878424576</contentLength>
+				<pubDate>2026-08-22T05:41:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="9878424576" url="https://mikanani.me/Download/20260822/31584704ecb50b8f2166a58c4ad4e70033cfee3b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 19(91) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/503f6cce64f4261207bf4536edb2f99bbb756d29</link>
 			<title>[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 19(91) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-21T12:00:32.572108</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="159383552" url="https://mikanani.me/Download/20260821/ebff4bf3fc068d24e8f183f610d862fa4f9a37a1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] 文豪野犬 汪！第二季 / 文豪ストレイドッグス わん！２ / Bungo Stray Dogs WAN S02E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/bd3a80402d5643bc4b55942881b8e51acdfde309</link>
-			<title>[Nix-Raws] 文豪野犬 汪！第二季 / 文豪ストレイドッグス わん！２ / Bungo Stray Dogs WAN S02E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] 文豪野犬 汪！第二季 / 文豪ストレイドッグス わん！２ / Bungo Stray Dogs WAN S02E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封][342.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/bd3a80402d5643bc4b55942881b8e51acdfde309</link>
-				<contentLength>358822720</contentLength>
-				<pubDate>2026-08-21T11:31:13.37924</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="358822720" url="https://mikanani.me/Download/20260821/bd3a80402d5643bc4b55942881b8e51acdfde309.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
