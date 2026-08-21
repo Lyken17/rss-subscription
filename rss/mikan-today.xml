@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 19(91) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/503f6cce64f4261207bf4536edb2f99bbb756d29</link>
+			<title>[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 19(91) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕]</title>
+			<description>[豌豆字幕组&amp;LoliHouse] 关于我转生变成史莱姆这档事 第四季 / Tensei Shitara Slime Datta Ken 4th Season - 19(91) [WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][708.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/503f6cce64f4261207bf4536edb2f99bbb756d29</link>
+				<contentLength>742601536</contentLength>
+				<pubDate>2026-08-22T03:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="742601536" url="https://mikanani.me/Download/20260822/503f6cce64f4261207bf4536edb2f99bbb756d29.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] Nui Story 2 - 96 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/7c058df9ff6e02f4f1eb717b0f9c64ec4d135dc1</link>
 			<title>[黒ネズミたち] Nui Story 2 - 96 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-21T11:31:13.37924</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="358822720" url="https://mikanani.me/Download/20260821/bd3a80402d5643bc4b55942881b8e51acdfde309.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] 遭到流放的转生重骑士凭借游戏知识大开无双 / Tsuihou Sareta Tensei Juukishi wa Game Chishiki S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/351fe2e19b0cb28e80ff9a048b4b591108c2d551</link>
-			<title>[Nix-Raws] 遭到流放的转生重骑士凭借游戏知识大开无双 / Tsuihou Sareta Tensei Juukishi wa Game Chishiki S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] 遭到流放的转生重骑士凭借游戏知识大开无双 / Tsuihou Sareta Tensei Juukishi wa Game Chishiki S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封][710.3 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/351fe2e19b0cb28e80ff9a048b4b591108c2d551</link>
-				<contentLength>744803520</contentLength>
-				<pubDate>2026-08-21T11:29:12.846441</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="744803520" url="https://mikanani.me/Download/20260821/351fe2e19b0cb28e80ff9a048b4b591108c2d551.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
