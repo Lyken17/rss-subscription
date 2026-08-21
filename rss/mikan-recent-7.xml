@@ -8908,5 +8908,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="335544320" url="https://mikanani.me/Download/20260821/96802a6f8686e777933a9f5351f471d32d29aaf5.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 再见，菈菈 / Sayonara Lara [07][WebRip][HEVC_AAC][繁日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/8bf4a0fc48e3bd51eb5fc65240750f1926bdb643</link>
+			<title>[北宇治字幕组] 再见，菈菈 / Sayonara Lara [07][WebRip][HEVC_AAC][繁日内嵌]</title>
+			<description>[北宇治字幕组] 再见，菈菈 / Sayonara Lara [07][WebRip][HEVC_AAC][繁日内嵌][392.61 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8bf4a0fc48e3bd51eb5fc65240750f1926bdb643</link>
+				<contentLength>411681408</contentLength>
+				<pubDate>2026-08-21T15:53:39.504</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="411681408" url="https://mikanani.me/Download/20260821/8bf4a0fc48e3bd51eb5fc65240750f1926bdb643.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / Sayonara Lara [07][WebRip][HEVC_AAC][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/bd92ccc38b8361a327284334d44db16f64c637fb</link>
+			<title>[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / Sayonara Lara [07][WebRip][HEVC_AAC][简日内嵌]</title>
+			<description>[北宇治字幕组] 再见，菈菈 / 再见，拉拉 / Sayonara Lara [07][WebRip][HEVC_AAC][简日内嵌][392.34 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/bd92ccc38b8361a327284334d44db16f64c637fb</link>
+				<contentLength>411398304</contentLength>
+				<pubDate>2026-08-21T15:53:35.481</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="411398304" url="https://mikanani.me/Download/20260821/bd92ccc38b8361a327284334d44db16f64c637fb.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
