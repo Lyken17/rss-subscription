@@ -3232,5 +3232,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="532047456" url="https://mikanani.me/Download/20260821/ef5486753f02b1495b4a575048fe1afaf72be586.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;绿茶字幕组&amp;LoliHouse] 缎带英雄 / The Ribbon Hero [v2][WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/104605e724d68d7badad2fdd0d0185778ca93fac</link>
+			<title>[SweetSub&amp;绿茶字幕组&amp;LoliHouse] 缎带英雄 / The Ribbon Hero [v2][WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;绿茶字幕组&amp;LoliHouse] 缎带英雄 / The Ribbon Hero [v2][WebRip 1080p HEVC-10bit AAC EAC3][简繁日内封字幕][3.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/104605e724d68d7badad2fdd0d0185778ca93fac</link>
+				<contentLength>3435973888</contentLength>
+				<pubDate>2026-08-21T17:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="3435973888" url="https://mikanani.me/Download/20260821/104605e724d68d7badad2fdd0d0185778ca93fac.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
