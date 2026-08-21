@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[NEST] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei Jobless Reincarnation S03 - 08 [CR WEB-DL 1080p AVC AAC][简繁日内封]</guid>
+			<link>https://mikanani.me/Home/Episode/5bb8f979c052bb0c7ec683bc3c727ef185e6a468</link>
+			<title>[NEST] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei Jobless Reincarnation S03 - 08 [CR WEB-DL 1080p AVC AAC][简繁日内封]</title>
+			<description>[NEST] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei Jobless Reincarnation S03 - 08 [CR WEB-DL 1080p AVC AAC][简繁日内封][1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5bb8f979c052bb0c7ec683bc3c727ef185e6a468</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-08-21T19:15:36.226115</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260821/5bb8f979c052bb0c7ec683bc3c727ef185e6a468.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[TV版&amp;无修版] 尼古喵喵 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {Yani Neko | ヤニねこ | Chainsmoker Cat}</guid>
 			<link>https://mikanani.me/Home/Episode/629b40f10fe9a8436730153229416f9bbb2662e4</link>
 			<title>[TV版&amp;无修版] 尼古喵喵 - EP08 [简／繁] (1080p H.264 AAC SRTx2) {Yani Neko | ヤニねこ | Chainsmoker Cat}</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-20T21:31:01.732016</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="745642368" url="https://mikanani.me/Download/20260820/765df31894f36e7ae3a48cdab14e498f76ff2a7d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[46][1080p AVC AAC][繁体]</guid>
-			<link>https://mikanani.me/Home/Episode/9a72e56fb4aa086e217313312940b7e427900969</link>
-			<title>【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[46][1080p AVC AAC][繁体]</title>
-			<description>【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[46][1080p AVC AAC][繁体][22.93 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9a72e56fb4aa086e217313312940b7e427900969</link>
-				<contentLength>24043848</contentLength>
-				<pubDate>2026-08-20T21:30:37.669</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="24043848" url="https://mikanani.me/Download/20260820/9a72e56fb4aa086e217313312940b7e427900969.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
