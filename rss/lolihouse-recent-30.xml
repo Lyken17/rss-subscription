@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 幼女战记II / Youjo Senki II - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)</guid>
-			<link>https://mikanani.me/Home/Episode/11a7467997de08f8994788fe618d6eafad7fcc31</link>
-			<title>[LoliHouse] 幼女战记II / Youjo Senki II - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)</title>
-			<description>[LoliHouse] 幼女战记II / Youjo Senki II - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕](检索用：谭雅战记)[617.24 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/11a7467997de08f8994788fe618d6eafad7fcc31</link>
-				<contentLength>647223040</contentLength>
-				<pubDate>2026-07-23T00:04:56.325</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="647223040" url="https://mikanani.me/Download/20260723/11a7467997de08f8994788fe618d6eafad7fcc31.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</guid>
 			<link>https://mikanani.me/Home/Episode/078621588b4765991316dcd2e8bf19b3570c1b7d</link>
 			<title>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</title>
@@ -3195,6 +3183,18 @@
 				<pubDate>2026-08-22T03:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="742601536" url="https://mikanani.me/Download/20260822/503f6cce64f4261207bf4536edb2f99bbb756d29.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/e17467249ae0e9c6a12c4de79483ea95392d167e</link>
+			<title>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.27 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e17467249ae0e9c6a12c4de79483ea95392d167e</link>
+				<contentLength>1363652096</contentLength>
+				<pubDate>2026-08-22T07:30:20.151</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20260822/e17467249ae0e9c6a12c4de79483ea95392d167e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
