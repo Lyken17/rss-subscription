@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 将夜 / Ever Night - 19 (B-Global Donghua 1920x832 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/5413a8661270aec97ebbbead7ea8bb374f3b14e3</link>
+			<title>[黒ネズミたち] 将夜 / Ever Night - 19 (B-Global Donghua 1920x832 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 将夜 / Ever Night - 19 (B-Global Donghua 1920x832 HEVC AAC MKV)[561.6 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5413a8661270aec97ebbbead7ea8bb374f3b14e3</link>
+				<contentLength>588880256</contentLength>
+				<pubDate>2026-08-22T12:01:05.783938</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="588880256" url="https://mikanani.me/Download/20260822/5413a8661270aec97ebbbead7ea8bb374f3b14e3.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[Nix-Raws] 我家的弟弟们真是让您费心了 / うちの弟どもがすみません / Uchi no Otouto-domo ga Sumimasen S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/b5a1027ed521abc21c2ccb686b3318d8fe5cfba5</link>
 			<title>[Nix-Raws] 我家的弟弟们真是让您费心了 / うちの弟どもがすみません / Uchi no Otouto-domo ga Sumimasen S01E08 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-21T13:45:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="335544320" url="https://mikanani.me/Download/20260821/96802a6f8686e777933a9f5351f471d32d29aaf5.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+舞台剧+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</guid>
-			<link>https://mikanani.me/Home/Episode/c51849ff52eb61a367a19d76c00c3a2a1dd06430</link>
-			<title>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+舞台剧+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.02)</title>
-			<description>[整理搬运] 犬夜叉 (Inuyasha)：TV动画 (本篇、完结篇)+剧场版+舞台剧+OVA篇+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2023.05.02)[101.4GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c51849ff52eb61a367a19d76c00c3a2a1dd06430</link>
-				<contentLength>108877422592</contentLength>
-				<pubDate>2026-08-21T13:05:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="108877422592" url="https://mikanani.me/Download/20260821/c51849ff52eb61a367a19d76c00c3a2a1dd06430.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
