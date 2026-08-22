@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d7265425e49b8844259da9fdd1fe63114f825d46</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 与你相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai - 03 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][466.46 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d7265425e49b8844259da9fdd1fe63114f825d46</link>
-				<contentLength>489118752</contentLength>
-				<pubDate>2026-07-23T17:13:01.782</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="489118752" url="https://mikanani.me/Download/20260723/d7265425e49b8844259da9fdd1fe63114f825d46.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/e2a83ce9d51371e49245fe978fa430fb197646a1</link>
 			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 42 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3099,6 +3087,18 @@
 				<pubDate>2026-08-22T07:30:20.151</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1363652096" url="https://mikanani.me/Download/20260822/e17467249ae0e9c6a12c4de79483ea95392d167e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 猫与龙 / Neko to Ryuu - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/4bc47e5a24a16ffebb3c80a0cd77cb922f83041a</link>
+			<title>[LoliHouse] 猫与龙 / Neko to Ryuu - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 猫与龙 / Neko to Ryuu - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][685.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4bc47e5a24a16ffebb3c80a0cd77cb922f83041a</link>
+				<contentLength>718589120</contentLength>
+				<pubDate>2026-08-23T00:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="718589120" url="https://mikanani.me/Download/20260823/4bc47e5a24a16ffebb3c80a0cd77cb922f83041a.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
