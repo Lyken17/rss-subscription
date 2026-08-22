@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Himejoshi]  ⯎ 死亡游戯で饭を食う。 ⯎ Shibou Yuugi de Meshi wo Kuu. ⯎ 44:CLOUDY BEACH ⯎  Movie 01 (WEB 1080p AV1 繁体官字)</guid>
+			<link>https://mikanani.me/Home/Episode/4133226f95f9071f2ad343c1407478b0019c7d5b</link>
+			<title>[Himejoshi]  ⯎ 死亡游戯で饭を食う。 ⯎ Shibou Yuugi de Meshi wo Kuu. ⯎ 44:CLOUDY BEACH ⯎  Movie 01 (WEB 1080p AV1 繁体官字)</title>
+			<description>[Himejoshi]  ⯎ 死亡游戯で饭を食う。 ⯎ Shibou Yuugi de Meshi wo Kuu. ⯎ 44:CLOUDY BEACH ⯎  Movie 01 (WEB 1080p AV1 繁体官字)[6.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/4133226f95f9071f2ad343c1407478b0019c7d5b</link>
+				<contentLength>6871947776</contentLength>
+				<pubDate>2026-08-22T18:46:59.016599</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="6871947776" url="https://mikanani.me/Download/20260822/4133226f95f9071f2ad343c1407478b0019c7d5b.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E19 1080p 多国字幕</guid>
 			<link>https://mikanani.me/Home/Episode/61154cb4dde9fff5c569a6b6f9b2aca55cbb1e3f</link>
 			<title>小书痴的下克上 领主的养女「本好きの下克上 领主の养女 第4期」Honzuki no Gekokujou S04E19 1080p 多国字幕</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-08-21T23:00:55.829795</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="592969728" url="https://mikanani.me/Download/20260821/1e65cf7c7e8582b9a92d752b2a1ee3b796330c12.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 斗球女弹子 / Honoo no Toukyuujo: Dodge Danko - 07 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/0e4294505bd9e06399a1dfdf926b501f719f4aea</link>
-			<title>[黒ネズミたち] 斗球女弹子 / Honoo no Toukyuujo: Dodge Danko - 07 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 斗球女弹子 / Honoo no Toukyuujo: Dodge Danko - 07 (ABEMA 1920x1080 AVC AAC MKV)[710.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/0e4294505bd9e06399a1dfdf926b501f719f4aea</link>
-				<contentLength>744488960</contentLength>
-				<pubDate>2026-08-21T23:00:54.590326</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="744488960" url="https://mikanani.me/Download/20260821/0e4294505bd9e06399a1dfdf926b501f719f4aea.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
