@@ -688,5 +688,29 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="718589120" url="https://mikanani.me/Download/20260823/4bc47e5a24a16ffebb3c80a0cd77cb922f83041a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/a8c36ce719cd6ae5c1e4a70d95592b48440fdf0b</link>
+			<title>[LoliHouse] MAO摩绪 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] MAO摩绪 - 21 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][546.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a8c36ce719cd6ae5c1e4a70d95592b48440fdf0b</link>
+				<contentLength>572941952</contentLength>
+				<pubDate>2026-08-23T02:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="572941952" url="https://mikanani.me/Download/20260823/a8c36ce719cd6ae5c1e4a70d95592b48440fdf0b.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] BLACK TORCH 暗黑灯火 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/531140ec4bb35d640a7042ea326799c70021523e</link>
+			<title>[LoliHouse] BLACK TORCH 暗黑灯火 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] BLACK TORCH 暗黑灯火 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][771.9MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/531140ec4bb35d640a7042ea326799c70021523e</link>
+				<contentLength>809395840</contentLength>
+				<pubDate>2026-08-23T01:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="809395840" url="https://mikanani.me/Download/20260823/531140ec4bb35d640a7042ea326799c70021523e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
