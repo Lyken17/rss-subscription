@@ -185,18 +185,6 @@
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260724/84c84324c57c2606a7f8d7cb4dea7b613b353432.torrent"></enclosure>
 		</item>
 		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 剧场版「暗杀教室」：我们的时光 / Ansatsu Kyoushitsu Movie: Minna no Jikan (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/f6d9f527cfea39950915b1f73817a5226b2d3fe9</link>
-			<title>[黒ネズミたち] 剧场版「暗杀教室」：我们的时光 / Ansatsu Kyoushitsu Movie: Minna no Jikan (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 剧场版「暗杀教室」：我们的时光 / Ansatsu Kyoushitsu Movie: Minna no Jikan (CR 1920x1080 AVC AAC MKV)[2.8 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f6d9f527cfea39950915b1f73817a5226b2d3fe9</link>
-				<contentLength>3006477056</contentLength>
-				<pubDate>2026-07-24T08:23:04.086967</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="3006477056" url="https://mikanani.me/Download/20260724/f6d9f527cfea39950915b1f73817a5226b2d3fe9.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 24 END [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)</guid>
 			<link>https://mikanani.me/Home/Episode/ff4d22d7a8e5b405942e46bc38befb76b97e66bc</link>
 			<title>[jibaketa合成][代理商粤语]Gachiakuta / 咔嗒咔嗒 - 24 END [粤日双语+内封繁体中文字幕](WEB 1920x1080 AVC AACx2 SRT Ani-One CHT)</title>
@@ -39819,6 +39807,30 @@
 				<pubDate>2026-08-23T14:52:07.577</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="911380288" url="https://mikanani.me/Download/20260823/5dde3fc201dbefeb391ed99dfc2cbadc7bca8344.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][おねがいアイプリ/Onegai_Aipri/拜托了美妙公主][21][简繁日外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法) （总集篇）</guid>
+			<link>https://mikanani.me/Home/Episode/f2198004e87aea943944b9a41173a833f61b5a1f</link>
+			<title>[雪飘工作室][おねがいアイプリ/Onegai_Aipri/拜托了美妙公主][21][简繁日外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法) （总集篇）</title>
+			<description>[雪飘工作室][おねがいアイプリ/Onegai_Aipri/拜托了美妙公主][21][简繁日外挂](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法) （总集篇）[2.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f2198004e87aea943944b9a41173a833f61b5a1f</link>
+				<contentLength>2362232064</contentLength>
+				<pubDate>2026-08-23T15:54:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2362232064" url="https://mikanani.me/Download/20260823/f2198004e87aea943944b9a41173a833f61b5a1f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[雪飘工作室][おねがいアイプリ/Onegai_Aipri/拜托了美妙公主][21][繁日内嵌](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法) （总集篇）</guid>
+			<link>https://mikanani.me/Home/Episode/e203d4fbef63a0c6bc7c9c2937aa4360fce36c64</link>
+			<title>[雪飘工作室][おねがいアイプリ/Onegai_Aipri/拜托了美妙公主][21][繁日内嵌](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法) （总集篇）</title>
+			<description>[雪飘工作室][おねがいアイプリ/Onegai_Aipri/拜托了美妙公主][21][繁日内嵌](检索:/美妙旋律/美妙天堂/美妙频道/美妙魔法) （总集篇）[621.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/e203d4fbef63a0c6bc7c9c2937aa4360fce36c64</link>
+				<contentLength>651899712</contentLength>
+				<pubDate>2026-08-23T15:53:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="651899712" url="https://mikanani.me/Download/20260823/e203d4fbef63a0c6bc7c9c2937aa4360fce36c64.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
