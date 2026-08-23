@@ -232,5 +232,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="994679168" url="https://mikanani.me/Download/20260823/56139b811a13b35ad2a5209e321b49194fae6189.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Grow Up Show ～向日葵马戏团～ / 成长秀 向日葵马戏团 / Grow Up Show - Himawari no Circus-dan - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/d278119c5ca8cd221407a3c67362c86db321f46a</link>
+			<title>[LoliHouse] Grow Up Show ～向日葵马戏团～ / 成长秀 向日葵马戏团 / Grow Up Show - Himawari no Circus-dan - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] Grow Up Show ～向日葵马戏团～ / 成长秀 向日葵马戏团 / Grow Up Show - Himawari no Circus-dan - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][617.07 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d278119c5ca8cd221407a3c67362c86db321f46a</link>
+				<contentLength>647044800</contentLength>
+				<pubDate>2026-08-23T21:57:06.579</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="647044800" url="https://mikanani.me/Download/20260823/d278119c5ca8cd221407a3c67362c86db321f46a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
