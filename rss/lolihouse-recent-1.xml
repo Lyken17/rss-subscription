@@ -244,5 +244,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="647044800" url="https://mikanani.me/Download/20260823/d278119c5ca8cd221407a3c67362c86db321f46a.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</guid>
+			<link>https://mikanani.me/Home/Episode/8e77357715197e45b2a40bd9f9d7afbcd718a790</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 阿尔涅的事件簿 / 阿尔涅事件簿 / Arne no Jikenbo [01-12 精校合集][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][Fin][3.9GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8e77357715197e45b2a40bd9f9d7afbcd718a790</link>
+				<contentLength>4187593216</contentLength>
+				<pubDate>2026-08-23T23:09:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="4187593216" url="https://mikanani.me/Download/20260823/8e77357715197e45b2a40bd9f9d7afbcd718a790.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
