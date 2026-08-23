@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[2160p] Hello World 你好世界 (2019) (AV1 opus RealESR)</guid>
-			<link>https://mikanani.me/Home/Episode/6a5ab274d323e64511865928280cb2d9254ef4a2</link>
-			<title>[2160p] Hello World 你好世界 (2019) (AV1 opus RealESR)</title>
-			<description>[2160p] Hello World 你好世界 (2019) (AV1 opus RealESR)[2.53 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6a5ab274d323e64511865928280cb2d9254ef4a2</link>
-				<contentLength>2716566784</contentLength>
-				<pubDate>2026-08-16T18:38:51.669</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="2716566784" url="https://mikanani.me/Download/20260816/6a5ab274d323e64511865928280cb2d9254ef4a2.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[45][1080p AVC AAC][繁体]</guid>
 			<link>https://mikanani.me/Home/Episode/4fa6538324feb3121c63c9670603c87239ecb9da</link>
 			<title>【百冬练习组】【元祖！邦多利酱_GANSO BanG Dream Chan】[45][1080p AVC AAC][繁体]</title>
@@ -10155,6 +10143,18 @@
 				<pubDate>2026-08-24T01:22:04.619686</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1073741824" url="https://mikanani.me/Download/20260824/929881e4a3f8f9f1d995407ffe970be9fd1a0e3e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[Skymoon-Raws] 无职转生，到了异世界就拿出真本事 第3季 / Mushoku Tensei 3rd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</guid>
+			<link>https://mikanani.me/Home/Episode/b1314468516d05fdf0acee80a08d1bd2fd4b892b</link>
+			<title>[Skymoon-Raws] 无职转生，到了异世界就拿出真本事 第3季 / Mushoku Tensei 3rd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC]</title>
+			<description>[Skymoon-Raws] 无职转生，到了异世界就拿出真本事 第3季 / Mushoku Tensei 3rd Season - 09 [ViuTV][WEB-DL][CHT][1080p][AVC AAC][340.3MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b1314468516d05fdf0acee80a08d1bd2fd4b892b</link>
+				<contentLength>356830400</contentLength>
+				<pubDate>2026-08-24T02:26:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="356830400" url="https://mikanani.me/Download/20260824/b1314468516d05fdf0acee80a08d1bd2fd4b892b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
