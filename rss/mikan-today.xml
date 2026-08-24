@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/dfc987d8ac1f5c45cdedff99d4e3234df05bbe76</link>
+			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][639.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dfc987d8ac1f5c45cdedff99d4e3234df05bbe76</link>
+				<contentLength>670774080</contentLength>
+				<pubDate>2026-08-24T14:01:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="670774080" url="https://mikanani.me/Download/20260824/dfc987d8ac1f5c45cdedff99d4e3234df05bbe76.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">【悠哈璃羽字幕社】[无职转生 第三季～到了异世界就拿出真本事～/Mushoku Tensei S3][05][1080p HEVC][CHS_JP&amp;CHT_JP][简繁日内封]</guid>
 			<link>https://mikanani.me/Home/Episode/2d33942d80b544c2a01a60dc32fa71af4e2d98e8</link>
 			<title>【悠哈璃羽字幕社】[无职转生 第三季～到了异世界就拿出真本事～/Mushoku Tensei S3][05][1080p HEVC][CHS_JP&amp;CHT_JP][简繁日内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-23T21:00:59.779761</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="328518848" url="https://mikanani.me/Download/20260823/513101de448163c02dd168a6c11d28cb78295736.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 死神 千年血战篇 -祸进谭- / Bleach: Sennen Kessen-hen - Kashin-tan - 45 (B-Global 1920x1080 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/96c1c76257517cb334f9f5a5e17ddb01c37af4c9</link>
-			<title>[黒ネズミたち] 死神 千年血战篇 -祸进谭- / Bleach: Sennen Kessen-hen - Kashin-tan - 45 (B-Global 1920x1080 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 死神 千年血战篇 -祸进谭- / Bleach: Sennen Kessen-hen - Kashin-tan - 45 (B-Global 1920x1080 HEVC AAC MKV)[383.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/96c1c76257517cb334f9f5a5e17ddb01c37af4c9</link>
-				<contentLength>401604608</contentLength>
-				<pubDate>2026-08-23T21:00:59.762092</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="401604608" url="https://mikanani.me/Download/20260823/96c1c76257517cb334f9f5a5e17ddb01c37af4c9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
