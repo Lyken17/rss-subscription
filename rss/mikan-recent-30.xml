@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>mikan-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">才女的侍从 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {才女的侍从 | 才女のお世话}</guid>
-			<link>https://mikanani.me/Home/Episode/c8887f117ac8f5600ca2146df0dc9b09803a39c8</link>
-			<title>才女的侍从 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {才女的侍从 | 才女のお世话}</title>
-			<description>才女的侍从 - EP04 [简／繁] (1080p H.264 AAC SRTx2) {才女的侍从 | 才女のお世话}[1.47 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c8887f117ac8f5600ca2146df0dc9b09803a39c8</link>
-				<contentLength>1578400512</contentLength>
-				<pubDate>2026-07-26T03:55:19.784</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1578400512" url="https://mikanani.me/Download/20260726/c8887f117ac8f5600ca2146df0dc9b09803a39c8.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[Skymoon-Raws] 魔法光源股份有限公司 第二季 - 04 [CHS][AVC AAC]</guid>
 			<link>https://mikanani.me/Home/Episode/c782e376c317ef27b0ecc44060f33c62ab82f22f</link>
 			<title>[Skymoon-Raws] 魔法光源股份有限公司 第二季 - 04 [CHS][AVC AAC]</title>
@@ -39903,6 +39891,30 @@
 				<pubDate>2026-08-25T11:01:13.602577</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="696359296" url="https://mikanani.me/Download/20260825/410c93f814792af3d1f5262868d9d5392cebea80.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 19 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/062c85195a77a8b0531157d6a74c5c7b30eb79bf</link>
+			<title>[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 19 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 19 (CR 1920x1080 AVC AAC MKV)[436.2 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/062c85195a77a8b0531157d6a74c5c7b30eb79bf</link>
+				<contentLength>457388864</contentLength>
+				<pubDate>2026-08-25T12:00:51.224383</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="457388864" url="https://mikanani.me/Download/20260825/062c85195a77a8b0531157d6a74c5c7b30eb79bf.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/5c906a40d5a0f10da07699a532006657f895629d</link>
+			<title>[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 百日成王 / Crowned in a Hundred Days - 19 (B-Global Donghua 1920x1080 HEVC AAC MKV)[144.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5c906a40d5a0f10da07699a532006657f895629d</link>
+				<contentLength>150994944</contentLength>
+				<pubDate>2026-08-25T12:00:31.8349</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="150994944" url="https://mikanani.me/Download/20260825/5c906a40d5a0f10da07699a532006657f895629d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
