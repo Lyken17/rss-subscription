@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/dfc987d8ac1f5c45cdedff99d4e3234df05bbe76</link>
-			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][639.7MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/dfc987d8ac1f5c45cdedff99d4e3234df05bbe76</link>
-				<contentLength>670774080</contentLength>
-				<pubDate>2026-08-24T14:01:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="670774080" url="https://mikanani.me/Download/20260824/dfc987d8ac1f5c45cdedff99d4e3234df05bbe76.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/7ee5553329ba6be3b35d8e87825c366f68b01fae</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 08 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
@@ -147,6 +135,18 @@
 				<pubDate>2026-08-25T21:43:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="940153216" url="https://mikanani.me/Download/20260825/1bd18be945c2165c4594ee806f968a0e265315e4.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第三季 / Grand Blue S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6d918db71065da1cc5cc1d1b591865ce4cf9c8b5</link>
+			<title>[LoliHouse] 碧蓝之海 第三季 / Grand Blue S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 碧蓝之海 第三季 / Grand Blue S3 - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][459.01 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d918db71065da1cc5cc1d1b591865ce4cf9c8b5</link>
+				<contentLength>481306880</contentLength>
+				<pubDate>2026-08-25T22:25:17.326</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="481306880" url="https://mikanani.me/Download/20260825/6d918db71065da1cc5cc1d1b591865ce4cf9c8b5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
