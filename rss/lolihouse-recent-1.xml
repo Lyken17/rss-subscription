@@ -100,5 +100,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="553857856" url="https://mikanani.me/Download/20260825/c8044dbb0f8c987e68f35ba28f87108bcadf9d8f.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 机动战士高达 闪光的哈萨维 喀耳刻的魔女 / MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe [WebRip 1080p HEVC-10bit AAC][日语内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/8d49bc84d69cefc48dc8d10a1610c8ff35c039fe</link>
+			<title>[LoliHouse] 机动战士高达 闪光的哈萨维 喀耳刻的魔女 / MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe [WebRip 1080p HEVC-10bit AAC][日语内封字幕]</title>
+			<description>[LoliHouse] 机动战士高达 闪光的哈萨维 喀耳刻的魔女 / MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe [WebRip 1080p HEVC-10bit AAC][日语内封字幕][2.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8d49bc84d69cefc48dc8d10a1610c8ff35c039fe</link>
+				<contentLength>2576980480</contentLength>
+				<pubDate>2026-08-25T19:22:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2576980480" url="https://mikanani.me/Download/20260825/8d49bc84d69cefc48dc8d10a1610c8ff35c039fe.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
