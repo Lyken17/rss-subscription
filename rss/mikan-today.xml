@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Prejudice-Studio] 超辉夜姬 超时空辉夜姬 Chou Kaguya Hime！ [Movie][无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</guid>
+			<link>https://mikanani.me/Home/Episode/8f45515781873523647707be047dfc346e4da690</link>
+			<title>[Prejudice-Studio] 超辉夜姬 超时空辉夜姬 Chou Kaguya Hime！ [Movie][无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌]</title>
+			<description>[Prejudice-Studio] 超辉夜姬 超时空辉夜姬 Chou Kaguya Hime！ [Movie][无水印][Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简日内嵌][2.5 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/8f45515781873523647707be047dfc346e4da690</link>
+				<contentLength>2684354560</contentLength>
+				<pubDate>2026-08-25T15:13:57.000941</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="2684354560" url="https://mikanani.me/Download/20260825/8f45515781873523647707be047dfc346e4da690.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 骸骨骑士大人异世界冒险中II / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/c1ddf60a26b6ce9af80f7a524b680cc60c93a3e8</link>
 			<title>[LoliHouse] 骸骨骑士大人异世界冒险中II / Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-24T18:14:24.088561</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="724146560" url="https://mikanani.me/Download/20260824/988ad52f7954d3246ce0df5cb27039ccf16ee726.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[Nix-Raws] 超超超超超喜欢你的100个女朋友 第三季 / Kimi no Koto ga Dai Dai Dai Dai Daisuki na S01E32 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/3f0c337ffb9da53e6bc35ec882ee85beccaf4d5d</link>
-			<title>[Nix-Raws] 超超超超超喜欢你的100个女朋友 第三季 / Kimi no Koto ga Dai Dai Dai Dai Daisuki na S01E32 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封]</title>
-			<description>[Nix-Raws] 超超超超超喜欢你的100个女朋友 第三季 / Kimi no Koto ga Dai Dai Dai Dai Daisuki na S01E32 [CATCHPLAY WEB-DL 1080p AVC AAC][简繁内封][704.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3f0c337ffb9da53e6bc35ec882ee85beccaf4d5d</link>
-				<contentLength>738407232</contentLength>
-				<pubDate>2026-08-24T18:10:27.956429</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="738407232" url="https://mikanani.me/Download/20260824/3f0c337ffb9da53e6bc35ec882ee85beccaf4d5d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
