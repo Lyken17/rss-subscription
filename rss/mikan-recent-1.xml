@@ -1264,5 +1264,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="173885360" url="https://mikanani.me/Download/20260825/7d5ab60e1e3bb97d52579aecd49e131bbee4b5ed.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 97 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/410c93f814792af3d1f5262868d9d5392cebea80</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 97 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 97 (B-Global Donghua 1920x1080 HEVC AAC MKV)[664.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/410c93f814792af3d1f5262868d9d5392cebea80</link>
+				<contentLength>696359296</contentLength>
+				<pubDate>2026-08-25T11:01:13.602577</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="696359296" url="https://mikanani.me/Download/20260825/410c93f814792af3d1f5262868d9d5392cebea80.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

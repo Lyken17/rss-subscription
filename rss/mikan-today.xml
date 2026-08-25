@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 牧神记 / Tales of Herding Gods - 97 (B-Global Donghua 1920x1080 HEVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/410c93f814792af3d1f5262868d9d5392cebea80</link>
+			<title>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 97 (B-Global Donghua 1920x1080 HEVC AAC MKV)</title>
+			<description>[黒ネズミたち] 牧神记 / Tales of Herding Gods - 97 (B-Global Donghua 1920x1080 HEVC AAC MKV)[664.1 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/410c93f814792af3d1f5262868d9d5392cebea80</link>
+				<contentLength>696359296</contentLength>
+				<pubDate>2026-08-25T11:01:13.602577</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="696359296" url="https://mikanani.me/Download/20260825/410c93f814792af3d1f5262868d9d5392cebea80.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 在超市后门吸烟的二人 / Super no Ura de Yani Suu Futari [07][1080P][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/1ddd2d7e7e519170a5657e1a462cc3a9e0975538</link>
 			<title>[桜都字幕组] 在超市后门吸烟的二人 / Super no Ura de Yani Suu Futari [07][1080P][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-24T13:14:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="688809600" url="https://mikanani.me/Download/20260824/2d33942d80b544c2a01a60dc32fa71af4e2d98e8.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【悠哈璃羽字幕社】[无职转生 第三季～到了异世界就拿出真本事～/Mushoku Tensei S3][02][1080p HEVC][CHS_JP&amp;CHT_JP][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/e506da00091d3430817a9c673c2f56c26b7e3bb0</link>
-			<title>【悠哈璃羽字幕社】[无职转生 第三季～到了异世界就拿出真本事～/Mushoku Tensei S3][02][1080p HEVC][CHS_JP&amp;CHT_JP][简繁日内封]</title>
-			<description>【悠哈璃羽字幕社】[无职转生 第三季～到了异世界就拿出真本事～/Mushoku Tensei S3][02][1080p HEVC][CHS_JP&amp;CHT_JP][简繁日内封][647.3MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e506da00091d3430817a9c673c2f56c26b7e3bb0</link>
-				<contentLength>678743232</contentLength>
-				<pubDate>2026-08-24T13:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="678743232" url="https://mikanani.me/Download/20260824/e506da00091d3430817a9c673c2f56c26b7e3bb0.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
