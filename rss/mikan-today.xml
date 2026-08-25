@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 魔女之旅/Majo no Tabitabi S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/fcb51bf88bf74d7189f772689afe380866f25014</link>
+			<title>[7³ACG] 魔女之旅/Majo no Tabitabi S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 魔女之旅/Majo no Tabitabi S01 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0[20.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fcb51bf88bf74d7189f772689afe380866f25014</link>
+				<contentLength>21582211072</contentLength>
+				<pubDate>2026-08-26T05:37:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="21582211072" url="https://mikanani.me/Download/20260826/fcb51bf88bf74d7189f772689afe380866f25014.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[三明治摆烂组] 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐 / Saijo no Osewa / 才女のお世话 - 07 - [繁日内嵌][AVC 8bit 1080P]</guid>
 			<link>https://mikanani.me/Home/Episode/5f43bcd1531a9f1d941c4495004ed18234dcbfe8</link>
 			<title>[三明治摆烂组] 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐 / Saijo no Osewa / 才女のお世话 - 07 - [繁日内嵌][AVC 8bit 1080P]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-25T01:30:46.552704</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="749522112" url="https://mikanani.me/Download/20260825/1e82179800460e27ce879deae647b4ef52162786.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 从后面来的神威先生（放送版） / Ushiro no Shoumen Kamui-san (On-air version) - 08 (ABEMA 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/41907907ba8092c92f76c24b55ba5c82ac48227b</link>
-			<title>[黒ネズミたち] 从后面来的神威先生（放送版） / Ushiro no Shoumen Kamui-san (On-air version) - 08 (ABEMA 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 从后面来的神威先生（放送版） / Ushiro no Shoumen Kamui-san (On-air version) - 08 (ABEMA 1920x1080 AVC AAC MKV)[360.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/41907907ba8092c92f76c24b55ba5c82ac48227b</link>
-				<contentLength>377906784</contentLength>
-				<pubDate>2026-08-25T01:00:40.542549</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="377906784" url="https://mikanani.me/Download/20260825/41907907ba8092c92f76c24b55ba5c82ac48227b.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
