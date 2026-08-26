@@ -136,5 +136,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1395864320" url="https://mikanani.me/Download/20260826/0292a49cfdb78f3d83fa450a573b03100ecc5bd7.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/6d390d35ae8571fdfebf577ea2206b32475dc394</link>
+			<title>[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 北斗神拳 拳王军杂兵们的挽歌 / Hokuto no Ken: Kenougun Zako-tachi no Banka - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][232.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6d390d35ae8571fdfebf577ea2206b32475dc394</link>
+				<contentLength>243374496</contentLength>
+				<pubDate>2026-08-26T22:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="243374496" url="https://mikanani.me/Download/20260826/6d390d35ae8571fdfebf577ea2206b32475dc394.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
