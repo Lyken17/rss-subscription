@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][11][HEVC][10Bit][1080P][简日双语][招募翻译]</guid>
+			<link>https://mikanani.me/Home/Episode/b886d696edab1f13c1f869dc10ad77dbb7e6e85a</link>
+			<title>[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][11][HEVC][10Bit][1080P][简日双语][招募翻译]</title>
+			<description>[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][11][HEVC][10Bit][1080P][简日双语][招募翻译][408.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b886d696edab1f13c1f869dc10ad77dbb7e6e85a</link>
+				<contentLength>428343296</contentLength>
+				<pubDate>2026-08-26T18:04:04.659065</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="428343296" url="https://mikanani.me/Download/20260826/b886d696edab1f13c1f869dc10ad77dbb7e6e85a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 20 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/cea2147450c079b8e482a75c4039ba6214c76361</link>
 			<title>[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 20 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-08-25T16:54:16.692</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350926944" url="https://mikanani.me/Download/20260825/71cc3463e620e9c7ad51d43ef2653d457c687995.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋&amp;漫猫字幕组][7月新番][令和妖神斑小姐][Reiwa no Dara-san][08][1080p][MP4][BIG5][繁中]</guid>
-			<link>https://mikanani.me/Home/Episode/c99443946b1f7c3eb37122fa8c501f72ecf2787f</link>
-			<title>[爱恋&amp;漫猫字幕组][7月新番][令和妖神斑小姐][Reiwa no Dara-san][08][1080p][MP4][BIG5][繁中]</title>
-			<description>[爱恋&amp;漫猫字幕组][7月新番][令和妖神斑小姐][Reiwa no Dara-san][08][1080p][MP4][BIG5][繁中][334.55 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c99443946b1f7c3eb37122fa8c501f72ecf2787f</link>
-				<contentLength>350801088</contentLength>
-				<pubDate>2026-08-25T16:54:10.882</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="350801088" url="https://mikanani.me/Download/20260825/c99443946b1f7c3eb37122fa8c501f72ecf2787f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
