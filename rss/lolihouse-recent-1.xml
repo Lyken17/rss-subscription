@@ -148,5 +148,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="435536512" url="https://mikanani.me/Download/20260826/8f9fbe6d1c7a856a8c9498238f23581fccf8b9da.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 20 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/24292265e20ac7159f6c1e21da93edb5e81752ac</link>
+			<title>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 20 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 20 [WebRip 1080p HEVC-10bit AAC][无字幕][921.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/24292265e20ac7159f6c1e21da93edb5e81752ac</link>
+				<contentLength>966157952</contentLength>
+				<pubDate>2026-08-26T11:02:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="966157952" url="https://mikanani.me/Download/20260826/24292265e20ac7159f6c1e21da93edb5e81752ac.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
