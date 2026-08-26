@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 20 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/cea2147450c079b8e482a75c4039ba6214c76361</link>
+			<title>[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 20 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 相反的你和我 第二季 / Seihantai na Kimi to Boku 2nd Season - 20 (ABEMA 1920x1080 AVC AAC MKV)[718.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cea2147450c079b8e482a75c4039ba6214c76361</link>
+				<contentLength>752877568</contentLength>
+				<pubDate>2026-08-26T16:30:57.565349</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="752877568" url="https://mikanani.me/Download/20260826/cea2147450c079b8e482a75c4039ba6214c76361.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/cd9742fb30034a34851cf0422d5bd0866ff43b31</link>
 			<title>[LoliHouse] 奇招百出的维多利亚 / Tefuda ga Oome no Victoria - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-08-25T16:54:10.882</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="350801088" url="https://mikanani.me/Download/20260825/c99443946b1f7c3eb37122fa8c501f72ecf2787f.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[爱恋&amp;猫恋汉化组][7月新番][虽然我是不完美恶女][Futsutsuka na Akujo dewa Gozaimasu ga][06][1080p][MP4][GB][简中]</guid>
-			<link>https://mikanani.me/Home/Episode/95717b15fc76b2f66aa554a4a1a96affa2a1408e</link>
-			<title>[爱恋&amp;猫恋汉化组][7月新番][虽然我是不完美恶女][Futsutsuka na Akujo dewa Gozaimasu ga][06][1080p][MP4][GB][简中]</title>
-			<description>[爱恋&amp;猫恋汉化组][7月新番][虽然我是不完美恶女][Futsutsuka na Akujo dewa Gozaimasu ga][06][1080p][MP4][GB][简中][363.35 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/95717b15fc76b2f66aa554a4a1a96affa2a1408e</link>
-				<contentLength>381000096</contentLength>
-				<pubDate>2026-08-25T16:36:15.655</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="381000096" url="https://mikanani.me/Download/20260825/95717b15fc76b2f66aa554a4a1a96affa2a1408e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
