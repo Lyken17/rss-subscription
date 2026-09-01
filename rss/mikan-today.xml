@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">【喵萌奶茶屋】★07月新番★[与你相恋到生命尽头 / きみが死ぬまで恋をしたい / Kimi ga Shinu made Koi wo Shitai][09][1080p][简日双语]</guid>
+			<link>https://mikanani.me/Home/Episode/ae4e2e8b031540ad8f32218d8e9390e52679cba9</link>
+			<title>【喵萌奶茶屋】★07月新番★[与你相恋到生命尽头 / きみが死ぬまで恋をしたい / Kimi ga Shinu made Koi wo Shitai][09][1080p][简日双语]</title>
+			<description>【喵萌奶茶屋】★07月新番★[与你相恋到生命尽头 / きみが死ぬまで恋をしたい / Kimi ga Shinu made Koi wo Shitai][09][1080p][简日双语][336.59 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/ae4e2e8b031540ad8f32218d8e9390e52679cba9</link>
+				<contentLength>352940192</contentLength>
+				<pubDate>2026-09-02T04:37:22.727</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="352940192" url="https://mikanani.me/Download/20260902/ae4e2e8b031540ad8f32218d8e9390e52679cba9.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[SweetSub][剧场版 艾斯嘉科尼][Escaflowne The Movie][Movie][BDRip][1080P][AVC 8bit][繁日双语]（检索用：圣天空战记）</guid>
 			<link>https://mikanani.me/Home/Episode/fe5ff2c1d4387cfb82c1532ac226a170b477aa51</link>
 			<title>[SweetSub][剧场版 艾斯嘉科尼][Escaflowne The Movie][Movie][BDRip][1080P][AVC 8bit][繁日双语]（检索用：圣天空战记）</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-08-31T23:02:46.056694</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260831/d9ac2ee08959de48f4222791c80577cb74fcf01d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们 / Tenbin - 09 (CR 1920x1080 AVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/6c153d5da1e6c83bf213607953f3c5a7e4b12d9f</link>
-			<title>[黒ネズミたち] 转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们 / Tenbin - 09 (CR 1920x1080 AVC AAC MKV)</title>
-			<description>[黒ネズミたち] 转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们 / Tenbin - 09 (CR 1920x1080 AVC AAC MKV)[707.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/6c153d5da1e6c83bf213607953f3c5a7e4b12d9f</link>
-				<contentLength>741762688</contentLength>
-				<pubDate>2026-08-31T23:01:10.056995</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="741762688" url="https://mikanani.me/Download/20260831/6c153d5da1e6c83bf213607953f3c5a7e4b12d9f.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
