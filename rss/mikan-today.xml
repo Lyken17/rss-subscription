@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 四月是你的谎言/Shigatsu wa Kimi no Uso S01 | 01-22+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/888d1dada29dfafa6fe6958d381c44705968ec17</link>
+			<title>[7³ACG] 四月是你的谎言/Shigatsu wa Kimi no Uso S01 | 01-22+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 四月是你的谎言/Shigatsu wa Kimi no Uso S01 | 01-22+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0[29.1GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/888d1dada29dfafa6fe6958d381c44705968ec17</link>
+				<contentLength>31245887488</contentLength>
+				<pubDate>2026-09-02T15:03:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="31245887488" url="https://mikanani.me/Download/20260902/888d1dada29dfafa6fe6958d381c44705968ec17.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[黒ネズミたち] 拜托了偶像公主 / Onegai AiPri - 22 (ABEMA 1920x1080 AVC AAC MKV)</guid>
 			<link>https://mikanani.me/Home/Episode/c34068612c18c83dd3ba530fe8313bb0f6d0becc</link>
 			<title>[黒ネズミたち] 拜托了偶像公主 / Onegai AiPri - 22 (ABEMA 1920x1080 AVC AAC MKV)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-09-01T01:00:42.586268</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="378326208" url="https://mikanani.me/Download/20260901/e37c52c02644671e5977b955a12ba39d60ada00d.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[LinRip] 小阿尔玛想要成为家人 ／ Alma-chan wa Kazoku ni Naritai [BDRip 1080p HEVC-10bit FLAC][简繁日内封]</guid>
-			<link>https://mikanani.me/Home/Episode/2181f13e69adbb01035b89f6498896ef3ada8cdf</link>
-			<title>[LinRip] 小阿尔玛想要成为家人 ／ Alma-chan wa Kazoku ni Naritai [BDRip 1080p HEVC-10bit FLAC][简繁日内封]</title>
-			<description>[LinRip] 小阿尔玛想要成为家人 ／ Alma-chan wa Kazoku ni Naritai [BDRip 1080p HEVC-10bit FLAC][简繁日内封][8.5 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/2181f13e69adbb01035b89f6498896ef3ada8cdf</link>
-				<contentLength>9126805504</contentLength>
-				<pubDate>2026-09-01T00:35:45.771074</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="9126805504" url="https://mikanani.me/Download/20260901/2181f13e69adbb01035b89f6498896ef3ada8cdf.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
