@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/820dce32257549c369cf01d5af6c8a6eea834801</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 穹庐下的魔女 / Tenmaku no Jaadugar - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][733.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/820dce32257549c369cf01d5af6c8a6eea834801</link>
+				<contentLength>769434560</contentLength>
+				<pubDate>2026-09-03T06:24:44.795</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="769434560" url="https://mikanani.me/Download/20260903/820dce32257549c369cf01d5af6c8a6eea834801.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[北宇治字幕组] 与妳相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai [09][WebRip][HEVC_AAC][繁日内嵌]</guid>
 			<link>https://mikanani.me/Home/Episode/fd02140b6635eeb31ea780ef552ae5bca65e78fc</link>
 			<title>[北宇治字幕组] 与妳相恋到生命尽头 / Kimi ga Shinu made Koi wo Shitai [09][WebRip][HEVC_AAC][繁日内嵌]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-09-02T04:29:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260902/fe5ff2c1d4387cfb82c1532ac226a170b477aa51.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[SweetSub][剧场版 艾斯嘉科尼][Escaflowne The Movie][Movie][BDRip][1080P][AVC 8bit][简日双语]（检索用：圣天空战记）</guid>
-			<link>https://mikanani.me/Home/Episode/c0444a95b40c6253833efb0a33526f4309083c1e</link>
-			<title>[SweetSub][剧场版 艾斯嘉科尼][Escaflowne The Movie][Movie][BDRip][1080P][AVC 8bit][简日双语]（检索用：圣天空战记）</title>
-			<description>[SweetSub][剧场版 艾斯嘉科尼][Escaflowne The Movie][Movie][BDRip][1080P][AVC 8bit][简日双语]（检索用：圣天空战记）[4.9GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/c0444a95b40c6253833efb0a33526f4309083c1e</link>
-				<contentLength>5261335040</contentLength>
-				<pubDate>2026-09-02T04:25:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="5261335040" url="https://mikanani.me/Download/20260902/c0444a95b40c6253833efb0a33526f4309083c1e.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
