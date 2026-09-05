@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[Nix-Raws] 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐 / Saijo no Osewa Takane no Hanadarake S01E10 [CR WEB-DL 1080p AVC AAC][简繁内封]</guid>
+			<link>https://mikanani.me/Home/Episode/5f732a4da25081cb6b3252c2df2a34480826e5fe</link>
+			<title>[Nix-Raws] 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐 / Saijo no Osewa Takane no Hanadarake S01E10 [CR WEB-DL 1080p AVC AAC][简繁内封]</title>
+			<description>[Nix-Raws] 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐 / Saijo no Osewa Takane no Hanadarake S01E10 [CR WEB-DL 1080p AVC AAC][简繁内封][1.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/5f732a4da25081cb6b3252c2df2a34480826e5fe</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-09-06T04:03:53.516527</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260906/5f732a4da25081cb6b3252c2df2a34480826e5fe.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">才女的侍从 - EP10 [简／繁] (1080p H.264 AAC SRTx2) {才女的侍从 | 才女のお世话}</guid>
 			<link>https://mikanani.me/Home/Episode/3b0edd417f2b174c4a3f7d4da52d2dbcf96e0ac7</link>
 			<title>才女的侍从 - EP10 [简／繁] (1080p H.264 AAC SRTx2) {才女的侍从 | 才女のお世话}</title>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-09-05T19:15:42.671011</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="63124276" url="https://mikanani.me/Download/20260905/d5a28a34e540b6746883d0658644c70aa38bdfb6.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] 将夜 / Ever Night - 17 (B-Global Donghua 1920x832 HEVC AAC MKV)</guid>
-			<link>https://mikanani.me/Home/Episode/027f6b330360d3fd337033a92d45966e09727d60</link>
-			<title>[黒ネズミたち] 将夜 / Ever Night - 17 (B-Global Donghua 1920x832 HEVC AAC MKV)</title>
-			<description>[黒ネズミたち] 将夜 / Ever Night - 17 (B-Global Donghua 1920x832 HEVC AAC MKV)[422.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/027f6b330360d3fd337033a92d45966e09727d60</link>
-				<contentLength>442708800</contentLength>
-				<pubDate>2026-09-05T19:10:07.736613</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="442708800" url="https://mikanani.me/Download/20260905/027f6b330360d3fd337033a92d45966e09727d60.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
