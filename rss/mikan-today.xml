@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[7³ACG] 摇曳露营△/Yuru Camp S01 | 01-12+SPx3 [简繁字幕] BDrip 1080p x265 OPUS 2.0</guid>
+			<link>https://mikanani.me/Home/Episode/a650132c13b888f72d9e3f7bcaed54f861782014</link>
+			<title>[7³ACG] 摇曳露营△/Yuru Camp S01 | 01-12+SPx3 [简繁字幕] BDrip 1080p x265 OPUS 2.0</title>
+			<description>[7³ACG] 摇曳露营△/Yuru Camp S01 | 01-12+SPx3 [简繁字幕] BDrip 1080p x265 OPUS 2.0[11.3GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/a650132c13b888f72d9e3f7bcaed54f861782014</link>
+				<contentLength>12133282816</contentLength>
+				<pubDate>2026-09-07T04:04:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="12133282816" url="https://mikanani.me/Download/20260907/a650132c13b888f72d9e3f7bcaed54f861782014.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[LinRip] 古典乐★之星 ／ Classic★Stars [BDRip 1080p HEVC-10bit FLAC][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/f5f2493d8ed1c4d1bb130ada5c17c36c6110e88a</link>
 			<title>[LinRip] 古典乐★之星 ／ Classic★Stars [BDRip 1080p HEVC-10bit FLAC][简繁内封]</title>
@@ -12,7 +24,7 @@
 			<torrent xmlns="https://mikanani.me/0.1/">
 				<link>https://mikanani.me/Home/Episode/f5f2493d8ed1c4d1bb130ada5c17c36c6110e88a</link>
 				<contentLength>8053063680</contentLength>
-				<pubDate>2026-09-07T02:47:24.372726</pubDate>
+				<pubDate>2026-09-07T02:51:50.014233</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="8053063680" url="https://mikanani.me/Download/20260907/f5f2493d8ed1c4d1bb130ada5c17c36c6110e88a.torrent"></enclosure>
 		</item>
@@ -1179,18 +1191,6 @@
 				<pubDate>2026-09-06T14:22:16.672</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1589137920" url="https://mikanani.me/Download/20260906/8e6a8eb9a863bab49e91fcb9754a92e12b4bd936.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【百冬练习组】【BanG Dream Yumemita】[10][1080p AVC AAC][繁体]</guid>
-			<link>https://mikanani.me/Home/Episode/e4a0903a1c2a765af0e4f5c8fc3383b17c443cba</link>
-			<title>【百冬练习组】【BanG Dream Yumemita】[10][1080p AVC AAC][繁体]</title>
-			<description>【百冬练习组】【BanG Dream Yumemita】[10][1080p AVC AAC][繁体][327.41 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/e4a0903a1c2a765af0e4f5c8fc3383b17c443cba</link>
-				<contentLength>343314272</contentLength>
-				<pubDate>2026-09-06T13:14:40.484</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="343314272" url="https://mikanani.me/Download/20260906/e4a0903a1c2a765af0e4f5c8fc3383b17c443cba.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
