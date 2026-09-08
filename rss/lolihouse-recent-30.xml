@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/4d324ed3c936b73a682552dd72d81a092a3d0141</link>
-			<title>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 世界最强后卫～迷宫国的新人探索者～ / Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][418.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4d324ed3c936b73a682552dd72d81a092a3d0141</link>
-				<contentLength>439248480</contentLength>
-				<pubDate>2026-08-09T23:38:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="439248480" url="https://mikanani.me/Download/20260809/4d324ed3c936b73a682552dd72d81a092a3d0141.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/561a681d8f7a08cb699e36917845884e8007040d</link>
 			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -2979,6 +2967,18 @@
 				<pubDate>2026-09-08T19:13:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="245681360" url="https://mikanani.me/Download/20260908/2e7fb2380877b4de95f0ec7df5581cd3a67a27e0.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 23 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/acbbe65402fc7f6d3686d6c50175ee3147569aa9</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 23 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 欺诈游戏 / 诈欺游戏 / LIAR GAME - 23 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][423.46 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/acbbe65402fc7f6d3686d6c50175ee3147569aa9</link>
+				<contentLength>444029984</contentLength>
+				<pubDate>2026-09-09T06:29:28.225</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="444029984" url="https://mikanani.me/Download/20260909/acbbe65402fc7f6d3686d6c50175ee3147569aa9.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
