@@ -172,5 +172,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518940256" url="https://mikanani.me/Download/20260914/e4e6cf6f621f5bae2b40e6c1959933d1528f3cff.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/27cf6ad07408cd98ac4a19b695b4b0f21c90029d</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][761.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/27cf6ad07408cd98ac4a19b695b4b0f21c90029d</link>
+				<contentLength>798102656</contentLength>
+				<pubDate>2026-09-15T07:05:04.647</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="798102656" url="https://mikanani.me/Download/20260915/27cf6ad07408cd98ac4a19b695b4b0f21c90029d.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>

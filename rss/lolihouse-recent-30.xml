@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 猫与龙 / Neko to Ryuu - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/184ced99e93a23937760481aba517517562cd9ad</link>
-			<title>[LoliHouse] 猫与龙 / Neko to Ryuu - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 猫与龙 / Neko to Ryuu - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][672.8MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/184ced99e93a23937760481aba517517562cd9ad</link>
-				<contentLength>705481920</contentLength>
-				<pubDate>2026-08-15T23:20:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="705481920" url="https://mikanani.me/Download/20260815/184ced99e93a23937760481aba517517562cd9ad.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] BLACK TORCH 暗黑灯火 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/49dddec6b8096b9bf00fd5046aabf7e05507b12d</link>
 			<title>[LoliHouse] BLACK TORCH 暗黑灯火 - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3219,6 +3207,18 @@
 				<pubDate>2026-09-14T21:02:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="518940256" url="https://mikanani.me/Download/20260914/e4e6cf6f621f5bae2b40e6c1959933d1528f3cff.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/27cf6ad07408cd98ac4a19b695b4b0f21c90029d</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][761.13 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/27cf6ad07408cd98ac4a19b695b4b0f21c90029d</link>
+				<contentLength>798102656</contentLength>
+				<pubDate>2026-09-15T07:05:04.647</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="798102656" url="https://mikanani.me/Download/20260915/27cf6ad07408cd98ac4a19b695b4b0f21c90029d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
