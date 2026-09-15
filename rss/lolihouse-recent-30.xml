@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] MAO摩绪 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/aa135b79b8a433428baf06db0b96c2adc1789fe5</link>
-			<title>[LoliHouse] MAO摩绪 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] MAO摩绪 - 20 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][562MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/aa135b79b8a433428baf06db0b96c2adc1789fe5</link>
-				<contentLength>589299712</contentLength>
-				<pubDate>2026-08-16T17:56:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="589299712" url="https://mikanani.me/Download/20260816/aa135b79b8a433428baf06db0b96c2adc1789fe5.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 45 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/5804210b2b62f04d9a63c483223b0fe27f345a9b</link>
 			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 45 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -3255,6 +3243,18 @@
 				<pubDate>2026-09-15T20:44:21.843</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="322332256" url="https://mikanani.me/Download/20260915/b9728849eacb0b5f5e734723f6db147ceefe294e.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</guid>
+			<link>https://mikanani.me/Home/Episode/22742a3d74f4ca884435f4a189c4dc5b75129eb4</link>
+			<title>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）</title>
+			<description>[绿茶字幕组&amp;LoliHouse] 再见拉拉 / Sayonara Lara - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]（检索用：再见菈菈）[315.06 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/22742a3d74f4ca884435f4a189c4dc5b75129eb4</link>
+				<contentLength>330364352</contentLength>
+				<pubDate>2026-09-16T02:37:08.262</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="330364352" url="https://mikanani.me/Download/20260916/22742a3d74f4ca884435f4a189c4dc5b75129eb4.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
