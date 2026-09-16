@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/27cf6ad07408cd98ac4a19b695b4b0f21c90029d</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 二十世纪电气目录 / 20 Seiki Denki Mokuroku / Nijusseiki Denki Mokuroku - 11 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][761.13 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/27cf6ad07408cd98ac4a19b695b4b0f21c90029d</link>
-				<contentLength>798102656</contentLength>
-				<pubDate>2026-09-15T07:05:04.647</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="798102656" url="https://mikanani.me/Download/20260915/27cf6ad07408cd98ac4a19b695b4b0f21c90029d.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / 透明な夜に駆ける君と、目に见えない恋をした。 / KakeKoi - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/da698c9af97425c3eecf6c90af06dbffbb8c06f6</link>
 			<title>[LoliHouse] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / 透明な夜に駆ける君と、目に见えない恋をした。 / KakeKoi - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -111,6 +99,18 @@
 				<pubDate>2026-09-16T10:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="345296064" url="https://mikanani.me/Download/20260916/f9052c74bae804aa6bba0463a0d1703aad8edcae.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 23 [WebRip 1080p HEVC-10bit AAC][无字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/f29545c1e7995e9f195199d0d91f2639267f9434</link>
+			<title>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 23 [WebRip 1080p HEVC-10bit AAC][无字幕]</title>
+			<description>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 23 [WebRip 1080p HEVC-10bit AAC][无字幕][991.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f29545c1e7995e9f195199d0d91f2639267f9434</link>
+				<contentLength>1039872832</contentLength>
+				<pubDate>2026-09-16T15:32:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1039872832" url="https://mikanani.me/Download/20260916/f29545c1e7995e9f195199d0d91f2639267f9434.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
