@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 盗墓王 - 11 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/25439d2e5b323383b5c373cb6d8b6308c83efb1f</link>
+			<title>[沸班亚马制作组] 盗墓王 - 11 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 盗墓王 - 11 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕][1.5GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/25439d2e5b323383b5c373cb6d8b6308c83efb1f</link>
+				<contentLength>1610612736</contentLength>
+				<pubDate>2026-09-17T06:52:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1610612736" url="https://mikanani.me/Download/20260917/25439d2e5b323383b5c373cb6d8b6308c83efb1f.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[桜都字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei III： Isekai Ittara Honki Dasu [12][1080P][简繁内封]</guid>
 			<link>https://mikanani.me/Home/Episode/88f759adc64dfdee26cd1cb12b98d8b43c865325</link>
 			<title>[桜都字幕组] 无职转生 第三季 ～到了异世界就拿出真本事～ / Mushoku Tensei III： Isekai Ittara Honki Dasu [12][1080P][简繁内封]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-09-16T00:10:15.503</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="344016800" url="https://mikanani.me/Download/20260916/6d99530ded9daa8b7060cbd70e9554f4c9771f01.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ [中文配音] - 47 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/4e33b52f1cd4b3048d5833ecf2fdca18ca8b7402</link>
-			<title>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ [中文配音] - 47 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Kamen Rider ZEZTZ /  假面骑士 ZEZTZ [中文配音] - 47 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][744.1 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/4e33b52f1cd4b3048d5833ecf2fdca18ca8b7402</link>
-				<contentLength>780245376</contentLength>
-				<pubDate>2026-09-16T00:01:01.051596</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="780245376" url="https://mikanani.me/Download/20260916/4e33b52f1cd4b3048d5833ecf2fdca18ca8b7402.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
