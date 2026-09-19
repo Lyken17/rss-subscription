@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 50 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/8a729c2bcd5195e59faf85edfd257bd4a90cb78b</link>
-			<title>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 50 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[百冬练习组&amp;LoliHouse] 元祖！邦多利酱 / GANSO BanG Dream Chan - 50 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][59.5MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8a729c2bcd5195e59faf85edfd257bd4a90cb78b</link>
-				<contentLength>62390272</contentLength>
-				<pubDate>2026-09-17T23:11:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="62390272" url="https://mikanani.me/Download/20260917/8a729c2bcd5195e59faf85edfd257bd4a90cb78b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/d6eeac8c520346634e9bc5adb34a870d0a559d9b</link>
 			<title>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
@@ -75,6 +63,18 @@
 				<pubDate>2026-09-19T00:40:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="736519808" url="https://mikanani.me/Download/20260919/120998bdca87b231e836b277dd3b2f07fe3087bc.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/3178d928e67ad736c8933db9277c18aa1aec3aaa</link>
+			<title>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.18 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3178d928e67ad736c8933db9277c18aa1aec3aaa</link>
+				<contentLength>1267015296</contentLength>
+				<pubDate>2026-09-19T07:22:42.878</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20260919/3178d928e67ad736c8933db9277c18aa1aec3aaa.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
