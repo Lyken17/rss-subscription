@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/d6eeac8c520346634e9bc5adb34a870d0a559d9b</link>
-			<title>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] 文豪野犬 汪！2 / Bungou Stray Dogs Wan! S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][382.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d6eeac8c520346634e9bc5adb34a870d0a559d9b</link>
-				<contentLength>400765760</contentLength>
-				<pubDate>2026-09-18T05:13:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="400765760" url="https://mikanani.me/Download/20260918/d6eeac8c520346634e9bc5adb34a870d0a559d9b.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/9aad6b0312b192916d0a739769add90a3ff61d4f</link>
 			<title>[LoliHouse] 尼古喵喵 (邪竜解放版) / ヤニねこ / Yani Neko / Chainsmoker Cat - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -75,6 +63,18 @@
 				<pubDate>2026-09-19T07:22:42.878</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20260919/3178d928e67ad736c8933db9277c18aa1aec3aaa.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/b283102218fec40b796631a5cc2fb0e87df69e89</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END][531.88 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b283102218fec40b796631a5cc2fb0e87df69e89</link>
+				<contentLength>557716608</contentLength>
+				<pubDate>2026-09-19T16:21:33.663</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="557716608" url="https://mikanani.me/Download/20260919/b283102218fec40b796631a5cc2fb0e87df69e89.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
