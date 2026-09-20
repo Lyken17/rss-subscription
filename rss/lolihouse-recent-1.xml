@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3178d928e67ad736c8933db9277c18aa1aec3aaa</link>
-			<title>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.18 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3178d928e67ad736c8933db9277c18aa1aec3aaa</link>
-				<contentLength>1267015296</contentLength>
-				<pubDate>2026-09-19T07:22:42.878</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20260919/3178d928e67ad736c8933db9277c18aa1aec3aaa.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/b283102218fec40b796631a5cc2fb0e87df69e89</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
@@ -63,6 +51,18 @@
 				<pubDate>2026-09-20T06:26:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="899468480" url="https://mikanani.me/Download/20260920/a508c1a0b99de6f15c06fd4c7ba19586412daf68.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][End]</guid>
+			<link>https://mikanani.me/Home/Episode/47e9e0c1f1a129f8684bcfec20d93dfcc45ab0c5</link>
+			<title>[LoliHouse] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][End]</title>
+			<description>[LoliHouse] 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance / Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][End][773.09 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/47e9e0c1f1a129f8684bcfec20d93dfcc45ab0c5</link>
+				<contentLength>810643648</contentLength>
+				<pubDate>2026-09-20T17:53:07.488</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="810643648" url="https://mikanani.me/Download/20260920/47e9e0c1f1a129f8684bcfec20d93dfcc45ab0c5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
