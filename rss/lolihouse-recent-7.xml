@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3615fcefe59921b1cc691511724cf72b50124b3e</link>
-			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][551.57 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3615fcefe59921b1cc691511724cf72b50124b3e</link>
-				<contentLength>578363072</contentLength>
-				<pubDate>2026-09-14T08:39:04.609</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="578363072" url="https://mikanani.me/Download/20260914/3615fcefe59921b1cc691511724cf72b50124b3e.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/398a739d97bd4fb66a59d902d94a570d43b9e480</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -747,6 +735,18 @@
 				<pubDate>2026-09-21T07:04:47.534</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="705377088" url="https://mikanani.me/Download/20260921/027d43c312cfce2f2511e9c17f4d333038664b04.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 才女的侍从 / Saijo no Osewa - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/7c13b21565ba7e9bd92df922fa6d8fb49557e5f7</link>
+			<title>[LoliHouse] 才女的侍从 / Saijo no Osewa - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 才女的侍从 / Saijo no Osewa - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][316.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/7c13b21565ba7e9bd92df922fa6d8fb49557e5f7</link>
+				<contentLength>331769440</contentLength>
+				<pubDate>2026-09-21T12:50:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="331769440" url="https://mikanani.me/Download/20260921/7c13b21565ba7e9bd92df922fa6d8fb49557e5f7.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
