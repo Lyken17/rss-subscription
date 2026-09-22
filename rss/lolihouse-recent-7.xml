@@ -688,5 +688,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="578394496" url="https://mikanani.me/Download/20260922/9f7c95663883b7c9c71380a30e80182f079956c6.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 碧蓝之海 第三季 / Grand Blue S3 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/6f06ffe3f68f9acad51d74f04296b34e8c2f5589</link>
+			<title>[LoliHouse] 碧蓝之海 第三季 / Grand Blue S3 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] 碧蓝之海 第三季 / Grand Blue S3 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][527.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/6f06ffe3f68f9acad51d74f04296b34e8c2f5589</link>
+				<contentLength>553123840</contentLength>
+				<pubDate>2026-09-22T22:47:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="553123840" url="https://mikanani.me/Download/20260922/6f06ffe3f68f9acad51d74f04296b34e8c2f5589.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
