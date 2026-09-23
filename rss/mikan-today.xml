@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] Re：从零开始的异世界生活 第四季 夺还篇 - 18 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/19f3cf7d68bf9f9075c0eb35d0b9009f95d6a9d4</link>
+			<title>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 夺还篇 - 18 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 夺还篇 - 18 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕][885.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/19f3cf7d68bf9f9075c0eb35d0b9009f95d6a9d4</link>
+				<contentLength>928199488</contentLength>
+				<pubDate>2026-09-24T03:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="928199488" url="https://mikanani.me/Download/20260924/19f3cf7d68bf9f9075c0eb35d0b9009f95d6a9d4.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] Re：从零开始的异世界生活 第四季 夺还篇 - 18 [IQIYI WebRip 1440p H265 Veryslow AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/b148deabfb0eae98051eb0482bf42cc4d0c64979</link>
 			<title>[沸班亚马制作组] Re：从零开始的异世界生活 第四季 夺还篇 - 18 [IQIYI WebRip 1440p H265 Veryslow AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-09-23T01:00:55.156492</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="743230656" url="https://mikanani.me/Download/20260923/08e27b0cd6eadb80bab91e776ff83a2d0465a9c1.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[桜都字幕组] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita. [12][1080P][简繁内封]</guid>
-			<link>https://mikanani.me/Home/Episode/34b02605f32d0dfb2bb4e5815f7ebf0b773787f8</link>
-			<title>[桜都字幕组] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita. [12][1080P][简繁内封]</title>
-			<description>[桜都字幕组] 与奔驰于透明之夜的你，谈一场看不见的恋爱。 / Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita. [12][1080P][简繁内封][203.77 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/34b02605f32d0dfb2bb4e5815f7ebf0b773787f8</link>
-				<contentLength>213668336</contentLength>
-				<pubDate>2026-09-23T00:55:23.742</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="213668336" url="https://mikanani.me/Download/20260923/34b02605f32d0dfb2bb4e5815f7ebf0b773787f8.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
