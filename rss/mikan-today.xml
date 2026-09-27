@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[沸班亚马制作组] 无职转生 第三季 ～到了异世界就拿出真本事～ - 14 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/79a9c79cdc3b33dca6b131a27cffd98c45ef7ffd</link>
+			<title>[沸班亚马制作组] 无职转生 第三季 ～到了异世界就拿出真本事～ - 14 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</title>
+			<description>[沸班亚马制作组] 无职转生 第三季 ～到了异世界就拿出真本事～ - 14 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕][1.4GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/79a9c79cdc3b33dca6b131a27cffd98c45ef7ffd</link>
+				<contentLength>1503238528</contentLength>
+				<pubDate>2026-09-28T07:33:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1503238528" url="https://mikanani.me/Download/20260928/79a9c79cdc3b33dca6b131a27cffd98c45ef7ffd.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 无职转生 第三季 ～到了异世界就拿出真本事～ - 14 [CR WebRip 1080p H265 Veryslow AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/76e42d1c789ed90d56a5f0ae3988879747f7b09f</link>
 			<title>[沸班亚马制作组] 无职转生 第三季 ～到了异世界就拿出真本事～ - 14 [CR WebRip 1080p H265 Veryslow AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-09-27T01:30:49.960559</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="339633760" url="https://mikanani.me/Download/20260927/c14ebf01efa1d863fa63b5595cc78de523abbc3e.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  花织即使是转生也想打架 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/8c1977097422a9b8b770f25e9c35bb31c147c135</link>
-			<title>[ANi]  花织即使是转生也想打架 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  花织即使是转生也想打架 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][324.0 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/8c1977097422a9b8b770f25e9c35bb31c147c135</link>
-				<contentLength>339738624</contentLength>
-				<pubDate>2026-09-27T01:30:43.385539</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="339738624" url="https://mikanani.me/Download/20260927/8c1977097422a9b8b770f25e9c35bb31c147c135.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
