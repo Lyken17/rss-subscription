@@ -1201069,5 +1201069,65 @@
       "@length": "501219328",
       "@url": "https://mikanani.me/Download/20260928/18ff2328f3e75a1ebbea8ec9efe2a504c66828f2.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][简繁日多语MKV][PGS][1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/7120d0a22c32c0a15acd0dd7646e2541b181d643",
+    "title": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][简繁日多语MKV][PGS][1080P]",
+    "description": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][简繁日多语MKV][PGS][1080P][1.4GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/7120d0a22c32c0a15acd0dd7646e2541b181d643",
+      "contentLength": "1503238528",
+      "pubDate": "2026-09-29T03:06:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1503238528",
+      "@url": "https://mikanani.me/Download/20260929/7120d0a22c32c0a15acd0dd7646e2541b181d643.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][繁日双语MP4][1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/6aa1971193fe523de7a12091226ffe012f5d86f1",
+    "title": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][繁日双语MP4][1080P]",
+    "description": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][繁日双语MP4][1080P][685.5MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/6aa1971193fe523de7a12091226ffe012f5d86f1",
+      "contentLength": "718798848",
+      "pubDate": "2026-09-29T03:06:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "718798848",
+      "@url": "https://mikanani.me/Download/20260929/6aa1971193fe523de7a12091226ffe012f5d86f1.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][简日双语MP4][1080P]"
+    },
+    "link": "https://mikanani.me/Home/Episode/8456a6b384094206c26cc545c9d2a2545ff60b37",
+    "title": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][简日双语MP4][1080P]",
+    "description": "[银色子弹字幕组][名侦探柯南][特别篇 30号杀人事件][WEBRIP][简日双语MP4][1080P][685.3MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/8456a6b384094206c26cc545c9d2a2545ff60b37",
+      "contentLength": "718589120",
+      "pubDate": "2026-09-29T03:06:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "718589120",
+      "@url": "https://mikanani.me/Download/20260929/8456a6b384094206c26cc545c9d2a2545ff60b37.torrent"
+    }
   }
 ]
