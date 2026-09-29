@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-1-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][End]</guid>
-			<link>https://mikanani.me/Home/Episode/02dca7ef1af22cadbe8746d3d3d32026968439e6</link>
-			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][End]</title>
-			<description>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 - 14 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][End][577.03 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/02dca7ef1af22cadbe8746d3d3d32026968439e6</link>
-				<contentLength>605059840</contentLength>
-				<pubDate>2026-09-28T08:12:51.52</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="605059840" url="https://mikanani.me/Download/20260928/02dca7ef1af22cadbe8746d3d3d32026968439e6.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 [01-14 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</guid>
 			<link>https://mikanani.me/Home/Episode/b502f05d07942adeb248943dcee72bbbacbc266f</link>
 			<title>[LoliHouse] 无职转生 3期 / Mushoku Tensei S3 [01-14 合集][WebRip 1080p HEVC-10bit AAC][简繁内封字幕][Fin]</title>
@@ -51,6 +39,18 @@
 				<pubDate>2026-09-28T19:35:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="875141504" url="https://mikanani.me/Download/20260928/7d658f4126ce889d55d3e878d7d0366b629e0183.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/35b2688a1f215b6faf2bcba66c7c166e75011b1d</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 花织同学转生后还是想干架 / 花织即使是转生也想打架 / Hanaori-san wa Tensei shitemo Kenka ga Shitai - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][423.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/35b2688a1f215b6faf2bcba66c7c166e75011b1d</link>
+				<contentLength>444071936</contentLength>
+				<pubDate>2026-09-29T18:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="444071936" url="https://mikanani.me/Download/20260929/35b2688a1f215b6faf2bcba66c7c166e75011b1d.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
