@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 24 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/ae02eb9e6ef1bfef45fbb9c5340c7edc02b00bca</link>
-			<title>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 24 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
-			<description>[LoliHouse] 铠真传武士骑兵 / Yoroi Shin Den Samurai Troopers - 24 [WebRip 1080p HEVC-10bit AAC][无字幕][END][924.2MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/ae02eb9e6ef1bfef45fbb9c5340c7edc02b00bca</link>
-				<contentLength>969093952</contentLength>
-				<pubDate>2026-09-23T15:37:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="969093952" url="https://mikanani.me/Download/20260923/ae02eb9e6ef1bfef45fbb9c5340c7edc02b00bca.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/98b0273c93eb6690cda0ad7b4959dd3afdc3911f</link>
 			<title>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -495,6 +483,18 @@
 				<pubDate>2026-09-29T22:09:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="378221376" url="https://mikanani.me/Download/20260929/08dcca7dc07bdac231a18170c90fbb3a6273ce37.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/cff9125eed2eff21994845f5f5700df219839861</link>
+			<title>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][989MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/cff9125eed2eff21994845f5f5700df219839861</link>
+				<contentLength>1037041664</contentLength>
+				<pubDate>2026-09-30T22:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1037041664" url="https://mikanani.me/Download/20260930/cff9125eed2eff21994845f5f5700df219839861.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
