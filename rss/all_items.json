@@ -1210409,5 +1210409,65 @@
       "@length": "426141280",
       "@url": "https://mikanani.me/Download/20261005/cba7ff7201f14573be363973cc763e116cccff43.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][简繁内封]"
+    },
+    "link": "https://mikanani.me/Home/Episode/3923e76dbec3a39c1f8f2bb6153d02b360ccbc7f",
+    "title": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][简繁内封]",
+    "description": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][简繁内封][705.73 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3923e76dbec3a39c1f8f2bb6153d02b360ccbc7f",
+      "contentLength": "740011520",
+      "pubDate": "2026-10-05T09:10:24.529"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "740011520",
+      "@url": "https://mikanani.me/Download/20261005/3923e76dbec3a39c1f8f2bb6153d02b360ccbc7f.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][繁体内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/9bbd03bbe57cd9d3a6d087b70932181dfb56e9ce",
+    "title": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][繁体内嵌]",
+    "description": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][繁体内嵌][724.45 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9bbd03bbe57cd9d3a6d087b70932181dfb56e9ce",
+      "contentLength": "759640896",
+      "pubDate": "2026-10-05T09:10:20.018"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "759640896",
+      "@url": "https://mikanani.me/Download/20261005/9bbd03bbe57cd9d3a6d087b70932181dfb56e9ce.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][简体内嵌]"
+    },
+    "link": "https://mikanani.me/Home/Episode/c50f3592d0e4109ce3ca8c2dd0aab7f2546dfdbe",
+    "title": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][简体内嵌]",
+    "description": "[桜都字幕组] 飙马野郎 JOJO的奇妙冒险 / Steel Ball Run： JoJo no Kimyou na Bouken [03][1080P][简体内嵌][724.66 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/c50f3592d0e4109ce3ca8c2dd0aab7f2546dfdbe",
+      "contentLength": "759861056",
+      "pubDate": "2026-10-05T09:10:13.882"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "759861056",
+      "@url": "https://mikanani.me/Download/20261005/c50f3592d0e4109ce3ca8c2dd0aab7f2546dfdbe.torrent"
+    }
   }
 ]
