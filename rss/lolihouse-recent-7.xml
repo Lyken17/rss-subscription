@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/cff9125eed2eff21994845f5f5700df219839861</link>
-			<title>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][989MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cff9125eed2eff21994845f5f5700df219839861</link>
-				<contentLength>1037041664</contentLength>
-				<pubDate>2026-09-30T22:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1037041664" url="https://mikanani.me/Download/20260930/cff9125eed2eff21994845f5f5700df219839861.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 盗掘王(韩语版) / 盗墓王 / 我独自盗墓 / Tomb Raider King / Toukutsu Ou - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/0b35bea4558ef4deb33e6f96c670b2a843d769c5</link>
 			<title>[LoliHouse] 盗掘王(韩语版) / 盗墓王 / 我独自盗墓 / Tomb Raider King / Toukutsu Ou - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
@@ -651,6 +639,18 @@
 				<pubDate>2026-10-07T19:40:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="802999488" url="https://mikanani.me/Download/20261007/3c63ea4e79604b8ef8795f2d7a8b75deb8463132.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 你好，我是受心上人所托来做恋爱药的魔女。 / Horemajo - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/b244f4f110a4e83311ed72e726265b167084f3fe</link>
+			<title>[喵萌奶茶屋&amp;LoliHouse] 你好，我是受心上人所托来做恋爱药的魔女。 / Horemajo - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[喵萌奶茶屋&amp;LoliHouse] 你好，我是受心上人所托来做恋爱药的魔女。 / Horemajo - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][371.79 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/b244f4f110a4e83311ed72e726265b167084f3fe</link>
+				<contentLength>389850080</contentLength>
+				<pubDate>2026-10-08T01:44:37.046</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="389850080" url="https://mikanani.me/Download/20261008/b244f4f110a4e83311ed72e726265b167084f3fe.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
