@@ -2680,5 +2680,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="389850080" url="https://mikanani.me/Download/20261008/b244f4f110a4e83311ed72e726265b167084f3fe.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 侦探已经，死了。 第二季 / Tantei wa Mou, Shindeiru. S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/586d3715cf0d661e21a1b7032fd1feea95649ab9</link>
+			<title>[LoliHouse] 侦探已经，死了。 第二季 / Tantei wa Mou, Shindeiru. S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 侦探已经，死了。 第二季 / Tantei wa Mou, Shindeiru. S2 - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][282.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/586d3715cf0d661e21a1b7032fd1feea95649ab9</link>
+				<contentLength>295803296</contentLength>
+				<pubDate>2026-10-08T12:15:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="295803296" url="https://mikanani.me/Download/20261008/586d3715cf0d661e21a1b7032fd1feea95649ab9.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
