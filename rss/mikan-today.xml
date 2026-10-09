@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] 冰剑的魔术师将要统一世界 2 / Hyouken no Majutsushi ga Sekai wo Suberu II - 01 (CR 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/51384e6012fe8ec9ce64d5da1f073db83dd8cb83</link>
+			<title>[黒ネズミたち] 冰剑的魔术师将要统一世界 2 / Hyouken no Majutsushi ga Sekai wo Suberu II - 01 (CR 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] 冰剑的魔术师将要统一世界 2 / Hyouken no Majutsushi ga Sekai wo Suberu II - 01 (CR 1920x1080 AVC AAC MKV)[942.0 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/51384e6012fe8ec9ce64d5da1f073db83dd8cb83</link>
+				<contentLength>987758592</contentLength>
+				<pubDate>2026-10-09T07:08:51.826889</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="987758592" url="https://mikanani.me/Download/20261009/51384e6012fe8ec9ce64d5da1f073db83dd8cb83.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 凉宫春日 (凉宫ハルヒ) (Haruhi Suzumiya) 系列：TV动画 (2009年版)+剧场版+ONA篇+音乐会+小说+漫画+CD+其他；日语音轨; 外挂简中,英文字幕 (整理时间：2023.10.15)</guid>
 			<link>https://mikanani.me/Home/Episode/3788bf112ca424a5d4ac73848da87f913dc95f5d</link>
 			<title>[整理搬运] 凉宫春日 (凉宫ハルヒ) (Haruhi Suzumiya) 系列：TV动画 (2009年版)+剧场版+ONA篇+音乐会+小说+漫画+CD+其他；日语音轨; 外挂简中,英文字幕 (整理时间：2023.10.15)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-10-08T01:00:45.710521</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="391957696" url="https://mikanani.me/Download/20261008/75c2d500434f3dc7b77bcf53ce6153439f8fbdfd.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi] Gattaishin Series /  兽王武神丹帝拜恩 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f2d28312c58eb817648ab3b212dbb1495f5bfb98</link>
-			<title>[ANi] Gattaishin Series /  兽王武神丹帝拜恩 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi] Gattaishin Series /  兽王武神丹帝拜恩 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][374.2 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f2d28312c58eb817648ab3b212dbb1495f5bfb98</link>
-				<contentLength>392377152</contentLength>
-				<pubDate>2026-10-08T01:00:44.854903</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="392377152" url="https://mikanani.me/Download/20261008/f2d28312c58eb817648ab3b212dbb1495f5bfb98.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
