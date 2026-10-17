@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/5921e7077073163b87c8e6eef86cc47e9b4ee7bf</link>
-			<title>[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][578.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/5921e7077073163b87c8e6eef86cc47e9b4ee7bf</link>
-				<contentLength>606496384</contentLength>
-				<pubDate>2026-10-10T08:08:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="606496384" url="https://mikanani.me/Download/20261010/5921e7077073163b87c8e6eef86cc47e9b4ee7bf.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 野生的大魔王出现了！ / 野生的最终BOSS出现了！ / Yasei no Last Boss ga Arawareta! - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/f9887a79f61c10ecce87f7f558c39d2977ab7f27</link>
 			<title>[LoliHouse] 野生的大魔王出现了！ / 野生的最终BOSS出现了！ / Yasei no Last Boss ga Arawareta! - 15 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -555,6 +543,18 @@
 				<pubDate>2026-10-17T07:51:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="630718464" url="https://mikanani.me/Download/20261017/922a026f72e2e8a6ac3eba2f634d123aa8df3f6f.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[三明治摆烂组&amp;LoliHouse] 世界最强的魔女，就此开始 / 世界最强魔女，始动 / Sekai Saikyou no Majo, Hajimemashita - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/0ebebaa0f392f8209d7cb3cf83c2f8c2fb7ccb01</link>
+			<title>[三明治摆烂组&amp;LoliHouse] 世界最强的魔女，就此开始 / 世界最强魔女，始动 / Sekai Saikyou no Majo, Hajimemashita - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[三明治摆烂组&amp;LoliHouse] 世界最强的魔女，就此开始 / 世界最强魔女，始动 / Sekai Saikyou no Majo, Hajimemashita - 02 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][468.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/0ebebaa0f392f8209d7cb3cf83c2f8c2fb7ccb01</link>
+				<contentLength>490838432</contentLength>
+				<pubDate>2026-10-17T15:31:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="490838432" url="https://mikanani.me/Download/20261017/0ebebaa0f392f8209d7cb3cf83c2f8c2fb7ccb01.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
