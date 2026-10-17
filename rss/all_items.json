@@ -1233489,5 +1233489,45 @@
       "@length": "1288490240",
       "@url": "https://mikanani.me/Download/20261018/141f008c70ee5cd4d4d67b22c3f6512d705b01a5.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[ANi] Tanuki and Kitsune /  小狸猫和小狐狸 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+    },
+    "link": "https://mikanani.me/Home/Episode/ba37e7ba5ccad24e06ad0b2ecfec284b495e2b21",
+    "title": "[ANi] Tanuki and Kitsune /  小狸猫和小狐狸 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+    "description": "[ANi] Tanuki and Kitsune /  小狸猫和小狐狸 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][14.0 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/ba37e7ba5ccad24e06ad0b2ecfec284b495e2b21",
+      "contentLength": "14680064",
+      "pubDate": "2026-10-18T06:30:43.906183"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "14680064",
+      "@url": "https://mikanani.me/Download/20261018/ba37e7ba5ccad24e06ad0b2ecfec284b495e2b21.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[黒ネズミたち] 小狸猫和小狐狸 / Tanuki to Kitsune - 03 (Baha 1920x1080 AVC AAC MP4)"
+    },
+    "link": "https://mikanani.me/Home/Episode/5c95a4d571130f468c5799b82b8688a6a9561270",
+    "title": "[黒ネズミたち] 小狸猫和小狐狸 / Tanuki to Kitsune - 03 (Baha 1920x1080 AVC AAC MP4)",
+    "description": "[黒ネズミたち] 小狸猫和小狐狸 / Tanuki to Kitsune - 03 (Baha 1920x1080 AVC AAC MP4)[13.9 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/5c95a4d571130f468c5799b82b8688a6a9561270",
+      "contentLength": "14575206",
+      "pubDate": "2026-10-18T06:30:39.785701"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "14575206",
+      "@url": "https://mikanani.me/Download/20261018/5c95a4d571130f468c5799b82b8688a6a9561270.torrent"
+    }
   }
 ]
