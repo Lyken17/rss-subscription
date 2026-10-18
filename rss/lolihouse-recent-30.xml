@@ -2356,5 +2356,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="426036416" url="https://mikanani.me/Download/20261017/abc0fa26fdad7083c8fc501cd8fa145d62c6bb2b.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[百冬练习组&amp;LoliHouse] BanG Dream! YUME∞MITA / バンドリ！ ゆめ∞みた - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
+			<link>https://mikanani.me/Home/Episode/f1124a742abc388167880ef73401143fae346f18</link>
+			<title>[百冬练习组&amp;LoliHouse] BanG Dream! YUME∞MITA / バンドリ！ ゆめ∞みた - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
+			<description>[百冬练习组&amp;LoliHouse] BanG Dream! YUME∞MITA / バンドリ！ ゆめ∞みた - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][797.5MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/f1124a742abc388167880ef73401143fae346f18</link>
+				<contentLength>836239360</contentLength>
+				<pubDate>2026-10-18T09:00:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="836239360" url="https://mikanani.me/Download/20261018/f1124a742abc388167880ef73401143fae346f18.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
