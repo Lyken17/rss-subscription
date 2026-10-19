@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/3178d928e67ad736c8933db9277c18aa1aec3aaa</link>
-			<title>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 擅长逃跑的殿下 第二季 / 少主溜得快 第二季 / Nige Jouzu no Wakagimi S2 - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][1.18 GB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/3178d928e67ad736c8933db9277c18aa1aec3aaa</link>
-				<contentLength>1267015296</contentLength>
-				<pubDate>2026-09-19T07:22:42.878</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1267015296" url="https://mikanani.me/Download/20260919/3178d928e67ad736c8933db9277c18aa1aec3aaa.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/b283102218fec40b796631a5cc2fb0e87df69e89</link>
 			<title>[喵萌奶茶屋&amp;LoliHouse] 朱音落语 / 落语朱音 / Akane-banashi - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]</title>
@@ -2511,6 +2499,30 @@
 				<pubDate>2026-10-19T09:42:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="558471552" url="https://mikanani.me/Download/20261019/53463e6201ee1ce00449f3dc3de6f21467ba7d85.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 02 [WebRip 1080p HEVC-10bit AAC ASSx2]</guid>
+			<link>https://mikanani.me/Home/Episode/44ab8ba7b0c42352e340587924effb0332414cc7</link>
+			<title>[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 02 [WebRip 1080p HEVC-10bit AAC ASSx2]</title>
+			<description>[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 02 [WebRip 1080p HEVC-10bit AAC ASSx2][430.21 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/44ab8ba7b0c42352e340587924effb0332414cc7</link>
+				<contentLength>451107872</contentLength>
+				<pubDate>2026-10-19T19:58:23.706</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="451107872" url="https://mikanani.me/Download/20261019/44ab8ba7b0c42352e340587924effb0332414cc7.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 01 [WebRip 1080p HEVC-10bit AAC ASSx2]</guid>
+			<link>https://mikanani.me/Home/Episode/084c615f82f1e9577ce3bf115069cf3c59111065</link>
+			<title>[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 01 [WebRip 1080p HEVC-10bit AAC ASSx2]</title>
+			<description>[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 01 [WebRip 1080p HEVC-10bit AAC ASSx2][363.4MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/084c615f82f1e9577ce3bf115069cf3c59111065</link>
+				<contentLength>381052512</contentLength>
+				<pubDate>2026-10-19T19:13:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="381052512" url="https://mikanani.me/Download/20261019/084c615f82f1e9577ce3bf115069cf3c59111065.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
