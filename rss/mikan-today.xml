@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[整理搬运] 蓝兰岛漂流记 (ながされて蓝兰岛) (Nagasarete Airantou)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.09.26)</guid>
+			<link>https://mikanani.me/Home/Episode/d130ddb578d195b538c6b2a1a542f74c9c2c7da1</link>
+			<title>[整理搬运] 蓝兰岛漂流记 (ながされて蓝兰岛) (Nagasarete Airantou)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.09.26)</title>
+			<description>[整理搬运] 蓝兰岛漂流记 (ながされて蓝兰岛) (Nagasarete Airantou)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.09.26)[27.2GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/d130ddb578d195b538c6b2a1a542f74c9c2c7da1</link>
+				<contentLength>29205778432</contentLength>
+				<pubDate>2026-10-21T03:10:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="29205778432" url="https://mikanani.me/Download/20261021/d130ddb578d195b538c6b2a1a542f74c9c2c7da1.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[7³ACG] 黑执事 寄宿学校篇/Kuroshitsuji S04 | 01-11 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</guid>
 			<link>https://mikanani.me/Home/Episode/9121c59a245abcf2ae37ac6f7bd97a28a550a685</link>
 			<title>[7³ACG] 黑执事 寄宿学校篇/Kuroshitsuji S04 | 01-11 [简繁字幕] BDrip 1080p AV1 OPUS 2.0</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-10-19T23:32:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="287729248" url="https://mikanani.me/Download/20261019/d16f483536c42ec3e43b0b4944b1bba454ad3e37.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[黒ネズミたち] BLEACH 死神 千年血战篇-祸进谭- / Bleach: Sennen Kessen-hen - Kashin-tan - 49 (Baha 1920x1080 AVC AAC MP4)</guid>
-			<link>https://mikanani.me/Home/Episode/d5cee70d294f9837a24165ba0ea6bc37bd5576c5</link>
-			<title>[黒ネズミたち] BLEACH 死神 千年血战篇-祸进谭- / Bleach: Sennen Kessen-hen - Kashin-tan - 49 (Baha 1920x1080 AVC AAC MP4)</title>
-			<description>[黒ネズミたち] BLEACH 死神 千年血战篇-祸进谭- / Bleach: Sennen Kessen-hen - Kashin-tan - 49 (Baha 1920x1080 AVC AAC MP4)[832.4 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d5cee70d294f9837a24165ba0ea6bc37bd5576c5</link>
-				<contentLength>872834688</contentLength>
-				<pubDate>2026-10-19T23:31:39.592965</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="872834688" url="https://mikanani.me/Download/20261019/d5cee70d294f9837a24165ba0ea6bc37bd5576c5.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
