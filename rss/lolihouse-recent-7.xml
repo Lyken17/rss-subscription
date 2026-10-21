@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/9dd7eb5c920bddd3cd46c9256decda56d3d36008</link>
-			<title>[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][549.9MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/9dd7eb5c920bddd3cd46c9256decda56d3d36008</link>
-				<contentLength>576611968</contentLength>
-				<pubDate>2026-10-14T10:43:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="576611968" url="https://mikanani.me/Download/20261014/9dd7eb5c920bddd3cd46c9256decda56d3d36008.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 幻想水浒传 / Gensou Suikoden - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/ad8b6dc7bd5517cca92984b3f7c13d9decadf4af</link>
 			<title>[LoliHouse] 幻想水浒传 / Gensou Suikoden - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -735,6 +723,30 @@
 				<pubDate>2026-10-20T14:19:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="512124512" url="https://mikanani.me/Download/20261020/d4ecfc4906ffc64283b9c8d4d7085532a329c7d5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 暗机 DARK MACHINE / DARK MACHINE THE ANIMATION - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/695bdc9d75212315fb493abd3e8702a33a8f8707</link>
+			<title>[LoliHouse] 暗机 DARK MACHINE / DARK MACHINE THE ANIMATION - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 暗机 DARK MACHINE / DARK MACHINE THE ANIMATION - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][663.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/695bdc9d75212315fb493abd3e8702a33a8f8707</link>
+				<contentLength>695310720</contentLength>
+				<pubDate>2026-10-21T20:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="695310720" url="https://mikanani.me/Download/20261021/695bdc9d75212315fb493abd3e8702a33a8f8707.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 幻想水浒传 / Gensou Suikoden - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/40887d50221d903b77f2f0910dd1cde7a56bf7eb</link>
+			<title>[LoliHouse] 幻想水浒传 / Gensou Suikoden - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 幻想水浒传 / Gensou Suikoden - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][700MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/40887d50221d903b77f2f0910dd1cde7a56bf7eb</link>
+				<contentLength>734003200</contentLength>
+				<pubDate>2026-10-21T20:19:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="734003200" url="https://mikanani.me/Download/20261021/40887d50221d903b77f2f0910dd1cde7a56bf7eb.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
