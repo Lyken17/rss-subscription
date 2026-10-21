@@ -1239429,5 +1239429,25 @@
       "@length": "29205778432",
       "@url": "https://mikanani.me/Download/20261021/d130ddb578d195b538c6b2a1a542f74c9c2c7da1.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[黒ネズミたち] mofusand / Mofusand - 42 (ABEMA 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/3dc9239274aad80997db36986012129c5773934a",
+    "title": "[黒ネズミたち] mofusand / Mofusand - 42 (ABEMA 1920x1080 AVC AAC MKV)",
+    "description": "[黒ネズミたち] mofusand / Mofusand - 42 (ABEMA 1920x1080 AVC AAC MKV)[26.5 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/3dc9239274aad80997db36986012129c5773934a",
+      "contentLength": "27787264",
+      "pubDate": "2026-10-21T07:00:35.445863"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "27787264",
+      "@url": "https://mikanani.me/Download/20261021/3dc9239274aad80997db36986012129c5773934a.torrent"
+    }
   }
 ]

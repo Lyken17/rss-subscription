@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[黒ネズミたち] mofusand / Mofusand - 42 (ABEMA 1920x1080 AVC AAC MKV)</guid>
+			<link>https://mikanani.me/Home/Episode/3dc9239274aad80997db36986012129c5773934a</link>
+			<title>[黒ネズミたち] mofusand / Mofusand - 42 (ABEMA 1920x1080 AVC AAC MKV)</title>
+			<description>[黒ネズミたち] mofusand / Mofusand - 42 (ABEMA 1920x1080 AVC AAC MKV)[26.5 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3dc9239274aad80997db36986012129c5773934a</link>
+				<contentLength>27787264</contentLength>
+				<pubDate>2026-10-21T07:00:35.445863</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="27787264" url="https://mikanani.me/Download/20261021/3dc9239274aad80997db36986012129c5773934a.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[整理搬运] 蓝兰岛漂流记 (ながされて蓝兰岛) (Nagasarete Airantou)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.09.26)</guid>
 			<link>https://mikanani.me/Home/Episode/d130ddb578d195b538c6b2a1a542f74c9c2c7da1</link>
 			<title>[整理搬运] 蓝兰岛漂流记 (ながされて蓝兰岛) (Nagasarete Airantou)：TV动画+漫画+CD+其他；日语音轨; 外挂简中字幕 (整理时间：2026.09.26)</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-10-19T23:33:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="287834112" url="https://mikanani.me/Download/20261019/3a0ae873c56848028f301e1c4de3ab887d28b4a0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">【喵萌奶茶屋】★10月新番★[你好，我是受心上人所托来做恋爱药的魔女。 / Horemajo][03][1080p][简日双语]</guid>
-			<link>https://mikanani.me/Home/Episode/d16f483536c42ec3e43b0b4944b1bba454ad3e37</link>
-			<title>【喵萌奶茶屋】★10月新番★[你好，我是受心上人所托来做恋爱药的魔女。 / Horemajo][03][1080p][简日双语]</title>
-			<description>【喵萌奶茶屋】★10月新番★[你好，我是受心上人所托来做恋爱药的魔女。 / Horemajo][03][1080p][简日双语][274.4MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d16f483536c42ec3e43b0b4944b1bba454ad3e37</link>
-				<contentLength>287729248</contentLength>
-				<pubDate>2026-10-19T23:32:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="287729248" url="https://mikanani.me/Download/20261019/d16f483536c42ec3e43b0b4944b1bba454ad3e37.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
