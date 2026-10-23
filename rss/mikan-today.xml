@@ -5,6 +5,18 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>Mikan Project - 列表模式</description>
 		<item>
+			<guid isPermaLink="false">[H-Enc] 关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季 / Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 (BDRip 1080p HEVC FLAC)</guid>
+			<link>https://mikanani.me/Home/Episode/3d7b7a4ece376edd8d7715489676f8d894c07208</link>
+			<title>[H-Enc] 关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季 / Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 (BDRip 1080p HEVC FLAC)</title>
+			<description>[H-Enc] 关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季 / Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 (BDRip 1080p HEVC FLAC)[18.4 GB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/3d7b7a4ece376edd8d7715489676f8d894c07208</link>
+				<contentLength>19756849152</contentLength>
+				<pubDate>2026-10-23T07:48:19.376541</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="19756849152" url="https://mikanani.me/Download/20261023/3d7b7a4ece376edd8d7715489676f8d894c07208.torrent"></enclosure>
+		</item>
+		<item>
 			<guid isPermaLink="false">[沸班亚马制作组] 转生贵族凭鉴定技能扭转人生 第三季 - 03 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/6c25c3c7efdc010eb6f155f3250abfd09d496090</link>
 			<title>[沸班亚马制作组] 转生贵族凭鉴定技能扭转人生 第三季 - 03 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]</title>
@@ -1191,18 +1203,6 @@
 				<pubDate>2026-10-22T00:31:05.412033</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="629879616" url="https://mikanani.me/Download/20261022/6bf5b6f4c1ee25e3f21d65c5e3bbfbdc30e188c0.torrent"></enclosure>
-		</item>
-		<item>
-			<guid isPermaLink="false">[ANi]  新网球王子 U-17 WORLD CUP 世界杯决赛成员决定战 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</guid>
-			<link>https://mikanani.me/Home/Episode/f065c0e895b5f01a589a1ed664d0862ef8cdc118</link>
-			<title>[ANi]  新网球王子 U-17 WORLD CUP 世界杯决赛成员决定战 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]</title>
-			<description>[ANi]  新网球王子 U-17 WORLD CUP 世界杯决赛成员决定战 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4][600.8 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/f065c0e895b5f01a589a1ed664d0862ef8cdc118</link>
-				<contentLength>629984448</contentLength>
-				<pubDate>2026-10-22T00:31:04.111585</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="629984448" url="https://mikanani.me/Download/20261022/f065c0e895b5f01a589a1ed664d0862ef8cdc118.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
