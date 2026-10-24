@@ -820,5 +820,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="393845152" url="https://mikanani.me/Download/20261024/40472244a2f1569b90c1b5b8ec31982955bae25d.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 至高之力 / VERTEX FORCE - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/c5d2775a7b826c3bfe2cc06657ed8d0282185d3a</link>
+			<title>[LoliHouse] 至高之力 / VERTEX FORCE - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 至高之力 / VERTEX FORCE - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][957.2MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/c5d2775a7b826c3bfe2cc06657ed8d0282185d3a</link>
+				<contentLength>1003696960</contentLength>
+				<pubDate>2026-10-25T02:29:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="1003696960" url="https://mikanani.me/Download/20261025/c5d2775a7b826c3bfe2cc06657ed8d0282185d3a.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
