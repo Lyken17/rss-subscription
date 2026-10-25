@@ -1248849,5 +1248849,45 @@
       "@length": "4294967296",
       "@url": "https://mikanani.me/Download/20261026/cb8bd99b2c5408a1d35bebc77ac1b8864e9e961a.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 第二&第三赛段 - 06 [NF WebRip 1080p H265 Veryslow AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/817610b33f8cca6d952dbff980df0403d8a8514c",
+    "title": "[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 第二&第三赛段 - 06 [NF WebRip 1080p H265 Veryslow AAC][简繁内封字幕]",
+    "description": "[沸班亚马制作组] 飙马野郎 JOJO的奇妙冒险 第二&第三赛段 - 06 [NF WebRip 1080p H265 Veryslow AAC][简繁内封字幕][1.0GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/817610b33f8cca6d952dbff980df0403d8a8514c",
+      "contentLength": "1073741824",
+      "pubDate": "2026-10-26T07:35:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1073741824",
+      "@url": "https://mikanani.me/Download/20261026/817610b33f8cca6d952dbff980df0403d8a8514c.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸班亚马制作组] 黑色五叶草 第二季 - 04 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/2c739dfd6e0574fcce0239e380cbf43d271190df",
+    "title": "[沸班亚马制作组] 黑色五叶草 第二季 - 04 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕]",
+    "description": "[沸班亚马制作组] 黑色五叶草 第二季 - 04 [IQIYI WebRip 2160p H265 Veryslow AAC][简繁内封字幕][2.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2c739dfd6e0574fcce0239e380cbf43d271190df",
+      "contentLength": "2899102976",
+      "pubDate": "2026-10-26T06:26:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "2899102976",
+      "@url": "https://mikanani.me/Download/20261026/2c739dfd6e0574fcce0239e380cbf43d271190df.torrent"
+    }
   }
 ]
