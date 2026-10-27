@@ -1252429,5 +1252429,45 @@
       "@length": "781189120",
       "@url": "https://mikanani.me/Download/20261027/2645ed42b9c485bb6bfdb25e523b350640c3d591.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[黒ネズミたち] mofusand / Mofusand - 43 (ABEMA 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/2d4a5efea7d3ca962d99e6fb8a0ad62327666585",
+    "title": "[黒ネズミたち] mofusand / Mofusand - 43 (ABEMA 1920x1080 AVC AAC MKV)",
+    "description": "[黒ネズミたち] mofusand / Mofusand - 43 (ABEMA 1920x1080 AVC AAC MKV)[26.6 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2d4a5efea7d3ca962d99e6fb8a0ad62327666585",
+      "contentLength": "27892122",
+      "pubDate": "2026-10-28T07:00:38.142351"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "27892122",
+      "@url": "https://mikanani.me/Download/20261028/2d4a5efea7d3ca962d99e6fb8a0ad62327666585.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[7³ACG] 关于我在无意间被隔壁的天使变成废柴这件事 2/Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S02 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0"
+    },
+    "link": "https://mikanani.me/Home/Episode/8e36ed374d694ce144be112ddf6be977840701f7",
+    "title": "[7³ACG] 关于我在无意间被隔壁的天使变成废柴这件事 2/Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S02 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0",
+    "description": "[7³ACG] 关于我在无意间被隔壁的天使变成废柴这件事 2/Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S02 | 01-12 [简繁字幕] BDrip 1080p x265 OPUS 2.0[6.9 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/8e36ed374d694ce144be112ddf6be977840701f7",
+      "contentLength": "7408818688",
+      "pubDate": "2026-10-28T05:20:09.523757"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "7408818688",
+      "@url": "https://mikanani.me/Download/20261028/8e36ed374d694ce144be112ddf6be977840701f7.torrent"
+    }
   }
 ]
