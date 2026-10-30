@@ -2668,5 +2668,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="591921152" url="https://mikanani.me/Download/20261030/4fae0f16a36dadc8df91a56f06b4037872d2aabf.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[SweetSub&amp;LoliHouse] 冰之城墙 / Koori no Jouheki - 19 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/dd35fb90a45fa0475ea8fa14e8b279ca28d3a5d5</link>
+			<title>[SweetSub&amp;LoliHouse] 冰之城墙 / Koori no Jouheki - 19 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[SweetSub&amp;LoliHouse] 冰之城墙 / Koori no Jouheki - 19 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][535.54 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/dd35fb90a45fa0475ea8fa14e8b279ca28d3a5d5</link>
+				<contentLength>561554368</contentLength>
+				<pubDate>2026-10-31T00:02:00.808</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="561554368" url="https://mikanani.me/Download/20261031/dd35fb90a45fa0475ea8fa14e8b279ca28d3a5d5.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
