@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-30-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</guid>
-			<link>https://mikanani.me/Home/Episode/cff9125eed2eff21994845f5f5700df219839861</link>
-			<title>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]</title>
-			<description>[LoliHouse] Clevatess II-魔兽之王与虚假的勇者传承- / Clevatess S2 - 13 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END][989MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/cff9125eed2eff21994845f5f5700df219839861</link>
-				<contentLength>1037041664</contentLength>
-				<pubDate>2026-09-30T22:19:00</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="1037041664" url="https://mikanani.me/Download/20260930/cff9125eed2eff21994845f5f5700df219839861.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 盗掘王(韩语版) / 盗墓王 / 我独自盗墓 / Tomb Raider King / Toukutsu Ou - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</guid>
 			<link>https://mikanani.me/Home/Episode/0b35bea4558ef4deb33e6f96c670b2a843d769c5</link>
 			<title>[LoliHouse] 盗掘王(韩语版) / 盗墓王 / 我独自盗墓 / Tomb Raider King / Toukutsu Ou - 12 [WebRip 1080p HEVC-10bit AAC][无字幕][END]</title>
@@ -2679,6 +2667,18 @@
 				<pubDate>2026-10-31T00:02:00.808</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="561554368" url="https://mikanani.me/Download/20261031/dd35fb90a45fa0475ea8fa14e8b279ca28d3a5d5.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 某暗部的少女共栖 / Toaru Anbu no Item - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/2b1cfa08a96e78d0fd3c9253831e3f91a4d4541c</link>
+			<title>[LoliHouse] 某暗部的少女共栖 / Toaru Anbu no Item - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 某暗部的少女共栖 / Toaru Anbu no Item - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][733.8MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/2b1cfa08a96e78d0fd3c9253831e3f91a4d4541c</link>
+				<contentLength>769445056</contentLength>
+				<pubDate>2026-10-31T06:59:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="769445056" url="https://mikanani.me/Download/20261031/2b1cfa08a96e78d0fd3c9253831e3f91a4d4541c.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
