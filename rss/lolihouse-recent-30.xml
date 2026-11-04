@@ -2620,5 +2620,17 @@
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="632291328" url="https://mikanani.me/Download/20261104/53c9c83083f8aa681bd839e910045edc26c6fc59.torrent"></enclosure>
 		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/816c068e2c6b0fff328929ac2d782e987b988b5e</link>
+			<title>[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 魔法少女育成计划 restart / Mahou Shoujo Ikusei Keikaku: restart - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][532.7MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/816c068e2c6b0fff328929ac2d782e987b988b5e</link>
+				<contentLength>558576448</contentLength>
+				<pubDate>2026-11-04T05:51:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="558576448" url="https://mikanani.me/Download/20261104/816c068e2c6b0fff328929ac2d782e987b988b5e.torrent"></enclosure>
+		</item>
 	</channel>
 </rss>
