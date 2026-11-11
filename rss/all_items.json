@@ -1276309,5 +1276309,45 @@
       "@length": "362178144",
       "@url": "https://mikanani.me/Download/20261110/566ef9e97b345f69e6784c159a6ee66ee1840e7a.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[7³ACG] 我的幸福婚约/Watashi no Shiawase na Kekkon S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0"
+    },
+    "link": "https://mikanani.me/Home/Episode/9d3c8bb1c9385e5f27f020b9f9d1df94ca760815",
+    "title": "[7³ACG] 我的幸福婚约/Watashi no Shiawase na Kekkon S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0",
+    "description": "[7³ACG] 我的幸福婚约/Watashi no Shiawase na Kekkon S01 | 01-12+SPx1 [简繁字幕] BDrip 1080p x265 OPUS 2.0[47.0 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/9d3c8bb1c9385e5f27f020b9f9d1df94ca760815",
+      "contentLength": "50465865728",
+      "pubDate": "2026-11-11T07:52:51.256892"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "50465865728",
+      "@url": "https://mikanani.me/Download/20261111/9d3c8bb1c9385e5f27f020b9f9d1df94ca760815.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[黒ネズミたち] mofusand / Mofusand - 45 (ABEMA 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/727089101723406f273342def0e9d0e0a5f3a55b",
+    "title": "[黒ネズミたち] mofusand / Mofusand - 45 (ABEMA 1920x1080 AVC AAC MKV)",
+    "description": "[黒ネズミたち] mofusand / Mofusand - 45 (ABEMA 1920x1080 AVC AAC MKV)[27.79 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/727089101723406f273342def0e9d0e0a5f3a55b",
+      "contentLength": "29139928",
+      "pubDate": "2026-11-11T07:00:33.783"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "29139928",
+      "@url": "https://mikanani.me/Download/20261111/727089101723406f273342def0e9d0e0a5f3a55b.torrent"
+    }
   }
 ]
