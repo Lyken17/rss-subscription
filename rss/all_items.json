@@ -1279329,5 +1279329,65 @@
       "@length": "748578432",
       "@url": "https://mikanani.me/Download/20261112/95e78c67a78e78d9fb412d7a51eb88dd3b25337c.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Anime-FLAC] Princess Principal - Crown Handler Movies (Chapter 1-4) (BD 1080p)"
+    },
+    "link": "https://mikanani.me/Home/Episode/99ac96390cbf422766d532dd3ff83d70b7e56ce0",
+    "title": "[Anime-FLAC] Princess Principal - Crown Handler Movies (Chapter 1-4) (BD 1080p)",
+    "description": "[Anime-FLAC] Princess Principal - Crown Handler Movies (Chapter 1-4) (BD 1080p)[14.7GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/99ac96390cbf422766d532dd3ff83d70b7e56ce0",
+      "contentLength": "15784004608",
+      "pubDate": "2026-11-13T10:02:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "15784004608",
+      "@url": "https://mikanani.me/Download/20261113/99ac96390cbf422766d532dd3ff83d70b7e56ce0.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[Anime-FLAC] Princess Principal - Crown Handler Specials (BD 1080p) (Batch) (Ongoing)"
+    },
+    "link": "https://mikanani.me/Home/Episode/411fdbe2e2e70e96a1e1e2817a96b9db8f4549f3",
+    "title": "[Anime-FLAC] Princess Principal - Crown Handler Specials (BD 1080p) (Batch) (Ongoing)",
+    "description": "[Anime-FLAC] Princess Principal - Crown Handler Specials (BD 1080p) (Batch) (Ongoing)[1.4GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/411fdbe2e2e70e96a1e1e2817a96b9db8f4549f3",
+      "contentLength": "1503238528",
+      "pubDate": "2026-11-13T10:01:00"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "1503238528",
+      "@url": "https://mikanani.me/Download/20261113/411fdbe2e2e70e96a1e1e2817a96b9db8f4549f3.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[沸班亚马制作组] 青之箱 第二季 - 02 [BILIBILI WebRip 8K_4320p H265 Veryslow EAC3][简繁内封字幕]"
+    },
+    "link": "https://mikanani.me/Home/Episode/2295fbd5005f7dae327ae670a4bd3c053a2bc4ab",
+    "title": "[沸班亚马制作组] 青之箱 第二季 - 02 [BILIBILI WebRip 8K_4320p H265 Veryslow EAC3][简繁内封字幕]",
+    "description": "[沸班亚马制作组] 青之箱 第二季 - 02 [BILIBILI WebRip 8K_4320p H265 Veryslow EAC3][简繁内封字幕][9.65 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/2295fbd5005f7dae327ae670a4bd3c053a2bc4ab",
+      "contentLength": "10361608192",
+      "pubDate": "2026-11-13T09:16:00.451"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "10361608192",
+      "@url": "https://mikanani.me/Download/20261113/2295fbd5005f7dae327ae670a4bd3c053a2bc4ab.torrent"
+    }
   }
 ]
