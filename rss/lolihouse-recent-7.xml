@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/d01fe5d8ab8c613166f6d131918e49d921da7725</link>
-			<title>[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
-			<description>[LoliHouse] FX战士久留美 / FX Senshi Kurumi-chan - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][117.06 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/d01fe5d8ab8c613166f6d131918e49d921da7725</link>
-				<contentLength>122746304</contentLength>
-				<pubDate>2026-11-07T14:45:19.217</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="122746304" url="https://mikanani.me/Download/20261107/d01fe5d8ab8c613166f6d131918e49d921da7725.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] 转生后的大圣女，极力隐瞒圣女的身份 / 转生了的大圣女，拼死隐瞒自己身为圣女的身份 / Daiseijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/a9df9767876ccab2b3ca9f71a93c50a95ae56b21</link>
 			<title>[LoliHouse] 转生后的大圣女，极力隐瞒圣女的身份 / 转生了的大圣女，拼死隐瞒自己身为圣女的身份 / Daiseijo - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -651,6 +639,18 @@
 				<pubDate>2026-11-14T08:31:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="480247808" url="https://mikanani.me/Download/20261114/30134bcab5e22f3860d92bf493672bdd121fa5a6.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[LoliHouse] 朱色假面 / Shuiro no Kamen - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/fbbb53ece221e509c653a63be734ed1e73c63fa3</link>
+			<title>[LoliHouse] 朱色假面 / Shuiro no Kamen - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
+			<description>[LoliHouse] 朱色假面 / Shuiro no Kamen - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][465.1MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/fbbb53ece221e509c653a63be734ed1e73c63fa3</link>
+				<contentLength>487692704</contentLength>
+				<pubDate>2026-11-14T21:36:00</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="487692704" url="https://mikanani.me/Download/20261114/fbbb53ece221e509c653a63be734ed1e73c63fa3.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
