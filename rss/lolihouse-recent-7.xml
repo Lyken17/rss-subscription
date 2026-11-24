@@ -5,18 +5,6 @@
 		<link>http://mikanani.me/RSS/Classic</link>
 		<description>lolihouse-recent-7-days</description>
 		<item>
-			<guid isPermaLink="false">[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 31 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
-			<link>https://mikanani.me/Home/Episode/674d7851a07845b71023dfe03b73298ee4367bbe</link>
-			<title>[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 31 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
-			<description>[喵萌奶茶屋&amp;LoliHouse] 乱马 1/2 2024年版 / Ranma ½ / Ranma 1/2 (2024) - 31 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][578.56 MB]</description>
-			<torrent xmlns="https://mikanani.me/0.1/">
-				<link>https://mikanani.me/Home/Episode/674d7851a07845b71023dfe03b73298ee4367bbe</link>
-				<contentLength>606664128</contentLength>
-				<pubDate>2026-11-17T07:07:46.562</pubDate>
-			</torrent>
-			<enclosure type="application/x-bittorrent" length="606664128" url="https://mikanani.me/Download/20261117/674d7851a07845b71023dfe03b73298ee4367bbe.torrent"></enclosure>
-		</item>
-		<item>
 			<guid isPermaLink="false">[LoliHouse] PSYREN -决战游戏- / PSYЯEN - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</guid>
 			<link>https://mikanani.me/Home/Episode/8eea0e4031dc0bc151c1a2e0eeed14f034af5ae3</link>
 			<title>[LoliHouse] PSYREN -决战游戏- / PSYЯEN - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]</title>
@@ -627,6 +615,18 @@
 				<pubDate>2026-11-23T21:00:00</pubDate>
 			</torrent>
 			<enclosure type="application/x-bittorrent" length="333656896" url="https://mikanani.me/Download/20261123/28229917762c9776a283192a4e03a5dfaddaf793.torrent"></enclosure>
+		</item>
+		<item>
+			<guid isPermaLink="false">[悠哈璃羽字幕社&amp;LoliHouse] JOJO的奇妙冒险 飙马野郎 / JoJo's Bizarre Adventure Steel Ball Run - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</guid>
+			<link>https://mikanani.me/Home/Episode/1f07b07e401dbcb5712409f138504d60cbb1df49</link>
+			<title>[悠哈璃羽字幕社&amp;LoliHouse] JOJO的奇妙冒险 飙马野郎 / JoJo's Bizarre Adventure Steel Ball Run - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]</title>
+			<description>[悠哈璃羽字幕社&amp;LoliHouse] JOJO的奇妙冒险 飙马野郎 / JoJo's Bizarre Adventure Steel Ball Run - 10 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][471.33 MB]</description>
+			<torrent xmlns="https://mikanani.me/0.1/">
+				<link>https://mikanani.me/Home/Episode/1f07b07e401dbcb5712409f138504d60cbb1df49</link>
+				<contentLength>494225312</contentLength>
+				<pubDate>2026-11-24T13:59:30.08</pubDate>
+			</torrent>
+			<enclosure type="application/x-bittorrent" length="494225312" url="https://mikanani.me/Download/20261124/1f07b07e401dbcb5712409f138504d60cbb1df49.torrent"></enclosure>
 		</item>
 	</channel>
 </rss>
