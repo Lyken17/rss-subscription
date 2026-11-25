@@ -1299469,5 +1299469,65 @@
       "@length": "656198848",
       "@url": "https://mikanani.me/Download/20261124/1d6d9c79f9b89a6d21225d9c6dd635b3831d66f4.torrent"
     }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[黒ネズミたち] DARK MACHINE / Dark Machine: The Animation - 07 (ABEMA 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/070012114120d189066178af1e2f1c4d05d3ba95",
+    "title": "[黒ネズミたち] DARK MACHINE / Dark Machine: The Animation - 07 (ABEMA 1920x1080 AVC AAC MKV)",
+    "description": "[黒ネズミたち] DARK MACHINE / Dark Machine: The Animation - 07 (ABEMA 1920x1080 AVC AAC MKV)[686.1 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/070012114120d189066178af1e2f1c4d05d3ba95",
+      "contentLength": "719427968",
+      "pubDate": "2026-11-25T11:01:02.787165"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "719427968",
+      "@url": "https://mikanani.me/Download/20261125/070012114120d189066178af1e2f1c4d05d3ba95.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[7³ACG] 妄想学生会/Seitokai Yakuindomo S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0"
+    },
+    "link": "https://mikanani.me/Home/Episode/fc08a1bdf30b63474a6a660b984cf9f688575e85",
+    "title": "[7³ACG] 妄想学生会/Seitokai Yakuindomo S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0",
+    "description": "[7³ACG] 妄想学生会/Seitokai Yakuindomo S01 | 01-13 [简繁字幕] BDrip 1080p AV1 OPUS 2.0[5.6 GB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/fc08a1bdf30b63474a6a660b984cf9f688575e85",
+      "contentLength": "6012954112",
+      "pubDate": "2026-11-25T08:44:44.05312"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "6012954112",
+      "@url": "https://mikanani.me/Download/20261125/fc08a1bdf30b63474a6a660b984cf9f688575e85.torrent"
+    }
+  },
+  {
+    "guid": {
+      "@isPermaLink": "false",
+      "#text": "[黒ネズミたち] mofusand / Mofusand - 47 (ABEMA 1920x1080 AVC AAC MKV)"
+    },
+    "link": "https://mikanani.me/Home/Episode/da8aa55e35bc976037a482652d34cd973c84fe5c",
+    "title": "[黒ネズミたち] mofusand / Mofusand - 47 (ABEMA 1920x1080 AVC AAC MKV)",
+    "description": "[黒ネズミたち] mofusand / Mofusand - 47 (ABEMA 1920x1080 AVC AAC MKV)[26.6 MB]",
+    "torrent": {
+      "@xmlns": "https://mikanani.me/0.1/",
+      "link": "https://mikanani.me/Home/Episode/da8aa55e35bc976037a482652d34cd973c84fe5c",
+      "contentLength": "27892122",
+      "pubDate": "2026-11-25T07:00:40.689715"
+    },
+    "enclosure": {
+      "@type": "application/x-bittorrent",
+      "@length": "27892122",
+      "@url": "https://mikanani.me/Download/20261125/da8aa55e35bc976037a482652d34cd973c84fe5c.torrent"
+    }
   }
 ]
